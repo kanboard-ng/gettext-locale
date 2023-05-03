@@ -16,7 +16,8 @@ jobs:
       uses: actions/checkout@v3
 
     - name: get stats from URI
-      run: curl -s -o assets/crowdin-stats.json https://badges.awesome-crowdin.com/stats-14158123-582949.json
+      run: wget -qN https://badges.awesome-crowdin.com/stats-14158123-582949.json -O assets/crowdin-stats.json
+      #run: curl -s -o assets/crowdin-stats.json https://badges.awesome-crowdin.com/stats-14158123-582949.json
 
     - name: commit
       uses: stefanzweifel/git-auto-commit-action@v4
