@@ -1,7 +1,7 @@
 # gettext-locale Repository [![Crowdin](https://badges.crowdin.net/kanboard-ng/localized.svg)](https://crowdin.com/project/kanboard-ng)
 
 ## Kanboard-NG Translations Project is [hostet on Crowdin](https://crowdin.com/project/kanboard-ng)
-[![Crowdin Translation Project](https://raw.githubusercontent.com/kanboard-ng/gettext-locale/main/assests/crowdin-white-rounded%402x.png)](https://crowdin.com/project/kanboard-ng)
+[![Crowdin Translation Project](https://raw.githubusercontent.com/kanboard-ng/gettext-locale/main/assets/crowdin-white-rounded%402x.png)](https://crowdin.com/project/kanboard-ng)
 
 
 
