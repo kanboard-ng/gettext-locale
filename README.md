@@ -1,6 +1,9 @@
 # gettext-locale Repository [![Crowdin](https://badges.crowdin.net/kanboard-ng/localized.svg)](https://crowdin.com/project/kanboard-ng)
 
-## Kanboard-NG Translations Project is hostet on Crowdin [![Crowdin Translation Project](https%3A%2F%2Fraw.githubusercontent.com%2Fkanboard-ng%2Fgettext-locale%2Fmain%2Fassets%2Fcrowdin-white-rounded@2x.png)](https://crowdin.com/project/kanboard-ng)
+## Kanboard-NG Translations Project is [hostet on Crowdin](https://crowdin.com/project/kanboard-ng)
+[![Crowdin Translation Project](https://raw.githubusercontent.com/kanboard-ng/gettext-locale/main/assests/crowdin-white-rounded%402x.png)](https://crowdin.com/project/kanboard-ng)
+
+
 
 # Overview of Translations- and Approvalprogress
 
@@ -46,5 +49,3 @@
 
 
 [1] all IETF Codes from https://www.venea.net/web/culture_code
-
-
