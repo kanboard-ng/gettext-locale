@@ -1,0 +1,15 @@
+on: push
+jobs:
+  wget:
+    runs-on: ubuntu-latest
+    steps:
+    - name: clone repository
+      uses: actions/checkout@v2
+    - name: download
+      uses: iamazy/download-action@main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        url: 'https://badges.awesome-crowdin.com/stats-14158123-582949.json'
+        actor: ${{ github.actor }}
+        repo: ${{ github.repository }}
