@@ -1,4 +1,4 @@
-name: "crowdin translations"
+name: "Update POT Files"
 
 on: workflow_dispatch
 #on: [push, workflow_dispatch]
