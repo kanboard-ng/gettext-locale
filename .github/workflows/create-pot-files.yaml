@@ -1,0 +1,48 @@
+name: "crowdin translations"
+
+on: workflow_dispatch
+#on: [push, workflow_dispatch]
+
+jobs:
+  CreatePOT:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: get gettext
+        run: sudo apt install -y gettext
+
+      - name: checkout kanboard-ng
+        uses: actions/checkout@v3
+        with: 
+          repository: kanboard-ng/kanboard-ng
+          path: kanboard-ng/kanboard-ng
+
+      - name: checkout PluginManager
+        uses: actions/checkout@v3
+        with: 
+          repository: kanboard-ng/PluginManager
+          path: kanboard-ng/PluginManager
+
+      - name: checkout gettext-locale
+        uses: actions/checkout@v3
+        with: 
+          repository: kanboard-ng/gettext-locale
+          path: kanboard-ng/gettext-locale
+
+      - name: fetch translations kanboard-ng
+        run: 
+          find ./kanboard-ng/kanboard-ng/ -type f -name "*.php" | 
+          xargs xgettext -o kanboard-ng/gettext-locale/KanboardNG.pot -L PHP -kt -ke --from-code=UTF-8 --add-comments
+
+
+      - name: fetch translations PluginManager
+        run: 
+          find ./kanboard-ng/PluginManager/ -type f -name "*.php" | 
+          xargs xgettext -o kanboard-ng/gettext-locale/PluginManager.pot -L PHP -kt -ke --from-code=UTF-8 --add-comments
+
+      - name: commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          repository: kanboard-ng/gettext-locale
