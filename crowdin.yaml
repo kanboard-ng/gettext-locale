@@ -4,5 +4,5 @@ preserve_hierarchy: false
 
 files:
   -
-    source: KanboardNG.pot
-    translation: /%locale_with_underscore%/LC_MESSAGES/KanboardNG.po
+    source: /*.pot
+    translation: /%locale_with_underscore%/LC_MESSAGES/%filename%.po
