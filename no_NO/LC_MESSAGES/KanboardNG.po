@@ -1,2868 +1,2868 @@
 
- msgid 'number.decimals_separator'
- msgstr ','
- msgid 'number.thousands_separator'
- msgstr '.'
- msgid 'None'
- msgstr 'Ingen'
- msgid 'Edit'
- msgstr 'Rediger'
- msgid 'Remove'
- msgstr 'Fjern'
- msgid 'Yes'
- msgstr 'Ja'
- msgid 'No'
- msgstr 'Nei'
- msgid 'cancel'
- msgstr 'avbryt'
- msgid 'or'
- msgstr 'eller'
- msgid 'Yellow'
- msgstr 'Gul'
- msgid 'Blue'
- msgstr 'Blå'
- msgid 'Green'
- msgstr 'Grønn'
- msgid 'Purple'
- msgstr 'Lilla'
- msgid 'Red'
- msgstr 'Rød'
- msgid 'Orange'
- msgstr 'Orange'
- msgid 'Grey'
- msgstr 'Grå'
- msgid 'Brown'
- msgstr 'Brun'
- msgid 'Deep Orange'
- msgstr 'Mørk orange'
- msgid 'Dark Grey'
- msgstr 'Mørk grå'
- msgid 'Pink'
- msgstr 'Rosa'
- msgid 'Teal'
- msgstr 'Sjøgrønn'
- msgid 'Cyan'
- msgstr 'Cyan'
- msgid 'Lime'
- msgstr 'Lime'
- msgid 'Light Green'
- msgstr 'Lys grønn'
- msgid 'Amber'
- msgstr 'Ravgul'
- msgid 'Save'
- msgstr 'Lagre'
- msgid 'Login'
- msgstr 'Logg inn'
- msgid 'Official website:'
- msgstr 'Offisielt nettsted:'
- msgid 'Unassigned'
- msgstr 'Ikke tildelt'
- msgid 'View this task'
- msgstr 'Se denne oppgaven'
- msgid 'Remove user'
- msgstr 'Fjern bruker'
- msgid 'Do you really want to remove this user: "%s"?'
- msgstr 'Er du sikker på at du vil fjerne brukeren: "%s"?'
- msgid 'All users'
- msgstr 'Alle brukere'
- msgid 'Username'
- msgstr 'Brukernavn'
- msgid 'Password'
- msgstr 'Passord'
- msgid 'Administrator'
- msgstr 'Administrator'
- msgid 'Sign in'
- msgstr 'Logg inn'
- msgid 'Users'
- msgstr 'Brukere'
- msgid 'Forbidden'
- msgstr 'Ikke tillatt'
- msgid 'Access Forbidden'
- msgstr 'Adgang ikke tillatt'
- msgid 'Edit user'
- msgstr 'Rediger bruker'
- msgid 'Logout'
- msgstr 'Logg ut'
- msgid 'Bad username or password'
- msgstr 'Feil brukernavn eller passord'
- msgid 'Edit project'
- msgstr 'Endre prosjekt'
- msgid 'Name'
- msgstr 'Navn'
- msgid 'Projects'
- msgstr 'Prosjekter'
- msgid 'No project'
- msgstr 'Ingen prosjekter'
- msgid 'Project'
- msgstr 'Prosjekt'
- msgid 'Status'
- msgstr 'Status'
- msgid 'Tasks'
- msgstr 'Oppgaver'
- msgid 'Board'
- msgstr 'Tavle'
- msgid 'Actions'
- msgstr 'Handlinger'
- msgid 'Inactive'
- msgstr 'Inaktiv'
- msgid 'Active'
- msgstr 'Aktiv'
- msgid 'Unable to update this board.'
- msgstr 'Ikke mulig å oppdatere tavlesiden'
- msgid 'Disable'
- msgstr 'Slå av'
- msgid 'Enable'
- msgstr 'Slå på'
- msgid 'New project'
- msgstr 'Nytt prosjekt'
- msgid 'Do you really want to remove this project: "%s"?'
- msgstr 'Er du sikker på at du vil du slette dette prosjektet: "%s"?'
- msgid 'Remove project'
- msgstr 'Slett prosjekt'
- msgid 'Edit the board for "%s"'
- msgstr 'Endre tavlesiden for "%s"'
- msgid 'Add a new column'
- msgstr 'Legg til ny kolonne'
- msgid 'Title'
- msgstr 'Tittel'
- msgid 'Assigned to %s'
- msgstr 'Tildelt: %s'
- msgid 'Remove a column'
- msgstr 'Fjern en kolonne'
- msgid 'Unable to remove this column.'
- msgstr 'Kan ikke fjerne kolonnen'
- msgid 'Do you really want to remove this column: "%s"?'
- msgstr 'Er du sikker på at du vil fjerne denne kolonnen: "%s"?'
- msgid 'Settings'
- msgstr 'Innstillinger'
- msgid 'Application settings'
- msgstr 'Applikasjonsinnstillinger'
- msgid 'Language'
- msgstr 'Språk'
- msgid 'Webhook token:'
- msgstr 'Webhook token:'
- msgid 'API token:'
- msgstr 'API token:'
- msgid 'Database size:'
- msgstr 'Databasestørrelse:'
- msgid 'Download the database'
- msgstr 'Last ned databasen'
- msgid 'Optimize the database'
- msgstr 'Optimaliser databasen'
- msgid '(VACUUM command)'
- msgstr '(VACUUM kommando)'
- msgid '(Gzip compressed Sqlite file)'
- msgstr '(Gzip-komprimert Sqlite fil)'
- msgid 'Close a task'
- msgstr 'Lukk oppgave'
- msgid 'Column'
- msgstr 'Kolonne'
- msgid 'Color'
- msgstr 'Farge'
- msgid 'Assignee'
- msgstr 'Tildelt'
- msgid 'Create another task'
- msgstr 'Opprett en ny oppgave etter denne'
- msgid 'New task'
- msgstr 'Ny oppgave'
- msgid 'Open a task'
- msgstr 'Åpne oppgave'
- msgid 'Do you really want to open this task: "%s"?'
- msgstr 'Er du sikker på at du vil åpne denne oppgaven: "%s"?'
- msgid 'Back to the board'
- msgstr 'Tilbake til tavlesiden'
- msgid 'There is nobody assigned'
- msgstr 'Mangler tildeling'
- msgid 'Column on the board:'
- msgstr 'Kolonne:'
- msgid 'Close this task'
- msgstr 'Lukk oppgave'
- msgid 'Open this task'
- msgstr 'Åpne oppgave'
- msgid 'There is no description.'
- msgstr 'Ingen beskrivelse.'
- msgid 'Add a new task'
- msgstr 'Lag ny oppgave'
- msgid 'The username is required'
- msgstr 'Brukernavn er påkrevd'
- msgid 'The maximum length is %d characters'
- msgstr 'Den maksimale lengden er %d tegn'
- msgid 'The minimum length is %d characters'
- msgstr 'Den minimale lengden er %d tegn'
- msgid 'The password is required'
- msgstr 'Passord påkrevet'
- msgid 'This value must be an integer'
- msgstr 'Verdien må være et heltall'
- msgid 'The username must be unique'
- msgstr 'Brukernavnet må være unikt'
- msgid 'The user id is required'
- msgstr 'Bruker-id påkrevet'
- msgid 'Passwords don\'t match'
- msgstr 'Passordene stemmer ikke overens'
- msgid 'The confirmation is required'
- msgstr 'Bekreftelse påkrevet'
- msgid 'The project is required'
- msgstr 'Prosjekt påkrevet'
- msgid 'The id is required'
- msgstr 'ID påkrevet'
- msgid 'The project id is required'
- msgstr 'Prosjekt-id påkrevet'
- msgid 'The project name is required'
- msgstr 'Prosjektnavn påkrevet'
- msgid 'The title is required'
- msgstr 'Tittel påkrevet'
- msgid 'Settings saved successfully.'
- msgstr 'Innstillinger lagret.'
- msgid 'Unable to save your settings.'
- msgstr 'Feil ved lagring av innstillinger.'
- msgid 'Database optimization done.'
- msgstr 'Databaseoptimalisering er fullført.'
- msgid 'Your project has been created successfully.'
- msgstr 'Prosjektet er opprettet.'
- msgid 'Unable to create your project.'
- msgstr 'Prosjektet kunne ikke opprettes'
- msgid 'Project updated successfully.'
- msgstr 'Prosjektet er oppdatert.'
- msgid 'Unable to update this project.'
- msgstr 'Prosjektet kunne ikke oppdateres.'
- msgid 'Unable to remove this project.'
- msgstr 'Prosjektet kunne ikke slettes.'
- msgid 'Project removed successfully.'
- msgstr 'Prosjektet er slettet.'
- msgid 'Project activated successfully.'
- msgstr 'Prosjektet er aktivert.'
- msgid 'Unable to activate this project.'
- msgstr 'Prosjektet kunne ikke aktiveres.'
- msgid 'Project disabled successfully.'
- msgstr 'Prosjektet er deaktiveret.'
- msgid 'Unable to disable this project.'
- msgstr 'Prosjektet kunne ikke deaktiveres.'
- msgid 'Unable to open this task.'
- msgstr 'Oppgaven kunne ikke åpnes.'
- msgid 'Task opened successfully.'
- msgstr 'Oppgaven er åpnet.'
- msgid 'Unable to close this task.'
- msgstr 'Oppgaven kunne ikke åpnes.'
- msgid 'Task closed successfully.'
- msgstr 'Oppgaven er lukket.'
- msgid 'Unable to update your task.'
- msgstr 'Oppgaven kunne ikke oppdateres.'
- msgid 'Task updated successfully.'
- msgstr 'Oppgaven er oppdatert.'
- msgid 'Unable to create your task.'
- msgstr 'Oppgave kunne ikke opprettes.'
- msgid 'Task created successfully.'
- msgstr 'Oppgaven er opprettet.'
- msgid 'User created successfully.'
- msgstr 'Brukeren er opprettet.'
- msgid 'Unable to create your user.'
- msgstr 'Brukeren kunne ikke opprettes.'
- msgid 'User updated successfully.'
- msgstr 'Brukeren er oppdatert'
- msgid 'User removed successfully.'
- msgstr 'Brukeren er fjernet.'
- msgid 'Unable to remove this user.'
- msgstr 'Brukeren kunne ikke slettes.'
- msgid 'Board updated successfully.'
- msgstr 'Hovedsiden er oppdatert.'
- msgid 'Ready'
- msgstr 'Klar'
- msgid 'Backlog'
- msgstr 'Backlog'
- msgid 'Work in progress'
- msgstr 'Under arbeid'
- msgid 'Done'
- msgstr 'Utført'
- msgid 'Application version:'
- msgstr 'Versjon:'
- msgid 'Id'
- msgstr 'ID'
- msgid 'Public link'
- msgstr 'Offentligt lenke'
- msgid 'Timezone'
- msgstr 'Tidssone'
- msgid 'Sorry, I didn\'t find this information in my database!'
- msgstr 'Denne informasjonen kunne ikke finnes i databasen!'
- msgid 'Page not found'
- msgstr 'Siden er ikke funnet'
- msgid 'Complexity'
- msgstr 'Kompleksitet'
- msgid 'Task limit'
- msgstr 'Oppgavebegrensning'
- msgid 'Task count'
- msgstr 'Antall oppgaver'
- msgid 'User'
- msgstr 'Bruker'
- msgid 'Comments'
- msgstr 'Kommentarer'
- msgid 'Comment is required'
- msgstr 'Kommentar må legges inn'
- msgid 'Comment added successfully.'
- msgstr 'Kommentaren er lagt til.'
- msgid 'Unable to create your comment.'
- msgstr 'Din kommentar kunne ikke opprettes.'
- msgid 'Due Date'
- msgstr 'Frist'
- msgid 'Invalid date'
- msgstr 'Ugyldig dato'
- msgid 'Automatic actions'
- msgstr 'Automatiske handlinger'
- msgid 'Your automatic action has been created successfully.'
- msgstr 'Din automatiske handling er opprettet.'
- msgid 'Unable to create your automatic action.'
- msgstr 'Din automatiske handling kunne ikke opprettes.'
- msgid 'Remove an action'
- msgstr 'Fjern en handling'
- msgid 'Unable to remove this action.'
- msgstr 'Handlingen kunne ikke fjernes.'
- msgid 'Action removed successfully.'
- msgstr 'Handlingen er fjernet.'
- msgid 'Automatic actions for the project "%s"'
- msgstr 'Automatiske handlinger for prosjektet "%s"'
- msgid 'Add an action'
- msgstr 'Legg til en handling'
- msgid 'Event name'
- msgstr 'Hendelsehet'
- msgid 'Action'
- msgstr 'Handling'
- msgid 'Event'
- msgstr 'Hendelse'
- msgid 'When the selected event occurs execute the corresponding action.'
- msgstr 'Når den valgte hendelsen oppstår, utfør tilsvarende handling.'
- msgid 'Next step'
- msgstr 'Neste'
- msgid 'Define action parameters'
- msgstr 'Definer handlingsparametre'
- msgid 'Do you really want to remove this action: "%s"?'
- msgstr 'Vil du slette denne handlingen: "%s"?'
- msgid 'Remove an automatic action'
- msgstr 'Fjern en automatisk handling'
- msgid 'Assign the task to a specific user'
- msgstr 'Tildel oppgaven til en bestemt bruker'
- msgid 'Assign the task to the person who does the action'
- msgstr 'Tildel oppgaven til den person, som utfører  handlingen'
- msgid 'Duplicate the task to another project'
- msgstr 'Kopier oppgaven til et annet prosjekt'
- msgid 'Move a task to another column'
- msgstr 'Flytt oppgaven til en annen kolonne'
- msgid 'Task modification'
- msgstr 'Oppgaveendring'
- msgid 'Task creation'
- msgstr 'Oppgaveoprettelse'
- msgid 'Closing a task'
- msgstr 'Lukke en oppgave'
- msgid 'Assign a color to a specific user'
- msgstr 'Tildel en farge til en bestemt bruker'
- msgid 'Position'
- msgstr 'Posisjon'
- msgid 'Duplicate to project'
- msgstr 'Kopier til et annet prosjekt'
- msgid 'Duplicate'
- msgstr 'Kopier'
- msgid 'Link'
- msgstr 'Link'
- msgid 'Comment updated successfully.'
- msgstr 'Kommentar oppdatert.'
- msgid 'Unable to update your comment.'
- msgstr 'Din kommentar kunne ikke oppdateres.'
- msgid 'Remove a comment'
- msgstr 'Fjern en kommentar'
- msgid 'Comment removed successfully.'
- msgstr 'Kommentaren ble fjernet.'
- msgid 'Unable to remove this comment.'
- msgstr 'Kommentaren kunne ikke fjernes.'
- msgid 'Do you really want to remove this comment?'
- msgstr 'Vil du fjerne denne kommentaren?'
- msgid 'Current password for the user "%s"'
- msgstr 'Aktivt passord for brukeren "%s"'
- msgid 'The current password is required'
- msgstr 'Passord er påkrevet'
- msgid 'Wrong password'
- msgstr 'Feil passord'
- msgid 'Unknown'
- msgstr 'Ukjent'
- msgid 'Last logins'
- msgstr 'Siste innlogging'
- msgid 'Login date'
- msgstr 'Login dato'
- msgid 'Authentication method'
- msgstr 'Godkjenningsmetode'
- msgid 'IP address'
- msgstr 'IP Adresse'
- msgid 'User agent'
- msgstr 'User Agent'
- msgid 'Persistent connections'
- msgstr 'Nettforbindelser'
- msgid 'No session.'
- msgstr 'Ingen sesjoner.'
- msgid 'Expiration date'
- msgstr 'Utløpsdato'
- msgid 'Remember Me'
- msgstr 'Husk meg'
- msgid 'Creation date'
- msgstr 'Opprettelsesdato'
- msgid 'Everybody'
- msgstr 'Alle'
- msgid 'Open'
- msgstr 'Åpen'
- msgid 'Closed'
- msgstr 'Lukket'
- msgid 'Search'
- msgstr 'Søk'
- msgid 'Nothing found.'
- msgstr 'Intet funnet.'
- msgid 'Due date'
- msgstr 'Tidsfrist'
- msgid 'Description'
- msgstr 'Beskrivelse'
- msgid '%d comments'
- msgstr '%d kommentarer'
- msgid '%d comment'
- msgstr '%d kommentar'
- msgid 'Email address invalid'
- msgstr 'Ugyldig epost'
- msgid 'Your external account is not linked anymore to your profile.'
- msgstr 'Din eksterne konto er ikke lenger lenket til profilen din'
- msgid 'Unable to unlink your external account.'
- msgstr 'Kan ikke fjerne lenken til din eksterne konto'
- msgid 'External authentication failed'
- msgstr 'Ekstern autentisering feilet'
- msgid 'Your external account is linked to your profile successfully.'
- msgstr 'Den eksterne konto er lenket til profilen din'
- msgid 'Email'
- msgstr 'E-post'
- msgid 'Task removed successfully.'
- msgstr 'Oppgaven er fjernet.'
- msgid 'Unable to remove this task.'
- msgstr 'Oppgaven kunne ikke fjernes.'
- msgid 'Remove a task'
- msgstr 'Fjern en oppgave'
- msgid 'Do you really want to remove this task: "%s"?'
- msgstr 'Vil du fjerne denne oppgaven: "%s"?'
- msgid 'Assign automatically a color based on a category'
- msgstr 'Tildel automatisk en farge baseret for en kategori'
- msgid 'Assign automatically a category based on a color'
- msgstr 'Tildel automatisk en kategori basert på en farve'
- msgid 'Task creation or modification'
- msgstr 'Oppgaveopprettelse eller endring'
- msgid 'Category'
- msgstr 'Kategori'
- msgid 'Category:'
- msgstr 'Kategori:'
- msgid 'Categories'
- msgstr 'Kategorier'
- msgid 'Your category has been created successfully.'
- msgstr 'Kategorien er opprettet.'
- msgid 'This category has been updated successfully.'
- msgstr 'Kategorien er oppdatert.'
- msgid 'Unable to update this category.'
- msgstr 'Kategorien kunne ikke oppdateres.'
- msgid 'Remove a category'
- msgstr 'Fjern en kategori'
- msgid 'Category removed successfully.'
- msgstr 'Kategorien er fjernet.'
- msgid 'Unable to remove this category.'
- msgstr 'Kategorien kunne ikke fjernes.'
- msgid 'Category modification for the project "%s"'
- msgstr 'Endring av kategori for prosjektet "%s"'
- msgid 'Category Name'
- msgstr 'Kategorinavn'
- msgid 'Add a new category'
- msgstr 'Legg til  ny kategori'
- msgid 'Do you really want to remove this category: "%s"?'
- msgstr 'Vil du fjerne kategorien: "%s"?'
- msgid 'All categories'
- msgstr 'Alle kategorier'
- msgid 'No category'
- msgstr 'Ingen kategori'
- msgid 'The name is required'
- msgstr 'Navnet er påkrevet'
- msgid 'Remove a file'
- msgstr 'Fjern en fil'
- msgid 'Unable to remove this file.'
- msgstr 'Filen kunne ikke fjernes.'
- msgid 'File removed successfully.'
- msgstr 'Filen er fjernet.'
- msgid 'Attach a document'
- msgstr 'Legg til  et dokument'
- msgid 'Do you really want to remove this file: "%s"?'
- msgstr 'Vil du fjerne filen: "%s"?'
- msgid 'Attachments'
- msgstr 'Vedlegg'
- msgid 'Edit the task'
- msgstr 'Rediger oppgaven'
- msgid 'Add a comment'
- msgstr 'Legg til en kommentar'
- msgid 'Edit a comment'
- msgstr 'Rediger en kommentar'
- msgid 'Summary'
- msgstr 'Sammendrag'
- msgid 'Time tracking'
- msgstr 'Tidsregistrering'
- msgid 'Estimate:'
- msgstr 'Estimat:'
- msgid 'Spent:'
- msgstr 'Brukt:'
- msgid 'Do you really want to remove this sub-task?'
- msgstr 'Vil du fjerne denne deloppgaven?'
- msgid 'Remaining:'
- msgstr 'Gjenværende:'
- msgid 'hours'
- msgstr 'timer'
- msgid 'estimated'
- msgstr 'estimat'
- msgid 'Sub-Tasks'
- msgstr 'Deloppgave'
- msgid 'Add a sub-task'
- msgstr 'Legg til en deloppgave'
- msgid 'Original estimate'
- msgstr 'Estimert tidsbruk'
- msgid 'Create another sub-task'
- msgstr 'Legg til en ny deloppgave'
- msgid 'Time spent'
- msgstr 'Tidsforbruk'
- msgid 'Edit a sub-task'
- msgstr 'Rediger en deloppgave'
- msgid 'Remove a sub-task'
- msgstr 'Fjern en deloppgave'
- msgid 'The time must be a numeric value'
- msgstr 'Tiden skal være en nummerisk erdi'
- msgid 'Todo'
- msgstr 'Gjøremål'
- msgid 'In progress'
- msgstr 'Under arbeid'
- msgid 'Sub-task removed successfully.'
- msgstr 'Deloppgaven er fjernet.'
- msgid 'Unable to remove this sub-task.'
- msgstr 'Deloppgaven kunne ikke fjernes.'
- msgid 'Sub-task updated successfully.'
- msgstr 'Deloppgaven er opdateret.'
- msgid 'Unable to update your sub-task.'
- msgstr 'Deloppgaven kunne ikke opdateres.'
- msgid 'Unable to create your sub-task.'
- msgstr 'Deloppgaven kunne ikke oprettes.'
- msgid 'Maximum size: '
- msgstr 'Maksimum størrelse: '
- msgid 'Display another project'
- msgstr 'Vis annet prosjekt...'
- msgid 'Created by %s'
- msgstr 'Opprettet av %s'
- msgid 'Tasks Export'
- msgstr 'Oppgave eksport'
- msgid 'Start Date'
- msgstr 'Startdato'
- msgid 'Execute'
- msgstr 'KKjør'
- msgid 'Task Id'
- msgstr 'Oppgave ID'
- msgid 'Creator'
- msgstr 'Laget av'
- msgid 'Modification date'
- msgstr 'Endringsdato'
- msgid 'Completion date'
- msgstr 'Ferdigstillingsdato'
- msgid 'Clone'
- msgstr 'Kopier'
- msgid 'Project cloned successfully.'
- msgstr 'Prosjektet er kopiert.'
- msgid 'Unable to clone this project.'
- msgstr 'Prosjektet kunne ikke kopieres'
- msgid 'Enable email notifications'
- msgstr 'Aktiver epostvarslinger'
- msgid 'Task position:'
- msgstr 'Posisjon:'
- msgid 'The task #%d has been opened.'
- msgstr 'Oppgaven #%d er åpnet.'
- msgid 'The task #%d has been closed.'
- msgstr 'Oppgaven #%d er lukket.'
- msgid 'Sub-task updated'
- msgstr 'Deloppgaven er oppdatert'
- msgid 'Title:'
- msgstr 'Tittel:'
- msgid 'Status:'
- msgstr 'Status:'
- msgid 'Assignee:'
- msgstr 'Ansvarlig:'
- msgid 'Time tracking:'
- msgstr 'Tidsmåling:'
- msgid 'New sub-task'
- msgstr 'Ny deloppgave'
- msgid 'New attachment added "%s"'
- msgstr 'Nytt vedlegg er lagt tilet "%s"'
- msgid 'New comment posted by %s'
- msgstr 'Ny kommentar fra %s'
- msgid 'New comment'
- msgstr 'Ny kommentar'
- msgid 'Comment updated'
- msgstr 'Kommentar oppdatert'
- msgid 'New subtask'
- msgstr 'Ny deloppgave'
- msgid 'I only want to receive notifications for these projects:'
- msgstr 'Jeg vil kun ha varslinger for disse prosjekter:'
- msgid 'view the task on Kanboard'
- msgstr 'se oppgaven'
- msgid 'Public access'
- msgstr 'Offentlig tilgang'
- msgid 'Disable public access'
- msgstr 'Deaktiver offentlig tilgang'
- msgid 'Enable public access'
- msgstr 'Aktiver offentlig tilgang'
- msgid 'Public access disabled'
- msgstr 'Offentlig tilgang er deaktivert'
- msgid 'Move the task to another project'
- msgstr 'Flytt oppgaven til et annet prosjekt'
- msgid 'Move to project'
- msgstr 'Flytt til et annet prosjekt'
- msgid 'Do you really want to duplicate this task?'
- msgstr 'Vil du kopiere denne oppgaven?'
- msgid 'Duplicate a task'
- msgstr 'Kopier en oppgave'
- msgid 'External accounts'
- msgstr 'Eksterne kontoer'
- msgid 'Account type'
- msgstr 'Kontotype'
- msgid 'Local'
- msgstr 'Lokal'
- msgid 'Remote'
- msgstr 'Fjernstyrt'
- msgid 'Enabled'
- msgstr 'Aktiv'
- msgid 'Disabled'
- msgstr 'Deaktivert'
- msgid 'Login:'
- msgstr 'Brukernavn'
- msgid 'Full Name:'
- msgstr 'Navn:'
- msgid 'Email:'
- msgstr 'Epost:'
- msgid 'Notifications:'
- msgstr 'Varslinger:'
- msgid 'Notifications'
- msgstr 'Varslinger'
- msgid 'Account type:'
- msgstr 'Konto type:'
- msgid 'Edit profile'
- msgstr 'Rediger profil'
- msgid 'Change password'
- msgstr 'Endre passord'
- msgid 'Password modification'
- msgstr 'Passordendring'
- msgid 'External authentications'
- msgstr 'Ekstern godkjenning'
- msgid 'Never connected.'
- msgstr 'Aldri innlogget.'
- msgid 'No external authentication enabled.'
- msgstr 'Ingen eksterne godkjenninger aktiveret.'
- msgid 'Password modified successfully.'
- msgstr 'Passord er endret.'
- msgid 'Unable to change the password.'
- msgstr 'Passordet kuenne ikke endres.'
- msgid 'Change category'
- msgstr 'Endre kategori'
- msgid '%s updated the task %s'
- msgstr '%s oppdaterte oppgaven %s'
- msgid '%s opened the task %s'
- msgstr '%s åpnet oppgaven %s'
- msgid '%s moved the task %s to the position #%d in the column "%s"'
- msgstr '%s flyttet oppgaven %s til posisjon #%d i kolonne "%s"'
- msgid '%s moved the task %s to the column "%s"'
- msgstr '%s flyttet oppgaven %s til kolonnen "%s"'
- msgid '%s created the task %s'
- msgstr '%s opprettet oppgaven %s'
- msgid '%s closed the task %s'
- msgstr '%s lukket oppgaven %s'
- msgid '%s created a subtask for the task %s'
- msgstr '%s opprettet en deloppgave for oppgaven %s'
- msgid '%s updated a subtask for the task %s'
- msgstr '%s oppdaterte en deloppgave for oppgaven %s'
- msgid 'Assigned to %s with an estimate of %s/%sh'
- msgstr 'Tildelt til %s med et estimat på %s/%sh'
- msgid 'Not assigned, estimate of %sh'
- msgstr 'Ikke tildelt, estimert til %sh'
- msgid '%s updated a comment on the task %s'
- msgstr '%s oppdaterte en kommentar til oppgaven %s'
- msgid '%s commented the task %s'
- msgstr '%s har kommentert oppgaven %s'
- msgid '%s\'s activity'
- msgstr 'Aktiviteter: %s'
- msgid 'RSS feed'
- msgstr 'RSS feed'
- msgid '%s updated a comment on the task #%d'
- msgstr '%s oppdaterte en kommentar til oppgaven #%d'
- msgid '%s commented on the task #%d'
- msgstr '%s kommenterte oppgaven #%d'
- msgid '%s updated a subtask for the task #%d'
- msgstr '%s oppdaterte en deloppgave til oppgaven #%d'
- msgid '%s created a subtask for the task #%d'
- msgstr '%s opprettet en deloppgave til oppgaven #%d'
- msgid '%s updated the task #%d'
- msgstr '%s oppdaterte oppgaven #%d'
- msgid '%s created the task #%d'
- msgstr '%s opprettet oppgaven #%d'
- msgid '%s closed the task #%d'
- msgstr '%s lukket oppgaven #%d'
- msgid '%s opened the task #%d'
- msgstr '%s åpnet oppgaven #%d'
- msgid 'Activity'
- msgstr 'Aktivitetslogg'
- msgid 'Default values are "%s"'
- msgstr 'Standardverdier  er "%s"'
- msgid 'Default columns for new projects (Comma-separated)'
- msgstr 'Standard kolonne for nye prosjekter (kommaseparert)'
- msgid 'Task assignee change'
- msgstr 'Endring av oppgaveansvarlig'
- msgid '%s changed the assignee of the task #%d to %s'
- msgstr '%s endre ansvarlig for oppgaven #%d til %s'
- msgid '%s changed the assignee of the task %s to %s'
- msgstr '%s endret ansvarlig for oppgaven %s til %s'
- msgid 'New password for the user "%s"'
- msgstr 'Nytt passord for brukeren "%s"'
- msgid 'Choose an event'
- msgstr 'Velg en hendelse'
- msgid 'Create a task from an external provider'
- msgstr 'Oppret en oppgave fra en ekstern tilbyder'
- msgid 'Change the assignee based on an external username'
- msgstr 'Endre ansvarlige baseret på et eksternt brukernavn'
- msgid 'Change the category based on an external label'
- msgstr 'Endre kategorien basert på en ekstern etikett'
- msgid 'Reference'
- msgstr 'Referanse'
- msgid 'Label'
- msgstr 'Etikett'
- msgid 'Database'
- msgstr 'Database'
- msgid 'About'
- msgstr 'Om'
- msgid 'Database driver:'
- msgstr 'Databasedriver:'
- msgid 'Board settings'
- msgstr 'Tavlesiden'
- msgid 'Webhook settings'
- msgstr 'Webhook innstillinger'
- msgid 'Reset token'
- msgstr 'Resette token'
- msgid 'API endpoint:'
- msgstr 'API endpoint:'
- msgid 'Refresh interval for personal board'
- msgstr 'Oppdateringsintervall for privat tavleside'
- msgid 'Refresh interval for public board'
- msgstr 'Oppdateringsintervall for offentlig tavleside'
- msgid 'Task highlight period'
- msgstr 'Periode for fremheving av oppgaver'
- msgid 'Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)'
- msgstr 'Periode for å fastslå en oppgave nylig er endret (0 for å deaktivere, 2 dager er standard)'
- msgid 'Frequency in second (60 seconds by default)'
- msgstr 'Frekevens i sekunder (60 sekunder som standard)'
- msgid 'Frequency in second (0 to disable this feature, 10 seconds by default)'
- msgstr 'Frekvens i sekunder (0 for å deaktivere denne funksjonen, 10 sekunder er standard)'
- msgid 'Application URL'
- msgstr 'Applikasjon-URL'
- msgid 'Token regenerated.'
- msgstr 'Token regenerert.'
- msgid 'Date format'
- msgstr 'Datoformat'
- msgid 'ISO format is always accepted, example: "%s" and "%s"'
- msgstr 'ISO format, eksempel: "%s" og "%s"'
- msgid 'New personal project'
- msgstr 'Nytt privat prosjekt'
- msgid 'This project is personal'
- msgstr 'Dette projektet er privat'
- msgid 'Add'
- msgstr 'Legg til'
- msgid 'Start date'
- msgstr 'Startdato'
- msgid 'Time estimated'
- msgstr 'Tid estimert'
- msgid 'There is nothing assigned to you.'
- msgstr 'Ingen elementer er tildelt deg.'
- msgid 'My tasks'
- msgstr 'Mine oppgaver'
- msgid 'Activity stream'
- msgstr 'Aktivitetslogg'
- msgid 'Dashboard'
- msgstr 'Hovedsiden'
- msgid 'Confirmation'
- msgstr 'Bekreftelse'
- msgid 'Webhooks'
- msgstr 'Webhooks'
- msgid 'API'
- msgstr 'API'
- msgid 'Create a comment from an external provider'
- msgstr 'Opprett en kommentar fra en ekstern tilbyder'
- msgid 'Project management'
- msgstr 'Prosjektinnstillinger'
- msgid 'Columns'
- msgstr 'Kolonner'
- msgid 'Task'
- msgstr 'Oppgave'
- msgid 'Percentage'
- msgstr 'Prosent'
- msgid 'Number of tasks'
- msgstr 'Antall oppgaver'
- msgid 'Task distribution'
- msgstr 'Kolonnefordeling'
- msgid 'Analytics'
- msgstr 'Analyser'
- msgid 'Subtask'
- msgstr 'Deloppgave'
- msgid 'User repartition'
- msgstr 'Brukerfordeling'
- msgid 'Clone this project'
- msgstr 'Kopier dette prosjektet'
- msgid 'Column removed successfully.'
- msgstr 'Kolonne flyttet'
- msgid 'Not enough data to show the graph.'
- msgstr 'Ikke nok data til å vise grafen'
- msgid 'Previous'
- msgstr 'Forrige'
- msgid 'The id must be an integer'
- msgstr 'ID må være heltall'
- msgid 'The project id must be an integer'
- msgstr 'ProsjektID må være et heltall'
- msgid 'The status must be an integer'
- msgstr 'Status må være et heltall'
- msgid 'The subtask id is required'
- msgstr 'Du må angi ID for deloppgaven'
- msgid 'The subtask id must be an integer'
- msgstr 'ID for deloppgaven må være et heltall'
- msgid 'The task id is required'
- msgstr 'OppgaveID er påkrevet'
- msgid 'The task id must be an integer'
- msgstr 'OppgaveID må være et heltall'
- msgid 'The user id must be an integer'
- msgstr 'BrukerID må være et heltall'
- msgid 'This value is required'
- msgstr 'Denne verdien er påkrevet'
- msgid 'This value must be numeric'
- msgstr 'Verdien må være numerisk'
- msgid 'Unable to create this task.'
- msgstr 'Kunne ikke opprette oppgaven'
- msgid 'Cumulative flow diagram'
- msgstr 'Kumulativt flytdiagram'
- msgid 'Daily project summary'
- msgstr 'Daglig prosjektsammendrag'
- msgid 'Daily project summary export'
- msgstr 'Daglig prosjektsammendrag'
- msgid 'Exports'
- msgstr 'Eksporter'
- msgid 'This export contains the number of tasks per column grouped per day.'
- msgstr 'Denne eksporten inneholde antall oppgaver pr. kolonne gruppert pr. dag'
- msgid 'Active swimlanes'
- msgstr 'Aktive svømmebaner'
- msgid 'Add a new swimlane'
- msgstr 'Legg til en ny svømmebane'
- msgid 'Default swimlane'
- msgstr 'Standard svømmebane'
- msgid 'Do you really want to remove this swimlane: "%s"?'
- msgstr 'Er du sikker på at du vil fjerne svømmebane: "%s"?'
- msgid 'Inactive swimlanes'
- msgstr 'Deaktiverte svømmebaner'
- msgid 'Remove a swimlane'
- msgstr 'Fjern en svømmebane'
- msgid 'Swimlane modification for the project "%s"'
- msgstr 'Svømmebane endrei i prosjektet "%s"'
- msgid 'Swimlane removed successfully.'
- msgstr 'Svømmebane fjernet'
- msgid 'Swimlanes'
- msgstr 'Svømmebaner'
- msgid 'Swimlane updated successfully.'
- msgstr 'Svømmebane oppdatert'
- msgid 'Unable to remove this swimlane.'
- msgstr 'Kunne ikke fjerne svømmebanen'
- msgid 'Unable to update this swimlane.'
- msgstr 'Kunne ikke endre svømmebanen'
- msgid 'Your swimlane has been created successfully.'
- msgstr 'Svømmebanen er opprettet!'
- msgid 'Example: "Bug, Feature Request, Improvement"'
- msgstr 'Eksempel: Avvik, forbedringsforslag, ny funksjonalitet'
- msgid 'Default categories for new projects (Comma-separated)'
- msgstr 'Standardkategorier for nye prosjekter (kommaseparert)'
- msgid 'Integrations'
- msgstr 'Integrasjoner'
- msgid 'Integration with third-party services'
- msgstr 'Integrasjoner med tredjeparts-tjenester'
- msgid 'Subtask Id'
- msgstr 'Deloppgave ID'
- msgid 'Subtasks'
- msgstr 'Deloppgaver'
- msgid 'Subtasks Export'
- msgstr 'Eksporter deloppgaver'
- msgid 'Task Title'
- msgstr 'Oppgavetittel'
- msgid 'Untitled'
- msgstr 'Uten navn'
- msgid 'Application default'
- msgstr 'Standardinstilling'
- msgid 'Language:'
- msgstr 'Språk'
- msgid 'Timezone:'
- msgstr 'Tidssone'
- msgid 'All columns'
- msgstr 'Alle kolonner'
- msgid 'Next'
- msgstr 'Neste'
- msgid '#%d'
- msgstr '#%d'
- msgid 'All swimlanes'
- msgstr 'Alle svømmebaner'
- msgid 'All colors'
- msgstr 'Alle farger'
- msgid 'Moved to column %s'
- msgstr 'Flyttet til kolonne %s'
- msgid 'User dashboard'
- msgstr 'Brukerens hovedside'
- msgid 'Allow only one subtask in progress at the same time for a user'
- msgstr 'Tillat kun en aktiv deloppgave for brukerne'
- msgid 'Edit column "%s"'
- msgstr 'Endre kolonne "%s"'
- msgid 'Select the new status of the subtask: "%s"'
- msgstr 'Sett ny status for deloppgave: "%s"'
- msgid 'Subtask timesheet'
- msgstr 'Tidsskjema for deloppgaver'
- msgid 'There is nothing to show.'
- msgstr 'Ingen data å vise'
- msgid 'Time Tracking'
- msgstr 'Tidsregistrering'
- msgid 'You already have one subtask in progress'
- msgstr 'Du har allerede en aktiv deloppgave i dette prosjektet'
- msgid 'Which parts of the project do you want to duplicate?'
- msgstr 'Hvilke deler av dette prosjektet ønsker du å kopiere?'
- msgid 'Disallow login form'
- msgstr 'Deaktiver innloggingsbilde'
- msgid 'Start'
- msgstr 'Start'
- msgid 'End'
- msgstr 'Slutt'
- msgid 'Task age in days'
- msgstr 'Antall dager siden siden oppgaven ble opprettet'
- msgid 'Days in this column'
- msgstr 'Antall dager siden oppgaven ble lagt i denne kolonnen'
- msgid '%dd'
- msgstr '%dd'
- msgid 'Add a new link'
- msgstr 'Legg til en ny relasjon'
- msgid 'Do you really want to remove this link: "%s"?'
- msgstr 'Ønsker du virkelig å fjerne lenken: "%s"'
- msgid 'Do you really want to remove this link with task #%d?'
- msgstr 'Ønsker du virkelig å fjerne lenken oppgaven #%d?'
- msgid 'Field required'
- msgstr 'Feltet må fylles ut'
- msgid 'Link added successfully.'
- msgstr 'Ny relasjon er lagt til'
- msgid 'Link updated successfully.'
- msgstr 'Relasjon er oppdatert'
- msgid 'Link removed successfully.'
- msgstr 'Relasjon er fjernet'
- msgid 'Link labels'
- msgstr 'Relasjoner'
- msgid 'Link modification'
- msgstr 'Relasjonsmodifisering'
- msgid 'Opposite label'
- msgstr 'Etikett for relatert motsatt oppgave'
- msgid 'Remove a link'
- msgstr 'Fjern relasjon'
- msgid 'The labels must be different'
- msgstr 'Titlene må være ulike'
- msgid 'There is no link.'
- msgstr 'Ingen lenker funnet'
- msgid 'This label must be unique'
- msgstr 'Tittelen må være unik'
- msgid 'Unable to create your link.'
- msgstr 'Kunne ikke opprette lenken.'
- msgid 'Unable to update your link.'
- msgstr 'Kunne ikke endre lenken.'
- msgid 'Unable to remove this link.'
- msgstr 'Kunne ikke fjerne lenken'
- msgid 'relates to'
- msgstr 'relatert til'
- msgid 'blocks'
- msgstr 'blokkerer'
- msgid 'is blocked by'
- msgstr 'blokkeres av'
- msgid 'duplicates'
- msgstr 'kopierer'
- msgid 'is duplicated by'
- msgstr 'er en kopi av'
- msgid 'is a child of'
- msgstr 'er en underordnet oppgave av'
- msgid 'is a parent of'
- msgstr 'er en overordnet oppgave for'
- msgid 'targets milestone'
- msgstr 'milepel'
- msgid 'is a milestone of'
- msgstr 'er en milepel for'
- msgid 'fixes'
- msgstr 'løser'
- msgid 'is fixed by'
- msgstr 'løses av'
- msgid 'This task'
- msgstr 'Denne oppgaven'
- msgid '<1h'
- msgstr '<1t'
- msgid '%dh'
- msgstr '%dt'
- msgid 'Expand tasks'
- msgstr 'Utvid oppgavevisning'
- msgid 'Collapse tasks'
- msgstr 'Komprimer oppgavevisning'
- msgid 'Expand/collapse tasks'
- msgstr 'Utvide/komprimere oppgavevisning'
- msgid 'Close dialog box'
- msgstr 'Lukk dialogvindu'
- msgid 'Submit a form'
- msgstr 'Send inn skjema'
- msgid 'Board view'
- msgstr 'Tavlevisning'
- msgid 'Keyboard shortcuts'
- msgstr 'Hurtigtaster'
- msgid 'Open board switcher'
- msgstr 'Åpne tavleskifter'
- msgid 'Application'
- msgstr 'Applikasjon'
- msgid 'Compact view'
- msgstr 'Kompakt visning'
- msgid 'Horizontal scrolling'
- msgstr 'Bla horisontalt'
- msgid 'Compact/wide view'
- msgstr 'Kompakt/bred visning'
- msgid 'Currency'
- msgstr 'Valuta'
- msgid 'Personal project'
- msgstr 'Privat prosjekt'
- msgid 'AUD - Australian Dollar'
- msgstr 'AUD - Australske dollar'
- msgid 'CAD - Canadian Dollar'
- msgstr 'CAD - Kanadiske dollar'
- msgid 'CHF - Swiss Francs'
- msgstr 'CHF - Sveitsiske frank'
- msgid 'Custom Stylesheet'
- msgstr 'Egendefinert stilark'
- msgid 'EUR - Euro'
- msgstr 'EUR - Euro'
- msgid 'GBP - British Pound'
- msgstr 'GBP - Britiske pund'
- msgid 'INR - Indian Rupee'
- msgstr 'INR - Indiske rupi'
- msgid 'JPY - Japanese Yen'
- msgstr 'JPY - Japanske yen'
- msgid 'NZD - New Zealand Dollar'
- msgstr 'NZD - New Zealand Dollar'
- msgid 'RSD - Serbian dinar'
- msgstr 'RSD - Serbiske dinarer'
- msgid 'CNY - Chinese Yuan'
- msgstr 'CNY - Kinesiske yuan'
- msgid 'USD - US Dollar'
- msgstr 'USD - Amerikanske dollar'
- msgid 'VES - Venezuelan Bolívar'
- msgstr ''
- msgid 'Destination column'
- msgstr 'Ny kolonne'
- msgid 'Move the task to another column when assigned to a user'
- msgstr 'Flytt oppgaven til en annen kolonne når den er tildelt en bruker'
- msgid 'Move the task to another column when assignee is cleared'
- msgstr 'Flytt oppgaven til en annen kolonne når ppgavetildeling fjernes '
- msgid 'Source column'
- msgstr 'Opprinnelig kolonne'
- msgid 'Transitions'
- msgstr 'Statusendringer'
- msgid 'Executer'
- msgstr 'Utfører'
- msgid 'Time spent in the column'
- msgstr 'Medgått tid i kolonnen'
- msgid 'Task transitions'
- msgstr 'Oppgavebevegelser'
- msgid 'Task transitions export'
- msgstr 'Eksportere oppgavebevegelser'
- msgid 'This report contains all column moves for each task with the date, the user and the time spent for each transition.'
- msgstr 'Rapporten inneholder alle kolonnebevegelser for hver oppgave, med dato, bruker og tidsforbruk for hver bevegelse'
- msgid 'Currency rates'
- msgstr 'Valutakurser'
- msgid 'Rate'
- msgstr 'Kurs'
- msgid 'Change reference currency'
- msgstr 'Endre refereransevaluta'
- msgid 'Reference currency'
- msgstr 'Referansevaluta'
- msgid 'The currency rate has been added successfully.'
- msgstr 'Referansevaluta er endret'
- msgid 'Unable to add this currency rate.'
- msgstr 'Kan ikke legge til denne valutakursen'
- msgid 'Webhook URL'
- msgstr 'Webhook URL'
- msgid '%s removed the assignee of the task %s'
- msgstr '%s fjernet ansvarlige for oppgaven %s'
- msgid 'Information'
- msgstr 'Informasjon'
- msgid 'Check two factor authentication code'
- msgstr 'Kontrollerer kode for tofaktor autensitering'
- msgid 'The two factor authentication code is not valid.'
- msgstr 'Autentiseringskoden er ikke gyldig'
- msgid 'The two factor authentication code is valid.'
- msgstr 'Autentiseringskoden er gyldig'
- msgid 'Code'
- msgstr 'Kode'
- msgid 'Two factor authentication'
- msgstr 'Tofaktor autentisering'
- msgid 'This QR code contains the key URI: '
- msgstr 'Denne QR-koden inneholder nøkkel URI: '
- msgid 'Check my code'
- msgstr 'Sjekk koden min'
- msgid 'Secret key: '
- msgstr 'Hemmelig nøkkel'
- msgid 'Test your device'
- msgstr 'Test din enhet'
- msgid 'Assign a color when the task is moved to a specific column'
- msgstr 'Endre til en valgt farge hvis en oppgave flyttes til en spesifikk kolonne'
- msgid '%s via Kanboard'
- msgstr '%s via Kanboard'
- msgid 'Burndown chart'
- msgstr 'Burndown diagram'
- msgid 'This chart show the task complexity over the time (Work Remaining).'
- msgstr 'Dette diagrammet viser oppgavekopleksitet over tid (gjenstående arbeid)'
- msgid 'Screenshot taken %s'
- msgstr 'Skjemskudd lagt inn %s'
- msgid 'Add a screenshot'
- msgstr 'Legg til et skjermbilde'
- msgid 'Take a screenshot and press CTRL+V or ⌘+V to paste here.'
- msgstr 'Ta et skjermskudd og trykk CTRL+V eller ⌘+V for å lime inn her.'
- msgid 'Screenshot uploaded successfully.'
- msgstr 'Skjermbilde opplastet'
- msgid 'SEK - Swedish Krona'
- msgstr 'SEK - Svenske kroner'
- msgid 'Identifier'
- msgstr 'Prosjektkode'
- msgid 'Disable two factor authentication'
- msgstr 'Slå av tofaktor autentisering'
- msgid 'Do you really want to disable the two factor authentication for this user: "%s"?'
- msgstr 'Er du sikker på at du vil slå av tofaktor autentisering for bruker: "%s"?'
- msgid 'Edit link'
- msgstr 'Endre lenke'
- msgid 'Start to type task title...'
- msgstr 'Skriv in tittel'
- msgid 'A task cannot be linked to itself'
- msgstr 'Oppgaver kan ikke lenkes til seg selv'
- msgid 'The exact same link already exists'
- msgstr 'Denne lenken finnes fra før'
- msgid 'Recurrent task is scheduled to be generated'
- msgstr 'Gjentagende oppgave vil bli opprettet'
- msgid 'Score'
- msgstr 'Poeng'
- msgid 'The identifier must be unique'
- msgstr 'Identifikatoren må være unik'
- msgid 'This linked task id doesn\'t exists'
- msgstr 'Den lenkede oppgave-IDen finnes ikke'
- msgid 'This value must be alphanumeric'
- msgstr 'Verdien må være alfanumerisk'
- msgid 'Edit recurrence'
- msgstr 'Endre gjentakelser'
- msgid 'Generate recurrent task'
- msgstr 'Opprett gjentagende oppgave'
- msgid 'Trigger to generate recurrent task'
- msgstr 'Betingelse for å generere gjentakende oppgave'
- msgid 'Factor to calculate new due date'
- msgstr 'Faktor for å beregne ny tidsfrist'
- msgid 'Timeframe to calculate new due date'
- msgstr 'Tidsramme for å beregne ny tidsfrist'
- msgid 'Base date to calculate new due date'
- msgstr 'Grunnlagsdato for å beregne ny tidsfrist'
- msgid 'Action date'
- msgstr 'Hendelsesdato'
- msgid 'Base date to calculate new due date: '
- msgstr 'Grunnlagsdato for å beregne ny tidsfrist'
- msgid 'This task has created this child task: '
- msgstr 'Denne oppgaven har opprettet denne relaterte oppgaven'
- msgid 'Day(s)'
- msgstr 'Dager'
- msgid 'Existing due date'
- msgstr 'Gjeldende tidsfrist'
- msgid 'Factor to calculate new due date: '
- msgstr 'Faktor for å beregne ny tidsfrist'
- msgid 'Month(s)'
- msgstr 'Måneder'
- msgid 'This task has been created by: '
- msgstr 'Denne oppgaven er opprettet av:'
- msgid 'Recurrent task has been generated:'
- msgstr 'Repeterende oppgave er opprettet'
- msgid 'Timeframe to calculate new due date: '
- msgstr 'Tidsrom for beregning av ny tidsfrist: '
- msgid 'Trigger to generate recurrent task: '
- msgstr 'Trigger for å generere gjentagende oppgave: '
- msgid 'When task is closed'
- msgstr 'Når oppgaven er lukket'
- msgid 'When task is moved from first column'
- msgstr 'Når oppgaven er flyttet fra første kolon'
- msgid 'When task is moved to last column'
- msgstr 'Når oppgaven er flyttet til siste kolonne'
- msgid 'Year(s)'
- msgstr 'år'
- msgid 'Project settings'
- msgstr 'Prosjektinnstillinger'
- msgid 'Automatically update the start date'
- msgstr 'Oppdater automatisk start-datoen'
- msgid 'iCal feed'
- msgstr 'iCal strøm'
- msgid 'Preferences'
- msgstr 'Preferanser'
- msgid 'Security'
- msgstr 'Sikkerhet'
- msgid 'Two factor authentication disabled'
- msgstr 'Dobbelgodkjenning deaktivert'
- msgid 'Two factor authentication enabled'
- msgstr 'Dobbelgodkjenning aktivert'
- msgid 'Unable to update this user.'
- msgstr 'Kan ikke oppdatere brukeren'
- msgid 'There is no user management for personal projects.'
- msgstr 'Private prosjekter har ikke brukeradministrasjon'
- msgid 'User that will receive the email'
- msgstr 'Bruker som vil motta den nye e-posten'
- msgid 'Email subject'
- msgstr 'E-post emne'
- msgid 'Date'
- msgstr 'Dato'
- msgid 'Add a comment log when moving the task between columns'
- msgstr 'Legg til en kommentar i loggen når en oppgave flyttes mellom kolonnene'
- msgid 'Move the task to another column when the category is changed'
- msgstr 'Flytt oppgaven til en annen kolonne når kategorien endres'
- msgid 'Send a task by email to someone'
- msgstr 'Send en oppgave på epost til noen'
- msgid 'Reopen a task'
- msgstr 'Gjenåpne oppgave'
- msgid 'Notification'
- msgstr 'Varsel'
- msgid '%s moved the task #%d to the first swimlane'
- msgstr '%s  flyttet oppgaven #%d til første svømmebane'
- msgid 'Swimlane'
- msgstr 'Svømmebane'
- msgid '%s moved the task %s to the first swimlane'
- msgstr '%s flyttet oppgaven %s til første svømmebane'
- msgid '%s moved the task %s to the swimlane "%s"'
- msgstr '%s flyttet oppgaven %s til svømmebanen "%s"'
- msgid 'This report contains all subtasks information for the given date range.'
- msgstr 'Rapporten viser informasjon om alle deloppgaver for valgte tidsrom.'
- msgid 'This report contains all tasks information for the given date range.'
- msgstr 'Rapporten inneholder informasjon om alle oppgaver for valgte tidsrom'
- msgid 'Project activities for %s'
- msgstr 'Prosjektaktiviteter for %s'
- msgid 'view the board on Kanboard'
- msgstr 'vis tavlen'
- msgid 'The task has been moved to the first swimlane'
- msgstr 'Oppgaven er flyttet til første svømmebane'
- msgid 'The task has been moved to another swimlane:'
- msgstr 'Oppgaven er flyttet til en annen svømmebane:'
- msgid 'New title: %s'
- msgstr 'Ny tittel: %s'
- msgid 'The task is not assigned anymore'
- msgstr 'Oppgaven har ikke lenger noen ansvarlig'
- msgid 'New assignee: %s'
- msgstr 'Ny ansvarlig: %s'
- msgid 'There is no category now'
- msgstr 'Ingen kategori nå'
- msgid 'New category: %s'
- msgstr 'Ny kategori: %s'
- msgid 'New color: %s'
- msgstr 'Ny farge: %s'
- msgid 'New complexity: %d'
- msgstr 'Ny kompleksitet: %d'
- msgid 'The due date has been removed'
- msgstr 'Fristdato er fjernet'
- msgid 'There is no description anymore'
- msgstr 'Ikke lenger noen beskrivelse'
- msgid 'Recurrence settings has been modified'
- msgstr 'Instillinger for gjentagelse er endret'
- msgid 'Time spent changed: %sh'
- msgstr 'Tidsforbruk er endret: %sh'
- msgid 'Time estimated changed: %sh'
- msgstr 'Tidsestimat er endret: %sh'
- msgid 'The field "%s" has been updated'
- msgstr 'Feltet "%s" er oppdatert'
- msgid 'The description has been modified:'
- msgstr 'Beskrivelsen er endret'
- msgid 'Do you really want to close the task "%s" as well as all subtasks?'
- msgstr 'Ønsker du virkelig å lukke oppgaven "%s" og alle tilhørende deloppgaver?'
- msgid 'I want to receive notifications for:'
- msgstr 'Jeg vil motta varslinger om:'
- msgid 'All tasks'
- msgstr 'Alle oppgaver'
- msgid 'Only for tasks assigned to me'
- msgstr 'Kun oppgaver som er tildelt meg'
- msgid 'Only for tasks created by me'
- msgstr 'Kun oppgaver som er opprettet av meg'
- msgid 'Only for tasks created by me and tasks assigned to me'
- msgstr 'Kun oppgaver som er opprettet av meg og tildelt meg'
- msgid '%%Y-%%m-%%d'
- msgstr '%%d-%%m-%%Y'
- msgid 'Total for all columns'
- msgstr 'Totalt for alle kolonner'
- msgid 'You need at least 2 days of data to show the chart.'
- msgstr 'Du må ha minimum 2 dager med data for å kunne se dette diagrammet'
- msgid '<15m'
- msgstr '<15m'
- msgid '<30m'
- msgstr '<30m'
- msgid 'Stop timer'
- msgstr 'Stopp timer'
- msgid 'Start timer'
- msgstr 'Start timer'
- msgid 'My activity stream'
- msgstr 'Aktivitetslogg'
- msgid 'Search tasks'
- msgstr 'Søk oppgave'
- msgid 'Reset filters'
- msgstr 'Nullstill filter'
- msgid 'My tasks due tomorrow'
- msgstr 'Mine oppgaver med frist i morgen'
- msgid 'Tasks due today'
- msgstr 'Oppgaver med frist i dag'
- msgid 'Tasks due tomorrow'
- msgstr 'Oppgaver med frist i morgen'
- msgid 'Tasks due yesterday'
- msgstr 'Oppgaver med frist i går'
- msgid 'Closed tasks'
- msgstr 'Fullførte oppgaver'
- msgid 'Open tasks'
- msgstr 'Åpne oppgaver'
- msgid 'Not assigned'
- msgstr 'Ikke tildelt'
- msgid 'View advanced search syntax'
- msgstr 'Vis hjelp for avansert søk '
- msgid 'Overview'
- msgstr 'Oversikt'
- msgid 'Board/Calendar/List view'
- msgstr 'Oversikt/kalender/listevisning'
- msgid 'Switch to the board view'
- msgstr 'Oversiktsvisning'
- msgid 'Switch to the list view'
- msgstr 'Listevisning'
- msgid 'Go to the search/filter box'
- msgstr 'Gå til søk/filter'
- msgid 'There is no activity yet.'
- msgstr 'Ingen aktiviteter ennå.'
- msgid 'No tasks found.'
- msgstr 'Ingen oppgaver funnet'
- msgid 'Keyboard shortcut: "%s"'
- msgstr 'Hurtigtaster: "%s"'
- msgid 'List'
- msgstr 'Liste'
- msgid 'Filter'
- msgstr 'Filter'
- msgid 'Advanced search'
- msgstr 'Avansert søk'
- msgid 'Example of query: '
- msgstr 'Eksempel på spørring'
- msgid 'Search by project: '
- msgstr 'Søk etter prosjekt'
- msgid 'Search by column: '
- msgstr 'Søk etter kolonne'
- msgid 'Search by assignee: '
- msgstr 'Søk etter tildelt'
- msgid 'Search by color: '
- msgstr 'Søk etter farge'
- msgid 'Search by category: '
- msgstr 'Søk etter kategori'
- msgid 'Search by description: '
- msgstr 'Søk etter beskrivelse'
- msgid 'Search by due date: '
- msgstr 'Søk etter frist'
- msgid 'Average time spent in each column'
- msgstr 'Gjennomsnittlig tid i hver kolonne'
- msgid 'Average time spent'
- msgstr 'Gjennomsnittlig tidsbruk'
- msgid 'This chart shows the average time spent in each column for the last %d tasks.'
- msgstr 'Dette diagrammet viser gjennomsnittlig tid i hver kolonne for de siste %d oppgavene.'
- msgid 'Average Lead and Cycle time'
- msgstr 'Gjennomsnittlig ledetid og syklustid'
- msgid 'Average lead time: '
- msgstr 'Gjennomsnittlig ledetid'
- msgid 'Average cycle time: '
- msgstr 'Gjennomsnitlig syklustid'
- msgid 'Cycle Time'
- msgstr 'Syklustid'
- msgid 'Lead Time'
- msgstr 'Ledetid'
- msgid 'This chart shows the average lead and cycle time for the last %d tasks over the time.'
- msgstr 'Dette diagrammet viser gjennomsnittlig ledetid og syklustid for de siste %d oppgavene.'
- msgid 'Average time into each column'
- msgstr 'Gjennomsnittlig tid i hver kolonne'
- msgid 'Lead and cycle time'
- msgstr 'Ledetid og syklustid'
- msgid 'Lead time: '
- msgstr 'Ledetid'
- msgid 'Cycle time: '
- msgstr 'Syklustid'
- msgid 'Time spent in each column'
- msgstr 'Tid brukt i hver kolonne'
- msgid 'The lead time is the duration between the task creation and the completion.'
- msgstr 'Ledetid er tidsrommet fra oppgaven opprettes til den er fullført'
- msgid 'The cycle time is the duration between the start date and the completion.'
- msgstr 'Syklustid er tidsrommet fra oppgaven starter til den er fullført'
- msgid 'If the task is not closed the current time is used instead of the completion date.'
- msgstr 'Dersom oppgaven ikke er lukket brukes dagens dato i stedet for fullført dato.'
- msgid 'Set the start date automatically'
- msgstr 'Sett startdato automatisk'
- msgid 'Edit Authentication'
- msgstr 'Endre autentisering'
- msgid 'Remote user'
- msgstr 'Ekstern bruker'
- msgid 'Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts.'
- msgstr 'Eksterne brukere har ikke passordet lagret i Kanboard. Eksempel: LDAP, Google og Github-kontoer.'
- msgid 'If you check the box "Disallow login form", credentials entered in the login form will be ignored.'
- msgstr 'Hvis du har krysset av for  "Deaktiver innloggingsbilde" vil opplysninger som tastes inn i innloggingsskjemaet bli ignorert'
- msgid 'Default task color'
- msgstr 'Standard oppgavefarge'
- msgid 'This feature does not work with all browsers.'
- msgstr 'Denne funksjonen virker ikke i alle nettlesere'
- msgid 'There is no destination project available.'
- msgstr 'Finner ikke noe målprosjekt'
- msgid 'Trigger automatically subtask time tracking'
- msgstr 'Automatisk tidsforbruk for deloppgaver'
- msgid 'Include closed tasks in the cumulative flow diagram'
- msgstr 'Ta med lukkede oppgaver i kumulativt flytdiagram'
- msgid 'Current swimlane: %s'
- msgstr 'Nåværende svømmebane: %s'
- msgid 'Current column: %s'
- msgstr 'Nåværende kolonne: %s'
- msgid 'Current category: %s'
- msgstr ': %s'
- msgid 'no category'
- msgstr 'ingen kategori'
- msgid 'Current assignee: %s'
- msgstr 'Tildelt til %s'
- msgid 'not assigned'
- msgstr 'ikke tildelt'
- msgid 'Author:'
- msgstr 'Opprettet av'
- msgid 'contributors'
- msgstr 'bidragsytere'
- msgid 'License:'
- msgstr 'Lisens:'
- msgid 'License'
- msgstr 'Lisens'
- msgid 'Enter the text below'
- msgstr 'Skriv inn bokstavene du ser i bildet'
- msgid 'Start date:'
- msgstr 'Startdato:'
- msgid 'Due date:'
- msgstr 'Frist:'
- msgid 'People who are project managers'
- msgstr 'Prosjektledere'
- msgid 'People who are project members'
- msgstr 'Prosjektmedlemmer'
- msgid 'NOK - Norwegian Krone'
- msgstr 'NOK - Norske kroner'
- msgid 'Show this column'
- msgstr 'Vis denne kolonnen'
- msgid 'Hide this column'
- msgstr 'Skjul denne kolonnen'
- msgid 'End date'
- msgstr 'Sluttdato'
- msgid 'Users overview'
- msgstr 'Brukeroversikt'
- msgid 'Members'
- msgstr 'Medlemmer'
- msgid 'Shared project'
- msgstr 'Delt prosjekt'
- msgid 'Project managers'
- msgstr 'Prosjektledere'
- msgid 'Projects list'
- msgstr 'Prosjektliste'
- msgid 'End date:'
- msgstr 'Sluttdato:'
- msgid 'Change task color when using a specific task link'
- msgstr 'Endre oppgavefarge når det brukes en definert oppgavelenke'
- msgid 'Task link creation or modification'
- msgstr 'Oppgavelenke opprettet eller endret'
- msgid 'Milestone'
- msgstr 'Milepæl'
- msgid 'Reset the search/filter box'
- msgstr 'Nullstill søk/filter'
- msgid 'Documentation'
- msgstr 'Dokumentasjon'
- msgid 'Author'
- msgstr 'Forfatter'
- msgid 'Version'
- msgstr 'Versjon'
- msgid 'Plugins'
- msgstr 'Innstikk'
- msgid 'There is no plugin loaded.'
- msgstr 'Ingen innstikk er lastet'
- msgid 'My notifications'
- msgstr 'Mine varslinger'
- msgid 'Custom filters'
- msgstr 'Egendefinerte filtre'
- msgid 'Your custom filter has been created successfully.'
- msgstr 'Egendefinert filter er opprettet.'
- msgid 'Unable to create your custom filter.'
- msgstr 'Feil ved oppretting av egendefinert filter.'
- msgid 'Custom filter removed successfully.'
- msgstr 'Egendefinert filter er slettet.'
- msgid 'Unable to remove this custom filter.'
- msgstr 'Feil ved sletting av egendefinert filter.'
- msgid 'Edit custom filter'
- msgstr 'Endre egendefinert filter'
- msgid 'Your custom filter has been updated successfully.'
- msgstr 'Egendefinert filter er endret.'
- msgid 'Unable to update custom filter.'
- msgstr 'Feil ved endring av egendefinert filter.'
- msgid 'Web'
- msgstr 'Web'
- msgid 'New attachment on task #%d: %s'
- msgstr 'Nytt vedlegg til oppgaven #%d: %s'
- msgid 'New comment on task #%d'
- msgstr 'Ny kommentar på oppgaven #%d'
- msgid 'Comment updated on task #%d'
- msgstr 'Kommentar endret for oppgaven #%d'
- msgid 'New subtask on task #%d'
- msgstr 'Ny deloppgave for oppgaven #%d'
- msgid 'Subtask updated on task #%d'
- msgstr 'Deloppgave er endret for oppgave #%d'
- msgid 'New task #%d: %s'
- msgstr 'Ny oppgave #%d: %s'
- msgid 'Task updated #%d'
- msgstr 'Oppgaven #%d er endret'
- msgid 'Task #%d closed'
- msgstr 'Oppgaven #%d er lukket'
- msgid 'Task #%d opened'
- msgstr 'Oppgaven #%d er åpnet'
- msgid 'Column changed for task #%d'
- msgstr 'Kolonne endret for oppgaven #%d'
- msgid 'New position for task #%d'
- msgstr 'Ny posisjon for oppgaven #%d'
- msgid 'Swimlane changed for task #%d'
- msgstr 'Svømmebane er endret for oppgaven #%d'
- msgid 'Assignee changed on task #%d'
- msgstr 'Ansvarlig er endret for oppgaven #%d'
- msgid '%d overdue tasks'
- msgstr '%d forfalte oppgaver'
- msgid 'Task #%d is overdue'
- msgstr 'Oppgave #%d er forfalt'
- msgid 'No notification.'
- msgstr 'Ingen varslinger'
- msgid 'Mark all as read'
- msgstr 'Merk alle som lest'
- msgid 'Mark as read'
- msgstr 'Merk som lest'
- msgid 'Total number of tasks in this column across all swimlanes'
- msgstr 'Totalt antall oppgaver i denne kolonnen gjennom alle svømmebaner'
- msgid 'Collapse swimlane'
- msgstr 'Slå sammen svømmebanen'
- msgid 'Expand swimlane'
- msgstr 'Fold ut svømmebane'
- msgid 'Add a new filter'
- msgstr 'Lag nytt filter'
- msgid 'Share with all project members'
- msgstr 'Del med alle prosjektdeltagere'
- msgid 'Shared'
- msgstr 'Delt'
- msgid 'Owner'
- msgstr 'Eier'
- msgid 'Unread notifications'
- msgstr 'Uleste varslinger'
- msgid 'Notification methods:'
- msgstr 'Varslingsmetoder'
- msgid 'Unable to read your file'
- msgstr 'Kan ikke lese filen'
- msgid '%d task(s) have been imported successfully.'
- msgstr '%d oppgave(r) er importert.'
- msgid 'Nothing has been imported!'
- msgstr 'Ingenting ble importert!'
- msgid 'Import users from CSV file'
- msgstr 'Importere brukere fra CSV-fil'
- msgid '%d user(s) have been imported successfully.'
- msgstr '%d bruker(e) er imporert.'
- msgid 'Comma'
- msgstr 'Komma'
- msgid 'Semi-colon'
- msgstr 'Semikolon'
- msgid 'Tab'
- msgstr 'Tabulator'
- msgid 'Vertical bar'
- msgstr 'Loddrett strek'
- msgid 'Double Quote'
- msgstr 'Rett sitattegn'
- msgid 'Single Quote'
- msgstr 'Rett apostrof'
- msgid '%s attached a file to the task #%d'
- msgstr '%s la ved en fil til oppgaven #%d'
- msgid 'There is no column or swimlane activated in your project!'
- msgstr 'Prosjektet har ingen aktive kolonner eller svømmebaner!'
- msgid 'Append filter (instead of replacement)'
- msgstr 'Tilføy filter (i stedet for å erstatte)'
- msgid 'Append/Replace'
- msgstr 'Tilføu/erstatt'
- msgid 'Append'
- msgstr 'Tilføy'
- msgid 'Replace'
- msgstr 'Erstatt'
- msgid 'Import'
- msgstr 'Importer'
- msgid 'Change sorting'
- msgstr 'Endre sortering'
- msgid 'Tasks Importation'
- msgstr 'Importere oppgaver'
- msgid 'Delimiter'
- msgstr 'Feltavgrenser'
- msgid 'Enclosure'
- msgstr 'Streng skilletegn'
- msgid 'CSV File'
- msgstr 'CSV-fil'
- msgid 'Instructions'
- msgstr 'Instruksjoner'
- msgid 'Your file must use the predefined CSV format'
- msgstr 'Filen må ha et forhåndsdefinert CSV-format'
- msgid 'Your file must be encoded in UTF-8'
- msgstr 'Filen må være kodet i UTF-8'
- msgid 'The first row must be the header'
- msgstr 'Første rad må være overskrifter'
- msgid 'Duplicates are not verified for you'
- msgstr 'Det blir ikke sjekket for duplikater'
- msgid 'The due date must use the ISO format: YYYY-MM-DD'
- msgstr 'Tidsfrister må angis i ISO-format: ÅÅÅÅ-MM-DD'
- msgid 'Download CSV template'
- msgstr 'Last ned en CSV-mal'
- msgid 'No external integration registered.'
- msgstr 'Ingen ekstern intergasjon er registrert'
- msgid 'Duplicates are not imported'
- msgstr 'Duplikater importeres ikke'
- msgid 'Usernames must be lowercase and unique'
- msgstr 'Brukernavn må være unike og skrevet i små bokstaver'
- msgid 'Passwords will be encrypted if present'
- msgstr 'Eventuelt oppgitte passord vil blir kryptert'
- msgid '%s attached a new file to the task %s'
- msgstr '%s la ved en ny fil til oppgaven %s'
- msgid 'Link type'
- msgstr 'Relasjonstype'
- msgid 'Assign automatically a category based on a link'
- msgstr 'Tildel kategori automatisk basert på lenke'
- msgid 'BAM - Konvertible Mark'
- msgstr 'BAM - Bosniske mark'
- msgid 'Assignee Username'
- msgstr 'Brukernavn ansvarlig'
- msgid 'Assignee Name'
- msgstr 'Fullt navn ansvarlig'
- msgid 'Groups'
- msgstr 'Grupper'
- msgid 'Members of %s'
- msgstr 'Medlemmer av %s'
- msgid 'New group'
- msgstr 'Ny gruppe'
- msgid 'Group created successfully.'
- msgstr 'Gruppen er opprettet'
- msgid 'Unable to create your group.'
- msgstr 'Kunne ikke opprette gruppen'
- msgid 'Edit group'
- msgstr 'Endre gruppe'
- msgid 'Group updated successfully.'
- msgstr 'Gruppen er endret'
- msgid 'Unable to update your group.'
- msgstr 'Kunne ikke endre gruppen'
- msgid 'Add group member to "%s"'
- msgstr 'Legg gruppemedlem til "%s"'
- msgid 'Group member added successfully.'
- msgstr 'Gruppemedlem lagt til'
- msgid 'Unable to add group member.'
- msgstr 'Kunne ikke legge til gruppemedlem'
- msgid 'Remove user from group "%s"'
- msgstr 'Fjern bruker fra gruppen "%s"'
- msgid 'User removed successfully from this group.'
- msgstr 'Bruker er fjernet fra denne gruppen.'
- msgid 'Unable to remove this user from the group.'
- msgstr 'Kunne ikke fjerne bruker fra gruppen.'
- msgid 'Remove group'
- msgstr 'Fjern gruppe'
- msgid 'Group removed successfully.'
- msgstr 'Gruppen er fjernet'
- msgid 'Unable to remove this group.'
- msgstr 'Kunne ikke fjerne gruppen'
- msgid 'Project Permissions'
- msgstr 'Prosjektrettigheter'
- msgid 'Manager'
- msgstr 'Leder'
- msgid 'Project Manager'
- msgstr 'Prosjektleder'
- msgid 'Project Member'
- msgstr 'Prosjektdeltager'
- msgid 'Project Viewer'
- msgstr 'Kun lesetilgang'
- msgid 'Your account is locked for %d minutes'
- msgstr 'Kontoen din vil være låst i %d minutter'
- msgid 'Invalid captcha'
- msgstr 'Ugyldig captcha'
- msgid 'The name must be unique'
- msgstr 'Navnet må være unikt'
- msgid 'View all groups'
- msgstr 'Vis alle grupper'
- msgid 'There is no user available.'
- msgstr 'Ingen tilgjengelig bruker'
- msgid 'Do you really want to remove the user "%s" from the group "%s"?'
- msgstr 'Ønsker du virkelig å fjerne bruker "%s" fra gruppen "%s"?'
- msgid 'There is no group.'
- msgstr 'Ingen grupper opprettet'
- msgid 'Add group member'
- msgstr 'Legg til medlem'
- msgid 'Do you really want to remove this group: "%s"?'
- msgstr 'Ønsker du virkelig å fjerne gruppen "%s"'
- msgid 'There is no user in this group.'
- msgstr 'Gruppen har ingen medlemmer'
- msgid 'Permissions'
- msgstr 'Rettigheter'
- msgid 'Allowed Users'
- msgstr 'Brukere med tilgang'
- msgid 'No specific user has been allowed.'
- msgstr 'Ingen brukere er lagt inn foreløpig'
- msgid 'Role'
- msgstr 'Rolle'
- msgid 'Enter user name...'
- msgstr 'Skriv brukenavn'
- msgid 'Allowed Groups'
- msgstr 'Brukergrupper med tilgang'
- msgid 'No group has been allowed.'
- msgstr 'Ingen brukergrupper er lagt inn foreløpig'
- msgid 'Group'
- msgstr 'Gruppe'
- msgid 'Group Name'
- msgstr 'Gruppenavn'
- msgid 'Enter group name...'
- msgstr 'Skriv gruppenavn'
- msgid 'Role:'
- msgstr 'Rolle'
- msgid 'Project members'
- msgstr 'Prosjektmedlemmer'
- msgid '%s mentioned you in the task #%d'
- msgstr '%s nevnte deg i oppgaven #%d'
- msgid '%s mentioned you in a comment on the task #%d'
- msgstr '%s nevnte deg i en kommentar på oppgaven #%d'
- msgid 'You were mentioned in the task #%d'
- msgstr 'Du ble nevnt i oppgaven #%d'
- msgid 'You were mentioned in a comment on the task #%d'
- msgstr 'Du ble nevnt i en kommentar på oppgaven #%d'
- msgid 'Estimated hours: '
- msgstr 'Estimerte timer:'
- msgid 'Actual hours: '
- msgstr 'Faktisk medgåtte timer'
- msgid 'Hours Spent'
- msgstr 'Brukt timer'
- msgid 'Hours Estimated'
- msgstr 'Estimerte timer'
- msgid 'Estimated Time'
- msgstr 'Estimert tid'
- msgid 'Actual Time'
- msgstr 'Medgått tid'
- msgid 'Estimated vs actual time'
- msgstr 'Estimert mot virkelig tid'
- msgid 'RUB - Russian Ruble'
- msgstr 'RUB - Russiske rubler'
- msgid 'Assign the task to the person who does the action when the column is changed'
- msgstr 'Tildel oppgaven til personen som flytter den til en annen kolonne'
- msgid 'Close a task in a specific column'
- msgstr 'Lukk en oppgave i en angitt kolonne'
- msgid 'Time-based One-time Password Algorithm'
- msgstr 'Algoritme for tidsbasert engangspassord'
- msgid 'Two-Factor Provider: '
- msgstr 'Tofaktorleverandør:'
- msgid 'Disable two-factor authentication'
- msgstr 'Deaktiver tofaktorautentisering'
- msgid 'Enable two-factor authentication'
- msgstr 'Aktiver tofaktorautentisering'
- msgid 'There is no integration registered at the moment.'
- msgstr 'Ingen registrert integrasjon.'
- msgid 'Password Reset for Kanboard'
- msgstr 'Nytt passord til Kanboard'
- msgid 'Forgot password?'
- msgstr 'Glemt passord?'
- msgid 'Enable "Forget Password"'
- msgstr 'Bruk "Glemt passord"'
- msgid 'Password Reset'
- msgstr 'Nytt passord'
- msgid 'New password'
- msgstr 'Nytt passord'
- msgid 'Change Password'
- msgstr 'Endre passord'
- msgid 'To reset your password click on this link:'
- msgstr 'Bruk denne lenken for å tilbakestille passordet ditt:'
- msgid 'Last Password Reset'
- msgstr 'Forrige passordendring'
- msgid 'The password has never been reinitialized.'
- msgstr 'Passordet er aldri blitt endret'
- msgid 'Creation'
- msgstr 'Opprettet'
- msgid 'Expiration'
- msgstr 'Utløper'
- msgid 'Password reset history'
- msgstr 'Passordhistorikk'
- msgid 'All tasks of the column "%s" and the swimlane "%s" have been closed successfully.'
- msgstr 'Alle oppgaver i kolonne "%s" og svømmebane "%s" er lukket.'
- msgid 'Do you really want to close all tasks of this column?'
- msgstr 'Ønsker du virkelig å lukke ALLE saker i kolonnen?'
- msgid '%d task(s) in the column "%s" and the swimlane "%s" will be closed.'
- msgstr '%d oppgave(r) i kolonne "%s" og svømmebane "%s" vil bli lukket.'
- msgid 'Close all tasks in this column and this swimlane'
- msgstr 'Lukk alle saker i denne kolonnen'
- msgid 'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.'
- msgstr 'Det finnes ingen innstikk for prosjektvarsling. Du kan likevel sette opp individuelle varslinger i brukerprofilen din.'
- msgid 'My dashboard'
- msgstr 'Mitt dashbord'
- msgid 'My profile'
- msgstr 'Min profil'
- msgid 'Project owner: '
- msgstr 'Prosjekteier: '
- msgid 'The project identifier is optional and must be alphanumeric, example: MYPROJECT.'
- msgstr 'Du kan lage en valgfri, alfanumerisk prosjektkode — for eksempel MITTPROSJEKT'
- msgid 'Project owner'
- msgstr 'Prosjekteier'
- msgid 'Personal projects do not have users and groups management.'
- msgstr 'Private prosjekter har ikke brukere eller gruppeadministrasjon'
- msgid 'There is no project member.'
- msgstr 'Ingen prosjektmedlemmer'
- msgid 'Priority'
- msgstr 'Prioritet'
- msgid 'Task priority'
- msgstr 'Prioritet'
- msgid 'General'
- msgstr 'Generelt'
- msgid 'Dates'
- msgstr 'Datoer'
- msgid 'Default priority'
- msgstr 'Standard'
- msgid 'Lowest priority'
- msgstr 'Lav'
- msgid 'Highest priority'
- msgstr 'Høy'
- msgid 'Close a task when there is no activity'
- msgstr 'Lukk enoppgave når det ikke er noen aktivitet'
- msgid 'Duration in days'
- msgstr 'Varighet i dager'
- msgid 'Send email when there is no activity on a task'
- msgstr 'Send e-post når det ikke er noen aktivitet på en oppgave'
- msgid 'Unable to fetch link information.'
- msgstr 'Kan ikke hente lenkeinformasjon'
- msgid 'Daily background job for tasks'
- msgstr 'Daglig bakgrunnsjobb for oppgaver'
- msgid 'Auto'
- msgstr 'Auto'
- msgid 'Related'
- msgstr 'Relasjon'
- msgid 'Attachment'
- msgstr 'Vedlegg'
- msgid 'Title not found'
- msgstr 'Finner ingen tittel'
- msgid 'Web Link'
- msgstr 'Web-lenke'
- msgid 'External links'
- msgstr 'Eksterne lenker'
- msgid 'Add external link'
- msgstr 'Ny ekstern lenke'
- msgid 'Type'
- msgstr 'Type'
- msgid 'Dependency'
- msgstr 'Avhenger av'
- msgid 'Add internal link'
- msgstr 'Lag intern lenke'
- msgid 'Add a new external link'
- msgstr 'Lag ekstern lenke'
- msgid 'Edit external link'
- msgstr 'Endre ekstern lenke'
- msgid 'External link'
- msgstr 'Ekstern lenke'
- msgid 'Copy and paste your link here...'
- msgstr 'Kopier lenken og lim den inn her'
- msgid 'URL'
- msgstr 'URL'
- msgid 'Internal links'
- msgstr 'Interne lenker'
- msgid 'Assign to me'
- msgstr 'Tildel denne til meg'
- msgid 'Me'
- msgstr 'Meg'
- msgid 'Do not duplicate anything'
- msgstr 'Ingen duplisering'
- msgid 'Projects management'
- msgstr 'Prosjektadministrasjon'
- msgid 'Users management'
- msgstr 'Brukeradministrasjon'
- msgid 'Groups management'
- msgstr 'Gruppeadministrasjon'
- msgid 'Create from another project'
- msgstr 'Lag fra et annet prosjekt'
- msgid 'open'
- msgstr 'åpen'
- msgid 'closed'
- msgstr 'lukket'
- msgid 'Priority:'
- msgstr 'Prioritet'
- msgid 'Reference:'
- msgstr 'Referanse'
- msgid 'Complexity:'
- msgstr 'Kompleksitet'
- msgid 'Swimlane:'
- msgstr 'Svømmebane'
- msgid 'Column:'
- msgstr 'Kolonne'
- msgid 'Position:'
- msgstr 'Posisjon'
- msgid 'Creator:'
- msgstr 'Opprettet av'
- msgid 'Time estimated:'
- msgstr 'Estimert tidsforbruk'
- msgid '%s hours'
- msgstr '%s timer'
- msgid 'Time spent:'
- msgstr 'Medgått tid'
- msgid 'Created:'
- msgstr 'Opprettet'
- msgid 'Modified:'
- msgstr 'Endret'
- msgid 'Completed:'
- msgstr 'Fullført'
- msgid 'Started:'
- msgstr 'Startet:'
- msgid 'Moved:'
- msgstr 'Flyttet:'
- msgid 'Task #%d'
- msgstr 'Oppgave #%d'
- msgid 'Time format'
- msgstr 'Tidsformat'
- msgid 'Start date: '
- msgstr 'Startdato:'
- msgid 'End date: '
- msgstr 'Sluttdato:'
- msgid 'New due date: '
- msgstr 'Ny frist:'
- msgid 'Start date changed: '
- msgstr 'Startdato endret:'
- msgid 'Disable personal projects'
- msgstr 'Deaktiver mulighet for private prosjekter'
- msgid 'Do you really want to remove this custom filter: "%s"?'
- msgstr 'Ønsker du virkelig å fjerne det egendefinerte filteret: "%s"?'
- msgid 'Remove a custom filter'
- msgstr 'Fjern egendefinert filter'
- msgid 'User activated successfully.'
- msgstr 'Brukeren er aktivert.'
- msgid 'Unable to enable this user.'
- msgstr 'Kan ikke aktivere brukeren.'
- msgid 'User disabled successfully.'
- msgstr 'Brukeren er deaktivert.'
- msgid 'Unable to disable this user.'
- msgstr 'Kan ikke deaktivere brukeren.'
- msgid 'All files have been uploaded successfully.'
- msgstr 'Alle filer er lastet opp.'
- msgid 'The maximum allowed file size is %sB.'
- msgstr 'Maks. tillatte filstørrelse er %sB'
- msgid 'Drag and drop your files here'
- msgstr 'Dra og slipp filene her'
- msgid 'choose files'
- msgstr 'velg filer'
- msgid 'View profile'
- msgstr 'Vis profil'
- msgid 'Two Factor'
- msgstr 'Tofaktor'
- msgid 'Disable user'
- msgstr 'Deaktiver bruker'
- msgid 'Do you really want to disable this user: "%s"?'
- msgstr 'Ønsker du virkelig å DEAKTIVERE denne brukeren: "%s"?'
- msgid 'Enable user'
- msgstr 'Aktiver bruker'
- msgid 'Do you really want to enable this user: "%s"?'
- msgstr 'Ønsker du virkelig å AKTIVERE denne brukeren: "%s"?'
- msgid 'Download'
- msgstr 'Last ned'
- msgid 'Uploaded: %s'
- msgstr 'Lastet opp: %s'
- msgid 'Size: %s'
- msgstr 'Størrelse: %s'
- msgid 'Uploaded by %s'
- msgstr 'Lastet opp av %s'
- msgid 'Filename'
- msgstr 'Filnavn'
- msgid 'Size'
- msgstr 'Størrelse'
- msgid 'Column created successfully.'
- msgstr 'Kolonnen er opprettet'
- msgid 'Another column with the same name exists in the project'
- msgstr 'Kolonnen finnes allerede i dette prosjektet'
- msgid 'Default filters'
- msgstr 'Standardfiltere'
- msgid 'Your board doesn\'t have any columns!'
- msgstr 'Tavlen har ingen kolonner!'
- msgid 'Change column position'
- msgstr 'Endre kolonneplassering'
- msgid 'Switch to the project overview'
- msgstr 'Bytt til prosjektoversikt'
- msgid 'User filters'
- msgstr 'Brukerfilter'
- msgid 'Category filters'
- msgstr 'Kategorifiltere'
- msgid 'Upload a file'
- msgstr 'Last opp fil'
- msgid 'View file'
- msgstr 'Vis fil'
- msgid 'Last activity'
- msgstr 'Nyeste aktivitet'
- msgid 'Change subtask position'
- msgstr 'Endre posisjon for deloppgave'
- msgid 'This value must be greater than %d'
- msgstr 'Verdien må være større en %d'
- msgid 'Another swimlane with the same name exists in the project'
- msgstr 'Denne svømmebanen finnes allerede i dette prosjektet'
- msgid 'Example: https://example.kanboard.org/ (used to generate absolute URLs)'
- msgstr 'Eksempel: https://eksempel.kanboard.org/ (brukes for å lage absolutte URLer)'
- msgid 'Actions duplicated successfully.'
- msgstr 'Handlinger er duplisert.'
- msgid 'Unable to duplicate actions.'
- msgstr 'Feil ved duplisering av handlinger.'
- msgid 'Add a new action'
- msgstr 'Ny automatisk handling'
- msgid 'Import from another project'
- msgstr 'Importer fra et annet prosjekt'
- msgid 'There is no action at the moment.'
- msgstr 'Ingen automatiske handlinger'
- msgid 'Import actions from another project'
- msgstr 'Importer handlinger fra et annet prosjekt'
- msgid 'There is no available project.'
- msgstr 'Ingen prosjekter'
- msgid 'Local File'
- msgstr 'Lokal fil'
- msgid 'Configuration'
- msgstr 'Konfigurasjon'
- msgid 'PHP version:'
- msgstr 'PHP versjon:'
- msgid 'PHP SAPI:'
- msgstr 'PHP SAPI:'
- msgid 'OS version:'
- msgstr 'OS versjon'
- msgid 'Database version:'
- msgstr 'Databaseversjon'
- msgid 'Browser:'
- msgstr 'Nettleser'
- msgid 'Task view'
- msgstr 'Vis oppgave'
- msgid 'Edit task'
- msgstr 'Endre oppgave'
- msgid 'Edit description'
- msgstr 'Endre beskrivelse'
- msgid 'New internal link'
- msgstr 'Ny intern lenke'
- msgid 'Display list of keyboard shortcuts'
- msgstr 'Oversikt over tastatursnarveier'
- msgid 'Avatar'
- msgstr 'Profilbilde'
- msgid 'Upload my avatar image'
- msgstr 'Last opp profilbilde'
- msgid 'Remove my image'
- msgstr 'Fjern profilbilde'
- msgid 'The OAuth2 state parameter is invalid'
- msgstr 'Feil parameter for OAuth2 tilstand'
- msgid 'User not found.'
- msgstr 'Bruker ikke funnet'
- msgid 'Search in activity stream'
- msgstr 'Søk i aktivitetsstrøm'
- msgid 'My activities'
- msgstr 'Mine aktiviteter'
- msgid 'Activity until yesterday'
- msgstr 'Aktivitet fram til i går'
- msgid 'Activity until today'
- msgstr 'Aktivitet fram til i  dag'
- msgid 'Search by creator: '
- msgstr 'Søk > Opprettet av:'
- msgid 'Search by creation date: '
- msgstr 'Søk > Opprettet dato:'
- msgid 'Search by task status: '
- msgstr 'Søk > Oppgavestatus'
- msgid 'Search by task title: '
- msgstr 'Søk > Oppgavetittel'
- msgid 'Activity stream search'
- msgstr 'Søk > Aktivitetsstrøm'
- msgid 'Projects where "%s" is manager'
- msgstr 'Prosjekter hvor "%s" er prosjektleder'
- msgid 'Projects where "%s" is member'
- msgstr 'Prosjekter hvor "%s" er medlem'
- msgid 'Open tasks assigned to "%s"'
- msgstr 'Åpne oppgaver tildelt "%s"'
- msgid 'Closed tasks assigned to "%s"'
- msgstr 'Lukkede oppgaver tildelt "%s"'
- msgid 'Assign automatically a color based on a priority'
- msgstr 'Tilordne farge automatisk ut fra prioritet'
- msgid 'Overdue tasks for the project(s) "%s"'
- msgstr 'Forsinkede oppgaver for prosjekt(ene) "%s"'
- msgid 'Upload files'
- msgstr 'Last opp filer'
- msgid 'Installed Plugins'
- msgstr 'Installerte innstikk'
- msgid 'Plugin Directory'
- msgstr 'Instikk (katalog)'
- msgid 'Plugin installed successfully.'
- msgstr 'Innstikket er installert'
- msgid 'Plugin updated successfully.'
- msgstr 'Innstikket er oppdatert'
- msgid 'Plugin removed successfully.'
- msgstr 'Innstikket er fjernet'
- msgid 'Subtask converted to task successfully.'
- msgstr 'Deloppgaven er konvertert til en oppgave'
- msgid 'Unable to convert the subtask.'
- msgstr 'Kunne ikke konvertere deloppgaven'
- msgid 'Unable to extract plugin archive.'
- msgstr 'Feil ved utpakking av innstikk'
- msgid 'Plugin not found.'
- msgstr 'Finner ikke innstikk'
- msgid 'You don\'t have the permission to remove this plugin.'
- msgstr 'Du har ikke rettigheter til å fjerne dette innstikket'
- msgid 'Unable to download plugin archive.'
- msgstr 'Feil ved nedlasting av innstikk'
- msgid 'Unable to write temporary file for plugin.'
- msgstr 'Feil ved skriving av midlertidige filer for innstikket'
- msgid 'Unable to open plugin archive.'
- msgstr 'Feil ved åpning av innstikk'
- msgid 'There is no file in the plugin archive.'
- msgstr 'Innstikket inneholder ingen filer!'
- msgid 'Create tasks in bulk'
- msgstr 'Masseoppretting av saker'
- msgid 'Your Kanboard instance is not configured to install plugins from the user interface.'
- msgstr 'Denne Kanboardinstallasjonen er ikke satt opp for å legge til innstikk fra brukergrensensnittet.'
- msgid 'There is no plugin available.'
- msgstr 'Finner ingen innstikk'
- msgid 'Install'
- msgstr 'Installer'
- msgid 'Update'
- msgstr 'Oppdater'
- msgid 'Up to date'
- msgstr 'Ajour'
- msgid 'Not available'
- msgstr 'Ikke tilgjengelig'
- msgid 'Remove plugin'
- msgstr 'Fjern innstikk'
- msgid 'Do you really want to remove this plugin: "%s"?'
- msgstr 'Er du sikker på at du vil fjerne innstikket "%s"?'
- msgid 'Uninstall'
- msgstr 'Avinstaller'
- msgid 'Listing'
- msgstr 'Oversikt'
- msgid 'Metadata'
- msgstr 'Metadata'
- msgid 'Manage projects'
- msgstr 'Administrere prosjekter'
- msgid 'Convert to task'
- msgstr 'Gjør om til oppgave'
- msgid 'Convert sub-task to task'
- msgstr 'Gjør om deloppgave til oppgave'
- msgid 'Do you really want to convert this sub-task to a task?'
- msgstr 'Er du sikker på at du vil gjøre om denne deloppgaven til en oppgave?'
- msgid 'My task title'
- msgstr 'Oppgavetittel'
- msgid 'Enter one task by line.'
- msgstr 'Du kan skrive inn en oppgave pr rad'
- msgid 'Number of failed login:'
- msgstr 'Antall feilede loginforsøk:'
- msgid 'Account locked until:'
- msgstr 'Kontoen er låst til:'
- msgid 'Email settings'
- msgstr 'E-post'
- msgid 'Email sender address'
- msgstr 'Avsenderadresse (e-post):'
- msgid 'Email transport'
- msgstr 'E-post metode'
- msgid 'Webhook token'
- msgstr 'Webhook token'
- msgid 'Project tags management'
- msgstr 'Etiketter'
- msgid 'Tag created successfully.'
- msgstr 'Etiketten er opprettet'
- msgid 'Unable to create this tag.'
- msgstr 'Kunne ikke opprette etiketten'
- msgid 'Tag updated successfully.'
- msgstr 'Etiketten er endret'
- msgid 'Unable to update this tag.'
- msgstr 'Kunne ikke endre etiketten'
- msgid 'Tag removed successfully.'
- msgstr 'Etiketten er slettet'
- msgid 'Unable to remove this tag.'
- msgstr 'Kunne ikke slette etiketten'
- msgid 'Global tags management'
- msgstr 'Administrere globale etiketter'
- msgid 'Tags'
- msgstr 'Etiketter'
- msgid 'Tags management'
- msgstr 'Etiketter'
- msgid 'Add new tag'
- msgstr 'Ny etikett'
- msgid 'Edit a tag'
- msgstr 'Endre etikett'
- msgid 'Project tags'
- msgstr 'Etiketter'
- msgid 'There is no specific tag for this project at the moment.'
- msgstr 'Prosjektet har for tiden ingen etiketter'
- msgid 'Tag'
- msgstr 'Etikett'
- msgid 'Remove a tag'
- msgstr 'Fjern etikett'
- msgid 'Do you really want to remove this tag: "%s"?'
- msgstr 'Er du sikker på at du vil fjerne etiketten: "%s"?'
- msgid 'Global tags'
- msgstr 'Globale etiketter'
- msgid 'There is no global tag at the moment.'
- msgstr 'Ingen globale etiketter'
- msgid 'This field cannot be empty'
- msgstr 'Dette feltet kan ikke være tomt'
- msgid 'Close a task when there is no activity in a specific column'
- msgstr 'Lukk oppgaven når det ikke er aktivitet i en angitt kolonne'
- msgid '%s removed a subtask for the task #%d'
- msgstr '%s slettet en deloppgave for oppgaven #%d'
- msgid '%s removed a comment on the task #%d'
- msgstr '%s slettet en kommentar på oppgaven #%d'
- msgid 'Comment removed on task #%d'
- msgstr 'Kommentar slettet fra oppgave #%d'
- msgid 'Subtask removed on task #%d'
- msgstr 'Deloppgave slettet fra oppgave #%d'
- msgid 'Hide tasks in this column in the dashboard'
- msgstr 'Ikke vis oppgaver i denne kolonnen på dashbordet'
- msgid '%s removed a comment on the task %s'
- msgstr '%s slettet en kommentar på oppgaven %s'
- msgid '%s removed a subtask for the task %s'
- msgstr '%s slettet en deloppgave for oppgaven %s'
- msgid 'Comment removed'
- msgstr 'Kommentaren er fjernet'
- msgid 'Subtask removed'
- msgstr 'Deloppgaven er slettet'
- msgid '%s set a new internal link for the task #%d'
- msgstr '%s lagde en internlenke på oppgaven #%d'
- msgid '%s removed an internal link for the task #%d'
- msgstr '%s fjernet en internlenke på oppgaven #%d'
- msgid 'A new internal link for the task #%d has been defined'
- msgstr 'Det er laget en ny internlenke for oppgaven #%d'
- msgid 'Internal link removed for the task #%d'
- msgstr 'Internlenke fjernet på oppgaven #%d'
- msgid '%s set a new internal link for the task %s'
- msgstr '%s laget en ny internlenke for oppgaven %s'
- msgid '%s removed an internal link for the task %s'
- msgstr '%s fjernet en internlenke for opgaven %s'
- msgid 'Automatically set the due date on task creation'
- msgstr 'Sett tidsfrist automatisk ved opprettelse av oppgave'
- msgid 'Move the task to another column when closed'
- msgstr 'Flytt oppgaven til en annen kolonne når den lukkes'
- msgid 'Move the task to another column when not moved during a given period'
- msgstr 'Flytt oppgaven til en annen kolonne når den ikke flyttes i et gitt tidsrom'
- msgid 'Dashboard for %s'
- msgstr 'Dashbord for %s'
- msgid 'Tasks overview for %s'
- msgstr 'Oppgaveoversikt for %s'
- msgid 'Subtasks overview for %s'
- msgstr 'Deloppgaver for %s'
- msgid 'Projects overview for %s'
- msgstr 'Prosjektoversikt for %s'
- msgid 'Activity stream for %s'
- msgstr 'Aktivitetsstrøm for %s'
- msgid 'Assign a color when the task is moved to a specific swimlane'
- msgstr 'Tilordne farge når oppgaven flyttes til angitt svømmebane'
- msgid 'Assign a priority when the task is moved to a specific swimlane'
- msgstr 'Tilordne prioritet når oppgaven flyttes til angitt svømmebane'
- msgid 'User unlocked successfully.'
- msgstr 'Brukeren er låst opp'
- msgid 'Unable to unlock the user.'
- msgstr 'Kunne ikke låse opp brukeren'
- msgid 'Move a task to another swimlane'
- msgstr 'Flytt oppgaven til en annen svømmebane'
- msgid 'Creator Name'
- msgstr 'Opprettet av'
- msgid 'Time spent and estimated'
- msgstr 'Estimert og medgått tid'
- msgid 'Move position'
- msgstr 'Endre posisjon'
- msgid 'Move task to another position on the board'
- msgstr 'Flytt oppgaven'
- msgid 'Insert before this task'
- msgstr 'Sett inn før denne oppgaven'
- msgid 'Insert after this task'
- msgstr 'Sett inn etter denne oppgaven'
- msgid 'Unlock this user'
- msgstr 'Lås opp bruker'
- msgid 'Custom Project Roles'
- msgstr 'Egendefinerte prosjektroller'
- msgid 'Add a new custom role'
- msgstr 'Ny egendefinert rolle'
- msgid 'Restrictions for the role "%s"'
- msgstr 'Restriksjoner for rollen "%s"'
- msgid 'Add a new project restriction'
- msgstr 'Ny prosjektrestriksjon'
- msgid 'Add a new drag and drop restriction'
- msgstr 'Ny dra og slipp-restriksjon'
- msgid 'Add a new column restriction'
- msgstr 'Ny kolonnerestriksjon'
- msgid 'Edit this role'
- msgstr 'Rediger rolle'
- msgid 'Remove this role'
- msgstr 'Fjern denne rollen'
- msgid 'There is no restriction for this role.'
- msgstr 'Denne rollen har ingen restriksjoner'
- msgid 'Only moving task between those columns is permitted'
- msgstr 'Oppgaver kan kun flyttes mellom disse kolonnene'
- msgid 'Close a task in a specific column when not moved during a given period'
- msgstr 'Lukk oppgave i angitt kolonne når den ikke flyttes i en angitt periode'
- msgid 'Edit columns'
- msgstr 'Endre kolonner'
- msgid 'The column restriction has been created successfully.'
- msgstr 'Kolonnerestriksjonen er opprettet'
- msgid 'Unable to create this column restriction.'
- msgstr 'Kunne ikke opprette denne kolonnerestriksjonen'
- msgid 'Column restriction removed successfully.'
- msgstr 'Kolonnerestriksjon fjernet'
- msgid 'Unable to remove this restriction.'
- msgstr 'Kan ikke fjerne denne restriksjonen'
- msgid 'Your custom project role has been created successfully.'
- msgstr 'Egendefinert prosjektrolle er oppdatert'
- msgid 'Unable to create custom project role.'
- msgstr 'Kunne ikke opprette egendefinert prosjektrolle'
- msgid 'Your custom project role has been updated successfully.'
- msgstr 'Egendefinert ptosjektrolle er endret'
- msgid 'Unable to update custom project role.'
- msgstr 'Kunne ikke endre egendefinert prosjektrolle'
- msgid 'Custom project role removed successfully.'
- msgstr 'Egendefinert prosjektrolle er fjernet'
- msgid 'Unable to remove this project role.'
- msgstr 'Kunne ikke fjerne denne prosjektrollen'
- msgid 'The project restriction has been created successfully.'
- msgstr 'Prosjektrestriksjonen er opprettet'
- msgid 'Unable to create this project restriction.'
- msgstr 'Kunne ikke opprette prosjektrestriksjon'
- msgid 'Project restriction removed successfully.'
- msgstr 'Prosjektrestriksjon er fjernet'
- msgid 'You cannot create tasks in this column.'
- msgstr 'Du kan ikke opprette oppgaver i denne kolonnen'
- msgid 'Task creation is permitted for this column'
- msgstr 'Oppretting av oppgaver er tillatt i denne kolonnen'
- msgid 'Closing or opening a task is permitted for this column'
- msgstr 'Lukking/åpning av oppgaver er tillatt i denne kolonnen'
- msgid 'Task creation is blocked for this column'
- msgstr 'Denne kolonnen er låst for oppretting av nye oppgaver'
- msgid 'Closing or opening a task is blocked for this column'
- msgstr 'Oppgaver i denne kolonnen er låst for lukking/åpning'
- msgid 'Task creation is not permitted'
- msgstr 'Kan ikke opprette oppgaver'
- msgid 'Closing or opening a task is not permitted'
- msgstr 'Kan ikke lukke eller åpne oppgaver'
- msgid 'New drag and drop restriction for the role "%s"'
- msgstr 'Ny dra-og-slipp-restriksjon for rollen "%s"'
- msgid 'People belonging to this role will be able to move tasks only between the source and the destination column.'
- msgstr 'Brukere med denne rollen vil bare kunne flytte oppgaver mellom kilde- og målkolonne.'
- msgid 'Remove a column restriction'
- msgstr 'Fjern kolonnerestriksjon'
- msgid 'Do you really want to remove this column restriction: "%s" to "%s"?'
- msgstr 'Ønsker du virkelig å fjerne kolonnerestriksjonen: "%s" til "%s"?'
- msgid 'New column restriction for the role "%s"'
- msgstr 'Ny kolonnerestriksjon for rollen "%s"'
- msgid 'Rule'
- msgstr 'Regel'
- msgid 'Do you really want to remove this column restriction?'
- msgstr 'Er du sikker på at du vil fjerne denne kolonnerestriksjonen'
- msgid 'Custom roles'
- msgstr 'Egendefinerte roller'
- msgid 'New custom project role'
- msgstr 'Ny egendefinert rolle'
- msgid 'Edit custom project role'
- msgstr 'Endre egendefinert rolle'
- msgid 'Remove a custom role'
- msgstr 'Fjern egendefinert rolle'
- msgid 'Do you really want to remove this custom role: "%s"? All people assigned to this role will become project member.'
- msgstr 'Ønsker du virkelig å fjerne den egendefinerte rollen: "%s"? Alle brukere med denne rollen vil bli prosjektmedlemmer.'
- msgid 'There is no custom role for this project.'
- msgstr 'Prosjektet har ingen egendefinerte roller'
- msgid 'New project restriction for the role "%s"'
- msgstr 'Ny prosjektrestriksjon for rollen "%s"'
- msgid 'Restriction'
- msgstr 'Restriksjon'
- msgid 'Remove a project restriction'
- msgstr 'Fjern prosjektrestriksjon'
- msgid 'Do you really want to remove this project restriction: "%s"?'
- msgstr 'Er du sikker på at du vil fjerne restriksjonen "%s"'
- msgid 'Duplicate to multiple projects'
- msgstr 'Dupliser til flere prosjekter'
- msgid 'This field is required'
- msgstr 'Feltet er påkrevet'
- msgid 'Moving a task is not permitted'
- msgstr 'Flytting av oppgaven er ikke tillatt'
- msgid 'This value must be in the range %d to %d'
- msgstr 'Verdien må være i området %d to %d'
- msgid 'You are not allowed to move this task.'
- msgstr 'Du har ikke rettigheter til å flutte denne oppgaven'
- msgid 'API User Access'
- msgstr 'API brukertilgang'
- msgid 'Preview'
- msgstr 'Forhåndsvisning'
- msgid 'Write'
- msgstr 'Skriv'
- msgid 'Write your text in Markdown'
- msgstr 'Du kan skrive teksten din i Markdown hvis du ønsker det.'
- msgid 'No personal API access token registered.'
- msgstr 'Ingen personlig API tilgangsnøkkel er registrert.'
- msgid 'Your personal API access token is "%s"'
- msgstr 'Din personlige API tilgangsnøkkel er "%s"'
- msgid 'Remove your token'
- msgstr 'Fjern din nøkkel'
- msgid 'Generate a new token'
- msgstr 'Lag ny nøkkel'
- msgid 'Showing %d-%d of %d'
- msgstr 'Viser %d-%d of %d'
- msgid 'Outgoing Emails'
- msgstr 'Utgående e-post'
- msgid 'Add or change currency rate'
- msgstr 'Legg til eller endre valuta'
- msgid 'Reference currency: %s'
- msgstr 'Referansevaluta: %s'
- msgid 'Add custom filters'
- msgstr 'Lag egendefinerte filtere'
- msgid 'Export'
- msgstr 'Eksporter'
- msgid 'Add link label'
- msgstr 'Ny etikett'
- msgid 'Incompatible Plugins'
- msgstr 'Ukompatible innstikk'
- msgid 'Compatibility'
- msgstr 'Kompatibilitet'
- msgid 'Permissions and ownership'
- msgstr 'Tillatelser og eierskap'
- msgid 'Priorities'
- msgstr 'Prioriteter'
- msgid 'Close this window'
- msgstr 'Lukk vindu'
- msgid 'Unable to upload this file.'
- msgstr 'Kunne ikke laste opp filen'
- msgid 'Import tasks'
- msgstr 'Importere oppgaver'
- msgid 'Choose a project'
- msgstr 'Velg prosjekt'
- msgid 'Profile'
- msgstr 'Profil'
- msgid 'Application role'
- msgstr 'Rolle'
- msgid '%d invitations were sent.'
- msgstr '%d invitasjoner ble sendt'
- msgid '%d invitation was sent.'
- msgstr '%d invitasjon ble sendt'
- msgid 'Unable to create this user.'
- msgstr 'Kan ikke opprette brukeren.'
- msgid 'Kanboard Invitation'
- msgstr 'Kanboard invitasjon'
- msgid 'Visible on dashboard'
- msgstr 'Synlig på dashbordet'
- msgid 'Created at:'
- msgstr 'Opprettet:'
- msgid 'Updated at:'
- msgstr 'Endret:'
- msgid 'There is no custom filter.'
- msgstr 'Ingen egendefinerte filtre'
- msgid 'New User'
- msgstr 'Ny bruker'
- msgid 'Authentication'
- msgstr 'Autentisering'
- msgid 'If checked, this user will use a third-party system for authentication.'
- msgstr 'Dersom dette er valgt vil brukeren logges inn via et tredjepartssystem'
- msgid 'The password is necessary only for local users.'
- msgstr 'Passord er kun nødvendig for lokale brukere'
- msgid 'You have been invited to register on Kanboard.'
- msgstr 'Du er invitert til å registrere deg på Kanboard'
- msgid 'Click here to join your team'
- msgstr 'Klikk her for å bli med i teamet ditt'
- msgid 'Invite people'
- msgstr 'Inviter personer'
- msgid 'Emails'
- msgstr 'E-poster'
- msgid 'Enter one email address by line.'
- msgstr 'Legg inn en e-postadresse pr. linje'
- msgid 'Add these people to this project'
- msgstr 'Legg til disse personene i prosjektet'
- msgid 'Add this person to this project'
- msgstr 'Legg til denne personen i prosjektet'
- msgid 'Sign-up'
- msgstr 'Registrering'
- msgid 'Credentials'
- msgstr 'Akkreditiver'
- msgid 'New user'
- msgstr 'Ny bruker'
- msgid 'This username is already taken'
- msgstr 'Brukernavn finnes fra før'
- msgid 'Your profile must have a valid email address.'
- msgstr 'Brukerprofilen din må ha en gyldig e-postadresse.'
- msgid 'TRL - Turkish Lira'
- msgstr 'TRL - Tyrkiske lira'
- msgid 'The project email is optional and could be used by several plugins.'
- msgstr 'Du kan angi en e-postadresse for prosjektet, og den kan brukes av ulike innstikksmoduler'
- msgid 'The project email must be unique across all projects'
- msgstr 'Prosjektets e-postadresse må være unik for alle prosjekter'
- msgid 'The email configuration has been disabled by the administrator.'
- msgstr 'Administrator har deaktivert e-postinnstillinger'
- msgid 'Close this project'
- msgstr 'Lukk dette prosjektet'
- msgid 'Open this project'
- msgstr 'Gjenåpne dette prosjektet'
- msgid 'Close a project'
- msgstr 'Lukk et prosekt'
- msgid 'Do you really want to close this project: "%s"?'
- msgstr 'Er du sikker på at vil lukke prosjektet: "%s"?'
- msgid 'Reopen a project'
- msgstr 'Gjenåpne prosjekt'
- msgid 'Do you really want to reopen this project: "%s"?'
- msgstr 'Er du sikker på at du vil gjenåpne prosjektet: "%s"?'
- msgid 'This project is open'
- msgstr 'Dette prosjektet er aktivt'
- msgid 'This project is closed'
- msgstr 'Dette prosjektet er lukket'
- msgid 'Unable to upload files, check the permissions of your data folder.'
- msgstr 'Kunne ikke laste opp filen!'
- msgid 'Another category with the same name exists in this project'
- msgstr 'Kategorien finnes allerede i dette prosjektet'
- msgid 'Comment sent by email successfully.'
- msgstr 'Kommentar sendt med e-post.'
- msgid 'Sent by email to "%s" (%s)'
- msgstr 'Sendt med e-post til "%s" (%s)'
- msgid 'Unable to read uploaded file.'
- msgstr 'Kan ikke lese opplastet fil.'
- msgid 'Database uploaded successfully.'
- msgstr 'Databasen er lastet opp.'
- msgid 'Task sent by email successfully.'
- msgstr 'Oppgaven er sendt med e-post.'
- msgid 'There is no category in this project.'
- msgstr 'Prosjektet har ingen kategorier.'
- msgid 'Send by email'
- msgstr 'Send i e-post'
- msgid 'Create and send a comment by email'
- msgstr 'Opprett og send en kommentar med e-post'
- msgid 'Subject'
- msgstr 'Emne'
- msgid 'Upload the database'
- msgstr 'Last opp databasen'
- msgid 'You could upload the previously downloaded Sqlite database (Gzip format).'
- msgstr 'Du kan laste opp en tidligere nedlastet Sqlite database (Gzip-format).'
- msgid 'Database file'
- msgstr 'Databasefil'
- msgid 'Upload'
- msgstr 'Last opp'
- msgid 'Your project must have at least one active swimlane.'
- msgstr 'Prosjektet må ha minst en aktiv svømmebane'
- msgid 'Project: %s'
- msgstr 'Prosjekt: %s'
- msgid 'Automatic action not found: "%s"'
- msgstr 'Finner ingen automatisk handling: "%s"'
- msgid '%d projects'
- msgstr '%d prosjekter'
- msgid '%d project'
- msgstr '%d prosjekt'
- msgid 'There is no project.'
- msgstr 'Ingen prosjekter'
- msgid 'Sort'
- msgstr 'Sorter'
- msgid 'Project ID'
- msgstr 'Prosjekt-ID'
- msgid 'Project name'
- msgstr 'Prosjektnavn'
- msgid 'Public'
- msgstr 'Felles'
- msgid 'Personal'
- msgstr 'Privat'
- msgid '%d tasks'
- msgstr '%d oppgaver'
- msgid '%d task'
- msgstr '%d oppgave'
- msgid 'Task ID'
- msgstr 'Oppgave-ID'
- msgid 'Assign automatically a color when due date is expired'
- msgstr 'Tilordne farge automatisk når fristen utløper'
- msgid 'Total score in this column across all swimlanes'
- msgstr 'Totalt resultat for denne kolonnen i alle svømmebaner'
- msgid 'HRK - Kuna'
- msgstr 'HRK - Kroatiske kuna'
- msgid 'ARS - Argentine Peso'
- msgstr 'ARS - Argentinske pesos'
- msgid 'COP - Colombian Peso'
- msgstr 'COP - Columbianske pesos'
- msgid '%d groups'
- msgstr '%d grupper'
- msgid '%d group'
- msgstr '%d gruppe'
- msgid 'Group ID'
- msgstr 'Gruppe-ID'
- msgid 'External ID'
- msgstr 'Ekstern ID'
- msgid '%d users'
- msgstr '%d brukere'
- msgid '%d user'
- msgstr '%d bruker'
- msgid 'Hide subtasks'
- msgstr 'Skjul deloppgaver'
- msgid 'Show subtasks'
- msgstr 'Vis deloppgaver'
- msgid 'Authentication Parameters'
- msgstr 'Autensitering'
- msgid 'API Access'
- msgstr 'API-tilgang'
- msgid 'No users found.'
- msgstr 'Finner ingen brukere'
- msgid 'User ID'
- msgstr 'Bruker-ID'
- msgid 'Notifications are activated'
- msgstr 'Varslinger aktivert'
- msgid 'Notifications are disabled'
- msgstr 'Varslinger deaktivert'
- msgid 'User disabled'
- msgstr 'Bruker er deaktivert'
- msgid '%d notifications'
- msgstr '%d varslinger'
- msgid '%d notification'
- msgstr '%d varsling'
- msgid 'There is no external integration installed.'
- msgstr 'Ingen ekstern interasjon er installert.'
- msgid 'You are not allowed to update tasks assigned to someone else.'
- msgstr 'Du kan ikke endre oppgaver hvor en annen bruker er ansvarlig'
- msgid 'You are not allowed to change the assignee.'
- msgstr 'Du har ikke rettigheter til å endre ansvarlig'
- msgid 'Task suppression is not permitted'
- msgstr 'Endring av posisjon er ikke tillatt'
- msgid 'Changing assignee is not permitted'
- msgstr 'Endring av ansvarlig er ikke tillatt'
- msgid 'Update only assigned tasks is permitted'
- msgstr 'Du kan bare endre oppgaver du selv er ansvarlig for'
- msgid 'Only for tasks assigned to the current user'
- msgstr 'Kun for oppgaver tilordnet aktiv bruker'
- msgid 'My projects'
- msgstr 'Mine prosjekter'
- msgid 'You are not a member of any project.'
- msgstr 'Du er ikke med i noen prosjekter'
- msgid 'My subtasks'
- msgstr 'Mine deloppgaver'
- msgid '%d subtasks'
- msgstr '%d deloppgaver'
- msgid '%d subtask'
- msgstr '%d deloppgave'
- msgid 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgstr 'Aktiv bruker kan kun flytte oppgaver mellom angitte kolonner'
- msgid '[DUPLICATE]'
- msgstr 'DUPLISER'
- msgid 'DKK - Danish Krona'
- msgstr 'DKK - Danske kroner'
- msgid 'Remove user from group'
- msgstr 'Fjern bruker fra gruppen'
- msgid 'Assign the task to its creator'
- msgstr 'Tildel oppgaven til den som har opprettet den'
- msgid 'This task was sent by email to "%s" with subject "%s".'
- msgstr 'Denne oppgaven ble sendt på e-post til "%s" med emne "%s".'
- msgid 'Predefined Email Subjects'
- msgstr 'Forhåndsdefinerte e-post emner'
- msgid 'Write one subject by line.'
- msgstr 'Skriv et emne på hver linje'
- msgid 'Create another link'
- msgstr 'Lag en ny lenke'
- msgid 'BRL - Brazilian Real'
- msgstr 'BRL - Brasilianske real'
- msgid 'Add a new Kanboard task'
- msgstr 'Lag ny oppgave'
- msgid 'Subtask not started'
- msgstr 'Deloppgaven er ikke startet'
- msgid 'Subtask currently in progress'
- msgstr 'Deloppgaver i prosess'
- msgid 'Subtask completed'
- msgstr 'Deloppgave fullført'
- msgid 'Subtask added successfully.'
- msgstr 'Deloppgave er lagt til'
- msgid '%d subtasks added successfully.'
- msgstr '%d deloppgaver er lagt til'
- msgid 'Enter one subtask by line.'
- msgstr 'Legg inn en deloppgave pr. rad'
- msgid 'Predefined Contents'
- msgstr 'Forhåndsdefinert innhold'
- msgid 'Predefined contents'
- msgstr 'Forhåndsdefinert innhold'
- msgid 'Predefined Task Description'
- msgstr 'Forhåndsdefinert oppgavebeskrivelse'
- msgid 'Do you really want to remove this template? "%s"'
- msgstr 'Ønsker du virkelig å slette denne malen? "%s"'
- msgid 'Add predefined task description'
- msgstr 'Ny forhåndsdefinert oppgavebeskrivelse'
- msgid 'Predefined Task Descriptions'
- msgstr 'Forhåndsdefinerte oppgavebeskrivelser'
- msgid 'Template created successfully.'
- msgstr 'Malen er opprettet'
- msgid 'Unable to create this template.'
- msgstr 'Kunne ikke opprette malen'
- msgid 'Template updated successfully.'
- msgstr 'Malen er endret'
- msgid 'Unable to update this template.'
- msgstr 'Kunne ikke endre malen'
- msgid 'Template removed successfully.'
- msgstr 'Malen er slettet'
- msgid 'Unable to remove this template.'
- msgstr 'Kunne ikke slette malen'
- msgid 'Template for the task description'
- msgstr 'Mal for oppgavbeskrivelse'
- msgid 'The start date is greater than the end date'
- msgstr 'Startdato er større en sluttdato'
- msgid 'Tags must be separated by a comma'
- msgstr 'Etiketter må skilles med komma'
- msgid 'Only the task title is required'
- msgstr 'Kun oppgavetittel er påkrevet'
- msgid 'Creator Username'
- msgstr 'Opprettet av'
- msgid 'Color Name'
- msgstr 'Farge'
- msgid 'Column Name'
- msgstr 'Kolonne'
- msgid 'Swimlane Name'
- msgstr 'Svømmebane'
- msgid 'Time Estimated'
- msgstr 'Estimert tid'
- msgid 'Time Spent'
- msgstr 'Medgått tid'
- msgid 'External Link'
- msgstr 'Ekstern lenke'
- msgid 'This feature enables the iCal feed, RSS feed and the public board view.'
- msgstr 'OBS Forsiktig: Denne funksjonen aktiverer iCal-strøm, RSS-strøm og offentlig tavlevisning!'
- msgid 'Stop the timer of all subtasks when moving a task to another column'
- msgstr 'Stopp timeren for alle deloppgaver når en oppgave flyttes til en annen kolonne'
- msgid 'Subtask Title'
- msgstr 'Deloppgave'
- msgid 'Add a subtask and activate the timer when moving a task to another column'
- msgstr 'Opprett en deloppgave og aktiver timeren når en oppgave flyttes til en annen kolonne'
- msgid 'days'
- msgstr 'dager'
- msgid 'minutes'
- msgstr 'minutter'
- msgid 'seconds'
- msgstr 'sekunder'
- msgid 'Assign automatically a color when preset start date is reached'
- msgstr 'Tilordne farge automatisk på valgt startdato'
- msgid 'Move the task to another column once a predefined start date is reached'
- msgstr 'Flytt oppgaven til en annen lolonne på valgt startdato'
- msgid 'This task is now linked to the task %s with the relation "%s"'
- msgstr 'Oppgaven er nå lenket til oppgaven %s med relasjonen "%s"'
- msgid 'The link with the relation "%s" to the task %s has been removed'
- msgstr 'Lenken med relasjonen "%s" til oppgaven %s er fjernet'
- msgid 'Custom Filter:'
- msgstr 'Egendefinert filter'
- msgid 'Unable to find this group.'
- msgstr 'Finner ikke gruppen'
- msgid '%s moved the task #%d to the column "%s"'
- msgstr '%s flyttet oppgaven #%d til kolonnen "%s"'
- msgid '%s moved the task #%d to the position %d in the column "%s"'
- msgstr '%s flyttet oppgaven #%d til posisjon %d i kolonnen "%s"'
- msgid '%s moved the task #%d to the swimlane "%s"'
- msgstr '%s flyttet oppgaven #%d til svømmebane "%s"'
- msgid '%sh spent'
- msgstr '%st brukt'
- msgid '%sh estimated'
- msgstr '%st estimert'
- msgid 'Select All'
- msgstr 'Velg alle'
- msgid 'Unselect All'
- msgstr 'Fravelg alle'
- msgid 'Apply action'
- msgstr 'Utfør'
- msgid 'Move selected tasks to another column or swimlane'
- msgstr 'Flytt merkede oppgaver til en annen kolonne'
- msgid 'Edit tasks in bulk'
- msgstr 'Masseredigering av oppgaver'
- msgid 'Choose the properties that you would like to change for the selected tasks.'
- msgstr 'Velg egenskapene du vil endre for valgte oppgaver.'
- msgid 'Configure this project'
- msgstr 'Prosjekt'
- msgid 'Start now'
- msgstr 'Start nå'
- msgid '%s removed a file from the task #%d'
- msgstr ''
- msgid 'Attachment removed from task #%d: %s'
- msgstr ''
- msgid 'No color'
- msgstr ''
- msgid 'Attachment removed "%s"'
- msgstr ''
- msgid '%s removed a file from the task %s'
- msgstr ''
- msgid 'Move the task to another swimlane when assigned to a user'
- msgstr ''
- msgid 'Destination swimlane'
- msgstr ''
- msgid 'Assign a category when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Move the task to another swimlane when the category is changed'
- msgstr ''
- msgid 'Reorder this column by priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee (A-Z)'
- msgstr ''
- msgid 'Reorder this column by assignee (Z-A)'
- msgstr ''
- msgid 'Reorder this column by due date (ASC)'
- msgstr ''
- msgid 'Reorder this column by due date (DESC)'
- msgstr ''
- msgid '%s moved the task #%d "%s" to the project "%s"'
- msgstr ''
- msgid 'Task #%d "%s" has been moved to the project "%s"'
- msgstr ''
- msgid 'Move the task to another column when the due date is less than a certain number of days'
- msgstr ''
- msgid 'Automatically update the start date when the task is moved away from a specific column'
- msgstr ''
- msgid 'HTTP Client:'
- msgstr ''
- msgid 'Assigned'
- msgstr ''
- msgid 'Task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied across swimlanes'
- msgstr ''
- msgid 'Task limit: '
- msgstr ''
- msgid 'Change to global tag'
- msgstr ''
- msgid 'Do you really want to make the tag "%s" global?'
- msgstr ''
- msgid 'Enable global tags for this project'
- msgstr ''
- msgid 'Group membership(s):'
- msgstr ''
- msgid '%s is a member of the following group(s): %s'
- msgstr ''
- msgid '%d/%d group(s) shown'
- msgstr ''
- msgid 'Subtask creation or modification'
- msgstr ''
- msgid 'Assign the task to a specific user when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Comment'
- msgstr ''
- msgid 'Collapse vertically'
- msgstr ''
- msgid 'Expand vertically'
- msgstr ''
- msgid 'MXN - Mexican Peso'
- msgstr ''
- msgid 'Estimated vs actual time per column'
- msgstr ''
- msgid 'HUF - Hungarian Forint'
- msgstr ''
- msgid 'XBT - Bitcoin'
- msgstr ''
- msgid 'You must select a file to upload as your avatar!'
- msgstr ''
- msgid 'The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)'
- msgstr ''
- msgid 'Automatically set the due date when the task is moved away from a specific column'
- msgstr ''
- msgid 'No other projects found.'
- msgstr ''
- msgid 'Please choose a project you want to copy the tasks from.'
- msgstr ''
- msgid 'Import Tasks'
- msgstr ''
- msgid 'Copy'
- msgstr ''
- msgid 'Tasks copied successfully.'
- msgstr ''
- msgid 'Unable to copy tasks.'
- msgstr ''
+msgid "number.decimals_separator"
+msgstr ","
+msgid "number.thousands_separator"
+msgstr "."
+msgid "None"
+msgstr "Ingen"
+msgid "Edit"
+msgstr "Rediger"
+msgid "Remove"
+msgstr "Fjern"
+msgid "Yes"
+msgstr "Ja"
+msgid "No"
+msgstr "Nei"
+msgid "cancel"
+msgstr "avbryt"
+msgid "or"
+msgstr "eller"
+msgid "Yellow"
+msgstr "Gul"
+msgid "Blue"
+msgstr "Blå"
+msgid "Green"
+msgstr "Grønn"
+msgid "Purple"
+msgstr "Lilla"
+msgid "Red"
+msgstr "Rød"
+msgid "Orange"
+msgstr "Orange"
+msgid "Grey"
+msgstr "Grå"
+msgid "Brown"
+msgstr "Brun"
+msgid "Deep Orange"
+msgstr "Mørk orange"
+msgid "Dark Grey"
+msgstr "Mørk grå"
+msgid "Pink"
+msgstr "Rosa"
+msgid "Teal"
+msgstr "Sjøgrønn"
+msgid "Cyan"
+msgstr "Cyan"
+msgid "Lime"
+msgstr "Lime"
+msgid "Light Green"
+msgstr "Lys grønn"
+msgid "Amber"
+msgstr "Ravgul"
+msgid "Save"
+msgstr "Lagre"
+msgid "Login"
+msgstr "Logg inn"
+msgid "Official website:"
+msgstr "Offisielt nettsted:"
+msgid "Unassigned"
+msgstr "Ikke tildelt"
+msgid "View this task"
+msgstr "Se denne oppgaven"
+msgid "Remove user"
+msgstr "Fjern bruker"
+msgid "Do you really want to remove this user: \"%s\"?"
+msgstr "Er du sikker på at du vil fjerne brukeren: \"%s\"?"
+msgid "All users"
+msgstr "Alle brukere"
+msgid "Username"
+msgstr "Brukernavn"
+msgid "Password"
+msgstr "Passord"
+msgid "Administrator"
+msgstr "Administrator"
+msgid "Sign in"
+msgstr "Logg inn"
+msgid "Users"
+msgstr "Brukere"
+msgid "Forbidden"
+msgstr "Ikke tillatt"
+msgid "Access Forbidden"
+msgstr "Adgang ikke tillatt"
+msgid "Edit user"
+msgstr "Rediger bruker"
+msgid "Logout"
+msgstr "Logg ut"
+msgid "Bad username or password"
+msgstr "Feil brukernavn eller passord"
+msgid "Edit project"
+msgstr "Endre prosjekt"
+msgid "Name"
+msgstr "Navn"
+msgid "Projects"
+msgstr "Prosjekter"
+msgid "No project"
+msgstr "Ingen prosjekter"
+msgid "Project"
+msgstr "Prosjekt"
+msgid "Status"
+msgstr "Status"
+msgid "Tasks"
+msgstr "Oppgaver"
+msgid "Board"
+msgstr "Tavle"
+msgid "Actions"
+msgstr "Handlinger"
+msgid "Inactive"
+msgstr "Inaktiv"
+msgid "Active"
+msgstr "Aktiv"
+msgid "Unable to update this board."
+msgstr "Ikke mulig å oppdatere tavlesiden"
+msgid "Disable"
+msgstr "Slå av"
+msgid "Enable"
+msgstr "Slå på"
+msgid "New project"
+msgstr "Nytt prosjekt"
+msgid "Do you really want to remove this project: \"%s\"?"
+msgstr "Er du sikker på at du vil du slette dette prosjektet: \"%s\"?"
+msgid "Remove project"
+msgstr "Slett prosjekt"
+msgid "Edit the board for \"%s\""
+msgstr "Endre tavlesiden for \"%s\""
+msgid "Add a new column"
+msgstr "Legg til ny kolonne"
+msgid "Title"
+msgstr "Tittel"
+msgid "Assigned to %s"
+msgstr "Tildelt: %s"
+msgid "Remove a column"
+msgstr "Fjern en kolonne"
+msgid "Unable to remove this column."
+msgstr "Kan ikke fjerne kolonnen"
+msgid "Do you really want to remove this column: \"%s\"?"
+msgstr "Er du sikker på at du vil fjerne denne kolonnen: \"%s\"?"
+msgid "Settings"
+msgstr "Innstillinger"
+msgid "Application settings"
+msgstr "Applikasjonsinnstillinger"
+msgid "Language"
+msgstr "Språk"
+msgid "Webhook token:"
+msgstr "Webhook token:"
+msgid "API token:"
+msgstr "API token:"
+msgid "Database size:"
+msgstr "Databasestørrelse:"
+msgid "Download the database"
+msgstr "Last ned databasen"
+msgid "Optimize the database"
+msgstr "Optimaliser databasen"
+msgid "(VACUUM command)"
+msgstr "(VACUUM kommando)"
+msgid "(Gzip compressed Sqlite file)"
+msgstr "(Gzip-komprimert Sqlite fil)"
+msgid "Close a task"
+msgstr "Lukk oppgave"
+msgid "Column"
+msgstr "Kolonne"
+msgid "Color"
+msgstr "Farge"
+msgid "Assignee"
+msgstr "Tildelt"
+msgid "Create another task"
+msgstr "Opprett en ny oppgave etter denne"
+msgid "New task"
+msgstr "Ny oppgave"
+msgid "Open a task"
+msgstr "Åpne oppgave"
+msgid "Do you really want to open this task: \"%s\"?"
+msgstr "Er du sikker på at du vil åpne denne oppgaven: \"%s\"?"
+msgid "Back to the board"
+msgstr "Tilbake til tavlesiden"
+msgid "There is nobody assigned"
+msgstr "Mangler tildeling"
+msgid "Column on the board:"
+msgstr "Kolonne:"
+msgid "Close this task"
+msgstr "Lukk oppgave"
+msgid "Open this task"
+msgstr "Åpne oppgave"
+msgid "There is no description."
+msgstr "Ingen beskrivelse."
+msgid "Add a new task"
+msgstr "Lag ny oppgave"
+msgid "The username is required"
+msgstr "Brukernavn er påkrevd"
+msgid "The maximum length is %d characters"
+msgstr "Den maksimale lengden er %d tegn"
+msgid "The minimum length is %d characters"
+msgstr "Den minimale lengden er %d tegn"
+msgid "The password is required"
+msgstr "Passord påkrevet"
+msgid "This value must be an integer"
+msgstr "Verdien må være et heltall"
+msgid "The username must be unique"
+msgstr "Brukernavnet må være unikt"
+msgid "The user id is required"
+msgstr "Bruker-id påkrevet"
+msgid "Passwords don't match"
+msgstr "Passordene stemmer ikke overens"
+msgid "The confirmation is required"
+msgstr "Bekreftelse påkrevet"
+msgid "The project is required"
+msgstr "Prosjekt påkrevet"
+msgid "The id is required"
+msgstr "ID påkrevet"
+msgid "The project id is required"
+msgstr "Prosjekt-id påkrevet"
+msgid "The project name is required"
+msgstr "Prosjektnavn påkrevet"
+msgid "The title is required"
+msgstr "Tittel påkrevet"
+msgid "Settings saved successfully."
+msgstr "Innstillinger lagret."
+msgid "Unable to save your settings."
+msgstr "Feil ved lagring av innstillinger."
+msgid "Database optimization done."
+msgstr "Databaseoptimalisering er fullført."
+msgid "Your project has been created successfully."
+msgstr "Prosjektet er opprettet."
+msgid "Unable to create your project."
+msgstr "Prosjektet kunne ikke opprettes"
+msgid "Project updated successfully."
+msgstr "Prosjektet er oppdatert."
+msgid "Unable to update this project."
+msgstr "Prosjektet kunne ikke oppdateres."
+msgid "Unable to remove this project."
+msgstr "Prosjektet kunne ikke slettes."
+msgid "Project removed successfully."
+msgstr "Prosjektet er slettet."
+msgid "Project activated successfully."
+msgstr "Prosjektet er aktivert."
+msgid "Unable to activate this project."
+msgstr "Prosjektet kunne ikke aktiveres."
+msgid "Project disabled successfully."
+msgstr "Prosjektet er deaktiveret."
+msgid "Unable to disable this project."
+msgstr "Prosjektet kunne ikke deaktiveres."
+msgid "Unable to open this task."
+msgstr "Oppgaven kunne ikke åpnes."
+msgid "Task opened successfully."
+msgstr "Oppgaven er åpnet."
+msgid "Unable to close this task."
+msgstr "Oppgaven kunne ikke åpnes."
+msgid "Task closed successfully."
+msgstr "Oppgaven er lukket."
+msgid "Unable to update your task."
+msgstr "Oppgaven kunne ikke oppdateres."
+msgid "Task updated successfully."
+msgstr "Oppgaven er oppdatert."
+msgid "Unable to create your task."
+msgstr "Oppgave kunne ikke opprettes."
+msgid "Task created successfully."
+msgstr "Oppgaven er opprettet."
+msgid "User created successfully."
+msgstr "Brukeren er opprettet."
+msgid "Unable to create your user."
+msgstr "Brukeren kunne ikke opprettes."
+msgid "User updated successfully."
+msgstr "Brukeren er oppdatert"
+msgid "User removed successfully."
+msgstr "Brukeren er fjernet."
+msgid "Unable to remove this user."
+msgstr "Brukeren kunne ikke slettes."
+msgid "Board updated successfully."
+msgstr "Hovedsiden er oppdatert."
+msgid "Ready"
+msgstr "Klar"
+msgid "Backlog"
+msgstr "Backlog"
+msgid "Work in progress"
+msgstr "Under arbeid"
+msgid "Done"
+msgstr "Utført"
+msgid "Application version:"
+msgstr "Versjon:"
+msgid "Id"
+msgstr "ID"
+msgid "Public link"
+msgstr "Offentligt lenke"
+msgid "Timezone"
+msgstr "Tidssone"
+msgid "Sorry, I didn't find this information in my database!"
+msgstr "Denne informasjonen kunne ikke finnes i databasen!"
+msgid "Page not found"
+msgstr "Siden er ikke funnet"
+msgid "Complexity"
+msgstr "Kompleksitet"
+msgid "Task limit"
+msgstr "Oppgavebegrensning"
+msgid "Task count"
+msgstr "Antall oppgaver"
+msgid "User"
+msgstr "Bruker"
+msgid "Comments"
+msgstr "Kommentarer"
+msgid "Comment is required"
+msgstr "Kommentar må legges inn"
+msgid "Comment added successfully."
+msgstr "Kommentaren er lagt til."
+msgid "Unable to create your comment."
+msgstr "Din kommentar kunne ikke opprettes."
+msgid "Due Date"
+msgstr "Frist"
+msgid "Invalid date"
+msgstr "Ugyldig dato"
+msgid "Automatic actions"
+msgstr "Automatiske handlinger"
+msgid "Your automatic action has been created successfully."
+msgstr "Din automatiske handling er opprettet."
+msgid "Unable to create your automatic action."
+msgstr "Din automatiske handling kunne ikke opprettes."
+msgid "Remove an action"
+msgstr "Fjern en handling"
+msgid "Unable to remove this action."
+msgstr "Handlingen kunne ikke fjernes."
+msgid "Action removed successfully."
+msgstr "Handlingen er fjernet."
+msgid "Automatic actions for the project \"%s\""
+msgstr "Automatiske handlinger for prosjektet \"%s\""
+msgid "Add an action"
+msgstr "Legg til en handling"
+msgid "Event name"
+msgstr "Hendelsehet"
+msgid "Action"
+msgstr "Handling"
+msgid "Event"
+msgstr "Hendelse"
+msgid "When the selected event occurs execute the corresponding action."
+msgstr "Når den valgte hendelsen oppstår, utfør tilsvarende handling."
+msgid "Next step"
+msgstr "Neste"
+msgid "Define action parameters"
+msgstr "Definer handlingsparametre"
+msgid "Do you really want to remove this action: \"%s\"?"
+msgstr "Vil du slette denne handlingen: \"%s\"?"
+msgid "Remove an automatic action"
+msgstr "Fjern en automatisk handling"
+msgid "Assign the task to a specific user"
+msgstr "Tildel oppgaven til en bestemt bruker"
+msgid "Assign the task to the person who does the action"
+msgstr "Tildel oppgaven til den person, som utfører  handlingen"
+msgid "Duplicate the task to another project"
+msgstr "Kopier oppgaven til et annet prosjekt"
+msgid "Move a task to another column"
+msgstr "Flytt oppgaven til en annen kolonne"
+msgid "Task modification"
+msgstr "Oppgaveendring"
+msgid "Task creation"
+msgstr "Oppgaveoprettelse"
+msgid "Closing a task"
+msgstr "Lukke en oppgave"
+msgid "Assign a color to a specific user"
+msgstr "Tildel en farge til en bestemt bruker"
+msgid "Position"
+msgstr "Posisjon"
+msgid "Duplicate to project"
+msgstr "Kopier til et annet prosjekt"
+msgid "Duplicate"
+msgstr "Kopier"
+msgid "Link"
+msgstr "Link"
+msgid "Comment updated successfully."
+msgstr "Kommentar oppdatert."
+msgid "Unable to update your comment."
+msgstr "Din kommentar kunne ikke oppdateres."
+msgid "Remove a comment"
+msgstr "Fjern en kommentar"
+msgid "Comment removed successfully."
+msgstr "Kommentaren ble fjernet."
+msgid "Unable to remove this comment."
+msgstr "Kommentaren kunne ikke fjernes."
+msgid "Do you really want to remove this comment?"
+msgstr "Vil du fjerne denne kommentaren?"
+msgid "Current password for the user \"%s\""
+msgstr "Aktivt passord for brukeren \"%s\""
+msgid "The current password is required"
+msgstr "Passord er påkrevet"
+msgid "Wrong password"
+msgstr "Feil passord"
+msgid "Unknown"
+msgstr "Ukjent"
+msgid "Last logins"
+msgstr "Siste innlogging"
+msgid "Login date"
+msgstr "Login dato"
+msgid "Authentication method"
+msgstr "Godkjenningsmetode"
+msgid "IP address"
+msgstr "IP Adresse"
+msgid "User agent"
+msgstr "User Agent"
+msgid "Persistent connections"
+msgstr "Nettforbindelser"
+msgid "No session."
+msgstr "Ingen sesjoner."
+msgid "Expiration date"
+msgstr "Utløpsdato"
+msgid "Remember Me"
+msgstr "Husk meg"
+msgid "Creation date"
+msgstr "Opprettelsesdato"
+msgid "Everybody"
+msgstr "Alle"
+msgid "Open"
+msgstr "Åpen"
+msgid "Closed"
+msgstr "Lukket"
+msgid "Search"
+msgstr "Søk"
+msgid "Nothing found."
+msgstr "Intet funnet."
+msgid "Due date"
+msgstr "Tidsfrist"
+msgid "Description"
+msgstr "Beskrivelse"
+msgid "%d comments"
+msgstr "%d kommentarer"
+msgid "%d comment"
+msgstr "%d kommentar"
+msgid "Email address invalid"
+msgstr "Ugyldig epost"
+msgid "Your external account is not linked anymore to your profile."
+msgstr "Din eksterne konto er ikke lenger lenket til profilen din"
+msgid "Unable to unlink your external account."
+msgstr "Kan ikke fjerne lenken til din eksterne konto"
+msgid "External authentication failed"
+msgstr "Ekstern autentisering feilet"
+msgid "Your external account is linked to your profile successfully."
+msgstr "Den eksterne konto er lenket til profilen din"
+msgid "Email"
+msgstr "E-post"
+msgid "Task removed successfully."
+msgstr "Oppgaven er fjernet."
+msgid "Unable to remove this task."
+msgstr "Oppgaven kunne ikke fjernes."
+msgid "Remove a task"
+msgstr "Fjern en oppgave"
+msgid "Do you really want to remove this task: \"%s\"?"
+msgstr "Vil du fjerne denne oppgaven: \"%s\"?"
+msgid "Assign automatically a color based on a category"
+msgstr "Tildel automatisk en farge baseret for en kategori"
+msgid "Assign automatically a category based on a color"
+msgstr "Tildel automatisk en kategori basert på en farve"
+msgid "Task creation or modification"
+msgstr "Oppgaveopprettelse eller endring"
+msgid "Category"
+msgstr "Kategori"
+msgid "Category:"
+msgstr "Kategori:"
+msgid "Categories"
+msgstr "Kategorier"
+msgid "Your category has been created successfully."
+msgstr "Kategorien er opprettet."
+msgid "This category has been updated successfully."
+msgstr "Kategorien er oppdatert."
+msgid "Unable to update this category."
+msgstr "Kategorien kunne ikke oppdateres."
+msgid "Remove a category"
+msgstr "Fjern en kategori"
+msgid "Category removed successfully."
+msgstr "Kategorien er fjernet."
+msgid "Unable to remove this category."
+msgstr "Kategorien kunne ikke fjernes."
+msgid "Category modification for the project \"%s\""
+msgstr "Endring av kategori for prosjektet \"%s\""
+msgid "Category Name"
+msgstr "Kategorinavn"
+msgid "Add a new category"
+msgstr "Legg til  ny kategori"
+msgid "Do you really want to remove this category: \"%s\"?"
+msgstr "Vil du fjerne kategorien: \"%s\"?"
+msgid "All categories"
+msgstr "Alle kategorier"
+msgid "No category"
+msgstr "Ingen kategori"
+msgid "The name is required"
+msgstr "Navnet er påkrevet"
+msgid "Remove a file"
+msgstr "Fjern en fil"
+msgid "Unable to remove this file."
+msgstr "Filen kunne ikke fjernes."
+msgid "File removed successfully."
+msgstr "Filen er fjernet."
+msgid "Attach a document"
+msgstr "Legg til  et dokument"
+msgid "Do you really want to remove this file: \"%s\"?"
+msgstr "Vil du fjerne filen: \"%s\"?"
+msgid "Attachments"
+msgstr "Vedlegg"
+msgid "Edit the task"
+msgstr "Rediger oppgaven"
+msgid "Add a comment"
+msgstr "Legg til en kommentar"
+msgid "Edit a comment"
+msgstr "Rediger en kommentar"
+msgid "Summary"
+msgstr "Sammendrag"
+msgid "Time tracking"
+msgstr "Tidsregistrering"
+msgid "Estimate:"
+msgstr "Estimat:"
+msgid "Spent:"
+msgstr "Brukt:"
+msgid "Do you really want to remove this sub-task?"
+msgstr "Vil du fjerne denne deloppgaven?"
+msgid "Remaining:"
+msgstr "Gjenværende:"
+msgid "hours"
+msgstr "timer"
+msgid "estimated"
+msgstr "estimat"
+msgid "Sub-Tasks"
+msgstr "Deloppgave"
+msgid "Add a sub-task"
+msgstr "Legg til en deloppgave"
+msgid "Original estimate"
+msgstr "Estimert tidsbruk"
+msgid "Create another sub-task"
+msgstr "Legg til en ny deloppgave"
+msgid "Time spent"
+msgstr "Tidsforbruk"
+msgid "Edit a sub-task"
+msgstr "Rediger en deloppgave"
+msgid "Remove a sub-task"
+msgstr "Fjern en deloppgave"
+msgid "The time must be a numeric value"
+msgstr "Tiden skal være en nummerisk erdi"
+msgid "Todo"
+msgstr "Gjøremål"
+msgid "In progress"
+msgstr "Under arbeid"
+msgid "Sub-task removed successfully."
+msgstr "Deloppgaven er fjernet."
+msgid "Unable to remove this sub-task."
+msgstr "Deloppgaven kunne ikke fjernes."
+msgid "Sub-task updated successfully."
+msgstr "Deloppgaven er opdateret."
+msgid "Unable to update your sub-task."
+msgstr "Deloppgaven kunne ikke opdateres."
+msgid "Unable to create your sub-task."
+msgstr "Deloppgaven kunne ikke oprettes."
+msgid "Maximum size: "
+msgstr "Maksimum størrelse: "
+msgid "Display another project"
+msgstr "Vis annet prosjekt..."
+msgid "Created by %s"
+msgstr "Opprettet av %s"
+msgid "Tasks Export"
+msgstr "Oppgave eksport"
+msgid "Start Date"
+msgstr "Startdato"
+msgid "Execute"
+msgstr "KKjør"
+msgid "Task Id"
+msgstr "Oppgave ID"
+msgid "Creator"
+msgstr "Laget av"
+msgid "Modification date"
+msgstr "Endringsdato"
+msgid "Completion date"
+msgstr "Ferdigstillingsdato"
+msgid "Clone"
+msgstr "Kopier"
+msgid "Project cloned successfully."
+msgstr "Prosjektet er kopiert."
+msgid "Unable to clone this project."
+msgstr "Prosjektet kunne ikke kopieres"
+msgid "Enable email notifications"
+msgstr "Aktiver epostvarslinger"
+msgid "Task position:"
+msgstr "Posisjon:"
+msgid "The task #%d has been opened."
+msgstr "Oppgaven #%d er åpnet."
+msgid "The task #%d has been closed."
+msgstr "Oppgaven #%d er lukket."
+msgid "Sub-task updated"
+msgstr "Deloppgaven er oppdatert"
+msgid "Title:"
+msgstr "Tittel:"
+msgid "Status:"
+msgstr "Status:"
+msgid "Assignee:"
+msgstr "Ansvarlig:"
+msgid "Time tracking:"
+msgstr "Tidsmåling:"
+msgid "New sub-task"
+msgstr "Ny deloppgave"
+msgid "New attachment added \"%s\""
+msgstr "Nytt vedlegg er lagt tilet \"%s\""
+msgid "New comment posted by %s"
+msgstr "Ny kommentar fra %s"
+msgid "New comment"
+msgstr "Ny kommentar"
+msgid "Comment updated"
+msgstr "Kommentar oppdatert"
+msgid "New subtask"
+msgstr "Ny deloppgave"
+msgid "I only want to receive notifications for these projects:"
+msgstr "Jeg vil kun ha varslinger for disse prosjekter:"
+msgid "view the task on Kanboard"
+msgstr "se oppgaven"
+msgid "Public access"
+msgstr "Offentlig tilgang"
+msgid "Disable public access"
+msgstr "Deaktiver offentlig tilgang"
+msgid "Enable public access"
+msgstr "Aktiver offentlig tilgang"
+msgid "Public access disabled"
+msgstr "Offentlig tilgang er deaktivert"
+msgid "Move the task to another project"
+msgstr "Flytt oppgaven til et annet prosjekt"
+msgid "Move to project"
+msgstr "Flytt til et annet prosjekt"
+msgid "Do you really want to duplicate this task?"
+msgstr "Vil du kopiere denne oppgaven?"
+msgid "Duplicate a task"
+msgstr "Kopier en oppgave"
+msgid "External accounts"
+msgstr "Eksterne kontoer"
+msgid "Account type"
+msgstr "Kontotype"
+msgid "Local"
+msgstr "Lokal"
+msgid "Remote"
+msgstr "Fjernstyrt"
+msgid "Enabled"
+msgstr "Aktiv"
+msgid "Disabled"
+msgstr "Deaktivert"
+msgid "Login:"
+msgstr "Brukernavn"
+msgid "Full Name:"
+msgstr "Navn:"
+msgid "Email:"
+msgstr "Epost:"
+msgid "Notifications:"
+msgstr "Varslinger:"
+msgid "Notifications"
+msgstr "Varslinger"
+msgid "Account type:"
+msgstr "Konto type:"
+msgid "Edit profile"
+msgstr "Rediger profil"
+msgid "Change password"
+msgstr "Endre passord"
+msgid "Password modification"
+msgstr "Passordendring"
+msgid "External authentications"
+msgstr "Ekstern godkjenning"
+msgid "Never connected."
+msgstr "Aldri innlogget."
+msgid "No external authentication enabled."
+msgstr "Ingen eksterne godkjenninger aktiveret."
+msgid "Password modified successfully."
+msgstr "Passord er endret."
+msgid "Unable to change the password."
+msgstr "Passordet kuenne ikke endres."
+msgid "Change category"
+msgstr "Endre kategori"
+msgid "%s updated the task %s"
+msgstr "%s oppdaterte oppgaven %s"
+msgid "%s opened the task %s"
+msgstr "%s åpnet oppgaven %s"
+msgid "%s moved the task %s to the position #%d in the column \"%s\""
+msgstr "%s flyttet oppgaven %s til posisjon #%d i kolonne \"%s\""
+msgid "%s moved the task %s to the column \"%s\""
+msgstr "%s flyttet oppgaven %s til kolonnen \"%s\""
+msgid "%s created the task %s"
+msgstr "%s opprettet oppgaven %s"
+msgid "%s closed the task %s"
+msgstr "%s lukket oppgaven %s"
+msgid "%s created a subtask for the task %s"
+msgstr "%s opprettet en deloppgave for oppgaven %s"
+msgid "%s updated a subtask for the task %s"
+msgstr "%s oppdaterte en deloppgave for oppgaven %s"
+msgid "Assigned to %s with an estimate of %s/%sh"
+msgstr "Tildelt til %s med et estimat på %s/%sh"
+msgid "Not assigned, estimate of %sh"
+msgstr "Ikke tildelt, estimert til %sh"
+msgid "%s updated a comment on the task %s"
+msgstr "%s oppdaterte en kommentar til oppgaven %s"
+msgid "%s commented the task %s"
+msgstr "%s har kommentert oppgaven %s"
+msgid "%s's activity"
+msgstr "Aktiviteter: %s"
+msgid "RSS feed"
+msgstr "RSS feed"
+msgid "%s updated a comment on the task #%d"
+msgstr "%s oppdaterte en kommentar til oppgaven #%d"
+msgid "%s commented on the task #%d"
+msgstr "%s kommenterte oppgaven #%d"
+msgid "%s updated a subtask for the task #%d"
+msgstr "%s oppdaterte en deloppgave til oppgaven #%d"
+msgid "%s created a subtask for the task #%d"
+msgstr "%s opprettet en deloppgave til oppgaven #%d"
+msgid "%s updated the task #%d"
+msgstr "%s oppdaterte oppgaven #%d"
+msgid "%s created the task #%d"
+msgstr "%s opprettet oppgaven #%d"
+msgid "%s closed the task #%d"
+msgstr "%s lukket oppgaven #%d"
+msgid "%s opened the task #%d"
+msgstr "%s åpnet oppgaven #%d"
+msgid "Activity"
+msgstr "Aktivitetslogg"
+msgid "Default values are \"%s\""
+msgstr "Standardverdier  er \"%s\""
+msgid "Default columns for new projects (Comma-separated)"
+msgstr "Standard kolonne for nye prosjekter (kommaseparert)"
+msgid "Task assignee change"
+msgstr "Endring av oppgaveansvarlig"
+msgid "%s changed the assignee of the task #%d to %s"
+msgstr "%s endre ansvarlig for oppgaven #%d til %s"
+msgid "%s changed the assignee of the task %s to %s"
+msgstr "%s endret ansvarlig for oppgaven %s til %s"
+msgid "New password for the user \"%s\""
+msgstr "Nytt passord for brukeren \"%s\""
+msgid "Choose an event"
+msgstr "Velg en hendelse"
+msgid "Create a task from an external provider"
+msgstr "Oppret en oppgave fra en ekstern tilbyder"
+msgid "Change the assignee based on an external username"
+msgstr "Endre ansvarlige baseret på et eksternt brukernavn"
+msgid "Change the category based on an external label"
+msgstr "Endre kategorien basert på en ekstern etikett"
+msgid "Reference"
+msgstr "Referanse"
+msgid "Label"
+msgstr "Etikett"
+msgid "Database"
+msgstr "Database"
+msgid "About"
+msgstr "Om"
+msgid "Database driver:"
+msgstr "Databasedriver:"
+msgid "Board settings"
+msgstr "Tavlesiden"
+msgid "Webhook settings"
+msgstr "Webhook innstillinger"
+msgid "Reset token"
+msgstr "Resette token"
+msgid "API endpoint:"
+msgstr "API endpoint:"
+msgid "Refresh interval for personal board"
+msgstr "Oppdateringsintervall for privat tavleside"
+msgid "Refresh interval for public board"
+msgstr "Oppdateringsintervall for offentlig tavleside"
+msgid "Task highlight period"
+msgstr "Periode for fremheving av oppgaver"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Periode for å fastslå en oppgave nylig er endret (0 for å deaktivere, 2 dager er standard)"
+msgid "Frequency in second (60 seconds by default)"
+msgstr "Frekevens i sekunder (60 sekunder som standard)"
+msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
+msgstr "Frekvens i sekunder (0 for å deaktivere denne funksjonen, 10 sekunder er standard)"
+msgid "Application URL"
+msgstr "Applikasjon-URL"
+msgid "Token regenerated."
+msgstr "Token regenerert."
+msgid "Date format"
+msgstr "Datoformat"
+msgid "ISO format is always accepted, example: \"%s\" and \"%s\""
+msgstr "ISO format, eksempel: \"%s\" og \"%s\""
+msgid "New personal project"
+msgstr "Nytt privat prosjekt"
+msgid "This project is personal"
+msgstr "Dette projektet er privat"
+msgid "Add"
+msgstr "Legg til"
+msgid "Start date"
+msgstr "Startdato"
+msgid "Time estimated"
+msgstr "Tid estimert"
+msgid "There is nothing assigned to you."
+msgstr "Ingen elementer er tildelt deg."
+msgid "My tasks"
+msgstr "Mine oppgaver"
+msgid "Activity stream"
+msgstr "Aktivitetslogg"
+msgid "Dashboard"
+msgstr "Hovedsiden"
+msgid "Confirmation"
+msgstr "Bekreftelse"
+msgid "Webhooks"
+msgstr "Webhooks"
+msgid "API"
+msgstr "API"
+msgid "Create a comment from an external provider"
+msgstr "Opprett en kommentar fra en ekstern tilbyder"
+msgid "Project management"
+msgstr "Prosjektinnstillinger"
+msgid "Columns"
+msgstr "Kolonner"
+msgid "Task"
+msgstr "Oppgave"
+msgid "Percentage"
+msgstr "Prosent"
+msgid "Number of tasks"
+msgstr "Antall oppgaver"
+msgid "Task distribution"
+msgstr "Kolonnefordeling"
+msgid "Analytics"
+msgstr "Analyser"
+msgid "Subtask"
+msgstr "Deloppgave"
+msgid "User repartition"
+msgstr "Brukerfordeling"
+msgid "Clone this project"
+msgstr "Kopier dette prosjektet"
+msgid "Column removed successfully."
+msgstr "Kolonne flyttet"
+msgid "Not enough data to show the graph."
+msgstr "Ikke nok data til å vise grafen"
+msgid "Previous"
+msgstr "Forrige"
+msgid "The id must be an integer"
+msgstr "ID må være heltall"
+msgid "The project id must be an integer"
+msgstr "ProsjektID må være et heltall"
+msgid "The status must be an integer"
+msgstr "Status må være et heltall"
+msgid "The subtask id is required"
+msgstr "Du må angi ID for deloppgaven"
+msgid "The subtask id must be an integer"
+msgstr "ID for deloppgaven må være et heltall"
+msgid "The task id is required"
+msgstr "OppgaveID er påkrevet"
+msgid "The task id must be an integer"
+msgstr "OppgaveID må være et heltall"
+msgid "The user id must be an integer"
+msgstr "BrukerID må være et heltall"
+msgid "This value is required"
+msgstr "Denne verdien er påkrevet"
+msgid "This value must be numeric"
+msgstr "Verdien må være numerisk"
+msgid "Unable to create this task."
+msgstr "Kunne ikke opprette oppgaven"
+msgid "Cumulative flow diagram"
+msgstr "Kumulativt flytdiagram"
+msgid "Daily project summary"
+msgstr "Daglig prosjektsammendrag"
+msgid "Daily project summary export"
+msgstr "Daglig prosjektsammendrag"
+msgid "Exports"
+msgstr "Eksporter"
+msgid "This export contains the number of tasks per column grouped per day."
+msgstr "Denne eksporten inneholde antall oppgaver pr. kolonne gruppert pr. dag"
+msgid "Active swimlanes"
+msgstr "Aktive svømmebaner"
+msgid "Add a new swimlane"
+msgstr "Legg til en ny svømmebane"
+msgid "Default swimlane"
+msgstr "Standard svømmebane"
+msgid "Do you really want to remove this swimlane: \"%s\"?"
+msgstr "Er du sikker på at du vil fjerne svømmebane: \"%s\"?"
+msgid "Inactive swimlanes"
+msgstr "Deaktiverte svømmebaner"
+msgid "Remove a swimlane"
+msgstr "Fjern en svømmebane"
+msgid "Swimlane modification for the project \"%s\""
+msgstr "Svømmebane endrei i prosjektet \"%s\""
+msgid "Swimlane removed successfully."
+msgstr "Svømmebane fjernet"
+msgid "Swimlanes"
+msgstr "Svømmebaner"
+msgid "Swimlane updated successfully."
+msgstr "Svømmebane oppdatert"
+msgid "Unable to remove this swimlane."
+msgstr "Kunne ikke fjerne svømmebanen"
+msgid "Unable to update this swimlane."
+msgstr "Kunne ikke endre svømmebanen"
+msgid "Your swimlane has been created successfully."
+msgstr "Svømmebanen er opprettet!"
+msgid "Example: \"Bug, Feature Request, Improvement\""
+msgstr "Eksempel: Avvik, forbedringsforslag, ny funksjonalitet"
+msgid "Default categories for new projects (Comma-separated)"
+msgstr "Standardkategorier for nye prosjekter (kommaseparert)"
+msgid "Integrations"
+msgstr "Integrasjoner"
+msgid "Integration with third-party services"
+msgstr "Integrasjoner med tredjeparts-tjenester"
+msgid "Subtask Id"
+msgstr "Deloppgave ID"
+msgid "Subtasks"
+msgstr "Deloppgaver"
+msgid "Subtasks Export"
+msgstr "Eksporter deloppgaver"
+msgid "Task Title"
+msgstr "Oppgavetittel"
+msgid "Untitled"
+msgstr "Uten navn"
+msgid "Application default"
+msgstr "Standardinstilling"
+msgid "Language:"
+msgstr "Språk"
+msgid "Timezone:"
+msgstr "Tidssone"
+msgid "All columns"
+msgstr "Alle kolonner"
+msgid "Next"
+msgstr "Neste"
+msgid "#%d"
+msgstr "#%d"
+msgid "All swimlanes"
+msgstr "Alle svømmebaner"
+msgid "All colors"
+msgstr "Alle farger"
+msgid "Moved to column %s"
+msgstr "Flyttet til kolonne %s"
+msgid "User dashboard"
+msgstr "Brukerens hovedside"
+msgid "Allow only one subtask in progress at the same time for a user"
+msgstr "Tillat kun en aktiv deloppgave for brukerne"
+msgid "Edit column \"%s\""
+msgstr "Endre kolonne \"%s\""
+msgid "Select the new status of the subtask: \"%s\""
+msgstr "Sett ny status for deloppgave: \"%s\""
+msgid "Subtask timesheet"
+msgstr "Tidsskjema for deloppgaver"
+msgid "There is nothing to show."
+msgstr "Ingen data å vise"
+msgid "Time Tracking"
+msgstr "Tidsregistrering"
+msgid "You already have one subtask in progress"
+msgstr "Du har allerede en aktiv deloppgave i dette prosjektet"
+msgid "Which parts of the project do you want to duplicate?"
+msgstr "Hvilke deler av dette prosjektet ønsker du å kopiere?"
+msgid "Disallow login form"
+msgstr "Deaktiver innloggingsbilde"
+msgid "Start"
+msgstr "Start"
+msgid "End"
+msgstr "Slutt"
+msgid "Task age in days"
+msgstr "Antall dager siden siden oppgaven ble opprettet"
+msgid "Days in this column"
+msgstr "Antall dager siden oppgaven ble lagt i denne kolonnen"
+msgid "%dd"
+msgstr "%dd"
+msgid "Add a new link"
+msgstr "Legg til en ny relasjon"
+msgid "Do you really want to remove this link: \"%s\"?"
+msgstr "Ønsker du virkelig å fjerne lenken: \"%s\""
+msgid "Do you really want to remove this link with task #%d?"
+msgstr "Ønsker du virkelig å fjerne lenken oppgaven #%d?"
+msgid "Field required"
+msgstr "Feltet må fylles ut"
+msgid "Link added successfully."
+msgstr "Ny relasjon er lagt til"
+msgid "Link updated successfully."
+msgstr "Relasjon er oppdatert"
+msgid "Link removed successfully."
+msgstr "Relasjon er fjernet"
+msgid "Link labels"
+msgstr "Relasjoner"
+msgid "Link modification"
+msgstr "Relasjonsmodifisering"
+msgid "Opposite label"
+msgstr "Etikett for relatert motsatt oppgave"
+msgid "Remove a link"
+msgstr "Fjern relasjon"
+msgid "The labels must be different"
+msgstr "Titlene må være ulike"
+msgid "There is no link."
+msgstr "Ingen lenker funnet"
+msgid "This label must be unique"
+msgstr "Tittelen må være unik"
+msgid "Unable to create your link."
+msgstr "Kunne ikke opprette lenken."
+msgid "Unable to update your link."
+msgstr "Kunne ikke endre lenken."
+msgid "Unable to remove this link."
+msgstr "Kunne ikke fjerne lenken"
+msgid "relates to"
+msgstr "relatert til"
+msgid "blocks"
+msgstr "blokkerer"
+msgid "is blocked by"
+msgstr "blokkeres av"
+msgid "duplicates"
+msgstr "kopierer"
+msgid "is duplicated by"
+msgstr "er en kopi av"
+msgid "is a child of"
+msgstr "er en underordnet oppgave av"
+msgid "is a parent of"
+msgstr "er en overordnet oppgave for"
+msgid "targets milestone"
+msgstr "milepel"
+msgid "is a milestone of"
+msgstr "er en milepel for"
+msgid "fixes"
+msgstr "løser"
+msgid "is fixed by"
+msgstr "løses av"
+msgid "This task"
+msgstr "Denne oppgaven"
+msgid "<1h"
+msgstr "<1t"
+msgid "%dh"
+msgstr "%dt"
+msgid "Expand tasks"
+msgstr "Utvid oppgavevisning"
+msgid "Collapse tasks"
+msgstr "Komprimer oppgavevisning"
+msgid "Expand/collapse tasks"
+msgstr "Utvide/komprimere oppgavevisning"
+msgid "Close dialog box"
+msgstr "Lukk dialogvindu"
+msgid "Submit a form"
+msgstr "Send inn skjema"
+msgid "Board view"
+msgstr "Tavlevisning"
+msgid "Keyboard shortcuts"
+msgstr "Hurtigtaster"
+msgid "Open board switcher"
+msgstr "Åpne tavleskifter"
+msgid "Application"
+msgstr "Applikasjon"
+msgid "Compact view"
+msgstr "Kompakt visning"
+msgid "Horizontal scrolling"
+msgstr "Bla horisontalt"
+msgid "Compact/wide view"
+msgstr "Kompakt/bred visning"
+msgid "Currency"
+msgstr "Valuta"
+msgid "Personal project"
+msgstr "Privat prosjekt"
+msgid "AUD - Australian Dollar"
+msgstr "AUD - Australske dollar"
+msgid "CAD - Canadian Dollar"
+msgstr "CAD - Kanadiske dollar"
+msgid "CHF - Swiss Francs"
+msgstr "CHF - Sveitsiske frank"
+msgid "Custom Stylesheet"
+msgstr "Egendefinert stilark"
+msgid "EUR - Euro"
+msgstr "EUR - Euro"
+msgid "GBP - British Pound"
+msgstr "GBP - Britiske pund"
+msgid "INR - Indian Rupee"
+msgstr "INR - Indiske rupi"
+msgid "JPY - Japanese Yen"
+msgstr "JPY - Japanske yen"
+msgid "NZD - New Zealand Dollar"
+msgstr "NZD - New Zealand Dollar"
+msgid "RSD - Serbian dinar"
+msgstr "RSD - Serbiske dinarer"
+msgid "CNY - Chinese Yuan"
+msgstr "CNY - Kinesiske yuan"
+msgid "USD - US Dollar"
+msgstr "USD - Amerikanske dollar"
+msgid "VES - Venezuelan Bolívar"
+msgstr ""
+msgid "Destination column"
+msgstr "Ny kolonne"
+msgid "Move the task to another column when assigned to a user"
+msgstr "Flytt oppgaven til en annen kolonne når den er tildelt en bruker"
+msgid "Move the task to another column when assignee is cleared"
+msgstr "Flytt oppgaven til en annen kolonne når ppgavetildeling fjernes "
+msgid "Source column"
+msgstr "Opprinnelig kolonne"
+msgid "Transitions"
+msgstr "Statusendringer"
+msgid "Executer"
+msgstr "Utfører"
+msgid "Time spent in the column"
+msgstr "Medgått tid i kolonnen"
+msgid "Task transitions"
+msgstr "Oppgavebevegelser"
+msgid "Task transitions export"
+msgstr "Eksportere oppgavebevegelser"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Rapporten inneholder alle kolonnebevegelser for hver oppgave, med dato, bruker og tidsforbruk for hver bevegelse"
+msgid "Currency rates"
+msgstr "Valutakurser"
+msgid "Rate"
+msgstr "Kurs"
+msgid "Change reference currency"
+msgstr "Endre refereransevaluta"
+msgid "Reference currency"
+msgstr "Referansevaluta"
+msgid "The currency rate has been added successfully."
+msgstr "Referansevaluta er endret"
+msgid "Unable to add this currency rate."
+msgstr "Kan ikke legge til denne valutakursen"
+msgid "Webhook URL"
+msgstr "Webhook URL"
+msgid "%s removed the assignee of the task %s"
+msgstr "%s fjernet ansvarlige for oppgaven %s"
+msgid "Information"
+msgstr "Informasjon"
+msgid "Check two factor authentication code"
+msgstr "Kontrollerer kode for tofaktor autensitering"
+msgid "The two factor authentication code is not valid."
+msgstr "Autentiseringskoden er ikke gyldig"
+msgid "The two factor authentication code is valid."
+msgstr "Autentiseringskoden er gyldig"
+msgid "Code"
+msgstr "Kode"
+msgid "Two factor authentication"
+msgstr "Tofaktor autentisering"
+msgid "This QR code contains the key URI: "
+msgstr "Denne QR-koden inneholder nøkkel URI: "
+msgid "Check my code"
+msgstr "Sjekk koden min"
+msgid "Secret key: "
+msgstr "Hemmelig nøkkel"
+msgid "Test your device"
+msgstr "Test din enhet"
+msgid "Assign a color when the task is moved to a specific column"
+msgstr "Endre til en valgt farge hvis en oppgave flyttes til en spesifikk kolonne"
+msgid "%s via Kanboard"
+msgstr "%s via Kanboard"
+msgid "Burndown chart"
+msgstr "Burndown diagram"
+msgid "This chart show the task complexity over the time (Work Remaining)."
+msgstr "Dette diagrammet viser oppgavekopleksitet over tid (gjenstående arbeid)"
+msgid "Screenshot taken %s"
+msgstr "Skjemskudd lagt inn %s"
+msgid "Add a screenshot"
+msgstr "Legg til et skjermbilde"
+msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
+msgstr "Ta et skjermskudd og trykk CTRL+V eller ⌘+V for å lime inn her."
+msgid "Screenshot uploaded successfully."
+msgstr "Skjermbilde opplastet"
+msgid "SEK - Swedish Krona"
+msgstr "SEK - Svenske kroner"
+msgid "Identifier"
+msgstr "Prosjektkode"
+msgid "Disable two factor authentication"
+msgstr "Slå av tofaktor autentisering"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Er du sikker på at du vil slå av tofaktor autentisering for bruker: \"%s\"?"
+msgid "Edit link"
+msgstr "Endre lenke"
+msgid "Start to type task title..."
+msgstr "Skriv in tittel"
+msgid "A task cannot be linked to itself"
+msgstr "Oppgaver kan ikke lenkes til seg selv"
+msgid "The exact same link already exists"
+msgstr "Denne lenken finnes fra før"
+msgid "Recurrent task is scheduled to be generated"
+msgstr "Gjentagende oppgave vil bli opprettet"
+msgid "Score"
+msgstr "Poeng"
+msgid "The identifier must be unique"
+msgstr "Identifikatoren må være unik"
+msgid "This linked task id doesn't exists"
+msgstr "Den lenkede oppgave-IDen finnes ikke"
+msgid "This value must be alphanumeric"
+msgstr "Verdien må være alfanumerisk"
+msgid "Edit recurrence"
+msgstr "Endre gjentakelser"
+msgid "Generate recurrent task"
+msgstr "Opprett gjentagende oppgave"
+msgid "Trigger to generate recurrent task"
+msgstr "Betingelse for å generere gjentakende oppgave"
+msgid "Factor to calculate new due date"
+msgstr "Faktor for å beregne ny tidsfrist"
+msgid "Timeframe to calculate new due date"
+msgstr "Tidsramme for å beregne ny tidsfrist"
+msgid "Base date to calculate new due date"
+msgstr "Grunnlagsdato for å beregne ny tidsfrist"
+msgid "Action date"
+msgstr "Hendelsesdato"
+msgid "Base date to calculate new due date: "
+msgstr "Grunnlagsdato for å beregne ny tidsfrist"
+msgid "This task has created this child task: "
+msgstr "Denne oppgaven har opprettet denne relaterte oppgaven"
+msgid "Day(s)"
+msgstr "Dager"
+msgid "Existing due date"
+msgstr "Gjeldende tidsfrist"
+msgid "Factor to calculate new due date: "
+msgstr "Faktor for å beregne ny tidsfrist"
+msgid "Month(s)"
+msgstr "Måneder"
+msgid "This task has been created by: "
+msgstr "Denne oppgaven er opprettet av:"
+msgid "Recurrent task has been generated:"
+msgstr "Repeterende oppgave er opprettet"
+msgid "Timeframe to calculate new due date: "
+msgstr "Tidsrom for beregning av ny tidsfrist: "
+msgid "Trigger to generate recurrent task: "
+msgstr "Trigger for å generere gjentagende oppgave: "
+msgid "When task is closed"
+msgstr "Når oppgaven er lukket"
+msgid "When task is moved from first column"
+msgstr "Når oppgaven er flyttet fra første kolon"
+msgid "When task is moved to last column"
+msgstr "Når oppgaven er flyttet til siste kolonne"
+msgid "Year(s)"
+msgstr "år"
+msgid "Project settings"
+msgstr "Prosjektinnstillinger"
+msgid "Automatically update the start date"
+msgstr "Oppdater automatisk start-datoen"
+msgid "iCal feed"
+msgstr "iCal strøm"
+msgid "Preferences"
+msgstr "Preferanser"
+msgid "Security"
+msgstr "Sikkerhet"
+msgid "Two factor authentication disabled"
+msgstr "Dobbelgodkjenning deaktivert"
+msgid "Two factor authentication enabled"
+msgstr "Dobbelgodkjenning aktivert"
+msgid "Unable to update this user."
+msgstr "Kan ikke oppdatere brukeren"
+msgid "There is no user management for personal projects."
+msgstr "Private prosjekter har ikke brukeradministrasjon"
+msgid "User that will receive the email"
+msgstr "Bruker som vil motta den nye e-posten"
+msgid "Email subject"
+msgstr "E-post emne"
+msgid "Date"
+msgstr "Dato"
+msgid "Add a comment log when moving the task between columns"
+msgstr "Legg til en kommentar i loggen når en oppgave flyttes mellom kolonnene"
+msgid "Move the task to another column when the category is changed"
+msgstr "Flytt oppgaven til en annen kolonne når kategorien endres"
+msgid "Send a task by email to someone"
+msgstr "Send en oppgave på epost til noen"
+msgid "Reopen a task"
+msgstr "Gjenåpne oppgave"
+msgid "Notification"
+msgstr "Varsel"
+msgid "%s moved the task #%d to the first swimlane"
+msgstr "%s  flyttet oppgaven #%d til første svømmebane"
+msgid "Swimlane"
+msgstr "Svømmebane"
+msgid "%s moved the task %s to the first swimlane"
+msgstr "%s flyttet oppgaven %s til første svømmebane"
+msgid "%s moved the task %s to the swimlane \"%s\""
+msgstr "%s flyttet oppgaven %s til svømmebanen \"%s\""
+msgid "This report contains all subtasks information for the given date range."
+msgstr "Rapporten viser informasjon om alle deloppgaver for valgte tidsrom."
+msgid "This report contains all tasks information for the given date range."
+msgstr "Rapporten inneholder informasjon om alle oppgaver for valgte tidsrom"
+msgid "Project activities for %s"
+msgstr "Prosjektaktiviteter for %s"
+msgid "view the board on Kanboard"
+msgstr "vis tavlen"
+msgid "The task has been moved to the first swimlane"
+msgstr "Oppgaven er flyttet til første svømmebane"
+msgid "The task has been moved to another swimlane:"
+msgstr "Oppgaven er flyttet til en annen svømmebane:"
+msgid "New title: %s"
+msgstr "Ny tittel: %s"
+msgid "The task is not assigned anymore"
+msgstr "Oppgaven har ikke lenger noen ansvarlig"
+msgid "New assignee: %s"
+msgstr "Ny ansvarlig: %s"
+msgid "There is no category now"
+msgstr "Ingen kategori nå"
+msgid "New category: %s"
+msgstr "Ny kategori: %s"
+msgid "New color: %s"
+msgstr "Ny farge: %s"
+msgid "New complexity: %d"
+msgstr "Ny kompleksitet: %d"
+msgid "The due date has been removed"
+msgstr "Fristdato er fjernet"
+msgid "There is no description anymore"
+msgstr "Ikke lenger noen beskrivelse"
+msgid "Recurrence settings has been modified"
+msgstr "Instillinger for gjentagelse er endret"
+msgid "Time spent changed: %sh"
+msgstr "Tidsforbruk er endret: %sh"
+msgid "Time estimated changed: %sh"
+msgstr "Tidsestimat er endret: %sh"
+msgid "The field \"%s\" has been updated"
+msgstr "Feltet \"%s\" er oppdatert"
+msgid "The description has been modified:"
+msgstr "Beskrivelsen er endret"
+msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
+msgstr "Ønsker du virkelig å lukke oppgaven \"%s\" og alle tilhørende deloppgaver?"
+msgid "I want to receive notifications for:"
+msgstr "Jeg vil motta varslinger om:"
+msgid "All tasks"
+msgstr "Alle oppgaver"
+msgid "Only for tasks assigned to me"
+msgstr "Kun oppgaver som er tildelt meg"
+msgid "Only for tasks created by me"
+msgstr "Kun oppgaver som er opprettet av meg"
+msgid "Only for tasks created by me and tasks assigned to me"
+msgstr "Kun oppgaver som er opprettet av meg og tildelt meg"
+msgid "%%Y-%%m-%%d"
+msgstr "%%d-%%m-%%Y"
+msgid "Total for all columns"
+msgstr "Totalt for alle kolonner"
+msgid "You need at least 2 days of data to show the chart."
+msgstr "Du må ha minimum 2 dager med data for å kunne se dette diagrammet"
+msgid "<15m"
+msgstr "<15m"
+msgid "<30m"
+msgstr "<30m"
+msgid "Stop timer"
+msgstr "Stopp timer"
+msgid "Start timer"
+msgstr "Start timer"
+msgid "My activity stream"
+msgstr "Aktivitetslogg"
+msgid "Search tasks"
+msgstr "Søk oppgave"
+msgid "Reset filters"
+msgstr "Nullstill filter"
+msgid "My tasks due tomorrow"
+msgstr "Mine oppgaver med frist i morgen"
+msgid "Tasks due today"
+msgstr "Oppgaver med frist i dag"
+msgid "Tasks due tomorrow"
+msgstr "Oppgaver med frist i morgen"
+msgid "Tasks due yesterday"
+msgstr "Oppgaver med frist i går"
+msgid "Closed tasks"
+msgstr "Fullførte oppgaver"
+msgid "Open tasks"
+msgstr "Åpne oppgaver"
+msgid "Not assigned"
+msgstr "Ikke tildelt"
+msgid "View advanced search syntax"
+msgstr "Vis hjelp for avansert søk "
+msgid "Overview"
+msgstr "Oversikt"
+msgid "Board/Calendar/List view"
+msgstr "Oversikt/kalender/listevisning"
+msgid "Switch to the board view"
+msgstr "Oversiktsvisning"
+msgid "Switch to the list view"
+msgstr "Listevisning"
+msgid "Go to the search/filter box"
+msgstr "Gå til søk/filter"
+msgid "There is no activity yet."
+msgstr "Ingen aktiviteter ennå."
+msgid "No tasks found."
+msgstr "Ingen oppgaver funnet"
+msgid "Keyboard shortcut: \"%s\""
+msgstr "Hurtigtaster: \"%s\""
+msgid "List"
+msgstr "Liste"
+msgid "Filter"
+msgstr "Filter"
+msgid "Advanced search"
+msgstr "Avansert søk"
+msgid "Example of query: "
+msgstr "Eksempel på spørring"
+msgid "Search by project: "
+msgstr "Søk etter prosjekt"
+msgid "Search by column: "
+msgstr "Søk etter kolonne"
+msgid "Search by assignee: "
+msgstr "Søk etter tildelt"
+msgid "Search by color: "
+msgstr "Søk etter farge"
+msgid "Search by category: "
+msgstr "Søk etter kategori"
+msgid "Search by description: "
+msgstr "Søk etter beskrivelse"
+msgid "Search by due date: "
+msgstr "Søk etter frist"
+msgid "Average time spent in each column"
+msgstr "Gjennomsnittlig tid i hver kolonne"
+msgid "Average time spent"
+msgstr "Gjennomsnittlig tidsbruk"
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Dette diagrammet viser gjennomsnittlig tid i hver kolonne for de siste %d oppgavene."
+msgid "Average Lead and Cycle time"
+msgstr "Gjennomsnittlig ledetid og syklustid"
+msgid "Average lead time: "
+msgstr "Gjennomsnittlig ledetid"
+msgid "Average cycle time: "
+msgstr "Gjennomsnitlig syklustid"
+msgid "Cycle Time"
+msgstr "Syklustid"
+msgid "Lead Time"
+msgstr "Ledetid"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Dette diagrammet viser gjennomsnittlig ledetid og syklustid for de siste %d oppgavene."
+msgid "Average time into each column"
+msgstr "Gjennomsnittlig tid i hver kolonne"
+msgid "Lead and cycle time"
+msgstr "Ledetid og syklustid"
+msgid "Lead time: "
+msgstr "Ledetid"
+msgid "Cycle time: "
+msgstr "Syklustid"
+msgid "Time spent in each column"
+msgstr "Tid brukt i hver kolonne"
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "Ledetid er tidsrommet fra oppgaven opprettes til den er fullført"
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "Syklustid er tidsrommet fra oppgaven starter til den er fullført"
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Dersom oppgaven ikke er lukket brukes dagens dato i stedet for fullført dato."
+msgid "Set the start date automatically"
+msgstr "Sett startdato automatisk"
+msgid "Edit Authentication"
+msgstr "Endre autentisering"
+msgid "Remote user"
+msgstr "Ekstern bruker"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Eksterne brukere har ikke passordet lagret i Kanboard. Eksempel: LDAP, Google og Github-kontoer."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Hvis du har krysset av for \"Deaktiver innloggingsbilde\" vil opplysninger som tastes inn i innloggingsskjemaet bli ignorert"
+msgid "Default task color"
+msgstr "Standard oppgavefarge"
+msgid "This feature does not work with all browsers."
+msgstr "Denne funksjonen virker ikke i alle nettlesere"
+msgid "There is no destination project available."
+msgstr "Finner ikke noe målprosjekt"
+msgid "Trigger automatically subtask time tracking"
+msgstr "Automatisk tidsforbruk for deloppgaver"
+msgid "Include closed tasks in the cumulative flow diagram"
+msgstr "Ta med lukkede oppgaver i kumulativt flytdiagram"
+msgid "Current swimlane: %s"
+msgstr "Nåværende svømmebane: %s"
+msgid "Current column: %s"
+msgstr "Nåværende kolonne: %s"
+msgid "Current category: %s"
+msgstr ": %s"
+msgid "no category"
+msgstr "ingen kategori"
+msgid "Current assignee: %s"
+msgstr "Tildelt til %s"
+msgid "not assigned"
+msgstr "ikke tildelt"
+msgid "Author:"
+msgstr "Opprettet av"
+msgid "contributors"
+msgstr "bidragsytere"
+msgid "License:"
+msgstr "Lisens:"
+msgid "License"
+msgstr "Lisens"
+msgid "Enter the text below"
+msgstr "Skriv inn bokstavene du ser i bildet"
+msgid "Start date:"
+msgstr "Startdato:"
+msgid "Due date:"
+msgstr "Frist:"
+msgid "People who are project managers"
+msgstr "Prosjektledere"
+msgid "People who are project members"
+msgstr "Prosjektmedlemmer"
+msgid "NOK - Norwegian Krone"
+msgstr "NOK - Norske kroner"
+msgid "Show this column"
+msgstr "Vis denne kolonnen"
+msgid "Hide this column"
+msgstr "Skjul denne kolonnen"
+msgid "End date"
+msgstr "Sluttdato"
+msgid "Users overview"
+msgstr "Brukeroversikt"
+msgid "Members"
+msgstr "Medlemmer"
+msgid "Shared project"
+msgstr "Delt prosjekt"
+msgid "Project managers"
+msgstr "Prosjektledere"
+msgid "Projects list"
+msgstr "Prosjektliste"
+msgid "End date:"
+msgstr "Sluttdato:"
+msgid "Change task color when using a specific task link"
+msgstr "Endre oppgavefarge når det brukes en definert oppgavelenke"
+msgid "Task link creation or modification"
+msgstr "Oppgavelenke opprettet eller endret"
+msgid "Milestone"
+msgstr "Milepæl"
+msgid "Reset the search/filter box"
+msgstr "Nullstill søk/filter"
+msgid "Documentation"
+msgstr "Dokumentasjon"
+msgid "Author"
+msgstr "Forfatter"
+msgid "Version"
+msgstr "Versjon"
+msgid "Plugins"
+msgstr "Innstikk"
+msgid "There is no plugin loaded."
+msgstr "Ingen innstikk er lastet"
+msgid "My notifications"
+msgstr "Mine varslinger"
+msgid "Custom filters"
+msgstr "Egendefinerte filtre"
+msgid "Your custom filter has been created successfully."
+msgstr "Egendefinert filter er opprettet."
+msgid "Unable to create your custom filter."
+msgstr "Feil ved oppretting av egendefinert filter."
+msgid "Custom filter removed successfully."
+msgstr "Egendefinert filter er slettet."
+msgid "Unable to remove this custom filter."
+msgstr "Feil ved sletting av egendefinert filter."
+msgid "Edit custom filter"
+msgstr "Endre egendefinert filter"
+msgid "Your custom filter has been updated successfully."
+msgstr "Egendefinert filter er endret."
+msgid "Unable to update custom filter."
+msgstr "Feil ved endring av egendefinert filter."
+msgid "Web"
+msgstr "Web"
+msgid "New attachment on task #%d: %s"
+msgstr "Nytt vedlegg til oppgaven #%d: %s"
+msgid "New comment on task #%d"
+msgstr "Ny kommentar på oppgaven #%d"
+msgid "Comment updated on task #%d"
+msgstr "Kommentar endret for oppgaven #%d"
+msgid "New subtask on task #%d"
+msgstr "Ny deloppgave for oppgaven #%d"
+msgid "Subtask updated on task #%d"
+msgstr "Deloppgave er endret for oppgave #%d"
+msgid "New task #%d: %s"
+msgstr "Ny oppgave #%d: %s"
+msgid "Task updated #%d"
+msgstr "Oppgaven #%d er endret"
+msgid "Task #%d closed"
+msgstr "Oppgaven #%d er lukket"
+msgid "Task #%d opened"
+msgstr "Oppgaven #%d er åpnet"
+msgid "Column changed for task #%d"
+msgstr "Kolonne endret for oppgaven #%d"
+msgid "New position for task #%d"
+msgstr "Ny posisjon for oppgaven #%d"
+msgid "Swimlane changed for task #%d"
+msgstr "Svømmebane er endret for oppgaven #%d"
+msgid "Assignee changed on task #%d"
+msgstr "Ansvarlig er endret for oppgaven #%d"
+msgid "%d overdue tasks"
+msgstr "%d forfalte oppgaver"
+msgid "Task #%d is overdue"
+msgstr "Oppgave #%d er forfalt"
+msgid "No notification."
+msgstr "Ingen varslinger"
+msgid "Mark all as read"
+msgstr "Merk alle som lest"
+msgid "Mark as read"
+msgstr "Merk som lest"
+msgid "Total number of tasks in this column across all swimlanes"
+msgstr "Totalt antall oppgaver i denne kolonnen gjennom alle svømmebaner"
+msgid "Collapse swimlane"
+msgstr "Slå sammen svømmebanen"
+msgid "Expand swimlane"
+msgstr "Fold ut svømmebane"
+msgid "Add a new filter"
+msgstr "Lag nytt filter"
+msgid "Share with all project members"
+msgstr "Del med alle prosjektdeltagere"
+msgid "Shared"
+msgstr "Delt"
+msgid "Owner"
+msgstr "Eier"
+msgid "Unread notifications"
+msgstr "Uleste varslinger"
+msgid "Notification methods:"
+msgstr "Varslingsmetoder"
+msgid "Unable to read your file"
+msgstr "Kan ikke lese filen"
+msgid "%d task(s) have been imported successfully."
+msgstr "%d oppgave(r) er importert."
+msgid "Nothing has been imported!"
+msgstr "Ingenting ble importert!"
+msgid "Import users from CSV file"
+msgstr "Importere brukere fra CSV-fil"
+msgid "%d user(s) have been imported successfully."
+msgstr "%d bruker(e) er imporert."
+msgid "Comma"
+msgstr "Komma"
+msgid "Semi-colon"
+msgstr "Semikolon"
+msgid "Tab"
+msgstr "Tabulator"
+msgid "Vertical bar"
+msgstr "Loddrett strek"
+msgid "Double Quote"
+msgstr "Rett sitattegn"
+msgid "Single Quote"
+msgstr "Rett apostrof"
+msgid "%s attached a file to the task #%d"
+msgstr "%s la ved en fil til oppgaven #%d"
+msgid "There is no column or swimlane activated in your project!"
+msgstr "Prosjektet har ingen aktive kolonner eller svømmebaner!"
+msgid "Append filter (instead of replacement)"
+msgstr "Tilføy filter (i stedet for å erstatte)"
+msgid "Append/Replace"
+msgstr "Tilføu/erstatt"
+msgid "Append"
+msgstr "Tilføy"
+msgid "Replace"
+msgstr "Erstatt"
+msgid "Import"
+msgstr "Importer"
+msgid "Change sorting"
+msgstr "Endre sortering"
+msgid "Tasks Importation"
+msgstr "Importere oppgaver"
+msgid "Delimiter"
+msgstr "Feltavgrenser"
+msgid "Enclosure"
+msgstr "Streng skilletegn"
+msgid "CSV File"
+msgstr "CSV-fil"
+msgid "Instructions"
+msgstr "Instruksjoner"
+msgid "Your file must use the predefined CSV format"
+msgstr "Filen må ha et forhåndsdefinert CSV-format"
+msgid "Your file must be encoded in UTF-8"
+msgstr "Filen må være kodet i UTF-8"
+msgid "The first row must be the header"
+msgstr "Første rad må være overskrifter"
+msgid "Duplicates are not verified for you"
+msgstr "Det blir ikke sjekket for duplikater"
+msgid "The due date must use the ISO format: YYYY-MM-DD"
+msgstr "Tidsfrister må angis i ISO-format: ÅÅÅÅ-MM-DD"
+msgid "Download CSV template"
+msgstr "Last ned en CSV-mal"
+msgid "No external integration registered."
+msgstr "Ingen ekstern intergasjon er registrert"
+msgid "Duplicates are not imported"
+msgstr "Duplikater importeres ikke"
+msgid "Usernames must be lowercase and unique"
+msgstr "Brukernavn må være unike og skrevet i små bokstaver"
+msgid "Passwords will be encrypted if present"
+msgstr "Eventuelt oppgitte passord vil blir kryptert"
+msgid "%s attached a new file to the task %s"
+msgstr "%s la ved en ny fil til oppgaven %s"
+msgid "Link type"
+msgstr "Relasjonstype"
+msgid "Assign automatically a category based on a link"
+msgstr "Tildel kategori automatisk basert på lenke"
+msgid "BAM - Konvertible Mark"
+msgstr "BAM - Bosniske mark"
+msgid "Assignee Username"
+msgstr "Brukernavn ansvarlig"
+msgid "Assignee Name"
+msgstr "Fullt navn ansvarlig"
+msgid "Groups"
+msgstr "Grupper"
+msgid "Members of %s"
+msgstr "Medlemmer av %s"
+msgid "New group"
+msgstr "Ny gruppe"
+msgid "Group created successfully."
+msgstr "Gruppen er opprettet"
+msgid "Unable to create your group."
+msgstr "Kunne ikke opprette gruppen"
+msgid "Edit group"
+msgstr "Endre gruppe"
+msgid "Group updated successfully."
+msgstr "Gruppen er endret"
+msgid "Unable to update your group."
+msgstr "Kunne ikke endre gruppen"
+msgid "Add group member to \"%s\""
+msgstr "Legg gruppemedlem til \"%s\""
+msgid "Group member added successfully."
+msgstr "Gruppemedlem lagt til"
+msgid "Unable to add group member."
+msgstr "Kunne ikke legge til gruppemedlem"
+msgid "Remove user from group \"%s\""
+msgstr "Fjern bruker fra gruppen \"%s\""
+msgid "User removed successfully from this group."
+msgstr "Bruker er fjernet fra denne gruppen."
+msgid "Unable to remove this user from the group."
+msgstr "Kunne ikke fjerne bruker fra gruppen."
+msgid "Remove group"
+msgstr "Fjern gruppe"
+msgid "Group removed successfully."
+msgstr "Gruppen er fjernet"
+msgid "Unable to remove this group."
+msgstr "Kunne ikke fjerne gruppen"
+msgid "Project Permissions"
+msgstr "Prosjektrettigheter"
+msgid "Manager"
+msgstr "Leder"
+msgid "Project Manager"
+msgstr "Prosjektleder"
+msgid "Project Member"
+msgstr "Prosjektdeltager"
+msgid "Project Viewer"
+msgstr "Kun lesetilgang"
+msgid "Your account is locked for %d minutes"
+msgstr "Kontoen din vil være låst i %d minutter"
+msgid "Invalid captcha"
+msgstr "Ugyldig captcha"
+msgid "The name must be unique"
+msgstr "Navnet må være unikt"
+msgid "View all groups"
+msgstr "Vis alle grupper"
+msgid "There is no user available."
+msgstr "Ingen tilgjengelig bruker"
+msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
+msgstr "Ønsker du virkelig å fjerne bruker \"%s\" fra gruppen \"%s\"?"
+msgid "There is no group."
+msgstr "Ingen grupper opprettet"
+msgid "Add group member"
+msgstr "Legg til medlem"
+msgid "Do you really want to remove this group: \"%s\"?"
+msgstr "Ønsker du virkelig å fjerne gruppen \"%s\""
+msgid "There is no user in this group."
+msgstr "Gruppen har ingen medlemmer"
+msgid "Permissions"
+msgstr "Rettigheter"
+msgid "Allowed Users"
+msgstr "Brukere med tilgang"
+msgid "No specific user has been allowed."
+msgstr "Ingen brukere er lagt inn foreløpig"
+msgid "Role"
+msgstr "Rolle"
+msgid "Enter user name..."
+msgstr "Skriv brukenavn"
+msgid "Allowed Groups"
+msgstr "Brukergrupper med tilgang"
+msgid "No group has been allowed."
+msgstr "Ingen brukergrupper er lagt inn foreløpig"
+msgid "Group"
+msgstr "Gruppe"
+msgid "Group Name"
+msgstr "Gruppenavn"
+msgid "Enter group name..."
+msgstr "Skriv gruppenavn"
+msgid "Role:"
+msgstr "Rolle"
+msgid "Project members"
+msgstr "Prosjektmedlemmer"
+msgid "%s mentioned you in the task #%d"
+msgstr "%s nevnte deg i oppgaven #%d"
+msgid "%s mentioned you in a comment on the task #%d"
+msgstr "%s nevnte deg i en kommentar på oppgaven #%d"
+msgid "You were mentioned in the task #%d"
+msgstr "Du ble nevnt i oppgaven #%d"
+msgid "You were mentioned in a comment on the task #%d"
+msgstr "Du ble nevnt i en kommentar på oppgaven #%d"
+msgid "Estimated hours: "
+msgstr "Estimerte timer:"
+msgid "Actual hours: "
+msgstr "Faktisk medgåtte timer"
+msgid "Hours Spent"
+msgstr "Brukt timer"
+msgid "Hours Estimated"
+msgstr "Estimerte timer"
+msgid "Estimated Time"
+msgstr "Estimert tid"
+msgid "Actual Time"
+msgstr "Medgått tid"
+msgid "Estimated vs actual time"
+msgstr "Estimert mot virkelig tid"
+msgid "RUB - Russian Ruble"
+msgstr "RUB - Russiske rubler"
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "Tildel oppgaven til personen som flytter den til en annen kolonne"
+msgid "Close a task in a specific column"
+msgstr "Lukk en oppgave i en angitt kolonne"
+msgid "Time-based One-time Password Algorithm"
+msgstr "Algoritme for tidsbasert engangspassord"
+msgid "Two-Factor Provider: "
+msgstr "Tofaktorleverandør:"
+msgid "Disable two-factor authentication"
+msgstr "Deaktiver tofaktorautentisering"
+msgid "Enable two-factor authentication"
+msgstr "Aktiver tofaktorautentisering"
+msgid "There is no integration registered at the moment."
+msgstr "Ingen registrert integrasjon."
+msgid "Password Reset for Kanboard"
+msgstr "Nytt passord til Kanboard"
+msgid "Forgot password?"
+msgstr "Glemt passord?"
+msgid "Enable \"Forget Password\""
+msgstr "Bruk "Glemt passord""
+msgid "Password Reset"
+msgstr "Nytt passord"
+msgid "New password"
+msgstr "Nytt passord"
+msgid "Change Password"
+msgstr "Endre passord"
+msgid "To reset your password click on this link:"
+msgstr "Bruk denne lenken for å tilbakestille passordet ditt:"
+msgid "Last Password Reset"
+msgstr "Forrige passordendring"
+msgid "The password has never been reinitialized."
+msgstr "Passordet er aldri blitt endret"
+msgid "Creation"
+msgstr "Opprettet"
+msgid "Expiration"
+msgstr "Utløper"
+msgid "Password reset history"
+msgstr "Passordhistorikk"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "Alle oppgaver i kolonne \"%s\" og svømmebane \"%s\" er lukket."
+msgid "Do you really want to close all tasks of this column?"
+msgstr "Ønsker du virkelig å lukke ALLE saker i kolonnen?"
+msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+msgstr "%d oppgave(r) i kolonne \"%s\" og svømmebane \"%s\" vil bli lukket."
+msgid "Close all tasks in this column and this swimlane"
+msgstr "Lukk alle saker i denne kolonnen"
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Det finnes ingen innstikk for prosjektvarsling. Du kan likevel sette opp individuelle varslinger i brukerprofilen din."
+msgid "My dashboard"
+msgstr "Mitt dashbord"
+msgid "My profile"
+msgstr "Min profil"
+msgid "Project owner: "
+msgstr "Prosjekteier: "
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Du kan lage en valgfri, alfanumerisk prosjektkode — for eksempel MITTPROSJEKT"
+msgid "Project owner"
+msgstr "Prosjekteier"
+msgid "Personal projects do not have users and groups management."
+msgstr "Private prosjekter har ikke brukere eller gruppeadministrasjon"
+msgid "There is no project member."
+msgstr "Ingen prosjektmedlemmer"
+msgid "Priority"
+msgstr "Prioritet"
+msgid "Task priority"
+msgstr "Prioritet"
+msgid "General"
+msgstr "Generelt"
+msgid "Dates"
+msgstr "Datoer"
+msgid "Default priority"
+msgstr "Standard"
+msgid "Lowest priority"
+msgstr "Lav"
+msgid "Highest priority"
+msgstr "Høy"
+msgid "Close a task when there is no activity"
+msgstr "Lukk enoppgave når det ikke er noen aktivitet"
+msgid "Duration in days"
+msgstr "Varighet i dager"
+msgid "Send email when there is no activity on a task"
+msgstr "Send e-post når det ikke er noen aktivitet på en oppgave"
+msgid "Unable to fetch link information."
+msgstr "Kan ikke hente lenkeinformasjon"
+msgid "Daily background job for tasks"
+msgstr "Daglig bakgrunnsjobb for oppgaver"
+msgid "Auto"
+msgstr "Auto"
+msgid "Related"
+msgstr "Relasjon"
+msgid "Attachment"
+msgstr "Vedlegg"
+msgid "Title not found"
+msgstr "Finner ingen tittel"
+msgid "Web Link"
+msgstr "Web-lenke"
+msgid "External links"
+msgstr "Eksterne lenker"
+msgid "Add external link"
+msgstr "Ny ekstern lenke"
+msgid "Type"
+msgstr "Type"
+msgid "Dependency"
+msgstr "Avhenger av"
+msgid "Add internal link"
+msgstr "Lag intern lenke"
+msgid "Add a new external link"
+msgstr "Lag ekstern lenke"
+msgid "Edit external link"
+msgstr "Endre ekstern lenke"
+msgid "External link"
+msgstr "Ekstern lenke"
+msgid "Copy and paste your link here..."
+msgstr "Kopier lenken og lim den inn her"
+msgid "URL"
+msgstr "URL"
+msgid "Internal links"
+msgstr "Interne lenker"
+msgid "Assign to me"
+msgstr "Tildel denne til meg"
+msgid "Me"
+msgstr "Meg"
+msgid "Do not duplicate anything"
+msgstr "Ingen duplisering"
+msgid "Projects management"
+msgstr "Prosjektadministrasjon"
+msgid "Users management"
+msgstr "Brukeradministrasjon"
+msgid "Groups management"
+msgstr "Gruppeadministrasjon"
+msgid "Create from another project"
+msgstr "Lag fra et annet prosjekt"
+msgid "open"
+msgstr "åpen"
+msgid "closed"
+msgstr "lukket"
+msgid "Priority:"
+msgstr "Prioritet"
+msgid "Reference:"
+msgstr "Referanse"
+msgid "Complexity:"
+msgstr "Kompleksitet"
+msgid "Swimlane:"
+msgstr "Svømmebane"
+msgid "Column:"
+msgstr "Kolonne"
+msgid "Position:"
+msgstr "Posisjon"
+msgid "Creator:"
+msgstr "Opprettet av"
+msgid "Time estimated:"
+msgstr "Estimert tidsforbruk"
+msgid "%s hours"
+msgstr "%s timer"
+msgid "Time spent:"
+msgstr "Medgått tid"
+msgid "Created:"
+msgstr "Opprettet"
+msgid "Modified:"
+msgstr "Endret"
+msgid "Completed:"
+msgstr "Fullført"
+msgid "Started:"
+msgstr "Startet:"
+msgid "Moved:"
+msgstr "Flyttet:"
+msgid "Task #%d"
+msgstr "Oppgave #%d"
+msgid "Time format"
+msgstr "Tidsformat"
+msgid "Start date: "
+msgstr "Startdato:"
+msgid "End date: "
+msgstr "Sluttdato:"
+msgid "New due date: "
+msgstr "Ny frist:"
+msgid "Start date changed: "
+msgstr "Startdato endret:"
+msgid "Disable personal projects"
+msgstr "Deaktiver mulighet for private prosjekter"
+msgid "Do you really want to remove this custom filter: \"%s\"?"
+msgstr "Ønsker du virkelig å fjerne det egendefinerte filteret: \"%s\"?"
+msgid "Remove a custom filter"
+msgstr "Fjern egendefinert filter"
+msgid "User activated successfully."
+msgstr "Brukeren er aktivert."
+msgid "Unable to enable this user."
+msgstr "Kan ikke aktivere brukeren."
+msgid "User disabled successfully."
+msgstr "Brukeren er deaktivert."
+msgid "Unable to disable this user."
+msgstr "Kan ikke deaktivere brukeren."
+msgid "All files have been uploaded successfully."
+msgstr "Alle filer er lastet opp."
+msgid "The maximum allowed file size is %sB."
+msgstr "Maks. tillatte filstørrelse er %sB"
+msgid "Drag and drop your files here"
+msgstr "Dra og slipp filene her"
+msgid "choose files"
+msgstr "velg filer"
+msgid "View profile"
+msgstr "Vis profil"
+msgid "Two Factor"
+msgstr "Tofaktor"
+msgid "Disable user"
+msgstr "Deaktiver bruker"
+msgid "Do you really want to disable this user: \"%s\"?"
+msgstr "Ønsker du virkelig å DEAKTIVERE denne brukeren: \"%s\"?"
+msgid "Enable user"
+msgstr "Aktiver bruker"
+msgid "Do you really want to enable this user: \"%s\"?"
+msgstr "Ønsker du virkelig å AKTIVERE denne brukeren: \"%s\"?"
+msgid "Download"
+msgstr "Last ned"
+msgid "Uploaded: %s"
+msgstr "Lastet opp: %s"
+msgid "Size: %s"
+msgstr "Størrelse: %s"
+msgid "Uploaded by %s"
+msgstr "Lastet opp av %s"
+msgid "Filename"
+msgstr "Filnavn"
+msgid "Size"
+msgstr "Størrelse"
+msgid "Column created successfully."
+msgstr "Kolonnen er opprettet"
+msgid "Another column with the same name exists in the project"
+msgstr "Kolonnen finnes allerede i dette prosjektet"
+msgid "Default filters"
+msgstr "Standardfiltere"
+msgid "Your board doesn't have any columns!"
+msgstr "Tavlen har ingen kolonner!"
+msgid "Change column position"
+msgstr "Endre kolonneplassering"
+msgid "Switch to the project overview"
+msgstr "Bytt til prosjektoversikt"
+msgid "User filters"
+msgstr "Brukerfilter"
+msgid "Category filters"
+msgstr "Kategorifiltere"
+msgid "Upload a file"
+msgstr "Last opp fil"
+msgid "View file"
+msgstr "Vis fil"
+msgid "Last activity"
+msgstr "Nyeste aktivitet"
+msgid "Change subtask position"
+msgstr "Endre posisjon for deloppgave"
+msgid "This value must be greater than %d"
+msgstr "Verdien må være større en %d"
+msgid "Another swimlane with the same name exists in the project"
+msgstr "Denne svømmebanen finnes allerede i dette prosjektet"
+msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
+msgstr "Eksempel: https://eksempel.kanboard.org/ (brukes for å lage absolutte URLer)"
+msgid "Actions duplicated successfully."
+msgstr "Handlinger er duplisert."
+msgid "Unable to duplicate actions."
+msgstr "Feil ved duplisering av handlinger."
+msgid "Add a new action"
+msgstr "Ny automatisk handling"
+msgid "Import from another project"
+msgstr "Importer fra et annet prosjekt"
+msgid "There is no action at the moment."
+msgstr "Ingen automatiske handlinger"
+msgid "Import actions from another project"
+msgstr "Importer handlinger fra et annet prosjekt"
+msgid "There is no available project."
+msgstr "Ingen prosjekter"
+msgid "Local File"
+msgstr "Lokal fil"
+msgid "Configuration"
+msgstr "Konfigurasjon"
+msgid "PHP version:"
+msgstr "PHP versjon:"
+msgid "PHP SAPI:"
+msgstr "PHP SAPI:"
+msgid "OS version:"
+msgstr "OS versjon"
+msgid "Database version:"
+msgstr "Databaseversjon"
+msgid "Browser:"
+msgstr "Nettleser"
+msgid "Task view"
+msgstr "Vis oppgave"
+msgid "Edit task"
+msgstr "Endre oppgave"
+msgid "Edit description"
+msgstr "Endre beskrivelse"
+msgid "New internal link"
+msgstr "Ny intern lenke"
+msgid "Display list of keyboard shortcuts"
+msgstr "Oversikt over tastatursnarveier"
+msgid "Avatar"
+msgstr "Profilbilde"
+msgid "Upload my avatar image"
+msgstr "Last opp profilbilde"
+msgid "Remove my image"
+msgstr "Fjern profilbilde"
+msgid "The OAuth2 state parameter is invalid"
+msgstr "Feil parameter for OAuth2 tilstand"
+msgid "User not found."
+msgstr "Bruker ikke funnet"
+msgid "Search in activity stream"
+msgstr "Søk i aktivitetsstrøm"
+msgid "My activities"
+msgstr "Mine aktiviteter"
+msgid "Activity until yesterday"
+msgstr "Aktivitet fram til i går"
+msgid "Activity until today"
+msgstr "Aktivitet fram til i  dag"
+msgid "Search by creator: "
+msgstr "Søk > Opprettet av:"
+msgid "Search by creation date: "
+msgstr "Søk > Opprettet dato:"
+msgid "Search by task status: "
+msgstr "Søk > Oppgavestatus"
+msgid "Search by task title: "
+msgstr "Søk > Oppgavetittel"
+msgid "Activity stream search"
+msgstr "Søk > Aktivitetsstrøm"
+msgid "Projects where \"%s\" is manager"
+msgstr "Prosjekter hvor \"%s\" er prosjektleder"
+msgid "Projects where \"%s\" is member"
+msgstr "Prosjekter hvor \"%s\" er medlem"
+msgid "Open tasks assigned to \"%s\""
+msgstr "Åpne oppgaver tildelt \"%s\""
+msgid "Closed tasks assigned to \"%s\""
+msgstr "Lukkede oppgaver tildelt \"%s\""
+msgid "Assign automatically a color based on a priority"
+msgstr "Tilordne farge automatisk ut fra prioritet"
+msgid "Overdue tasks for the project(s) \"%s\""
+msgstr "Forsinkede oppgaver for prosjekt(ene) \"%s\""
+msgid "Upload files"
+msgstr "Last opp filer"
+msgid "Installed Plugins"
+msgstr "Installerte innstikk"
+msgid "Plugin Directory"
+msgstr "Instikk (katalog)"
+msgid "Plugin installed successfully."
+msgstr "Innstikket er installert"
+msgid "Plugin updated successfully."
+msgstr "Innstikket er oppdatert"
+msgid "Plugin removed successfully."
+msgstr "Innstikket er fjernet"
+msgid "Subtask converted to task successfully."
+msgstr "Deloppgaven er konvertert til en oppgave"
+msgid "Unable to convert the subtask."
+msgstr "Kunne ikke konvertere deloppgaven"
+msgid "Unable to extract plugin archive."
+msgstr "Feil ved utpakking av innstikk"
+msgid "Plugin not found."
+msgstr "Finner ikke innstikk"
+msgid "You don't have the permission to remove this plugin."
+msgstr "Du har ikke rettigheter til å fjerne dette innstikket"
+msgid "Unable to download plugin archive."
+msgstr "Feil ved nedlasting av innstikk"
+msgid "Unable to write temporary file for plugin."
+msgstr "Feil ved skriving av midlertidige filer for innstikket"
+msgid "Unable to open plugin archive."
+msgstr "Feil ved åpning av innstikk"
+msgid "There is no file in the plugin archive."
+msgstr "Innstikket inneholder ingen filer!"
+msgid "Create tasks in bulk"
+msgstr "Masseoppretting av saker"
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Denne Kanboardinstallasjonen er ikke satt opp for å legge til innstikk fra brukergrensensnittet."
+msgid "There is no plugin available."
+msgstr "Finner ingen innstikk"
+msgid "Install"
+msgstr "Installer"
+msgid "Update"
+msgstr "Oppdater"
+msgid "Up to date"
+msgstr "Ajour"
+msgid "Not available"
+msgstr "Ikke tilgjengelig"
+msgid "Remove plugin"
+msgstr "Fjern innstikk"
+msgid "Do you really want to remove this plugin: \"%s\"?"
+msgstr "Er du sikker på at du vil fjerne innstikket \"%s\"?"
+msgid "Uninstall"
+msgstr "Avinstaller"
+msgid "Listing"
+msgstr "Oversikt"
+msgid "Metadata"
+msgstr "Metadata"
+msgid "Manage projects"
+msgstr "Administrere prosjekter"
+msgid "Convert to task"
+msgstr "Gjør om til oppgave"
+msgid "Convert sub-task to task"
+msgstr "Gjør om deloppgave til oppgave"
+msgid "Do you really want to convert this sub-task to a task?"
+msgstr "Er du sikker på at du vil gjøre om denne deloppgaven til en oppgave?"
+msgid "My task title"
+msgstr "Oppgavetittel"
+msgid "Enter one task by line."
+msgstr "Du kan skrive inn en oppgave pr rad"
+msgid "Number of failed login:"
+msgstr "Antall feilede loginforsøk:"
+msgid "Account locked until:"
+msgstr "Kontoen er låst til:"
+msgid "Email settings"
+msgstr "E-post"
+msgid "Email sender address"
+msgstr "Avsenderadresse (e-post):"
+msgid "Email transport"
+msgstr "E-post metode"
+msgid "Webhook token"
+msgstr "Webhook token"
+msgid "Project tags management"
+msgstr "Etiketter"
+msgid "Tag created successfully."
+msgstr "Etiketten er opprettet"
+msgid "Unable to create this tag."
+msgstr "Kunne ikke opprette etiketten"
+msgid "Tag updated successfully."
+msgstr "Etiketten er endret"
+msgid "Unable to update this tag."
+msgstr "Kunne ikke endre etiketten"
+msgid "Tag removed successfully."
+msgstr "Etiketten er slettet"
+msgid "Unable to remove this tag."
+msgstr "Kunne ikke slette etiketten"
+msgid "Global tags management"
+msgstr "Administrere globale etiketter"
+msgid "Tags"
+msgstr "Etiketter"
+msgid "Tags management"
+msgstr "Etiketter"
+msgid "Add new tag"
+msgstr "Ny etikett"
+msgid "Edit a tag"
+msgstr "Endre etikett"
+msgid "Project tags"
+msgstr "Etiketter"
+msgid "There is no specific tag for this project at the moment."
+msgstr "Prosjektet har for tiden ingen etiketter"
+msgid "Tag"
+msgstr "Etikett"
+msgid "Remove a tag"
+msgstr "Fjern etikett"
+msgid "Do you really want to remove this tag: \"%s\"?"
+msgstr "Er du sikker på at du vil fjerne etiketten: \"%s\"?"
+msgid "Global tags"
+msgstr "Globale etiketter"
+msgid "There is no global tag at the moment."
+msgstr "Ingen globale etiketter"
+msgid "This field cannot be empty"
+msgstr "Dette feltet kan ikke være tomt"
+msgid "Close a task when there is no activity in a specific column"
+msgstr "Lukk oppgaven når det ikke er aktivitet i en angitt kolonne"
+msgid "%s removed a subtask for the task #%d"
+msgstr "%s slettet en deloppgave for oppgaven #%d"
+msgid "%s removed a comment on the task #%d"
+msgstr "%s slettet en kommentar på oppgaven #%d"
+msgid "Comment removed on task #%d"
+msgstr "Kommentar slettet fra oppgave #%d"
+msgid "Subtask removed on task #%d"
+msgstr "Deloppgave slettet fra oppgave #%d"
+msgid "Hide tasks in this column in the dashboard"
+msgstr "Ikke vis oppgaver i denne kolonnen på dashbordet"
+msgid "%s removed a comment on the task %s"
+msgstr "%s slettet en kommentar på oppgaven %s"
+msgid "%s removed a subtask for the task %s"
+msgstr "%s slettet en deloppgave for oppgaven %s"
+msgid "Comment removed"
+msgstr "Kommentaren er fjernet"
+msgid "Subtask removed"
+msgstr "Deloppgaven er slettet"
+msgid "%s set a new internal link for the task #%d"
+msgstr "%s lagde en internlenke på oppgaven #%d"
+msgid "%s removed an internal link for the task #%d"
+msgstr "%s fjernet en internlenke på oppgaven #%d"
+msgid "A new internal link for the task #%d has been defined"
+msgstr "Det er laget en ny internlenke for oppgaven #%d"
+msgid "Internal link removed for the task #%d"
+msgstr "Internlenke fjernet på oppgaven #%d"
+msgid "%s set a new internal link for the task %s"
+msgstr "%s laget en ny internlenke for oppgaven %s"
+msgid "%s removed an internal link for the task %s"
+msgstr "%s fjernet en internlenke for opgaven %s"
+msgid "Automatically set the due date on task creation"
+msgstr "Sett tidsfrist automatisk ved opprettelse av oppgave"
+msgid "Move the task to another column when closed"
+msgstr "Flytt oppgaven til en annen kolonne når den lukkes"
+msgid "Move the task to another column when not moved during a given period"
+msgstr "Flytt oppgaven til en annen kolonne når den ikke flyttes i et gitt tidsrom"
+msgid "Dashboard for %s"
+msgstr "Dashbord for %s"
+msgid "Tasks overview for %s"
+msgstr "Oppgaveoversikt for %s"
+msgid "Subtasks overview for %s"
+msgstr "Deloppgaver for %s"
+msgid "Projects overview for %s"
+msgstr "Prosjektoversikt for %s"
+msgid "Activity stream for %s"
+msgstr "Aktivitetsstrøm for %s"
+msgid "Assign a color when the task is moved to a specific swimlane"
+msgstr "Tilordne farge når oppgaven flyttes til angitt svømmebane"
+msgid "Assign a priority when the task is moved to a specific swimlane"
+msgstr "Tilordne prioritet når oppgaven flyttes til angitt svømmebane"
+msgid "User unlocked successfully."
+msgstr "Brukeren er låst opp"
+msgid "Unable to unlock the user."
+msgstr "Kunne ikke låse opp brukeren"
+msgid "Move a task to another swimlane"
+msgstr "Flytt oppgaven til en annen svømmebane"
+msgid "Creator Name"
+msgstr "Opprettet av"
+msgid "Time spent and estimated"
+msgstr "Estimert og medgått tid"
+msgid "Move position"
+msgstr "Endre posisjon"
+msgid "Move task to another position on the board"
+msgstr "Flytt oppgaven"
+msgid "Insert before this task"
+msgstr "Sett inn før denne oppgaven"
+msgid "Insert after this task"
+msgstr "Sett inn etter denne oppgaven"
+msgid "Unlock this user"
+msgstr "Lås opp bruker"
+msgid "Custom Project Roles"
+msgstr "Egendefinerte prosjektroller"
+msgid "Add a new custom role"
+msgstr "Ny egendefinert rolle"
+msgid "Restrictions for the role \"%s\""
+msgstr "Restriksjoner for rollen \"%s\""
+msgid "Add a new project restriction"
+msgstr "Ny prosjektrestriksjon"
+msgid "Add a new drag and drop restriction"
+msgstr "Ny dra og slipp-restriksjon"
+msgid "Add a new column restriction"
+msgstr "Ny kolonnerestriksjon"
+msgid "Edit this role"
+msgstr "Rediger rolle"
+msgid "Remove this role"
+msgstr "Fjern denne rollen"
+msgid "There is no restriction for this role."
+msgstr "Denne rollen har ingen restriksjoner"
+msgid "Only moving task between those columns is permitted"
+msgstr "Oppgaver kan kun flyttes mellom disse kolonnene"
+msgid "Close a task in a specific column when not moved during a given period"
+msgstr "Lukk oppgave i angitt kolonne når den ikke flyttes i en angitt periode"
+msgid "Edit columns"
+msgstr "Endre kolonner"
+msgid "The column restriction has been created successfully."
+msgstr "Kolonnerestriksjonen er opprettet"
+msgid "Unable to create this column restriction."
+msgstr "Kunne ikke opprette denne kolonnerestriksjonen"
+msgid "Column restriction removed successfully."
+msgstr "Kolonnerestriksjon fjernet"
+msgid "Unable to remove this restriction."
+msgstr "Kan ikke fjerne denne restriksjonen"
+msgid "Your custom project role has been created successfully."
+msgstr "Egendefinert prosjektrolle er oppdatert"
+msgid "Unable to create custom project role."
+msgstr "Kunne ikke opprette egendefinert prosjektrolle"
+msgid "Your custom project role has been updated successfully."
+msgstr "Egendefinert ptosjektrolle er endret"
+msgid "Unable to update custom project role."
+msgstr "Kunne ikke endre egendefinert prosjektrolle"
+msgid "Custom project role removed successfully."
+msgstr "Egendefinert prosjektrolle er fjernet"
+msgid "Unable to remove this project role."
+msgstr "Kunne ikke fjerne denne prosjektrollen"
+msgid "The project restriction has been created successfully."
+msgstr "Prosjektrestriksjonen er opprettet"
+msgid "Unable to create this project restriction."
+msgstr "Kunne ikke opprette prosjektrestriksjon"
+msgid "Project restriction removed successfully."
+msgstr "Prosjektrestriksjon er fjernet"
+msgid "You cannot create tasks in this column."
+msgstr "Du kan ikke opprette oppgaver i denne kolonnen"
+msgid "Task creation is permitted for this column"
+msgstr "Oppretting av oppgaver er tillatt i denne kolonnen"
+msgid "Closing or opening a task is permitted for this column"
+msgstr "Lukking/åpning av oppgaver er tillatt i denne kolonnen"
+msgid "Task creation is blocked for this column"
+msgstr "Denne kolonnen er låst for oppretting av nye oppgaver"
+msgid "Closing or opening a task is blocked for this column"
+msgstr "Oppgaver i denne kolonnen er låst for lukking/åpning"
+msgid "Task creation is not permitted"
+msgstr "Kan ikke opprette oppgaver"
+msgid "Closing or opening a task is not permitted"
+msgstr "Kan ikke lukke eller åpne oppgaver"
+msgid "New drag and drop restriction for the role \"%s\""
+msgstr "Ny dra-og-slipp-restriksjon for rollen \"%s\""
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Brukere med denne rollen vil bare kunne flytte oppgaver mellom kilde- og målkolonne."
+msgid "Remove a column restriction"
+msgstr "Fjern kolonnerestriksjon"
+msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
+msgstr "Ønsker du virkelig å fjerne kolonnerestriksjonen: \"%s\" til \"%s\"?"
+msgid "New column restriction for the role \"%s\""
+msgstr "Ny kolonnerestriksjon for rollen \"%s\""
+msgid "Rule"
+msgstr "Regel"
+msgid "Do you really want to remove this column restriction?"
+msgstr "Er du sikker på at du vil fjerne denne kolonnerestriksjonen"
+msgid "Custom roles"
+msgstr "Egendefinerte roller"
+msgid "New custom project role"
+msgstr "Ny egendefinert rolle"
+msgid "Edit custom project role"
+msgstr "Endre egendefinert rolle"
+msgid "Remove a custom role"
+msgstr "Fjern egendefinert rolle"
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Ønsker du virkelig å fjerne den egendefinerte rollen: \"%s\"? Alle brukere med denne rollen vil bli prosjektmedlemmer."
+msgid "There is no custom role for this project."
+msgstr "Prosjektet har ingen egendefinerte roller"
+msgid "New project restriction for the role \"%s\""
+msgstr "Ny prosjektrestriksjon for rollen \"%s\""
+msgid "Restriction"
+msgstr "Restriksjon"
+msgid "Remove a project restriction"
+msgstr "Fjern prosjektrestriksjon"
+msgid "Do you really want to remove this project restriction: \"%s\"?"
+msgstr "Er du sikker på at du vil fjerne restriksjonen \"%s\""
+msgid "Duplicate to multiple projects"
+msgstr "Dupliser til flere prosjekter"
+msgid "This field is required"
+msgstr "Feltet er påkrevet"
+msgid "Moving a task is not permitted"
+msgstr "Flytting av oppgaven er ikke tillatt"
+msgid "This value must be in the range %d to %d"
+msgstr "Verdien må være i området %d to %d"
+msgid "You are not allowed to move this task."
+msgstr "Du har ikke rettigheter til å flutte denne oppgaven"
+msgid "API User Access"
+msgstr "API brukertilgang"
+msgid "Preview"
+msgstr "Forhåndsvisning"
+msgid "Write"
+msgstr "Skriv"
+msgid "Write your text in Markdown"
+msgstr "Du kan skrive teksten din i Markdown hvis du ønsker det."
+msgid "No personal API access token registered."
+msgstr "Ingen personlig API tilgangsnøkkel er registrert."
+msgid "Your personal API access token is \"%s\""
+msgstr "Din personlige API tilgangsnøkkel er \"%s\""
+msgid "Remove your token"
+msgstr "Fjern din nøkkel"
+msgid "Generate a new token"
+msgstr "Lag ny nøkkel"
+msgid "Showing %d-%d of %d"
+msgstr "Viser %d-%d of %d"
+msgid "Outgoing Emails"
+msgstr "Utgående e-post"
+msgid "Add or change currency rate"
+msgstr "Legg til eller endre valuta"
+msgid "Reference currency: %s"
+msgstr "Referansevaluta: %s"
+msgid "Add custom filters"
+msgstr "Lag egendefinerte filtere"
+msgid "Export"
+msgstr "Eksporter"
+msgid "Add link label"
+msgstr "Ny etikett"
+msgid "Incompatible Plugins"
+msgstr "Ukompatible innstikk"
+msgid "Compatibility"
+msgstr "Kompatibilitet"
+msgid "Permissions and ownership"
+msgstr "Tillatelser og eierskap"
+msgid "Priorities"
+msgstr "Prioriteter"
+msgid "Close this window"
+msgstr "Lukk vindu"
+msgid "Unable to upload this file."
+msgstr "Kunne ikke laste opp filen"
+msgid "Import tasks"
+msgstr "Importere oppgaver"
+msgid "Choose a project"
+msgstr "Velg prosjekt"
+msgid "Profile"
+msgstr "Profil"
+msgid "Application role"
+msgstr "Rolle"
+msgid "%d invitations were sent."
+msgstr "%d invitasjoner ble sendt"
+msgid "%d invitation was sent."
+msgstr "%d invitasjon ble sendt"
+msgid "Unable to create this user."
+msgstr "Kan ikke opprette brukeren."
+msgid "Kanboard Invitation"
+msgstr "Kanboard invitasjon"
+msgid "Visible on dashboard"
+msgstr "Synlig på dashbordet"
+msgid "Created at:"
+msgstr "Opprettet:"
+msgid "Updated at:"
+msgstr "Endret:"
+msgid "There is no custom filter."
+msgstr "Ingen egendefinerte filtre"
+msgid "New User"
+msgstr "Ny bruker"
+msgid "Authentication"
+msgstr "Autentisering"
+msgid "If checked, this user will use a third-party system for authentication."
+msgstr "Dersom dette er valgt vil brukeren logges inn via et tredjepartssystem"
+msgid "The password is necessary only for local users."
+msgstr "Passord er kun nødvendig for lokale brukere"
+msgid "You have been invited to register on Kanboard."
+msgstr "Du er invitert til å registrere deg på Kanboard"
+msgid "Click here to join your team"
+msgstr "Klikk her for å bli med i teamet ditt"
+msgid "Invite people"
+msgstr "Inviter personer"
+msgid "Emails"
+msgstr "E-poster"
+msgid "Enter one email address by line."
+msgstr "Legg inn en e-postadresse pr. linje"
+msgid "Add these people to this project"
+msgstr "Legg til disse personene i prosjektet"
+msgid "Add this person to this project"
+msgstr "Legg til denne personen i prosjektet"
+msgid "Sign-up"
+msgstr "Registrering"
+msgid "Credentials"
+msgstr "Akkreditiver"
+msgid "New user"
+msgstr "Ny bruker"
+msgid "This username is already taken"
+msgstr "Brukernavn finnes fra før"
+msgid "Your profile must have a valid email address."
+msgstr "Brukerprofilen din må ha en gyldig e-postadresse."
+msgid "TRL - Turkish Lira"
+msgstr "TRL - Tyrkiske lira"
+msgid "The project email is optional and could be used by several plugins."
+msgstr "Du kan angi en e-postadresse for prosjektet, og den kan brukes av ulike innstikksmoduler"
+msgid "The project email must be unique across all projects"
+msgstr "Prosjektets e-postadresse må være unik for alle prosjekter"
+msgid "The email configuration has been disabled by the administrator."
+msgstr "Administrator har deaktivert e-postinnstillinger"
+msgid "Close this project"
+msgstr "Lukk dette prosjektet"
+msgid "Open this project"
+msgstr "Gjenåpne dette prosjektet"
+msgid "Close a project"
+msgstr "Lukk et prosekt"
+msgid "Do you really want to close this project: \"%s\"?"
+msgstr "Er du sikker på at vil lukke prosjektet: \"%s\"?"
+msgid "Reopen a project"
+msgstr "Gjenåpne prosjekt"
+msgid "Do you really want to reopen this project: \"%s\"?"
+msgstr "Er du sikker på at du vil gjenåpne prosjektet: \"%s\"?"
+msgid "This project is open"
+msgstr "Dette prosjektet er aktivt"
+msgid "This project is closed"
+msgstr "Dette prosjektet er lukket"
+msgid "Unable to upload files, check the permissions of your data folder."
+msgstr "Kunne ikke laste opp filen!"
+msgid "Another category with the same name exists in this project"
+msgstr "Kategorien finnes allerede i dette prosjektet"
+msgid "Comment sent by email successfully."
+msgstr "Kommentar sendt med e-post."
+msgid "Sent by email to \"%s\" (%s)"
+msgstr "Sendt med e-post til \"%s\" (%s)"
+msgid "Unable to read uploaded file."
+msgstr "Kan ikke lese opplastet fil."
+msgid "Database uploaded successfully."
+msgstr "Databasen er lastet opp."
+msgid "Task sent by email successfully."
+msgstr "Oppgaven er sendt med e-post."
+msgid "There is no category in this project."
+msgstr "Prosjektet har ingen kategorier."
+msgid "Send by email"
+msgstr "Send i e-post"
+msgid "Create and send a comment by email"
+msgstr "Opprett og send en kommentar med e-post"
+msgid "Subject"
+msgstr "Emne"
+msgid "Upload the database"
+msgstr "Last opp databasen"
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Du kan laste opp en tidligere nedlastet Sqlite database (Gzip-format)."
+msgid "Database file"
+msgstr "Databasefil"
+msgid "Upload"
+msgstr "Last opp"
+msgid "Your project must have at least one active swimlane."
+msgstr "Prosjektet må ha minst en aktiv svømmebane"
+msgid "Project: %s"
+msgstr "Prosjekt: %s"
+msgid "Automatic action not found: \"%s\""
+msgstr "Finner ingen automatisk handling: \"%s\""
+msgid "%d projects"
+msgstr "%d prosjekter"
+msgid "%d project"
+msgstr "%d prosjekt"
+msgid "There is no project."
+msgstr "Ingen prosjekter"
+msgid "Sort"
+msgstr "Sorter"
+msgid "Project ID"
+msgstr "Prosjekt-ID"
+msgid "Project name"
+msgstr "Prosjektnavn"
+msgid "Public"
+msgstr "Felles"
+msgid "Personal"
+msgstr "Privat"
+msgid "%d tasks"
+msgstr "%d oppgaver"
+msgid "%d task"
+msgstr "%d oppgave"
+msgid "Task ID"
+msgstr "Oppgave-ID"
+msgid "Assign automatically a color when due date is expired"
+msgstr "Tilordne farge automatisk når fristen utløper"
+msgid "Total score in this column across all swimlanes"
+msgstr "Totalt resultat for denne kolonnen i alle svømmebaner"
+msgid "HRK - Kuna"
+msgstr "HRK - Kroatiske kuna"
+msgid "ARS - Argentine Peso"
+msgstr "ARS - Argentinske pesos"
+msgid "COP - Colombian Peso"
+msgstr "COP - Columbianske pesos"
+msgid "%d groups"
+msgstr "%d grupper"
+msgid "%d group"
+msgstr "%d gruppe"
+msgid "Group ID"
+msgstr "Gruppe-ID"
+msgid "External ID"
+msgstr "Ekstern ID"
+msgid "%d users"
+msgstr "%d brukere"
+msgid "%d user"
+msgstr "%d bruker"
+msgid "Hide subtasks"
+msgstr "Skjul deloppgaver"
+msgid "Show subtasks"
+msgstr "Vis deloppgaver"
+msgid "Authentication Parameters"
+msgstr "Autensitering"
+msgid "API Access"
+msgstr "API-tilgang"
+msgid "No users found."
+msgstr "Finner ingen brukere"
+msgid "User ID"
+msgstr "Bruker-ID"
+msgid "Notifications are activated"
+msgstr "Varslinger aktivert"
+msgid "Notifications are disabled"
+msgstr "Varslinger deaktivert"
+msgid "User disabled"
+msgstr "Bruker er deaktivert"
+msgid "%d notifications"
+msgstr "%d varslinger"
+msgid "%d notification"
+msgstr "%d varsling"
+msgid "There is no external integration installed."
+msgstr "Ingen ekstern interasjon er installert."
+msgid "You are not allowed to update tasks assigned to someone else."
+msgstr "Du kan ikke endre oppgaver hvor en annen bruker er ansvarlig"
+msgid "You are not allowed to change the assignee."
+msgstr "Du har ikke rettigheter til å endre ansvarlig"
+msgid "Task suppression is not permitted"
+msgstr "Endring av posisjon er ikke tillatt"
+msgid "Changing assignee is not permitted"
+msgstr "Endring av ansvarlig er ikke tillatt"
+msgid "Update only assigned tasks is permitted"
+msgstr "Du kan bare endre oppgaver du selv er ansvarlig for"
+msgid "Only for tasks assigned to the current user"
+msgstr "Kun for oppgaver tilordnet aktiv bruker"
+msgid "My projects"
+msgstr "Mine prosjekter"
+msgid "You are not a member of any project."
+msgstr "Du er ikke med i noen prosjekter"
+msgid "My subtasks"
+msgstr "Mine deloppgaver"
+msgid "%d subtasks"
+msgstr "%d deloppgaver"
+msgid "%d subtask"
+msgstr "%d deloppgave"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Aktiv bruker kan kun flytte oppgaver mellom angitte kolonner"
+msgid "[DUPLICATE]"
+msgstr "DUPLISER"
+msgid "DKK - Danish Krona"
+msgstr "DKK - Danske kroner"
+msgid "Remove user from group"
+msgstr "Fjern bruker fra gruppen"
+msgid "Assign the task to its creator"
+msgstr "Tildel oppgaven til den som har opprettet den"
+msgid "This task was sent by email to \"%s\" with subject \"%s\"."
+msgstr "Denne oppgaven ble sendt på e-post til \"%s\" med emne \"%s\"."
+msgid "Predefined Email Subjects"
+msgstr "Forhåndsdefinerte e-post emner"
+msgid "Write one subject by line."
+msgstr "Skriv et emne på hver linje"
+msgid "Create another link"
+msgstr "Lag en ny lenke"
+msgid "BRL - Brazilian Real"
+msgstr "BRL - Brasilianske real"
+msgid "Add a new Kanboard task"
+msgstr "Lag ny oppgave"
+msgid "Subtask not started"
+msgstr "Deloppgaven er ikke startet"
+msgid "Subtask currently in progress"
+msgstr "Deloppgaver i prosess"
+msgid "Subtask completed"
+msgstr "Deloppgave fullført"
+msgid "Subtask added successfully."
+msgstr "Deloppgave er lagt til"
+msgid "%d subtasks added successfully."
+msgstr "%d deloppgaver er lagt til"
+msgid "Enter one subtask by line."
+msgstr "Legg inn en deloppgave pr. rad"
+msgid "Predefined Contents"
+msgstr "Forhåndsdefinert innhold"
+msgid "Predefined contents"
+msgstr "Forhåndsdefinert innhold"
+msgid "Predefined Task Description"
+msgstr "Forhåndsdefinert oppgavebeskrivelse"
+msgid "Do you really want to remove this template? \"%s\""
+msgstr "Ønsker du virkelig å slette denne malen? \"%s\""
+msgid "Add predefined task description"
+msgstr "Ny forhåndsdefinert oppgavebeskrivelse"
+msgid "Predefined Task Descriptions"
+msgstr "Forhåndsdefinerte oppgavebeskrivelser"
+msgid "Template created successfully."
+msgstr "Malen er opprettet"
+msgid "Unable to create this template."
+msgstr "Kunne ikke opprette malen"
+msgid "Template updated successfully."
+msgstr "Malen er endret"
+msgid "Unable to update this template."
+msgstr "Kunne ikke endre malen"
+msgid "Template removed successfully."
+msgstr "Malen er slettet"
+msgid "Unable to remove this template."
+msgstr "Kunne ikke slette malen"
+msgid "Template for the task description"
+msgstr "Mal for oppgavbeskrivelse"
+msgid "The start date is greater than the end date"
+msgstr "Startdato er større en sluttdato"
+msgid "Tags must be separated by a comma"
+msgstr "Etiketter må skilles med komma"
+msgid "Only the task title is required"
+msgstr "Kun oppgavetittel er påkrevet"
+msgid "Creator Username"
+msgstr "Opprettet av"
+msgid "Color Name"
+msgstr "Farge"
+msgid "Column Name"
+msgstr "Kolonne"
+msgid "Swimlane Name"
+msgstr "Svømmebane"
+msgid "Time Estimated"
+msgstr "Estimert tid"
+msgid "Time Spent"
+msgstr "Medgått tid"
+msgid "External Link"
+msgstr "Ekstern lenke"
+msgid "This feature enables the iCal feed, RSS feed and the public board view."
+msgstr "OBS Forsiktig: Denne funksjonen aktiverer iCal-strøm, RSS-strøm og offentlig tavlevisning!"
+msgid "Stop the timer of all subtasks when moving a task to another column"
+msgstr "Stopp timeren for alle deloppgaver når en oppgave flyttes til en annen kolonne"
+msgid "Subtask Title"
+msgstr "Deloppgave"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Opprett en deloppgave og aktiver timeren når en oppgave flyttes til en annen kolonne"
+msgid "days"
+msgstr "dager"
+msgid "minutes"
+msgstr "minutter"
+msgid "seconds"
+msgstr "sekunder"
+msgid "Assign automatically a color when preset start date is reached"
+msgstr "Tilordne farge automatisk på valgt startdato"
+msgid "Move the task to another column once a predefined start date is reached"
+msgstr "Flytt oppgaven til en annen lolonne på valgt startdato"
+msgid "This task is now linked to the task %s with the relation \"%s\""
+msgstr "Oppgaven er nå lenket til oppgaven %s med relasjonen \"%s\""
+msgid "The link with the relation \"%s\" to the task %s has been removed"
+msgstr "Lenken med relasjonen \"%s\" til oppgaven %s er fjernet"
+msgid "Custom Filter:"
+msgstr "Egendefinert filter"
+msgid "Unable to find this group."
+msgstr "Finner ikke gruppen"
+msgid "%s moved the task #%d to the column \"%s\""
+msgstr "%s flyttet oppgaven #%d til kolonnen \"%s\""
+msgid "%s moved the task #%d to the position %d in the column \"%s\""
+msgstr "%s flyttet oppgaven #%d til posisjon %d i kolonnen \"%s\""
+msgid "%s moved the task #%d to the swimlane \"%s\""
+msgstr "%s flyttet oppgaven #%d til svømmebane \"%s\""
+msgid "%sh spent"
+msgstr "%st brukt"
+msgid "%sh estimated"
+msgstr "%st estimert"
+msgid "Select All"
+msgstr "Velg alle"
+msgid "Unselect All"
+msgstr "Fravelg alle"
+msgid "Apply action"
+msgstr "Utfør"
+msgid "Move selected tasks to another column or swimlane"
+msgstr "Flytt merkede oppgaver til en annen kolonne"
+msgid "Edit tasks in bulk"
+msgstr "Masseredigering av oppgaver"
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr "Velg egenskapene du vil endre for valgte oppgaver."
+msgid "Configure this project"
+msgstr "Prosjekt"
+msgid "Start now"
+msgstr "Start nå"
+msgid "%s removed a file from the task #%d"
+msgstr ""
+msgid "Attachment removed from task #%d: %s"
+msgstr ""
+msgid "No color"
+msgstr ""
+msgid "Attachment removed \"%s\""
+msgstr ""
+msgid "%s removed a file from the task %s"
+msgstr ""
+msgid "Move the task to another swimlane when assigned to a user"
+msgstr ""
+msgid "Destination swimlane"
+msgstr ""
+msgid "Assign a category when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Move the task to another swimlane when the category is changed"
+msgstr ""
+msgid "Reorder this column by priority (ASC)"
+msgstr ""
+msgid "Reorder this column by priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (ASC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee (A-Z)"
+msgstr ""
+msgid "Reorder this column by assignee (Z-A)"
+msgstr ""
+msgid "Reorder this column by due date (ASC)"
+msgstr ""
+msgid "Reorder this column by due date (DESC)"
+msgstr ""
+msgid "%s moved the task #%d \"%s\" to the project \"%s\""
+msgstr ""
+msgid "Task #%d \"%s\" has been moved to the project \"%s\""
+msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr ""
+msgid "HTTP Client:"
+msgstr ""
+msgid "Assigned"
+msgstr ""
+msgid "Task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied across swimlanes"
+msgstr ""
+msgid "Task limit: "
+msgstr ""
+msgid "Change to global tag"
+msgstr ""
+msgid "Do you really want to make the tag \"%s\" global?"
+msgstr ""
+msgid "Enable global tags for this project"
+msgstr ""
+msgid "Group membership(s):"
+msgstr ""
+msgid "%s is a member of the following group(s): %s"
+msgstr ""
+msgid "%d/%d group(s) shown"
+msgstr ""
+msgid "Subtask creation or modification"
+msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Comment"
+msgstr ""
+msgid "Collapse vertically"
+msgstr ""
+msgid "Expand vertically"
+msgstr ""
+msgid "MXN - Mexican Peso"
+msgstr ""
+msgid "Estimated vs actual time per column"
+msgstr ""
+msgid "HUF - Hungarian Forint"
+msgstr ""
+msgid "XBT - Bitcoin"
+msgstr ""
+msgid "You must select a file to upload as your avatar!"
+msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr ""
+msgid "No other projects found."
+msgstr ""
+msgid "Please choose a project you want to copy the tasks from."
+msgstr ""
+msgid "Import Tasks"
+msgstr ""
+msgid "Copy"
+msgstr ""
+msgid "Tasks copied successfully."
+msgstr ""
+msgid "Unable to copy tasks."
+msgstr ""
 

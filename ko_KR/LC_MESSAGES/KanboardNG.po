@@ -1,2868 +1,2868 @@
 
- msgid 'number.decimals_separator'
- msgstr ''
- msgid 'number.thousands_separator'
- msgstr ''
- msgid 'None'
- msgstr '없음'
- msgid 'Edit'
- msgstr '수정'
- msgid 'Remove'
- msgstr '삭제'
- msgid 'Yes'
- msgstr '예'
- msgid 'No'
- msgstr '아니오'
- msgid 'cancel'
- msgstr '취소'
- msgid 'or'
- msgstr '또는'
- msgid 'Yellow'
- msgstr '노랑'
- msgid 'Blue'
- msgstr '파랑'
- msgid 'Green'
- msgstr '초록'
- msgid 'Purple'
- msgstr '보라'
- msgid 'Red'
- msgstr '빨강'
- msgid 'Orange'
- msgstr '주황'
- msgid 'Grey'
- msgstr '회색'
- msgid 'Brown'
- msgstr '브라운'
- msgid 'Deep Orange'
- msgstr '진홍'
- msgid 'Dark Grey'
- msgstr '암회'
- msgid 'Pink'
- msgstr '핑크'
- msgid 'Teal'
- msgstr '암녹'
- msgid 'Cyan'
- msgstr '청녹'
- msgid 'Lime'
- msgstr '라임'
- msgid 'Light Green'
- msgstr '연회'
- msgid 'Amber'
- msgstr '호박'
- msgid 'Save'
- msgstr '저장'
- msgid 'Login'
- msgstr '로그인'
- msgid 'Official website:'
- msgstr '공식 웹사이트:'
- msgid 'Unassigned'
- msgstr '담당자 없음'
- msgid 'View this task'
- msgstr '이 할일 보기'
- msgid 'Remove user'
- msgstr '사용자 삭제'
- msgid 'Do you really want to remove this user: "%s"?'
- msgstr '사용자 "%s"를 정말로 삭제하시겠습니까?'
- msgid 'All users'
- msgstr '모든 사용자'
- msgid 'Username'
- msgstr '사용자 이름'
- msgid 'Password'
- msgstr '패스워드'
- msgid 'Administrator'
- msgstr '관리자'
- msgid 'Sign in'
- msgstr '로그인'
- msgid 'Users'
- msgstr '사용자'
- msgid 'Forbidden'
- msgstr '접근 거부'
- msgid 'Access Forbidden'
- msgstr '접속이 거부되었습니다'
- msgid 'Edit user'
- msgstr '사용자를 변경하는 '
- msgid 'Logout'
- msgstr '로그아웃'
- msgid 'Bad username or password'
- msgstr '사용자 이름 또는 패스워드가 다릅니다.'
- msgid 'Edit project'
- msgstr '프로젝트 수정'
- msgid 'Name'
- msgstr '이름'
- msgid 'Projects'
- msgstr '프로젝트'
- msgid 'No project'
- msgstr '프로젝트가 없습니다'
- msgid 'Project'
- msgstr '프로젝트'
- msgid 'Status'
- msgstr '상태'
- msgid 'Tasks'
- msgstr '할일'
- msgid 'Board'
- msgstr '보드'
- msgid 'Actions'
- msgstr 'Actions'
- msgid 'Inactive'
- msgstr '무효'
- msgid 'Active'
- msgstr '유효'
- msgid 'Unable to update this board.'
- msgstr '보드를 갱신할 수 없었습니다'
- msgid 'Disable'
- msgstr '비활성화'
- msgid 'Enable'
- msgstr '유효하게 한다'
- msgid 'New project'
- msgstr '새 프로젝트'
- msgid 'Do you really want to remove this project: "%s"?'
- msgstr '프로젝트를 삭제하시겠습니까: "%s"?'
- msgid 'Remove project'
- msgstr '프로젝트의 삭제'
- msgid 'Edit the board for "%s"'
- msgstr '"%s"를 위한 보드 수정'
- msgid 'Add a new column'
- msgstr '컬럼의 추가'
- msgid 'Title'
- msgstr '제목'
- msgid 'Assigned to %s'
- msgstr '담당자 %s'
- msgid 'Remove a column'
- msgstr '컬럼 삭제'
- msgid 'Unable to remove this column.'
- msgstr '(※)컬럼을 삭제할 수 없었습니다.'
- msgid 'Do you really want to remove this column: "%s"?'
- msgstr '컬럼을 삭제하시겠습니까: "%s"?'
- msgid 'Settings'
- msgstr '설정'
- msgid 'Application settings'
- msgstr '애플리케이션의 설정'
- msgid 'Language'
- msgstr '언어'
- msgid 'Webhook token:'
- msgstr 'Webhook토큰:'
- msgid 'API token:'
- msgstr 'API토큰:'
- msgid 'Database size:'
- msgstr '데이터베이스의 사이즈:'
- msgid 'Download the database'
- msgstr '데이터베이스의 다운로드'
- msgid 'Optimize the database'
- msgstr '데이터베이스 최적화'
- msgid '(VACUUM command)'
- msgstr '(VACUUM명령)'
- msgid '(Gzip compressed Sqlite file)'
- msgstr '(GZip명령으로 압축된 Sqlite파일)'
- msgid 'Close a task'
- msgstr '할일 마치기'
- msgid 'Column'
- msgstr '컬럼'
- msgid 'Color'
- msgstr '색'
- msgid 'Assignee'
- msgstr '담당자'
- msgid 'Create another task'
- msgstr '다른 할일 추가'
- msgid 'New task'
- msgstr '새로운 할일'
- msgid 'Open a task'
- msgstr '할일 열기'
- msgid 'Do you really want to open this task: "%s"?'
- msgstr '할일은 시작 하시겠습니까: "%s"?'
- msgid 'Back to the board'
- msgstr '보드로 돌아가기'
- msgid 'There is nobody assigned'
- msgstr '담당자가 없습니다'
- msgid 'Column on the board:'
- msgstr '컬럼:'
- msgid 'Close this task'
- msgstr '할일 마치기'
- msgid 'Open this task'
- msgstr '할일을 열다'
- msgid 'There is no description.'
- msgstr '설명이 없다'
- msgid 'Add a new task'
- msgstr '할일을 추가하는 '
- msgid 'The username is required'
- msgstr '사용자 이름이 필요합니다'
- msgid 'The maximum length is %d characters'
- msgstr '최대 길이는 "%d" 글자 입니다'
- msgid 'The minimum length is %d characters'
- msgstr '최소 길이는 "%d" 글자 입니다'
- msgid 'The password is required'
- msgstr '패스워드가 필요합니다'
- msgid 'This value must be an integer'
- msgstr '정수로 입력하세요'
- msgid 'The username must be unique'
- msgstr '사용자 이름이 이미 사용되고 있습니다'
- msgid 'The user id is required'
- msgstr '사용자 ID가 필요합니다'
- msgid 'Passwords don\'t match'
- msgstr '패스워드가 일치하지 않습니다'
- msgid 'The confirmation is required'
- msgstr '확인용 패스워드를 입력하세요'
- msgid 'The project is required'
- msgstr '프로젝트가 필요합니다'
- msgid 'The id is required'
- msgstr 'ID가 필요합니다'
- msgid 'The project id is required'
- msgstr '프로젝트 ID가 필요합니다'
- msgid 'The project name is required'
- msgstr '프로젝트 이름이 필요합니다'
- msgid 'The title is required'
- msgstr '제목이 필요합니다'
- msgid 'Settings saved successfully.'
- msgstr '설정을 저장하였습니다'
- msgid 'Unable to save your settings.'
- msgstr '설정의 보존에 실패했습니다.'
- msgid 'Database optimization done.'
- msgstr '데이터베이스 최적화가 끝났습니다.'
- msgid 'Your project has been created successfully.'
- msgstr '프로젝트를 작성했습니다.'
- msgid 'Unable to create your project.'
- msgstr '프로젝트의 작성에 실패했습니다.'
- msgid 'Project updated successfully.'
- msgstr '프로젝트를 갱신했습니다.'
- msgid 'Unable to update this project.'
- msgstr '프로젝트의 갱신에 실패했습니다.'
- msgid 'Unable to remove this project.'
- msgstr '프로젝트의 삭제에 실패했습니다.'
- msgid 'Project removed successfully.'
- msgstr '프로젝트를 삭제했습니다.'
- msgid 'Project activated successfully.'
- msgstr '프로젝트를 유효로 했습니다.'
- msgid 'Unable to activate this project.'
- msgstr '프로젝트의 유효하게 못했어요.'
- msgid 'Project disabled successfully.'
- msgstr '프로젝트를 무효로 했습니다.'
- msgid 'Unable to disable this project.'
- msgstr '프로젝트의 무효화할 수 없었습니다.'
- msgid 'Unable to open this task.'
- msgstr '할일의 오픈에 실패했습니다.'
- msgid 'Task opened successfully.'
- msgstr '할일을 오픈했습니다.'
- msgid 'Unable to close this task.'
- msgstr '할일의 클로즈에 실패했습니다.'
- msgid 'Task closed successfully.'
- msgstr '할일을 마쳤습니다.'
- msgid 'Unable to update your task.'
- msgstr '할일의 갱신에 실패했습니다.'
- msgid 'Task updated successfully.'
- msgstr '할일을 갱신했습니다.'
- msgid 'Unable to create your task.'
- msgstr '할일의 추가에 실패했습니다.'
- msgid 'Task created successfully.'
- msgstr '할일을 추가했습니다.'
- msgid 'User created successfully.'
- msgstr '사용자를 추가했습니다.'
- msgid 'Unable to create your user.'
- msgstr '사용자의 추가에 실패했습니다.'
- msgid 'User updated successfully.'
- msgstr '사용자를 갱신했습니다.'
- msgid 'User removed successfully.'
- msgstr '사용자를 삭제했습니다.'
- msgid 'Unable to remove this user.'
- msgstr '사용자 삭제에 실패했습니다.'
- msgid 'Board updated successfully.'
- msgstr '보드를 갱신했습니다.'
- msgid 'Ready'
- msgstr '준비중'
- msgid 'Backlog'
- msgstr '요구사항'
- msgid 'Work in progress'
- msgstr '진행중'
- msgid 'Done'
- msgstr '완료'
- msgid 'Application version:'
- msgstr '애플리케이션의 버전:'
- msgid 'Id'
- msgstr 'ID'
- msgid 'Public link'
- msgstr '공개 접속 링크'
- msgid 'Timezone'
- msgstr '시간대'
- msgid 'Sorry, I didn\'t find this information in my database!'
- msgstr '데이터베이스에서 정보가 발견되지 않았습니다!'
- msgid 'Page not found'
- msgstr '페이지가 발견되지 않는다'
- msgid 'Complexity'
- msgstr '복잡도'
- msgid 'Task limit'
- msgstr '할일 수 제한'
- msgid 'Task count'
- msgstr '할일 수'
- msgid 'User'
- msgstr '사용자'
- msgid 'Comments'
- msgstr '댓글'
- msgid 'Comment is required'
- msgstr '댓글을 입력하세요'
- msgid 'Comment added successfully.'
- msgstr '의견을 추가했습니다.'
- msgid 'Unable to create your comment.'
- msgstr '댓글의 추가에 실패했습니다.'
- msgid 'Due Date'
- msgstr '마감일'
- msgid 'Invalid date'
- msgstr '날짜가 무효입니다'
- msgid 'Automatic actions'
- msgstr '자동액션 관리'
- msgid 'Your automatic action has been created successfully.'
- msgstr '자동 액션을 작성했습니다.'
- msgid 'Unable to create your automatic action.'
- msgstr '자동 액션의 작성에 실패했습니다.'
- msgid 'Remove an action'
- msgstr '자동 액션의 삭제'
- msgid 'Unable to remove this action.'
- msgstr '자동 액션의 삭제에 실패했습니다.'
- msgid 'Action removed successfully.'
- msgstr '자동 액션의 삭제에 성공했어요.'
- msgid 'Automatic actions for the project "%s"'
- msgstr '"%s" 프로젝트를 위한 자동 액션'
- msgid 'Add an action'
- msgstr '자동 액션 추가'
- msgid 'Event name'
- msgstr '이벤트 이름'
- msgid 'Action'
- msgstr '액션'
- msgid 'Event'
- msgstr '이벤트'
- msgid 'When the selected event occurs execute the corresponding action.'
- msgstr '선택된 이벤트가 발생했을 때 대응하는 액션을 실행한다.'
- msgid 'Next step'
- msgstr '다음 단계'
- msgid 'Define action parameters'
- msgstr '액션의 바로미터'
- msgid 'Do you really want to remove this action: "%s"?'
- msgstr '액션을 삭제하시겠습니까: "%s"?'
- msgid 'Remove an automatic action'
- msgstr '자동 액션의 삭제'
- msgid 'Assign the task to a specific user'
- msgstr '할일 담당자를 할당'
- msgid 'Assign the task to the person who does the action'
- msgstr '액션을 일으킨 사용자를 담당자이자'
- msgid 'Duplicate the task to another project'
- msgstr ' 다른 프로젝트에 할일을 복제하는 '
- msgid 'Move a task to another column'
- msgstr '할일을 다른 컬럼에 이동하는 '
- msgid 'Task modification'
- msgstr '할일 변경'
- msgid 'Task creation'
- msgstr '할일을 만들'
- msgid 'Closing a task'
- msgstr '할일을 닫혔다'
- msgid 'Assign a color to a specific user'
- msgstr '색을 사용자에 할당'
- msgid 'Position'
- msgstr '위치'
- msgid 'Duplicate to project'
- msgstr '다른 프로젝트에 복사'
- msgid 'Duplicate'
- msgstr '복사'
- msgid 'Link'
- msgstr '링크'
- msgid 'Comment updated successfully.'
- msgstr '댓글을 갱신했습니다.'
- msgid 'Unable to update your comment.'
- msgstr '댓글의 갱신에 실패했습니다.'
- msgid 'Remove a comment'
- msgstr '댓글 삭제'
- msgid 'Comment removed successfully.'
- msgstr '댓글을 삭제했습니다.'
- msgid 'Unable to remove this comment.'
- msgstr '댓글의 삭제에 실패했습니다.'
- msgid 'Do you really want to remove this comment?'
- msgstr '댓글을 삭제합니까?'
- msgid 'Current password for the user "%s"'
- msgstr '사용자 "%s"의 현재 패스워드'
- msgid 'The current password is required'
- msgstr '현재의 패스워드를 입력하세요'
- msgid 'Wrong password'
- msgstr '패스워드가 다릅니다'
- msgid 'Unknown'
- msgstr '불명'
- msgid 'Last logins'
- msgstr '마지막 로그인'
- msgid 'Login date'
- msgstr '로그인 일시'
- msgid 'Authentication method'
- msgstr '인증 방법'
- msgid 'IP address'
- msgstr 'IP 주소'
- msgid 'User agent'
- msgstr '사용자 에이전트'
- msgid 'Persistent connections'
- msgstr '세션'
- msgid 'No session.'
- msgstr '세션 없음'
- msgid 'Expiration date'
- msgstr '유효기간'
- msgid 'Remember Me'
- msgstr '자동 로그인'
- msgid 'Creation date'
- msgstr '작성일'
- msgid 'Everybody'
- msgstr '모두'
- msgid 'Open'
- msgstr '열림'
- msgid 'Closed'
- msgstr '닫힘'
- msgid 'Search'
- msgstr '검색'
- msgid 'Nothing found.'
- msgstr '결과가 없습니다'
- msgid 'Due date'
- msgstr '마감일'
- msgid 'Description'
- msgstr '설명'
- msgid '%d comments'
- msgstr '%d개의 댓글'
- msgid '%d comment'
- msgstr '%d개의 댓글'
- msgid 'Email address invalid'
- msgstr '메일 주소가 올바르지 않습니다.'
- msgid 'Your external account is not linked anymore to your profile.'
- msgstr '외부 계정과 프로필이 더이상 연결되지 않습니다'
- msgid 'Unable to unlink your external account.'
- msgstr '외부 계정과 연결 해제에 실패하였습니다'
- msgid 'External authentication failed'
- msgstr '외부 인증 실패'
- msgid 'Your external account is linked to your profile successfully.'
- msgstr '외부 계정과 프로필이 성공적으로 연결되었습니다'
- msgid 'Email'
- msgstr '이메일'
- msgid 'Task removed successfully.'
- msgstr '할일을 삭제했습니다.'
- msgid 'Unable to remove this task.'
- msgstr '할일 삭제에 실패하였습니다'
- msgid 'Remove a task'
- msgstr '할일 삭제'
- msgid 'Do you really want to remove this task: "%s"?'
- msgstr '할일을 삭제하시겠습니까: "%s"?'
- msgid 'Assign automatically a color based on a category'
- msgstr '카테고리에 바탕을 두고 색을 바꾸고'
- msgid 'Assign automatically a category based on a color'
- msgstr '색에 바탕을 두고 카테고리를 바꾸었다'
- msgid 'Task creation or modification'
- msgstr '할일의 작성 또는 변경'
- msgid 'Category'
- msgstr '카테고리'
- msgid 'Category:'
- msgstr '카테고리:'
- msgid 'Categories'
- msgstr '카테고리'
- msgid 'Your category has been created successfully.'
- msgstr '카테고리를 작성했습니다.'
- msgid 'This category has been updated successfully.'
- msgstr '카테고리를 갱신했습니다.'
- msgid 'Unable to update this category.'
- msgstr '카테고리의 갱신에 실패했습니다.'
- msgid 'Remove a category'
- msgstr '카테고리의 삭제'
- msgid 'Category removed successfully.'
- msgstr '카테고리를 삭제했습니다.'
- msgid 'Unable to remove this category.'
- msgstr '카테고리를 삭제할 수 없었습니다.'
- msgid 'Category modification for the project "%s"'
- msgstr '"%s" 프로젝트 카테고리 수정'
- msgid 'Category Name'
- msgstr '카테고리 이름'
- msgid 'Add a new category'
- msgstr '카테고리의 추가'
- msgid 'Do you really want to remove this category: "%s"?'
- msgstr '카테고리를 삭제하시겠습니까: "%s"?'
- msgid 'All categories'
- msgstr '모든 카테고리'
- msgid 'No category'
- msgstr '카테고리 없음'
- msgid 'The name is required'
- msgstr '이름을 입력하십시오'
- msgid 'Remove a file'
- msgstr '파일 삭제'
- msgid 'Unable to remove this file.'
- msgstr '파일 삭제에 실패했습니다.'
- msgid 'File removed successfully.'
- msgstr '파일을 삭제했습니다.'
- msgid 'Attach a document'
- msgstr '문서 첨부'
- msgid 'Do you really want to remove this file: "%s"?'
- msgstr '파일 "%s" 을 삭제할까요?'
- msgid 'Attachments'
- msgstr '첨부'
- msgid 'Edit the task'
- msgstr '할일 수정'
- msgid 'Add a comment'
- msgstr '댓글 추가'
- msgid 'Edit a comment'
- msgstr '댓글 수정'
- msgid 'Summary'
- msgstr '개요'
- msgid 'Time tracking'
- msgstr '시간 추적'
- msgid 'Estimate:'
- msgstr '예측:'
- msgid 'Spent:'
- msgstr '경과:'
- msgid 'Do you really want to remove this sub-task?'
- msgstr '서브 할일을 삭제합니까?'
- msgid 'Remaining:'
- msgstr '나머지:'
- msgid 'hours'
- msgstr '시간'
- msgid 'estimated'
- msgstr '예측'
- msgid 'Sub-Tasks'
- msgstr '서브 할일'
- msgid 'Add a sub-task'
- msgstr '서브 할일 추가'
- msgid 'Original estimate'
- msgstr '최초 예측시간'
- msgid 'Create another sub-task'
- msgstr '다음 서브 할일 추가'
- msgid 'Time spent'
- msgstr '경과시간'
- msgid 'Edit a sub-task'
- msgstr '서브 할일을 변경하는 '
- msgid 'Remove a sub-task'
- msgstr '서브 할일을 삭제하는 '
- msgid 'The time must be a numeric value'
- msgstr '시간은 숫자로 입력하세요'
- msgid 'Todo'
- msgstr '할일 예정'
- msgid 'In progress'
- msgstr '할일 중'
- msgid 'Sub-task removed successfully.'
- msgstr '서브 할일을 삭제했습니다.'
- msgid 'Unable to remove this sub-task.'
- msgstr '서브 할일의 삭제가 실패했습니다.'
- msgid 'Sub-task updated successfully.'
- msgstr '서브 할일을 갱신했습니다.'
- msgid 'Unable to update your sub-task.'
- msgstr '서브 할일의 경신에 실패했습니다.'
- msgid 'Unable to create your sub-task.'
- msgstr '서브 할일의 추가에 실패했습니다.'
- msgid 'Maximum size: '
- msgstr '최대: '
- msgid 'Display another project'
- msgstr '프로젝트 보기'
- msgid 'Created by %s'
- msgstr '작성자 %s'
- msgid 'Tasks Export'
- msgstr '할일 내보내기'
- msgid 'Start Date'
- msgstr '시작일'
- msgid 'Execute'
- msgstr '실행'
- msgid 'Task Id'
- msgstr '할일 ID'
- msgid 'Creator'
- msgstr '작성자'
- msgid 'Modification date'
- msgstr '변경 일'
- msgid 'Completion date'
- msgstr '완료일'
- msgid 'Clone'
- msgstr '복사'
- msgid 'Project cloned successfully.'
- msgstr '프로젝트를 복제했습니다.'
- msgid 'Unable to clone this project.'
- msgstr '프로젝트의 복제에 실패했습니다.'
- msgid 'Enable email notifications'
- msgstr '이메일 알림 설정'
- msgid 'Task position:'
- msgstr '할일 위치:'
- msgid 'The task #%d has been opened.'
- msgstr '할일 #%d가 시작되었습니다'
- msgid 'The task #%d has been closed.'
- msgstr '할일 #%d가 종료되었습니다'
- msgid 'Sub-task updated'
- msgstr '서브 할일 갱신'
- msgid 'Title:'
- msgstr '제목:'
- msgid 'Status:'
- msgstr '상태:'
- msgid 'Assignee:'
- msgstr '담당:'
- msgid 'Time tracking:'
- msgstr '시간 계측:'
- msgid 'New sub-task'
- msgstr '새로운 서브 할일'
- msgid 'New attachment added "%s"'
- msgstr '"%s"의 새로운 첨부 파일'
- msgid 'New comment posted by %s'
- msgstr '"%s"님이 댓글을 추가하였습니다'
- msgid 'New comment'
- msgstr ' 새로운 댓글'
- msgid 'Comment updated'
- msgstr '댓글가 갱신되었습니다'
- msgid 'New subtask'
- msgstr ' 새로운 서브 할일'
- msgid 'I only want to receive notifications for these projects:'
- msgstr '다음 프로젝트의 알림만 받겠습니다:'
- msgid 'view the task on Kanboard'
- msgstr 'Kanboard에서 할일을 본다'
- msgid 'Public access'
- msgstr '공개 접속 설정'
- msgid 'Disable public access'
- msgstr '공개 접속 비활성화'
- msgid 'Enable public access'
- msgstr '공개 접속 활성화'
- msgid 'Public access disabled'
- msgstr '공개 접속 불가'
- msgid 'Move the task to another project'
- msgstr '할일별 프로젝트에 옮기'
- msgid 'Move to project'
- msgstr '다른 프로젝트로 이동'
- msgid 'Do you really want to duplicate this task?'
- msgstr '할일을 복제합니까?'
- msgid 'Duplicate a task'
- msgstr '할일 복사'
- msgid 'External accounts'
- msgstr '외부 계정'
- msgid 'Account type'
- msgstr '계정종류'
- msgid 'Local'
- msgstr '로컬'
- msgid 'Remote'
- msgstr '원격'
- msgid 'Enabled'
- msgstr '활성화'
- msgid 'Disabled'
- msgstr '비활성화'
- msgid 'Login:'
- msgstr '사용자명'
- msgid 'Full Name:'
- msgstr '이름:'
- msgid 'Email:'
- msgstr '이메일:'
- msgid 'Notifications:'
- msgstr '알림:'
- msgid 'Notifications'
- msgstr '알림'
- msgid 'Account type:'
- msgstr '계정종류:'
- msgid 'Edit profile'
- msgstr '프로필 변경'
- msgid 'Change password'
- msgstr '패스워드 변경'
- msgid 'Password modification'
- msgstr '패스워드 변경'
- msgid 'External authentications'
- msgstr '외부 인증'
- msgid 'Never connected.'
- msgstr '접속기록없음'
- msgid 'No external authentication enabled.'
- msgstr '외부 인증이 설정되어 있지 않습니다.'
- msgid 'Password modified successfully.'
- msgstr '패스워드를 변경했습니다.'
- msgid 'Unable to change the password.'
- msgstr '비밀 번호가 변경할 수 없었습니다.'
- msgid 'Change category'
- msgstr '카테고리 수정'
- msgid '%s updated the task %s'
- msgstr '%s이 할일 %s을 갱신 하였습니다'
- msgid '%s opened the task %s'
- msgstr '%s이 할일 %s을 시작시켰습니다'
- msgid '%s moved the task %s to the position #%d in the column "%s"'
- msgstr '%s이 할일%s을 위치#%d컬럼%s로 옮겼습니다'
- msgid '%s moved the task %s to the column "%s"'
- msgstr '%s이 할일 %s을 컬럼 "%s" 로 옮겼습니다'
- msgid '%s created the task %s'
- msgstr '%s이 할일%s을 추가했습니다'
- msgid '%s closed the task %s'
- msgstr '%s이 할일%s을 마쳤습니다'
- msgid '%s created a subtask for the task %s'
- msgstr '%s이 할일%s의 서브 할일을 추가했습니다'
- msgid '%s updated a subtask for the task %s'
- msgstr '%s이 할일%s의 서브 할일을 갱신했습니다'
- msgid 'Assigned to %s with an estimate of %s/%sh'
- msgstr '담당자 %s에게 예상 %s/%sh을 할당했습니다'
- msgid 'Not assigned, estimate of %sh'
- msgstr '예상 %sh가 할당되지 않았습니다'
- msgid '%s updated a comment on the task %s'
- msgstr '%s이 할일%s의 댓글을 수정했습니다'
- msgid '%s commented the task %s'
- msgstr '%s이 할일%s에 댓글을 남겼습니다'
- msgid '%s\'s activity'
- msgstr '%s의 활동'
- msgid 'RSS feed'
- msgstr 'RSS피드'
- msgid '%s updated a comment on the task #%d'
- msgstr '%s이 할일#%d의 댓글을 수정했습니다'
- msgid '%s commented on the task #%d'
- msgstr '%s이 할일#%d을 언급하였습니다'
- msgid '%s updated a subtask for the task #%d'
- msgstr '%s이 할일#%d의 서브 할일을 수정했습니다'
- msgid '%s created a subtask for the task #%d'
- msgstr '%s이 할일#%d의 서브 할일을 수정했습니다'
- msgid '%s updated the task #%d'
- msgstr '%s이 할일#%d을 갱신했습니다'
- msgid '%s created the task #%d'
- msgstr '%s이 할일#%d을 추가했습니다'
- msgid '%s closed the task #%d'
- msgstr '%s이 할일#%d을 닫혔습니다'
- msgid '%s opened the task #%d'
- msgstr '%s이 할일#%d를 오픈했습니다'
- msgid 'Activity'
- msgstr '활동'
- msgid 'Default values are "%s"'
- msgstr '기본 값은 "%s" 입니다'
- msgid 'Default columns for new projects (Comma-separated)'
- msgstr '새로운 프로젝트의 기본 컬럼 (콤마(,)로 분리됨)'
- msgid 'Task assignee change'
- msgstr '담당자의 변경'
- msgid '%s changed the assignee of the task #%d to %s'
- msgstr '%s이 할일 #%d의 담당을 %s로 변경합니다'
- msgid '%s changed the assignee of the task %s to %s'
- msgstr '%s이 할일 %s의 담당을 %s로 변경했습니다'
- msgid 'New password for the user "%s"'
- msgstr '사용자 "%s"의 새로운 패스워드'
- msgid 'Choose an event'
- msgstr '행사의 선택'
- msgid 'Create a task from an external provider'
- msgstr '할일을 외부 서비스로부터 작성하는 '
- msgid 'Change the assignee based on an external username'
- msgstr '담당자를 외부 서비스에 바탕을 두고 변경하는 '
- msgid 'Change the category based on an external label'
- msgstr '카테고리를 외부 서비스에 바탕을 두고 변경하는 '
- msgid 'Reference'
- msgstr '참조'
- msgid 'Label'
- msgstr '라벨'
- msgid 'Database'
- msgstr '데이터베이스'
- msgid 'About'
- msgstr '정보'
- msgid 'Database driver:'
- msgstr '데이터베이스 드라이버:'
- msgid 'Board settings'
- msgstr '기본 설정'
- msgid 'Webhook settings'
- msgstr 'Webhook의 설정'
- msgid 'Reset token'
- msgstr '토큰 리셋'
- msgid 'API endpoint:'
- msgstr 'API엔드 포인트:'
- msgid 'Refresh interval for personal board'
- msgstr '비공개 보드의 갱신 빈도'
- msgid 'Refresh interval for public board'
- msgstr '공개 보드의 갱신 빈도'
- msgid 'Task highlight period'
- msgstr '할일의 하이라이트 기간'
- msgid 'Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)'
- msgstr '최근 수정된 작업 고려 기간(초), (비활성화:0, 기본값:2일)'
- msgid 'Frequency in second (60 seconds by default)'
- msgstr '초당 횟수(기본값:60초)'
- msgid 'Frequency in second (0 to disable this feature, 10 seconds by default)'
- msgstr '초당 횟수(비활성화:0, 기본값:10초)'
- msgid 'Application URL'
- msgstr '애플리케이션의 URL'
- msgid 'Token regenerated.'
- msgstr '토큰이 다시 생성되었습니다.'
- msgid 'Date format'
- msgstr '데이터 포멧'
- msgid 'ISO format is always accepted, example: "%s" and "%s"'
- msgstr 'ISO 포멧은 항상 가능합니다. 예를 들어: "%s" 와 "%s"'
- msgid 'New personal project'
- msgstr '새 비공개 프로젝트'
- msgid 'This project is personal'
- msgstr '이 프로젝트는 비공개입니다'
- msgid 'Add'
- msgstr '추가'
- msgid 'Start date'
- msgstr '시작시간'
- msgid 'Time estimated'
- msgstr '예상시간'
- msgid 'There is nothing assigned to you.'
- msgstr '할일이 없습니다. 옆사람의 일을 도와주면 어떨까요?'
- msgid 'My tasks'
- msgstr '내 할일'
- msgid 'Activity stream'
- msgstr '활동기록'
- msgid 'Dashboard'
- msgstr '대시보드'
- msgid 'Confirmation'
- msgstr '확인'
- msgid 'Webhooks'
- msgstr 'Webhook'
- msgid 'API'
- msgstr 'API'
- msgid 'Create a comment from an external provider'
- msgstr '외부 서비스로부터 의견을 작성한다'
- msgid 'Project management'
- msgstr '프로젝트 관리'
- msgid 'Columns'
- msgstr '컬럼'
- msgid 'Task'
- msgstr '할일'
- msgid 'Percentage'
- msgstr '비중'
- msgid 'Number of tasks'
- msgstr '할일 수'
- msgid 'Task distribution'
- msgstr '할일 분포'
- msgid 'Analytics'
- msgstr '분석'
- msgid 'Subtask'
- msgstr '서브 할일'
- msgid 'User repartition'
- msgstr '담당자 분포'
- msgid 'Clone this project'
- msgstr '이 프로젝트를 복제하는 '
- msgid 'Column removed successfully.'
- msgstr '(※)컬럼을 삭제했습니다'
- msgid 'Not enough data to show the graph.'
- msgstr '그래프를 선묘화하려면 나왔지만 부족합니다'
- msgid 'Previous'
- msgstr ' 돌아가'
- msgid 'The id must be an integer'
- msgstr 'id은 숫자가 아니면 안 됩니다'
- msgid 'The project id must be an integer'
- msgstr 'project id은 숫자가 아니면 안 됩니다'
- msgid 'The status must be an integer'
- msgstr 'status는 숫자지 않으면 안 됩니다'
- msgid 'The subtask id is required'
- msgstr 'subtask id가 필요합니다'
- msgid 'The subtask id must be an integer'
- msgstr 'subtask id은 숫자가 아니면 안 됩니다'
- msgid 'The task id is required'
- msgstr 'task id가 필요합니다'
- msgid 'The task id must be an integer'
- msgstr 'task id은 숫자가 아니면 안 됩니다'
- msgid 'The user id must be an integer'
- msgstr 'user id은 숫자가 아니면 안 됩니다'
- msgid 'This value is required'
- msgstr '이 값이 필요합니다'
- msgid 'This value must be numeric'
- msgstr '이 값은 숫자가 아니면 안 됩니다'
- msgid 'Unable to create this task.'
- msgstr '이 할일을 작성할 수 없었습니다'
- msgid 'Cumulative flow diagram'
- msgstr '축적 흐름'
- msgid 'Daily project summary'
- msgstr '하루 프로젝트 개요'
- msgid 'Daily project summary export'
- msgstr '하루 프로젝트 개요의 출력'
- msgid 'Exports'
- msgstr '출력'
- msgid 'This export contains the number of tasks per column grouped per day.'
- msgstr '이 출력은 날짜의 칼람별 할일 수를 집계한 것입니다'
- msgid 'Active swimlanes'
- msgstr '액티브한 스윔레인'
- msgid 'Add a new swimlane'
- msgstr ' 새로운 스윔레인'
- msgid 'Default swimlane'
- msgstr '기본 스윔레인'
- msgid 'Do you really want to remove this swimlane: "%s"?'
- msgstr '스웜레인을 삭제하시겠습니까: "%s"?'
- msgid 'Inactive swimlanes'
- msgstr '인터랙티브한 스윔레인'
- msgid 'Remove a swimlane'
- msgstr '스윔레인의 삭제'
- msgid 'Swimlane modification for the project "%s"'
- msgstr '"%s" 프로젝트의 스웜레인 수정'
- msgid 'Swimlane removed successfully.'
- msgstr '스윔레인을 삭제했습니다.'
- msgid 'Swimlanes'
- msgstr '스윔레인'
- msgid 'Swimlane updated successfully.'
- msgstr '스윔레인을 갱신했습니다.'
- msgid 'Unable to remove this swimlane.'
- msgstr '스윔레인을 삭제할 수 없었습니다.'
- msgid 'Unable to update this swimlane.'
- msgstr '스윔레인을 갱신할 수 없었습니다.'
- msgid 'Your swimlane has been created successfully.'
- msgstr '스윔레인이 작성되었습니다.'
- msgid 'Example: "Bug, Feature Request, Improvement"'
- msgstr '예: "버그, 특성 요청, 향상"'
- msgid 'Default categories for new projects (Comma-separated)'
- msgstr '새로운 프로젝트의 기본 카테고리 (콤마(,)로 구분)'
- msgid 'Integrations'
- msgstr '연계'
- msgid 'Integration with third-party services'
- msgstr '외부 서비스 연계'
- msgid 'Subtask Id'
- msgstr '서브 할일 Id'
- msgid 'Subtasks'
- msgstr '서브 할일'
- msgid 'Subtasks Export'
- msgstr '서브 할일 출력'
- msgid 'Task Title'
- msgstr '할일 제목'
- msgid 'Untitled'
- msgstr '제목 없음'
- msgid 'Application default'
- msgstr '애플리케이션 기본'
- msgid 'Language:'
- msgstr '언어:'
- msgid 'Timezone:'
- msgstr '시간대:'
- msgid 'All columns'
- msgstr '모든 컬럼'
- msgid 'Next'
- msgstr '다음에 '
- msgid '#%d'
- msgstr '#%d'
- msgid 'All swimlanes'
- msgstr '모든 스윔레인'
- msgid 'All colors'
- msgstr '모든 색'
- msgid 'Moved to column %s'
- msgstr '"%s" 컬럼으로 이동'
- msgid 'User dashboard'
- msgstr '대시보드'
- msgid 'Allow only one subtask in progress at the same time for a user'
- msgstr '한 사용자에 대한 하나의 할일만 진행 중에 가능합니다'
- msgid 'Edit column "%s"'
- msgstr '"%s" 컬럼 수정'
- msgid 'Select the new status of the subtask: "%s"'
- msgstr '서브 할일의 새로운 상태 선택: "%s"'
- msgid 'Subtask timesheet'
- msgstr '서브 할일 타임시트'
- msgid 'There is nothing to show.'
- msgstr '기록이 없습니다'
- msgid 'Time Tracking'
- msgstr '시간 트레킹'
- msgid 'You already have one subtask in progress'
- msgstr '이미 진행 중인 서브 할일가 있습니다.'
- msgid 'Which parts of the project do you want to duplicate?'
- msgstr '프로젝트의 무엇을 복제합니까?'
- msgid 'Disallow login form'
- msgstr '허가되지 않은 로그인 양식'
- msgid 'Start'
- msgstr '시작'
- msgid 'End'
- msgstr '종료'
- msgid 'Task age in days'
- msgstr '할일이 생긴 시간'
- msgid 'Days in this column'
- msgstr '이 컬럼에 있는 시간'
- msgid '%dd'
- msgstr '%d일'
- msgid 'Add a new link'
- msgstr ' 새로운 링크 추가'
- msgid 'Do you really want to remove this link: "%s"?'
- msgstr '링크를 삭제하시겠습니까: "%s"?'
- msgid 'Do you really want to remove this link with task #%d?'
- msgstr '#%d 할일의 링크를 삭제하시겠습니까?'
- msgid 'Field required'
- msgstr '필드가 필요합니다'
- msgid 'Link added successfully.'
- msgstr '링크를 추가했습니다.'
- msgid 'Link updated successfully.'
- msgstr '링크를 갱신했습니다.'
- msgid 'Link removed successfully.'
- msgstr '링크를 삭제했습니다.'
- msgid 'Link labels'
- msgstr '링크 라벨'
- msgid 'Link modification'
- msgstr '링크의 변경'
- msgid 'Opposite label'
- msgstr '반대의 라벨'
- msgid 'Remove a link'
- msgstr '라벨의 삭제'
- msgid 'The labels must be different'
- msgstr ' 다른 라벨을 지정하세요'
- msgid 'There is no link.'
- msgstr '링크가 없습니다'
- msgid 'This label must be unique'
- msgstr '라벨은 독특할 필요가 있습니다'
- msgid 'Unable to create your link.'
- msgstr '링크를 작성할 수 없었습니다.'
- msgid 'Unable to update your link.'
- msgstr '링크를 갱신할 수 없었습니다.'
- msgid 'Unable to remove this link.'
- msgstr '링크를 삭제할 수 없었습니다.'
- msgid 'relates to'
- msgstr '연관 링크'
- msgid 'blocks'
- msgstr '다음을 딜레이하는'
- msgid 'is blocked by'
- msgstr '다음 때문에 딜레이되는'
- msgid 'duplicates'
- msgstr '다음과 중복하는'
- msgid 'is duplicated by'
- msgstr '다음에 중복되는'
- msgid 'is a child of'
- msgstr '다음의 하위 할일'
- msgid 'is a parent of'
- msgstr '다음의 상위 할일'
- msgid 'targets milestone'
- msgstr '다음의 이정표를 목표로 하는'
- msgid 'is a milestone of'
- msgstr '다음의 이정표인'
- msgid 'fixes'
- msgstr '다음을 수정하는'
- msgid 'is fixed by'
- msgstr '다음에 의해 수정되는'
- msgid 'This task'
- msgstr '이 할일의 '
- msgid '<1h'
- msgstr '<1시간'
- msgid '%dh'
- msgstr '%d시간'
- msgid 'Expand tasks'
- msgstr '할일 크게'
- msgid 'Collapse tasks'
- msgstr '할일 작게'
- msgid 'Expand/collapse tasks'
- msgstr '할일 크게/작게'
- msgid 'Close dialog box'
- msgstr '다이얼로그를 닫습니다'
- msgid 'Submit a form'
- msgstr '제출'
- msgid 'Board view'
- msgstr '보드 뷰'
- msgid 'Keyboard shortcuts'
- msgstr '키보드 숏 컷'
- msgid 'Open board switcher'
- msgstr '보드 전환을 열'
- msgid 'Application'
- msgstr '애플리케이션'
- msgid 'Compact view'
- msgstr '컴팩트 뷰'
- msgid 'Horizontal scrolling'
- msgstr '세로 스크롤'
- msgid 'Compact/wide view'
- msgstr '컴팩트/와이드 뷰'
- msgid 'Currency'
- msgstr '통화'
- msgid 'Personal project'
- msgstr '개인 프로젝트'
- msgid 'AUD - Australian Dollar'
- msgstr 'AUD - 호주 달러'
- msgid 'CAD - Canadian Dollar'
- msgstr 'CAD -캐나다 달러'
- msgid 'CHF - Swiss Francs'
- msgstr 'CHF - 스위스 프랑'
- msgid 'Custom Stylesheet'
- msgstr '커스텀 스타일 시트'
- msgid 'EUR - Euro'
- msgstr 'EUR - 유로'
- msgid 'GBP - British Pound'
- msgstr 'GBP - 영국 파운드'
- msgid 'INR - Indian Rupee'
- msgstr 'INR - 인도 루피'
- msgid 'JPY - Japanese Yen'
- msgstr 'JPY - 일본 엔'
- msgid 'NZD - New Zealand Dollar'
- msgstr 'NZD - 뉴질랜드 달러'
- msgid 'RSD - Serbian dinar'
- msgstr 'RSD - 세르비아 디나르'
- msgid 'CNY - Chinese Yuan'
- msgstr ''
- msgid 'USD - US Dollar'
- msgstr 'USD - 미국 달러'
- msgid 'VES - Venezuelan Bolívar'
- msgstr ''
- msgid 'Destination column'
- msgstr '이동 후 컬럼'
- msgid 'Move the task to another column when assigned to a user'
- msgstr '사용자의 할당을 하면 할일을 다른 컬럼에 이동'
- msgid 'Move the task to another column when assignee is cleared'
- msgstr '사용자의 할당이 없어지면 할일을 다른 컬럼에 이동'
- msgid 'Source column'
- msgstr '이동 전 컬럼'
- msgid 'Transitions'
- msgstr '이력'
- msgid 'Executer'
- msgstr '실행자'
- msgid 'Time spent in the column'
- msgstr '컬럼에 있던 시간'
- msgid 'Task transitions'
- msgstr '할일 천이'
- msgid 'Task transitions export'
- msgstr '할일 천이를 출력'
- msgid 'This report contains all column moves for each task with the date, the user and the time spent for each transition.'
- msgstr '이 리포트는 할일의 컬럼 간 이동을 시간, 유저, 경과 시간과 함께 기록한 것입니다.'
- msgid 'Currency rates'
- msgstr '환율'
- msgid 'Rate'
- msgstr '레이트'
- msgid 'Change reference currency'
- msgstr '현재의 기축 통화'
- msgid 'Reference currency'
- msgstr '기축 통화'
- msgid 'The currency rate has been added successfully.'
- msgstr '통화가 성공적으로 추가되었습니다'
- msgid 'Unable to add this currency rate.'
- msgstr '이 통화 환율을 추가할 수 없습니다.'
- msgid 'Webhook URL'
- msgstr 'Webhook URL'
- msgid '%s removed the assignee of the task %s'
- msgstr '%s이 할일 %s의 담당을 삭제했습니다'
- msgid 'Information'
- msgstr '정보'
- msgid 'Check two factor authentication code'
- msgstr '2단 인증을 체크한다'
- msgid 'The two factor authentication code is not valid.'
- msgstr '2단 인증 코드는 무효입니다.'
- msgid 'The two factor authentication code is valid.'
- msgstr '2단 인증 코드는 유효합니다.'
- msgid 'Code'
- msgstr '코드'
- msgid 'Two factor authentication'
- msgstr '2단 인증'
- msgid 'This QR code contains the key URI: '
- msgstr 'QR 코드는 키 URI를 포함합니다: '
- msgid 'Check my code'
- msgstr '코드 체크'
- msgid 'Secret key: '
- msgstr '비밀키: '
- msgid 'Test your device'
- msgstr '디바이스 테스트'
- msgid 'Assign a color when the task is moved to a specific column'
- msgstr '상세 컬럼으로 이동할 할일의 색깔을 지정하세요'
- msgid '%s via Kanboard'
- msgstr '%s via E-board'
- msgid 'Burndown chart'
- msgstr '번다운 차트'
- msgid 'This chart show the task complexity over the time (Work Remaining).'
- msgstr '이 차트는 시간에 따른 할일의 복잡성을 보여줍니다. (남아있는 일)'
- msgid 'Screenshot taken %s'
- msgstr '스크린샷_%s'
- msgid 'Add a screenshot'
- msgstr '스크린샷 추가'
- msgid 'Take a screenshot and press CTRL+V or ⌘+V to paste here.'
- msgstr '스크린샷을 CTRL+V 혹은 ⌘+V를 눌러 붙여넣기'
- msgid 'Screenshot uploaded successfully.'
- msgstr '스크린샷을 업로드하였습니다'
- msgid 'SEK - Swedish Krona'
- msgstr 'SEK - 스위스 크로나'
- msgid 'Identifier'
- msgstr '식별자'
- msgid 'Disable two factor authentication'
- msgstr '이중 인증 비활성화'
- msgid 'Do you really want to disable the two factor authentication for this user: "%s"?'
- msgstr '"%s" 담당자의 이중 인증을 비활성화 하시겠습니까?'
- msgid 'Edit link'
- msgstr '링크 수정'
- msgid 'Start to type task title...'
- msgstr '할일 제목을 입력하세요'
- msgid 'A task cannot be linked to itself'
- msgstr '할일을 자기자신에게 연결할 수 없습니다'
- msgid 'The exact same link already exists'
- msgstr '동일한 링크가 이미 존재합니다'
- msgid 'Recurrent task is scheduled to be generated'
- msgstr '반복 할일이 생성된 예정입니다.'
- msgid 'Score'
- msgstr '점수'
- msgid 'The identifier must be unique'
- msgstr '식별자는 유일해야 합니다'
- msgid 'This linked task id doesn\'t exists'
- msgstr '연결된 할일 ID가 존재하지 않습니다'
- msgid 'This value must be alphanumeric'
- msgstr '글자와 숫자만 가능합니다'
- msgid 'Edit recurrence'
- msgstr '반복 수정'
- msgid 'Generate recurrent task'
- msgstr '반복 할일 생성'
- msgid 'Trigger to generate recurrent task'
- msgstr '반복 할일 생성 트리거'
- msgid 'Factor to calculate new due date'
- msgstr '새로운 종료날짜 계산'
- msgid 'Timeframe to calculate new due date'
- msgstr '종료날짜 계산 단위'
- msgid 'Base date to calculate new due date'
- msgstr '새로운 기본 종료날짜 계산'
- msgid 'Action date'
- msgstr '시작날짜'
- msgid 'Base date to calculate new due date: '
- msgstr '새로운 기본 종료날짜 계산: '
- msgid 'This task has created this child task: '
- msgstr '이 할일은 하위 할일을 만들었습니다.'
- msgid 'Day(s)'
- msgstr '일'
- msgid 'Existing due date'
- msgstr '기존 종료날짜'
- msgid 'Factor to calculate new due date: '
- msgstr '새로운 종료날짜 계산: '
- msgid 'Month(s)'
- msgstr '월'
- msgid 'This task has been created by: '
- msgstr '할일을 만들었습니다: '
- msgid 'Recurrent task has been generated:'
- msgstr '반복 할일이 생성되었습니다'
- msgid 'Timeframe to calculate new due date: '
- msgstr '종료날짜 계산 단위'
- msgid 'Trigger to generate recurrent task: '
- msgstr '반복 할일 생성 트리거'
- msgid 'When task is closed'
- msgstr '할일을 마쳤을때'
- msgid 'When task is moved from first column'
- msgstr '할일이 첫번째 컬럼으로 옮겨졌을때'
- msgid 'When task is moved to last column'
- msgstr '할일이 마지막 컬럼으로 옮겨졌을때'
- msgid 'Year(s)'
- msgstr '년'
- msgid 'Project settings'
- msgstr '프로젝트 설정'
- msgid 'Automatically update the start date'
- msgstr '시작일에 자동 갱신'
- msgid 'iCal feed'
- msgstr 'iCal 피드'
- msgid 'Preferences'
- msgstr '우선권'
- msgid 'Security'
- msgstr '보안'
- msgid 'Two factor authentication disabled'
- msgstr '이중 인증이 비활성화 되었습니다'
- msgid 'Two factor authentication enabled'
- msgstr '이중 인증이 활성화 되었습니다'
- msgid 'Unable to update this user.'
- msgstr '담당자 갱신이 가능합니다'
- msgid 'There is no user management for personal projects.'
- msgstr '비밀 프로젝트의 관리 담당자가 없습니다'
- msgid 'User that will receive the email'
- msgstr '그 담당자가 이메일을 수신할 것입니다'
- msgid 'Email subject'
- msgstr '이메일 제목'
- msgid 'Date'
- msgstr '날짜'
- msgid 'Add a comment log when moving the task between columns'
- msgstr '컬럼 중간의 할일이 이동할 때 의견 달기'
- msgid 'Move the task to another column when the category is changed'
- msgstr '카테고리 변경시 할일을 다른 컬럼으로 이동'
- msgid 'Send a task by email to someone'
- msgstr '할일을 이메일로 보내기'
- msgid 'Reopen a task'
- msgstr '할일 다시 시작'
- msgid 'Notification'
- msgstr '알림'
- msgid '%s moved the task #%d to the first swimlane'
- msgstr '%s가 할일 #%d를 첫번째 스웜레인으로 이동시켰습니다'
- msgid 'Swimlane'
- msgstr '스윔레인'
- msgid '%s moved the task %s to the first swimlane'
- msgstr '%s가 할일 %s를 첫번째 스웜레인으로 이동시켰습니다'
- msgid '%s moved the task %s to the swimlane "%s"'
- msgstr '%s가 할일 %s를 %s 스웜레인으로 이동시켰습니다'
- msgid 'This report contains all subtasks information for the given date range.'
- msgstr '해당 기간의 모든 서브 할일 정보가 보고서에 포함됩니다'
- msgid 'This report contains all tasks information for the given date range.'
- msgstr '해당 기간의 모든 할일 정보가 보고서에 포함됩니다'
- msgid 'Project activities for %s'
- msgstr '%s의 프로젝트 활성화'
- msgid 'view the board on Kanboard'
- msgstr 'kanboard로 보드 보기'
- msgid 'The task has been moved to the first swimlane'
- msgstr '할일이 첫번째 스웜라인으로 이동되어 있습니다'
- msgid 'The task has been moved to another swimlane:'
- msgstr '할일이 다른 스웜라인으로 이동되어 있습니다'
- msgid 'New title: %s'
- msgstr '제목 변경: %s'
- msgid 'The task is not assigned anymore'
- msgstr '담당자 없음'
- msgid 'New assignee: %s'
- msgstr '담당자 변경: %s'
- msgid 'There is no category now'
- msgstr '카테고리 없음'
- msgid 'New category: %s'
- msgstr '카테고리 변경: %s'
- msgid 'New color: %s'
- msgstr '색깔 변경: %s'
- msgid 'New complexity: %d'
- msgstr '복잡도 변경: %d'
- msgid 'The due date has been removed'
- msgstr '마감날짜 삭제'
- msgid 'There is no description anymore'
- msgstr '설명 없음'
- msgid 'Recurrence settings has been modified'
- msgstr '반복할일 설정 수정'
- msgid 'Time spent changed: %sh'
- msgstr '경과시간 변경: %s시간'
- msgid 'Time estimated changed: %sh'
- msgstr '%s시간으로 예상시간 변경'
- msgid 'The field "%s" has been updated'
- msgstr '%s 필드가 갱신되어 있습니다'
- msgid 'The description has been modified:'
- msgstr '설명이 수정되어 있습니다: '
- msgid 'Do you really want to close the task "%s" as well as all subtasks?'
- msgstr '할일 "%s"과 서브 할일을 모두 마치시겠습니까?'
- msgid 'I want to receive notifications for:'
- msgstr '다음의 알림을 받기를 원합니다:'
- msgid 'All tasks'
- msgstr '모든 할일'
- msgid 'Only for tasks assigned to me'
- msgstr '내가 담당자인 일'
- msgid 'Only for tasks created by me'
- msgstr '내가 만든 일'
- msgid 'Only for tasks created by me and tasks assigned to me'
- msgstr '내가 만들었거나 내가 담당자인 일'
- msgid '%%Y-%%m-%%d'
- msgstr '%%Y-%%m-%%d'
- msgid 'Total for all columns'
- msgstr '모든 컬럼'
- msgid 'You need at least 2 days of data to show the chart.'
- msgstr '차트를 보기 위하여 최소 2일의 데이터가 필요합니다'
- msgid '<15m'
- msgstr '<15분'
- msgid '<30m'
- msgstr '<30분'
- msgid 'Stop timer'
- msgstr '타이머 정지'
- msgid 'Start timer'
- msgstr '타이머 시작'
- msgid 'My activity stream'
- msgstr '내 활동기록'
- msgid 'Search tasks'
- msgstr '할일 찾기'
- msgid 'Reset filters'
- msgstr '필터 리셋'
- msgid 'My tasks due tomorrow'
- msgstr '내일까지 내 할일'
- msgid 'Tasks due today'
- msgstr '오늘까지 할일'
- msgid 'Tasks due tomorrow'
- msgstr '내일까지 할일'
- msgid 'Tasks due yesterday'
- msgstr '어제까지 할일'
- msgid 'Closed tasks'
- msgstr '닫힌 할일'
- msgid 'Open tasks'
- msgstr '열린 할일'
- msgid 'Not assigned'
- msgstr '담당자가 없는 일'
- msgid 'View advanced search syntax'
- msgstr '추가 검색 문법보기'
- msgid 'Overview'
- msgstr '개요'
- msgid 'Board/Calendar/List view'
- msgstr '보드/달력/리스트 보기'
- msgid 'Switch to the board view'
- msgstr '보드 보기로 전환'
- msgid 'Switch to the list view'
- msgstr '리스트 보기로 전환'
- msgid 'Go to the search/filter box'
- msgstr '검색/필터 박스로 이동'
- msgid 'There is no activity yet.'
- msgstr '활동이 없습니다'
- msgid 'No tasks found.'
- msgstr '할일을 찾을 수 없습니다'
- msgid 'Keyboard shortcut: "%s"'
- msgstr '쉬운 키보드: "%s"'
- msgid 'List'
- msgstr '목록'
- msgid 'Filter'
- msgstr '필터'
- msgid 'Advanced search'
- msgstr '검색 문법'
- msgid 'Example of query: '
- msgstr '문법 예제 '
- msgid 'Search by project: '
- msgstr '프로젝트로 찾기 '
- msgid 'Search by column: '
- msgstr '컬럼으로 찾기 '
- msgid 'Search by assignee: '
- msgstr '담당자로 찾기 '
- msgid 'Search by color: '
- msgstr '색깔로 찾기 '
- msgid 'Search by category: '
- msgstr '카테고리로 찾기 '
- msgid 'Search by description: '
- msgstr '설명으로 찾기 '
- msgid 'Search by due date: '
- msgstr '마감날짜로 찾기 '
- msgid 'Average time spent in each column'
- msgstr '각 칼럼의 평균 소요시간'
- msgid 'Average time spent'
- msgstr '평균 소요시간'
- msgid 'This chart shows the average time spent in each column for the last %d tasks.'
- msgstr '마지막 %d 할일의 컬럼 평균 소요시간을 차트에 표시합니다'
- msgid 'Average Lead and Cycle time'
- msgstr '평균 Lead and Cycle 시간'
- msgid 'Average lead time: '
- msgstr '평균 lead 시간'
- msgid 'Average cycle time: '
- msgstr '평균 cycle 시간'
- msgid 'Cycle Time'
- msgstr '사이클 시간'
- msgid 'Lead Time'
- msgstr '리드 시간'
- msgid 'This chart shows the average lead and cycle time for the last %d tasks over the time.'
- msgstr '마지막 %d 할일의 평균 리드와 사이클 시간을 차트에 표시합니다'
- msgid 'Average time into each column'
- msgstr '각 컬럼의 평균 시간'
- msgid 'Lead and cycle time'
- msgstr '리드와 사이클 시간'
- msgid 'Lead time: '
- msgstr '리드 시간: '
- msgid 'Cycle time: '
- msgstr '사이클 시간: '
- msgid 'Time spent in each column'
- msgstr '각 컬럼에서 걸린 시간'
- msgid 'The lead time is the duration between the task creation and the completion.'
- msgstr '리드 시간은 할일의 생성부터 완료까지의 기간입니다'
- msgid 'The cycle time is the duration between the start date and the completion.'
- msgstr '사이클 시간은 할일의 시작일부터 완료까지의 기간입니다'
- msgid 'If the task is not closed the current time is used instead of the completion date.'
- msgstr '할일이 종료되지 않았다면, 완료 시간 대신 현재 시간이 사용됩니다'
- msgid 'Set the start date automatically'
- msgstr '자동으로 시작 날짜를 설정합니다'
- msgid 'Edit Authentication'
- msgstr '계정 수정'
- msgid 'Remote user'
- msgstr '원격 담당자'
- msgid 'Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts.'
- msgstr '예를 들어 LDAP, Google, Github 계정같은 원격 담당자의 비밀번호는 칸반보드 데이터베이스에 저장하지 않습니다'
- msgid 'If you check the box "Disallow login form", credentials entered in the login form will be ignored.'
- msgstr '만약 "로그인 폼 거절"에 체크한다면, 로그인 폼에 접근할 자격이 무시됩니다'
- msgid 'Default task color'
- msgstr '기본 할일 색'
- msgid 'This feature does not work with all browsers.'
- msgstr '이 기능은 일부 브라우저에서 작동하지 않습니다'
- msgid 'There is no destination project available.'
- msgstr '가능한 목적 프로젝트가 없습니다'
- msgid 'Trigger automatically subtask time tracking'
- msgstr '자동 서브 할일 시간 트래킹 트리거'
- msgid 'Include closed tasks in the cumulative flow diagram'
- msgstr '누적 플로우 다이어그램에 종료된 할일을 포함합니다'
- msgid 'Current swimlane: %s'
- msgstr '현재 스웜라인: %s'
- msgid 'Current column: %s'
- msgstr '현재 컬럼: %s'
- msgid 'Current category: %s'
- msgstr '현재 카테고리: %s'
- msgid 'no category'
- msgstr '카테고리 아님'
- msgid 'Current assignee: %s'
- msgstr '현재 할당자: %s'
- msgid 'not assigned'
- msgstr '할당되지 않음'
- msgid 'Author:'
- msgstr '글쓴이:'
- msgid 'contributors'
- msgstr '기여자'
- msgid 'License:'
- msgstr '라이센스:'
- msgid 'License'
- msgstr '라이센스'
- msgid 'Enter the text below'
- msgstr '아랫글로 들어가기'
- msgid 'Start date:'
- msgstr '시작일:'
- msgid 'Due date:'
- msgstr '만기일:'
- msgid 'People who are project managers'
- msgstr '프로젝트 매니저'
- msgid 'People who are project members'
- msgstr '프로젝트 멤버'
- msgid 'NOK - Norwegian Krone'
- msgstr 'NOK - 노르웨이 크로네'
- msgid 'Show this column'
- msgstr '컬럼 보이기'
- msgid 'Hide this column'
- msgstr '컬럼 숨기기'
- msgid 'End date'
- msgstr '종료 날짜'
- msgid 'Users overview'
- msgstr '유저 전체보기'
- msgid 'Members'
- msgstr '멤버'
- msgid 'Shared project'
- msgstr '프로젝트 공유'
- msgid 'Project managers'
- msgstr '프로젝트 매니저'
- msgid 'Projects list'
- msgstr '프로젝트 리스트'
- msgid 'End date:'
- msgstr '날짜 수정'
- msgid 'Change task color when using a specific task link'
- msgstr '특정 할일 링크를 사용할때 할일의 색깔 변경'
- msgid 'Task link creation or modification'
- msgstr '할일 링크 생성 혹은 수정'
- msgid 'Milestone'
- msgstr '마일스톤'
- msgid 'Reset the search/filter box'
- msgstr '찾기/필터 박스 초기화'
- msgid 'Documentation'
- msgstr '문서'
- msgid 'Author'
- msgstr '글쓴이'
- msgid 'Version'
- msgstr '버전'
- msgid 'Plugins'
- msgstr '플러그인'
- msgid 'There is no plugin loaded.'
- msgstr '플러그인이 로드되지 않았습니다'
- msgid 'My notifications'
- msgstr '내 알림'
- msgid 'Custom filters'
- msgstr '사용자 정의 필터'
- msgid 'Your custom filter has been created successfully.'
- msgstr '사용자 정의 필터가 성공적으로 생성되었습니다'
- msgid 'Unable to create your custom filter.'
- msgstr '사용자 정의 필터 생성 비활성화'
- msgid 'Custom filter removed successfully.'
- msgstr '사용자 정의 필터가 성공적으로 삭제되었습니다'
- msgid 'Unable to remove this custom filter.'
- msgstr '정의 필터 삭제 비활성화'
- msgid 'Edit custom filter'
- msgstr '정의 필터 수정'
- msgid 'Your custom filter has been updated successfully.'
- msgstr '사용자 정의 필터가 성공적으로 수정되었습니다'
- msgid 'Unable to update custom filter.'
- msgstr '정의 필터 수정 비활성화'
- msgid 'Web'
- msgstr '웹'
- msgid 'New attachment on task #%d: %s'
- msgstr '할일 #%d의 새로운 첨부파일: %s'
- msgid 'New comment on task #%d'
- msgstr '할일 #%d에 새로운 댓글이 달렸습니다'
- msgid 'Comment updated on task #%d'
- msgstr '할일 #%d에 댓글이 갱신 되었습니다'
- msgid 'New subtask on task #%d'
- msgstr '서브 할일 #%d이 갱신 되었습니다'
- msgid 'Subtask updated on task #%d'
- msgstr '서브 할일 #%d가 갱신 되었습니다'
- msgid 'New task #%d: %s'
- msgstr '할일 #%d: %s이 추가되었습니다'
- msgid 'Task updated #%d'
- msgstr '할일 #%d이 갱신 되었습니다'
- msgid 'Task #%d closed'
- msgstr '할일 #%d를 마쳤습니다'
- msgid 'Task #%d opened'
- msgstr '할일 #%d가 시작되었습니다'
- msgid 'Column changed for task #%d'
- msgstr '할일 #%d의 컬럼이 변경되었습니다'
- msgid 'New position for task #%d'
- msgstr '할일 #%d이 새로운 위치에 등록되었습니다'
- msgid 'Swimlane changed for task #%d'
- msgstr '#%d 할일의 스웜라인이 변경됩니다'
- msgid 'Assignee changed on task #%d'
- msgstr '#%d 할일의 담당자가 변경됩니다'
- msgid '%d overdue tasks'
- msgstr '할일의 기한이 %d일 지났습니다'
- msgid 'Task #%d is overdue'
- msgstr '#%d 할일의 기한이 지났습니다'
- msgid 'No notification.'
- msgstr '알림이 없습니다'
- msgid 'Mark all as read'
- msgstr '모두 읽음'
- msgid 'Mark as read'
- msgstr '읽음'
- msgid 'Total number of tasks in this column across all swimlanes'
- msgstr '모든 스웜라인 칼럼의 할일 수'
- msgid 'Collapse swimlane'
- msgstr '스웜라인 붕괴'
- msgid 'Expand swimlane'
- msgstr '스웜라인 확장'
- msgid 'Add a new filter'
- msgstr '새로운 필터 추가'
- msgid 'Share with all project members'
- msgstr '모든 프로젝트 맴버 공유'
- msgid 'Shared'
- msgstr '공유'
- msgid 'Owner'
- msgstr '소유자'
- msgid 'Unread notifications'
- msgstr '읽지않은 알림'
- msgid 'Notification methods:'
- msgstr '알림 방법'
- msgid 'Unable to read your file'
- msgstr '파일을 읽을 수 없습니다'
- msgid '%d task(s) have been imported successfully.'
- msgstr '%d 할일이 성공적으로 추가되었습니다'
- msgid 'Nothing has been imported!'
- msgstr '추가가 되지 않았습니다!'
- msgid 'Import users from CSV file'
- msgstr 'CSV 파일에서 사용자 가져오기'
- msgid '%d user(s) have been imported successfully.'
- msgstr '%d 사용자가 성공적으로 추가되었습니다'
- msgid 'Comma'
- msgstr '콤마'
- msgid 'Semi-colon'
- msgstr '세미콜론'
- msgid 'Tab'
- msgstr '탭'
- msgid 'Vertical bar'
- msgstr '세로줄'
- msgid 'Double Quote'
- msgstr '이중 따옴표'
- msgid 'Single Quote'
- msgstr '따옴표'
- msgid '%s attached a file to the task #%d'
- msgstr '%s가 할일 #%d에 파일을 추가하였습니다'
- msgid 'There is no column or swimlane activated in your project!'
- msgstr '프로젝트에 활성화된 컬럼이나 스웜라인이 없습니다'
- msgid 'Append filter (instead of replacement)'
- msgstr '필터 (변경 대신)추가'
- msgid 'Append/Replace'
- msgstr '추가/변경'
- msgid 'Append'
- msgstr '추가'
- msgid 'Replace'
- msgstr '변경'
- msgid 'Import'
- msgstr '가져오기'
- msgid 'Change sorting'
- msgstr '정렬 변경'
- msgid 'Tasks Importation'
- msgstr '할일 가져오기'
- msgid 'Delimiter'
- msgstr '구분자'
- msgid 'Enclosure'
- msgstr '동봉'
- msgid 'CSV File'
- msgstr 'CSV 파일'
- msgid 'Instructions'
- msgstr '명령'
- msgid 'Your file must use the predefined CSV format'
- msgstr '파일은 미리 정의된 CVS 형식이어야 합니다'
- msgid 'Your file must be encoded in UTF-8'
- msgstr '파일은 UTF-8로 인코딩되어야 합니다'
- msgid 'The first row must be the header'
- msgstr '첫 줄은 헤더이어야 합니다'
- msgid 'Duplicates are not verified for you'
- msgstr '사본이 허락되지 않습니다'
- msgid 'The due date must use the ISO format: YYYY-MM-DD'
- msgstr '만기일은 ISO 형식이어야 합니다: YYYY-MM-DD'
- msgid 'Download CSV template'
- msgstr 'CVS 탬플릿 내려받기'
- msgid 'No external integration registered.'
- msgstr '설정이 되어있지 않습니다'
- msgid 'Duplicates are not imported'
- msgstr '사본을 가져올 수 없습니다'
- msgid 'Usernames must be lowercase and unique'
- msgstr '사용자 이름은 소문자이며 유일해야 합니다'
- msgid 'Passwords will be encrypted if present'
- msgstr '비밀번호는 암호화됩니다'
- msgid '%s attached a new file to the task %s'
- msgstr '%s이 새로운 파일을 할일 %s에 추가했습니다'
- msgid 'Link type'
- msgstr '링크 형식'
- msgid 'Assign automatically a category based on a link'
- msgstr '링크 기반 자동 카테고리 할당'
- msgid 'BAM - Konvertible Mark'
- msgstr 'BAM - 보스니아 마르카'
- msgid 'Assignee Username'
- msgstr '담당자의 사용자이름'
- msgid 'Assignee Name'
- msgstr '당장자 이름'
- msgid 'Groups'
- msgstr '그룹'
- msgid 'Members of %s'
- msgstr '%s의 맴버'
- msgid 'New group'
- msgstr '새로운 그룹'
- msgid 'Group created successfully.'
- msgstr '그룹이 성공적으로 생성되었습니다'
- msgid 'Unable to create your group.'
- msgstr '그룹 생성 비활성화'
- msgid 'Edit group'
- msgstr '그룹 편집'
- msgid 'Group updated successfully.'
- msgstr '그룹이 성공적으로 수정되었습니다'
- msgid 'Unable to update your group.'
- msgstr '그룹 수정 비활성화'
- msgid 'Add group member to "%s"'
- msgstr '%s 그룹 맴버 추가'
- msgid 'Group member added successfully.'
- msgstr '그룹 맴버가 성공적으로 추가되었습니다'
- msgid 'Unable to add group member.'
- msgstr '그룹 맴버 추가 비활성화'
- msgid 'Remove user from group "%s"'
- msgstr '%s 그룹 사용자 삭제'
- msgid 'User removed successfully from this group.'
- msgstr '그룹 사용자가 성공적으로 삭제되었습니다'
- msgid 'Unable to remove this user from the group.'
- msgstr '그룹 사용자 삭제 비활성화'
- msgid 'Remove group'
- msgstr '그룹 삭제'
- msgid 'Group removed successfully.'
- msgstr '그룹이 성공적으로 삭제되었습니다'
- msgid 'Unable to remove this group.'
- msgstr '그룹 삭제 비활성화'
- msgid 'Project Permissions'
- msgstr '프로젝트 권한'
- msgid 'Manager'
- msgstr '매니저'
- msgid 'Project Manager'
- msgstr '프로젝트 매니저'
- msgid 'Project Member'
- msgstr '프로젝트 멤버'
- msgid 'Project Viewer'
- msgstr '프로젝트 뷰어'
- msgid 'Your account is locked for %d minutes'
- msgstr '%d분 동안 계정이 잠깁니다'
- msgid 'Invalid captcha'
- msgstr '잘못된 보안 문자'
- msgid 'The name must be unique'
- msgstr '이름은 유일해야 합니다'
- msgid 'View all groups'
- msgstr '모든그룹보기'
- msgid 'There is no user available.'
- msgstr '가능한 사용자가 없습니다'
- msgid 'Do you really want to remove the user "%s" from the group "%s"?'
- msgstr '"%s" 사용자를 "%s" 에서 삭제하시겠습니까?'
- msgid 'There is no group.'
- msgstr '그룹이 없습니다'
- msgid 'Add group member'
- msgstr '멤버추가'
- msgid 'Do you really want to remove this group: "%s"?'
- msgstr '그룹을 삭제하시겠습니까: "%s"?'
- msgid 'There is no user in this group.'
- msgstr '이 그룹에는 사용자가 없습니다'
- msgid 'Permissions'
- msgstr '권한'
- msgid 'Allowed Users'
- msgstr '사용자 승인'
- msgid 'No specific user has been allowed.'
- msgstr '구체적으로 승인된 사용자가 없습니다'
- msgid 'Role'
- msgstr '역할'
- msgid 'Enter user name...'
- msgstr '사용자 이름을 입력합니다...'
- msgid 'Allowed Groups'
- msgstr '승인된 그룹'
- msgid 'No group has been allowed.'
- msgstr '구체적으로 승인된 그룹이 없습니다'
- msgid 'Group'
- msgstr '그룹'
- msgid 'Group Name'
- msgstr '그룹명'
- msgid 'Enter group name...'
- msgstr '그룹명을 입력합니다...'
- msgid 'Role:'
- msgstr '역할: '
- msgid 'Project members'
- msgstr '프로젝트 멤버'
- msgid '%s mentioned you in the task #%d'
- msgstr '#%d 할일에서 %s가 당신을 언급하였습니다'
- msgid '%s mentioned you in a comment on the task #%d'
- msgstr '#%d 할일에서 %s가 당신의 댓글을 언급하였습니다'
- msgid 'You were mentioned in the task #%d'
- msgstr '#%d 할일에서 당신이 언급되었습니다'
- msgid 'You were mentioned in a comment on the task #%d'
- msgstr '할일 #%d의 댓글에서 언급되었습니다'
- msgid 'Estimated hours: '
- msgstr '예상 시간: '
- msgid 'Actual hours: '
- msgstr '실제 시간: '
- msgid 'Hours Spent'
- msgstr '소요 시간'
- msgid 'Hours Estimated'
- msgstr '예상 시간'
- msgid 'Estimated Time'
- msgstr '예상 시간'
- msgid 'Actual Time'
- msgstr '실제 시간'
- msgid 'Estimated vs actual time'
- msgstr '예상 vs 실제 시간'
- msgid 'RUB - Russian Ruble'
- msgstr 'RUB - 러시아 루블'
- msgid 'Assign the task to the person who does the action when the column is changed'
- msgstr '컬럼이 변경되면 액션하지 않는 사람에게 할일을 할당합니다'
- msgid 'Close a task in a specific column'
- msgstr '상세 컬럼의 할일을 종료합니다'
- msgid 'Time-based One-time Password Algorithm'
- msgstr '시간에 기반한 1회용 패스워드 알고리즘'
- msgid 'Two-Factor Provider: '
- msgstr '이중 인증: '
- msgid 'Disable two-factor authentication'
- msgstr '이중 인증 비활성화'
- msgid 'Enable two-factor authentication'
- msgstr '이중 인증 활성화'
- msgid 'There is no integration registered at the moment.'
- msgstr '현재 등록된 통합이 없습니다.'
- msgid 'Password Reset for Kanboard'
- msgstr 'Kanboard의 비밀번호 초기화'
- msgid 'Forgot password?'
- msgstr '비밀번호 찾기'
- msgid 'Enable "Forget Password"'
- msgstr '"비밀번호 분실" 활성화'
- msgid 'Password Reset'
- msgstr '비밀번호 초기화'
- msgid 'New password'
- msgstr '새로운 비밀번호'
- msgid 'Change Password'
- msgstr '비밀번호 변경'
- msgid 'To reset your password click on this link:'
- msgstr '비밀번호를 초기화 하시려면 링크를 눌러주세요:'
- msgid 'Last Password Reset'
- msgstr '마지막 비밀번호 초기화'
- msgid 'The password has never been reinitialized.'
- msgstr '비밀번호가 초기화되지 않았습니다'
- msgid 'Creation'
- msgstr '생성'
- msgid 'Expiration'
- msgstr '만료'
- msgid 'Password reset history'
- msgstr '비밀번호 초기화 기록'
- msgid 'All tasks of the column "%s" and the swimlane "%s" have been closed successfully.'
- msgstr '컬럼 "%s"와 스웜라인 "%s"의 모든 할일이 성공적으로 종료되었습니다'
- msgid 'Do you really want to close all tasks of this column?'
- msgstr '이 컬럼의 모든 할일을 종료 하시겠습니까?'
- msgid '%d task(s) in the column "%s" and the swimlane "%s" will be closed.'
- msgstr '컬럼 "%s"와 스웜라인 "%s"의 할일 %d가 종료될 것입니다'
- msgid 'Close all tasks in this column and this swimlane'
- msgstr '컬럼의 모든 할일 마치기'
- msgid 'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.'
- msgstr '프로젝트 알림 방법으로 플러그인이 등록되지 않았습니다. 각각의 알림을 프로파일에서 설정하실 수 있습니다'
- msgid 'My dashboard'
- msgstr '대시보드'
- msgid 'My profile'
- msgstr '프로필'
- msgid 'Project owner: '
- msgstr '프로젝트 소유자:'
- msgid 'The project identifier is optional and must be alphanumeric, example: MYPROJECT.'
- msgstr '프로젝트 구분자는 선택사항이며, 숫자와 문자만 가능합니다. 예: MYPROJECT.'
- msgid 'Project owner'
- msgstr '프로젝트 소유자'
- msgid 'Personal projects do not have users and groups management.'
- msgstr '비밀 프로젝트는 사용자나 관리 그룹이 소유하지 않습니다'
- msgid 'There is no project member.'
- msgstr '프로젝트 맴버가 없습니다'
- msgid 'Priority'
- msgstr '우선순위'
- msgid 'Task priority'
- msgstr '할일의 우선순위'
- msgid 'General'
- msgstr '일반적인'
- msgid 'Dates'
- msgstr '날짜'
- msgid 'Default priority'
- msgstr '기본 우선순위'
- msgid 'Lowest priority'
- msgstr '낮은 우선순위'
- msgid 'Highest priority'
- msgstr '높은 우선순위'
- msgid 'Close a task when there is no activity'
- msgstr '활동이 없는 할일을 종료합니다'
- msgid 'Duration in days'
- msgstr '기간'
- msgid 'Send email when there is no activity on a task'
- msgstr '활동이 없는 할일을 이메일로 보냅니다'
- msgid 'Unable to fetch link information.'
- msgstr '링크 정보 가져오기 비활성화'
- msgid 'Daily background job for tasks'
- msgstr '할일의 일일 배경 작업 '
- msgid 'Auto'
- msgstr '자동'
- msgid 'Related'
- msgstr '연관된'
- msgid 'Attachment'
- msgstr '첨부'
- msgid 'Title not found'
- msgstr '제목이 없습니다'
- msgid 'Web Link'
- msgstr '웹 링크'
- msgid 'External links'
- msgstr '외부 링크'
- msgid 'Add external link'
- msgstr '외부 링크 추가'
- msgid 'Type'
- msgstr '타입'
- msgid 'Dependency'
- msgstr '의존'
- msgid 'Add internal link'
- msgstr '내부 링크 추가'
- msgid 'Add a new external link'
- msgstr '새로운 외부 링크 추가'
- msgid 'Edit external link'
- msgstr '외부 링크 수정'
- msgid 'External link'
- msgstr '외부 링크'
- msgid 'Copy and paste your link here...'
- msgstr '여기에 링크를 복사/붙여넣기'
- msgid 'URL'
- msgstr '인터넷 주소'
- msgid 'Internal links'
- msgstr '내부 링크'
- msgid 'Assign to me'
- msgstr '나에게 할당'
- msgid 'Me'
- msgstr '나'
- msgid 'Do not duplicate anything'
- msgstr '복사할까요?'
- msgid 'Projects management'
- msgstr '프로젝트 관리'
- msgid 'Users management'
- msgstr '사용자 관리'
- msgid 'Groups management'
- msgstr '그룹 관리'
- msgid 'Create from another project'
- msgstr '다른 프로젝트 생성'
- msgid 'open'
- msgstr '시작'
- msgid 'closed'
- msgstr '종료'
- msgid 'Priority:'
- msgstr '우선순위:'
- msgid 'Reference:'
- msgstr '참고:'
- msgid 'Complexity:'
- msgstr '복합:'
- msgid 'Swimlane:'
- msgstr '스웜라인:'
- msgid 'Column:'
- msgstr '컬럼:'
- msgid 'Position:'
- msgstr '위치:'
- msgid 'Creator:'
- msgstr '생성자:'
- msgid 'Time estimated:'
- msgstr '예상 시간:'
- msgid '%s hours'
- msgstr '%s 시간'
- msgid 'Time spent:'
- msgstr '소요 시간:'
- msgid 'Created:'
- msgstr '생성:'
- msgid 'Modified:'
- msgstr '수정;'
- msgid 'Completed:'
- msgstr '완료:'
- msgid 'Started:'
- msgstr '시작:'
- msgid 'Moved:'
- msgstr '이동:'
- msgid 'Task #%d'
- msgstr '할일 #%d'
- msgid 'Time format'
- msgstr '시간 형식'
- msgid 'Start date: '
- msgstr '시작일: '
- msgid 'End date: '
- msgstr '종료일: '
- msgid 'New due date: '
- msgstr '새로운 만기일: '
- msgid 'Start date changed: '
- msgstr '변경된 시작일: '
- msgid 'Disable personal projects'
- msgstr '비밀 프로젝트 비활성화'
- msgid 'Do you really want to remove this custom filter: "%s"?'
- msgstr '정의 필터를 삭제하시겠습니까: "%s"?'
- msgid 'Remove a custom filter'
- msgstr '정의 필터 삭제'
- msgid 'User activated successfully.'
- msgstr '사용자가 성공적으로 활성화되었습니다'
- msgid 'Unable to enable this user.'
- msgstr '이 사용자를 활성화할 수 없습니다.'
- msgid 'User disabled successfully.'
- msgstr '사용자가 성공적으로 비활성화되었습니다'
- msgid 'Unable to disable this user.'
- msgstr '이 사용자를 비활성화할 수 없습니다.'
- msgid 'All files have been uploaded successfully.'
- msgstr '모든 파일이 성공적으로 업로드되었습니다'
- msgid 'The maximum allowed file size is %sB.'
- msgstr '업로드 파일의 최대 크기는 %sB 입니다'
- msgid 'Drag and drop your files here'
- msgstr '파일을 이곳으로 끌고오기'
- msgid 'choose files'
- msgstr '파일 선택'
- msgid 'View profile'
- msgstr '프로파일 보기'
- msgid 'Two Factor'
- msgstr '이중'
- msgid 'Disable user'
- msgstr '사용자 비활성화'
- msgid 'Do you really want to disable this user: "%s"?'
- msgstr '사용자를 비활성화 시키겠습니까: "%s"?'
- msgid 'Enable user'
- msgstr '사용자 활성화'
- msgid 'Do you really want to enable this user: "%s"?'
- msgstr '사용자를 활성화 시키겠습니까: "%s"?'
- msgid 'Download'
- msgstr '내려받기'
- msgid 'Uploaded: %s'
- msgstr '올리기: %s'
- msgid 'Size: %s'
- msgstr '크기: %s'
- msgid 'Uploaded by %s'
- msgstr '%s로 올리기'
- msgid 'Filename'
- msgstr '파일 이름'
- msgid 'Size'
- msgstr '크기'
- msgid 'Column created successfully.'
- msgstr '컬럼이 성공적으로 생성되었습니다'
- msgid 'Another column with the same name exists in the project'
- msgstr '프로젝트에 동일한 이름의 컬럼이 있습니다'
- msgid 'Default filters'
- msgstr '기본 필터'
- msgid 'Your board doesn\'t have any columns!'
- msgstr '보드에 컬럼이 존재하지 않습니다'
- msgid 'Change column position'
- msgstr '컬럼 위치 변경'
- msgid 'Switch to the project overview'
- msgstr '프로젝트 개요로 변경'
- msgid 'User filters'
- msgstr '사용자 필터'
- msgid 'Category filters'
- msgstr '카테고리 필터'
- msgid 'Upload a file'
- msgstr '파일 업로드'
- msgid 'View file'
- msgstr '파일 보기'
- msgid 'Last activity'
- msgstr '마지막 행동'
- msgid 'Change subtask position'
- msgstr '서브 할일 위치 변경'
- msgid 'This value must be greater than %d'
- msgstr '이 값은 %d보다 커야 합니다'
- msgid 'Another swimlane with the same name exists in the project'
- msgstr '프로젝트에 같은 이름의 스웜라인이 존재합니다'
- msgid 'Example: https://example.kanboard.org/ (used to generate absolute URLs)'
- msgstr '예: https://example.kanboard.org/ (절대적 URLs을 생성하는데 사용됨)'
- msgid 'Actions duplicated successfully.'
- msgstr '행동이 성공적으로 복제되었습니다'
- msgid 'Unable to duplicate actions.'
- msgstr '행동 복제 비활성화'
- msgid 'Add a new action'
- msgstr '새로운 행동 추가'
- msgid 'Import from another project'
- msgstr '다른 프로젝트에서 가져오기'
- msgid 'There is no action at the moment.'
- msgstr '현재 행동이 없습니다'
- msgid 'Import actions from another project'
- msgstr '다른 프로젝트에서 행동 가져오기'
- msgid 'There is no available project.'
- msgstr '사용 가능한 프로젝트가 없습니다'
- msgid 'Local File'
- msgstr '로컬 파일'
- msgid 'Configuration'
- msgstr '구성'
- msgid 'PHP version:'
- msgstr 'PHP 버전:'
- msgid 'PHP SAPI:'
- msgstr 'PHP SAPI:'
- msgid 'OS version:'
- msgstr '운영체제 버전:'
- msgid 'Database version:'
- msgstr '데이터베이스 버전:'
- msgid 'Browser:'
- msgstr '브라우저:'
- msgid 'Task view'
- msgstr '할일 보기'
- msgid 'Edit task'
- msgstr '할일 수정'
- msgid 'Edit description'
- msgstr '설명 수정'
- msgid 'New internal link'
- msgstr '새로운 내부 링크'
- msgid 'Display list of keyboard shortcuts'
- msgstr '키보드 숏컷 리스트 보여주기'
- msgid 'Avatar'
- msgstr '아바타'
- msgid 'Upload my avatar image'
- msgstr '아바타 이미지 올리기'
- msgid 'Remove my image'
- msgstr '이미지 삭제'
- msgid 'The OAuth2 state parameter is invalid'
- msgstr 'OAuth2 상태값이 올바르지 않습니다'
- msgid 'User not found.'
- msgstr '사용자를 찾을 수 없습니다'
- msgid 'Search in activity stream'
- msgstr '활성 스트림 찾기'
- msgid 'My activities'
- msgstr '나의 활동'
- msgid 'Activity until yesterday'
- msgstr '어제까지의 활동'
- msgid 'Activity until today'
- msgstr '오늘까지의 활동'
- msgid 'Search by creator: '
- msgstr '생성자로 검색: '
- msgid 'Search by creation date: '
- msgstr '생성 날짜로 검색: '
- msgid 'Search by task status: '
- msgstr '할일 상태로 검색: '
- msgid 'Search by task title: '
- msgstr '할일 제목으로 검색: '
- msgid 'Activity stream search'
- msgstr '활동 스트림 검색'
- msgid 'Projects where "%s" is manager'
- msgstr '"%s" 관리자의 프로젝트'
- msgid 'Projects where "%s" is member'
- msgstr '"%s" 맴버의 프로젝트'
- msgid 'Open tasks assigned to "%s"'
- msgstr '"%s"에게 할당된 할일 시작하기'
- msgid 'Closed tasks assigned to "%s"'
- msgstr '"%s"에게 할당된 할일 종료하기'
- msgid 'Assign automatically a color based on a priority'
- msgstr '우선순위로 색깔 자동 지정'
- msgid 'Overdue tasks for the project(s) "%s"'
- msgstr '"%s" 프로젝트의 기한이 지난 할일'
- msgid 'Upload files'
- msgstr '파일 올리기'
- msgid 'Installed Plugins'
- msgstr '설치된 플러그인'
- msgid 'Plugin Directory'
- msgstr '플러그인 폴더'
- msgid 'Plugin installed successfully.'
- msgstr '플러그인이 성공적으로 설치 되었습니다.'
- msgid 'Plugin updated successfully.'
- msgstr '플러그인이 성공적으로 갱신 되었습니다.'
- msgid 'Plugin removed successfully.'
- msgstr '플러그인이 성공적으로 삭제 되었습니다.'
- msgid 'Subtask converted to task successfully.'
- msgstr '서브 할일이 할일로 성공적으로 변경 되었습니다.'
- msgid 'Unable to convert the subtask.'
- msgstr '서브 할일로 변경할 수 없습니다.'
- msgid 'Unable to extract plugin archive.'
- msgstr '플러그인 아카이브를 추출할 수 없습니다.'
- msgid 'Plugin not found.'
- msgstr '플러그인을 찾을 수 없습니다.'
- msgid 'You don\'t have the permission to remove this plugin.'
- msgstr '이 플러그인의 삭제 권한이 없습니다.'
- msgid 'Unable to download plugin archive.'
- msgstr '플러그인 아카이브를 다운로드할 수 없습니다.'
- msgid 'Unable to write temporary file for plugin.'
- msgstr '플러그인의 임시 파일을 기록할 수 없습니다.'
- msgid 'Unable to open plugin archive.'
- msgstr '플러그인 아카이브를 열수 없습니다.'
- msgid 'There is no file in the plugin archive.'
- msgstr '플러그인 아카이브에 파일이 존재하지 않습니다.'
- msgid 'Create tasks in bulk'
- msgstr '대량의 할일 만들기'
- msgid 'Your Kanboard instance is not configured to install plugins from the user interface.'
- msgstr '칸보드 인스턴스가 사용자 인터페이스에서 플러그인을 설치하도록 구성되지 않았습니다'
- msgid 'There is no plugin available.'
- msgstr '사용 가능한 플러그인이 없습니다.'
- msgid 'Install'
- msgstr '설치'
- msgid 'Update'
- msgstr '갱신'
- msgid 'Up to date'
- msgstr '날짜 갱신'
- msgid 'Not available'
- msgstr '사용 불가능'
- msgid 'Remove plugin'
- msgstr '플러그인 삭제'
- msgid 'Do you really want to remove this plugin: "%s"?'
- msgstr '정말로 플러그인을 삭제하시겠습니까: "%s"?'
- msgid 'Uninstall'
- msgstr '삭제'
- msgid 'Listing'
- msgstr '목록'
- msgid 'Metadata'
- msgstr '메타데이터'
- msgid 'Manage projects'
- msgstr '프로젝트 관리'
- msgid 'Convert to task'
- msgstr '할일로 변경하기'
- msgid 'Convert sub-task to task'
- msgstr '서브 할일을 할일로 변경하기'
- msgid 'Do you really want to convert this sub-task to a task?'
- msgstr '정말로 서브 할일을 할일로 변경하시겠습니까?'
- msgid 'My task title'
- msgstr '나의 할일 제목'
- msgid 'Enter one task by line.'
- msgstr '정확히 하나의 할일로 진입'
- msgid 'Number of failed login:'
- msgstr '로그인 실패 횟수:'
- msgid 'Account locked until:'
- msgstr '다음동안 계정이 잠겼습니다:'
- msgid 'Email settings'
- msgstr '이메일 설정'
- msgid 'Email sender address'
- msgstr '이메일 보낸이 주소'
- msgid 'Email transport'
- msgstr '이메일 전송'
- msgid 'Webhook token'
- msgstr 'Webhook토큰'
- msgid 'Project tags management'
- msgstr '프로젝트 태그 관리'
- msgid 'Tag created successfully.'
- msgstr '태그가 성공적으로 생성되었습니다.'
- msgid 'Unable to create this tag.'
- msgstr '태그를 생성할 수 없습니다.'
- msgid 'Tag updated successfully.'
- msgstr '태그가 성공적으로 수정되었습니다.'
- msgid 'Unable to update this tag.'
- msgstr '태그를 수정할 수 없습니다.'
- msgid 'Tag removed successfully.'
- msgstr '태그가 성공적으로 삭제되었습니다.'
- msgid 'Unable to remove this tag.'
- msgstr '태그를 삭제할 수 없습니다.'
- msgid 'Global tags management'
- msgstr '전역 태그 관리'
- msgid 'Tags'
- msgstr '태그'
- msgid 'Tags management'
- msgstr '태그 관리'
- msgid 'Add new tag'
- msgstr '태그 추가'
- msgid 'Edit a tag'
- msgstr '태그 수정'
- msgid 'Project tags'
- msgstr '프로젝트 태그'
- msgid 'There is no specific tag for this project at the moment.'
- msgstr '현재 이 프로젝트에는 태그가 없습니다.'
- msgid 'Tag'
- msgstr '태그'
- msgid 'Remove a tag'
- msgstr '태그 삭제'
- msgid 'Do you really want to remove this tag: "%s"?'
- msgstr '태그를 삭제하시겠습니까: "%s"?'
- msgid 'Global tags'
- msgstr '전역 태그'
- msgid 'There is no global tag at the moment.'
- msgstr '현재 전역 태그가 없습니다.'
- msgid 'This field cannot be empty'
- msgstr '이 필드는 비워둘 수 없습니다'
- msgid 'Close a task when there is no activity in a specific column'
- msgstr '활동이 없는 컬럼의 할일 마치기'
- msgid '%s removed a subtask for the task #%d'
- msgstr '%s가 할일 #%d의 서브 할일을 삭제하였습니다'
- msgid '%s removed a comment on the task #%d'
- msgstr '%s가 할일 #%d의 댓글을 삭제하였습니다'
- msgid 'Comment removed on task #%d'
- msgstr '할일 #%d의 댓글이 삭제되었습니다'
- msgid 'Subtask removed on task #%d'
- msgstr '할일 #%d의 서브 할일이 삭제되었습니다'
- msgid 'Hide tasks in this column in the dashboard'
- msgstr '대시보드 컬럼의 할일 숨기기'
- msgid '%s removed a comment on the task %s'
- msgstr '%s가 할일 %s의 댓글을 삭제하였습니다'
- msgid '%s removed a subtask for the task %s'
- msgstr '%s가 할일 %s의 서브 할일을 삭제하였습니다'
- msgid 'Comment removed'
- msgstr '댓글이 삭제되었습니다'
- msgid 'Subtask removed'
- msgstr '서브 할일이 삭제되었습니다'
- msgid '%s set a new internal link for the task #%d'
- msgstr '%s가 할일 #%d의 새로운 내부 링크를 설정하였습니다'
- msgid '%s removed an internal link for the task #%d'
- msgstr '%s가 할일 #%d의 새로운 내부 링크를 삭제하였습니다'
- msgid 'A new internal link for the task #%d has been defined'
- msgstr '할일 #%d의 새로운 내부 링크가 정의되었습니다'
- msgid 'Internal link removed for the task #%d'
- msgstr '할일 #%d의 새로운 내부 링크가 삭제되었습니다'
- msgid '%s set a new internal link for the task %s'
- msgstr '%s가 할일 %s의 새로운 내부 링크를 설정하였습니다'
- msgid '%s removed an internal link for the task %s'
- msgstr '%s가 할일 %s의 새로운 내부 링크를 삭제하였습니다'
- msgid 'Automatically set the due date on task creation'
- msgstr '할일 생성시 마감일이 자동으로 설정되었습니다'
- msgid 'Move the task to another column when closed'
- msgstr '할일을 마치면 다른 컬럼으로 이동시키기'
- msgid 'Move the task to another column when not moved during a given period'
- msgstr '주어진 기간동안 이동하지 않으면 할일을 다른 컬럼으로 이동시키기'
- msgid 'Dashboard for %s'
- msgstr '%s의 대시보드'
- msgid 'Tasks overview for %s'
- msgstr '%s의 할일 개요'
- msgid 'Subtasks overview for %s'
- msgstr '%s의 서브 할일 개요'
- msgid 'Projects overview for %s'
- msgstr '%s의 프로젝트 개요'
- msgid 'Activity stream for %s'
- msgstr '%s의 활동기록'
- msgid 'Assign a color when the task is moved to a specific swimlane'
- msgstr '할일이 특정 스웜라인으로 옮겨질 때 색상 지정'
- msgid 'Assign a priority when the task is moved to a specific swimlane'
- msgstr '할일이 특정 스웜라인으로 옮겨질 때 우선순위 지정'
- msgid 'User unlocked successfully.'
- msgstr '사용자 잠금 성공'
- msgid 'Unable to unlock the user.'
- msgstr '사용자 해제 성공'
- msgid 'Move a task to another swimlane'
- msgstr '다른 스웜라인으로 할일 이동'
- msgid 'Creator Name'
- msgstr '생성자 이름'
- msgid 'Time spent and estimated'
- msgstr '소요시간과 예상시간'
- msgid 'Move position'
- msgstr '이동 위치'
- msgid 'Move task to another position on the board'
- msgstr '할일을 보드의 다른 위치로 이동'
- msgid 'Insert before this task'
- msgstr '이 할일 이전에 삽입'
- msgid 'Insert after this task'
- msgstr '이 할일 이후에 삽입'
- msgid 'Unlock this user'
- msgstr '사용자 잠금'
- msgid 'Custom Project Roles'
- msgstr '정의 프로젝트 규칙'
- msgid 'Add a new custom role'
- msgstr '새로운 정의 규칙 추가'
- msgid 'Restrictions for the role "%s"'
- msgstr '"%s" 역할의 제약'
- msgid 'Add a new project restriction'
- msgstr '새로운 프로젝트 제약 추가'
- msgid 'Add a new drag and drop restriction'
- msgstr '새로운 드래그 앤 드롭 제약 추가'
- msgid 'Add a new column restriction'
- msgstr '새로운 칼럼 제약 추가'
- msgid 'Edit this role'
- msgstr '역할 수정'
- msgid 'Remove this role'
- msgstr '역할 삭제'
- msgid 'There is no restriction for this role.'
- msgstr '역할에 대한 제약이 없습니다.'
- msgid 'Only moving task between those columns is permitted'
- msgstr '칼럼간 이동만 허용됩니다.'
- msgid 'Close a task in a specific column when not moved during a given period'
- msgstr '특정 기간동안 이동하지 않은 특정 칼럼의 할일 마치기'
- msgid 'Edit columns'
- msgstr '칼럼 수정'
- msgid 'The column restriction has been created successfully.'
- msgstr '칼럼 제약이 생성되었습니다.'
- msgid 'Unable to create this column restriction.'
- msgstr '칼럼 제약을 생성할 수 없습니다.'
- msgid 'Column restriction removed successfully.'
- msgstr '칼럼 제약이 삭제되었습니다.'
- msgid 'Unable to remove this restriction.'
- msgstr '칼럼 제약을 삭제할 수 없습니다.'
- msgid 'Your custom project role has been created successfully.'
- msgstr '정의 프로젝트 역할이 생성되었습니다.'
- msgid 'Unable to create custom project role.'
- msgstr '정의 프로젝트 역할을 생성할 수 없습니다.'
- msgid 'Your custom project role has been updated successfully.'
- msgstr '정의 프로젝트 역할이 수정되었습니다.'
- msgid 'Unable to update custom project role.'
- msgstr '정의 프로젝트 역할을 수정할 수 없습니다.'
- msgid 'Custom project role removed successfully.'
- msgstr '정의 프로젝트 역할이 삭제되었습니다.'
- msgid 'Unable to remove this project role.'
- msgstr '정의 프로젝트 역할을 삭제할 수 없습니다.'
- msgid 'The project restriction has been created successfully.'
- msgstr '프로젝트 제약이 생성되었습니다.'
- msgid 'Unable to create this project restriction.'
- msgstr '프로젝트 제약을 생성할 수 없습니다.'
- msgid 'Project restriction removed successfully.'
- msgstr '프로젝트 제약을 삭제하였습니다.'
- msgid 'You cannot create tasks in this column.'
- msgstr '이 칼럼의 할일을 생성할 수 없습니다.'
- msgid 'Task creation is permitted for this column'
- msgstr '이 칼럼의 할일 생성이 허가되었습니다.'
- msgid 'Closing or opening a task is permitted for this column'
- msgstr '이 칼럼의 할일 열기 혹은 닫기가 허가되었습니다.'
- msgid 'Task creation is blocked for this column'
- msgstr '이 칼럼의 할일 생성이 거부되었습니다.'
- msgid 'Closing or opening a task is blocked for this column'
- msgstr '이 칼럼의 할일 열기 혹은 닫기가 거부되었습니다.'
- msgid 'Task creation is not permitted'
- msgstr '할일 생성이 거부되었습니다.'
- msgid 'Closing or opening a task is not permitted'
- msgstr '할일 열기 혹은 닫기가 거부되었습니다.'
- msgid 'New drag and drop restriction for the role "%s"'
- msgstr '"%s" 역할의 새로운 드래그 앤 드롭 제약'
- msgid 'People belonging to this role will be able to move tasks only between the source and the destination column.'
- msgstr '이 역할에 속한 사용자는 원본 및 대상 칼럼 사이에서만 할일을 이동할 수 있습니다'
- msgid 'Remove a column restriction'
- msgstr '칼럼 제약 삭제'
- msgid 'Do you really want to remove this column restriction: "%s" to "%s"?'
- msgstr '칼럼 제약을 "%s" 에서 "%s"로 이동하시겠습니까?'
- msgid 'New column restriction for the role "%s"'
- msgstr '"%s" 역할의 새로운 칼럼 제약'
- msgid 'Rule'
- msgstr '역할'
- msgid 'Do you really want to remove this column restriction?'
- msgstr '칼럼 제약을 삭제하시겠습니까?'
- msgid 'Custom roles'
- msgstr '정의 역할'
- msgid 'New custom project role'
- msgstr '새로운 정의 프로젝트 역할'
- msgid 'Edit custom project role'
- msgstr '정의 프로젝트 역할 수정'
- msgid 'Remove a custom role'
- msgstr '정의 역할 삭제'
- msgid 'Do you really want to remove this custom role: "%s"? All people assigned to this role will become project member.'
- msgstr '"%s" 정의 역할을 삭제하시겠습니까? 이 역할에 할당 된 모든 사람들이 프로젝트 멤버가됩니다.'
- msgid 'There is no custom role for this project.'
- msgstr '이 프로젝트에는 정의 역할이 없습니다.'
- msgid 'New project restriction for the role "%s"'
- msgstr '"%s" 역할의 새로운 프로젝트 제약'
- msgid 'Restriction'
- msgstr '제약'
- msgid 'Remove a project restriction'
- msgstr '프로젝트 제약 삭제'
- msgid 'Do you really want to remove this project restriction: "%s"?'
- msgstr '"%s" 프로젝트 제약을 삭제하시겠습니까?'
- msgid 'Duplicate to multiple projects'
- msgstr '다수의 프로젝트 복제'
- msgid 'This field is required'
- msgstr '이 필드는 필수 항목입니다.'
- msgid 'Moving a task is not permitted'
- msgstr '할일 이동이 거부되었습니다.'
- msgid 'This value must be in the range %d to %d'
- msgstr '값의 범위는 %d 부터 %d 까지 입니다.'
- msgid 'You are not allowed to move this task.'
- msgstr '당신은 할일 이동이 거부되었습니다.'
- msgid 'API User Access'
- msgstr ''
- msgid 'Preview'
- msgstr ''
- msgid 'Write'
- msgstr ''
- msgid 'Write your text in Markdown'
- msgstr ''
- msgid 'No personal API access token registered.'
- msgstr ''
- msgid 'Your personal API access token is "%s"'
- msgstr ''
- msgid 'Remove your token'
- msgstr ''
- msgid 'Generate a new token'
- msgstr ''
- msgid 'Showing %d-%d of %d'
- msgstr ''
- msgid 'Outgoing Emails'
- msgstr ''
- msgid 'Add or change currency rate'
- msgstr ''
- msgid 'Reference currency: %s'
- msgstr ''
- msgid 'Add custom filters'
- msgstr ''
- msgid 'Export'
- msgstr ''
- msgid 'Add link label'
- msgstr ''
- msgid 'Incompatible Plugins'
- msgstr ''
- msgid 'Compatibility'
- msgstr ''
- msgid 'Permissions and ownership'
- msgstr ''
- msgid 'Priorities'
- msgstr ''
- msgid 'Close this window'
- msgstr ''
- msgid 'Unable to upload this file.'
- msgstr ''
- msgid 'Import tasks'
- msgstr ''
- msgid 'Choose a project'
- msgstr ''
- msgid 'Profile'
- msgstr ''
- msgid 'Application role'
- msgstr ''
- msgid '%d invitations were sent.'
- msgstr ''
- msgid '%d invitation was sent.'
- msgstr ''
- msgid 'Unable to create this user.'
- msgstr ''
- msgid 'Kanboard Invitation'
- msgstr ''
- msgid 'Visible on dashboard'
- msgstr ''
- msgid 'Created at:'
- msgstr ''
- msgid 'Updated at:'
- msgstr ''
- msgid 'There is no custom filter.'
- msgstr ''
- msgid 'New User'
- msgstr ''
- msgid 'Authentication'
- msgstr ''
- msgid 'If checked, this user will use a third-party system for authentication.'
- msgstr ''
- msgid 'The password is necessary only for local users.'
- msgstr ''
- msgid 'You have been invited to register on Kanboard.'
- msgstr ''
- msgid 'Click here to join your team'
- msgstr ''
- msgid 'Invite people'
- msgstr ''
- msgid 'Emails'
- msgstr ''
- msgid 'Enter one email address by line.'
- msgstr ''
- msgid 'Add these people to this project'
- msgstr ''
- msgid 'Add this person to this project'
- msgstr ''
- msgid 'Sign-up'
- msgstr ''
- msgid 'Credentials'
- msgstr ''
- msgid 'New user'
- msgstr ''
- msgid 'This username is already taken'
- msgstr ''
- msgid 'Your profile must have a valid email address.'
- msgstr ''
- msgid 'TRL - Turkish Lira'
- msgstr ''
- msgid 'The project email is optional and could be used by several plugins.'
- msgstr ''
- msgid 'The project email must be unique across all projects'
- msgstr ''
- msgid 'The email configuration has been disabled by the administrator.'
- msgstr ''
- msgid 'Close this project'
- msgstr ''
- msgid 'Open this project'
- msgstr ''
- msgid 'Close a project'
- msgstr ''
- msgid 'Do you really want to close this project: "%s"?'
- msgstr ''
- msgid 'Reopen a project'
- msgstr ''
- msgid 'Do you really want to reopen this project: "%s"?'
- msgstr ''
- msgid 'This project is open'
- msgstr ''
- msgid 'This project is closed'
- msgstr ''
- msgid 'Unable to upload files, check the permissions of your data folder.'
- msgstr ''
- msgid 'Another category with the same name exists in this project'
- msgstr ''
- msgid 'Comment sent by email successfully.'
- msgstr ''
- msgid 'Sent by email to "%s" (%s)'
- msgstr ''
- msgid 'Unable to read uploaded file.'
- msgstr ''
- msgid 'Database uploaded successfully.'
- msgstr ''
- msgid 'Task sent by email successfully.'
- msgstr ''
- msgid 'There is no category in this project.'
- msgstr ''
- msgid 'Send by email'
- msgstr ''
- msgid 'Create and send a comment by email'
- msgstr ''
- msgid 'Subject'
- msgstr ''
- msgid 'Upload the database'
- msgstr ''
- msgid 'You could upload the previously downloaded Sqlite database (Gzip format).'
- msgstr ''
- msgid 'Database file'
- msgstr ''
- msgid 'Upload'
- msgstr ''
- msgid 'Your project must have at least one active swimlane.'
- msgstr ''
- msgid 'Project: %s'
- msgstr ''
- msgid 'Automatic action not found: "%s"'
- msgstr ''
- msgid '%d projects'
- msgstr ''
- msgid '%d project'
- msgstr ''
- msgid 'There is no project.'
- msgstr ''
- msgid 'Sort'
- msgstr ''
- msgid 'Project ID'
- msgstr ''
- msgid 'Project name'
- msgstr ''
- msgid 'Public'
- msgstr ''
- msgid 'Personal'
- msgstr ''
- msgid '%d tasks'
- msgstr ''
- msgid '%d task'
- msgstr ''
- msgid 'Task ID'
- msgstr ''
- msgid 'Assign automatically a color when due date is expired'
- msgstr ''
- msgid 'Total score in this column across all swimlanes'
- msgstr ''
- msgid 'HRK - Kuna'
- msgstr ''
- msgid 'ARS - Argentine Peso'
- msgstr ''
- msgid 'COP - Colombian Peso'
- msgstr ''
- msgid '%d groups'
- msgstr ''
- msgid '%d group'
- msgstr ''
- msgid 'Group ID'
- msgstr ''
- msgid 'External ID'
- msgstr ''
- msgid '%d users'
- msgstr ''
- msgid '%d user'
- msgstr ''
- msgid 'Hide subtasks'
- msgstr ''
- msgid 'Show subtasks'
- msgstr ''
- msgid 'Authentication Parameters'
- msgstr ''
- msgid 'API Access'
- msgstr ''
- msgid 'No users found.'
- msgstr ''
- msgid 'User ID'
- msgstr ''
- msgid 'Notifications are activated'
- msgstr ''
- msgid 'Notifications are disabled'
- msgstr ''
- msgid 'User disabled'
- msgstr ''
- msgid '%d notifications'
- msgstr ''
- msgid '%d notification'
- msgstr ''
- msgid 'There is no external integration installed.'
- msgstr ''
- msgid 'You are not allowed to update tasks assigned to someone else.'
- msgstr ''
- msgid 'You are not allowed to change the assignee.'
- msgstr ''
- msgid 'Task suppression is not permitted'
- msgstr ''
- msgid 'Changing assignee is not permitted'
- msgstr ''
- msgid 'Update only assigned tasks is permitted'
- msgstr ''
- msgid 'Only for tasks assigned to the current user'
- msgstr ''
- msgid 'My projects'
- msgstr ''
- msgid 'You are not a member of any project.'
- msgstr ''
- msgid 'My subtasks'
- msgstr ''
- msgid '%d subtasks'
- msgstr ''
- msgid '%d subtask'
- msgstr ''
- msgid 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgstr ''
- msgid '[DUPLICATE]'
- msgstr ''
- msgid 'DKK - Danish Krona'
- msgstr ''
- msgid 'Remove user from group'
- msgstr ''
- msgid 'Assign the task to its creator'
- msgstr ''
- msgid 'This task was sent by email to "%s" with subject "%s".'
- msgstr ''
- msgid 'Predefined Email Subjects'
- msgstr ''
- msgid 'Write one subject by line.'
- msgstr ''
- msgid 'Create another link'
- msgstr ''
- msgid 'BRL - Brazilian Real'
- msgstr ''
- msgid 'Add a new Kanboard task'
- msgstr ''
- msgid 'Subtask not started'
- msgstr ''
- msgid 'Subtask currently in progress'
- msgstr ''
- msgid 'Subtask completed'
- msgstr ''
- msgid 'Subtask added successfully.'
- msgstr ''
- msgid '%d subtasks added successfully.'
- msgstr ''
- msgid 'Enter one subtask by line.'
- msgstr ''
- msgid 'Predefined Contents'
- msgstr ''
- msgid 'Predefined contents'
- msgstr ''
- msgid 'Predefined Task Description'
- msgstr ''
- msgid 'Do you really want to remove this template? "%s"'
- msgstr ''
- msgid 'Add predefined task description'
- msgstr ''
- msgid 'Predefined Task Descriptions'
- msgstr ''
- msgid 'Template created successfully.'
- msgstr ''
- msgid 'Unable to create this template.'
- msgstr ''
- msgid 'Template updated successfully.'
- msgstr ''
- msgid 'Unable to update this template.'
- msgstr ''
- msgid 'Template removed successfully.'
- msgstr ''
- msgid 'Unable to remove this template.'
- msgstr ''
- msgid 'Template for the task description'
- msgstr ''
- msgid 'The start date is greater than the end date'
- msgstr ''
- msgid 'Tags must be separated by a comma'
- msgstr ''
- msgid 'Only the task title is required'
- msgstr ''
- msgid 'Creator Username'
- msgstr ''
- msgid 'Color Name'
- msgstr ''
- msgid 'Column Name'
- msgstr ''
- msgid 'Swimlane Name'
- msgstr ''
- msgid 'Time Estimated'
- msgstr ''
- msgid 'Time Spent'
- msgstr ''
- msgid 'External Link'
- msgstr ''
- msgid 'This feature enables the iCal feed, RSS feed and the public board view.'
- msgstr ''
- msgid 'Stop the timer of all subtasks when moving a task to another column'
- msgstr ''
- msgid 'Subtask Title'
- msgstr ''
- msgid 'Add a subtask and activate the timer when moving a task to another column'
- msgstr ''
- msgid 'days'
- msgstr ''
- msgid 'minutes'
- msgstr ''
- msgid 'seconds'
- msgstr ''
- msgid 'Assign automatically a color when preset start date is reached'
- msgstr ''
- msgid 'Move the task to another column once a predefined start date is reached'
- msgstr ''
- msgid 'This task is now linked to the task %s with the relation "%s"'
- msgstr ''
- msgid 'The link with the relation "%s" to the task %s has been removed'
- msgstr ''
- msgid 'Custom Filter:'
- msgstr ''
- msgid 'Unable to find this group.'
- msgstr ''
- msgid '%s moved the task #%d to the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the position %d in the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the swimlane "%s"'
- msgstr ''
- msgid '%sh spent'
- msgstr ''
- msgid '%sh estimated'
- msgstr ''
- msgid 'Select All'
- msgstr ''
- msgid 'Unselect All'
- msgstr ''
- msgid 'Apply action'
- msgstr ''
- msgid 'Move selected tasks to another column or swimlane'
- msgstr ''
- msgid 'Edit tasks in bulk'
- msgstr ''
- msgid 'Choose the properties that you would like to change for the selected tasks.'
- msgstr ''
- msgid 'Configure this project'
- msgstr ''
- msgid 'Start now'
- msgstr ''
- msgid '%s removed a file from the task #%d'
- msgstr ''
- msgid 'Attachment removed from task #%d: %s'
- msgstr ''
- msgid 'No color'
- msgstr ''
- msgid 'Attachment removed "%s"'
- msgstr ''
- msgid '%s removed a file from the task %s'
- msgstr ''
- msgid 'Move the task to another swimlane when assigned to a user'
- msgstr ''
- msgid 'Destination swimlane'
- msgstr ''
- msgid 'Assign a category when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Move the task to another swimlane when the category is changed'
- msgstr ''
- msgid 'Reorder this column by priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee (A-Z)'
- msgstr ''
- msgid 'Reorder this column by assignee (Z-A)'
- msgstr ''
- msgid 'Reorder this column by due date (ASC)'
- msgstr ''
- msgid 'Reorder this column by due date (DESC)'
- msgstr ''
- msgid '%s moved the task #%d "%s" to the project "%s"'
- msgstr ''
- msgid 'Task #%d "%s" has been moved to the project "%s"'
- msgstr ''
- msgid 'Move the task to another column when the due date is less than a certain number of days'
- msgstr ''
- msgid 'Automatically update the start date when the task is moved away from a specific column'
- msgstr ''
- msgid 'HTTP Client:'
- msgstr ''
- msgid 'Assigned'
- msgstr ''
- msgid 'Task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied across swimlanes'
- msgstr ''
- msgid 'Task limit: '
- msgstr ''
- msgid 'Change to global tag'
- msgstr ''
- msgid 'Do you really want to make the tag "%s" global?'
- msgstr ''
- msgid 'Enable global tags for this project'
- msgstr ''
- msgid 'Group membership(s):'
- msgstr ''
- msgid '%s is a member of the following group(s): %s'
- msgstr ''
- msgid '%d/%d group(s) shown'
- msgstr ''
- msgid 'Subtask creation or modification'
- msgstr ''
- msgid 'Assign the task to a specific user when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Comment'
- msgstr ''
- msgid 'Collapse vertically'
- msgstr ''
- msgid 'Expand vertically'
- msgstr ''
- msgid 'MXN - Mexican Peso'
- msgstr ''
- msgid 'Estimated vs actual time per column'
- msgstr ''
- msgid 'HUF - Hungarian Forint'
- msgstr ''
- msgid 'XBT - Bitcoin'
- msgstr ''
- msgid 'You must select a file to upload as your avatar!'
- msgstr ''
- msgid 'The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)'
- msgstr ''
- msgid 'Automatically set the due date when the task is moved away from a specific column'
- msgstr ''
- msgid 'No other projects found.'
- msgstr ''
- msgid 'Please choose a project you want to copy the tasks from.'
- msgstr ''
- msgid 'Import Tasks'
- msgstr ''
- msgid 'Copy'
- msgstr ''
- msgid 'Tasks copied successfully.'
- msgstr ''
- msgid 'Unable to copy tasks.'
- msgstr ''
+msgid "number.decimals_separator"
+msgstr ""
+msgid "number.thousands_separator"
+msgstr ""
+msgid "None"
+msgstr "없음"
+msgid "Edit"
+msgstr "수정"
+msgid "Remove"
+msgstr "삭제"
+msgid "Yes"
+msgstr "예"
+msgid "No"
+msgstr "아니오"
+msgid "cancel"
+msgstr "취소"
+msgid "or"
+msgstr "또는"
+msgid "Yellow"
+msgstr "노랑"
+msgid "Blue"
+msgstr "파랑"
+msgid "Green"
+msgstr "초록"
+msgid "Purple"
+msgstr "보라"
+msgid "Red"
+msgstr "빨강"
+msgid "Orange"
+msgstr "주황"
+msgid "Grey"
+msgstr "회색"
+msgid "Brown"
+msgstr "브라운"
+msgid "Deep Orange"
+msgstr "진홍"
+msgid "Dark Grey"
+msgstr "암회"
+msgid "Pink"
+msgstr "핑크"
+msgid "Teal"
+msgstr "암녹"
+msgid "Cyan"
+msgstr "청녹"
+msgid "Lime"
+msgstr "라임"
+msgid "Light Green"
+msgstr "연회"
+msgid "Amber"
+msgstr "호박"
+msgid "Save"
+msgstr "저장"
+msgid "Login"
+msgstr "로그인"
+msgid "Official website:"
+msgstr "공식 웹사이트:"
+msgid "Unassigned"
+msgstr "담당자 없음"
+msgid "View this task"
+msgstr "이 할일 보기"
+msgid "Remove user"
+msgstr "사용자 삭제"
+msgid "Do you really want to remove this user: \"%s\"?"
+msgstr "사용자 \"%s\"를 정말로 삭제하시겠습니까?"
+msgid "All users"
+msgstr "모든 사용자"
+msgid "Username"
+msgstr "사용자 이름"
+msgid "Password"
+msgstr "패스워드"
+msgid "Administrator"
+msgstr "관리자"
+msgid "Sign in"
+msgstr "로그인"
+msgid "Users"
+msgstr "사용자"
+msgid "Forbidden"
+msgstr "접근 거부"
+msgid "Access Forbidden"
+msgstr "접속이 거부되었습니다"
+msgid "Edit user"
+msgstr "사용자를 변경하는 "
+msgid "Logout"
+msgstr "로그아웃"
+msgid "Bad username or password"
+msgstr "사용자 이름 또는 패스워드가 다릅니다."
+msgid "Edit project"
+msgstr "프로젝트 수정"
+msgid "Name"
+msgstr "이름"
+msgid "Projects"
+msgstr "프로젝트"
+msgid "No project"
+msgstr "프로젝트가 없습니다"
+msgid "Project"
+msgstr "프로젝트"
+msgid "Status"
+msgstr "상태"
+msgid "Tasks"
+msgstr "할일"
+msgid "Board"
+msgstr "보드"
+msgid "Actions"
+msgstr "Actions"
+msgid "Inactive"
+msgstr "무효"
+msgid "Active"
+msgstr "유효"
+msgid "Unable to update this board."
+msgstr "보드를 갱신할 수 없었습니다"
+msgid "Disable"
+msgstr "비활성화"
+msgid "Enable"
+msgstr "유효하게 한다"
+msgid "New project"
+msgstr "새 프로젝트"
+msgid "Do you really want to remove this project: \"%s\"?"
+msgstr "프로젝트를 삭제하시겠습니까: \"%s\"?"
+msgid "Remove project"
+msgstr "프로젝트의 삭제"
+msgid "Edit the board for \"%s\""
+msgstr "\"%s\"를 위한 보드 수정"
+msgid "Add a new column"
+msgstr "컬럼의 추가"
+msgid "Title"
+msgstr "제목"
+msgid "Assigned to %s"
+msgstr "담당자 %s"
+msgid "Remove a column"
+msgstr "컬럼 삭제"
+msgid "Unable to remove this column."
+msgstr "(※)컬럼을 삭제할 수 없었습니다."
+msgid "Do you really want to remove this column: \"%s\"?"
+msgstr "컬럼을 삭제하시겠습니까: \"%s\"?"
+msgid "Settings"
+msgstr "설정"
+msgid "Application settings"
+msgstr "애플리케이션의 설정"
+msgid "Language"
+msgstr "언어"
+msgid "Webhook token:"
+msgstr "Webhook토큰:"
+msgid "API token:"
+msgstr "API토큰:"
+msgid "Database size:"
+msgstr "데이터베이스의 사이즈:"
+msgid "Download the database"
+msgstr "데이터베이스의 다운로드"
+msgid "Optimize the database"
+msgstr "데이터베이스 최적화"
+msgid "(VACUUM command)"
+msgstr "(VACUUM명령)"
+msgid "(Gzip compressed Sqlite file)"
+msgstr "(GZip명령으로 압축된 Sqlite파일)"
+msgid "Close a task"
+msgstr "할일 마치기"
+msgid "Column"
+msgstr "컬럼"
+msgid "Color"
+msgstr "색"
+msgid "Assignee"
+msgstr "담당자"
+msgid "Create another task"
+msgstr "다른 할일 추가"
+msgid "New task"
+msgstr "새로운 할일"
+msgid "Open a task"
+msgstr "할일 열기"
+msgid "Do you really want to open this task: \"%s\"?"
+msgstr "할일은 시작 하시겠습니까: \"%s\"?"
+msgid "Back to the board"
+msgstr "보드로 돌아가기"
+msgid "There is nobody assigned"
+msgstr "담당자가 없습니다"
+msgid "Column on the board:"
+msgstr "컬럼:"
+msgid "Close this task"
+msgstr "할일 마치기"
+msgid "Open this task"
+msgstr "할일을 열다"
+msgid "There is no description."
+msgstr "설명이 없다"
+msgid "Add a new task"
+msgstr "할일을 추가하는 "
+msgid "The username is required"
+msgstr "사용자 이름이 필요합니다"
+msgid "The maximum length is %d characters"
+msgstr "최대 길이는 \"%d\" 글자 입니다"
+msgid "The minimum length is %d characters"
+msgstr "최소 길이는 \"%d\" 글자 입니다"
+msgid "The password is required"
+msgstr "패스워드가 필요합니다"
+msgid "This value must be an integer"
+msgstr "정수로 입력하세요"
+msgid "The username must be unique"
+msgstr "사용자 이름이 이미 사용되고 있습니다"
+msgid "The user id is required"
+msgstr "사용자 ID가 필요합니다"
+msgid "Passwords don't match"
+msgstr "패스워드가 일치하지 않습니다"
+msgid "The confirmation is required"
+msgstr "확인용 패스워드를 입력하세요"
+msgid "The project is required"
+msgstr "프로젝트가 필요합니다"
+msgid "The id is required"
+msgstr "ID가 필요합니다"
+msgid "The project id is required"
+msgstr "프로젝트 ID가 필요합니다"
+msgid "The project name is required"
+msgstr "프로젝트 이름이 필요합니다"
+msgid "The title is required"
+msgstr "제목이 필요합니다"
+msgid "Settings saved successfully."
+msgstr "설정을 저장하였습니다"
+msgid "Unable to save your settings."
+msgstr "설정의 보존에 실패했습니다."
+msgid "Database optimization done."
+msgstr "데이터베이스 최적화가 끝났습니다."
+msgid "Your project has been created successfully."
+msgstr "프로젝트를 작성했습니다."
+msgid "Unable to create your project."
+msgstr "프로젝트의 작성에 실패했습니다."
+msgid "Project updated successfully."
+msgstr "프로젝트를 갱신했습니다."
+msgid "Unable to update this project."
+msgstr "프로젝트의 갱신에 실패했습니다."
+msgid "Unable to remove this project."
+msgstr "프로젝트의 삭제에 실패했습니다."
+msgid "Project removed successfully."
+msgstr "프로젝트를 삭제했습니다."
+msgid "Project activated successfully."
+msgstr "프로젝트를 유효로 했습니다."
+msgid "Unable to activate this project."
+msgstr "프로젝트의 유효하게 못했어요."
+msgid "Project disabled successfully."
+msgstr "프로젝트를 무효로 했습니다."
+msgid "Unable to disable this project."
+msgstr "프로젝트의 무효화할 수 없었습니다."
+msgid "Unable to open this task."
+msgstr "할일의 오픈에 실패했습니다."
+msgid "Task opened successfully."
+msgstr "할일을 오픈했습니다."
+msgid "Unable to close this task."
+msgstr "할일의 클로즈에 실패했습니다."
+msgid "Task closed successfully."
+msgstr "할일을 마쳤습니다."
+msgid "Unable to update your task."
+msgstr "할일의 갱신에 실패했습니다."
+msgid "Task updated successfully."
+msgstr "할일을 갱신했습니다."
+msgid "Unable to create your task."
+msgstr "할일의 추가에 실패했습니다."
+msgid "Task created successfully."
+msgstr "할일을 추가했습니다."
+msgid "User created successfully."
+msgstr "사용자를 추가했습니다."
+msgid "Unable to create your user."
+msgstr "사용자의 추가에 실패했습니다."
+msgid "User updated successfully."
+msgstr "사용자를 갱신했습니다."
+msgid "User removed successfully."
+msgstr "사용자를 삭제했습니다."
+msgid "Unable to remove this user."
+msgstr "사용자 삭제에 실패했습니다."
+msgid "Board updated successfully."
+msgstr "보드를 갱신했습니다."
+msgid "Ready"
+msgstr "준비중"
+msgid "Backlog"
+msgstr "요구사항"
+msgid "Work in progress"
+msgstr "진행중"
+msgid "Done"
+msgstr "완료"
+msgid "Application version:"
+msgstr "애플리케이션의 버전:"
+msgid "Id"
+msgstr "ID"
+msgid "Public link"
+msgstr "공개 접속 링크"
+msgid "Timezone"
+msgstr "시간대"
+msgid "Sorry, I didn't find this information in my database!"
+msgstr "데이터베이스에서 정보가 발견되지 않았습니다!"
+msgid "Page not found"
+msgstr "페이지가 발견되지 않는다"
+msgid "Complexity"
+msgstr "복잡도"
+msgid "Task limit"
+msgstr "할일 수 제한"
+msgid "Task count"
+msgstr "할일 수"
+msgid "User"
+msgstr "사용자"
+msgid "Comments"
+msgstr "댓글"
+msgid "Comment is required"
+msgstr "댓글을 입력하세요"
+msgid "Comment added successfully."
+msgstr "의견을 추가했습니다."
+msgid "Unable to create your comment."
+msgstr "댓글의 추가에 실패했습니다."
+msgid "Due Date"
+msgstr "마감일"
+msgid "Invalid date"
+msgstr "날짜가 무효입니다"
+msgid "Automatic actions"
+msgstr "자동액션 관리"
+msgid "Your automatic action has been created successfully."
+msgstr "자동 액션을 작성했습니다."
+msgid "Unable to create your automatic action."
+msgstr "자동 액션의 작성에 실패했습니다."
+msgid "Remove an action"
+msgstr "자동 액션의 삭제"
+msgid "Unable to remove this action."
+msgstr "자동 액션의 삭제에 실패했습니다."
+msgid "Action removed successfully."
+msgstr "자동 액션의 삭제에 성공했어요."
+msgid "Automatic actions for the project \"%s\""
+msgstr "\"%s\" 프로젝트를 위한 자동 액션"
+msgid "Add an action"
+msgstr "자동 액션 추가"
+msgid "Event name"
+msgstr "이벤트 이름"
+msgid "Action"
+msgstr "액션"
+msgid "Event"
+msgstr "이벤트"
+msgid "When the selected event occurs execute the corresponding action."
+msgstr "선택된 이벤트가 발생했을 때 대응하는 액션을 실행한다."
+msgid "Next step"
+msgstr "다음 단계"
+msgid "Define action parameters"
+msgstr "액션의 바로미터"
+msgid "Do you really want to remove this action: \"%s\"?"
+msgstr "액션을 삭제하시겠습니까: \"%s\"?"
+msgid "Remove an automatic action"
+msgstr "자동 액션의 삭제"
+msgid "Assign the task to a specific user"
+msgstr "할일 담당자를 할당"
+msgid "Assign the task to the person who does the action"
+msgstr "액션을 일으킨 사용자를 담당자이자"
+msgid "Duplicate the task to another project"
+msgstr " 다른 프로젝트에 할일을 복제하는 "
+msgid "Move a task to another column"
+msgstr "할일을 다른 컬럼에 이동하는 "
+msgid "Task modification"
+msgstr "할일 변경"
+msgid "Task creation"
+msgstr "할일을 만들"
+msgid "Closing a task"
+msgstr "할일을 닫혔다"
+msgid "Assign a color to a specific user"
+msgstr "색을 사용자에 할당"
+msgid "Position"
+msgstr "위치"
+msgid "Duplicate to project"
+msgstr "다른 프로젝트에 복사"
+msgid "Duplicate"
+msgstr "복사"
+msgid "Link"
+msgstr "링크"
+msgid "Comment updated successfully."
+msgstr "댓글을 갱신했습니다."
+msgid "Unable to update your comment."
+msgstr "댓글의 갱신에 실패했습니다."
+msgid "Remove a comment"
+msgstr "댓글 삭제"
+msgid "Comment removed successfully."
+msgstr "댓글을 삭제했습니다."
+msgid "Unable to remove this comment."
+msgstr "댓글의 삭제에 실패했습니다."
+msgid "Do you really want to remove this comment?"
+msgstr "댓글을 삭제합니까?"
+msgid "Current password for the user \"%s\""
+msgstr "사용자 \"%s\"의 현재 패스워드"
+msgid "The current password is required"
+msgstr "현재의 패스워드를 입력하세요"
+msgid "Wrong password"
+msgstr "패스워드가 다릅니다"
+msgid "Unknown"
+msgstr "불명"
+msgid "Last logins"
+msgstr "마지막 로그인"
+msgid "Login date"
+msgstr "로그인 일시"
+msgid "Authentication method"
+msgstr "인증 방법"
+msgid "IP address"
+msgstr "IP 주소"
+msgid "User agent"
+msgstr "사용자 에이전트"
+msgid "Persistent connections"
+msgstr "세션"
+msgid "No session."
+msgstr "세션 없음"
+msgid "Expiration date"
+msgstr "유효기간"
+msgid "Remember Me"
+msgstr "자동 로그인"
+msgid "Creation date"
+msgstr "작성일"
+msgid "Everybody"
+msgstr "모두"
+msgid "Open"
+msgstr "열림"
+msgid "Closed"
+msgstr "닫힘"
+msgid "Search"
+msgstr "검색"
+msgid "Nothing found."
+msgstr "결과가 없습니다"
+msgid "Due date"
+msgstr "마감일"
+msgid "Description"
+msgstr "설명"
+msgid "%d comments"
+msgstr "%d개의 댓글"
+msgid "%d comment"
+msgstr "%d개의 댓글"
+msgid "Email address invalid"
+msgstr "메일 주소가 올바르지 않습니다."
+msgid "Your external account is not linked anymore to your profile."
+msgstr "외부 계정과 프로필이 더이상 연결되지 않습니다"
+msgid "Unable to unlink your external account."
+msgstr "외부 계정과 연결 해제에 실패하였습니다"
+msgid "External authentication failed"
+msgstr "외부 인증 실패"
+msgid "Your external account is linked to your profile successfully."
+msgstr "외부 계정과 프로필이 성공적으로 연결되었습니다"
+msgid "Email"
+msgstr "이메일"
+msgid "Task removed successfully."
+msgstr "할일을 삭제했습니다."
+msgid "Unable to remove this task."
+msgstr "할일 삭제에 실패하였습니다"
+msgid "Remove a task"
+msgstr "할일 삭제"
+msgid "Do you really want to remove this task: \"%s\"?"
+msgstr "할일을 삭제하시겠습니까: \"%s\"?"
+msgid "Assign automatically a color based on a category"
+msgstr "카테고리에 바탕을 두고 색을 바꾸고"
+msgid "Assign automatically a category based on a color"
+msgstr "색에 바탕을 두고 카테고리를 바꾸었다"
+msgid "Task creation or modification"
+msgstr "할일의 작성 또는 변경"
+msgid "Category"
+msgstr "카테고리"
+msgid "Category:"
+msgstr "카테고리:"
+msgid "Categories"
+msgstr "카테고리"
+msgid "Your category has been created successfully."
+msgstr "카테고리를 작성했습니다."
+msgid "This category has been updated successfully."
+msgstr "카테고리를 갱신했습니다."
+msgid "Unable to update this category."
+msgstr "카테고리의 갱신에 실패했습니다."
+msgid "Remove a category"
+msgstr "카테고리의 삭제"
+msgid "Category removed successfully."
+msgstr "카테고리를 삭제했습니다."
+msgid "Unable to remove this category."
+msgstr "카테고리를 삭제할 수 없었습니다."
+msgid "Category modification for the project \"%s\""
+msgstr "\"%s\" 프로젝트 카테고리 수정"
+msgid "Category Name"
+msgstr "카테고리 이름"
+msgid "Add a new category"
+msgstr "카테고리의 추가"
+msgid "Do you really want to remove this category: \"%s\"?"
+msgstr "카테고리를 삭제하시겠습니까: \"%s\"?"
+msgid "All categories"
+msgstr "모든 카테고리"
+msgid "No category"
+msgstr "카테고리 없음"
+msgid "The name is required"
+msgstr "이름을 입력하십시오"
+msgid "Remove a file"
+msgstr "파일 삭제"
+msgid "Unable to remove this file."
+msgstr "파일 삭제에 실패했습니다."
+msgid "File removed successfully."
+msgstr "파일을 삭제했습니다."
+msgid "Attach a document"
+msgstr "문서 첨부"
+msgid "Do you really want to remove this file: \"%s\"?"
+msgstr "파일 \"%s\" 을 삭제할까요?"
+msgid "Attachments"
+msgstr "첨부"
+msgid "Edit the task"
+msgstr "할일 수정"
+msgid "Add a comment"
+msgstr "댓글 추가"
+msgid "Edit a comment"
+msgstr "댓글 수정"
+msgid "Summary"
+msgstr "개요"
+msgid "Time tracking"
+msgstr "시간 추적"
+msgid "Estimate:"
+msgstr "예측:"
+msgid "Spent:"
+msgstr "경과:"
+msgid "Do you really want to remove this sub-task?"
+msgstr "서브 할일을 삭제합니까?"
+msgid "Remaining:"
+msgstr "나머지:"
+msgid "hours"
+msgstr "시간"
+msgid "estimated"
+msgstr "예측"
+msgid "Sub-Tasks"
+msgstr "서브 할일"
+msgid "Add a sub-task"
+msgstr "서브 할일 추가"
+msgid "Original estimate"
+msgstr "최초 예측시간"
+msgid "Create another sub-task"
+msgstr "다음 서브 할일 추가"
+msgid "Time spent"
+msgstr "경과시간"
+msgid "Edit a sub-task"
+msgstr "서브 할일을 변경하는 "
+msgid "Remove a sub-task"
+msgstr "서브 할일을 삭제하는 "
+msgid "The time must be a numeric value"
+msgstr "시간은 숫자로 입력하세요"
+msgid "Todo"
+msgstr "할일 예정"
+msgid "In progress"
+msgstr "할일 중"
+msgid "Sub-task removed successfully."
+msgstr "서브 할일을 삭제했습니다."
+msgid "Unable to remove this sub-task."
+msgstr "서브 할일의 삭제가 실패했습니다."
+msgid "Sub-task updated successfully."
+msgstr "서브 할일을 갱신했습니다."
+msgid "Unable to update your sub-task."
+msgstr "서브 할일의 경신에 실패했습니다."
+msgid "Unable to create your sub-task."
+msgstr "서브 할일의 추가에 실패했습니다."
+msgid "Maximum size: "
+msgstr "최대: "
+msgid "Display another project"
+msgstr "프로젝트 보기"
+msgid "Created by %s"
+msgstr "작성자 %s"
+msgid "Tasks Export"
+msgstr "할일 내보내기"
+msgid "Start Date"
+msgstr "시작일"
+msgid "Execute"
+msgstr "실행"
+msgid "Task Id"
+msgstr "할일 ID"
+msgid "Creator"
+msgstr "작성자"
+msgid "Modification date"
+msgstr "변경 일"
+msgid "Completion date"
+msgstr "완료일"
+msgid "Clone"
+msgstr "복사"
+msgid "Project cloned successfully."
+msgstr "프로젝트를 복제했습니다."
+msgid "Unable to clone this project."
+msgstr "프로젝트의 복제에 실패했습니다."
+msgid "Enable email notifications"
+msgstr "이메일 알림 설정"
+msgid "Task position:"
+msgstr "할일 위치:"
+msgid "The task #%d has been opened."
+msgstr "할일 #%d가 시작되었습니다"
+msgid "The task #%d has been closed."
+msgstr "할일 #%d가 종료되었습니다"
+msgid "Sub-task updated"
+msgstr "서브 할일 갱신"
+msgid "Title:"
+msgstr "제목:"
+msgid "Status:"
+msgstr "상태:"
+msgid "Assignee:"
+msgstr "담당:"
+msgid "Time tracking:"
+msgstr "시간 계측:"
+msgid "New sub-task"
+msgstr "새로운 서브 할일"
+msgid "New attachment added \"%s\""
+msgstr "\"%s\"의 새로운 첨부 파일"
+msgid "New comment posted by %s"
+msgstr "\"%s\"님이 댓글을 추가하였습니다"
+msgid "New comment"
+msgstr " 새로운 댓글"
+msgid "Comment updated"
+msgstr "댓글가 갱신되었습니다"
+msgid "New subtask"
+msgstr " 새로운 서브 할일"
+msgid "I only want to receive notifications for these projects:"
+msgstr "다음 프로젝트의 알림만 받겠습니다:"
+msgid "view the task on Kanboard"
+msgstr "Kanboard에서 할일을 본다"
+msgid "Public access"
+msgstr "공개 접속 설정"
+msgid "Disable public access"
+msgstr "공개 접속 비활성화"
+msgid "Enable public access"
+msgstr "공개 접속 활성화"
+msgid "Public access disabled"
+msgstr "공개 접속 불가"
+msgid "Move the task to another project"
+msgstr "할일별 프로젝트에 옮기"
+msgid "Move to project"
+msgstr "다른 프로젝트로 이동"
+msgid "Do you really want to duplicate this task?"
+msgstr "할일을 복제합니까?"
+msgid "Duplicate a task"
+msgstr "할일 복사"
+msgid "External accounts"
+msgstr "외부 계정"
+msgid "Account type"
+msgstr "계정종류"
+msgid "Local"
+msgstr "로컬"
+msgid "Remote"
+msgstr "원격"
+msgid "Enabled"
+msgstr "활성화"
+msgid "Disabled"
+msgstr "비활성화"
+msgid "Login:"
+msgstr "사용자명"
+msgid "Full Name:"
+msgstr "이름:"
+msgid "Email:"
+msgstr "이메일:"
+msgid "Notifications:"
+msgstr "알림:"
+msgid "Notifications"
+msgstr "알림"
+msgid "Account type:"
+msgstr "계정종류:"
+msgid "Edit profile"
+msgstr "프로필 변경"
+msgid "Change password"
+msgstr "패스워드 변경"
+msgid "Password modification"
+msgstr "패스워드 변경"
+msgid "External authentications"
+msgstr "외부 인증"
+msgid "Never connected."
+msgstr "접속기록없음"
+msgid "No external authentication enabled."
+msgstr "외부 인증이 설정되어 있지 않습니다."
+msgid "Password modified successfully."
+msgstr "패스워드를 변경했습니다."
+msgid "Unable to change the password."
+msgstr "비밀 번호가 변경할 수 없었습니다."
+msgid "Change category"
+msgstr "카테고리 수정"
+msgid "%s updated the task %s"
+msgstr "%s이 할일 %s을 갱신 하였습니다"
+msgid "%s opened the task %s"
+msgstr "%s이 할일 %s을 시작시켰습니다"
+msgid "%s moved the task %s to the position #%d in the column \"%s\""
+msgstr "%s이 할일%s을 위치#%d컬럼%s로 옮겼습니다"
+msgid "%s moved the task %s to the column \"%s\""
+msgstr "%s이 할일 %s을 컬럼 \"%s\" 로 옮겼습니다"
+msgid "%s created the task %s"
+msgstr "%s이 할일%s을 추가했습니다"
+msgid "%s closed the task %s"
+msgstr "%s이 할일%s을 마쳤습니다"
+msgid "%s created a subtask for the task %s"
+msgstr "%s이 할일%s의 서브 할일을 추가했습니다"
+msgid "%s updated a subtask for the task %s"
+msgstr "%s이 할일%s의 서브 할일을 갱신했습니다"
+msgid "Assigned to %s with an estimate of %s/%sh"
+msgstr "담당자 %s에게 예상 %s/%sh을 할당했습니다"
+msgid "Not assigned, estimate of %sh"
+msgstr "예상 %sh가 할당되지 않았습니다"
+msgid "%s updated a comment on the task %s"
+msgstr "%s이 할일%s의 댓글을 수정했습니다"
+msgid "%s commented the task %s"
+msgstr "%s이 할일%s에 댓글을 남겼습니다"
+msgid "%s's activity"
+msgstr "%s의 활동"
+msgid "RSS feed"
+msgstr "RSS피드"
+msgid "%s updated a comment on the task #%d"
+msgstr "%s이 할일#%d의 댓글을 수정했습니다"
+msgid "%s commented on the task #%d"
+msgstr "%s이 할일#%d을 언급하였습니다"
+msgid "%s updated a subtask for the task #%d"
+msgstr "%s이 할일#%d의 서브 할일을 수정했습니다"
+msgid "%s created a subtask for the task #%d"
+msgstr "%s이 할일#%d의 서브 할일을 수정했습니다"
+msgid "%s updated the task #%d"
+msgstr "%s이 할일#%d을 갱신했습니다"
+msgid "%s created the task #%d"
+msgstr "%s이 할일#%d을 추가했습니다"
+msgid "%s closed the task #%d"
+msgstr "%s이 할일#%d을 닫혔습니다"
+msgid "%s opened the task #%d"
+msgstr "%s이 할일#%d를 오픈했습니다"
+msgid "Activity"
+msgstr "활동"
+msgid "Default values are \"%s\""
+msgstr "기본 값은 \"%s\" 입니다"
+msgid "Default columns for new projects (Comma-separated)"
+msgstr "새로운 프로젝트의 기본 컬럼 (콤마(,)로 분리됨)"
+msgid "Task assignee change"
+msgstr "담당자의 변경"
+msgid "%s changed the assignee of the task #%d to %s"
+msgstr "%s이 할일 #%d의 담당을 %s로 변경합니다"
+msgid "%s changed the assignee of the task %s to %s"
+msgstr "%s이 할일 %s의 담당을 %s로 변경했습니다"
+msgid "New password for the user \"%s\""
+msgstr "사용자 \"%s\"의 새로운 패스워드"
+msgid "Choose an event"
+msgstr "행사의 선택"
+msgid "Create a task from an external provider"
+msgstr "할일을 외부 서비스로부터 작성하는 "
+msgid "Change the assignee based on an external username"
+msgstr "담당자를 외부 서비스에 바탕을 두고 변경하는 "
+msgid "Change the category based on an external label"
+msgstr "카테고리를 외부 서비스에 바탕을 두고 변경하는 "
+msgid "Reference"
+msgstr "참조"
+msgid "Label"
+msgstr "라벨"
+msgid "Database"
+msgstr "데이터베이스"
+msgid "About"
+msgstr "정보"
+msgid "Database driver:"
+msgstr "데이터베이스 드라이버:"
+msgid "Board settings"
+msgstr "기본 설정"
+msgid "Webhook settings"
+msgstr "Webhook의 설정"
+msgid "Reset token"
+msgstr "토큰 리셋"
+msgid "API endpoint:"
+msgstr "API엔드 포인트:"
+msgid "Refresh interval for personal board"
+msgstr "비공개 보드의 갱신 빈도"
+msgid "Refresh interval for public board"
+msgstr "공개 보드의 갱신 빈도"
+msgid "Task highlight period"
+msgstr "할일의 하이라이트 기간"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "최근 수정된 작업 고려 기간(초), (비활성화:0, 기본값:2일)"
+msgid "Frequency in second (60 seconds by default)"
+msgstr "초당 횟수(기본값:60초)"
+msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
+msgstr "초당 횟수(비활성화:0, 기본값:10초)"
+msgid "Application URL"
+msgstr "애플리케이션의 URL"
+msgid "Token regenerated."
+msgstr "토큰이 다시 생성되었습니다."
+msgid "Date format"
+msgstr "데이터 포멧"
+msgid "ISO format is always accepted, example: \"%s\" and \"%s\""
+msgstr "ISO 포멧은 항상 가능합니다. 예를 들어: \"%s\" 와 \"%s\""
+msgid "New personal project"
+msgstr "새 비공개 프로젝트"
+msgid "This project is personal"
+msgstr "이 프로젝트는 비공개입니다"
+msgid "Add"
+msgstr "추가"
+msgid "Start date"
+msgstr "시작시간"
+msgid "Time estimated"
+msgstr "예상시간"
+msgid "There is nothing assigned to you."
+msgstr "할일이 없습니다. 옆사람의 일을 도와주면 어떨까요?"
+msgid "My tasks"
+msgstr "내 할일"
+msgid "Activity stream"
+msgstr "활동기록"
+msgid "Dashboard"
+msgstr "대시보드"
+msgid "Confirmation"
+msgstr "확인"
+msgid "Webhooks"
+msgstr "Webhook"
+msgid "API"
+msgstr "API"
+msgid "Create a comment from an external provider"
+msgstr "외부 서비스로부터 의견을 작성한다"
+msgid "Project management"
+msgstr "프로젝트 관리"
+msgid "Columns"
+msgstr "컬럼"
+msgid "Task"
+msgstr "할일"
+msgid "Percentage"
+msgstr "비중"
+msgid "Number of tasks"
+msgstr "할일 수"
+msgid "Task distribution"
+msgstr "할일 분포"
+msgid "Analytics"
+msgstr "분석"
+msgid "Subtask"
+msgstr "서브 할일"
+msgid "User repartition"
+msgstr "담당자 분포"
+msgid "Clone this project"
+msgstr "이 프로젝트를 복제하는 "
+msgid "Column removed successfully."
+msgstr "(※)컬럼을 삭제했습니다"
+msgid "Not enough data to show the graph."
+msgstr "그래프를 선묘화하려면 나왔지만 부족합니다"
+msgid "Previous"
+msgstr " 돌아가"
+msgid "The id must be an integer"
+msgstr "id은 숫자가 아니면 안 됩니다"
+msgid "The project id must be an integer"
+msgstr "project id은 숫자가 아니면 안 됩니다"
+msgid "The status must be an integer"
+msgstr "status는 숫자지 않으면 안 됩니다"
+msgid "The subtask id is required"
+msgstr "subtask id가 필요합니다"
+msgid "The subtask id must be an integer"
+msgstr "subtask id은 숫자가 아니면 안 됩니다"
+msgid "The task id is required"
+msgstr "task id가 필요합니다"
+msgid "The task id must be an integer"
+msgstr "task id은 숫자가 아니면 안 됩니다"
+msgid "The user id must be an integer"
+msgstr "user id은 숫자가 아니면 안 됩니다"
+msgid "This value is required"
+msgstr "이 값이 필요합니다"
+msgid "This value must be numeric"
+msgstr "이 값은 숫자가 아니면 안 됩니다"
+msgid "Unable to create this task."
+msgstr "이 할일을 작성할 수 없었습니다"
+msgid "Cumulative flow diagram"
+msgstr "축적 흐름"
+msgid "Daily project summary"
+msgstr "하루 프로젝트 개요"
+msgid "Daily project summary export"
+msgstr "하루 프로젝트 개요의 출력"
+msgid "Exports"
+msgstr "출력"
+msgid "This export contains the number of tasks per column grouped per day."
+msgstr "이 출력은 날짜의 칼람별 할일 수를 집계한 것입니다"
+msgid "Active swimlanes"
+msgstr "액티브한 스윔레인"
+msgid "Add a new swimlane"
+msgstr " 새로운 스윔레인"
+msgid "Default swimlane"
+msgstr "기본 스윔레인"
+msgid "Do you really want to remove this swimlane: \"%s\"?"
+msgstr "스웜레인을 삭제하시겠습니까: \"%s\"?"
+msgid "Inactive swimlanes"
+msgstr "인터랙티브한 스윔레인"
+msgid "Remove a swimlane"
+msgstr "스윔레인의 삭제"
+msgid "Swimlane modification for the project \"%s\""
+msgstr "\"%s\" 프로젝트의 스웜레인 수정"
+msgid "Swimlane removed successfully."
+msgstr "스윔레인을 삭제했습니다."
+msgid "Swimlanes"
+msgstr "스윔레인"
+msgid "Swimlane updated successfully."
+msgstr "스윔레인을 갱신했습니다."
+msgid "Unable to remove this swimlane."
+msgstr "스윔레인을 삭제할 수 없었습니다."
+msgid "Unable to update this swimlane."
+msgstr "스윔레인을 갱신할 수 없었습니다."
+msgid "Your swimlane has been created successfully."
+msgstr "스윔레인이 작성되었습니다."
+msgid "Example: \"Bug, Feature Request, Improvement\""
+msgstr "예: "버그, 특성 요청, 향상""
+msgid "Default categories for new projects (Comma-separated)"
+msgstr "새로운 프로젝트의 기본 카테고리 (콤마(,)로 구분)"
+msgid "Integrations"
+msgstr "연계"
+msgid "Integration with third-party services"
+msgstr "외부 서비스 연계"
+msgid "Subtask Id"
+msgstr "서브 할일 Id"
+msgid "Subtasks"
+msgstr "서브 할일"
+msgid "Subtasks Export"
+msgstr "서브 할일 출력"
+msgid "Task Title"
+msgstr "할일 제목"
+msgid "Untitled"
+msgstr "제목 없음"
+msgid "Application default"
+msgstr "애플리케이션 기본"
+msgid "Language:"
+msgstr "언어:"
+msgid "Timezone:"
+msgstr "시간대:"
+msgid "All columns"
+msgstr "모든 컬럼"
+msgid "Next"
+msgstr "다음에 "
+msgid "#%d"
+msgstr "#%d"
+msgid "All swimlanes"
+msgstr "모든 스윔레인"
+msgid "All colors"
+msgstr "모든 색"
+msgid "Moved to column %s"
+msgstr "\"%s\" 컬럼으로 이동"
+msgid "User dashboard"
+msgstr "대시보드"
+msgid "Allow only one subtask in progress at the same time for a user"
+msgstr "한 사용자에 대한 하나의 할일만 진행 중에 가능합니다"
+msgid "Edit column \"%s\""
+msgstr "\"%s\" 컬럼 수정"
+msgid "Select the new status of the subtask: \"%s\""
+msgstr "서브 할일의 새로운 상태 선택: \"%s\""
+msgid "Subtask timesheet"
+msgstr "서브 할일 타임시트"
+msgid "There is nothing to show."
+msgstr "기록이 없습니다"
+msgid "Time Tracking"
+msgstr "시간 트레킹"
+msgid "You already have one subtask in progress"
+msgstr "이미 진행 중인 서브 할일가 있습니다."
+msgid "Which parts of the project do you want to duplicate?"
+msgstr "프로젝트의 무엇을 복제합니까?"
+msgid "Disallow login form"
+msgstr "허가되지 않은 로그인 양식"
+msgid "Start"
+msgstr "시작"
+msgid "End"
+msgstr "종료"
+msgid "Task age in days"
+msgstr "할일이 생긴 시간"
+msgid "Days in this column"
+msgstr "이 컬럼에 있는 시간"
+msgid "%dd"
+msgstr "%d일"
+msgid "Add a new link"
+msgstr " 새로운 링크 추가"
+msgid "Do you really want to remove this link: \"%s\"?"
+msgstr "링크를 삭제하시겠습니까: \"%s\"?"
+msgid "Do you really want to remove this link with task #%d?"
+msgstr "#%d 할일의 링크를 삭제하시겠습니까?"
+msgid "Field required"
+msgstr "필드가 필요합니다"
+msgid "Link added successfully."
+msgstr "링크를 추가했습니다."
+msgid "Link updated successfully."
+msgstr "링크를 갱신했습니다."
+msgid "Link removed successfully."
+msgstr "링크를 삭제했습니다."
+msgid "Link labels"
+msgstr "링크 라벨"
+msgid "Link modification"
+msgstr "링크의 변경"
+msgid "Opposite label"
+msgstr "반대의 라벨"
+msgid "Remove a link"
+msgstr "라벨의 삭제"
+msgid "The labels must be different"
+msgstr " 다른 라벨을 지정하세요"
+msgid "There is no link."
+msgstr "링크가 없습니다"
+msgid "This label must be unique"
+msgstr "라벨은 독특할 필요가 있습니다"
+msgid "Unable to create your link."
+msgstr "링크를 작성할 수 없었습니다."
+msgid "Unable to update your link."
+msgstr "링크를 갱신할 수 없었습니다."
+msgid "Unable to remove this link."
+msgstr "링크를 삭제할 수 없었습니다."
+msgid "relates to"
+msgstr "연관 링크"
+msgid "blocks"
+msgstr "다음을 딜레이하는"
+msgid "is blocked by"
+msgstr "다음 때문에 딜레이되는"
+msgid "duplicates"
+msgstr "다음과 중복하는"
+msgid "is duplicated by"
+msgstr "다음에 중복되는"
+msgid "is a child of"
+msgstr "다음의 하위 할일"
+msgid "is a parent of"
+msgstr "다음의 상위 할일"
+msgid "targets milestone"
+msgstr "다음의 이정표를 목표로 하는"
+msgid "is a milestone of"
+msgstr "다음의 이정표인"
+msgid "fixes"
+msgstr "다음을 수정하는"
+msgid "is fixed by"
+msgstr "다음에 의해 수정되는"
+msgid "This task"
+msgstr "이 할일의 "
+msgid "<1h"
+msgstr "<1시간"
+msgid "%dh"
+msgstr "%d시간"
+msgid "Expand tasks"
+msgstr "할일 크게"
+msgid "Collapse tasks"
+msgstr "할일 작게"
+msgid "Expand/collapse tasks"
+msgstr "할일 크게/작게"
+msgid "Close dialog box"
+msgstr "다이얼로그를 닫습니다"
+msgid "Submit a form"
+msgstr "제출"
+msgid "Board view"
+msgstr "보드 뷰"
+msgid "Keyboard shortcuts"
+msgstr "키보드 숏 컷"
+msgid "Open board switcher"
+msgstr "보드 전환을 열"
+msgid "Application"
+msgstr "애플리케이션"
+msgid "Compact view"
+msgstr "컴팩트 뷰"
+msgid "Horizontal scrolling"
+msgstr "세로 스크롤"
+msgid "Compact/wide view"
+msgstr "컴팩트/와이드 뷰"
+msgid "Currency"
+msgstr "통화"
+msgid "Personal project"
+msgstr "개인 프로젝트"
+msgid "AUD - Australian Dollar"
+msgstr "AUD - 호주 달러"
+msgid "CAD - Canadian Dollar"
+msgstr "CAD -캐나다 달러"
+msgid "CHF - Swiss Francs"
+msgstr "CHF - 스위스 프랑"
+msgid "Custom Stylesheet"
+msgstr "커스텀 스타일 시트"
+msgid "EUR - Euro"
+msgstr "EUR - 유로"
+msgid "GBP - British Pound"
+msgstr "GBP - 영국 파운드"
+msgid "INR - Indian Rupee"
+msgstr "INR - 인도 루피"
+msgid "JPY - Japanese Yen"
+msgstr "JPY - 일본 엔"
+msgid "NZD - New Zealand Dollar"
+msgstr "NZD - 뉴질랜드 달러"
+msgid "RSD - Serbian dinar"
+msgstr "RSD - 세르비아 디나르"
+msgid "CNY - Chinese Yuan"
+msgstr ""
+msgid "USD - US Dollar"
+msgstr "USD - 미국 달러"
+msgid "VES - Venezuelan Bolívar"
+msgstr ""
+msgid "Destination column"
+msgstr "이동 후 컬럼"
+msgid "Move the task to another column when assigned to a user"
+msgstr "사용자의 할당을 하면 할일을 다른 컬럼에 이동"
+msgid "Move the task to another column when assignee is cleared"
+msgstr "사용자의 할당이 없어지면 할일을 다른 컬럼에 이동"
+msgid "Source column"
+msgstr "이동 전 컬럼"
+msgid "Transitions"
+msgstr "이력"
+msgid "Executer"
+msgstr "실행자"
+msgid "Time spent in the column"
+msgstr "컬럼에 있던 시간"
+msgid "Task transitions"
+msgstr "할일 천이"
+msgid "Task transitions export"
+msgstr "할일 천이를 출력"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "이 리포트는 할일의 컬럼 간 이동을 시간, 유저, 경과 시간과 함께 기록한 것입니다."
+msgid "Currency rates"
+msgstr "환율"
+msgid "Rate"
+msgstr "레이트"
+msgid "Change reference currency"
+msgstr "현재의 기축 통화"
+msgid "Reference currency"
+msgstr "기축 통화"
+msgid "The currency rate has been added successfully."
+msgstr "통화가 성공적으로 추가되었습니다"
+msgid "Unable to add this currency rate."
+msgstr "이 통화 환율을 추가할 수 없습니다."
+msgid "Webhook URL"
+msgstr "Webhook URL"
+msgid "%s removed the assignee of the task %s"
+msgstr "%s이 할일 %s의 담당을 삭제했습니다"
+msgid "Information"
+msgstr "정보"
+msgid "Check two factor authentication code"
+msgstr "2단 인증을 체크한다"
+msgid "The two factor authentication code is not valid."
+msgstr "2단 인증 코드는 무효입니다."
+msgid "The two factor authentication code is valid."
+msgstr "2단 인증 코드는 유효합니다."
+msgid "Code"
+msgstr "코드"
+msgid "Two factor authentication"
+msgstr "2단 인증"
+msgid "This QR code contains the key URI: "
+msgstr "QR 코드는 키 URI를 포함합니다: "
+msgid "Check my code"
+msgstr "코드 체크"
+msgid "Secret key: "
+msgstr "비밀키: "
+msgid "Test your device"
+msgstr "디바이스 테스트"
+msgid "Assign a color when the task is moved to a specific column"
+msgstr "상세 컬럼으로 이동할 할일의 색깔을 지정하세요"
+msgid "%s via Kanboard"
+msgstr "%s via E-board"
+msgid "Burndown chart"
+msgstr "번다운 차트"
+msgid "This chart show the task complexity over the time (Work Remaining)."
+msgstr "이 차트는 시간에 따른 할일의 복잡성을 보여줍니다. (남아있는 일)"
+msgid "Screenshot taken %s"
+msgstr "스크린샷_%s"
+msgid "Add a screenshot"
+msgstr "스크린샷 추가"
+msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
+msgstr "스크린샷을 CTRL+V 혹은 ⌘+V를 눌러 붙여넣기"
+msgid "Screenshot uploaded successfully."
+msgstr "스크린샷을 업로드하였습니다"
+msgid "SEK - Swedish Krona"
+msgstr "SEK - 스위스 크로나"
+msgid "Identifier"
+msgstr "식별자"
+msgid "Disable two factor authentication"
+msgstr "이중 인증 비활성화"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "\"%s\" 담당자의 이중 인증을 비활성화 하시겠습니까?"
+msgid "Edit link"
+msgstr "링크 수정"
+msgid "Start to type task title..."
+msgstr "할일 제목을 입력하세요"
+msgid "A task cannot be linked to itself"
+msgstr "할일을 자기자신에게 연결할 수 없습니다"
+msgid "The exact same link already exists"
+msgstr "동일한 링크가 이미 존재합니다"
+msgid "Recurrent task is scheduled to be generated"
+msgstr "반복 할일이 생성된 예정입니다."
+msgid "Score"
+msgstr "점수"
+msgid "The identifier must be unique"
+msgstr "식별자는 유일해야 합니다"
+msgid "This linked task id doesn't exists"
+msgstr "연결된 할일 ID가 존재하지 않습니다"
+msgid "This value must be alphanumeric"
+msgstr "글자와 숫자만 가능합니다"
+msgid "Edit recurrence"
+msgstr "반복 수정"
+msgid "Generate recurrent task"
+msgstr "반복 할일 생성"
+msgid "Trigger to generate recurrent task"
+msgstr "반복 할일 생성 트리거"
+msgid "Factor to calculate new due date"
+msgstr "새로운 종료날짜 계산"
+msgid "Timeframe to calculate new due date"
+msgstr "종료날짜 계산 단위"
+msgid "Base date to calculate new due date"
+msgstr "새로운 기본 종료날짜 계산"
+msgid "Action date"
+msgstr "시작날짜"
+msgid "Base date to calculate new due date: "
+msgstr "새로운 기본 종료날짜 계산: "
+msgid "This task has created this child task: "
+msgstr "이 할일은 하위 할일을 만들었습니다."
+msgid "Day(s)"
+msgstr "일"
+msgid "Existing due date"
+msgstr "기존 종료날짜"
+msgid "Factor to calculate new due date: "
+msgstr "새로운 종료날짜 계산: "
+msgid "Month(s)"
+msgstr "월"
+msgid "This task has been created by: "
+msgstr "할일을 만들었습니다: "
+msgid "Recurrent task has been generated:"
+msgstr "반복 할일이 생성되었습니다"
+msgid "Timeframe to calculate new due date: "
+msgstr "종료날짜 계산 단위"
+msgid "Trigger to generate recurrent task: "
+msgstr "반복 할일 생성 트리거"
+msgid "When task is closed"
+msgstr "할일을 마쳤을때"
+msgid "When task is moved from first column"
+msgstr "할일이 첫번째 컬럼으로 옮겨졌을때"
+msgid "When task is moved to last column"
+msgstr "할일이 마지막 컬럼으로 옮겨졌을때"
+msgid "Year(s)"
+msgstr "년"
+msgid "Project settings"
+msgstr "프로젝트 설정"
+msgid "Automatically update the start date"
+msgstr "시작일에 자동 갱신"
+msgid "iCal feed"
+msgstr "iCal 피드"
+msgid "Preferences"
+msgstr "우선권"
+msgid "Security"
+msgstr "보안"
+msgid "Two factor authentication disabled"
+msgstr "이중 인증이 비활성화 되었습니다"
+msgid "Two factor authentication enabled"
+msgstr "이중 인증이 활성화 되었습니다"
+msgid "Unable to update this user."
+msgstr "담당자 갱신이 가능합니다"
+msgid "There is no user management for personal projects."
+msgstr "비밀 프로젝트의 관리 담당자가 없습니다"
+msgid "User that will receive the email"
+msgstr "그 담당자가 이메일을 수신할 것입니다"
+msgid "Email subject"
+msgstr "이메일 제목"
+msgid "Date"
+msgstr "날짜"
+msgid "Add a comment log when moving the task between columns"
+msgstr "컬럼 중간의 할일이 이동할 때 의견 달기"
+msgid "Move the task to another column when the category is changed"
+msgstr "카테고리 변경시 할일을 다른 컬럼으로 이동"
+msgid "Send a task by email to someone"
+msgstr "할일을 이메일로 보내기"
+msgid "Reopen a task"
+msgstr "할일 다시 시작"
+msgid "Notification"
+msgstr "알림"
+msgid "%s moved the task #%d to the first swimlane"
+msgstr "%s가 할일 #%d를 첫번째 스웜레인으로 이동시켰습니다"
+msgid "Swimlane"
+msgstr "스윔레인"
+msgid "%s moved the task %s to the first swimlane"
+msgstr "%s가 할일 %s를 첫번째 스웜레인으로 이동시켰습니다"
+msgid "%s moved the task %s to the swimlane \"%s\""
+msgstr "%s가 할일 %s를 %s 스웜레인으로 이동시켰습니다"
+msgid "This report contains all subtasks information for the given date range."
+msgstr "해당 기간의 모든 서브 할일 정보가 보고서에 포함됩니다"
+msgid "This report contains all tasks information for the given date range."
+msgstr "해당 기간의 모든 할일 정보가 보고서에 포함됩니다"
+msgid "Project activities for %s"
+msgstr "%s의 프로젝트 활성화"
+msgid "view the board on Kanboard"
+msgstr "kanboard로 보드 보기"
+msgid "The task has been moved to the first swimlane"
+msgstr "할일이 첫번째 스웜라인으로 이동되어 있습니다"
+msgid "The task has been moved to another swimlane:"
+msgstr "할일이 다른 스웜라인으로 이동되어 있습니다"
+msgid "New title: %s"
+msgstr "제목 변경: %s"
+msgid "The task is not assigned anymore"
+msgstr "담당자 없음"
+msgid "New assignee: %s"
+msgstr "담당자 변경: %s"
+msgid "There is no category now"
+msgstr "카테고리 없음"
+msgid "New category: %s"
+msgstr "카테고리 변경: %s"
+msgid "New color: %s"
+msgstr "색깔 변경: %s"
+msgid "New complexity: %d"
+msgstr "복잡도 변경: %d"
+msgid "The due date has been removed"
+msgstr "마감날짜 삭제"
+msgid "There is no description anymore"
+msgstr "설명 없음"
+msgid "Recurrence settings has been modified"
+msgstr "반복할일 설정 수정"
+msgid "Time spent changed: %sh"
+msgstr "경과시간 변경: %s시간"
+msgid "Time estimated changed: %sh"
+msgstr "%s시간으로 예상시간 변경"
+msgid "The field \"%s\" has been updated"
+msgstr "%s 필드가 갱신되어 있습니다"
+msgid "The description has been modified:"
+msgstr "설명이 수정되어 있습니다: "
+msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
+msgstr "할일 \"%s\"과 서브 할일을 모두 마치시겠습니까?"
+msgid "I want to receive notifications for:"
+msgstr "다음의 알림을 받기를 원합니다:"
+msgid "All tasks"
+msgstr "모든 할일"
+msgid "Only for tasks assigned to me"
+msgstr "내가 담당자인 일"
+msgid "Only for tasks created by me"
+msgstr "내가 만든 일"
+msgid "Only for tasks created by me and tasks assigned to me"
+msgstr "내가 만들었거나 내가 담당자인 일"
+msgid "%%Y-%%m-%%d"
+msgstr "%%Y-%%m-%%d"
+msgid "Total for all columns"
+msgstr "모든 컬럼"
+msgid "You need at least 2 days of data to show the chart."
+msgstr "차트를 보기 위하여 최소 2일의 데이터가 필요합니다"
+msgid "<15m"
+msgstr "<15분"
+msgid "<30m"
+msgstr "<30분"
+msgid "Stop timer"
+msgstr "타이머 정지"
+msgid "Start timer"
+msgstr "타이머 시작"
+msgid "My activity stream"
+msgstr "내 활동기록"
+msgid "Search tasks"
+msgstr "할일 찾기"
+msgid "Reset filters"
+msgstr "필터 리셋"
+msgid "My tasks due tomorrow"
+msgstr "내일까지 내 할일"
+msgid "Tasks due today"
+msgstr "오늘까지 할일"
+msgid "Tasks due tomorrow"
+msgstr "내일까지 할일"
+msgid "Tasks due yesterday"
+msgstr "어제까지 할일"
+msgid "Closed tasks"
+msgstr "닫힌 할일"
+msgid "Open tasks"
+msgstr "열린 할일"
+msgid "Not assigned"
+msgstr "담당자가 없는 일"
+msgid "View advanced search syntax"
+msgstr "추가 검색 문법보기"
+msgid "Overview"
+msgstr "개요"
+msgid "Board/Calendar/List view"
+msgstr "보드/달력/리스트 보기"
+msgid "Switch to the board view"
+msgstr "보드 보기로 전환"
+msgid "Switch to the list view"
+msgstr "리스트 보기로 전환"
+msgid "Go to the search/filter box"
+msgstr "검색/필터 박스로 이동"
+msgid "There is no activity yet."
+msgstr "활동이 없습니다"
+msgid "No tasks found."
+msgstr "할일을 찾을 수 없습니다"
+msgid "Keyboard shortcut: \"%s\""
+msgstr "쉬운 키보드: \"%s\""
+msgid "List"
+msgstr "목록"
+msgid "Filter"
+msgstr "필터"
+msgid "Advanced search"
+msgstr "검색 문법"
+msgid "Example of query: "
+msgstr "문법 예제 "
+msgid "Search by project: "
+msgstr "프로젝트로 찾기 "
+msgid "Search by column: "
+msgstr "컬럼으로 찾기 "
+msgid "Search by assignee: "
+msgstr "담당자로 찾기 "
+msgid "Search by color: "
+msgstr "색깔로 찾기 "
+msgid "Search by category: "
+msgstr "카테고리로 찾기 "
+msgid "Search by description: "
+msgstr "설명으로 찾기 "
+msgid "Search by due date: "
+msgstr "마감날짜로 찾기 "
+msgid "Average time spent in each column"
+msgstr "각 칼럼의 평균 소요시간"
+msgid "Average time spent"
+msgstr "평균 소요시간"
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "마지막 %d 할일의 컬럼 평균 소요시간을 차트에 표시합니다"
+msgid "Average Lead and Cycle time"
+msgstr "평균 Lead and Cycle 시간"
+msgid "Average lead time: "
+msgstr "평균 lead 시간"
+msgid "Average cycle time: "
+msgstr "평균 cycle 시간"
+msgid "Cycle Time"
+msgstr "사이클 시간"
+msgid "Lead Time"
+msgstr "리드 시간"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "마지막 %d 할일의 평균 리드와 사이클 시간을 차트에 표시합니다"
+msgid "Average time into each column"
+msgstr "각 컬럼의 평균 시간"
+msgid "Lead and cycle time"
+msgstr "리드와 사이클 시간"
+msgid "Lead time: "
+msgstr "리드 시간: "
+msgid "Cycle time: "
+msgstr "사이클 시간: "
+msgid "Time spent in each column"
+msgstr "각 컬럼에서 걸린 시간"
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "리드 시간은 할일의 생성부터 완료까지의 기간입니다"
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "사이클 시간은 할일의 시작일부터 완료까지의 기간입니다"
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "할일이 종료되지 않았다면, 완료 시간 대신 현재 시간이 사용됩니다"
+msgid "Set the start date automatically"
+msgstr "자동으로 시작 날짜를 설정합니다"
+msgid "Edit Authentication"
+msgstr "계정 수정"
+msgid "Remote user"
+msgstr "원격 담당자"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "예를 들어 LDAP, Google, Github 계정같은 원격 담당자의 비밀번호는 칸반보드 데이터베이스에 저장하지 않습니다"
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "만약 "로그인 폼 거절"에 체크한다면, 로그인 폼에 접근할 자격이 무시됩니다"
+msgid "Default task color"
+msgstr "기본 할일 색"
+msgid "This feature does not work with all browsers."
+msgstr "이 기능은 일부 브라우저에서 작동하지 않습니다"
+msgid "There is no destination project available."
+msgstr "가능한 목적 프로젝트가 없습니다"
+msgid "Trigger automatically subtask time tracking"
+msgstr "자동 서브 할일 시간 트래킹 트리거"
+msgid "Include closed tasks in the cumulative flow diagram"
+msgstr "누적 플로우 다이어그램에 종료된 할일을 포함합니다"
+msgid "Current swimlane: %s"
+msgstr "현재 스웜라인: %s"
+msgid "Current column: %s"
+msgstr "현재 컬럼: %s"
+msgid "Current category: %s"
+msgstr "현재 카테고리: %s"
+msgid "no category"
+msgstr "카테고리 아님"
+msgid "Current assignee: %s"
+msgstr "현재 할당자: %s"
+msgid "not assigned"
+msgstr "할당되지 않음"
+msgid "Author:"
+msgstr "글쓴이:"
+msgid "contributors"
+msgstr "기여자"
+msgid "License:"
+msgstr "라이센스:"
+msgid "License"
+msgstr "라이센스"
+msgid "Enter the text below"
+msgstr "아랫글로 들어가기"
+msgid "Start date:"
+msgstr "시작일:"
+msgid "Due date:"
+msgstr "만기일:"
+msgid "People who are project managers"
+msgstr "프로젝트 매니저"
+msgid "People who are project members"
+msgstr "프로젝트 멤버"
+msgid "NOK - Norwegian Krone"
+msgstr "NOK - 노르웨이 크로네"
+msgid "Show this column"
+msgstr "컬럼 보이기"
+msgid "Hide this column"
+msgstr "컬럼 숨기기"
+msgid "End date"
+msgstr "종료 날짜"
+msgid "Users overview"
+msgstr "유저 전체보기"
+msgid "Members"
+msgstr "멤버"
+msgid "Shared project"
+msgstr "프로젝트 공유"
+msgid "Project managers"
+msgstr "프로젝트 매니저"
+msgid "Projects list"
+msgstr "프로젝트 리스트"
+msgid "End date:"
+msgstr "날짜 수정"
+msgid "Change task color when using a specific task link"
+msgstr "특정 할일 링크를 사용할때 할일의 색깔 변경"
+msgid "Task link creation or modification"
+msgstr "할일 링크 생성 혹은 수정"
+msgid "Milestone"
+msgstr "마일스톤"
+msgid "Reset the search/filter box"
+msgstr "찾기/필터 박스 초기화"
+msgid "Documentation"
+msgstr "문서"
+msgid "Author"
+msgstr "글쓴이"
+msgid "Version"
+msgstr "버전"
+msgid "Plugins"
+msgstr "플러그인"
+msgid "There is no plugin loaded."
+msgstr "플러그인이 로드되지 않았습니다"
+msgid "My notifications"
+msgstr "내 알림"
+msgid "Custom filters"
+msgstr "사용자 정의 필터"
+msgid "Your custom filter has been created successfully."
+msgstr "사용자 정의 필터가 성공적으로 생성되었습니다"
+msgid "Unable to create your custom filter."
+msgstr "사용자 정의 필터 생성 비활성화"
+msgid "Custom filter removed successfully."
+msgstr "사용자 정의 필터가 성공적으로 삭제되었습니다"
+msgid "Unable to remove this custom filter."
+msgstr "정의 필터 삭제 비활성화"
+msgid "Edit custom filter"
+msgstr "정의 필터 수정"
+msgid "Your custom filter has been updated successfully."
+msgstr "사용자 정의 필터가 성공적으로 수정되었습니다"
+msgid "Unable to update custom filter."
+msgstr "정의 필터 수정 비활성화"
+msgid "Web"
+msgstr "웹"
+msgid "New attachment on task #%d: %s"
+msgstr "할일 #%d의 새로운 첨부파일: %s"
+msgid "New comment on task #%d"
+msgstr "할일 #%d에 새로운 댓글이 달렸습니다"
+msgid "Comment updated on task #%d"
+msgstr "할일 #%d에 댓글이 갱신 되었습니다"
+msgid "New subtask on task #%d"
+msgstr "서브 할일 #%d이 갱신 되었습니다"
+msgid "Subtask updated on task #%d"
+msgstr "서브 할일 #%d가 갱신 되었습니다"
+msgid "New task #%d: %s"
+msgstr "할일 #%d: %s이 추가되었습니다"
+msgid "Task updated #%d"
+msgstr "할일 #%d이 갱신 되었습니다"
+msgid "Task #%d closed"
+msgstr "할일 #%d를 마쳤습니다"
+msgid "Task #%d opened"
+msgstr "할일 #%d가 시작되었습니다"
+msgid "Column changed for task #%d"
+msgstr "할일 #%d의 컬럼이 변경되었습니다"
+msgid "New position for task #%d"
+msgstr "할일 #%d이 새로운 위치에 등록되었습니다"
+msgid "Swimlane changed for task #%d"
+msgstr "#%d 할일의 스웜라인이 변경됩니다"
+msgid "Assignee changed on task #%d"
+msgstr "#%d 할일의 담당자가 변경됩니다"
+msgid "%d overdue tasks"
+msgstr "할일의 기한이 %d일 지났습니다"
+msgid "Task #%d is overdue"
+msgstr "#%d 할일의 기한이 지났습니다"
+msgid "No notification."
+msgstr "알림이 없습니다"
+msgid "Mark all as read"
+msgstr "모두 읽음"
+msgid "Mark as read"
+msgstr "읽음"
+msgid "Total number of tasks in this column across all swimlanes"
+msgstr "모든 스웜라인 칼럼의 할일 수"
+msgid "Collapse swimlane"
+msgstr "스웜라인 붕괴"
+msgid "Expand swimlane"
+msgstr "스웜라인 확장"
+msgid "Add a new filter"
+msgstr "새로운 필터 추가"
+msgid "Share with all project members"
+msgstr "모든 프로젝트 맴버 공유"
+msgid "Shared"
+msgstr "공유"
+msgid "Owner"
+msgstr "소유자"
+msgid "Unread notifications"
+msgstr "읽지않은 알림"
+msgid "Notification methods:"
+msgstr "알림 방법"
+msgid "Unable to read your file"
+msgstr "파일을 읽을 수 없습니다"
+msgid "%d task(s) have been imported successfully."
+msgstr "%d 할일이 성공적으로 추가되었습니다"
+msgid "Nothing has been imported!"
+msgstr "추가가 되지 않았습니다!"
+msgid "Import users from CSV file"
+msgstr "CSV 파일에서 사용자 가져오기"
+msgid "%d user(s) have been imported successfully."
+msgstr "%d 사용자가 성공적으로 추가되었습니다"
+msgid "Comma"
+msgstr "콤마"
+msgid "Semi-colon"
+msgstr "세미콜론"
+msgid "Tab"
+msgstr "탭"
+msgid "Vertical bar"
+msgstr "세로줄"
+msgid "Double Quote"
+msgstr "이중 따옴표"
+msgid "Single Quote"
+msgstr "따옴표"
+msgid "%s attached a file to the task #%d"
+msgstr "%s가 할일 #%d에 파일을 추가하였습니다"
+msgid "There is no column or swimlane activated in your project!"
+msgstr "프로젝트에 활성화된 컬럼이나 스웜라인이 없습니다"
+msgid "Append filter (instead of replacement)"
+msgstr "필터 (변경 대신)추가"
+msgid "Append/Replace"
+msgstr "추가/변경"
+msgid "Append"
+msgstr "추가"
+msgid "Replace"
+msgstr "변경"
+msgid "Import"
+msgstr "가져오기"
+msgid "Change sorting"
+msgstr "정렬 변경"
+msgid "Tasks Importation"
+msgstr "할일 가져오기"
+msgid "Delimiter"
+msgstr "구분자"
+msgid "Enclosure"
+msgstr "동봉"
+msgid "CSV File"
+msgstr "CSV 파일"
+msgid "Instructions"
+msgstr "명령"
+msgid "Your file must use the predefined CSV format"
+msgstr "파일은 미리 정의된 CVS 형식이어야 합니다"
+msgid "Your file must be encoded in UTF-8"
+msgstr "파일은 UTF-8로 인코딩되어야 합니다"
+msgid "The first row must be the header"
+msgstr "첫 줄은 헤더이어야 합니다"
+msgid "Duplicates are not verified for you"
+msgstr "사본이 허락되지 않습니다"
+msgid "The due date must use the ISO format: YYYY-MM-DD"
+msgstr "만기일은 ISO 형식이어야 합니다: YYYY-MM-DD"
+msgid "Download CSV template"
+msgstr "CVS 탬플릿 내려받기"
+msgid "No external integration registered."
+msgstr "설정이 되어있지 않습니다"
+msgid "Duplicates are not imported"
+msgstr "사본을 가져올 수 없습니다"
+msgid "Usernames must be lowercase and unique"
+msgstr "사용자 이름은 소문자이며 유일해야 합니다"
+msgid "Passwords will be encrypted if present"
+msgstr "비밀번호는 암호화됩니다"
+msgid "%s attached a new file to the task %s"
+msgstr "%s이 새로운 파일을 할일 %s에 추가했습니다"
+msgid "Link type"
+msgstr "링크 형식"
+msgid "Assign automatically a category based on a link"
+msgstr "링크 기반 자동 카테고리 할당"
+msgid "BAM - Konvertible Mark"
+msgstr "BAM - 보스니아 마르카"
+msgid "Assignee Username"
+msgstr "담당자의 사용자이름"
+msgid "Assignee Name"
+msgstr "당장자 이름"
+msgid "Groups"
+msgstr "그룹"
+msgid "Members of %s"
+msgstr "%s의 맴버"
+msgid "New group"
+msgstr "새로운 그룹"
+msgid "Group created successfully."
+msgstr "그룹이 성공적으로 생성되었습니다"
+msgid "Unable to create your group."
+msgstr "그룹 생성 비활성화"
+msgid "Edit group"
+msgstr "그룹 편집"
+msgid "Group updated successfully."
+msgstr "그룹이 성공적으로 수정되었습니다"
+msgid "Unable to update your group."
+msgstr "그룹 수정 비활성화"
+msgid "Add group member to \"%s\""
+msgstr "%s 그룹 맴버 추가"
+msgid "Group member added successfully."
+msgstr "그룹 맴버가 성공적으로 추가되었습니다"
+msgid "Unable to add group member."
+msgstr "그룹 맴버 추가 비활성화"
+msgid "Remove user from group \"%s\""
+msgstr "%s 그룹 사용자 삭제"
+msgid "User removed successfully from this group."
+msgstr "그룹 사용자가 성공적으로 삭제되었습니다"
+msgid "Unable to remove this user from the group."
+msgstr "그룹 사용자 삭제 비활성화"
+msgid "Remove group"
+msgstr "그룹 삭제"
+msgid "Group removed successfully."
+msgstr "그룹이 성공적으로 삭제되었습니다"
+msgid "Unable to remove this group."
+msgstr "그룹 삭제 비활성화"
+msgid "Project Permissions"
+msgstr "프로젝트 권한"
+msgid "Manager"
+msgstr "매니저"
+msgid "Project Manager"
+msgstr "프로젝트 매니저"
+msgid "Project Member"
+msgstr "프로젝트 멤버"
+msgid "Project Viewer"
+msgstr "프로젝트 뷰어"
+msgid "Your account is locked for %d minutes"
+msgstr "%d분 동안 계정이 잠깁니다"
+msgid "Invalid captcha"
+msgstr "잘못된 보안 문자"
+msgid "The name must be unique"
+msgstr "이름은 유일해야 합니다"
+msgid "View all groups"
+msgstr "모든그룹보기"
+msgid "There is no user available."
+msgstr "가능한 사용자가 없습니다"
+msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
+msgstr "\"%s\" 사용자를 \"%s\" 에서 삭제하시겠습니까?"
+msgid "There is no group."
+msgstr "그룹이 없습니다"
+msgid "Add group member"
+msgstr "멤버추가"
+msgid "Do you really want to remove this group: \"%s\"?"
+msgstr "그룹을 삭제하시겠습니까: \"%s\"?"
+msgid "There is no user in this group."
+msgstr "이 그룹에는 사용자가 없습니다"
+msgid "Permissions"
+msgstr "권한"
+msgid "Allowed Users"
+msgstr "사용자 승인"
+msgid "No specific user has been allowed."
+msgstr "구체적으로 승인된 사용자가 없습니다"
+msgid "Role"
+msgstr "역할"
+msgid "Enter user name..."
+msgstr "사용자 이름을 입력합니다..."
+msgid "Allowed Groups"
+msgstr "승인된 그룹"
+msgid "No group has been allowed."
+msgstr "구체적으로 승인된 그룹이 없습니다"
+msgid "Group"
+msgstr "그룹"
+msgid "Group Name"
+msgstr "그룹명"
+msgid "Enter group name..."
+msgstr "그룹명을 입력합니다..."
+msgid "Role:"
+msgstr "역할: "
+msgid "Project members"
+msgstr "프로젝트 멤버"
+msgid "%s mentioned you in the task #%d"
+msgstr "#%d 할일에서 %s가 당신을 언급하였습니다"
+msgid "%s mentioned you in a comment on the task #%d"
+msgstr "#%d 할일에서 %s가 당신의 댓글을 언급하였습니다"
+msgid "You were mentioned in the task #%d"
+msgstr "#%d 할일에서 당신이 언급되었습니다"
+msgid "You were mentioned in a comment on the task #%d"
+msgstr "할일 #%d의 댓글에서 언급되었습니다"
+msgid "Estimated hours: "
+msgstr "예상 시간: "
+msgid "Actual hours: "
+msgstr "실제 시간: "
+msgid "Hours Spent"
+msgstr "소요 시간"
+msgid "Hours Estimated"
+msgstr "예상 시간"
+msgid "Estimated Time"
+msgstr "예상 시간"
+msgid "Actual Time"
+msgstr "실제 시간"
+msgid "Estimated vs actual time"
+msgstr "예상 vs 실제 시간"
+msgid "RUB - Russian Ruble"
+msgstr "RUB - 러시아 루블"
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "컬럼이 변경되면 액션하지 않는 사람에게 할일을 할당합니다"
+msgid "Close a task in a specific column"
+msgstr "상세 컬럼의 할일을 종료합니다"
+msgid "Time-based One-time Password Algorithm"
+msgstr "시간에 기반한 1회용 패스워드 알고리즘"
+msgid "Two-Factor Provider: "
+msgstr "이중 인증: "
+msgid "Disable two-factor authentication"
+msgstr "이중 인증 비활성화"
+msgid "Enable two-factor authentication"
+msgstr "이중 인증 활성화"
+msgid "There is no integration registered at the moment."
+msgstr "현재 등록된 통합이 없습니다."
+msgid "Password Reset for Kanboard"
+msgstr "Kanboard의 비밀번호 초기화"
+msgid "Forgot password?"
+msgstr "비밀번호 찾기"
+msgid "Enable \"Forget Password\""
+msgstr ""비밀번호 분실" 활성화"
+msgid "Password Reset"
+msgstr "비밀번호 초기화"
+msgid "New password"
+msgstr "새로운 비밀번호"
+msgid "Change Password"
+msgstr "비밀번호 변경"
+msgid "To reset your password click on this link:"
+msgstr "비밀번호를 초기화 하시려면 링크를 눌러주세요:"
+msgid "Last Password Reset"
+msgstr "마지막 비밀번호 초기화"
+msgid "The password has never been reinitialized."
+msgstr "비밀번호가 초기화되지 않았습니다"
+msgid "Creation"
+msgstr "생성"
+msgid "Expiration"
+msgstr "만료"
+msgid "Password reset history"
+msgstr "비밀번호 초기화 기록"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "컬럼 \"%s\"와 스웜라인 \"%s\"의 모든 할일이 성공적으로 종료되었습니다"
+msgid "Do you really want to close all tasks of this column?"
+msgstr "이 컬럼의 모든 할일을 종료 하시겠습니까?"
+msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+msgstr "컬럼 \"%s\"와 스웜라인 \"%s\"의 할일 %d가 종료될 것입니다"
+msgid "Close all tasks in this column and this swimlane"
+msgstr "컬럼의 모든 할일 마치기"
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "프로젝트 알림 방법으로 플러그인이 등록되지 않았습니다. 각각의 알림을 프로파일에서 설정하실 수 있습니다"
+msgid "My dashboard"
+msgstr "대시보드"
+msgid "My profile"
+msgstr "프로필"
+msgid "Project owner: "
+msgstr "프로젝트 소유자:"
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "프로젝트 구분자는 선택사항이며, 숫자와 문자만 가능합니다. 예: MYPROJECT."
+msgid "Project owner"
+msgstr "프로젝트 소유자"
+msgid "Personal projects do not have users and groups management."
+msgstr "비밀 프로젝트는 사용자나 관리 그룹이 소유하지 않습니다"
+msgid "There is no project member."
+msgstr "프로젝트 맴버가 없습니다"
+msgid "Priority"
+msgstr "우선순위"
+msgid "Task priority"
+msgstr "할일의 우선순위"
+msgid "General"
+msgstr "일반적인"
+msgid "Dates"
+msgstr "날짜"
+msgid "Default priority"
+msgstr "기본 우선순위"
+msgid "Lowest priority"
+msgstr "낮은 우선순위"
+msgid "Highest priority"
+msgstr "높은 우선순위"
+msgid "Close a task when there is no activity"
+msgstr "활동이 없는 할일을 종료합니다"
+msgid "Duration in days"
+msgstr "기간"
+msgid "Send email when there is no activity on a task"
+msgstr "활동이 없는 할일을 이메일로 보냅니다"
+msgid "Unable to fetch link information."
+msgstr "링크 정보 가져오기 비활성화"
+msgid "Daily background job for tasks"
+msgstr "할일의 일일 배경 작업 "
+msgid "Auto"
+msgstr "자동"
+msgid "Related"
+msgstr "연관된"
+msgid "Attachment"
+msgstr "첨부"
+msgid "Title not found"
+msgstr "제목이 없습니다"
+msgid "Web Link"
+msgstr "웹 링크"
+msgid "External links"
+msgstr "외부 링크"
+msgid "Add external link"
+msgstr "외부 링크 추가"
+msgid "Type"
+msgstr "타입"
+msgid "Dependency"
+msgstr "의존"
+msgid "Add internal link"
+msgstr "내부 링크 추가"
+msgid "Add a new external link"
+msgstr "새로운 외부 링크 추가"
+msgid "Edit external link"
+msgstr "외부 링크 수정"
+msgid "External link"
+msgstr "외부 링크"
+msgid "Copy and paste your link here..."
+msgstr "여기에 링크를 복사/붙여넣기"
+msgid "URL"
+msgstr "인터넷 주소"
+msgid "Internal links"
+msgstr "내부 링크"
+msgid "Assign to me"
+msgstr "나에게 할당"
+msgid "Me"
+msgstr "나"
+msgid "Do not duplicate anything"
+msgstr "복사할까요?"
+msgid "Projects management"
+msgstr "프로젝트 관리"
+msgid "Users management"
+msgstr "사용자 관리"
+msgid "Groups management"
+msgstr "그룹 관리"
+msgid "Create from another project"
+msgstr "다른 프로젝트 생성"
+msgid "open"
+msgstr "시작"
+msgid "closed"
+msgstr "종료"
+msgid "Priority:"
+msgstr "우선순위:"
+msgid "Reference:"
+msgstr "참고:"
+msgid "Complexity:"
+msgstr "복합:"
+msgid "Swimlane:"
+msgstr "스웜라인:"
+msgid "Column:"
+msgstr "컬럼:"
+msgid "Position:"
+msgstr "위치:"
+msgid "Creator:"
+msgstr "생성자:"
+msgid "Time estimated:"
+msgstr "예상 시간:"
+msgid "%s hours"
+msgstr "%s 시간"
+msgid "Time spent:"
+msgstr "소요 시간:"
+msgid "Created:"
+msgstr "생성:"
+msgid "Modified:"
+msgstr "수정;"
+msgid "Completed:"
+msgstr "완료:"
+msgid "Started:"
+msgstr "시작:"
+msgid "Moved:"
+msgstr "이동:"
+msgid "Task #%d"
+msgstr "할일 #%d"
+msgid "Time format"
+msgstr "시간 형식"
+msgid "Start date: "
+msgstr "시작일: "
+msgid "End date: "
+msgstr "종료일: "
+msgid "New due date: "
+msgstr "새로운 만기일: "
+msgid "Start date changed: "
+msgstr "변경된 시작일: "
+msgid "Disable personal projects"
+msgstr "비밀 프로젝트 비활성화"
+msgid "Do you really want to remove this custom filter: \"%s\"?"
+msgstr "정의 필터를 삭제하시겠습니까: \"%s\"?"
+msgid "Remove a custom filter"
+msgstr "정의 필터 삭제"
+msgid "User activated successfully."
+msgstr "사용자가 성공적으로 활성화되었습니다"
+msgid "Unable to enable this user."
+msgstr "이 사용자를 활성화할 수 없습니다."
+msgid "User disabled successfully."
+msgstr "사용자가 성공적으로 비활성화되었습니다"
+msgid "Unable to disable this user."
+msgstr "이 사용자를 비활성화할 수 없습니다."
+msgid "All files have been uploaded successfully."
+msgstr "모든 파일이 성공적으로 업로드되었습니다"
+msgid "The maximum allowed file size is %sB."
+msgstr "업로드 파일의 최대 크기는 %sB 입니다"
+msgid "Drag and drop your files here"
+msgstr "파일을 이곳으로 끌고오기"
+msgid "choose files"
+msgstr "파일 선택"
+msgid "View profile"
+msgstr "프로파일 보기"
+msgid "Two Factor"
+msgstr "이중"
+msgid "Disable user"
+msgstr "사용자 비활성화"
+msgid "Do you really want to disable this user: \"%s\"?"
+msgstr "사용자를 비활성화 시키겠습니까: \"%s\"?"
+msgid "Enable user"
+msgstr "사용자 활성화"
+msgid "Do you really want to enable this user: \"%s\"?"
+msgstr "사용자를 활성화 시키겠습니까: \"%s\"?"
+msgid "Download"
+msgstr "내려받기"
+msgid "Uploaded: %s"
+msgstr "올리기: %s"
+msgid "Size: %s"
+msgstr "크기: %s"
+msgid "Uploaded by %s"
+msgstr "%s로 올리기"
+msgid "Filename"
+msgstr "파일 이름"
+msgid "Size"
+msgstr "크기"
+msgid "Column created successfully."
+msgstr "컬럼이 성공적으로 생성되었습니다"
+msgid "Another column with the same name exists in the project"
+msgstr "프로젝트에 동일한 이름의 컬럼이 있습니다"
+msgid "Default filters"
+msgstr "기본 필터"
+msgid "Your board doesn't have any columns!"
+msgstr "보드에 컬럼이 존재하지 않습니다"
+msgid "Change column position"
+msgstr "컬럼 위치 변경"
+msgid "Switch to the project overview"
+msgstr "프로젝트 개요로 변경"
+msgid "User filters"
+msgstr "사용자 필터"
+msgid "Category filters"
+msgstr "카테고리 필터"
+msgid "Upload a file"
+msgstr "파일 업로드"
+msgid "View file"
+msgstr "파일 보기"
+msgid "Last activity"
+msgstr "마지막 행동"
+msgid "Change subtask position"
+msgstr "서브 할일 위치 변경"
+msgid "This value must be greater than %d"
+msgstr "이 값은 %d보다 커야 합니다"
+msgid "Another swimlane with the same name exists in the project"
+msgstr "프로젝트에 같은 이름의 스웜라인이 존재합니다"
+msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
+msgstr "예: https://example.kanboard.org/ (절대적 URLs을 생성하는데 사용됨)"
+msgid "Actions duplicated successfully."
+msgstr "행동이 성공적으로 복제되었습니다"
+msgid "Unable to duplicate actions."
+msgstr "행동 복제 비활성화"
+msgid "Add a new action"
+msgstr "새로운 행동 추가"
+msgid "Import from another project"
+msgstr "다른 프로젝트에서 가져오기"
+msgid "There is no action at the moment."
+msgstr "현재 행동이 없습니다"
+msgid "Import actions from another project"
+msgstr "다른 프로젝트에서 행동 가져오기"
+msgid "There is no available project."
+msgstr "사용 가능한 프로젝트가 없습니다"
+msgid "Local File"
+msgstr "로컬 파일"
+msgid "Configuration"
+msgstr "구성"
+msgid "PHP version:"
+msgstr "PHP 버전:"
+msgid "PHP SAPI:"
+msgstr "PHP SAPI:"
+msgid "OS version:"
+msgstr "운영체제 버전:"
+msgid "Database version:"
+msgstr "데이터베이스 버전:"
+msgid "Browser:"
+msgstr "브라우저:"
+msgid "Task view"
+msgstr "할일 보기"
+msgid "Edit task"
+msgstr "할일 수정"
+msgid "Edit description"
+msgstr "설명 수정"
+msgid "New internal link"
+msgstr "새로운 내부 링크"
+msgid "Display list of keyboard shortcuts"
+msgstr "키보드 숏컷 리스트 보여주기"
+msgid "Avatar"
+msgstr "아바타"
+msgid "Upload my avatar image"
+msgstr "아바타 이미지 올리기"
+msgid "Remove my image"
+msgstr "이미지 삭제"
+msgid "The OAuth2 state parameter is invalid"
+msgstr "OAuth2 상태값이 올바르지 않습니다"
+msgid "User not found."
+msgstr "사용자를 찾을 수 없습니다"
+msgid "Search in activity stream"
+msgstr "활성 스트림 찾기"
+msgid "My activities"
+msgstr "나의 활동"
+msgid "Activity until yesterday"
+msgstr "어제까지의 활동"
+msgid "Activity until today"
+msgstr "오늘까지의 활동"
+msgid "Search by creator: "
+msgstr "생성자로 검색: "
+msgid "Search by creation date: "
+msgstr "생성 날짜로 검색: "
+msgid "Search by task status: "
+msgstr "할일 상태로 검색: "
+msgid "Search by task title: "
+msgstr "할일 제목으로 검색: "
+msgid "Activity stream search"
+msgstr "활동 스트림 검색"
+msgid "Projects where \"%s\" is manager"
+msgstr "\"%s\" 관리자의 프로젝트"
+msgid "Projects where \"%s\" is member"
+msgstr "\"%s\" 맴버의 프로젝트"
+msgid "Open tasks assigned to \"%s\""
+msgstr "\"%s\"에게 할당된 할일 시작하기"
+msgid "Closed tasks assigned to \"%s\""
+msgstr "\"%s\"에게 할당된 할일 종료하기"
+msgid "Assign automatically a color based on a priority"
+msgstr "우선순위로 색깔 자동 지정"
+msgid "Overdue tasks for the project(s) \"%s\""
+msgstr "\"%s\" 프로젝트의 기한이 지난 할일"
+msgid "Upload files"
+msgstr "파일 올리기"
+msgid "Installed Plugins"
+msgstr "설치된 플러그인"
+msgid "Plugin Directory"
+msgstr "플러그인 폴더"
+msgid "Plugin installed successfully."
+msgstr "플러그인이 성공적으로 설치 되었습니다."
+msgid "Plugin updated successfully."
+msgstr "플러그인이 성공적으로 갱신 되었습니다."
+msgid "Plugin removed successfully."
+msgstr "플러그인이 성공적으로 삭제 되었습니다."
+msgid "Subtask converted to task successfully."
+msgstr "서브 할일이 할일로 성공적으로 변경 되었습니다."
+msgid "Unable to convert the subtask."
+msgstr "서브 할일로 변경할 수 없습니다."
+msgid "Unable to extract plugin archive."
+msgstr "플러그인 아카이브를 추출할 수 없습니다."
+msgid "Plugin not found."
+msgstr "플러그인을 찾을 수 없습니다."
+msgid "You don't have the permission to remove this plugin."
+msgstr "이 플러그인의 삭제 권한이 없습니다."
+msgid "Unable to download plugin archive."
+msgstr "플러그인 아카이브를 다운로드할 수 없습니다."
+msgid "Unable to write temporary file for plugin."
+msgstr "플러그인의 임시 파일을 기록할 수 없습니다."
+msgid "Unable to open plugin archive."
+msgstr "플러그인 아카이브를 열수 없습니다."
+msgid "There is no file in the plugin archive."
+msgstr "플러그인 아카이브에 파일이 존재하지 않습니다."
+msgid "Create tasks in bulk"
+msgstr "대량의 할일 만들기"
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "칸보드 인스턴스가 사용자 인터페이스에서 플러그인을 설치하도록 구성되지 않았습니다"
+msgid "There is no plugin available."
+msgstr "사용 가능한 플러그인이 없습니다."
+msgid "Install"
+msgstr "설치"
+msgid "Update"
+msgstr "갱신"
+msgid "Up to date"
+msgstr "날짜 갱신"
+msgid "Not available"
+msgstr "사용 불가능"
+msgid "Remove plugin"
+msgstr "플러그인 삭제"
+msgid "Do you really want to remove this plugin: \"%s\"?"
+msgstr "정말로 플러그인을 삭제하시겠습니까: \"%s\"?"
+msgid "Uninstall"
+msgstr "삭제"
+msgid "Listing"
+msgstr "목록"
+msgid "Metadata"
+msgstr "메타데이터"
+msgid "Manage projects"
+msgstr "프로젝트 관리"
+msgid "Convert to task"
+msgstr "할일로 변경하기"
+msgid "Convert sub-task to task"
+msgstr "서브 할일을 할일로 변경하기"
+msgid "Do you really want to convert this sub-task to a task?"
+msgstr "정말로 서브 할일을 할일로 변경하시겠습니까?"
+msgid "My task title"
+msgstr "나의 할일 제목"
+msgid "Enter one task by line."
+msgstr "정확히 하나의 할일로 진입"
+msgid "Number of failed login:"
+msgstr "로그인 실패 횟수:"
+msgid "Account locked until:"
+msgstr "다음동안 계정이 잠겼습니다:"
+msgid "Email settings"
+msgstr "이메일 설정"
+msgid "Email sender address"
+msgstr "이메일 보낸이 주소"
+msgid "Email transport"
+msgstr "이메일 전송"
+msgid "Webhook token"
+msgstr "Webhook토큰"
+msgid "Project tags management"
+msgstr "프로젝트 태그 관리"
+msgid "Tag created successfully."
+msgstr "태그가 성공적으로 생성되었습니다."
+msgid "Unable to create this tag."
+msgstr "태그를 생성할 수 없습니다."
+msgid "Tag updated successfully."
+msgstr "태그가 성공적으로 수정되었습니다."
+msgid "Unable to update this tag."
+msgstr "태그를 수정할 수 없습니다."
+msgid "Tag removed successfully."
+msgstr "태그가 성공적으로 삭제되었습니다."
+msgid "Unable to remove this tag."
+msgstr "태그를 삭제할 수 없습니다."
+msgid "Global tags management"
+msgstr "전역 태그 관리"
+msgid "Tags"
+msgstr "태그"
+msgid "Tags management"
+msgstr "태그 관리"
+msgid "Add new tag"
+msgstr "태그 추가"
+msgid "Edit a tag"
+msgstr "태그 수정"
+msgid "Project tags"
+msgstr "프로젝트 태그"
+msgid "There is no specific tag for this project at the moment."
+msgstr "현재 이 프로젝트에는 태그가 없습니다."
+msgid "Tag"
+msgstr "태그"
+msgid "Remove a tag"
+msgstr "태그 삭제"
+msgid "Do you really want to remove this tag: \"%s\"?"
+msgstr "태그를 삭제하시겠습니까: \"%s\"?"
+msgid "Global tags"
+msgstr "전역 태그"
+msgid "There is no global tag at the moment."
+msgstr "현재 전역 태그가 없습니다."
+msgid "This field cannot be empty"
+msgstr "이 필드는 비워둘 수 없습니다"
+msgid "Close a task when there is no activity in a specific column"
+msgstr "활동이 없는 컬럼의 할일 마치기"
+msgid "%s removed a subtask for the task #%d"
+msgstr "%s가 할일 #%d의 서브 할일을 삭제하였습니다"
+msgid "%s removed a comment on the task #%d"
+msgstr "%s가 할일 #%d의 댓글을 삭제하였습니다"
+msgid "Comment removed on task #%d"
+msgstr "할일 #%d의 댓글이 삭제되었습니다"
+msgid "Subtask removed on task #%d"
+msgstr "할일 #%d의 서브 할일이 삭제되었습니다"
+msgid "Hide tasks in this column in the dashboard"
+msgstr "대시보드 컬럼의 할일 숨기기"
+msgid "%s removed a comment on the task %s"
+msgstr "%s가 할일 %s의 댓글을 삭제하였습니다"
+msgid "%s removed a subtask for the task %s"
+msgstr "%s가 할일 %s의 서브 할일을 삭제하였습니다"
+msgid "Comment removed"
+msgstr "댓글이 삭제되었습니다"
+msgid "Subtask removed"
+msgstr "서브 할일이 삭제되었습니다"
+msgid "%s set a new internal link for the task #%d"
+msgstr "%s가 할일 #%d의 새로운 내부 링크를 설정하였습니다"
+msgid "%s removed an internal link for the task #%d"
+msgstr "%s가 할일 #%d의 새로운 내부 링크를 삭제하였습니다"
+msgid "A new internal link for the task #%d has been defined"
+msgstr "할일 #%d의 새로운 내부 링크가 정의되었습니다"
+msgid "Internal link removed for the task #%d"
+msgstr "할일 #%d의 새로운 내부 링크가 삭제되었습니다"
+msgid "%s set a new internal link for the task %s"
+msgstr "%s가 할일 %s의 새로운 내부 링크를 설정하였습니다"
+msgid "%s removed an internal link for the task %s"
+msgstr "%s가 할일 %s의 새로운 내부 링크를 삭제하였습니다"
+msgid "Automatically set the due date on task creation"
+msgstr "할일 생성시 마감일이 자동으로 설정되었습니다"
+msgid "Move the task to another column when closed"
+msgstr "할일을 마치면 다른 컬럼으로 이동시키기"
+msgid "Move the task to another column when not moved during a given period"
+msgstr "주어진 기간동안 이동하지 않으면 할일을 다른 컬럼으로 이동시키기"
+msgid "Dashboard for %s"
+msgstr "%s의 대시보드"
+msgid "Tasks overview for %s"
+msgstr "%s의 할일 개요"
+msgid "Subtasks overview for %s"
+msgstr "%s의 서브 할일 개요"
+msgid "Projects overview for %s"
+msgstr "%s의 프로젝트 개요"
+msgid "Activity stream for %s"
+msgstr "%s의 활동기록"
+msgid "Assign a color when the task is moved to a specific swimlane"
+msgstr "할일이 특정 스웜라인으로 옮겨질 때 색상 지정"
+msgid "Assign a priority when the task is moved to a specific swimlane"
+msgstr "할일이 특정 스웜라인으로 옮겨질 때 우선순위 지정"
+msgid "User unlocked successfully."
+msgstr "사용자 잠금 성공"
+msgid "Unable to unlock the user."
+msgstr "사용자 해제 성공"
+msgid "Move a task to another swimlane"
+msgstr "다른 스웜라인으로 할일 이동"
+msgid "Creator Name"
+msgstr "생성자 이름"
+msgid "Time spent and estimated"
+msgstr "소요시간과 예상시간"
+msgid "Move position"
+msgstr "이동 위치"
+msgid "Move task to another position on the board"
+msgstr "할일을 보드의 다른 위치로 이동"
+msgid "Insert before this task"
+msgstr "이 할일 이전에 삽입"
+msgid "Insert after this task"
+msgstr "이 할일 이후에 삽입"
+msgid "Unlock this user"
+msgstr "사용자 잠금"
+msgid "Custom Project Roles"
+msgstr "정의 프로젝트 규칙"
+msgid "Add a new custom role"
+msgstr "새로운 정의 규칙 추가"
+msgid "Restrictions for the role \"%s\""
+msgstr "\"%s\" 역할의 제약"
+msgid "Add a new project restriction"
+msgstr "새로운 프로젝트 제약 추가"
+msgid "Add a new drag and drop restriction"
+msgstr "새로운 드래그 앤 드롭 제약 추가"
+msgid "Add a new column restriction"
+msgstr "새로운 칼럼 제약 추가"
+msgid "Edit this role"
+msgstr "역할 수정"
+msgid "Remove this role"
+msgstr "역할 삭제"
+msgid "There is no restriction for this role."
+msgstr "역할에 대한 제약이 없습니다."
+msgid "Only moving task between those columns is permitted"
+msgstr "칼럼간 이동만 허용됩니다."
+msgid "Close a task in a specific column when not moved during a given period"
+msgstr "특정 기간동안 이동하지 않은 특정 칼럼의 할일 마치기"
+msgid "Edit columns"
+msgstr "칼럼 수정"
+msgid "The column restriction has been created successfully."
+msgstr "칼럼 제약이 생성되었습니다."
+msgid "Unable to create this column restriction."
+msgstr "칼럼 제약을 생성할 수 없습니다."
+msgid "Column restriction removed successfully."
+msgstr "칼럼 제약이 삭제되었습니다."
+msgid "Unable to remove this restriction."
+msgstr "칼럼 제약을 삭제할 수 없습니다."
+msgid "Your custom project role has been created successfully."
+msgstr "정의 프로젝트 역할이 생성되었습니다."
+msgid "Unable to create custom project role."
+msgstr "정의 프로젝트 역할을 생성할 수 없습니다."
+msgid "Your custom project role has been updated successfully."
+msgstr "정의 프로젝트 역할이 수정되었습니다."
+msgid "Unable to update custom project role."
+msgstr "정의 프로젝트 역할을 수정할 수 없습니다."
+msgid "Custom project role removed successfully."
+msgstr "정의 프로젝트 역할이 삭제되었습니다."
+msgid "Unable to remove this project role."
+msgstr "정의 프로젝트 역할을 삭제할 수 없습니다."
+msgid "The project restriction has been created successfully."
+msgstr "프로젝트 제약이 생성되었습니다."
+msgid "Unable to create this project restriction."
+msgstr "프로젝트 제약을 생성할 수 없습니다."
+msgid "Project restriction removed successfully."
+msgstr "프로젝트 제약을 삭제하였습니다."
+msgid "You cannot create tasks in this column."
+msgstr "이 칼럼의 할일을 생성할 수 없습니다."
+msgid "Task creation is permitted for this column"
+msgstr "이 칼럼의 할일 생성이 허가되었습니다."
+msgid "Closing or opening a task is permitted for this column"
+msgstr "이 칼럼의 할일 열기 혹은 닫기가 허가되었습니다."
+msgid "Task creation is blocked for this column"
+msgstr "이 칼럼의 할일 생성이 거부되었습니다."
+msgid "Closing or opening a task is blocked for this column"
+msgstr "이 칼럼의 할일 열기 혹은 닫기가 거부되었습니다."
+msgid "Task creation is not permitted"
+msgstr "할일 생성이 거부되었습니다."
+msgid "Closing or opening a task is not permitted"
+msgstr "할일 열기 혹은 닫기가 거부되었습니다."
+msgid "New drag and drop restriction for the role \"%s\""
+msgstr "\"%s\" 역할의 새로운 드래그 앤 드롭 제약"
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "이 역할에 속한 사용자는 원본 및 대상 칼럼 사이에서만 할일을 이동할 수 있습니다"
+msgid "Remove a column restriction"
+msgstr "칼럼 제약 삭제"
+msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
+msgstr "칼럼 제약을 \"%s\" 에서 \"%s\"로 이동하시겠습니까?"
+msgid "New column restriction for the role \"%s\""
+msgstr "\"%s\" 역할의 새로운 칼럼 제약"
+msgid "Rule"
+msgstr "역할"
+msgid "Do you really want to remove this column restriction?"
+msgstr "칼럼 제약을 삭제하시겠습니까?"
+msgid "Custom roles"
+msgstr "정의 역할"
+msgid "New custom project role"
+msgstr "새로운 정의 프로젝트 역할"
+msgid "Edit custom project role"
+msgstr "정의 프로젝트 역할 수정"
+msgid "Remove a custom role"
+msgstr "정의 역할 삭제"
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "\"%s\" 정의 역할을 삭제하시겠습니까? 이 역할에 할당 된 모든 사람들이 프로젝트 멤버가됩니다."
+msgid "There is no custom role for this project."
+msgstr "이 프로젝트에는 정의 역할이 없습니다."
+msgid "New project restriction for the role \"%s\""
+msgstr "\"%s\" 역할의 새로운 프로젝트 제약"
+msgid "Restriction"
+msgstr "제약"
+msgid "Remove a project restriction"
+msgstr "프로젝트 제약 삭제"
+msgid "Do you really want to remove this project restriction: \"%s\"?"
+msgstr "\"%s\" 프로젝트 제약을 삭제하시겠습니까?"
+msgid "Duplicate to multiple projects"
+msgstr "다수의 프로젝트 복제"
+msgid "This field is required"
+msgstr "이 필드는 필수 항목입니다."
+msgid "Moving a task is not permitted"
+msgstr "할일 이동이 거부되었습니다."
+msgid "This value must be in the range %d to %d"
+msgstr "값의 범위는 %d 부터 %d 까지 입니다."
+msgid "You are not allowed to move this task."
+msgstr "당신은 할일 이동이 거부되었습니다."
+msgid "API User Access"
+msgstr ""
+msgid "Preview"
+msgstr ""
+msgid "Write"
+msgstr ""
+msgid "Write your text in Markdown"
+msgstr ""
+msgid "No personal API access token registered."
+msgstr ""
+msgid "Your personal API access token is \"%s\""
+msgstr ""
+msgid "Remove your token"
+msgstr ""
+msgid "Generate a new token"
+msgstr ""
+msgid "Showing %d-%d of %d"
+msgstr ""
+msgid "Outgoing Emails"
+msgstr ""
+msgid "Add or change currency rate"
+msgstr ""
+msgid "Reference currency: %s"
+msgstr ""
+msgid "Add custom filters"
+msgstr ""
+msgid "Export"
+msgstr ""
+msgid "Add link label"
+msgstr ""
+msgid "Incompatible Plugins"
+msgstr ""
+msgid "Compatibility"
+msgstr ""
+msgid "Permissions and ownership"
+msgstr ""
+msgid "Priorities"
+msgstr ""
+msgid "Close this window"
+msgstr ""
+msgid "Unable to upload this file."
+msgstr ""
+msgid "Import tasks"
+msgstr ""
+msgid "Choose a project"
+msgstr ""
+msgid "Profile"
+msgstr ""
+msgid "Application role"
+msgstr ""
+msgid "%d invitations were sent."
+msgstr ""
+msgid "%d invitation was sent."
+msgstr ""
+msgid "Unable to create this user."
+msgstr ""
+msgid "Kanboard Invitation"
+msgstr ""
+msgid "Visible on dashboard"
+msgstr ""
+msgid "Created at:"
+msgstr ""
+msgid "Updated at:"
+msgstr ""
+msgid "There is no custom filter."
+msgstr ""
+msgid "New User"
+msgstr ""
+msgid "Authentication"
+msgstr ""
+msgid "If checked, this user will use a third-party system for authentication."
+msgstr ""
+msgid "The password is necessary only for local users."
+msgstr ""
+msgid "You have been invited to register on Kanboard."
+msgstr ""
+msgid "Click here to join your team"
+msgstr ""
+msgid "Invite people"
+msgstr ""
+msgid "Emails"
+msgstr ""
+msgid "Enter one email address by line."
+msgstr ""
+msgid "Add these people to this project"
+msgstr ""
+msgid "Add this person to this project"
+msgstr ""
+msgid "Sign-up"
+msgstr ""
+msgid "Credentials"
+msgstr ""
+msgid "New user"
+msgstr ""
+msgid "This username is already taken"
+msgstr ""
+msgid "Your profile must have a valid email address."
+msgstr ""
+msgid "TRL - Turkish Lira"
+msgstr ""
+msgid "The project email is optional and could be used by several plugins."
+msgstr ""
+msgid "The project email must be unique across all projects"
+msgstr ""
+msgid "The email configuration has been disabled by the administrator."
+msgstr ""
+msgid "Close this project"
+msgstr ""
+msgid "Open this project"
+msgstr ""
+msgid "Close a project"
+msgstr ""
+msgid "Do you really want to close this project: \"%s\"?"
+msgstr ""
+msgid "Reopen a project"
+msgstr ""
+msgid "Do you really want to reopen this project: \"%s\"?"
+msgstr ""
+msgid "This project is open"
+msgstr ""
+msgid "This project is closed"
+msgstr ""
+msgid "Unable to upload files, check the permissions of your data folder."
+msgstr ""
+msgid "Another category with the same name exists in this project"
+msgstr ""
+msgid "Comment sent by email successfully."
+msgstr ""
+msgid "Sent by email to \"%s\" (%s)"
+msgstr ""
+msgid "Unable to read uploaded file."
+msgstr ""
+msgid "Database uploaded successfully."
+msgstr ""
+msgid "Task sent by email successfully."
+msgstr ""
+msgid "There is no category in this project."
+msgstr ""
+msgid "Send by email"
+msgstr ""
+msgid "Create and send a comment by email"
+msgstr ""
+msgid "Subject"
+msgstr ""
+msgid "Upload the database"
+msgstr ""
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr ""
+msgid "Database file"
+msgstr ""
+msgid "Upload"
+msgstr ""
+msgid "Your project must have at least one active swimlane."
+msgstr ""
+msgid "Project: %s"
+msgstr ""
+msgid "Automatic action not found: \"%s\""
+msgstr ""
+msgid "%d projects"
+msgstr ""
+msgid "%d project"
+msgstr ""
+msgid "There is no project."
+msgstr ""
+msgid "Sort"
+msgstr ""
+msgid "Project ID"
+msgstr ""
+msgid "Project name"
+msgstr ""
+msgid "Public"
+msgstr ""
+msgid "Personal"
+msgstr ""
+msgid "%d tasks"
+msgstr ""
+msgid "%d task"
+msgstr ""
+msgid "Task ID"
+msgstr ""
+msgid "Assign automatically a color when due date is expired"
+msgstr ""
+msgid "Total score in this column across all swimlanes"
+msgstr ""
+msgid "HRK - Kuna"
+msgstr ""
+msgid "ARS - Argentine Peso"
+msgstr ""
+msgid "COP - Colombian Peso"
+msgstr ""
+msgid "%d groups"
+msgstr ""
+msgid "%d group"
+msgstr ""
+msgid "Group ID"
+msgstr ""
+msgid "External ID"
+msgstr ""
+msgid "%d users"
+msgstr ""
+msgid "%d user"
+msgstr ""
+msgid "Hide subtasks"
+msgstr ""
+msgid "Show subtasks"
+msgstr ""
+msgid "Authentication Parameters"
+msgstr ""
+msgid "API Access"
+msgstr ""
+msgid "No users found."
+msgstr ""
+msgid "User ID"
+msgstr ""
+msgid "Notifications are activated"
+msgstr ""
+msgid "Notifications are disabled"
+msgstr ""
+msgid "User disabled"
+msgstr ""
+msgid "%d notifications"
+msgstr ""
+msgid "%d notification"
+msgstr ""
+msgid "There is no external integration installed."
+msgstr ""
+msgid "You are not allowed to update tasks assigned to someone else."
+msgstr ""
+msgid "You are not allowed to change the assignee."
+msgstr ""
+msgid "Task suppression is not permitted"
+msgstr ""
+msgid "Changing assignee is not permitted"
+msgstr ""
+msgid "Update only assigned tasks is permitted"
+msgstr ""
+msgid "Only for tasks assigned to the current user"
+msgstr ""
+msgid "My projects"
+msgstr ""
+msgid "You are not a member of any project."
+msgstr ""
+msgid "My subtasks"
+msgstr ""
+msgid "%d subtasks"
+msgstr ""
+msgid "%d subtask"
+msgstr ""
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr ""
+msgid "[DUPLICATE]"
+msgstr ""
+msgid "DKK - Danish Krona"
+msgstr ""
+msgid "Remove user from group"
+msgstr ""
+msgid "Assign the task to its creator"
+msgstr ""
+msgid "This task was sent by email to \"%s\" with subject \"%s\"."
+msgstr ""
+msgid "Predefined Email Subjects"
+msgstr ""
+msgid "Write one subject by line."
+msgstr ""
+msgid "Create another link"
+msgstr ""
+msgid "BRL - Brazilian Real"
+msgstr ""
+msgid "Add a new Kanboard task"
+msgstr ""
+msgid "Subtask not started"
+msgstr ""
+msgid "Subtask currently in progress"
+msgstr ""
+msgid "Subtask completed"
+msgstr ""
+msgid "Subtask added successfully."
+msgstr ""
+msgid "%d subtasks added successfully."
+msgstr ""
+msgid "Enter one subtask by line."
+msgstr ""
+msgid "Predefined Contents"
+msgstr ""
+msgid "Predefined contents"
+msgstr ""
+msgid "Predefined Task Description"
+msgstr ""
+msgid "Do you really want to remove this template? \"%s\""
+msgstr ""
+msgid "Add predefined task description"
+msgstr ""
+msgid "Predefined Task Descriptions"
+msgstr ""
+msgid "Template created successfully."
+msgstr ""
+msgid "Unable to create this template."
+msgstr ""
+msgid "Template updated successfully."
+msgstr ""
+msgid "Unable to update this template."
+msgstr ""
+msgid "Template removed successfully."
+msgstr ""
+msgid "Unable to remove this template."
+msgstr ""
+msgid "Template for the task description"
+msgstr ""
+msgid "The start date is greater than the end date"
+msgstr ""
+msgid "Tags must be separated by a comma"
+msgstr ""
+msgid "Only the task title is required"
+msgstr ""
+msgid "Creator Username"
+msgstr ""
+msgid "Color Name"
+msgstr ""
+msgid "Column Name"
+msgstr ""
+msgid "Swimlane Name"
+msgstr ""
+msgid "Time Estimated"
+msgstr ""
+msgid "Time Spent"
+msgstr ""
+msgid "External Link"
+msgstr ""
+msgid "This feature enables the iCal feed, RSS feed and the public board view."
+msgstr ""
+msgid "Stop the timer of all subtasks when moving a task to another column"
+msgstr ""
+msgid "Subtask Title"
+msgstr ""
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr ""
+msgid "days"
+msgstr ""
+msgid "minutes"
+msgstr ""
+msgid "seconds"
+msgstr ""
+msgid "Assign automatically a color when preset start date is reached"
+msgstr ""
+msgid "Move the task to another column once a predefined start date is reached"
+msgstr ""
+msgid "This task is now linked to the task %s with the relation \"%s\""
+msgstr ""
+msgid "The link with the relation \"%s\" to the task %s has been removed"
+msgstr ""
+msgid "Custom Filter:"
+msgstr ""
+msgid "Unable to find this group."
+msgstr ""
+msgid "%s moved the task #%d to the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the position %d in the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the swimlane \"%s\""
+msgstr ""
+msgid "%sh spent"
+msgstr ""
+msgid "%sh estimated"
+msgstr ""
+msgid "Select All"
+msgstr ""
+msgid "Unselect All"
+msgstr ""
+msgid "Apply action"
+msgstr ""
+msgid "Move selected tasks to another column or swimlane"
+msgstr ""
+msgid "Edit tasks in bulk"
+msgstr ""
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr ""
+msgid "Configure this project"
+msgstr ""
+msgid "Start now"
+msgstr ""
+msgid "%s removed a file from the task #%d"
+msgstr ""
+msgid "Attachment removed from task #%d: %s"
+msgstr ""
+msgid "No color"
+msgstr ""
+msgid "Attachment removed \"%s\""
+msgstr ""
+msgid "%s removed a file from the task %s"
+msgstr ""
+msgid "Move the task to another swimlane when assigned to a user"
+msgstr ""
+msgid "Destination swimlane"
+msgstr ""
+msgid "Assign a category when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Move the task to another swimlane when the category is changed"
+msgstr ""
+msgid "Reorder this column by priority (ASC)"
+msgstr ""
+msgid "Reorder this column by priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (ASC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee (A-Z)"
+msgstr ""
+msgid "Reorder this column by assignee (Z-A)"
+msgstr ""
+msgid "Reorder this column by due date (ASC)"
+msgstr ""
+msgid "Reorder this column by due date (DESC)"
+msgstr ""
+msgid "%s moved the task #%d \"%s\" to the project \"%s\""
+msgstr ""
+msgid "Task #%d \"%s\" has been moved to the project \"%s\""
+msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr ""
+msgid "HTTP Client:"
+msgstr ""
+msgid "Assigned"
+msgstr ""
+msgid "Task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied across swimlanes"
+msgstr ""
+msgid "Task limit: "
+msgstr ""
+msgid "Change to global tag"
+msgstr ""
+msgid "Do you really want to make the tag \"%s\" global?"
+msgstr ""
+msgid "Enable global tags for this project"
+msgstr ""
+msgid "Group membership(s):"
+msgstr ""
+msgid "%s is a member of the following group(s): %s"
+msgstr ""
+msgid "%d/%d group(s) shown"
+msgstr ""
+msgid "Subtask creation or modification"
+msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Comment"
+msgstr ""
+msgid "Collapse vertically"
+msgstr ""
+msgid "Expand vertically"
+msgstr ""
+msgid "MXN - Mexican Peso"
+msgstr ""
+msgid "Estimated vs actual time per column"
+msgstr ""
+msgid "HUF - Hungarian Forint"
+msgstr ""
+msgid "XBT - Bitcoin"
+msgstr ""
+msgid "You must select a file to upload as your avatar!"
+msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr ""
+msgid "No other projects found."
+msgstr ""
+msgid "Please choose a project you want to copy the tasks from."
+msgstr ""
+msgid "Import Tasks"
+msgstr ""
+msgid "Copy"
+msgstr ""
+msgid "Tasks copied successfully."
+msgstr ""
+msgid "Unable to copy tasks."
+msgstr ""
 

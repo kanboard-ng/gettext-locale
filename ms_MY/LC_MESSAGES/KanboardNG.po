@@ -1,2868 +1,2868 @@
 
- msgid 'number.decimals_separator'
- msgstr '.'
- msgid 'number.thousands_separator'
- msgstr ','
- msgid 'None'
- msgstr 'Tiada'
- msgid 'Edit'
- msgstr 'Sunting'
- msgid 'Remove'
- msgstr 'Hapus'
- msgid 'Yes'
- msgstr 'Ya'
- msgid 'No'
- msgstr 'Tidak'
- msgid 'cancel'
- msgstr 'batal'
- msgid 'or'
- msgstr 'atau'
- msgid 'Yellow'
- msgstr 'Kuning'
- msgid 'Blue'
- msgstr 'Biru'
- msgid 'Green'
- msgstr 'Hijau'
- msgid 'Purple'
- msgstr 'Ungu'
- msgid 'Red'
- msgstr 'Merah'
- msgid 'Orange'
- msgstr 'Oren'
- msgid 'Grey'
- msgstr 'Kelabu'
- msgid 'Brown'
- msgstr 'Coklat'
- msgid 'Deep Orange'
- msgstr 'Oren Gelap'
- msgid 'Dark Grey'
- msgstr 'Kelabu Malap'
- msgid 'Pink'
- msgstr 'Merah Jambu'
- msgid 'Teal'
- msgstr 'Teal'
- msgid 'Cyan'
- msgstr 'Sian'
- msgid 'Lime'
- msgstr 'Lime'
- msgid 'Light Green'
- msgstr 'Hijau Muda'
- msgid 'Amber'
- msgstr 'Amber'
- msgid 'Save'
- msgstr 'Simpan'
- msgid 'Login'
- msgstr 'Masuk'
- msgid 'Official website:'
- msgstr 'Laman rasmi :'
- msgid 'Unassigned'
- msgstr 'Belum ditugaskan'
- msgid 'View this task'
- msgstr 'Lihat tugas ini'
- msgid 'Remove user'
- msgstr 'Hapus pengguna'
- msgid 'Do you really want to remove this user: "%s"?'
- msgstr 'Anda yakin mahu menghapus pengguna ini : « %s » ?'
- msgid 'All users'
- msgstr 'Semua pengguna'
- msgid 'Username'
- msgstr 'Nama pengguna'
- msgid 'Password'
- msgstr 'Kata laluan'
- msgid 'Administrator'
- msgstr 'Pentadbir'
- msgid 'Sign in'
- msgstr 'Masuk'
- msgid 'Users'
- msgstr 'Para Pengguna'
- msgid 'Forbidden'
- msgstr 'Larangan'
- msgid 'Access Forbidden'
- msgstr 'Akses Dilarang'
- msgid 'Edit user'
- msgstr 'Ubah Pengguna'
- msgid 'Logout'
- msgstr 'Keluar'
- msgid 'Bad username or password'
- msgstr 'Nama pengguna atau kata laluan tidak sepadan'
- msgid 'Edit project'
- msgstr 'Ubah projek'
- msgid 'Name'
- msgstr 'Nama'
- msgid 'Projects'
- msgstr 'Projek'
- msgid 'No project'
- msgstr 'Tiada projek'
- msgid 'Project'
- msgstr 'Projek'
- msgid 'Status'
- msgstr 'Status'
- msgid 'Tasks'
- msgstr 'Tugasan'
- msgid 'Board'
- msgstr 'Papan'
- msgid 'Actions'
- msgstr 'Tindakan'
- msgid 'Inactive'
- msgstr 'Tidak Aktif'
- msgid 'Active'
- msgstr 'Aktif'
- msgid 'Unable to update this board.'
- msgstr 'Tidak berupaya mengemaskini papan ini'
- msgid 'Disable'
- msgstr 'Nyah-Upaya'
- msgid 'Enable'
- msgstr 'Aktifkan'
- msgid 'New project'
- msgstr 'Projek Baru'
- msgid 'Do you really want to remove this project: "%s"?'
- msgstr 'Anda yakin mahu menghapus projek ini : « %s » ?'
- msgid 'Remove project'
- msgstr 'Hapus projek'
- msgid 'Edit the board for "%s"'
- msgstr 'Ubah papan untuk « %s »'
- msgid 'Add a new column'
- msgstr 'Tambah kolom baru'
- msgid 'Title'
- msgstr 'Judul'
- msgid 'Assigned to %s'
- msgstr 'Ditugaskan ke %s'
- msgid 'Remove a column'
- msgstr 'Hapus kolom'
- msgid 'Unable to remove this column.'
- msgstr 'Tidak dapat menghapus kolom ini.'
- msgid 'Do you really want to remove this column: "%s"?'
- msgstr 'Apakah anda yakin akan menghapus kolom ini : « %s » ?'
- msgid 'Settings'
- msgstr 'Penetapan'
- msgid 'Application settings'
- msgstr 'Penetapan aplikasi'
- msgid 'Language'
- msgstr 'Bahasa'
- msgid 'Webhook token:'
- msgstr 'Token webhook :'
- msgid 'API token:'
- msgstr 'Token API :'
- msgid 'Database size:'
- msgstr 'Saiz pengkalan data:'
- msgid 'Download the database'
- msgstr 'Muat turun pengkalan data'
- msgid 'Optimize the database'
- msgstr 'Optimakan pengkalan data'
- msgid '(VACUUM command)'
- msgstr '(perintah VACUUM)'
- msgid '(Gzip compressed Sqlite file)'
- msgstr '(File Sqlite yang termampat Gzip)'
- msgid 'Close a task'
- msgstr 'Tutup tugas'
- msgid 'Column'
- msgstr 'Kolom'
- msgid 'Color'
- msgstr 'Warna'
- msgid 'Assignee'
- msgstr 'Orang yang ditugaskan'
- msgid 'Create another task'
- msgstr 'Buat tugas lain'
- msgid 'New task'
- msgstr 'Tugasan baru'
- msgid 'Open a task'
- msgstr 'Buka tugas'
- msgid 'Do you really want to open this task: "%s"?'
- msgstr 'Anda yakin untuk buka tugas ini : « %s » ?'
- msgid 'Back to the board'
- msgstr 'Kembali ke papan'
- msgid 'There is nobody assigned'
- msgstr 'Tidak ada orang yand ditugaskan'
- msgid 'Column on the board:'
- msgstr 'Kolom di dalam papan : '
- msgid 'Close this task'
- msgstr 'Tutup tugas ini'
- msgid 'Open this task'
- msgstr 'Buka tugas ini'
- msgid 'There is no description.'
- msgstr 'Tidak ada keterangan.'
- msgid 'Add a new task'
- msgstr 'Tambah tugas baru'
- msgid 'The username is required'
- msgstr 'Nama pengguna adalah wajib'
- msgid 'The maximum length is %d characters'
- msgstr 'Panjang maksimum adalah %d karakter'
- msgid 'The minimum length is %d characters'
- msgstr 'Panjang minimum adalah %d karakter'
- msgid 'The password is required'
- msgstr 'Kata laluan adalah wajib'
- msgid 'This value must be an integer'
- msgstr 'Nilai ini harus integer'
- msgid 'The username must be unique'
- msgstr 'Nama pengguna semestinya unik'
- msgid 'The user id is required'
- msgstr 'Id Pengguna adalah wajib'
- msgid 'Passwords don\'t match'
- msgstr 'Kata laluan tidak sepadan'
- msgid 'The confirmation is required'
- msgstr 'Pengesahan diperlukan'
- msgid 'The project is required'
- msgstr 'Projek diperlukan'
- msgid 'The id is required'
- msgstr 'Id diperlukan'
- msgid 'The project id is required'
- msgstr 'Id projek diperlukan'
- msgid 'The project name is required'
- msgstr 'Nama projek diperlukan'
- msgid 'The title is required'
- msgstr 'Judul diperlukan'
- msgid 'Settings saved successfully.'
- msgstr 'Penetapan berjaya disimpan.'
- msgid 'Unable to save your settings.'
- msgstr 'Tidak dapat menyimpan penetapan anda.'
- msgid 'Database optimization done.'
- msgstr 'Optimasi pengkalan data selesai.'
- msgid 'Your project has been created successfully.'
- msgstr 'Projek anda berhasil dibuat.'
- msgid 'Unable to create your project.'
- msgstr 'Tidak dapat membuat projek anda.'
- msgid 'Project updated successfully.'
- msgstr 'projek berhasil diperbaharui.'
- msgid 'Unable to update this project.'
- msgstr 'Tidak dapat memperbaharui projek ini.'
- msgid 'Unable to remove this project.'
- msgstr 'Tidak dapat menghapus projek ini.'
- msgid 'Project removed successfully.'
- msgstr 'projek berhasil dihapus.'
- msgid 'Project activated successfully.'
- msgstr 'projek berhasil diaktivasi.'
- msgid 'Unable to activate this project.'
- msgstr 'Tidak dapat mengaktifkan projek ini.'
- msgid 'Project disabled successfully.'
- msgstr 'projek berhasil dinonaktifkan.'
- msgid 'Unable to disable this project.'
- msgstr 'Tidak dapat menonaktifkan projek ini.'
- msgid 'Unable to open this task.'
- msgstr 'Tidak dapat membuka tugas ini.'
- msgid 'Task opened successfully.'
- msgstr 'Tugas berhasil dibuka.'
- msgid 'Unable to close this task.'
- msgstr 'Tidak dapat menutup tugas ini.'
- msgid 'Task closed successfully.'
- msgstr 'Tugas berhasil ditutup.'
- msgid 'Unable to update your task.'
- msgstr 'Tidak dapat memperbaharui tugas ini.'
- msgid 'Task updated successfully.'
- msgstr 'Tugas berhasil diperbaharui.'
- msgid 'Unable to create your task.'
- msgstr 'Tidak dapat membuat tugas anda.'
- msgid 'Task created successfully.'
- msgstr 'Tugas berhasil dibuat.'
- msgid 'User created successfully.'
- msgstr 'Pengguna berhasil dibuat.'
- msgid 'Unable to create your user.'
- msgstr 'Tidak dapat membuat pengguna anda.'
- msgid 'User updated successfully.'
- msgstr 'Pengguna berhasil diperbaharui.'
- msgid 'User removed successfully.'
- msgstr 'pengguna berhasil dihapus.'
- msgid 'Unable to remove this user.'
- msgstr 'Tidak dapat menghapus pengguna ini.'
- msgid 'Board updated successfully.'
- msgstr 'Papan berhasil diperbaharui.'
- msgid 'Ready'
- msgstr 'Siap'
- msgid 'Backlog'
- msgstr 'Tertunda'
- msgid 'Work in progress'
- msgstr 'Sedang dalam pengerjaan'
- msgid 'Done'
- msgstr 'Selesai'
- msgid 'Application version:'
- msgstr 'Versi aplikasi :'
- msgid 'Id'
- msgstr 'Id.'
- msgid 'Public link'
- msgstr 'Pautan publik'
- msgid 'Timezone'
- msgstr 'Zona waktu'
- msgid 'Sorry, I didn\'t find this information in my database!'
- msgstr 'Maaf, saya tidak menemukan informasi ini dalam basis data saya !'
- msgid 'Page not found'
- msgstr 'Halaman tidak ditemukan'
- msgid 'Complexity'
- msgstr 'Kompleksitas'
- msgid 'Task limit'
- msgstr 'Batas tugas.'
- msgid 'Task count'
- msgstr 'Jumlah tugas'
- msgid 'User'
- msgstr 'Pengguna'
- msgid 'Comments'
- msgstr 'Komentar'
- msgid 'Comment is required'
- msgstr 'Komentar diperlukan'
- msgid 'Comment added successfully.'
- msgstr 'Komentar berhasil ditambahkan.'
- msgid 'Unable to create your comment.'
- msgstr 'Tidak dapat menambahkan komentar anda.'
- msgid 'Due Date'
- msgstr 'Batas Tanggal Terakhir'
- msgid 'Invalid date'
- msgstr 'Tanggal tidak valid'
- msgid 'Automatic actions'
- msgstr 'Tindakan otomatis'
- msgid 'Your automatic action has been created successfully.'
- msgstr 'Tindakan otomatis anda berhasil dibuat.'
- msgid 'Unable to create your automatic action.'
- msgstr 'Tidak dapat membuat tindakan otomatis anda.'
- msgid 'Remove an action'
- msgstr 'Hapus tindakan'
- msgid 'Unable to remove this action.'
- msgstr 'Tidak dapat menghapus tindakan ini'
- msgid 'Action removed successfully.'
- msgstr 'Tindakan berhasil dihapus.'
- msgid 'Automatic actions for the project "%s"'
- msgstr 'Tindakan otomatis untuk projek ini « %s »'
- msgid 'Add an action'
- msgstr 'Tambah tindakan'
- msgid 'Event name'
- msgstr 'Nama acara'
- msgid 'Action'
- msgstr 'Tindakan'
- msgid 'Event'
- msgstr 'Acara'
- msgid 'When the selected event occurs execute the corresponding action.'
- msgstr 'Ketika acara yang dipilih terjadi, melakukan tindakan yang sesuai.'
- msgid 'Next step'
- msgstr 'Langkah selanjutnya'
- msgid 'Define action parameters'
- msgstr 'Definisi parameter tindakan'
- msgid 'Do you really want to remove this action: "%s"?'
- msgstr 'Apakah anda yakin akan menghapus tindakan ini « %s » ?'
- msgid 'Remove an automatic action'
- msgstr 'Hapus tindakan otomatis'
- msgid 'Assign the task to a specific user'
- msgstr 'Menetapkan tugas untuk pengguna tertentu'
- msgid 'Assign the task to the person who does the action'
- msgstr 'Memberikan tugas untuk orang yang melakukan tindakan'
- msgid 'Duplicate the task to another project'
- msgstr 'Duplikasi tugas ke projek lain'
- msgid 'Move a task to another column'
- msgstr 'Pindahkan tugas ke kolom lain'
- msgid 'Task modification'
- msgstr 'Modifikasi tugas'
- msgid 'Task creation'
- msgstr 'Membuat tugas'
- msgid 'Closing a task'
- msgstr 'Menutup tugas'
- msgid 'Assign a color to a specific user'
- msgstr 'Menetapkan warna untuk pengguna tertentu'
- msgid 'Position'
- msgstr 'Posisi'
- msgid 'Duplicate to project'
- msgstr 'Duplikasi ke projek lain'
- msgid 'Duplicate'
- msgstr 'Duplikasi'
- msgid 'Link'
- msgstr 'Pautan'
- msgid 'Comment updated successfully.'
- msgstr 'Komentar berhasil diperbaharui.'
- msgid 'Unable to update your comment.'
- msgstr 'Tidak dapat memperbaharui komentar anda.'
- msgid 'Remove a comment'
- msgstr 'Hapus komentar'
- msgid 'Comment removed successfully.'
- msgstr 'Komentar berhasil dihapus.'
- msgid 'Unable to remove this comment.'
- msgstr 'Tidak dapat menghapus komentar ini.'
- msgid 'Do you really want to remove this comment?'
- msgstr 'Apakah anda yakin akan menghapus komentar ini ?'
- msgid 'Current password for the user "%s"'
- msgstr 'Kata laluan saat ini untuk pengguna « %s »'
- msgid 'The current password is required'
- msgstr 'Kata laluan saat ini diperlukan'
- msgid 'Wrong password'
- msgstr 'Kata laluan salah'
- msgid 'Unknown'
- msgstr 'Tidak diketahui'
- msgid 'Last logins'
- msgstr 'Masuk terakhir'
- msgid 'Login date'
- msgstr 'Tanggal masuk'
- msgid 'Authentication method'
- msgstr 'Metode otentifikasi'
- msgid 'IP address'
- msgstr 'Alamat IP'
- msgid 'User agent'
- msgstr 'Agen Pengguna'
- msgid 'Persistent connections'
- msgstr 'Koneksi persisten'
- msgid 'No session.'
- msgstr 'Tidak ada sesi.'
- msgid 'Expiration date'
- msgstr 'Tanggal kadaluarsa'
- msgid 'Remember Me'
- msgstr 'Ingat Saya'
- msgid 'Creation date'
- msgstr 'Tanggal dibuat'
- msgid 'Everybody'
- msgstr 'Semua orang'
- msgid 'Open'
- msgstr 'Terbuka'
- msgid 'Closed'
- msgstr 'Ditutup'
- msgid 'Search'
- msgstr 'Cari'
- msgid 'Nothing found.'
- msgstr 'Tidak ditemukan.'
- msgid 'Due date'
- msgstr 'Batas tanggal terakhir'
- msgid 'Description'
- msgstr 'Deskripsi'
- msgid '%d comments'
- msgstr '%d komentar'
- msgid '%d comment'
- msgstr '%d komentar'
- msgid 'Email address invalid'
- msgstr 'Alamat email tidak valid'
- msgid 'Your external account is not linked anymore to your profile.'
- msgstr 'Akaun eksternal anda tidak lagi terhubung ke profil anda.'
- msgid 'Unable to unlink your external account.'
- msgstr 'Tidak dapat memutuskan Akaun eksternal anda.'
- msgid 'External authentication failed'
- msgstr 'Otentifikasi eksternal gagal'
- msgid 'Your external account is linked to your profile successfully.'
- msgstr 'Akaun eksternal anda berhasil dihubungkan ke profil anda.'
- msgid 'Email'
- msgstr 'Email'
- msgid 'Task removed successfully.'
- msgstr 'Tugas berhasil dihapus.'
- msgid 'Unable to remove this task.'
- msgstr 'Tidak dapat menghapus tugas ini.'
- msgid 'Remove a task'
- msgstr 'Hapus tugas'
- msgid 'Do you really want to remove this task: "%s"?'
- msgstr 'Apakah anda yakin akan menghapus tugas ini « %s » ?'
- msgid 'Assign automatically a color based on a category'
- msgstr 'Otomatis menetapkan warna berdasarkan kategori'
- msgid 'Assign automatically a category based on a color'
- msgstr 'Otomatis menetapkan kategori berdasarkan warna'
- msgid 'Task creation or modification'
- msgstr 'Tugas dibuat atau di mofifikasi'
- msgid 'Category'
- msgstr 'Kategori'
- msgid 'Category:'
- msgstr 'Kategori :'
- msgid 'Categories'
- msgstr 'Kategori'
- msgid 'Your category has been created successfully.'
- msgstr 'Kategori anda berhasil dibuat.'
- msgid 'This category has been updated successfully.'
- msgstr 'Kategori anda berhasil diperbaharui.'
- msgid 'Unable to update this category.'
- msgstr 'Tidak dapat memperbaharui kategori anda.'
- msgid 'Remove a category'
- msgstr 'Hapus kategori'
- msgid 'Category removed successfully.'
- msgstr 'Kategori berhasil dihapus.'
- msgid 'Unable to remove this category.'
- msgstr 'Tidak dapat menghapus kategori ini.'
- msgid 'Category modification for the project "%s"'
- msgstr 'Modifikasi kategori untuk projek « %s »'
- msgid 'Category Name'
- msgstr 'Nama Kategori'
- msgid 'Add a new category'
- msgstr 'Tambah kategori baru'
- msgid 'Do you really want to remove this category: "%s"?'
- msgstr 'Apakah anda yakin akan menghapus kategori ini « %s » ?'
- msgid 'All categories'
- msgstr 'Semua kategori'
- msgid 'No category'
- msgstr 'Tidak ada kategori'
- msgid 'The name is required'
- msgstr 'Nama diperlukan'
- msgid 'Remove a file'
- msgstr 'Hapus berkas'
- msgid 'Unable to remove this file.'
- msgstr 'Tidak dapat menghapus berkas ini.'
- msgid 'File removed successfully.'
- msgstr 'Berkas berhasil dihapus.'
- msgid 'Attach a document'
- msgstr 'Lampirkan dokumen'
- msgid 'Do you really want to remove this file: "%s"?'
- msgstr 'Apakah anda yakin akan menghapus berkas ini « %s » ?'
- msgid 'Attachments'
- msgstr 'Lampiran'
- msgid 'Edit the task'
- msgstr 'Modifikasi tugas'
- msgid 'Add a comment'
- msgstr 'Tambahkan komentar'
- msgid 'Edit a comment'
- msgstr 'Modifikasi komentar'
- msgid 'Summary'
- msgstr 'Ringkasan'
- msgid 'Time tracking'
- msgstr 'Pelacakan waktu'
- msgid 'Estimate:'
- msgstr 'Estimasi :'
- msgid 'Spent:'
- msgstr 'Menghabiskan:'
- msgid 'Do you really want to remove this sub-task?'
- msgstr 'Apakah anda yakin akan menghapus sub-tugas ini ?'
- msgid 'Remaining:'
- msgstr 'Tersisa:'
- msgid 'hours'
- msgstr 'jam'
- msgid 'estimated'
- msgstr 'perkiraan'
- msgid 'Sub-Tasks'
- msgstr 'Sub-tugas'
- msgid 'Add a sub-task'
- msgstr 'Tambahkan sub-tugas'
- msgid 'Original estimate'
- msgstr 'Perkiraan semula'
- msgid 'Create another sub-task'
- msgstr 'Tambahkan sub-tugas lainnya'
- msgid 'Time spent'
- msgstr 'Waktu yang dihabiskan'
- msgid 'Edit a sub-task'
- msgstr 'Modifikasi sub-tugas'
- msgid 'Remove a sub-task'
- msgstr 'Hapus sub-tugas'
- msgid 'The time must be a numeric value'
- msgstr 'Waktu harus berisikan numerik'
- msgid 'Todo'
- msgstr 'Yang harus dilakukan'
- msgid 'In progress'
- msgstr 'Sedang proses'
- msgid 'Sub-task removed successfully.'
- msgstr 'Sub-tugas berhasil dihapus.'
- msgid 'Unable to remove this sub-task.'
- msgstr 'Tidak dapat menghapus sub-tugas.'
- msgid 'Sub-task updated successfully.'
- msgstr 'Sub-tugas berhasil diperbaharui.'
- msgid 'Unable to update your sub-task.'
- msgstr 'Tidak dapat memperbaharui sub-tugas anda.'
- msgid 'Unable to create your sub-task.'
- msgstr 'Tidak dapat membuat sub-tugas anda.'
- msgid 'Maximum size: '
- msgstr 'Ukuran maksimum: '
- msgid 'Display another project'
- msgstr 'Lihat projek lain'
- msgid 'Created by %s'
- msgstr 'Dibuat oleh %s'
- msgid 'Tasks Export'
- msgstr 'Ekspor Tugas'
- msgid 'Start Date'
- msgstr 'Tanggal Mulai'
- msgid 'Execute'
- msgstr 'Eksekusi'
- msgid 'Task Id'
- msgstr 'Id Tugas'
- msgid 'Creator'
- msgstr 'Pembuat'
- msgid 'Modification date'
- msgstr 'Tanggal modifikasi'
- msgid 'Completion date'
- msgstr 'Tanggal penyelesaian'
- msgid 'Clone'
- msgstr 'Klon'
- msgid 'Project cloned successfully.'
- msgstr 'Kloning projek berhasil.'
- msgid 'Unable to clone this project.'
- msgstr 'Tidak dapat mengkloning projek.'
- msgid 'Enable email notifications'
- msgstr 'Aktifkan pemberitahuan dari email'
- msgid 'Task position:'
- msgstr 'Posisi tugas :'
- msgid 'The task #%d has been opened.'
- msgstr 'Tugas #%d telah dibuka.'
- msgid 'The task #%d has been closed.'
- msgstr 'Tugas #%d telah ditutup.'
- msgid 'Sub-task updated'
- msgstr 'Sub-tugas diperbaharui'
- msgid 'Title:'
- msgstr 'Judul :'
- msgid 'Status:'
- msgstr 'Status :'
- msgid 'Assignee:'
- msgstr 'Ditugaskan ke :'
- msgid 'Time tracking:'
- msgstr 'Pelacakan waktu :'
- msgid 'New sub-task'
- msgstr 'Sub-tugas baru'
- msgid 'New attachment added "%s"'
- msgstr 'Lampiran baru ditambahkan « %s »'
- msgid 'New comment posted by %s'
- msgstr 'Komentar baru ditambahkan oleh « %s »'
- msgid 'New comment'
- msgstr 'Komentar baru'
- msgid 'Comment updated'
- msgstr 'Komentar diperbaharui'
- msgid 'New subtask'
- msgstr 'Sub-tugas baru'
- msgid 'I only want to receive notifications for these projects:'
- msgstr 'Saya ingin menerima pemberitahuan hanya untuk projek-projek yang dipilih :'
- msgid 'view the task on Kanboard'
- msgstr 'lihat tugas di Kanboard'
- msgid 'Public access'
- msgstr 'Akses awam'
- msgid 'Disable public access'
- msgstr 'Nyahaktifkan akses awam'
- msgid 'Enable public access'
- msgstr 'Aktifkan akses awam'
- msgid 'Public access disabled'
- msgstr 'Akses awam dinyahaktif'
- msgid 'Move the task to another project'
- msgstr 'Pindahkan tugas ke projek lain'
- msgid 'Move to project'
- msgstr 'Pindahkan ke projek lain'
- msgid 'Do you really want to duplicate this task?'
- msgstr 'Anda yakin mengembarkan tugas ini ?'
- msgid 'Duplicate a task'
- msgstr 'Kembarkan tugas'
- msgid 'External accounts'
- msgstr 'Akaun luaran'
- msgid 'Account type'
- msgstr 'Jenis Akaun'
- msgid 'Local'
- msgstr 'Lokal'
- msgid 'Remote'
- msgstr 'Jauh'
- msgid 'Enabled'
- msgstr 'Aktif'
- msgid 'Disabled'
- msgstr 'Tidak aktif'
- msgid 'Login:'
- msgstr 'Nama pengguna :'
- msgid 'Full Name:'
- msgstr 'Nama:'
- msgid 'Email:'
- msgstr 'Emel:'
- msgid 'Notifications:'
- msgstr 'Makluman:'
- msgid 'Notifications'
- msgstr 'Makluman'
- msgid 'Account type:'
- msgstr 'Jenis Akaun :'
- msgid 'Edit profile'
- msgstr 'Sunting profil'
- msgid 'Change password'
- msgstr 'Rubah kata sandri'
- msgid 'Password modification'
- msgstr 'Modifikasi kata laluan'
- msgid 'External authentications'
- msgstr 'Otentifikasi eksternal'
- msgid 'Never connected.'
- msgstr 'Tidak pernah terhubung.'
- msgid 'No external authentication enabled.'
- msgstr 'Tidak ada otentifikasi eksternal yang aktif.'
- msgid 'Password modified successfully.'
- msgstr 'Kata laluan telah berjaya ditukar.'
- msgid 'Unable to change the password.'
- msgstr 'Tidak dapat merubah kata laluanr.'
- msgid 'Change category'
- msgstr 'Tukar kategori'
- msgid '%s updated the task %s'
- msgstr '%s memperbaharui tugas %s'
- msgid '%s opened the task %s'
- msgstr '%s membuka tugas %s'
- msgid '%s moved the task %s to the position #%d in the column "%s"'
- msgstr '%s memindahkan tugas %s ke posisi n°%d dalam kolom « %s »'
- msgid '%s moved the task %s to the column "%s"'
- msgstr '%s memindahkan tugas %s ke kolom « %s »'
- msgid '%s created the task %s'
- msgstr '%s membuat tugas %s'
- msgid '%s closed the task %s'
- msgstr '%s menutup tugas %s'
- msgid '%s created a subtask for the task %s'
- msgstr '%s membuat subtugas untuk tugas %s'
- msgid '%s updated a subtask for the task %s'
- msgstr '%s memperbaharui subtugas untuk tugas %s'
- msgid 'Assigned to %s with an estimate of %s/%sh'
- msgstr 'Ditugaskan untuk %s dengan perkiraan %s/%sh'
- msgid 'Not assigned, estimate of %sh'
- msgstr 'Tiada yang ditugaskan, perkiraan %sh'
- msgid '%s updated a comment on the task %s'
- msgstr '%s memperbaharui komentar pada tugas %s'
- msgid '%s commented the task %s'
- msgstr '%s memberikan komentar pada tugas %s'
- msgid '%s\'s activity'
- msgstr 'Aktifitas dari %s'
- msgid 'RSS feed'
- msgstr 'RSS feed'
- msgid '%s updated a comment on the task #%d'
- msgstr '%s memperbaharui komentar pada tugas n°%d'
- msgid '%s commented on the task #%d'
- msgstr '%s memberikan komentar pada tugas n°%d'
- msgid '%s updated a subtask for the task #%d'
- msgstr '%s memperbaharui subtugas untuk tugas n°%d'
- msgid '%s created a subtask for the task #%d'
- msgstr '%s membuat subtugas untuk tugas n°%d'
- msgid '%s updated the task #%d'
- msgstr '%s memperbaharui tugas n°%d'
- msgid '%s created the task #%d'
- msgstr '%s membuat tugas n°%d'
- msgid '%s closed the task #%d'
- msgstr '%s menutup tugas n°%d'
- msgid '%s opened the task #%d'
- msgstr '%s membuka tugas n°%d'
- msgid 'Activity'
- msgstr 'Aktifitas'
- msgid 'Default values are "%s"'
- msgstr 'Standar nilai adalah« %s »'
- msgid 'Default columns for new projects (Comma-separated)'
- msgstr 'Kolom default untuk projek baru (dipisahkan dengan koma)'
- msgid 'Task assignee change'
- msgstr 'Mengubah orang ditugaskan untuk tugas'
- msgid '%s changed the assignee of the task #%d to %s'
- msgstr '%s rubah orang yang ditugaskan dari tugas n%d ke %s'
- msgid '%s changed the assignee of the task %s to %s'
- msgstr '%s mengubah orang yang ditugaskan dari tugas %s ke %s'
- msgid 'New password for the user "%s"'
- msgstr 'Kata laluan baru untuk pengguna « %s »'
- msgid 'Choose an event'
- msgstr 'Pilih sebuah acara'
- msgid 'Create a task from an external provider'
- msgstr 'Buat tugas dari pemasok eksternal'
- msgid 'Change the assignee based on an external username'
- msgstr 'Rubah penugasan berdasarkan nama pengguna eksternal'
- msgid 'Change the category based on an external label'
- msgstr 'Rubah kategori berdasarkan label eksternal'
- msgid 'Reference'
- msgstr 'Referensi'
- msgid 'Label'
- msgstr 'Label'
- msgid 'Database'
- msgstr 'Pengkalan data'
- msgid 'About'
- msgstr 'Tentang'
- msgid 'Database driver:'
- msgstr 'Driver pengkalan data:'
- msgid 'Board settings'
- msgstr 'Pengaturan papan'
- msgid 'Webhook settings'
- msgstr 'Penetapan webhook'
- msgid 'Reset token'
- msgstr 'Menetap semula token'
- msgid 'API endpoint:'
- msgstr 'API endpoint :'
- msgid 'Refresh interval for personal board'
- msgstr 'Interval pembaruan untuk papan pribadi'
- msgid 'Refresh interval for public board'
- msgstr 'Interval pembaruan untuk papan publik'
- msgid 'Task highlight period'
- msgstr 'Periode puncak tugas'
- msgid 'Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)'
- msgstr 'Periode (dalam detik) untuk mempertimbangkan tugas yang baru dimodifikasi (0 untuk menonaktifkan, standar 2 hari)'
- msgid 'Frequency in second (60 seconds by default)'
- msgstr 'Frequensi dalam detik (standar 60 saat)'
- msgid 'Frequency in second (0 to disable this feature, 10 seconds by default)'
- msgstr 'Frekuensi dalam detik (0 untuk menonaktifkan fitur ini, standar 10 detik)'
- msgid 'Application URL'
- msgstr 'URL Aplikasi'
- msgid 'Token regenerated.'
- msgstr 'Token diregenerasi.'
- msgid 'Date format'
- msgstr 'Format tarikh'
- msgid 'ISO format is always accepted, example: "%s" and "%s"'
- msgstr 'Format ISO selalunya diterima, contoh: « %s » et « %s »'
- msgid 'New personal project'
- msgstr 'Projek peribadi baharu'
- msgid 'This project is personal'
- msgstr 'projek ini adalah peribadi'
- msgid 'Add'
- msgstr 'Tambah'
- msgid 'Start date'
- msgstr 'Tarikh mula'
- msgid 'Time estimated'
- msgstr 'Anggaran masa'
- msgid 'There is nothing assigned to you.'
- msgstr 'Tidak ada yang diberikan kepada anda.'
- msgid 'My tasks'
- msgstr 'Tugas saya'
- msgid 'Activity stream'
- msgstr 'Arus aktifitas'
- msgid 'Dashboard'
- msgstr 'Dasbor'
- msgid 'Confirmation'
- msgstr 'Konfirmasi'
- msgid 'Webhooks'
- msgstr 'Webhooks'
- msgid 'API'
- msgstr 'API'
- msgid 'Create a comment from an external provider'
- msgstr 'Buat komentar dari pemasok eksternal'
- msgid 'Project management'
- msgstr 'Manajemen projek'
- msgid 'Columns'
- msgstr 'Kolom'
- msgid 'Task'
- msgstr 'Tugas'
- msgid 'Percentage'
- msgstr 'Persentasi'
- msgid 'Number of tasks'
- msgstr 'Jumlah dari tugas'
- msgid 'Task distribution'
- msgstr 'Pembagian tugas'
- msgid 'Analytics'
- msgstr 'Analitis'
- msgid 'Subtask'
- msgstr 'Subtugas'
- msgid 'User repartition'
- msgstr 'Partisi ulang pengguna'
- msgid 'Clone this project'
- msgstr 'Gandakan projek ini'
- msgid 'Column removed successfully.'
- msgstr 'Kolom berhasil dihapus.'
- msgid 'Not enough data to show the graph.'
- msgstr 'Tidak cukup data untuk menampilkan grafik.'
- msgid 'Previous'
- msgstr 'Sebelumnya'
- msgid 'The id must be an integer'
- msgstr 'Id harus integer'
- msgid 'The project id must be an integer'
- msgstr 'Id projek harus integer'
- msgid 'The status must be an integer'
- msgstr 'Status harus integer'
- msgid 'The subtask id is required'
- msgstr 'Id subtugas diperlukan'
- msgid 'The subtask id must be an integer'
- msgstr 'Id subtugas harus integer'
- msgid 'The task id is required'
- msgstr 'Id tugas diperlukan'
- msgid 'The task id must be an integer'
- msgstr 'Id tugas harus integer'
- msgid 'The user id must be an integer'
- msgstr 'Id user harus integer'
- msgid 'This value is required'
- msgstr 'Nilai ini diperlukan'
- msgid 'This value must be numeric'
- msgstr 'Nilai ini harus angka'
- msgid 'Unable to create this task.'
- msgstr 'Tidak dapat membuat tugas ini'
- msgid 'Cumulative flow diagram'
- msgstr 'Diagram alir kumulatif'
- msgid 'Daily project summary'
- msgstr 'Ringkasan projek harian'
- msgid 'Daily project summary export'
- msgstr 'Ekspot ringkasan projek harian'
- msgid 'Exports'
- msgstr 'Ekspor'
- msgid 'This export contains the number of tasks per column grouped per day.'
- msgstr 'Ekspor ini berisi jumlah dari tugas per kolom dikelompokan perhari.'
- msgid 'Active swimlanes'
- msgstr 'Swimlanes aktif'
- msgid 'Add a new swimlane'
- msgstr 'Tambah swimlane baharu'
- msgid 'Default swimlane'
- msgstr 'Piawai swimlane'
- msgid 'Do you really want to remove this swimlane: "%s"?'
- msgstr 'Anda yakin untuk menghapus swimlane ini : « %s » ?'
- msgid 'Inactive swimlanes'
- msgstr 'Swimlanes tidak aktif'
- msgid 'Remove a swimlane'
- msgstr 'Padam swimlane'
- msgid 'Swimlane modification for the project "%s"'
- msgstr 'Modifikasi swimlane untuk projek « %s »'
- msgid 'Swimlane removed successfully.'
- msgstr 'Swimlane telah dipadamkan.'
- msgid 'Swimlanes'
- msgstr 'Swimlanes'
- msgid 'Swimlane updated successfully.'
- msgstr 'Swimlane telah dikemaskini.'
- msgid 'Unable to remove this swimlane.'
- msgstr 'Tidak dapat menghapus swimlane ini.'
- msgid 'Unable to update this swimlane.'
- msgstr 'Tidak dapat memperbaharui swimlane ini.'
- msgid 'Your swimlane has been created successfully.'
- msgstr 'Swimlane anda berhasil dibuat.'
- msgid 'Example: "Bug, Feature Request, Improvement"'
- msgstr 'Contoh: « Insiden, Permintaan Ciri, Pembaikan »'
- msgid 'Default categories for new projects (Comma-separated)'
- msgstr 'Piawaian kategori untuk projek baru (asingkan guna koma)'
- msgid 'Integrations'
- msgstr 'Integrasi'
- msgid 'Integration with third-party services'
- msgstr 'Integrasi dengan khidmat pihak ketiga'
- msgid 'Subtask Id'
- msgstr 'Id Subtugas'
- msgid 'Subtasks'
- msgstr 'Subtugas'
- msgid 'Subtasks Export'
- msgstr 'Ekspot Subtugas'
- msgid 'Task Title'
- msgstr 'Judul Tugas'
- msgid 'Untitled'
- msgstr 'Tanpa nama'
- msgid 'Application default'
- msgstr 'Aplikasi Piawaian'
- msgid 'Language:'
- msgstr 'Bahasa:'
- msgid 'Timezone:'
- msgstr 'Zon masa:'
- msgid 'All columns'
- msgstr 'Semua kolom'
- msgid 'Next'
- msgstr 'Selanjutnya'
- msgid '#%d'
- msgstr 'n°%d'
- msgid 'All swimlanes'
- msgstr 'Semua swimlane'
- msgid 'All colors'
- msgstr 'Semua warna'
- msgid 'Moved to column %s'
- msgstr 'Pindah ke kolom %s'
- msgid 'User dashboard'
- msgstr 'Papan Kenyataan pengguna'
- msgid 'Allow only one subtask in progress at the same time for a user'
- msgstr 'Izinkan hanya satu subtugas dalam proses secara bersamaan untuk satu pengguna'
- msgid 'Edit column "%s"'
- msgstr 'Modifikasi kolom « %s »'
- msgid 'Select the new status of the subtask: "%s"'
- msgstr 'Pilih status baru untuk subtugas : « %s »'
- msgid 'Subtask timesheet'
- msgstr 'Subtugas absen'
- msgid 'There is nothing to show.'
- msgstr 'Tidak ada yang dapat diperlihatkan.'
- msgid 'Time Tracking'
- msgstr 'Pelacakan waktu'
- msgid 'You already have one subtask in progress'
- msgstr 'Anda sudah ada satu subtugas dalam proses'
- msgid 'Which parts of the project do you want to duplicate?'
- msgstr 'Bagian dalam projek mana yang ingin anda duplikasi?'
- msgid 'Disallow login form'
- msgstr 'Larang formulir masuk'
- msgid 'Start'
- msgstr 'Mula'
- msgid 'End'
- msgstr 'Selesai'
- msgid 'Task age in days'
- msgstr 'Usia tugas dalam bentuk harian'
- msgid 'Days in this column'
- msgstr 'Hari dalam kolom ini'
- msgid '%dd'
- msgstr '%dj'
- msgid 'Add a new link'
- msgstr 'Tambah Pautan baru'
- msgid 'Do you really want to remove this link: "%s"?'
- msgstr 'Anda yakin akan menghapus Pautan ini : « %s » ?'
- msgid 'Do you really want to remove this link with task #%d?'
- msgstr 'Anda yakin akan menghapus Pautan ini dengan tugas n°%d ?'
- msgid 'Field required'
- msgstr 'Medan diperlukan'
- msgid 'Link added successfully.'
- msgstr 'Pautan berhasil ditambahkan.'
- msgid 'Link updated successfully.'
- msgstr 'Pautan berhasil diperbaharui.'
- msgid 'Link removed successfully.'
- msgstr 'Pautan berhasil dihapus.'
- msgid 'Link labels'
- msgstr 'Label Pautan'
- msgid 'Link modification'
- msgstr 'Modifikasi Pautan'
- msgid 'Opposite label'
- msgstr 'Label berlawanan'
- msgid 'Remove a link'
- msgstr 'Hapus Pautan'
- msgid 'The labels must be different'
- msgstr 'Label harus berbeda'
- msgid 'There is no link.'
- msgstr 'Tidak ada Pautan.'
- msgid 'This label must be unique'
- msgstr 'Label ini harus unik'
- msgid 'Unable to create your link.'
- msgstr 'Tidak dapat membuat Pautan anda.'
- msgid 'Unable to update your link.'
- msgstr 'Tidak dapat memperbaharui Pautan anda.'
- msgid 'Unable to remove this link.'
- msgstr 'Tidak dapat menghapus Pautan ini.'
- msgid 'relates to'
- msgstr 'berhubungan dengan'
- msgid 'blocks'
- msgstr 'blok'
- msgid 'is blocked by'
- msgstr 'diblokir oleh'
- msgid 'duplicates'
- msgstr 'duplikat'
- msgid 'is duplicated by'
- msgstr 'diduplikasi oleh'
- msgid 'is a child of'
- msgstr 'anak dari'
- msgid 'is a parent of'
- msgstr 'orant tua dari'
- msgid 'targets milestone'
- msgstr 'milestone target'
- msgid 'is a milestone of'
- msgstr 'adalah milestone dari'
- msgid 'fixes'
- msgstr 'perbaikan'
- msgid 'is fixed by'
- msgstr 'diperbaiki oleh'
- msgid 'This task'
- msgstr 'Tugas ini'
- msgid '<1h'
- msgstr '<1h'
- msgid '%dh'
- msgstr '%dh'
- msgid 'Expand tasks'
- msgstr 'Perluas tugas'
- msgid 'Collapse tasks'
- msgstr 'Lipat tugas'
- msgid 'Expand/collapse tasks'
- msgstr 'Perluas/lipat tugas'
- msgid 'Close dialog box'
- msgstr 'Tutup kotak dialog'
- msgid 'Submit a form'
- msgstr 'Submit formulir'
- msgid 'Board view'
- msgstr 'Table halaman'
- msgid 'Keyboard shortcuts'
- msgstr 'pintas keyboard'
- msgid 'Open board switcher'
- msgstr 'Buka table switcher'
- msgid 'Application'
- msgstr 'Aplikasi'
- msgid 'Compact view'
- msgstr 'Tampilan kompak'
- msgid 'Horizontal scrolling'
- msgstr 'Horisontal bergulir'
- msgid 'Compact/wide view'
- msgstr 'Beralih antara tampilan kompak dan diperluas'
- msgid 'Currency'
- msgstr 'Mata uang'
- msgid 'Personal project'
- msgstr 'projek pribadi'
- msgid 'AUD - Australian Dollar'
- msgstr 'AUD - Dollar Australia'
- msgid 'CAD - Canadian Dollar'
- msgstr 'CAD - Dollar Kanada'
- msgid 'CHF - Swiss Francs'
- msgstr 'CHF - Swiss Prancis'
- msgid 'Custom Stylesheet'
- msgstr 'Kustomisasi Stylesheet'
- msgid 'EUR - Euro'
- msgstr 'EUR - Euro'
- msgid 'GBP - British Pound'
- msgstr 'GBP - Poundsterling inggris'
- msgid 'INR - Indian Rupee'
- msgstr 'INR - Rupe India'
- msgid 'JPY - Japanese Yen'
- msgstr 'JPY - Yen Jepang'
- msgid 'NZD - New Zealand Dollar'
- msgstr 'NZD - Dollar Selandia baru'
- msgid 'RSD - Serbian dinar'
- msgstr 'RSD - Dinar Serbia'
- msgid 'CNY - Chinese Yuan'
- msgstr ''
- msgid 'USD - US Dollar'
- msgstr 'USD - Dollar Amerika'
- msgid 'VES - Venezuelan Bolívar'
- msgstr ''
- msgid 'Destination column'
- msgstr 'Kolom tujuan'
- msgid 'Move the task to another column when assigned to a user'
- msgstr 'Pindahkan tugas ke kolom lain ketika ditugaskan ke pengguna'
- msgid 'Move the task to another column when assignee is cleared'
- msgstr 'Pindahkan tugas ke kolom lain ketika orang yang ditugaskan dibersihkan'
- msgid 'Source column'
- msgstr 'Sumber kolom'
- msgid 'Transitions'
- msgstr 'Transisi'
- msgid 'Executer'
- msgstr 'Eksekusi'
- msgid 'Time spent in the column'
- msgstr 'Waktu yang dihabiskan dalam kolom'
- msgid 'Task transitions'
- msgstr 'Transisi tugas'
- msgid 'Task transitions export'
- msgstr 'Ekspor transisi tugas'
- msgid 'This report contains all column moves for each task with the date, the user and the time spent for each transition.'
- msgstr 'Laporan ini berisi semua kolom yang pindah untuk setiap tugas dengan tanggal, pengguna dan waktu yang dihabiskan untuk setiap transisi.'
- msgid 'Currency rates'
- msgstr 'Nilai tukar mata uang'
- msgid 'Rate'
- msgstr 'Tarif'
- msgid 'Change reference currency'
- msgstr 'Mengubah referensi mata uang'
- msgid 'Reference currency'
- msgstr 'Referensi mata uang'
- msgid 'The currency rate has been added successfully.'
- msgstr 'Nilai tukar mata uang berhasil ditambahkan.'
- msgid 'Unable to add this currency rate.'
- msgstr 'Tidak dapat menambahkan nilai tukar mata uang'
- msgid 'Webhook URL'
- msgstr 'URL webhook'
- msgid '%s removed the assignee of the task %s'
- msgstr '%s menghapus penugasan dari tugas %s'
- msgid 'Information'
- msgstr 'Informasi'
- msgid 'Check two factor authentication code'
- msgstr 'Cek dua faktor kode otentifikasi'
- msgid 'The two factor authentication code is not valid.'
- msgstr 'Kode dua faktor kode otentifikasi tidak valid.'
- msgid 'The two factor authentication code is valid.'
- msgstr 'Kode dua faktor kode otentifikasi valid.'
- msgid 'Code'
- msgstr 'Kode'
- msgid 'Two factor authentication'
- msgstr 'Dua faktor otentifikasi'
- msgid 'This QR code contains the key URI: '
- msgstr 'kode QR ini mengandung kunci URI : '
- msgid 'Check my code'
- msgstr 'Memeriksa kode saya'
- msgid 'Secret key: '
- msgstr 'Kunci rahasia : '
- msgid 'Test your device'
- msgstr 'Menguji perangkat anda'
- msgid 'Assign a color when the task is moved to a specific column'
- msgstr 'Menetapkan warna ketika tugas tersebut dipindahkan ke kolom tertentu'
- msgid '%s via Kanboard'
- msgstr '%s via Kanboard'
- msgid 'Burndown chart'
- msgstr 'Grafik Burndown'
- msgid 'This chart show the task complexity over the time (Work Remaining).'
- msgstr 'Grafik ini menunjukkan kompleksitas tugas dari waktu ke waktu (Sisa Pekerjaan).'
- msgid 'Screenshot taken %s'
- msgstr 'Screenshot diambil %s'
- msgid 'Add a screenshot'
- msgstr 'Tambah screenshot'
- msgid 'Take a screenshot and press CTRL+V or ⌘+V to paste here.'
- msgstr ''
- msgid 'Screenshot uploaded successfully.'
- msgstr 'Screenshot berhasil diunggah.'
- msgid 'SEK - Swedish Krona'
- msgstr 'SEK - Krona Swedia'
- msgid 'Identifier'
- msgstr 'Identifier'
- msgid 'Disable two factor authentication'
- msgstr 'Matikan dua faktor otentifikasi'
- msgid 'Do you really want to disable the two factor authentication for this user: "%s"?'
- msgstr 'Apakah anda yakin akan mematikan dua faktor otentifikasi untuk pengguna ini : « %s » ?'
- msgid 'Edit link'
- msgstr 'Modifikasi Pautan'
- msgid 'Start to type task title...'
- msgstr 'Mulai mengetik judul tugas...'
- msgid 'A task cannot be linked to itself'
- msgstr 'Sebuah tugas tidak dapat dikaitkan dengan dirinya sendiri'
- msgid 'The exact same link already exists'
- msgstr 'Pautan yang sama persis sudah ada'
- msgid 'Recurrent task is scheduled to be generated'
- msgstr 'Tugas berulang dijadwalkan akan dihasilkan'
- msgid 'Score'
- msgstr 'Skor'
- msgid 'The identifier must be unique'
- msgstr 'Identifier harus unik'
- msgid 'This linked task id doesn\'t exists'
- msgstr 'Id tugas terkait tidak ada'
- msgid 'This value must be alphanumeric'
- msgstr 'Nilai harus alfanumerik'
- msgid 'Edit recurrence'
- msgstr 'Modifikasi pengulangan'
- msgid 'Generate recurrent task'
- msgstr 'Menghasilkan tugas berulang'
- msgid 'Trigger to generate recurrent task'
- msgstr 'Memicu untuk menghasilkan tugas berulang'
- msgid 'Factor to calculate new due date'
- msgstr 'Faktor untuk menghitung tanggal jatuh tempo baru'
- msgid 'Timeframe to calculate new due date'
- msgstr 'Jangka waktu untuk menghitung tanggal jatuh tempo baru'
- msgid 'Base date to calculate new due date'
- msgstr 'Tanggal dasar untuk menghitung tanggal jatuh tempo baru'
- msgid 'Action date'
- msgstr 'Tanggal aksi'
- msgid 'Base date to calculate new due date: '
- msgstr 'Tanggal dasar untuk menghitung tanggal jatuh tempo baru: '
- msgid 'This task has created this child task: '
- msgstr 'Tugas ini telah menciptakan tugas anak ini: '
- msgid 'Day(s)'
- msgstr 'Hari'
- msgid 'Existing due date'
- msgstr 'Batas waktu yang ada'
- msgid 'Factor to calculate new due date: '
- msgstr 'Faktor untuk menghitung tanggal jatuh tempo baru: '
- msgid 'Month(s)'
- msgstr 'Bulan'
- msgid 'This task has been created by: '
- msgstr 'Tugas ini telah dibuat oleh:'
- msgid 'Recurrent task has been generated:'
- msgstr 'Tugas berulang telah dihasilkan:'
- msgid 'Timeframe to calculate new due date: '
- msgstr 'Jangka waktu untuk menghitung tanggal jatuh tempo baru: '
- msgid 'Trigger to generate recurrent task: '
- msgstr 'Pemicu untuk menghasilkan tugas berulang: '
- msgid 'When task is closed'
- msgstr 'Ketika tugas ditutup'
- msgid 'When task is moved from first column'
- msgstr 'Ketika tugas dipindahkan dari kolom pertama'
- msgid 'When task is moved to last column'
- msgstr 'Ketika tugas dipindahkan ke kolom terakhir'
- msgid 'Year(s)'
- msgstr 'Tahun'
- msgid 'Project settings'
- msgstr 'Pengaturan projek'
- msgid 'Automatically update the start date'
- msgstr 'Otomatikkan pengemaskinian tanggal'
- msgid 'iCal feed'
- msgstr 'iCal feed'
- msgid 'Preferences'
- msgstr 'Keutamaan'
- msgid 'Security'
- msgstr 'Keamanan'
- msgid 'Two factor authentication disabled'
- msgstr 'Otentifikasi dua faktor dimatikan'
- msgid 'Two factor authentication enabled'
- msgstr 'Otentifikasi dua faktor dihidupkan'
- msgid 'Unable to update this user.'
- msgstr 'Tidak dapat memperbarui pengguna ini.'
- msgid 'There is no user management for personal projects.'
- msgstr 'Tidak ada manajemen pengguna untuk projek-projek pribadi.'
- msgid 'User that will receive the email'
- msgstr 'Pengguna yang akan menerima email'
- msgid 'Email subject'
- msgstr 'Subjek Emel'
- msgid 'Date'
- msgstr 'Tanggal'
- msgid 'Add a comment log when moving the task between columns'
- msgstr 'Menambahkan log komentar ketika memindahkan tugas antara kolom'
- msgid 'Move the task to another column when the category is changed'
- msgstr 'Pindahkan tugas ke kolom lain ketika kategori berubah'
- msgid 'Send a task by email to someone'
- msgstr 'Kirim tugas melalui email ke seseorang'
- msgid 'Reopen a task'
- msgstr 'Membuka kembali tugas'
- msgid 'Notification'
- msgstr 'Pemberitahuan'
- msgid '%s moved the task #%d to the first swimlane'
- msgstr '%s memindahkan tugas n°%d ke swimlane pertama'
- msgid 'Swimlane'
- msgstr 'Swimlane'
- msgid '%s moved the task %s to the first swimlane'
- msgstr '%s memindahkan tugas %s ke swimlane pertama'
- msgid '%s moved the task %s to the swimlane "%s"'
- msgstr '%s memindahkan tugas %s ke swimlane « %s »'
- msgid 'This report contains all subtasks information for the given date range.'
- msgstr 'Laporan ini berisi semua informasi subtugas untuk rentang tanggal tertentu.'
- msgid 'This report contains all tasks information for the given date range.'
- msgstr 'Laporan ini berisi semua informasi tugas untuk rentang tanggal tertentu.'
- msgid 'Project activities for %s'
- msgstr 'Aktifitas projek untuk « %s »'
- msgid 'view the board on Kanboard'
- msgstr 'lihat papan di Kanboard'
- msgid 'The task has been moved to the first swimlane'
- msgstr 'Tugas telah dipindahkan ke swimlane pertama'
- msgid 'The task has been moved to another swimlane:'
- msgstr 'Tugas telah dipindahkan ke swimlane lain:'
- msgid 'New title: %s'
- msgstr 'Judul baru : %s'
- msgid 'The task is not assigned anymore'
- msgstr 'Tugas tidak ditugaskan lagi'
- msgid 'New assignee: %s'
- msgstr 'Penerima baru : %s'
- msgid 'There is no category now'
- msgstr 'Tidak ada kategori untuk sekarang'
- msgid 'New category: %s'
- msgstr 'Kategori baru : %s'
- msgid 'New color: %s'
- msgstr 'Warna baru : %s'
- msgid 'New complexity: %d'
- msgstr 'Kompleksitas baru : %d'
- msgid 'The due date has been removed'
- msgstr 'Tanggal jatuh tempo telah dihapus'
- msgid 'There is no description anymore'
- msgstr 'Tidak ada deskripsi lagi'
- msgid 'Recurrence settings has been modified'
- msgstr 'Pengaturan pengulangan telah dimodifikasi'
- msgid 'Time spent changed: %sh'
- msgstr 'Waktu yang dihabiskan berubah : %sh'
- msgid 'Time estimated changed: %sh'
- msgstr 'Perkiraan waktu berubah : %sh'
- msgid 'The field "%s" has been updated'
- msgstr 'Field « %s » telah diperbaharui'
- msgid 'The description has been modified:'
- msgstr 'Deskripsi telah dimodifikasi'
- msgid 'Do you really want to close the task "%s" as well as all subtasks?'
- msgstr 'Apakah anda yakin akan menutup tugas « %s » beserta semua sub-tugasnya ?'
- msgid 'I want to receive notifications for:'
- msgstr 'Saya ingin menerima pemberitahuan untuk :'
- msgid 'All tasks'
- msgstr 'Semua tugas'
- msgid 'Only for tasks assigned to me'
- msgstr 'Hanya untuk tugas yang ditugaskan ke saya'
- msgid 'Only for tasks created by me'
- msgstr 'Hanya untuk tugas yang dibuat oleh saya'
- msgid 'Only for tasks created by me and tasks assigned to me'
- msgstr 'Hanya untuk tugas yang dibuat oleh saya dan ditugaskan ke saya'
- msgid '%%Y-%%m-%%d'
- msgstr '%%d/%%m/%%Y'
- msgid 'Total for all columns'
- msgstr 'Total untuk semua kolom'
- msgid 'You need at least 2 days of data to show the chart.'
- msgstr 'Anda memerlukan setidaknya 2 hari dari data yang menunjukkan grafik.'
- msgid '<15m'
- msgstr '<15m'
- msgid '<30m'
- msgstr '<30m'
- msgid 'Stop timer'
- msgstr 'Hentikan timer'
- msgid 'Start timer'
- msgstr 'Mulai timer'
- msgid 'My activity stream'
- msgstr 'Aliran kegiatan saya'
- msgid 'Search tasks'
- msgstr 'Cari tugas'
- msgid 'Reset filters'
- msgstr 'Reset ulang filter'
- msgid 'My tasks due tomorrow'
- msgstr 'Tugas saya yang berakhir besok'
- msgid 'Tasks due today'
- msgstr 'Tugas yang berakhir hari ini'
- msgid 'Tasks due tomorrow'
- msgstr 'Tugas yang berakhir besok'
- msgid 'Tasks due yesterday'
- msgstr 'Tugas yang berakhir kemarin'
- msgid 'Closed tasks'
- msgstr 'Tugas yang ditutup'
- msgid 'Open tasks'
- msgstr 'Buka Tugas'
- msgid 'Not assigned'
- msgstr 'Tidak ditugaskan'
- msgid 'View advanced search syntax'
- msgstr 'Lihat sintaks pencarian lanjutan'
- msgid 'Overview'
- msgstr 'Ikhtisar'
- msgid 'Board/Calendar/List view'
- msgstr 'Tampilan Papan/Kalender/Daftar'
- msgid 'Switch to the board view'
- msgstr 'Beralih ke tampilan papan'
- msgid 'Switch to the list view'
- msgstr 'Beralih ke tampilan daftar'
- msgid 'Go to the search/filter box'
- msgstr 'Pergi ke kotak pencarian/filter'
- msgid 'There is no activity yet.'
- msgstr 'Tidak ada aktifitas saat ini.'
- msgid 'No tasks found.'
- msgstr 'Tidak ada tugas yang ditemukan.'
- msgid 'Keyboard shortcut: "%s"'
- msgstr 'Keyboard shortcut : « %s »'
- msgid 'List'
- msgstr 'Daftar'
- msgid 'Filter'
- msgstr 'Filter'
- msgid 'Advanced search'
- msgstr 'Pencarian lanjutan'
- msgid 'Example of query: '
- msgstr 'Contoh dari query : '
- msgid 'Search by project: '
- msgstr 'Pencarian berdasarkan projek : '
- msgid 'Search by column: '
- msgstr 'Pencarian berdasarkan kolom : '
- msgid 'Search by assignee: '
- msgstr 'Pencarian berdasarkan penerima : '
- msgid 'Search by color: '
- msgstr 'Pencarian berdasarkan warna : '
- msgid 'Search by category: '
- msgstr 'Pencarian berdasarkan kategori : '
- msgid 'Search by description: '
- msgstr 'Pencarian berdasarkan deskripsi : '
- msgid 'Search by due date: '
- msgstr 'Pencarian berdasarkan tanggal jatuh tempo : '
- msgid 'Average time spent in each column'
- msgstr 'Rata-rata waktu yang dihabiskan dalam setiap kolom'
- msgid 'Average time spent'
- msgstr 'Rata-rata waktu yang dihabiskan'
- msgid 'This chart shows the average time spent in each column for the last %d tasks.'
- msgstr 'Grafik ini menunjukkan rata-rata waktu yang dihabiskan dalam setiap kolom untuk %d tugas.'
- msgid 'Average Lead and Cycle time'
- msgstr 'Rata-rata Memimpin dan Siklus waktu'
- msgid 'Average lead time: '
- msgstr 'Rata-rata waktu pimpinan : '
- msgid 'Average cycle time: '
- msgstr 'Rata-rata siklus waktu : '
- msgid 'Cycle Time'
- msgstr 'Siklus Waktu'
- msgid 'Lead Time'
- msgstr 'Lead Time'
- msgid 'This chart shows the average lead and cycle time for the last %d tasks over the time.'
- msgstr 'Grafik ini menunjukkan memimpin rata-rata dan waktu siklus untuk %d tugas terakhir dari waktu ke waktu.'
- msgid 'Average time into each column'
- msgstr 'Rata-rata waktu ke setiap kolom'
- msgid 'Lead and cycle time'
- msgstr 'Lead dan siklus waktu'
- msgid 'Lead time: '
- msgstr 'Lead time : '
- msgid 'Cycle time: '
- msgstr 'Siklus waktu : '
- msgid 'Time spent in each column'
- msgstr 'Waktu yang dihabiskan di setiap kolom'
- msgid 'The lead time is the duration between the task creation and the completion.'
- msgstr 'Lead time adalah durasi antara pembuatan tugas dan penyelesaian.'
- msgid 'The cycle time is the duration between the start date and the completion.'
- msgstr 'Siklus waktu adalah durasi antara tanggal mulai dan tanggal penyelesaian.'
- msgid 'If the task is not closed the current time is used instead of the completion date.'
- msgstr 'Jika tugas tidak ditutup waktu saat ini yang digunakan sebagai pengganti tanggal penyelesaian.'
- msgid 'Set the start date automatically'
- msgstr 'Secara otomatis mengatur tanggal mulai'
- msgid 'Edit Authentication'
- msgstr 'Modifikasi Otentifikasi'
- msgid 'Remote user'
- msgstr 'Pengguna jauh'
- msgid 'Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts.'
- msgstr 'Pengguna jauh tidak menyimpan kata laluan mereka dalam basis data Kanboard, contoh: Akaun LDAP, Google dan Github.'
- msgid 'If you check the box "Disallow login form", credentials entered in the login form will be ignored.'
- msgstr 'Jika anda mencentang kotak "Larang formulir login", kredensial masuk ke formulis login akan diabaikan.'
- msgid 'Default task color'
- msgstr 'Standar warna tugas'
- msgid 'This feature does not work with all browsers.'
- msgstr 'Ciri ini tidak dapat digunakan pada semua browsers'
- msgid 'There is no destination project available.'
- msgstr 'Tiada destinasi projek yang tersedia.'
- msgid 'Trigger automatically subtask time tracking'
- msgstr 'Picu pengesanan subtugas secara otomatik'
- msgid 'Include closed tasks in the cumulative flow diagram'
- msgstr 'Termasuk tugas yang ditutup pada diagram aliran kumulatif'
- msgid 'Current swimlane: %s'
- msgstr 'Swimlane saat ini : %s'
- msgid 'Current column: %s'
- msgstr 'Kolom saat ini : %s'
- msgid 'Current category: %s'
- msgstr 'Kategori saat ini : %s'
- msgid 'no category'
- msgstr 'tiada kategori'
- msgid 'Current assignee: %s'
- msgstr 'Saat ini ditugaskan pada: %s'
- msgid 'not assigned'
- msgstr 'Belum ditugaskan'
- msgid 'Author:'
- msgstr 'Penulis:'
- msgid 'contributors'
- msgstr 'Penggiat'
- msgid 'License:'
- msgstr 'Lesen:'
- msgid 'License'
- msgstr 'Lesen'
- msgid 'Enter the text below'
- msgstr 'Masukkan teks di bawah'
- msgid 'Start date:'
- msgstr 'Tanggal mulai:'
- msgid 'Due date:'
- msgstr 'Batas waktu:'
- msgid 'People who are project managers'
- msgstr 'Orang-orang yang menjadi pengurus projek'
- msgid 'People who are project members'
- msgstr 'Orang-orang yang menjadi anggota projek'
- msgid 'NOK - Norwegian Krone'
- msgstr 'NOK - Krone Norwegia'
- msgid 'Show this column'
- msgstr 'Perlihatkan kolom ini'
- msgid 'Hide this column'
- msgstr 'Sembunyikan kolom ini'
- msgid 'End date'
- msgstr 'Waktu berakhir'
- msgid 'Users overview'
- msgstr 'Ikhtisar pengguna'
- msgid 'Members'
- msgstr 'Anggota'
- msgid 'Shared project'
- msgstr 'projek bersama'
- msgid 'Project managers'
- msgstr 'Pengurus projek'
- msgid 'Projects list'
- msgstr 'Senarai projek'
- msgid 'End date:'
- msgstr 'Waktu berakhir :'
- msgid 'Change task color when using a specific task link'
- msgstr 'Rubah warna tugas ketika menggunakan Pautan tugas yang spesifik'
- msgid 'Task link creation or modification'
- msgstr 'Pautan tugas pada penciptaan atau penyuntingan'
- msgid 'Milestone'
- msgstr 'Batu Tanda'
- msgid 'Reset the search/filter box'
- msgstr 'Tetap semula pencarian/saringan'
- msgid 'Documentation'
- msgstr 'Dokumentasi'
- msgid 'Author'
- msgstr ''
- msgid 'Version'
- msgstr ''
- msgid 'Plugins'
- msgstr ''
- msgid 'There is no plugin loaded.'
- msgstr ''
- msgid 'My notifications'
- msgstr ''
- msgid 'Custom filters'
- msgstr ''
- msgid 'Your custom filter has been created successfully.'
- msgstr ''
- msgid 'Unable to create your custom filter.'
- msgstr ''
- msgid 'Custom filter removed successfully.'
- msgstr ''
- msgid 'Unable to remove this custom filter.'
- msgstr ''
- msgid 'Edit custom filter'
- msgstr ''
- msgid 'Your custom filter has been updated successfully.'
- msgstr ''
- msgid 'Unable to update custom filter.'
- msgstr ''
- msgid 'Web'
- msgstr ''
- msgid 'New attachment on task #%d: %s'
- msgstr ''
- msgid 'New comment on task #%d'
- msgstr ''
- msgid 'Comment updated on task #%d'
- msgstr ''
- msgid 'New subtask on task #%d'
- msgstr ''
- msgid 'Subtask updated on task #%d'
- msgstr ''
- msgid 'New task #%d: %s'
- msgstr ''
- msgid 'Task updated #%d'
- msgstr ''
- msgid 'Task #%d closed'
- msgstr ''
- msgid 'Task #%d opened'
- msgstr ''
- msgid 'Column changed for task #%d'
- msgstr ''
- msgid 'New position for task #%d'
- msgstr ''
- msgid 'Swimlane changed for task #%d'
- msgstr ''
- msgid 'Assignee changed on task #%d'
- msgstr ''
- msgid '%d overdue tasks'
- msgstr ''
- msgid 'Task #%d is overdue'
- msgstr ''
- msgid 'No notification.'
- msgstr ''
- msgid 'Mark all as read'
- msgstr ''
- msgid 'Mark as read'
- msgstr ''
- msgid 'Total number of tasks in this column across all swimlanes'
- msgstr ''
- msgid 'Collapse swimlane'
- msgstr ''
- msgid 'Expand swimlane'
- msgstr ''
- msgid 'Add a new filter'
- msgstr ''
- msgid 'Share with all project members'
- msgstr ''
- msgid 'Shared'
- msgstr ''
- msgid 'Owner'
- msgstr ''
- msgid 'Unread notifications'
- msgstr ''
- msgid 'Notification methods:'
- msgstr ''
- msgid 'Unable to read your file'
- msgstr ''
- msgid '%d task(s) have been imported successfully.'
- msgstr ''
- msgid 'Nothing has been imported!'
- msgstr ''
- msgid 'Import users from CSV file'
- msgstr ''
- msgid '%d user(s) have been imported successfully.'
- msgstr ''
- msgid 'Comma'
- msgstr ''
- msgid 'Semi-colon'
- msgstr ''
- msgid 'Tab'
- msgstr ''
- msgid 'Vertical bar'
- msgstr ''
- msgid 'Double Quote'
- msgstr ''
- msgid 'Single Quote'
- msgstr ''
- msgid '%s attached a file to the task #%d'
- msgstr ''
- msgid 'There is no column or swimlane activated in your project!'
- msgstr ''
- msgid 'Append filter (instead of replacement)'
- msgstr ''
- msgid 'Append/Replace'
- msgstr ''
- msgid 'Append'
- msgstr ''
- msgid 'Replace'
- msgstr ''
- msgid 'Import'
- msgstr ''
- msgid 'Change sorting'
- msgstr ''
- msgid 'Tasks Importation'
- msgstr ''
- msgid 'Delimiter'
- msgstr ''
- msgid 'Enclosure'
- msgstr ''
- msgid 'CSV File'
- msgstr ''
- msgid 'Instructions'
- msgstr ''
- msgid 'Your file must use the predefined CSV format'
- msgstr ''
- msgid 'Your file must be encoded in UTF-8'
- msgstr ''
- msgid 'The first row must be the header'
- msgstr ''
- msgid 'Duplicates are not verified for you'
- msgstr ''
- msgid 'The due date must use the ISO format: YYYY-MM-DD'
- msgstr ''
- msgid 'Download CSV template'
- msgstr ''
- msgid 'No external integration registered.'
- msgstr ''
- msgid 'Duplicates are not imported'
- msgstr ''
- msgid 'Usernames must be lowercase and unique'
- msgstr ''
- msgid 'Passwords will be encrypted if present'
- msgstr ''
- msgid '%s attached a new file to the task %s'
- msgstr ''
- msgid 'Link type'
- msgstr 'Jenis pautan'
- msgid 'Assign automatically a category based on a link'
- msgstr ''
- msgid 'BAM - Konvertible Mark'
- msgstr ''
- msgid 'Assignee Username'
- msgstr ''
- msgid 'Assignee Name'
- msgstr ''
- msgid 'Groups'
- msgstr ''
- msgid 'Members of %s'
- msgstr ''
- msgid 'New group'
- msgstr ''
- msgid 'Group created successfully.'
- msgstr ''
- msgid 'Unable to create your group.'
- msgstr ''
- msgid 'Edit group'
- msgstr ''
- msgid 'Group updated successfully.'
- msgstr ''
- msgid 'Unable to update your group.'
- msgstr ''
- msgid 'Add group member to "%s"'
- msgstr ''
- msgid 'Group member added successfully.'
- msgstr ''
- msgid 'Unable to add group member.'
- msgstr ''
- msgid 'Remove user from group "%s"'
- msgstr ''
- msgid 'User removed successfully from this group.'
- msgstr ''
- msgid 'Unable to remove this user from the group.'
- msgstr ''
- msgid 'Remove group'
- msgstr ''
- msgid 'Group removed successfully.'
- msgstr ''
- msgid 'Unable to remove this group.'
- msgstr ''
- msgid 'Project Permissions'
- msgstr ''
- msgid 'Manager'
- msgstr ''
- msgid 'Project Manager'
- msgstr ''
- msgid 'Project Member'
- msgstr ''
- msgid 'Project Viewer'
- msgstr ''
- msgid 'Your account is locked for %d minutes'
- msgstr ''
- msgid 'Invalid captcha'
- msgstr ''
- msgid 'The name must be unique'
- msgstr ''
- msgid 'View all groups'
- msgstr ''
- msgid 'There is no user available.'
- msgstr ''
- msgid 'Do you really want to remove the user "%s" from the group "%s"?'
- msgstr ''
- msgid 'There is no group.'
- msgstr ''
- msgid 'Add group member'
- msgstr ''
- msgid 'Do you really want to remove this group: "%s"?'
- msgstr ''
- msgid 'There is no user in this group.'
- msgstr ''
- msgid 'Permissions'
- msgstr ''
- msgid 'Allowed Users'
- msgstr ''
- msgid 'No specific user has been allowed.'
- msgstr ''
- msgid 'Role'
- msgstr ''
- msgid 'Enter user name...'
- msgstr ''
- msgid 'Allowed Groups'
- msgstr ''
- msgid 'No group has been allowed.'
- msgstr ''
- msgid 'Group'
- msgstr ''
- msgid 'Group Name'
- msgstr ''
- msgid 'Enter group name...'
- msgstr ''
- msgid 'Role:'
- msgstr 'Peranan'
- msgid 'Project members'
- msgstr 'Anggota projek'
- msgid '%s mentioned you in the task #%d'
- msgstr ''
- msgid '%s mentioned you in a comment on the task #%d'
- msgstr ''
- msgid 'You were mentioned in the task #%d'
- msgstr ''
- msgid 'You were mentioned in a comment on the task #%d'
- msgstr ''
- msgid 'Estimated hours: '
- msgstr ''
- msgid 'Actual hours: '
- msgstr ''
- msgid 'Hours Spent'
- msgstr ''
- msgid 'Hours Estimated'
- msgstr ''
- msgid 'Estimated Time'
- msgstr ''
- msgid 'Actual Time'
- msgstr ''
- msgid 'Estimated vs actual time'
- msgstr ''
- msgid 'RUB - Russian Ruble'
- msgstr ''
- msgid 'Assign the task to the person who does the action when the column is changed'
- msgstr ''
- msgid 'Close a task in a specific column'
- msgstr ''
- msgid 'Time-based One-time Password Algorithm'
- msgstr ''
- msgid 'Two-Factor Provider: '
- msgstr ''
- msgid 'Disable two-factor authentication'
- msgstr ''
- msgid 'Enable two-factor authentication'
- msgstr ''
- msgid 'There is no integration registered at the moment.'
- msgstr ''
- msgid 'Password Reset for Kanboard'
- msgstr ''
- msgid 'Forgot password?'
- msgstr ''
- msgid 'Enable "Forget Password"'
- msgstr ''
- msgid 'Password Reset'
- msgstr ''
- msgid 'New password'
- msgstr ''
- msgid 'Change Password'
- msgstr ''
- msgid 'To reset your password click on this link:'
- msgstr ''
- msgid 'Last Password Reset'
- msgstr ''
- msgid 'The password has never been reinitialized.'
- msgstr ''
- msgid 'Creation'
- msgstr 'Ciptaan'
- msgid 'Expiration'
- msgstr 'Jangka hayat'
- msgid 'Password reset history'
- msgstr 'Sirah tetap semula kata laluan'
- msgid 'All tasks of the column "%s" and the swimlane "%s" have been closed successfully.'
- msgstr ''
- msgid 'Do you really want to close all tasks of this column?'
- msgstr ''
- msgid '%d task(s) in the column "%s" and the swimlane "%s" will be closed.'
- msgstr ''
- msgid 'Close all tasks in this column and this swimlane'
- msgstr ''
- msgid 'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.'
- msgstr ''
- msgid 'My dashboard'
- msgstr ''
- msgid 'My profile'
- msgstr ''
- msgid 'Project owner: '
- msgstr ''
- msgid 'The project identifier is optional and must be alphanumeric, example: MYPROJECT.'
- msgstr ''
- msgid 'Project owner'
- msgstr ''
- msgid 'Personal projects do not have users and groups management.'
- msgstr ''
- msgid 'There is no project member.'
- msgstr ''
- msgid 'Priority'
- msgstr ''
- msgid 'Task priority'
- msgstr ''
- msgid 'General'
- msgstr ''
- msgid 'Dates'
- msgstr ''
- msgid 'Default priority'
- msgstr ''
- msgid 'Lowest priority'
- msgstr ''
- msgid 'Highest priority'
- msgstr ''
- msgid 'Close a task when there is no activity'
- msgstr ''
- msgid 'Duration in days'
- msgstr ''
- msgid 'Send email when there is no activity on a task'
- msgstr ''
- msgid 'Unable to fetch link information.'
- msgstr ''
- msgid 'Daily background job for tasks'
- msgstr ''
- msgid 'Auto'
- msgstr ''
- msgid 'Related'
- msgstr ''
- msgid 'Attachment'
- msgstr ''
- msgid 'Title not found'
- msgstr ''
- msgid 'Web Link'
- msgstr ''
- msgid 'External links'
- msgstr ''
- msgid 'Add external link'
- msgstr ''
- msgid 'Type'
- msgstr ''
- msgid 'Dependency'
- msgstr ''
- msgid 'Add internal link'
- msgstr ''
- msgid 'Add a new external link'
- msgstr ''
- msgid 'Edit external link'
- msgstr ''
- msgid 'External link'
- msgstr ''
- msgid 'Copy and paste your link here...'
- msgstr ''
- msgid 'URL'
- msgstr ''
- msgid 'Internal links'
- msgstr ''
- msgid 'Assign to me'
- msgstr ''
- msgid 'Me'
- msgstr ''
- msgid 'Do not duplicate anything'
- msgstr ''
- msgid 'Projects management'
- msgstr ''
- msgid 'Users management'
- msgstr ''
- msgid 'Groups management'
- msgstr ''
- msgid 'Create from another project'
- msgstr ''
- msgid 'open'
- msgstr ''
- msgid 'closed'
- msgstr ''
- msgid 'Priority:'
- msgstr ''
- msgid 'Reference:'
- msgstr ''
- msgid 'Complexity:'
- msgstr ''
- msgid 'Swimlane:'
- msgstr ''
- msgid 'Column:'
- msgstr ''
- msgid 'Position:'
- msgstr ''
- msgid 'Creator:'
- msgstr ''
- msgid 'Time estimated:'
- msgstr ''
- msgid '%s hours'
- msgstr ''
- msgid 'Time spent:'
- msgstr ''
- msgid 'Created:'
- msgstr ''
- msgid 'Modified:'
- msgstr ''
- msgid 'Completed:'
- msgstr ''
- msgid 'Started:'
- msgstr ''
- msgid 'Moved:'
- msgstr ''
- msgid 'Task #%d'
- msgstr ''
- msgid 'Time format'
- msgstr ''
- msgid 'Start date: '
- msgstr ''
- msgid 'End date: '
- msgstr ''
- msgid 'New due date: '
- msgstr ''
- msgid 'Start date changed: '
- msgstr ''
- msgid 'Disable personal projects'
- msgstr ''
- msgid 'Do you really want to remove this custom filter: "%s"?'
- msgstr ''
- msgid 'Remove a custom filter'
- msgstr ''
- msgid 'User activated successfully.'
- msgstr ''
- msgid 'Unable to enable this user.'
- msgstr ''
- msgid 'User disabled successfully.'
- msgstr ''
- msgid 'Unable to disable this user.'
- msgstr ''
- msgid 'All files have been uploaded successfully.'
- msgstr ''
- msgid 'The maximum allowed file size is %sB.'
- msgstr ''
- msgid 'Drag and drop your files here'
- msgstr ''
- msgid 'choose files'
- msgstr ''
- msgid 'View profile'
- msgstr ''
- msgid 'Two Factor'
- msgstr ''
- msgid 'Disable user'
- msgstr ''
- msgid 'Do you really want to disable this user: "%s"?'
- msgstr ''
- msgid 'Enable user'
- msgstr ''
- msgid 'Do you really want to enable this user: "%s"?'
- msgstr ''
- msgid 'Download'
- msgstr ''
- msgid 'Uploaded: %s'
- msgstr ''
- msgid 'Size: %s'
- msgstr ''
- msgid 'Uploaded by %s'
- msgstr ''
- msgid 'Filename'
- msgstr ''
- msgid 'Size'
- msgstr ''
- msgid 'Column created successfully.'
- msgstr ''
- msgid 'Another column with the same name exists in the project'
- msgstr ''
- msgid 'Default filters'
- msgstr ''
- msgid 'Your board doesn\'t have any columns!'
- msgstr ''
- msgid 'Change column position'
- msgstr ''
- msgid 'Switch to the project overview'
- msgstr ''
- msgid 'User filters'
- msgstr ''
- msgid 'Category filters'
- msgstr ''
- msgid 'Upload a file'
- msgstr ''
- msgid 'View file'
- msgstr ''
- msgid 'Last activity'
- msgstr ''
- msgid 'Change subtask position'
- msgstr ''
- msgid 'This value must be greater than %d'
- msgstr ''
- msgid 'Another swimlane with the same name exists in the project'
- msgstr ''
- msgid 'Example: https://example.kanboard.org/ (used to generate absolute URLs)'
- msgstr ''
- msgid 'Actions duplicated successfully.'
- msgstr ''
- msgid 'Unable to duplicate actions.'
- msgstr ''
- msgid 'Add a new action'
- msgstr ''
- msgid 'Import from another project'
- msgstr ''
- msgid 'There is no action at the moment.'
- msgstr ''
- msgid 'Import actions from another project'
- msgstr ''
- msgid 'There is no available project.'
- msgstr ''
- msgid 'Local File'
- msgstr ''
- msgid 'Configuration'
- msgstr ''
- msgid 'PHP version:'
- msgstr ''
- msgid 'PHP SAPI:'
- msgstr ''
- msgid 'OS version:'
- msgstr ''
- msgid 'Database version:'
- msgstr ''
- msgid 'Browser:'
- msgstr ''
- msgid 'Task view'
- msgstr ''
- msgid 'Edit task'
- msgstr ''
- msgid 'Edit description'
- msgstr ''
- msgid 'New internal link'
- msgstr ''
- msgid 'Display list of keyboard shortcuts'
- msgstr ''
- msgid 'Avatar'
- msgstr ''
- msgid 'Upload my avatar image'
- msgstr ''
- msgid 'Remove my image'
- msgstr ''
- msgid 'The OAuth2 state parameter is invalid'
- msgstr ''
- msgid 'User not found.'
- msgstr ''
- msgid 'Search in activity stream'
- msgstr ''
- msgid 'My activities'
- msgstr ''
- msgid 'Activity until yesterday'
- msgstr ''
- msgid 'Activity until today'
- msgstr ''
- msgid 'Search by creator: '
- msgstr ''
- msgid 'Search by creation date: '
- msgstr ''
- msgid 'Search by task status: '
- msgstr ''
- msgid 'Search by task title: '
- msgstr ''
- msgid 'Activity stream search'
- msgstr ''
- msgid 'Projects where "%s" is manager'
- msgstr ''
- msgid 'Projects where "%s" is member'
- msgstr ''
- msgid 'Open tasks assigned to "%s"'
- msgstr ''
- msgid 'Closed tasks assigned to "%s"'
- msgstr ''
- msgid 'Assign automatically a color based on a priority'
- msgstr ''
- msgid 'Overdue tasks for the project(s) "%s"'
- msgstr 'Tugas terlambat untuk projek « %s »'
- msgid 'Upload files'
- msgstr ''
- msgid 'Installed Plugins'
- msgstr ''
- msgid 'Plugin Directory'
- msgstr ''
- msgid 'Plugin installed successfully.'
- msgstr ''
- msgid 'Plugin updated successfully.'
- msgstr ''
- msgid 'Plugin removed successfully.'
- msgstr ''
- msgid 'Subtask converted to task successfully.'
- msgstr ''
- msgid 'Unable to convert the subtask.'
- msgstr ''
- msgid 'Unable to extract plugin archive.'
- msgstr ''
- msgid 'Plugin not found.'
- msgstr ''
- msgid 'You don\'t have the permission to remove this plugin.'
- msgstr ''
- msgid 'Unable to download plugin archive.'
- msgstr ''
- msgid 'Unable to write temporary file for plugin.'
- msgstr ''
- msgid 'Unable to open plugin archive.'
- msgstr ''
- msgid 'There is no file in the plugin archive.'
- msgstr ''
- msgid 'Create tasks in bulk'
- msgstr ''
- msgid 'Your Kanboard instance is not configured to install plugins from the user interface.'
- msgstr ''
- msgid 'There is no plugin available.'
- msgstr ''
- msgid 'Install'
- msgstr ''
- msgid 'Update'
- msgstr ''
- msgid 'Up to date'
- msgstr ''
- msgid 'Not available'
- msgstr ''
- msgid 'Remove plugin'
- msgstr ''
- msgid 'Do you really want to remove this plugin: "%s"?'
- msgstr ''
- msgid 'Uninstall'
- msgstr ''
- msgid 'Listing'
- msgstr ''
- msgid 'Metadata'
- msgstr ''
- msgid 'Manage projects'
- msgstr ''
- msgid 'Convert to task'
- msgstr ''
- msgid 'Convert sub-task to task'
- msgstr ''
- msgid 'Do you really want to convert this sub-task to a task?'
- msgstr ''
- msgid 'My task title'
- msgstr ''
- msgid 'Enter one task by line.'
- msgstr ''
- msgid 'Number of failed login:'
- msgstr ''
- msgid 'Account locked until:'
- msgstr ''
- msgid 'Email settings'
- msgstr ''
- msgid 'Email sender address'
- msgstr ''
- msgid 'Email transport'
- msgstr ''
- msgid 'Webhook token'
- msgstr ''
- msgid 'Project tags management'
- msgstr ''
- msgid 'Tag created successfully.'
- msgstr ''
- msgid 'Unable to create this tag.'
- msgstr ''
- msgid 'Tag updated successfully.'
- msgstr ''
- msgid 'Unable to update this tag.'
- msgstr ''
- msgid 'Tag removed successfully.'
- msgstr ''
- msgid 'Unable to remove this tag.'
- msgstr ''
- msgid 'Global tags management'
- msgstr ''
- msgid 'Tags'
- msgstr ''
- msgid 'Tags management'
- msgstr ''
- msgid 'Add new tag'
- msgstr ''
- msgid 'Edit a tag'
- msgstr ''
- msgid 'Project tags'
- msgstr ''
- msgid 'There is no specific tag for this project at the moment.'
- msgstr ''
- msgid 'Tag'
- msgstr ''
- msgid 'Remove a tag'
- msgstr ''
- msgid 'Do you really want to remove this tag: "%s"?'
- msgstr ''
- msgid 'Global tags'
- msgstr ''
- msgid 'There is no global tag at the moment.'
- msgstr ''
- msgid 'This field cannot be empty'
- msgstr ''
- msgid 'Close a task when there is no activity in a specific column'
- msgstr ''
- msgid '%s removed a subtask for the task #%d'
- msgstr ''
- msgid '%s removed a comment on the task #%d'
- msgstr ''
- msgid 'Comment removed on task #%d'
- msgstr ''
- msgid 'Subtask removed on task #%d'
- msgstr ''
- msgid 'Hide tasks in this column in the dashboard'
- msgstr ''
- msgid '%s removed a comment on the task %s'
- msgstr ''
- msgid '%s removed a subtask for the task %s'
- msgstr ''
- msgid 'Comment removed'
- msgstr ''
- msgid 'Subtask removed'
- msgstr ''
- msgid '%s set a new internal link for the task #%d'
- msgstr ''
- msgid '%s removed an internal link for the task #%d'
- msgstr ''
- msgid 'A new internal link for the task #%d has been defined'
- msgstr ''
- msgid 'Internal link removed for the task #%d'
- msgstr ''
- msgid '%s set a new internal link for the task %s'
- msgstr ''
- msgid '%s removed an internal link for the task %s'
- msgstr ''
- msgid 'Automatically set the due date on task creation'
- msgstr ''
- msgid 'Move the task to another column when closed'
- msgstr ''
- msgid 'Move the task to another column when not moved during a given period'
- msgstr ''
- msgid 'Dashboard for %s'
- msgstr ''
- msgid 'Tasks overview for %s'
- msgstr ''
- msgid 'Subtasks overview for %s'
- msgstr ''
- msgid 'Projects overview for %s'
- msgstr ''
- msgid 'Activity stream for %s'
- msgstr ''
- msgid 'Assign a color when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Assign a priority when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'User unlocked successfully.'
- msgstr ''
- msgid 'Unable to unlock the user.'
- msgstr ''
- msgid 'Move a task to another swimlane'
- msgstr ''
- msgid 'Creator Name'
- msgstr ''
- msgid 'Time spent and estimated'
- msgstr ''
- msgid 'Move position'
- msgstr ''
- msgid 'Move task to another position on the board'
- msgstr ''
- msgid 'Insert before this task'
- msgstr ''
- msgid 'Insert after this task'
- msgstr ''
- msgid 'Unlock this user'
- msgstr ''
- msgid 'Custom Project Roles'
- msgstr ''
- msgid 'Add a new custom role'
- msgstr ''
- msgid 'Restrictions for the role "%s"'
- msgstr ''
- msgid 'Add a new project restriction'
- msgstr ''
- msgid 'Add a new drag and drop restriction'
- msgstr ''
- msgid 'Add a new column restriction'
- msgstr ''
- msgid 'Edit this role'
- msgstr ''
- msgid 'Remove this role'
- msgstr ''
- msgid 'There is no restriction for this role.'
- msgstr ''
- msgid 'Only moving task between those columns is permitted'
- msgstr ''
- msgid 'Close a task in a specific column when not moved during a given period'
- msgstr ''
- msgid 'Edit columns'
- msgstr ''
- msgid 'The column restriction has been created successfully.'
- msgstr ''
- msgid 'Unable to create this column restriction.'
- msgstr ''
- msgid 'Column restriction removed successfully.'
- msgstr ''
- msgid 'Unable to remove this restriction.'
- msgstr ''
- msgid 'Your custom project role has been created successfully.'
- msgstr ''
- msgid 'Unable to create custom project role.'
- msgstr ''
- msgid 'Your custom project role has been updated successfully.'
- msgstr ''
- msgid 'Unable to update custom project role.'
- msgstr ''
- msgid 'Custom project role removed successfully.'
- msgstr ''
- msgid 'Unable to remove this project role.'
- msgstr ''
- msgid 'The project restriction has been created successfully.'
- msgstr ''
- msgid 'Unable to create this project restriction.'
- msgstr ''
- msgid 'Project restriction removed successfully.'
- msgstr ''
- msgid 'You cannot create tasks in this column.'
- msgstr ''
- msgid 'Task creation is permitted for this column'
- msgstr ''
- msgid 'Closing or opening a task is permitted for this column'
- msgstr ''
- msgid 'Task creation is blocked for this column'
- msgstr ''
- msgid 'Closing or opening a task is blocked for this column'
- msgstr ''
- msgid 'Task creation is not permitted'
- msgstr ''
- msgid 'Closing or opening a task is not permitted'
- msgstr ''
- msgid 'New drag and drop restriction for the role "%s"'
- msgstr ''
- msgid 'People belonging to this role will be able to move tasks only between the source and the destination column.'
- msgstr ''
- msgid 'Remove a column restriction'
- msgstr ''
- msgid 'Do you really want to remove this column restriction: "%s" to "%s"?'
- msgstr ''
- msgid 'New column restriction for the role "%s"'
- msgstr ''
- msgid 'Rule'
- msgstr ''
- msgid 'Do you really want to remove this column restriction?'
- msgstr ''
- msgid 'Custom roles'
- msgstr ''
- msgid 'New custom project role'
- msgstr ''
- msgid 'Edit custom project role'
- msgstr ''
- msgid 'Remove a custom role'
- msgstr ''
- msgid 'Do you really want to remove this custom role: "%s"? All people assigned to this role will become project member.'
- msgstr ''
- msgid 'There is no custom role for this project.'
- msgstr ''
- msgid 'New project restriction for the role "%s"'
- msgstr ''
- msgid 'Restriction'
- msgstr ''
- msgid 'Remove a project restriction'
- msgstr ''
- msgid 'Do you really want to remove this project restriction: "%s"?'
- msgstr ''
- msgid 'Duplicate to multiple projects'
- msgstr ''
- msgid 'This field is required'
- msgstr ''
- msgid 'Moving a task is not permitted'
- msgstr ''
- msgid 'This value must be in the range %d to %d'
- msgstr ''
- msgid 'You are not allowed to move this task.'
- msgstr ''
- msgid 'API User Access'
- msgstr ''
- msgid 'Preview'
- msgstr ''
- msgid 'Write'
- msgstr ''
- msgid 'Write your text in Markdown'
- msgstr ''
- msgid 'No personal API access token registered.'
- msgstr ''
- msgid 'Your personal API access token is "%s"'
- msgstr ''
- msgid 'Remove your token'
- msgstr ''
- msgid 'Generate a new token'
- msgstr ''
- msgid 'Showing %d-%d of %d'
- msgstr ''
- msgid 'Outgoing Emails'
- msgstr ''
- msgid 'Add or change currency rate'
- msgstr ''
- msgid 'Reference currency: %s'
- msgstr ''
- msgid 'Add custom filters'
- msgstr ''
- msgid 'Export'
- msgstr ''
- msgid 'Add link label'
- msgstr ''
- msgid 'Incompatible Plugins'
- msgstr ''
- msgid 'Compatibility'
- msgstr ''
- msgid 'Permissions and ownership'
- msgstr ''
- msgid 'Priorities'
- msgstr ''
- msgid 'Close this window'
- msgstr ''
- msgid 'Unable to upload this file.'
- msgstr ''
- msgid 'Import tasks'
- msgstr ''
- msgid 'Choose a project'
- msgstr ''
- msgid 'Profile'
- msgstr ''
- msgid 'Application role'
- msgstr ''
- msgid '%d invitations were sent.'
- msgstr ''
- msgid '%d invitation was sent.'
- msgstr ''
- msgid 'Unable to create this user.'
- msgstr ''
- msgid 'Kanboard Invitation'
- msgstr ''
- msgid 'Visible on dashboard'
- msgstr ''
- msgid 'Created at:'
- msgstr ''
- msgid 'Updated at:'
- msgstr ''
- msgid 'There is no custom filter.'
- msgstr ''
- msgid 'New User'
- msgstr ''
- msgid 'Authentication'
- msgstr ''
- msgid 'If checked, this user will use a third-party system for authentication.'
- msgstr ''
- msgid 'The password is necessary only for local users.'
- msgstr ''
- msgid 'You have been invited to register on Kanboard.'
- msgstr ''
- msgid 'Click here to join your team'
- msgstr ''
- msgid 'Invite people'
- msgstr ''
- msgid 'Emails'
- msgstr ''
- msgid 'Enter one email address by line.'
- msgstr ''
- msgid 'Add these people to this project'
- msgstr ''
- msgid 'Add this person to this project'
- msgstr ''
- msgid 'Sign-up'
- msgstr ''
- msgid 'Credentials'
- msgstr ''
- msgid 'New user'
- msgstr ''
- msgid 'This username is already taken'
- msgstr ''
- msgid 'Your profile must have a valid email address.'
- msgstr ''
- msgid 'TRL - Turkish Lira'
- msgstr ''
- msgid 'The project email is optional and could be used by several plugins.'
- msgstr ''
- msgid 'The project email must be unique across all projects'
- msgstr ''
- msgid 'The email configuration has been disabled by the administrator.'
- msgstr ''
- msgid 'Close this project'
- msgstr ''
- msgid 'Open this project'
- msgstr ''
- msgid 'Close a project'
- msgstr ''
- msgid 'Do you really want to close this project: "%s"?'
- msgstr ''
- msgid 'Reopen a project'
- msgstr ''
- msgid 'Do you really want to reopen this project: "%s"?'
- msgstr ''
- msgid 'This project is open'
- msgstr ''
- msgid 'This project is closed'
- msgstr ''
- msgid 'Unable to upload files, check the permissions of your data folder.'
- msgstr ''
- msgid 'Another category with the same name exists in this project'
- msgstr ''
- msgid 'Comment sent by email successfully.'
- msgstr ''
- msgid 'Sent by email to "%s" (%s)'
- msgstr ''
- msgid 'Unable to read uploaded file.'
- msgstr ''
- msgid 'Database uploaded successfully.'
- msgstr ''
- msgid 'Task sent by email successfully.'
- msgstr ''
- msgid 'There is no category in this project.'
- msgstr ''
- msgid 'Send by email'
- msgstr ''
- msgid 'Create and send a comment by email'
- msgstr ''
- msgid 'Subject'
- msgstr ''
- msgid 'Upload the database'
- msgstr ''
- msgid 'You could upload the previously downloaded Sqlite database (Gzip format).'
- msgstr ''
- msgid 'Database file'
- msgstr ''
- msgid 'Upload'
- msgstr ''
- msgid 'Your project must have at least one active swimlane.'
- msgstr ''
- msgid 'Project: %s'
- msgstr ''
- msgid 'Automatic action not found: "%s"'
- msgstr ''
- msgid '%d projects'
- msgstr ''
- msgid '%d project'
- msgstr ''
- msgid 'There is no project.'
- msgstr ''
- msgid 'Sort'
- msgstr ''
- msgid 'Project ID'
- msgstr ''
- msgid 'Project name'
- msgstr ''
- msgid 'Public'
- msgstr ''
- msgid 'Personal'
- msgstr ''
- msgid '%d tasks'
- msgstr ''
- msgid '%d task'
- msgstr ''
- msgid 'Task ID'
- msgstr ''
- msgid 'Assign automatically a color when due date is expired'
- msgstr ''
- msgid 'Total score in this column across all swimlanes'
- msgstr ''
- msgid 'HRK - Kuna'
- msgstr ''
- msgid 'ARS - Argentine Peso'
- msgstr ''
- msgid 'COP - Colombian Peso'
- msgstr ''
- msgid '%d groups'
- msgstr ''
- msgid '%d group'
- msgstr ''
- msgid 'Group ID'
- msgstr ''
- msgid 'External ID'
- msgstr ''
- msgid '%d users'
- msgstr ''
- msgid '%d user'
- msgstr ''
- msgid 'Hide subtasks'
- msgstr ''
- msgid 'Show subtasks'
- msgstr ''
- msgid 'Authentication Parameters'
- msgstr ''
- msgid 'API Access'
- msgstr ''
- msgid 'No users found.'
- msgstr ''
- msgid 'User ID'
- msgstr ''
- msgid 'Notifications are activated'
- msgstr ''
- msgid 'Notifications are disabled'
- msgstr ''
- msgid 'User disabled'
- msgstr ''
- msgid '%d notifications'
- msgstr ''
- msgid '%d notification'
- msgstr ''
- msgid 'There is no external integration installed.'
- msgstr ''
- msgid 'You are not allowed to update tasks assigned to someone else.'
- msgstr ''
- msgid 'You are not allowed to change the assignee.'
- msgstr ''
- msgid 'Task suppression is not permitted'
- msgstr ''
- msgid 'Changing assignee is not permitted'
- msgstr ''
- msgid 'Update only assigned tasks is permitted'
- msgstr ''
- msgid 'Only for tasks assigned to the current user'
- msgstr ''
- msgid 'My projects'
- msgstr ''
- msgid 'You are not a member of any project.'
- msgstr ''
- msgid 'My subtasks'
- msgstr ''
- msgid '%d subtasks'
- msgstr ''
- msgid '%d subtask'
- msgstr ''
- msgid 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgstr ''
- msgid '[DUPLICATE]'
- msgstr ''
- msgid 'DKK - Danish Krona'
- msgstr ''
- msgid 'Remove user from group'
- msgstr ''
- msgid 'Assign the task to its creator'
- msgstr ''
- msgid 'This task was sent by email to "%s" with subject "%s".'
- msgstr ''
- msgid 'Predefined Email Subjects'
- msgstr ''
- msgid 'Write one subject by line.'
- msgstr ''
- msgid 'Create another link'
- msgstr ''
- msgid 'BRL - Brazilian Real'
- msgstr ''
- msgid 'Add a new Kanboard task'
- msgstr ''
- msgid 'Subtask not started'
- msgstr ''
- msgid 'Subtask currently in progress'
- msgstr ''
- msgid 'Subtask completed'
- msgstr ''
- msgid 'Subtask added successfully.'
- msgstr ''
- msgid '%d subtasks added successfully.'
- msgstr ''
- msgid 'Enter one subtask by line.'
- msgstr ''
- msgid 'Predefined Contents'
- msgstr ''
- msgid 'Predefined contents'
- msgstr ''
- msgid 'Predefined Task Description'
- msgstr ''
- msgid 'Do you really want to remove this template? "%s"'
- msgstr ''
- msgid 'Add predefined task description'
- msgstr ''
- msgid 'Predefined Task Descriptions'
- msgstr ''
- msgid 'Template created successfully.'
- msgstr ''
- msgid 'Unable to create this template.'
- msgstr ''
- msgid 'Template updated successfully.'
- msgstr ''
- msgid 'Unable to update this template.'
- msgstr ''
- msgid 'Template removed successfully.'
- msgstr ''
- msgid 'Unable to remove this template.'
- msgstr ''
- msgid 'Template for the task description'
- msgstr ''
- msgid 'The start date is greater than the end date'
- msgstr ''
- msgid 'Tags must be separated by a comma'
- msgstr ''
- msgid 'Only the task title is required'
- msgstr ''
- msgid 'Creator Username'
- msgstr ''
- msgid 'Color Name'
- msgstr ''
- msgid 'Column Name'
- msgstr ''
- msgid 'Swimlane Name'
- msgstr ''
- msgid 'Time Estimated'
- msgstr ''
- msgid 'Time Spent'
- msgstr ''
- msgid 'External Link'
- msgstr ''
- msgid 'This feature enables the iCal feed, RSS feed and the public board view.'
- msgstr ''
- msgid 'Stop the timer of all subtasks when moving a task to another column'
- msgstr ''
- msgid 'Subtask Title'
- msgstr ''
- msgid 'Add a subtask and activate the timer when moving a task to another column'
- msgstr ''
- msgid 'days'
- msgstr ''
- msgid 'minutes'
- msgstr ''
- msgid 'seconds'
- msgstr ''
- msgid 'Assign automatically a color when preset start date is reached'
- msgstr ''
- msgid 'Move the task to another column once a predefined start date is reached'
- msgstr ''
- msgid 'This task is now linked to the task %s with the relation "%s"'
- msgstr ''
- msgid 'The link with the relation "%s" to the task %s has been removed'
- msgstr ''
- msgid 'Custom Filter:'
- msgstr ''
- msgid 'Unable to find this group.'
- msgstr ''
- msgid '%s moved the task #%d to the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the position %d in the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the swimlane "%s"'
- msgstr ''
- msgid '%sh spent'
- msgstr ''
- msgid '%sh estimated'
- msgstr ''
- msgid 'Select All'
- msgstr ''
- msgid 'Unselect All'
- msgstr ''
- msgid 'Apply action'
- msgstr ''
- msgid 'Move selected tasks to another column or swimlane'
- msgstr ''
- msgid 'Edit tasks in bulk'
- msgstr ''
- msgid 'Choose the properties that you would like to change for the selected tasks.'
- msgstr ''
- msgid 'Configure this project'
- msgstr ''
- msgid 'Start now'
- msgstr ''
- msgid '%s removed a file from the task #%d'
- msgstr ''
- msgid 'Attachment removed from task #%d: %s'
- msgstr ''
- msgid 'No color'
- msgstr ''
- msgid 'Attachment removed "%s"'
- msgstr ''
- msgid '%s removed a file from the task %s'
- msgstr ''
- msgid 'Move the task to another swimlane when assigned to a user'
- msgstr ''
- msgid 'Destination swimlane'
- msgstr ''
- msgid 'Assign a category when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Move the task to another swimlane when the category is changed'
- msgstr ''
- msgid 'Reorder this column by priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee (A-Z)'
- msgstr ''
- msgid 'Reorder this column by assignee (Z-A)'
- msgstr ''
- msgid 'Reorder this column by due date (ASC)'
- msgstr ''
- msgid 'Reorder this column by due date (DESC)'
- msgstr ''
- msgid '%s moved the task #%d "%s" to the project "%s"'
- msgstr ''
- msgid 'Task #%d "%s" has been moved to the project "%s"'
- msgstr ''
- msgid 'Move the task to another column when the due date is less than a certain number of days'
- msgstr ''
- msgid 'Automatically update the start date when the task is moved away from a specific column'
- msgstr ''
- msgid 'HTTP Client:'
- msgstr ''
- msgid 'Assigned'
- msgstr ''
- msgid 'Task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied across swimlanes'
- msgstr ''
- msgid 'Task limit: '
- msgstr ''
- msgid 'Change to global tag'
- msgstr ''
- msgid 'Do you really want to make the tag "%s" global?'
- msgstr ''
- msgid 'Enable global tags for this project'
- msgstr ''
- msgid 'Group membership(s):'
- msgstr ''
- msgid '%s is a member of the following group(s): %s'
- msgstr ''
- msgid '%d/%d group(s) shown'
- msgstr ''
- msgid 'Subtask creation or modification'
- msgstr ''
- msgid 'Assign the task to a specific user when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Comment'
- msgstr ''
- msgid 'Collapse vertically'
- msgstr ''
- msgid 'Expand vertically'
- msgstr ''
- msgid 'MXN - Mexican Peso'
- msgstr ''
- msgid 'Estimated vs actual time per column'
- msgstr ''
- msgid 'HUF - Hungarian Forint'
- msgstr ''
- msgid 'XBT - Bitcoin'
- msgstr ''
- msgid 'You must select a file to upload as your avatar!'
- msgstr ''
- msgid 'The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)'
- msgstr ''
- msgid 'Automatically set the due date when the task is moved away from a specific column'
- msgstr ''
- msgid 'No other projects found.'
- msgstr ''
- msgid 'Please choose a project you want to copy the tasks from.'
- msgstr ''
- msgid 'Import Tasks'
- msgstr ''
- msgid 'Copy'
- msgstr ''
- msgid 'Tasks copied successfully.'
- msgstr ''
- msgid 'Unable to copy tasks.'
- msgstr ''
+msgid "number.decimals_separator"
+msgstr "."
+msgid "number.thousands_separator"
+msgstr ","
+msgid "None"
+msgstr "Tiada"
+msgid "Edit"
+msgstr "Sunting"
+msgid "Remove"
+msgstr "Hapus"
+msgid "Yes"
+msgstr "Ya"
+msgid "No"
+msgstr "Tidak"
+msgid "cancel"
+msgstr "batal"
+msgid "or"
+msgstr "atau"
+msgid "Yellow"
+msgstr "Kuning"
+msgid "Blue"
+msgstr "Biru"
+msgid "Green"
+msgstr "Hijau"
+msgid "Purple"
+msgstr "Ungu"
+msgid "Red"
+msgstr "Merah"
+msgid "Orange"
+msgstr "Oren"
+msgid "Grey"
+msgstr "Kelabu"
+msgid "Brown"
+msgstr "Coklat"
+msgid "Deep Orange"
+msgstr "Oren Gelap"
+msgid "Dark Grey"
+msgstr "Kelabu Malap"
+msgid "Pink"
+msgstr "Merah Jambu"
+msgid "Teal"
+msgstr "Teal"
+msgid "Cyan"
+msgstr "Sian"
+msgid "Lime"
+msgstr "Lime"
+msgid "Light Green"
+msgstr "Hijau Muda"
+msgid "Amber"
+msgstr "Amber"
+msgid "Save"
+msgstr "Simpan"
+msgid "Login"
+msgstr "Masuk"
+msgid "Official website:"
+msgstr "Laman rasmi :"
+msgid "Unassigned"
+msgstr "Belum ditugaskan"
+msgid "View this task"
+msgstr "Lihat tugas ini"
+msgid "Remove user"
+msgstr "Hapus pengguna"
+msgid "Do you really want to remove this user: \"%s\"?"
+msgstr "Anda yakin mahu menghapus pengguna ini : « %s » ?"
+msgid "All users"
+msgstr "Semua pengguna"
+msgid "Username"
+msgstr "Nama pengguna"
+msgid "Password"
+msgstr "Kata laluan"
+msgid "Administrator"
+msgstr "Pentadbir"
+msgid "Sign in"
+msgstr "Masuk"
+msgid "Users"
+msgstr "Para Pengguna"
+msgid "Forbidden"
+msgstr "Larangan"
+msgid "Access Forbidden"
+msgstr "Akses Dilarang"
+msgid "Edit user"
+msgstr "Ubah Pengguna"
+msgid "Logout"
+msgstr "Keluar"
+msgid "Bad username or password"
+msgstr "Nama pengguna atau kata laluan tidak sepadan"
+msgid "Edit project"
+msgstr "Ubah projek"
+msgid "Name"
+msgstr "Nama"
+msgid "Projects"
+msgstr "Projek"
+msgid "No project"
+msgstr "Tiada projek"
+msgid "Project"
+msgstr "Projek"
+msgid "Status"
+msgstr "Status"
+msgid "Tasks"
+msgstr "Tugasan"
+msgid "Board"
+msgstr "Papan"
+msgid "Actions"
+msgstr "Tindakan"
+msgid "Inactive"
+msgstr "Tidak Aktif"
+msgid "Active"
+msgstr "Aktif"
+msgid "Unable to update this board."
+msgstr "Tidak berupaya mengemaskini papan ini"
+msgid "Disable"
+msgstr "Nyah-Upaya"
+msgid "Enable"
+msgstr "Aktifkan"
+msgid "New project"
+msgstr "Projek Baru"
+msgid "Do you really want to remove this project: \"%s\"?"
+msgstr "Anda yakin mahu menghapus projek ini : « %s » ?"
+msgid "Remove project"
+msgstr "Hapus projek"
+msgid "Edit the board for \"%s\""
+msgstr "Ubah papan untuk « %s »"
+msgid "Add a new column"
+msgstr "Tambah kolom baru"
+msgid "Title"
+msgstr "Judul"
+msgid "Assigned to %s"
+msgstr "Ditugaskan ke %s"
+msgid "Remove a column"
+msgstr "Hapus kolom"
+msgid "Unable to remove this column."
+msgstr "Tidak dapat menghapus kolom ini."
+msgid "Do you really want to remove this column: \"%s\"?"
+msgstr "Apakah anda yakin akan menghapus kolom ini : « %s » ?"
+msgid "Settings"
+msgstr "Penetapan"
+msgid "Application settings"
+msgstr "Penetapan aplikasi"
+msgid "Language"
+msgstr "Bahasa"
+msgid "Webhook token:"
+msgstr "Token webhook :"
+msgid "API token:"
+msgstr "Token API :"
+msgid "Database size:"
+msgstr "Saiz pengkalan data:"
+msgid "Download the database"
+msgstr "Muat turun pengkalan data"
+msgid "Optimize the database"
+msgstr "Optimakan pengkalan data"
+msgid "(VACUUM command)"
+msgstr "(perintah VACUUM)"
+msgid "(Gzip compressed Sqlite file)"
+msgstr "(File Sqlite yang termampat Gzip)"
+msgid "Close a task"
+msgstr "Tutup tugas"
+msgid "Column"
+msgstr "Kolom"
+msgid "Color"
+msgstr "Warna"
+msgid "Assignee"
+msgstr "Orang yang ditugaskan"
+msgid "Create another task"
+msgstr "Buat tugas lain"
+msgid "New task"
+msgstr "Tugasan baru"
+msgid "Open a task"
+msgstr "Buka tugas"
+msgid "Do you really want to open this task: \"%s\"?"
+msgstr "Anda yakin untuk buka tugas ini : « %s » ?"
+msgid "Back to the board"
+msgstr "Kembali ke papan"
+msgid "There is nobody assigned"
+msgstr "Tidak ada orang yand ditugaskan"
+msgid "Column on the board:"
+msgstr "Kolom di dalam papan : "
+msgid "Close this task"
+msgstr "Tutup tugas ini"
+msgid "Open this task"
+msgstr "Buka tugas ini"
+msgid "There is no description."
+msgstr "Tidak ada keterangan."
+msgid "Add a new task"
+msgstr "Tambah tugas baru"
+msgid "The username is required"
+msgstr "Nama pengguna adalah wajib"
+msgid "The maximum length is %d characters"
+msgstr "Panjang maksimum adalah %d karakter"
+msgid "The minimum length is %d characters"
+msgstr "Panjang minimum adalah %d karakter"
+msgid "The password is required"
+msgstr "Kata laluan adalah wajib"
+msgid "This value must be an integer"
+msgstr "Nilai ini harus integer"
+msgid "The username must be unique"
+msgstr "Nama pengguna semestinya unik"
+msgid "The user id is required"
+msgstr "Id Pengguna adalah wajib"
+msgid "Passwords don't match"
+msgstr "Kata laluan tidak sepadan"
+msgid "The confirmation is required"
+msgstr "Pengesahan diperlukan"
+msgid "The project is required"
+msgstr "Projek diperlukan"
+msgid "The id is required"
+msgstr "Id diperlukan"
+msgid "The project id is required"
+msgstr "Id projek diperlukan"
+msgid "The project name is required"
+msgstr "Nama projek diperlukan"
+msgid "The title is required"
+msgstr "Judul diperlukan"
+msgid "Settings saved successfully."
+msgstr "Penetapan berjaya disimpan."
+msgid "Unable to save your settings."
+msgstr "Tidak dapat menyimpan penetapan anda."
+msgid "Database optimization done."
+msgstr "Optimasi pengkalan data selesai."
+msgid "Your project has been created successfully."
+msgstr "Projek anda berhasil dibuat."
+msgid "Unable to create your project."
+msgstr "Tidak dapat membuat projek anda."
+msgid "Project updated successfully."
+msgstr "projek berhasil diperbaharui."
+msgid "Unable to update this project."
+msgstr "Tidak dapat memperbaharui projek ini."
+msgid "Unable to remove this project."
+msgstr "Tidak dapat menghapus projek ini."
+msgid "Project removed successfully."
+msgstr "projek berhasil dihapus."
+msgid "Project activated successfully."
+msgstr "projek berhasil diaktivasi."
+msgid "Unable to activate this project."
+msgstr "Tidak dapat mengaktifkan projek ini."
+msgid "Project disabled successfully."
+msgstr "projek berhasil dinonaktifkan."
+msgid "Unable to disable this project."
+msgstr "Tidak dapat menonaktifkan projek ini."
+msgid "Unable to open this task."
+msgstr "Tidak dapat membuka tugas ini."
+msgid "Task opened successfully."
+msgstr "Tugas berhasil dibuka."
+msgid "Unable to close this task."
+msgstr "Tidak dapat menutup tugas ini."
+msgid "Task closed successfully."
+msgstr "Tugas berhasil ditutup."
+msgid "Unable to update your task."
+msgstr "Tidak dapat memperbaharui tugas ini."
+msgid "Task updated successfully."
+msgstr "Tugas berhasil diperbaharui."
+msgid "Unable to create your task."
+msgstr "Tidak dapat membuat tugas anda."
+msgid "Task created successfully."
+msgstr "Tugas berhasil dibuat."
+msgid "User created successfully."
+msgstr "Pengguna berhasil dibuat."
+msgid "Unable to create your user."
+msgstr "Tidak dapat membuat pengguna anda."
+msgid "User updated successfully."
+msgstr "Pengguna berhasil diperbaharui."
+msgid "User removed successfully."
+msgstr "pengguna berhasil dihapus."
+msgid "Unable to remove this user."
+msgstr "Tidak dapat menghapus pengguna ini."
+msgid "Board updated successfully."
+msgstr "Papan berhasil diperbaharui."
+msgid "Ready"
+msgstr "Siap"
+msgid "Backlog"
+msgstr "Tertunda"
+msgid "Work in progress"
+msgstr "Sedang dalam pengerjaan"
+msgid "Done"
+msgstr "Selesai"
+msgid "Application version:"
+msgstr "Versi aplikasi :"
+msgid "Id"
+msgstr "Id."
+msgid "Public link"
+msgstr "Pautan publik"
+msgid "Timezone"
+msgstr "Zona waktu"
+msgid "Sorry, I didn't find this information in my database!"
+msgstr "Maaf, saya tidak menemukan informasi ini dalam basis data saya !"
+msgid "Page not found"
+msgstr "Halaman tidak ditemukan"
+msgid "Complexity"
+msgstr "Kompleksitas"
+msgid "Task limit"
+msgstr "Batas tugas."
+msgid "Task count"
+msgstr "Jumlah tugas"
+msgid "User"
+msgstr "Pengguna"
+msgid "Comments"
+msgstr "Komentar"
+msgid "Comment is required"
+msgstr "Komentar diperlukan"
+msgid "Comment added successfully."
+msgstr "Komentar berhasil ditambahkan."
+msgid "Unable to create your comment."
+msgstr "Tidak dapat menambahkan komentar anda."
+msgid "Due Date"
+msgstr "Batas Tanggal Terakhir"
+msgid "Invalid date"
+msgstr "Tanggal tidak valid"
+msgid "Automatic actions"
+msgstr "Tindakan otomatis"
+msgid "Your automatic action has been created successfully."
+msgstr "Tindakan otomatis anda berhasil dibuat."
+msgid "Unable to create your automatic action."
+msgstr "Tidak dapat membuat tindakan otomatis anda."
+msgid "Remove an action"
+msgstr "Hapus tindakan"
+msgid "Unable to remove this action."
+msgstr "Tidak dapat menghapus tindakan ini"
+msgid "Action removed successfully."
+msgstr "Tindakan berhasil dihapus."
+msgid "Automatic actions for the project \"%s\""
+msgstr "Tindakan otomatis untuk projek ini « %s »"
+msgid "Add an action"
+msgstr "Tambah tindakan"
+msgid "Event name"
+msgstr "Nama acara"
+msgid "Action"
+msgstr "Tindakan"
+msgid "Event"
+msgstr "Acara"
+msgid "When the selected event occurs execute the corresponding action."
+msgstr "Ketika acara yang dipilih terjadi, melakukan tindakan yang sesuai."
+msgid "Next step"
+msgstr "Langkah selanjutnya"
+msgid "Define action parameters"
+msgstr "Definisi parameter tindakan"
+msgid "Do you really want to remove this action: \"%s\"?"
+msgstr "Apakah anda yakin akan menghapus tindakan ini « %s » ?"
+msgid "Remove an automatic action"
+msgstr "Hapus tindakan otomatis"
+msgid "Assign the task to a specific user"
+msgstr "Menetapkan tugas untuk pengguna tertentu"
+msgid "Assign the task to the person who does the action"
+msgstr "Memberikan tugas untuk orang yang melakukan tindakan"
+msgid "Duplicate the task to another project"
+msgstr "Duplikasi tugas ke projek lain"
+msgid "Move a task to another column"
+msgstr "Pindahkan tugas ke kolom lain"
+msgid "Task modification"
+msgstr "Modifikasi tugas"
+msgid "Task creation"
+msgstr "Membuat tugas"
+msgid "Closing a task"
+msgstr "Menutup tugas"
+msgid "Assign a color to a specific user"
+msgstr "Menetapkan warna untuk pengguna tertentu"
+msgid "Position"
+msgstr "Posisi"
+msgid "Duplicate to project"
+msgstr "Duplikasi ke projek lain"
+msgid "Duplicate"
+msgstr "Duplikasi"
+msgid "Link"
+msgstr "Pautan"
+msgid "Comment updated successfully."
+msgstr "Komentar berhasil diperbaharui."
+msgid "Unable to update your comment."
+msgstr "Tidak dapat memperbaharui komentar anda."
+msgid "Remove a comment"
+msgstr "Hapus komentar"
+msgid "Comment removed successfully."
+msgstr "Komentar berhasil dihapus."
+msgid "Unable to remove this comment."
+msgstr "Tidak dapat menghapus komentar ini."
+msgid "Do you really want to remove this comment?"
+msgstr "Apakah anda yakin akan menghapus komentar ini ?"
+msgid "Current password for the user \"%s\""
+msgstr "Kata laluan saat ini untuk pengguna « %s »"
+msgid "The current password is required"
+msgstr "Kata laluan saat ini diperlukan"
+msgid "Wrong password"
+msgstr "Kata laluan salah"
+msgid "Unknown"
+msgstr "Tidak diketahui"
+msgid "Last logins"
+msgstr "Masuk terakhir"
+msgid "Login date"
+msgstr "Tanggal masuk"
+msgid "Authentication method"
+msgstr "Metode otentifikasi"
+msgid "IP address"
+msgstr "Alamat IP"
+msgid "User agent"
+msgstr "Agen Pengguna"
+msgid "Persistent connections"
+msgstr "Koneksi persisten"
+msgid "No session."
+msgstr "Tidak ada sesi."
+msgid "Expiration date"
+msgstr "Tanggal kadaluarsa"
+msgid "Remember Me"
+msgstr "Ingat Saya"
+msgid "Creation date"
+msgstr "Tanggal dibuat"
+msgid "Everybody"
+msgstr "Semua orang"
+msgid "Open"
+msgstr "Terbuka"
+msgid "Closed"
+msgstr "Ditutup"
+msgid "Search"
+msgstr "Cari"
+msgid "Nothing found."
+msgstr "Tidak ditemukan."
+msgid "Due date"
+msgstr "Batas tanggal terakhir"
+msgid "Description"
+msgstr "Deskripsi"
+msgid "%d comments"
+msgstr "%d komentar"
+msgid "%d comment"
+msgstr "%d komentar"
+msgid "Email address invalid"
+msgstr "Alamat email tidak valid"
+msgid "Your external account is not linked anymore to your profile."
+msgstr "Akaun eksternal anda tidak lagi terhubung ke profil anda."
+msgid "Unable to unlink your external account."
+msgstr "Tidak dapat memutuskan Akaun eksternal anda."
+msgid "External authentication failed"
+msgstr "Otentifikasi eksternal gagal"
+msgid "Your external account is linked to your profile successfully."
+msgstr "Akaun eksternal anda berhasil dihubungkan ke profil anda."
+msgid "Email"
+msgstr "Email"
+msgid "Task removed successfully."
+msgstr "Tugas berhasil dihapus."
+msgid "Unable to remove this task."
+msgstr "Tidak dapat menghapus tugas ini."
+msgid "Remove a task"
+msgstr "Hapus tugas"
+msgid "Do you really want to remove this task: \"%s\"?"
+msgstr "Apakah anda yakin akan menghapus tugas ini « %s » ?"
+msgid "Assign automatically a color based on a category"
+msgstr "Otomatis menetapkan warna berdasarkan kategori"
+msgid "Assign automatically a category based on a color"
+msgstr "Otomatis menetapkan kategori berdasarkan warna"
+msgid "Task creation or modification"
+msgstr "Tugas dibuat atau di mofifikasi"
+msgid "Category"
+msgstr "Kategori"
+msgid "Category:"
+msgstr "Kategori :"
+msgid "Categories"
+msgstr "Kategori"
+msgid "Your category has been created successfully."
+msgstr "Kategori anda berhasil dibuat."
+msgid "This category has been updated successfully."
+msgstr "Kategori anda berhasil diperbaharui."
+msgid "Unable to update this category."
+msgstr "Tidak dapat memperbaharui kategori anda."
+msgid "Remove a category"
+msgstr "Hapus kategori"
+msgid "Category removed successfully."
+msgstr "Kategori berhasil dihapus."
+msgid "Unable to remove this category."
+msgstr "Tidak dapat menghapus kategori ini."
+msgid "Category modification for the project \"%s\""
+msgstr "Modifikasi kategori untuk projek « %s »"
+msgid "Category Name"
+msgstr "Nama Kategori"
+msgid "Add a new category"
+msgstr "Tambah kategori baru"
+msgid "Do you really want to remove this category: \"%s\"?"
+msgstr "Apakah anda yakin akan menghapus kategori ini « %s » ?"
+msgid "All categories"
+msgstr "Semua kategori"
+msgid "No category"
+msgstr "Tidak ada kategori"
+msgid "The name is required"
+msgstr "Nama diperlukan"
+msgid "Remove a file"
+msgstr "Hapus berkas"
+msgid "Unable to remove this file."
+msgstr "Tidak dapat menghapus berkas ini."
+msgid "File removed successfully."
+msgstr "Berkas berhasil dihapus."
+msgid "Attach a document"
+msgstr "Lampirkan dokumen"
+msgid "Do you really want to remove this file: \"%s\"?"
+msgstr "Apakah anda yakin akan menghapus berkas ini « %s » ?"
+msgid "Attachments"
+msgstr "Lampiran"
+msgid "Edit the task"
+msgstr "Modifikasi tugas"
+msgid "Add a comment"
+msgstr "Tambahkan komentar"
+msgid "Edit a comment"
+msgstr "Modifikasi komentar"
+msgid "Summary"
+msgstr "Ringkasan"
+msgid "Time tracking"
+msgstr "Pelacakan waktu"
+msgid "Estimate:"
+msgstr "Estimasi :"
+msgid "Spent:"
+msgstr "Menghabiskan:"
+msgid "Do you really want to remove this sub-task?"
+msgstr "Apakah anda yakin akan menghapus sub-tugas ini ?"
+msgid "Remaining:"
+msgstr "Tersisa:"
+msgid "hours"
+msgstr "jam"
+msgid "estimated"
+msgstr "perkiraan"
+msgid "Sub-Tasks"
+msgstr "Sub-tugas"
+msgid "Add a sub-task"
+msgstr "Tambahkan sub-tugas"
+msgid "Original estimate"
+msgstr "Perkiraan semula"
+msgid "Create another sub-task"
+msgstr "Tambahkan sub-tugas lainnya"
+msgid "Time spent"
+msgstr "Waktu yang dihabiskan"
+msgid "Edit a sub-task"
+msgstr "Modifikasi sub-tugas"
+msgid "Remove a sub-task"
+msgstr "Hapus sub-tugas"
+msgid "The time must be a numeric value"
+msgstr "Waktu harus berisikan numerik"
+msgid "Todo"
+msgstr "Yang harus dilakukan"
+msgid "In progress"
+msgstr "Sedang proses"
+msgid "Sub-task removed successfully."
+msgstr "Sub-tugas berhasil dihapus."
+msgid "Unable to remove this sub-task."
+msgstr "Tidak dapat menghapus sub-tugas."
+msgid "Sub-task updated successfully."
+msgstr "Sub-tugas berhasil diperbaharui."
+msgid "Unable to update your sub-task."
+msgstr "Tidak dapat memperbaharui sub-tugas anda."
+msgid "Unable to create your sub-task."
+msgstr "Tidak dapat membuat sub-tugas anda."
+msgid "Maximum size: "
+msgstr "Ukuran maksimum: "
+msgid "Display another project"
+msgstr "Lihat projek lain"
+msgid "Created by %s"
+msgstr "Dibuat oleh %s"
+msgid "Tasks Export"
+msgstr "Ekspor Tugas"
+msgid "Start Date"
+msgstr "Tanggal Mulai"
+msgid "Execute"
+msgstr "Eksekusi"
+msgid "Task Id"
+msgstr "Id Tugas"
+msgid "Creator"
+msgstr "Pembuat"
+msgid "Modification date"
+msgstr "Tanggal modifikasi"
+msgid "Completion date"
+msgstr "Tanggal penyelesaian"
+msgid "Clone"
+msgstr "Klon"
+msgid "Project cloned successfully."
+msgstr "Kloning projek berhasil."
+msgid "Unable to clone this project."
+msgstr "Tidak dapat mengkloning projek."
+msgid "Enable email notifications"
+msgstr "Aktifkan pemberitahuan dari email"
+msgid "Task position:"
+msgstr "Posisi tugas :"
+msgid "The task #%d has been opened."
+msgstr "Tugas #%d telah dibuka."
+msgid "The task #%d has been closed."
+msgstr "Tugas #%d telah ditutup."
+msgid "Sub-task updated"
+msgstr "Sub-tugas diperbaharui"
+msgid "Title:"
+msgstr "Judul :"
+msgid "Status:"
+msgstr "Status :"
+msgid "Assignee:"
+msgstr "Ditugaskan ke :"
+msgid "Time tracking:"
+msgstr "Pelacakan waktu :"
+msgid "New sub-task"
+msgstr "Sub-tugas baru"
+msgid "New attachment added \"%s\""
+msgstr "Lampiran baru ditambahkan « %s »"
+msgid "New comment posted by %s"
+msgstr "Komentar baru ditambahkan oleh « %s »"
+msgid "New comment"
+msgstr "Komentar baru"
+msgid "Comment updated"
+msgstr "Komentar diperbaharui"
+msgid "New subtask"
+msgstr "Sub-tugas baru"
+msgid "I only want to receive notifications for these projects:"
+msgstr "Saya ingin menerima pemberitahuan hanya untuk projek-projek yang dipilih :"
+msgid "view the task on Kanboard"
+msgstr "lihat tugas di Kanboard"
+msgid "Public access"
+msgstr "Akses awam"
+msgid "Disable public access"
+msgstr "Nyahaktifkan akses awam"
+msgid "Enable public access"
+msgstr "Aktifkan akses awam"
+msgid "Public access disabled"
+msgstr "Akses awam dinyahaktif"
+msgid "Move the task to another project"
+msgstr "Pindahkan tugas ke projek lain"
+msgid "Move to project"
+msgstr "Pindahkan ke projek lain"
+msgid "Do you really want to duplicate this task?"
+msgstr "Anda yakin mengembarkan tugas ini ?"
+msgid "Duplicate a task"
+msgstr "Kembarkan tugas"
+msgid "External accounts"
+msgstr "Akaun luaran"
+msgid "Account type"
+msgstr "Jenis Akaun"
+msgid "Local"
+msgstr "Lokal"
+msgid "Remote"
+msgstr "Jauh"
+msgid "Enabled"
+msgstr "Aktif"
+msgid "Disabled"
+msgstr "Tidak aktif"
+msgid "Login:"
+msgstr "Nama pengguna :"
+msgid "Full Name:"
+msgstr "Nama:"
+msgid "Email:"
+msgstr "Emel:"
+msgid "Notifications:"
+msgstr "Makluman:"
+msgid "Notifications"
+msgstr "Makluman"
+msgid "Account type:"
+msgstr "Jenis Akaun :"
+msgid "Edit profile"
+msgstr "Sunting profil"
+msgid "Change password"
+msgstr "Rubah kata sandri"
+msgid "Password modification"
+msgstr "Modifikasi kata laluan"
+msgid "External authentications"
+msgstr "Otentifikasi eksternal"
+msgid "Never connected."
+msgstr "Tidak pernah terhubung."
+msgid "No external authentication enabled."
+msgstr "Tidak ada otentifikasi eksternal yang aktif."
+msgid "Password modified successfully."
+msgstr "Kata laluan telah berjaya ditukar."
+msgid "Unable to change the password."
+msgstr "Tidak dapat merubah kata laluanr."
+msgid "Change category"
+msgstr "Tukar kategori"
+msgid "%s updated the task %s"
+msgstr "%s memperbaharui tugas %s"
+msgid "%s opened the task %s"
+msgstr "%s membuka tugas %s"
+msgid "%s moved the task %s to the position #%d in the column \"%s\""
+msgstr "%s memindahkan tugas %s ke posisi n°%d dalam kolom « %s »"
+msgid "%s moved the task %s to the column \"%s\""
+msgstr "%s memindahkan tugas %s ke kolom « %s »"
+msgid "%s created the task %s"
+msgstr "%s membuat tugas %s"
+msgid "%s closed the task %s"
+msgstr "%s menutup tugas %s"
+msgid "%s created a subtask for the task %s"
+msgstr "%s membuat subtugas untuk tugas %s"
+msgid "%s updated a subtask for the task %s"
+msgstr "%s memperbaharui subtugas untuk tugas %s"
+msgid "Assigned to %s with an estimate of %s/%sh"
+msgstr "Ditugaskan untuk %s dengan perkiraan %s/%sh"
+msgid "Not assigned, estimate of %sh"
+msgstr "Tiada yang ditugaskan, perkiraan %sh"
+msgid "%s updated a comment on the task %s"
+msgstr "%s memperbaharui komentar pada tugas %s"
+msgid "%s commented the task %s"
+msgstr "%s memberikan komentar pada tugas %s"
+msgid "%s's activity"
+msgstr "Aktifitas dari %s"
+msgid "RSS feed"
+msgstr "RSS feed"
+msgid "%s updated a comment on the task #%d"
+msgstr "%s memperbaharui komentar pada tugas n°%d"
+msgid "%s commented on the task #%d"
+msgstr "%s memberikan komentar pada tugas n°%d"
+msgid "%s updated a subtask for the task #%d"
+msgstr "%s memperbaharui subtugas untuk tugas n°%d"
+msgid "%s created a subtask for the task #%d"
+msgstr "%s membuat subtugas untuk tugas n°%d"
+msgid "%s updated the task #%d"
+msgstr "%s memperbaharui tugas n°%d"
+msgid "%s created the task #%d"
+msgstr "%s membuat tugas n°%d"
+msgid "%s closed the task #%d"
+msgstr "%s menutup tugas n°%d"
+msgid "%s opened the task #%d"
+msgstr "%s membuka tugas n°%d"
+msgid "Activity"
+msgstr "Aktifitas"
+msgid "Default values are \"%s\""
+msgstr "Standar nilai adalah« %s »"
+msgid "Default columns for new projects (Comma-separated)"
+msgstr "Kolom default untuk projek baru (dipisahkan dengan koma)"
+msgid "Task assignee change"
+msgstr "Mengubah orang ditugaskan untuk tugas"
+msgid "%s changed the assignee of the task #%d to %s"
+msgstr "%s rubah orang yang ditugaskan dari tugas n%d ke %s"
+msgid "%s changed the assignee of the task %s to %s"
+msgstr "%s mengubah orang yang ditugaskan dari tugas %s ke %s"
+msgid "New password for the user \"%s\""
+msgstr "Kata laluan baru untuk pengguna « %s »"
+msgid "Choose an event"
+msgstr "Pilih sebuah acara"
+msgid "Create a task from an external provider"
+msgstr "Buat tugas dari pemasok eksternal"
+msgid "Change the assignee based on an external username"
+msgstr "Rubah penugasan berdasarkan nama pengguna eksternal"
+msgid "Change the category based on an external label"
+msgstr "Rubah kategori berdasarkan label eksternal"
+msgid "Reference"
+msgstr "Referensi"
+msgid "Label"
+msgstr "Label"
+msgid "Database"
+msgstr "Pengkalan data"
+msgid "About"
+msgstr "Tentang"
+msgid "Database driver:"
+msgstr "Driver pengkalan data:"
+msgid "Board settings"
+msgstr "Pengaturan papan"
+msgid "Webhook settings"
+msgstr "Penetapan webhook"
+msgid "Reset token"
+msgstr "Menetap semula token"
+msgid "API endpoint:"
+msgstr "API endpoint :"
+msgid "Refresh interval for personal board"
+msgstr "Interval pembaruan untuk papan pribadi"
+msgid "Refresh interval for public board"
+msgstr "Interval pembaruan untuk papan publik"
+msgid "Task highlight period"
+msgstr "Periode puncak tugas"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Periode (dalam detik) untuk mempertimbangkan tugas yang baru dimodifikasi (0 untuk menonaktifkan, standar 2 hari)"
+msgid "Frequency in second (60 seconds by default)"
+msgstr "Frequensi dalam detik (standar 60 saat)"
+msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
+msgstr "Frekuensi dalam detik (0 untuk menonaktifkan fitur ini, standar 10 detik)"
+msgid "Application URL"
+msgstr "URL Aplikasi"
+msgid "Token regenerated."
+msgstr "Token diregenerasi."
+msgid "Date format"
+msgstr "Format tarikh"
+msgid "ISO format is always accepted, example: \"%s\" and \"%s\""
+msgstr "Format ISO selalunya diterima, contoh: « %s » et « %s »"
+msgid "New personal project"
+msgstr "Projek peribadi baharu"
+msgid "This project is personal"
+msgstr "projek ini adalah peribadi"
+msgid "Add"
+msgstr "Tambah"
+msgid "Start date"
+msgstr "Tarikh mula"
+msgid "Time estimated"
+msgstr "Anggaran masa"
+msgid "There is nothing assigned to you."
+msgstr "Tidak ada yang diberikan kepada anda."
+msgid "My tasks"
+msgstr "Tugas saya"
+msgid "Activity stream"
+msgstr "Arus aktifitas"
+msgid "Dashboard"
+msgstr "Dasbor"
+msgid "Confirmation"
+msgstr "Konfirmasi"
+msgid "Webhooks"
+msgstr "Webhooks"
+msgid "API"
+msgstr "API"
+msgid "Create a comment from an external provider"
+msgstr "Buat komentar dari pemasok eksternal"
+msgid "Project management"
+msgstr "Manajemen projek"
+msgid "Columns"
+msgstr "Kolom"
+msgid "Task"
+msgstr "Tugas"
+msgid "Percentage"
+msgstr "Persentasi"
+msgid "Number of tasks"
+msgstr "Jumlah dari tugas"
+msgid "Task distribution"
+msgstr "Pembagian tugas"
+msgid "Analytics"
+msgstr "Analitis"
+msgid "Subtask"
+msgstr "Subtugas"
+msgid "User repartition"
+msgstr "Partisi ulang pengguna"
+msgid "Clone this project"
+msgstr "Gandakan projek ini"
+msgid "Column removed successfully."
+msgstr "Kolom berhasil dihapus."
+msgid "Not enough data to show the graph."
+msgstr "Tidak cukup data untuk menampilkan grafik."
+msgid "Previous"
+msgstr "Sebelumnya"
+msgid "The id must be an integer"
+msgstr "Id harus integer"
+msgid "The project id must be an integer"
+msgstr "Id projek harus integer"
+msgid "The status must be an integer"
+msgstr "Status harus integer"
+msgid "The subtask id is required"
+msgstr "Id subtugas diperlukan"
+msgid "The subtask id must be an integer"
+msgstr "Id subtugas harus integer"
+msgid "The task id is required"
+msgstr "Id tugas diperlukan"
+msgid "The task id must be an integer"
+msgstr "Id tugas harus integer"
+msgid "The user id must be an integer"
+msgstr "Id user harus integer"
+msgid "This value is required"
+msgstr "Nilai ini diperlukan"
+msgid "This value must be numeric"
+msgstr "Nilai ini harus angka"
+msgid "Unable to create this task."
+msgstr "Tidak dapat membuat tugas ini"
+msgid "Cumulative flow diagram"
+msgstr "Diagram alir kumulatif"
+msgid "Daily project summary"
+msgstr "Ringkasan projek harian"
+msgid "Daily project summary export"
+msgstr "Ekspot ringkasan projek harian"
+msgid "Exports"
+msgstr "Ekspor"
+msgid "This export contains the number of tasks per column grouped per day."
+msgstr "Ekspor ini berisi jumlah dari tugas per kolom dikelompokan perhari."
+msgid "Active swimlanes"
+msgstr "Swimlanes aktif"
+msgid "Add a new swimlane"
+msgstr "Tambah swimlane baharu"
+msgid "Default swimlane"
+msgstr "Piawai swimlane"
+msgid "Do you really want to remove this swimlane: \"%s\"?"
+msgstr "Anda yakin untuk menghapus swimlane ini : « %s » ?"
+msgid "Inactive swimlanes"
+msgstr "Swimlanes tidak aktif"
+msgid "Remove a swimlane"
+msgstr "Padam swimlane"
+msgid "Swimlane modification for the project \"%s\""
+msgstr "Modifikasi swimlane untuk projek « %s »"
+msgid "Swimlane removed successfully."
+msgstr "Swimlane telah dipadamkan."
+msgid "Swimlanes"
+msgstr "Swimlanes"
+msgid "Swimlane updated successfully."
+msgstr "Swimlane telah dikemaskini."
+msgid "Unable to remove this swimlane."
+msgstr "Tidak dapat menghapus swimlane ini."
+msgid "Unable to update this swimlane."
+msgstr "Tidak dapat memperbaharui swimlane ini."
+msgid "Your swimlane has been created successfully."
+msgstr "Swimlane anda berhasil dibuat."
+msgid "Example: \"Bug, Feature Request, Improvement\""
+msgstr "Contoh: « Insiden, Permintaan Ciri, Pembaikan »"
+msgid "Default categories for new projects (Comma-separated)"
+msgstr "Piawaian kategori untuk projek baru (asingkan guna koma)"
+msgid "Integrations"
+msgstr "Integrasi"
+msgid "Integration with third-party services"
+msgstr "Integrasi dengan khidmat pihak ketiga"
+msgid "Subtask Id"
+msgstr "Id Subtugas"
+msgid "Subtasks"
+msgstr "Subtugas"
+msgid "Subtasks Export"
+msgstr "Ekspot Subtugas"
+msgid "Task Title"
+msgstr "Judul Tugas"
+msgid "Untitled"
+msgstr "Tanpa nama"
+msgid "Application default"
+msgstr "Aplikasi Piawaian"
+msgid "Language:"
+msgstr "Bahasa:"
+msgid "Timezone:"
+msgstr "Zon masa:"
+msgid "All columns"
+msgstr "Semua kolom"
+msgid "Next"
+msgstr "Selanjutnya"
+msgid "#%d"
+msgstr "n°%d"
+msgid "All swimlanes"
+msgstr "Semua swimlane"
+msgid "All colors"
+msgstr "Semua warna"
+msgid "Moved to column %s"
+msgstr "Pindah ke kolom %s"
+msgid "User dashboard"
+msgstr "Papan Kenyataan pengguna"
+msgid "Allow only one subtask in progress at the same time for a user"
+msgstr "Izinkan hanya satu subtugas dalam proses secara bersamaan untuk satu pengguna"
+msgid "Edit column \"%s\""
+msgstr "Modifikasi kolom « %s »"
+msgid "Select the new status of the subtask: \"%s\""
+msgstr "Pilih status baru untuk subtugas : « %s »"
+msgid "Subtask timesheet"
+msgstr "Subtugas absen"
+msgid "There is nothing to show."
+msgstr "Tidak ada yang dapat diperlihatkan."
+msgid "Time Tracking"
+msgstr "Pelacakan waktu"
+msgid "You already have one subtask in progress"
+msgstr "Anda sudah ada satu subtugas dalam proses"
+msgid "Which parts of the project do you want to duplicate?"
+msgstr "Bagian dalam projek mana yang ingin anda duplikasi?"
+msgid "Disallow login form"
+msgstr "Larang formulir masuk"
+msgid "Start"
+msgstr "Mula"
+msgid "End"
+msgstr "Selesai"
+msgid "Task age in days"
+msgstr "Usia tugas dalam bentuk harian"
+msgid "Days in this column"
+msgstr "Hari dalam kolom ini"
+msgid "%dd"
+msgstr "%dj"
+msgid "Add a new link"
+msgstr "Tambah Pautan baru"
+msgid "Do you really want to remove this link: \"%s\"?"
+msgstr "Anda yakin akan menghapus Pautan ini : « %s » ?"
+msgid "Do you really want to remove this link with task #%d?"
+msgstr "Anda yakin akan menghapus Pautan ini dengan tugas n°%d ?"
+msgid "Field required"
+msgstr "Medan diperlukan"
+msgid "Link added successfully."
+msgstr "Pautan berhasil ditambahkan."
+msgid "Link updated successfully."
+msgstr "Pautan berhasil diperbaharui."
+msgid "Link removed successfully."
+msgstr "Pautan berhasil dihapus."
+msgid "Link labels"
+msgstr "Label Pautan"
+msgid "Link modification"
+msgstr "Modifikasi Pautan"
+msgid "Opposite label"
+msgstr "Label berlawanan"
+msgid "Remove a link"
+msgstr "Hapus Pautan"
+msgid "The labels must be different"
+msgstr "Label harus berbeda"
+msgid "There is no link."
+msgstr "Tidak ada Pautan."
+msgid "This label must be unique"
+msgstr "Label ini harus unik"
+msgid "Unable to create your link."
+msgstr "Tidak dapat membuat Pautan anda."
+msgid "Unable to update your link."
+msgstr "Tidak dapat memperbaharui Pautan anda."
+msgid "Unable to remove this link."
+msgstr "Tidak dapat menghapus Pautan ini."
+msgid "relates to"
+msgstr "berhubungan dengan"
+msgid "blocks"
+msgstr "blok"
+msgid "is blocked by"
+msgstr "diblokir oleh"
+msgid "duplicates"
+msgstr "duplikat"
+msgid "is duplicated by"
+msgstr "diduplikasi oleh"
+msgid "is a child of"
+msgstr "anak dari"
+msgid "is a parent of"
+msgstr "orant tua dari"
+msgid "targets milestone"
+msgstr "milestone target"
+msgid "is a milestone of"
+msgstr "adalah milestone dari"
+msgid "fixes"
+msgstr "perbaikan"
+msgid "is fixed by"
+msgstr "diperbaiki oleh"
+msgid "This task"
+msgstr "Tugas ini"
+msgid "<1h"
+msgstr "<1h"
+msgid "%dh"
+msgstr "%dh"
+msgid "Expand tasks"
+msgstr "Perluas tugas"
+msgid "Collapse tasks"
+msgstr "Lipat tugas"
+msgid "Expand/collapse tasks"
+msgstr "Perluas/lipat tugas"
+msgid "Close dialog box"
+msgstr "Tutup kotak dialog"
+msgid "Submit a form"
+msgstr "Submit formulir"
+msgid "Board view"
+msgstr "Table halaman"
+msgid "Keyboard shortcuts"
+msgstr "pintas keyboard"
+msgid "Open board switcher"
+msgstr "Buka table switcher"
+msgid "Application"
+msgstr "Aplikasi"
+msgid "Compact view"
+msgstr "Tampilan kompak"
+msgid "Horizontal scrolling"
+msgstr "Horisontal bergulir"
+msgid "Compact/wide view"
+msgstr "Beralih antara tampilan kompak dan diperluas"
+msgid "Currency"
+msgstr "Mata uang"
+msgid "Personal project"
+msgstr "projek pribadi"
+msgid "AUD - Australian Dollar"
+msgstr "AUD - Dollar Australia"
+msgid "CAD - Canadian Dollar"
+msgstr "CAD - Dollar Kanada"
+msgid "CHF - Swiss Francs"
+msgstr "CHF - Swiss Prancis"
+msgid "Custom Stylesheet"
+msgstr "Kustomisasi Stylesheet"
+msgid "EUR - Euro"
+msgstr "EUR - Euro"
+msgid "GBP - British Pound"
+msgstr "GBP - Poundsterling inggris"
+msgid "INR - Indian Rupee"
+msgstr "INR - Rupe India"
+msgid "JPY - Japanese Yen"
+msgstr "JPY - Yen Jepang"
+msgid "NZD - New Zealand Dollar"
+msgstr "NZD - Dollar Selandia baru"
+msgid "RSD - Serbian dinar"
+msgstr "RSD - Dinar Serbia"
+msgid "CNY - Chinese Yuan"
+msgstr ""
+msgid "USD - US Dollar"
+msgstr "USD - Dollar Amerika"
+msgid "VES - Venezuelan Bolívar"
+msgstr ""
+msgid "Destination column"
+msgstr "Kolom tujuan"
+msgid "Move the task to another column when assigned to a user"
+msgstr "Pindahkan tugas ke kolom lain ketika ditugaskan ke pengguna"
+msgid "Move the task to another column when assignee is cleared"
+msgstr "Pindahkan tugas ke kolom lain ketika orang yang ditugaskan dibersihkan"
+msgid "Source column"
+msgstr "Sumber kolom"
+msgid "Transitions"
+msgstr "Transisi"
+msgid "Executer"
+msgstr "Eksekusi"
+msgid "Time spent in the column"
+msgstr "Waktu yang dihabiskan dalam kolom"
+msgid "Task transitions"
+msgstr "Transisi tugas"
+msgid "Task transitions export"
+msgstr "Ekspor transisi tugas"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Laporan ini berisi semua kolom yang pindah untuk setiap tugas dengan tanggal, pengguna dan waktu yang dihabiskan untuk setiap transisi."
+msgid "Currency rates"
+msgstr "Nilai tukar mata uang"
+msgid "Rate"
+msgstr "Tarif"
+msgid "Change reference currency"
+msgstr "Mengubah referensi mata uang"
+msgid "Reference currency"
+msgstr "Referensi mata uang"
+msgid "The currency rate has been added successfully."
+msgstr "Nilai tukar mata uang berhasil ditambahkan."
+msgid "Unable to add this currency rate."
+msgstr "Tidak dapat menambahkan nilai tukar mata uang"
+msgid "Webhook URL"
+msgstr "URL webhook"
+msgid "%s removed the assignee of the task %s"
+msgstr "%s menghapus penugasan dari tugas %s"
+msgid "Information"
+msgstr "Informasi"
+msgid "Check two factor authentication code"
+msgstr "Cek dua faktor kode otentifikasi"
+msgid "The two factor authentication code is not valid."
+msgstr "Kode dua faktor kode otentifikasi tidak valid."
+msgid "The two factor authentication code is valid."
+msgstr "Kode dua faktor kode otentifikasi valid."
+msgid "Code"
+msgstr "Kode"
+msgid "Two factor authentication"
+msgstr "Dua faktor otentifikasi"
+msgid "This QR code contains the key URI: "
+msgstr "kode QR ini mengandung kunci URI : "
+msgid "Check my code"
+msgstr "Memeriksa kode saya"
+msgid "Secret key: "
+msgstr "Kunci rahasia : "
+msgid "Test your device"
+msgstr "Menguji perangkat anda"
+msgid "Assign a color when the task is moved to a specific column"
+msgstr "Menetapkan warna ketika tugas tersebut dipindahkan ke kolom tertentu"
+msgid "%s via Kanboard"
+msgstr "%s via Kanboard"
+msgid "Burndown chart"
+msgstr "Grafik Burndown"
+msgid "This chart show the task complexity over the time (Work Remaining)."
+msgstr "Grafik ini menunjukkan kompleksitas tugas dari waktu ke waktu (Sisa Pekerjaan)."
+msgid "Screenshot taken %s"
+msgstr "Screenshot diambil %s"
+msgid "Add a screenshot"
+msgstr "Tambah screenshot"
+msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
+msgstr ""
+msgid "Screenshot uploaded successfully."
+msgstr "Screenshot berhasil diunggah."
+msgid "SEK - Swedish Krona"
+msgstr "SEK - Krona Swedia"
+msgid "Identifier"
+msgstr "Identifier"
+msgid "Disable two factor authentication"
+msgstr "Matikan dua faktor otentifikasi"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Apakah anda yakin akan mematikan dua faktor otentifikasi untuk pengguna ini : « %s » ?"
+msgid "Edit link"
+msgstr "Modifikasi Pautan"
+msgid "Start to type task title..."
+msgstr "Mulai mengetik judul tugas..."
+msgid "A task cannot be linked to itself"
+msgstr "Sebuah tugas tidak dapat dikaitkan dengan dirinya sendiri"
+msgid "The exact same link already exists"
+msgstr "Pautan yang sama persis sudah ada"
+msgid "Recurrent task is scheduled to be generated"
+msgstr "Tugas berulang dijadwalkan akan dihasilkan"
+msgid "Score"
+msgstr "Skor"
+msgid "The identifier must be unique"
+msgstr "Identifier harus unik"
+msgid "This linked task id doesn't exists"
+msgstr "Id tugas terkait tidak ada"
+msgid "This value must be alphanumeric"
+msgstr "Nilai harus alfanumerik"
+msgid "Edit recurrence"
+msgstr "Modifikasi pengulangan"
+msgid "Generate recurrent task"
+msgstr "Menghasilkan tugas berulang"
+msgid "Trigger to generate recurrent task"
+msgstr "Memicu untuk menghasilkan tugas berulang"
+msgid "Factor to calculate new due date"
+msgstr "Faktor untuk menghitung tanggal jatuh tempo baru"
+msgid "Timeframe to calculate new due date"
+msgstr "Jangka waktu untuk menghitung tanggal jatuh tempo baru"
+msgid "Base date to calculate new due date"
+msgstr "Tanggal dasar untuk menghitung tanggal jatuh tempo baru"
+msgid "Action date"
+msgstr "Tanggal aksi"
+msgid "Base date to calculate new due date: "
+msgstr "Tanggal dasar untuk menghitung tanggal jatuh tempo baru: "
+msgid "This task has created this child task: "
+msgstr "Tugas ini telah menciptakan tugas anak ini: "
+msgid "Day(s)"
+msgstr "Hari"
+msgid "Existing due date"
+msgstr "Batas waktu yang ada"
+msgid "Factor to calculate new due date: "
+msgstr "Faktor untuk menghitung tanggal jatuh tempo baru: "
+msgid "Month(s)"
+msgstr "Bulan"
+msgid "This task has been created by: "
+msgstr "Tugas ini telah dibuat oleh:"
+msgid "Recurrent task has been generated:"
+msgstr "Tugas berulang telah dihasilkan:"
+msgid "Timeframe to calculate new due date: "
+msgstr "Jangka waktu untuk menghitung tanggal jatuh tempo baru: "
+msgid "Trigger to generate recurrent task: "
+msgstr "Pemicu untuk menghasilkan tugas berulang: "
+msgid "When task is closed"
+msgstr "Ketika tugas ditutup"
+msgid "When task is moved from first column"
+msgstr "Ketika tugas dipindahkan dari kolom pertama"
+msgid "When task is moved to last column"
+msgstr "Ketika tugas dipindahkan ke kolom terakhir"
+msgid "Year(s)"
+msgstr "Tahun"
+msgid "Project settings"
+msgstr "Pengaturan projek"
+msgid "Automatically update the start date"
+msgstr "Otomatikkan pengemaskinian tanggal"
+msgid "iCal feed"
+msgstr "iCal feed"
+msgid "Preferences"
+msgstr "Keutamaan"
+msgid "Security"
+msgstr "Keamanan"
+msgid "Two factor authentication disabled"
+msgstr "Otentifikasi dua faktor dimatikan"
+msgid "Two factor authentication enabled"
+msgstr "Otentifikasi dua faktor dihidupkan"
+msgid "Unable to update this user."
+msgstr "Tidak dapat memperbarui pengguna ini."
+msgid "There is no user management for personal projects."
+msgstr "Tidak ada manajemen pengguna untuk projek-projek pribadi."
+msgid "User that will receive the email"
+msgstr "Pengguna yang akan menerima email"
+msgid "Email subject"
+msgstr "Subjek Emel"
+msgid "Date"
+msgstr "Tanggal"
+msgid "Add a comment log when moving the task between columns"
+msgstr "Menambahkan log komentar ketika memindahkan tugas antara kolom"
+msgid "Move the task to another column when the category is changed"
+msgstr "Pindahkan tugas ke kolom lain ketika kategori berubah"
+msgid "Send a task by email to someone"
+msgstr "Kirim tugas melalui email ke seseorang"
+msgid "Reopen a task"
+msgstr "Membuka kembali tugas"
+msgid "Notification"
+msgstr "Pemberitahuan"
+msgid "%s moved the task #%d to the first swimlane"
+msgstr "%s memindahkan tugas n°%d ke swimlane pertama"
+msgid "Swimlane"
+msgstr "Swimlane"
+msgid "%s moved the task %s to the first swimlane"
+msgstr "%s memindahkan tugas %s ke swimlane pertama"
+msgid "%s moved the task %s to the swimlane \"%s\""
+msgstr "%s memindahkan tugas %s ke swimlane « %s »"
+msgid "This report contains all subtasks information for the given date range."
+msgstr "Laporan ini berisi semua informasi subtugas untuk rentang tanggal tertentu."
+msgid "This report contains all tasks information for the given date range."
+msgstr "Laporan ini berisi semua informasi tugas untuk rentang tanggal tertentu."
+msgid "Project activities for %s"
+msgstr "Aktifitas projek untuk « %s »"
+msgid "view the board on Kanboard"
+msgstr "lihat papan di Kanboard"
+msgid "The task has been moved to the first swimlane"
+msgstr "Tugas telah dipindahkan ke swimlane pertama"
+msgid "The task has been moved to another swimlane:"
+msgstr "Tugas telah dipindahkan ke swimlane lain:"
+msgid "New title: %s"
+msgstr "Judul baru : %s"
+msgid "The task is not assigned anymore"
+msgstr "Tugas tidak ditugaskan lagi"
+msgid "New assignee: %s"
+msgstr "Penerima baru : %s"
+msgid "There is no category now"
+msgstr "Tidak ada kategori untuk sekarang"
+msgid "New category: %s"
+msgstr "Kategori baru : %s"
+msgid "New color: %s"
+msgstr "Warna baru : %s"
+msgid "New complexity: %d"
+msgstr "Kompleksitas baru : %d"
+msgid "The due date has been removed"
+msgstr "Tanggal jatuh tempo telah dihapus"
+msgid "There is no description anymore"
+msgstr "Tidak ada deskripsi lagi"
+msgid "Recurrence settings has been modified"
+msgstr "Pengaturan pengulangan telah dimodifikasi"
+msgid "Time spent changed: %sh"
+msgstr "Waktu yang dihabiskan berubah : %sh"
+msgid "Time estimated changed: %sh"
+msgstr "Perkiraan waktu berubah : %sh"
+msgid "The field \"%s\" has been updated"
+msgstr "Field « %s » telah diperbaharui"
+msgid "The description has been modified:"
+msgstr "Deskripsi telah dimodifikasi"
+msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
+msgstr "Apakah anda yakin akan menutup tugas « %s » beserta semua sub-tugasnya ?"
+msgid "I want to receive notifications for:"
+msgstr "Saya ingin menerima pemberitahuan untuk :"
+msgid "All tasks"
+msgstr "Semua tugas"
+msgid "Only for tasks assigned to me"
+msgstr "Hanya untuk tugas yang ditugaskan ke saya"
+msgid "Only for tasks created by me"
+msgstr "Hanya untuk tugas yang dibuat oleh saya"
+msgid "Only for tasks created by me and tasks assigned to me"
+msgstr "Hanya untuk tugas yang dibuat oleh saya dan ditugaskan ke saya"
+msgid "%%Y-%%m-%%d"
+msgstr "%%d/%%m/%%Y"
+msgid "Total for all columns"
+msgstr "Total untuk semua kolom"
+msgid "You need at least 2 days of data to show the chart."
+msgstr "Anda memerlukan setidaknya 2 hari dari data yang menunjukkan grafik."
+msgid "<15m"
+msgstr "<15m"
+msgid "<30m"
+msgstr "<30m"
+msgid "Stop timer"
+msgstr "Hentikan timer"
+msgid "Start timer"
+msgstr "Mulai timer"
+msgid "My activity stream"
+msgstr "Aliran kegiatan saya"
+msgid "Search tasks"
+msgstr "Cari tugas"
+msgid "Reset filters"
+msgstr "Reset ulang filter"
+msgid "My tasks due tomorrow"
+msgstr "Tugas saya yang berakhir besok"
+msgid "Tasks due today"
+msgstr "Tugas yang berakhir hari ini"
+msgid "Tasks due tomorrow"
+msgstr "Tugas yang berakhir besok"
+msgid "Tasks due yesterday"
+msgstr "Tugas yang berakhir kemarin"
+msgid "Closed tasks"
+msgstr "Tugas yang ditutup"
+msgid "Open tasks"
+msgstr "Buka Tugas"
+msgid "Not assigned"
+msgstr "Tidak ditugaskan"
+msgid "View advanced search syntax"
+msgstr "Lihat sintaks pencarian lanjutan"
+msgid "Overview"
+msgstr "Ikhtisar"
+msgid "Board/Calendar/List view"
+msgstr "Tampilan Papan/Kalender/Daftar"
+msgid "Switch to the board view"
+msgstr "Beralih ke tampilan papan"
+msgid "Switch to the list view"
+msgstr "Beralih ke tampilan daftar"
+msgid "Go to the search/filter box"
+msgstr "Pergi ke kotak pencarian/filter"
+msgid "There is no activity yet."
+msgstr "Tidak ada aktifitas saat ini."
+msgid "No tasks found."
+msgstr "Tidak ada tugas yang ditemukan."
+msgid "Keyboard shortcut: \"%s\""
+msgstr "Keyboard shortcut : « %s »"
+msgid "List"
+msgstr "Daftar"
+msgid "Filter"
+msgstr "Filter"
+msgid "Advanced search"
+msgstr "Pencarian lanjutan"
+msgid "Example of query: "
+msgstr "Contoh dari query : "
+msgid "Search by project: "
+msgstr "Pencarian berdasarkan projek : "
+msgid "Search by column: "
+msgstr "Pencarian berdasarkan kolom : "
+msgid "Search by assignee: "
+msgstr "Pencarian berdasarkan penerima : "
+msgid "Search by color: "
+msgstr "Pencarian berdasarkan warna : "
+msgid "Search by category: "
+msgstr "Pencarian berdasarkan kategori : "
+msgid "Search by description: "
+msgstr "Pencarian berdasarkan deskripsi : "
+msgid "Search by due date: "
+msgstr "Pencarian berdasarkan tanggal jatuh tempo : "
+msgid "Average time spent in each column"
+msgstr "Rata-rata waktu yang dihabiskan dalam setiap kolom"
+msgid "Average time spent"
+msgstr "Rata-rata waktu yang dihabiskan"
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Grafik ini menunjukkan rata-rata waktu yang dihabiskan dalam setiap kolom untuk %d tugas."
+msgid "Average Lead and Cycle time"
+msgstr "Rata-rata Memimpin dan Siklus waktu"
+msgid "Average lead time: "
+msgstr "Rata-rata waktu pimpinan : "
+msgid "Average cycle time: "
+msgstr "Rata-rata siklus waktu : "
+msgid "Cycle Time"
+msgstr "Siklus Waktu"
+msgid "Lead Time"
+msgstr "Lead Time"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Grafik ini menunjukkan memimpin rata-rata dan waktu siklus untuk %d tugas terakhir dari waktu ke waktu."
+msgid "Average time into each column"
+msgstr "Rata-rata waktu ke setiap kolom"
+msgid "Lead and cycle time"
+msgstr "Lead dan siklus waktu"
+msgid "Lead time: "
+msgstr "Lead time : "
+msgid "Cycle time: "
+msgstr "Siklus waktu : "
+msgid "Time spent in each column"
+msgstr "Waktu yang dihabiskan di setiap kolom"
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "Lead time adalah durasi antara pembuatan tugas dan penyelesaian."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "Siklus waktu adalah durasi antara tanggal mulai dan tanggal penyelesaian."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Jika tugas tidak ditutup waktu saat ini yang digunakan sebagai pengganti tanggal penyelesaian."
+msgid "Set the start date automatically"
+msgstr "Secara otomatis mengatur tanggal mulai"
+msgid "Edit Authentication"
+msgstr "Modifikasi Otentifikasi"
+msgid "Remote user"
+msgstr "Pengguna jauh"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Pengguna jauh tidak menyimpan kata laluan mereka dalam basis data Kanboard, contoh: Akaun LDAP, Google dan Github."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Jika anda mencentang kotak \"Larang formulir login\", kredensial masuk ke formulis login akan diabaikan."
+msgid "Default task color"
+msgstr "Standar warna tugas"
+msgid "This feature does not work with all browsers."
+msgstr "Ciri ini tidak dapat digunakan pada semua browsers"
+msgid "There is no destination project available."
+msgstr "Tiada destinasi projek yang tersedia."
+msgid "Trigger automatically subtask time tracking"
+msgstr "Picu pengesanan subtugas secara otomatik"
+msgid "Include closed tasks in the cumulative flow diagram"
+msgstr "Termasuk tugas yang ditutup pada diagram aliran kumulatif"
+msgid "Current swimlane: %s"
+msgstr "Swimlane saat ini : %s"
+msgid "Current column: %s"
+msgstr "Kolom saat ini : %s"
+msgid "Current category: %s"
+msgstr "Kategori saat ini : %s"
+msgid "no category"
+msgstr "tiada kategori"
+msgid "Current assignee: %s"
+msgstr "Saat ini ditugaskan pada: %s"
+msgid "not assigned"
+msgstr "Belum ditugaskan"
+msgid "Author:"
+msgstr "Penulis:"
+msgid "contributors"
+msgstr "Penggiat"
+msgid "License:"
+msgstr "Lesen:"
+msgid "License"
+msgstr "Lesen"
+msgid "Enter the text below"
+msgstr "Masukkan teks di bawah"
+msgid "Start date:"
+msgstr "Tanggal mulai:"
+msgid "Due date:"
+msgstr "Batas waktu:"
+msgid "People who are project managers"
+msgstr "Orang-orang yang menjadi pengurus projek"
+msgid "People who are project members"
+msgstr "Orang-orang yang menjadi anggota projek"
+msgid "NOK - Norwegian Krone"
+msgstr "NOK - Krone Norwegia"
+msgid "Show this column"
+msgstr "Perlihatkan kolom ini"
+msgid "Hide this column"
+msgstr "Sembunyikan kolom ini"
+msgid "End date"
+msgstr "Waktu berakhir"
+msgid "Users overview"
+msgstr "Ikhtisar pengguna"
+msgid "Members"
+msgstr "Anggota"
+msgid "Shared project"
+msgstr "projek bersama"
+msgid "Project managers"
+msgstr "Pengurus projek"
+msgid "Projects list"
+msgstr "Senarai projek"
+msgid "End date:"
+msgstr "Waktu berakhir :"
+msgid "Change task color when using a specific task link"
+msgstr "Rubah warna tugas ketika menggunakan Pautan tugas yang spesifik"
+msgid "Task link creation or modification"
+msgstr "Pautan tugas pada penciptaan atau penyuntingan"
+msgid "Milestone"
+msgstr "Batu Tanda"
+msgid "Reset the search/filter box"
+msgstr "Tetap semula pencarian/saringan"
+msgid "Documentation"
+msgstr "Dokumentasi"
+msgid "Author"
+msgstr ""
+msgid "Version"
+msgstr ""
+msgid "Plugins"
+msgstr ""
+msgid "There is no plugin loaded."
+msgstr ""
+msgid "My notifications"
+msgstr ""
+msgid "Custom filters"
+msgstr ""
+msgid "Your custom filter has been created successfully."
+msgstr ""
+msgid "Unable to create your custom filter."
+msgstr ""
+msgid "Custom filter removed successfully."
+msgstr ""
+msgid "Unable to remove this custom filter."
+msgstr ""
+msgid "Edit custom filter"
+msgstr ""
+msgid "Your custom filter has been updated successfully."
+msgstr ""
+msgid "Unable to update custom filter."
+msgstr ""
+msgid "Web"
+msgstr ""
+msgid "New attachment on task #%d: %s"
+msgstr ""
+msgid "New comment on task #%d"
+msgstr ""
+msgid "Comment updated on task #%d"
+msgstr ""
+msgid "New subtask on task #%d"
+msgstr ""
+msgid "Subtask updated on task #%d"
+msgstr ""
+msgid "New task #%d: %s"
+msgstr ""
+msgid "Task updated #%d"
+msgstr ""
+msgid "Task #%d closed"
+msgstr ""
+msgid "Task #%d opened"
+msgstr ""
+msgid "Column changed for task #%d"
+msgstr ""
+msgid "New position for task #%d"
+msgstr ""
+msgid "Swimlane changed for task #%d"
+msgstr ""
+msgid "Assignee changed on task #%d"
+msgstr ""
+msgid "%d overdue tasks"
+msgstr ""
+msgid "Task #%d is overdue"
+msgstr ""
+msgid "No notification."
+msgstr ""
+msgid "Mark all as read"
+msgstr ""
+msgid "Mark as read"
+msgstr ""
+msgid "Total number of tasks in this column across all swimlanes"
+msgstr ""
+msgid "Collapse swimlane"
+msgstr ""
+msgid "Expand swimlane"
+msgstr ""
+msgid "Add a new filter"
+msgstr ""
+msgid "Share with all project members"
+msgstr ""
+msgid "Shared"
+msgstr ""
+msgid "Owner"
+msgstr ""
+msgid "Unread notifications"
+msgstr ""
+msgid "Notification methods:"
+msgstr ""
+msgid "Unable to read your file"
+msgstr ""
+msgid "%d task(s) have been imported successfully."
+msgstr ""
+msgid "Nothing has been imported!"
+msgstr ""
+msgid "Import users from CSV file"
+msgstr ""
+msgid "%d user(s) have been imported successfully."
+msgstr ""
+msgid "Comma"
+msgstr ""
+msgid "Semi-colon"
+msgstr ""
+msgid "Tab"
+msgstr ""
+msgid "Vertical bar"
+msgstr ""
+msgid "Double Quote"
+msgstr ""
+msgid "Single Quote"
+msgstr ""
+msgid "%s attached a file to the task #%d"
+msgstr ""
+msgid "There is no column or swimlane activated in your project!"
+msgstr ""
+msgid "Append filter (instead of replacement)"
+msgstr ""
+msgid "Append/Replace"
+msgstr ""
+msgid "Append"
+msgstr ""
+msgid "Replace"
+msgstr ""
+msgid "Import"
+msgstr ""
+msgid "Change sorting"
+msgstr ""
+msgid "Tasks Importation"
+msgstr ""
+msgid "Delimiter"
+msgstr ""
+msgid "Enclosure"
+msgstr ""
+msgid "CSV File"
+msgstr ""
+msgid "Instructions"
+msgstr ""
+msgid "Your file must use the predefined CSV format"
+msgstr ""
+msgid "Your file must be encoded in UTF-8"
+msgstr ""
+msgid "The first row must be the header"
+msgstr ""
+msgid "Duplicates are not verified for you"
+msgstr ""
+msgid "The due date must use the ISO format: YYYY-MM-DD"
+msgstr ""
+msgid "Download CSV template"
+msgstr ""
+msgid "No external integration registered."
+msgstr ""
+msgid "Duplicates are not imported"
+msgstr ""
+msgid "Usernames must be lowercase and unique"
+msgstr ""
+msgid "Passwords will be encrypted if present"
+msgstr ""
+msgid "%s attached a new file to the task %s"
+msgstr ""
+msgid "Link type"
+msgstr "Jenis pautan"
+msgid "Assign automatically a category based on a link"
+msgstr ""
+msgid "BAM - Konvertible Mark"
+msgstr ""
+msgid "Assignee Username"
+msgstr ""
+msgid "Assignee Name"
+msgstr ""
+msgid "Groups"
+msgstr ""
+msgid "Members of %s"
+msgstr ""
+msgid "New group"
+msgstr ""
+msgid "Group created successfully."
+msgstr ""
+msgid "Unable to create your group."
+msgstr ""
+msgid "Edit group"
+msgstr ""
+msgid "Group updated successfully."
+msgstr ""
+msgid "Unable to update your group."
+msgstr ""
+msgid "Add group member to \"%s\""
+msgstr ""
+msgid "Group member added successfully."
+msgstr ""
+msgid "Unable to add group member."
+msgstr ""
+msgid "Remove user from group \"%s\""
+msgstr ""
+msgid "User removed successfully from this group."
+msgstr ""
+msgid "Unable to remove this user from the group."
+msgstr ""
+msgid "Remove group"
+msgstr ""
+msgid "Group removed successfully."
+msgstr ""
+msgid "Unable to remove this group."
+msgstr ""
+msgid "Project Permissions"
+msgstr ""
+msgid "Manager"
+msgstr ""
+msgid "Project Manager"
+msgstr ""
+msgid "Project Member"
+msgstr ""
+msgid "Project Viewer"
+msgstr ""
+msgid "Your account is locked for %d minutes"
+msgstr ""
+msgid "Invalid captcha"
+msgstr ""
+msgid "The name must be unique"
+msgstr ""
+msgid "View all groups"
+msgstr ""
+msgid "There is no user available."
+msgstr ""
+msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
+msgstr ""
+msgid "There is no group."
+msgstr ""
+msgid "Add group member"
+msgstr ""
+msgid "Do you really want to remove this group: \"%s\"?"
+msgstr ""
+msgid "There is no user in this group."
+msgstr ""
+msgid "Permissions"
+msgstr ""
+msgid "Allowed Users"
+msgstr ""
+msgid "No specific user has been allowed."
+msgstr ""
+msgid "Role"
+msgstr ""
+msgid "Enter user name..."
+msgstr ""
+msgid "Allowed Groups"
+msgstr ""
+msgid "No group has been allowed."
+msgstr ""
+msgid "Group"
+msgstr ""
+msgid "Group Name"
+msgstr ""
+msgid "Enter group name..."
+msgstr ""
+msgid "Role:"
+msgstr "Peranan"
+msgid "Project members"
+msgstr "Anggota projek"
+msgid "%s mentioned you in the task #%d"
+msgstr ""
+msgid "%s mentioned you in a comment on the task #%d"
+msgstr ""
+msgid "You were mentioned in the task #%d"
+msgstr ""
+msgid "You were mentioned in a comment on the task #%d"
+msgstr ""
+msgid "Estimated hours: "
+msgstr ""
+msgid "Actual hours: "
+msgstr ""
+msgid "Hours Spent"
+msgstr ""
+msgid "Hours Estimated"
+msgstr ""
+msgid "Estimated Time"
+msgstr ""
+msgid "Actual Time"
+msgstr ""
+msgid "Estimated vs actual time"
+msgstr ""
+msgid "RUB - Russian Ruble"
+msgstr ""
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr ""
+msgid "Close a task in a specific column"
+msgstr ""
+msgid "Time-based One-time Password Algorithm"
+msgstr ""
+msgid "Two-Factor Provider: "
+msgstr ""
+msgid "Disable two-factor authentication"
+msgstr ""
+msgid "Enable two-factor authentication"
+msgstr ""
+msgid "There is no integration registered at the moment."
+msgstr ""
+msgid "Password Reset for Kanboard"
+msgstr ""
+msgid "Forgot password?"
+msgstr ""
+msgid "Enable \"Forget Password\""
+msgstr ""
+msgid "Password Reset"
+msgstr ""
+msgid "New password"
+msgstr ""
+msgid "Change Password"
+msgstr ""
+msgid "To reset your password click on this link:"
+msgstr ""
+msgid "Last Password Reset"
+msgstr ""
+msgid "The password has never been reinitialized."
+msgstr ""
+msgid "Creation"
+msgstr "Ciptaan"
+msgid "Expiration"
+msgstr "Jangka hayat"
+msgid "Password reset history"
+msgstr "Sirah tetap semula kata laluan"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr ""
+msgid "Do you really want to close all tasks of this column?"
+msgstr ""
+msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+msgstr ""
+msgid "Close all tasks in this column and this swimlane"
+msgstr ""
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr ""
+msgid "My dashboard"
+msgstr ""
+msgid "My profile"
+msgstr ""
+msgid "Project owner: "
+msgstr ""
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr ""
+msgid "Project owner"
+msgstr ""
+msgid "Personal projects do not have users and groups management."
+msgstr ""
+msgid "There is no project member."
+msgstr ""
+msgid "Priority"
+msgstr ""
+msgid "Task priority"
+msgstr ""
+msgid "General"
+msgstr ""
+msgid "Dates"
+msgstr ""
+msgid "Default priority"
+msgstr ""
+msgid "Lowest priority"
+msgstr ""
+msgid "Highest priority"
+msgstr ""
+msgid "Close a task when there is no activity"
+msgstr ""
+msgid "Duration in days"
+msgstr ""
+msgid "Send email when there is no activity on a task"
+msgstr ""
+msgid "Unable to fetch link information."
+msgstr ""
+msgid "Daily background job for tasks"
+msgstr ""
+msgid "Auto"
+msgstr ""
+msgid "Related"
+msgstr ""
+msgid "Attachment"
+msgstr ""
+msgid "Title not found"
+msgstr ""
+msgid "Web Link"
+msgstr ""
+msgid "External links"
+msgstr ""
+msgid "Add external link"
+msgstr ""
+msgid "Type"
+msgstr ""
+msgid "Dependency"
+msgstr ""
+msgid "Add internal link"
+msgstr ""
+msgid "Add a new external link"
+msgstr ""
+msgid "Edit external link"
+msgstr ""
+msgid "External link"
+msgstr ""
+msgid "Copy and paste your link here..."
+msgstr ""
+msgid "URL"
+msgstr ""
+msgid "Internal links"
+msgstr ""
+msgid "Assign to me"
+msgstr ""
+msgid "Me"
+msgstr ""
+msgid "Do not duplicate anything"
+msgstr ""
+msgid "Projects management"
+msgstr ""
+msgid "Users management"
+msgstr ""
+msgid "Groups management"
+msgstr ""
+msgid "Create from another project"
+msgstr ""
+msgid "open"
+msgstr ""
+msgid "closed"
+msgstr ""
+msgid "Priority:"
+msgstr ""
+msgid "Reference:"
+msgstr ""
+msgid "Complexity:"
+msgstr ""
+msgid "Swimlane:"
+msgstr ""
+msgid "Column:"
+msgstr ""
+msgid "Position:"
+msgstr ""
+msgid "Creator:"
+msgstr ""
+msgid "Time estimated:"
+msgstr ""
+msgid "%s hours"
+msgstr ""
+msgid "Time spent:"
+msgstr ""
+msgid "Created:"
+msgstr ""
+msgid "Modified:"
+msgstr ""
+msgid "Completed:"
+msgstr ""
+msgid "Started:"
+msgstr ""
+msgid "Moved:"
+msgstr ""
+msgid "Task #%d"
+msgstr ""
+msgid "Time format"
+msgstr ""
+msgid "Start date: "
+msgstr ""
+msgid "End date: "
+msgstr ""
+msgid "New due date: "
+msgstr ""
+msgid "Start date changed: "
+msgstr ""
+msgid "Disable personal projects"
+msgstr ""
+msgid "Do you really want to remove this custom filter: \"%s\"?"
+msgstr ""
+msgid "Remove a custom filter"
+msgstr ""
+msgid "User activated successfully."
+msgstr ""
+msgid "Unable to enable this user."
+msgstr ""
+msgid "User disabled successfully."
+msgstr ""
+msgid "Unable to disable this user."
+msgstr ""
+msgid "All files have been uploaded successfully."
+msgstr ""
+msgid "The maximum allowed file size is %sB."
+msgstr ""
+msgid "Drag and drop your files here"
+msgstr ""
+msgid "choose files"
+msgstr ""
+msgid "View profile"
+msgstr ""
+msgid "Two Factor"
+msgstr ""
+msgid "Disable user"
+msgstr ""
+msgid "Do you really want to disable this user: \"%s\"?"
+msgstr ""
+msgid "Enable user"
+msgstr ""
+msgid "Do you really want to enable this user: \"%s\"?"
+msgstr ""
+msgid "Download"
+msgstr ""
+msgid "Uploaded: %s"
+msgstr ""
+msgid "Size: %s"
+msgstr ""
+msgid "Uploaded by %s"
+msgstr ""
+msgid "Filename"
+msgstr ""
+msgid "Size"
+msgstr ""
+msgid "Column created successfully."
+msgstr ""
+msgid "Another column with the same name exists in the project"
+msgstr ""
+msgid "Default filters"
+msgstr ""
+msgid "Your board doesn't have any columns!"
+msgstr ""
+msgid "Change column position"
+msgstr ""
+msgid "Switch to the project overview"
+msgstr ""
+msgid "User filters"
+msgstr ""
+msgid "Category filters"
+msgstr ""
+msgid "Upload a file"
+msgstr ""
+msgid "View file"
+msgstr ""
+msgid "Last activity"
+msgstr ""
+msgid "Change subtask position"
+msgstr ""
+msgid "This value must be greater than %d"
+msgstr ""
+msgid "Another swimlane with the same name exists in the project"
+msgstr ""
+msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
+msgstr ""
+msgid "Actions duplicated successfully."
+msgstr ""
+msgid "Unable to duplicate actions."
+msgstr ""
+msgid "Add a new action"
+msgstr ""
+msgid "Import from another project"
+msgstr ""
+msgid "There is no action at the moment."
+msgstr ""
+msgid "Import actions from another project"
+msgstr ""
+msgid "There is no available project."
+msgstr ""
+msgid "Local File"
+msgstr ""
+msgid "Configuration"
+msgstr ""
+msgid "PHP version:"
+msgstr ""
+msgid "PHP SAPI:"
+msgstr ""
+msgid "OS version:"
+msgstr ""
+msgid "Database version:"
+msgstr ""
+msgid "Browser:"
+msgstr ""
+msgid "Task view"
+msgstr ""
+msgid "Edit task"
+msgstr ""
+msgid "Edit description"
+msgstr ""
+msgid "New internal link"
+msgstr ""
+msgid "Display list of keyboard shortcuts"
+msgstr ""
+msgid "Avatar"
+msgstr ""
+msgid "Upload my avatar image"
+msgstr ""
+msgid "Remove my image"
+msgstr ""
+msgid "The OAuth2 state parameter is invalid"
+msgstr ""
+msgid "User not found."
+msgstr ""
+msgid "Search in activity stream"
+msgstr ""
+msgid "My activities"
+msgstr ""
+msgid "Activity until yesterday"
+msgstr ""
+msgid "Activity until today"
+msgstr ""
+msgid "Search by creator: "
+msgstr ""
+msgid "Search by creation date: "
+msgstr ""
+msgid "Search by task status: "
+msgstr ""
+msgid "Search by task title: "
+msgstr ""
+msgid "Activity stream search"
+msgstr ""
+msgid "Projects where \"%s\" is manager"
+msgstr ""
+msgid "Projects where \"%s\" is member"
+msgstr ""
+msgid "Open tasks assigned to \"%s\""
+msgstr ""
+msgid "Closed tasks assigned to \"%s\""
+msgstr ""
+msgid "Assign automatically a color based on a priority"
+msgstr ""
+msgid "Overdue tasks for the project(s) \"%s\""
+msgstr "Tugas terlambat untuk projek « %s »"
+msgid "Upload files"
+msgstr ""
+msgid "Installed Plugins"
+msgstr ""
+msgid "Plugin Directory"
+msgstr ""
+msgid "Plugin installed successfully."
+msgstr ""
+msgid "Plugin updated successfully."
+msgstr ""
+msgid "Plugin removed successfully."
+msgstr ""
+msgid "Subtask converted to task successfully."
+msgstr ""
+msgid "Unable to convert the subtask."
+msgstr ""
+msgid "Unable to extract plugin archive."
+msgstr ""
+msgid "Plugin not found."
+msgstr ""
+msgid "You don't have the permission to remove this plugin."
+msgstr ""
+msgid "Unable to download plugin archive."
+msgstr ""
+msgid "Unable to write temporary file for plugin."
+msgstr ""
+msgid "Unable to open plugin archive."
+msgstr ""
+msgid "There is no file in the plugin archive."
+msgstr ""
+msgid "Create tasks in bulk"
+msgstr ""
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr ""
+msgid "There is no plugin available."
+msgstr ""
+msgid "Install"
+msgstr ""
+msgid "Update"
+msgstr ""
+msgid "Up to date"
+msgstr ""
+msgid "Not available"
+msgstr ""
+msgid "Remove plugin"
+msgstr ""
+msgid "Do you really want to remove this plugin: \"%s\"?"
+msgstr ""
+msgid "Uninstall"
+msgstr ""
+msgid "Listing"
+msgstr ""
+msgid "Metadata"
+msgstr ""
+msgid "Manage projects"
+msgstr ""
+msgid "Convert to task"
+msgstr ""
+msgid "Convert sub-task to task"
+msgstr ""
+msgid "Do you really want to convert this sub-task to a task?"
+msgstr ""
+msgid "My task title"
+msgstr ""
+msgid "Enter one task by line."
+msgstr ""
+msgid "Number of failed login:"
+msgstr ""
+msgid "Account locked until:"
+msgstr ""
+msgid "Email settings"
+msgstr ""
+msgid "Email sender address"
+msgstr ""
+msgid "Email transport"
+msgstr ""
+msgid "Webhook token"
+msgstr ""
+msgid "Project tags management"
+msgstr ""
+msgid "Tag created successfully."
+msgstr ""
+msgid "Unable to create this tag."
+msgstr ""
+msgid "Tag updated successfully."
+msgstr ""
+msgid "Unable to update this tag."
+msgstr ""
+msgid "Tag removed successfully."
+msgstr ""
+msgid "Unable to remove this tag."
+msgstr ""
+msgid "Global tags management"
+msgstr ""
+msgid "Tags"
+msgstr ""
+msgid "Tags management"
+msgstr ""
+msgid "Add new tag"
+msgstr ""
+msgid "Edit a tag"
+msgstr ""
+msgid "Project tags"
+msgstr ""
+msgid "There is no specific tag for this project at the moment."
+msgstr ""
+msgid "Tag"
+msgstr ""
+msgid "Remove a tag"
+msgstr ""
+msgid "Do you really want to remove this tag: \"%s\"?"
+msgstr ""
+msgid "Global tags"
+msgstr ""
+msgid "There is no global tag at the moment."
+msgstr ""
+msgid "This field cannot be empty"
+msgstr ""
+msgid "Close a task when there is no activity in a specific column"
+msgstr ""
+msgid "%s removed a subtask for the task #%d"
+msgstr ""
+msgid "%s removed a comment on the task #%d"
+msgstr ""
+msgid "Comment removed on task #%d"
+msgstr ""
+msgid "Subtask removed on task #%d"
+msgstr ""
+msgid "Hide tasks in this column in the dashboard"
+msgstr ""
+msgid "%s removed a comment on the task %s"
+msgstr ""
+msgid "%s removed a subtask for the task %s"
+msgstr ""
+msgid "Comment removed"
+msgstr ""
+msgid "Subtask removed"
+msgstr ""
+msgid "%s set a new internal link for the task #%d"
+msgstr ""
+msgid "%s removed an internal link for the task #%d"
+msgstr ""
+msgid "A new internal link for the task #%d has been defined"
+msgstr ""
+msgid "Internal link removed for the task #%d"
+msgstr ""
+msgid "%s set a new internal link for the task %s"
+msgstr ""
+msgid "%s removed an internal link for the task %s"
+msgstr ""
+msgid "Automatically set the due date on task creation"
+msgstr ""
+msgid "Move the task to another column when closed"
+msgstr ""
+msgid "Move the task to another column when not moved during a given period"
+msgstr ""
+msgid "Dashboard for %s"
+msgstr ""
+msgid "Tasks overview for %s"
+msgstr ""
+msgid "Subtasks overview for %s"
+msgstr ""
+msgid "Projects overview for %s"
+msgstr ""
+msgid "Activity stream for %s"
+msgstr ""
+msgid "Assign a color when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Assign a priority when the task is moved to a specific swimlane"
+msgstr ""
+msgid "User unlocked successfully."
+msgstr ""
+msgid "Unable to unlock the user."
+msgstr ""
+msgid "Move a task to another swimlane"
+msgstr ""
+msgid "Creator Name"
+msgstr ""
+msgid "Time spent and estimated"
+msgstr ""
+msgid "Move position"
+msgstr ""
+msgid "Move task to another position on the board"
+msgstr ""
+msgid "Insert before this task"
+msgstr ""
+msgid "Insert after this task"
+msgstr ""
+msgid "Unlock this user"
+msgstr ""
+msgid "Custom Project Roles"
+msgstr ""
+msgid "Add a new custom role"
+msgstr ""
+msgid "Restrictions for the role \"%s\""
+msgstr ""
+msgid "Add a new project restriction"
+msgstr ""
+msgid "Add a new drag and drop restriction"
+msgstr ""
+msgid "Add a new column restriction"
+msgstr ""
+msgid "Edit this role"
+msgstr ""
+msgid "Remove this role"
+msgstr ""
+msgid "There is no restriction for this role."
+msgstr ""
+msgid "Only moving task between those columns is permitted"
+msgstr ""
+msgid "Close a task in a specific column when not moved during a given period"
+msgstr ""
+msgid "Edit columns"
+msgstr ""
+msgid "The column restriction has been created successfully."
+msgstr ""
+msgid "Unable to create this column restriction."
+msgstr ""
+msgid "Column restriction removed successfully."
+msgstr ""
+msgid "Unable to remove this restriction."
+msgstr ""
+msgid "Your custom project role has been created successfully."
+msgstr ""
+msgid "Unable to create custom project role."
+msgstr ""
+msgid "Your custom project role has been updated successfully."
+msgstr ""
+msgid "Unable to update custom project role."
+msgstr ""
+msgid "Custom project role removed successfully."
+msgstr ""
+msgid "Unable to remove this project role."
+msgstr ""
+msgid "The project restriction has been created successfully."
+msgstr ""
+msgid "Unable to create this project restriction."
+msgstr ""
+msgid "Project restriction removed successfully."
+msgstr ""
+msgid "You cannot create tasks in this column."
+msgstr ""
+msgid "Task creation is permitted for this column"
+msgstr ""
+msgid "Closing or opening a task is permitted for this column"
+msgstr ""
+msgid "Task creation is blocked for this column"
+msgstr ""
+msgid "Closing or opening a task is blocked for this column"
+msgstr ""
+msgid "Task creation is not permitted"
+msgstr ""
+msgid "Closing or opening a task is not permitted"
+msgstr ""
+msgid "New drag and drop restriction for the role \"%s\""
+msgstr ""
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr ""
+msgid "Remove a column restriction"
+msgstr ""
+msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
+msgstr ""
+msgid "New column restriction for the role \"%s\""
+msgstr ""
+msgid "Rule"
+msgstr ""
+msgid "Do you really want to remove this column restriction?"
+msgstr ""
+msgid "Custom roles"
+msgstr ""
+msgid "New custom project role"
+msgstr ""
+msgid "Edit custom project role"
+msgstr ""
+msgid "Remove a custom role"
+msgstr ""
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr ""
+msgid "There is no custom role for this project."
+msgstr ""
+msgid "New project restriction for the role \"%s\""
+msgstr ""
+msgid "Restriction"
+msgstr ""
+msgid "Remove a project restriction"
+msgstr ""
+msgid "Do you really want to remove this project restriction: \"%s\"?"
+msgstr ""
+msgid "Duplicate to multiple projects"
+msgstr ""
+msgid "This field is required"
+msgstr ""
+msgid "Moving a task is not permitted"
+msgstr ""
+msgid "This value must be in the range %d to %d"
+msgstr ""
+msgid "You are not allowed to move this task."
+msgstr ""
+msgid "API User Access"
+msgstr ""
+msgid "Preview"
+msgstr ""
+msgid "Write"
+msgstr ""
+msgid "Write your text in Markdown"
+msgstr ""
+msgid "No personal API access token registered."
+msgstr ""
+msgid "Your personal API access token is \"%s\""
+msgstr ""
+msgid "Remove your token"
+msgstr ""
+msgid "Generate a new token"
+msgstr ""
+msgid "Showing %d-%d of %d"
+msgstr ""
+msgid "Outgoing Emails"
+msgstr ""
+msgid "Add or change currency rate"
+msgstr ""
+msgid "Reference currency: %s"
+msgstr ""
+msgid "Add custom filters"
+msgstr ""
+msgid "Export"
+msgstr ""
+msgid "Add link label"
+msgstr ""
+msgid "Incompatible Plugins"
+msgstr ""
+msgid "Compatibility"
+msgstr ""
+msgid "Permissions and ownership"
+msgstr ""
+msgid "Priorities"
+msgstr ""
+msgid "Close this window"
+msgstr ""
+msgid "Unable to upload this file."
+msgstr ""
+msgid "Import tasks"
+msgstr ""
+msgid "Choose a project"
+msgstr ""
+msgid "Profile"
+msgstr ""
+msgid "Application role"
+msgstr ""
+msgid "%d invitations were sent."
+msgstr ""
+msgid "%d invitation was sent."
+msgstr ""
+msgid "Unable to create this user."
+msgstr ""
+msgid "Kanboard Invitation"
+msgstr ""
+msgid "Visible on dashboard"
+msgstr ""
+msgid "Created at:"
+msgstr ""
+msgid "Updated at:"
+msgstr ""
+msgid "There is no custom filter."
+msgstr ""
+msgid "New User"
+msgstr ""
+msgid "Authentication"
+msgstr ""
+msgid "If checked, this user will use a third-party system for authentication."
+msgstr ""
+msgid "The password is necessary only for local users."
+msgstr ""
+msgid "You have been invited to register on Kanboard."
+msgstr ""
+msgid "Click here to join your team"
+msgstr ""
+msgid "Invite people"
+msgstr ""
+msgid "Emails"
+msgstr ""
+msgid "Enter one email address by line."
+msgstr ""
+msgid "Add these people to this project"
+msgstr ""
+msgid "Add this person to this project"
+msgstr ""
+msgid "Sign-up"
+msgstr ""
+msgid "Credentials"
+msgstr ""
+msgid "New user"
+msgstr ""
+msgid "This username is already taken"
+msgstr ""
+msgid "Your profile must have a valid email address."
+msgstr ""
+msgid "TRL - Turkish Lira"
+msgstr ""
+msgid "The project email is optional and could be used by several plugins."
+msgstr ""
+msgid "The project email must be unique across all projects"
+msgstr ""
+msgid "The email configuration has been disabled by the administrator."
+msgstr ""
+msgid "Close this project"
+msgstr ""
+msgid "Open this project"
+msgstr ""
+msgid "Close a project"
+msgstr ""
+msgid "Do you really want to close this project: \"%s\"?"
+msgstr ""
+msgid "Reopen a project"
+msgstr ""
+msgid "Do you really want to reopen this project: \"%s\"?"
+msgstr ""
+msgid "This project is open"
+msgstr ""
+msgid "This project is closed"
+msgstr ""
+msgid "Unable to upload files, check the permissions of your data folder."
+msgstr ""
+msgid "Another category with the same name exists in this project"
+msgstr ""
+msgid "Comment sent by email successfully."
+msgstr ""
+msgid "Sent by email to \"%s\" (%s)"
+msgstr ""
+msgid "Unable to read uploaded file."
+msgstr ""
+msgid "Database uploaded successfully."
+msgstr ""
+msgid "Task sent by email successfully."
+msgstr ""
+msgid "There is no category in this project."
+msgstr ""
+msgid "Send by email"
+msgstr ""
+msgid "Create and send a comment by email"
+msgstr ""
+msgid "Subject"
+msgstr ""
+msgid "Upload the database"
+msgstr ""
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr ""
+msgid "Database file"
+msgstr ""
+msgid "Upload"
+msgstr ""
+msgid "Your project must have at least one active swimlane."
+msgstr ""
+msgid "Project: %s"
+msgstr ""
+msgid "Automatic action not found: \"%s\""
+msgstr ""
+msgid "%d projects"
+msgstr ""
+msgid "%d project"
+msgstr ""
+msgid "There is no project."
+msgstr ""
+msgid "Sort"
+msgstr ""
+msgid "Project ID"
+msgstr ""
+msgid "Project name"
+msgstr ""
+msgid "Public"
+msgstr ""
+msgid "Personal"
+msgstr ""
+msgid "%d tasks"
+msgstr ""
+msgid "%d task"
+msgstr ""
+msgid "Task ID"
+msgstr ""
+msgid "Assign automatically a color when due date is expired"
+msgstr ""
+msgid "Total score in this column across all swimlanes"
+msgstr ""
+msgid "HRK - Kuna"
+msgstr ""
+msgid "ARS - Argentine Peso"
+msgstr ""
+msgid "COP - Colombian Peso"
+msgstr ""
+msgid "%d groups"
+msgstr ""
+msgid "%d group"
+msgstr ""
+msgid "Group ID"
+msgstr ""
+msgid "External ID"
+msgstr ""
+msgid "%d users"
+msgstr ""
+msgid "%d user"
+msgstr ""
+msgid "Hide subtasks"
+msgstr ""
+msgid "Show subtasks"
+msgstr ""
+msgid "Authentication Parameters"
+msgstr ""
+msgid "API Access"
+msgstr ""
+msgid "No users found."
+msgstr ""
+msgid "User ID"
+msgstr ""
+msgid "Notifications are activated"
+msgstr ""
+msgid "Notifications are disabled"
+msgstr ""
+msgid "User disabled"
+msgstr ""
+msgid "%d notifications"
+msgstr ""
+msgid "%d notification"
+msgstr ""
+msgid "There is no external integration installed."
+msgstr ""
+msgid "You are not allowed to update tasks assigned to someone else."
+msgstr ""
+msgid "You are not allowed to change the assignee."
+msgstr ""
+msgid "Task suppression is not permitted"
+msgstr ""
+msgid "Changing assignee is not permitted"
+msgstr ""
+msgid "Update only assigned tasks is permitted"
+msgstr ""
+msgid "Only for tasks assigned to the current user"
+msgstr ""
+msgid "My projects"
+msgstr ""
+msgid "You are not a member of any project."
+msgstr ""
+msgid "My subtasks"
+msgstr ""
+msgid "%d subtasks"
+msgstr ""
+msgid "%d subtask"
+msgstr ""
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr ""
+msgid "[DUPLICATE]"
+msgstr ""
+msgid "DKK - Danish Krona"
+msgstr ""
+msgid "Remove user from group"
+msgstr ""
+msgid "Assign the task to its creator"
+msgstr ""
+msgid "This task was sent by email to \"%s\" with subject \"%s\"."
+msgstr ""
+msgid "Predefined Email Subjects"
+msgstr ""
+msgid "Write one subject by line."
+msgstr ""
+msgid "Create another link"
+msgstr ""
+msgid "BRL - Brazilian Real"
+msgstr ""
+msgid "Add a new Kanboard task"
+msgstr ""
+msgid "Subtask not started"
+msgstr ""
+msgid "Subtask currently in progress"
+msgstr ""
+msgid "Subtask completed"
+msgstr ""
+msgid "Subtask added successfully."
+msgstr ""
+msgid "%d subtasks added successfully."
+msgstr ""
+msgid "Enter one subtask by line."
+msgstr ""
+msgid "Predefined Contents"
+msgstr ""
+msgid "Predefined contents"
+msgstr ""
+msgid "Predefined Task Description"
+msgstr ""
+msgid "Do you really want to remove this template? \"%s\""
+msgstr ""
+msgid "Add predefined task description"
+msgstr ""
+msgid "Predefined Task Descriptions"
+msgstr ""
+msgid "Template created successfully."
+msgstr ""
+msgid "Unable to create this template."
+msgstr ""
+msgid "Template updated successfully."
+msgstr ""
+msgid "Unable to update this template."
+msgstr ""
+msgid "Template removed successfully."
+msgstr ""
+msgid "Unable to remove this template."
+msgstr ""
+msgid "Template for the task description"
+msgstr ""
+msgid "The start date is greater than the end date"
+msgstr ""
+msgid "Tags must be separated by a comma"
+msgstr ""
+msgid "Only the task title is required"
+msgstr ""
+msgid "Creator Username"
+msgstr ""
+msgid "Color Name"
+msgstr ""
+msgid "Column Name"
+msgstr ""
+msgid "Swimlane Name"
+msgstr ""
+msgid "Time Estimated"
+msgstr ""
+msgid "Time Spent"
+msgstr ""
+msgid "External Link"
+msgstr ""
+msgid "This feature enables the iCal feed, RSS feed and the public board view."
+msgstr ""
+msgid "Stop the timer of all subtasks when moving a task to another column"
+msgstr ""
+msgid "Subtask Title"
+msgstr ""
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr ""
+msgid "days"
+msgstr ""
+msgid "minutes"
+msgstr ""
+msgid "seconds"
+msgstr ""
+msgid "Assign automatically a color when preset start date is reached"
+msgstr ""
+msgid "Move the task to another column once a predefined start date is reached"
+msgstr ""
+msgid "This task is now linked to the task %s with the relation \"%s\""
+msgstr ""
+msgid "The link with the relation \"%s\" to the task %s has been removed"
+msgstr ""
+msgid "Custom Filter:"
+msgstr ""
+msgid "Unable to find this group."
+msgstr ""
+msgid "%s moved the task #%d to the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the position %d in the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the swimlane \"%s\""
+msgstr ""
+msgid "%sh spent"
+msgstr ""
+msgid "%sh estimated"
+msgstr ""
+msgid "Select All"
+msgstr ""
+msgid "Unselect All"
+msgstr ""
+msgid "Apply action"
+msgstr ""
+msgid "Move selected tasks to another column or swimlane"
+msgstr ""
+msgid "Edit tasks in bulk"
+msgstr ""
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr ""
+msgid "Configure this project"
+msgstr ""
+msgid "Start now"
+msgstr ""
+msgid "%s removed a file from the task #%d"
+msgstr ""
+msgid "Attachment removed from task #%d: %s"
+msgstr ""
+msgid "No color"
+msgstr ""
+msgid "Attachment removed \"%s\""
+msgstr ""
+msgid "%s removed a file from the task %s"
+msgstr ""
+msgid "Move the task to another swimlane when assigned to a user"
+msgstr ""
+msgid "Destination swimlane"
+msgstr ""
+msgid "Assign a category when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Move the task to another swimlane when the category is changed"
+msgstr ""
+msgid "Reorder this column by priority (ASC)"
+msgstr ""
+msgid "Reorder this column by priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (ASC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee (A-Z)"
+msgstr ""
+msgid "Reorder this column by assignee (Z-A)"
+msgstr ""
+msgid "Reorder this column by due date (ASC)"
+msgstr ""
+msgid "Reorder this column by due date (DESC)"
+msgstr ""
+msgid "%s moved the task #%d \"%s\" to the project \"%s\""
+msgstr ""
+msgid "Task #%d \"%s\" has been moved to the project \"%s\""
+msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr ""
+msgid "HTTP Client:"
+msgstr ""
+msgid "Assigned"
+msgstr ""
+msgid "Task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied across swimlanes"
+msgstr ""
+msgid "Task limit: "
+msgstr ""
+msgid "Change to global tag"
+msgstr ""
+msgid "Do you really want to make the tag \"%s\" global?"
+msgstr ""
+msgid "Enable global tags for this project"
+msgstr ""
+msgid "Group membership(s):"
+msgstr ""
+msgid "%s is a member of the following group(s): %s"
+msgstr ""
+msgid "%d/%d group(s) shown"
+msgstr ""
+msgid "Subtask creation or modification"
+msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Comment"
+msgstr ""
+msgid "Collapse vertically"
+msgstr ""
+msgid "Expand vertically"
+msgstr ""
+msgid "MXN - Mexican Peso"
+msgstr ""
+msgid "Estimated vs actual time per column"
+msgstr ""
+msgid "HUF - Hungarian Forint"
+msgstr ""
+msgid "XBT - Bitcoin"
+msgstr ""
+msgid "You must select a file to upload as your avatar!"
+msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr ""
+msgid "No other projects found."
+msgstr ""
+msgid "Please choose a project you want to copy the tasks from."
+msgstr ""
+msgid "Import Tasks"
+msgstr ""
+msgid "Copy"
+msgstr ""
+msgid "Tasks copied successfully."
+msgstr ""
+msgid "Unable to copy tasks."
+msgstr ""
 

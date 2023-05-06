@@ -1,2868 +1,2868 @@
 
- msgid 'number.decimals_separator'
- msgstr ','
- msgid 'number.thousands_separator'
- msgstr ' '
- msgid 'None'
- msgstr 'Chưa có'
- msgid 'Edit'
- msgstr 'Chỉnh sửa'
- msgid 'Remove'
- msgstr 'Xóa bỏ'
- msgid 'Yes'
- msgstr 'Có'
- msgid 'No'
- msgstr 'Không'
- msgid 'cancel'
- msgstr 'hủy bỏ'
- msgid 'or'
- msgstr 'hoặc là'
- msgid 'Yellow'
- msgstr 'Màu vàng'
- msgid 'Blue'
- msgstr 'Màu xanh da trời'
- msgid 'Green'
- msgstr 'Màu xanh lá'
- msgid 'Purple'
- msgstr 'Màu tím'
- msgid 'Red'
- msgstr 'Đỏ'
- msgid 'Orange'
- msgstr 'Trái cam'
- msgid 'Grey'
- msgstr 'Xám'
- msgid 'Brown'
- msgstr 'Nâu'
- msgid 'Deep Orange'
- msgstr 'Deep Orange'
- msgid 'Dark Grey'
- msgstr 'Màu xám đen'
- msgid 'Pink'
- msgstr 'Hồng'
- msgid 'Teal'
- msgstr 'Teal'
- msgid 'Cyan'
- msgstr ' Cyan'
- msgid 'Lime'
- msgstr 'Vôi'
- msgid 'Light Green'
- msgstr 'Màu xanh lợt'
- msgid 'Amber'
- msgstr 'Amber'
- msgid 'Save'
- msgstr 'Lưu'
- msgid 'Login'
- msgstr 'Đăng nhập'
- msgid 'Official website:'
- msgstr 'Trang web chinh thưc:'
- msgid 'Unassigned'
- msgstr 'Chưa được gán'
- msgid 'View this task'
- msgstr 'Xem công việc này'
- msgid 'Remove user'
- msgstr 'Xóa người dùng'
- msgid 'Do you really want to remove this user: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ người dùng này: "%s"?'
- msgid 'All users'
- msgstr 'Tất cả người dùng'
- msgid 'Username'
- msgstr 'Tên đăng nhập'
- msgid 'Password'
- msgstr 'Mật khẩu'
- msgid 'Administrator'
- msgstr 'Người quản lý'
- msgid 'Sign in'
- msgstr 'Đăng nhập'
- msgid 'Users'
- msgstr 'Người dùng'
- msgid 'Forbidden'
- msgstr 'Forbidden'
- msgid 'Access Forbidden'
- msgstr 'Truy cập bị cấm'
- msgid 'Edit user'
- msgstr 'Chỉnh sửa người dùng'
- msgid 'Logout'
- msgstr 'Đăng xuất'
- msgid 'Bad username or password'
- msgstr 'Tên đăng nhập hoặc mật khẩu xâu'
- msgid 'Edit project'
- msgstr 'Chỉnh sửa dự án'
- msgid 'Name'
- msgstr 'Tên'
- msgid 'Projects'
- msgstr 'Dự án'
- msgid 'No project'
- msgstr 'Không có dự án'
- msgid 'Project'
- msgstr 'Dự án'
- msgid 'Status'
- msgstr 'Trạng thái'
- msgid 'Tasks'
- msgstr 'Nhiệm vụ'
- msgid 'Board'
- msgstr 'Bảng'
- msgid 'Actions'
- msgstr 'Hành động'
- msgid 'Inactive'
- msgstr 'Không hoạt động'
- msgid 'Active'
- msgstr 'Hoạt động'
- msgid 'Unable to update this board.'
- msgstr 'Không thể cập nhật bảng này.'
- msgid 'Disable'
- msgstr 'Vô hiệu hóa'
- msgid 'Enable'
- msgstr 'Bật'
- msgid 'New project'
- msgstr 'Dự án mới'
- msgid 'Do you really want to remove this project: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ dự án này: "%s"?'
- msgid 'Remove project'
- msgstr 'Loại bỏ dự án'
- msgid 'Edit the board for "%s"'
- msgstr 'Chỉnh sửa bảng cho "%s"'
- msgid 'Add a new column'
- msgstr 'Thêm cột mới'
- msgid 'Title'
- msgstr 'Chức vụ'
- msgid 'Assigned to %s'
- msgstr 'Được giao cho %s'
- msgid 'Remove a column'
- msgstr 'Loại bỏ một cột'
- msgid 'Unable to remove this column.'
- msgstr 'Không thể xoá cột này.'
- msgid 'Do you really want to remove this column: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ cột này: "%s"?'
- msgid 'Settings'
- msgstr 'Cài đặt'
- msgid 'Application settings'
- msgstr 'Cài đặt ứng dụng'
- msgid 'Language'
- msgstr 'Ngôn ngữ'
- msgid 'Webhook token:'
- msgstr 'Mã thông báo Webhook:'
- msgid 'API token:'
- msgstr 'Mã thông báo API:'
- msgid 'Database size:'
- msgstr 'Kích thước cơ sở dữ liệu:'
- msgid 'Download the database'
- msgstr 'Tải về cơ sở dữ liệu'
- msgid 'Optimize the database'
- msgstr 'Tối ưu hóa cơ sở dữ liệu'
- msgid '(VACUUM command)'
- msgstr '(Lệnh VACUUM)'
- msgid '(Gzip compressed Sqlite file)'
- msgstr '(Gzip nén tập tin Sqlite)'
- msgid 'Close a task'
- msgstr 'Đóng một nhiệm vụ'
- msgid 'Column'
- msgstr 'Cột'
- msgid 'Color'
- msgstr 'Màu'
- msgid 'Assignee'
- msgstr 'Người được chuyển nhượng'
- msgid 'Create another task'
- msgstr 'Tạo một nhiệm vụ khác'
- msgid 'New task'
- msgstr 'Nhiệm vụ mới'
- msgid 'Open a task'
- msgstr 'Mở một nhiệm vụ'
- msgid 'Do you really want to open this task: "%s"?'
- msgstr 'Bạn có thực sự muốn mở công việc này: "%s"?'
- msgid 'Back to the board'
- msgstr 'Trở lại bảng'
- msgid 'There is nobody assigned'
- msgstr 'Không ai được chỉ định'
- msgid 'Column on the board:'
- msgstr 'Cột trên bảng:'
- msgid 'Close this task'
- msgstr 'Đóng nhiệm vụ này'
- msgid 'Open this task'
- msgstr 'Mở nhiệm vụ này'
- msgid 'There is no description.'
- msgstr 'Không có mô tả.'
- msgid 'Add a new task'
- msgstr 'Thêm một nhiệm vụ mới'
- msgid 'The username is required'
- msgstr 'Tên người dùng được yêu cầu'
- msgid 'The maximum length is %d characters'
- msgstr 'Chiều dài tối đa là %d ký tự'
- msgid 'The minimum length is %d characters'
- msgstr 'Chiều dài tối thiểu là %d ký tự'
- msgid 'The password is required'
- msgstr 'Mật khẩu là bắt buộc'
- msgid 'This value must be an integer'
- msgstr 'Giá trị này phải là một số nguyên'
- msgid 'The username must be unique'
- msgstr 'Tên người dùng phải là duy nhất'
- msgid 'The user id is required'
- msgstr 'Người sử dụng id là bắt buộc'
- msgid 'Passwords don\'t match'
- msgstr 'Mật khẩu don \'t match'
- msgid 'The confirmation is required'
- msgstr 'Cần xác nhận'
- msgid 'The project is required'
- msgstr 'Dự án được yêu cầu'
- msgid 'The id is required'
- msgstr 'Id là bắt buộc'
- msgid 'The project id is required'
- msgstr 'Id dự án được yêu cầu'
- msgid 'The project name is required'
- msgstr 'Tên của dự án được yêu cầu'
- msgid 'The title is required'
- msgstr 'Tiêu đề là bắt buộc'
- msgid 'Settings saved successfully.'
- msgstr 'Cài đặt đã lưu thành công.'
- msgid 'Unable to save your settings.'
- msgstr 'Không thể lưu cài đặt của bạn.'
- msgid 'Database optimization done.'
- msgstr 'Tối ưu hóa cơ sở dữ liệu được thực hiện.'
- msgid 'Your project has been created successfully.'
- msgstr 'Dự án của bạn đã được tạo thành công.'
- msgid 'Unable to create your project.'
- msgstr 'Không thể tạo dự án của bạn.'
- msgid 'Project updated successfully.'
- msgstr 'Dự án được cập nhật thành công.'
- msgid 'Unable to update this project.'
- msgstr 'Không thể cập nhật dự án này.'
- msgid 'Unable to remove this project.'
- msgstr 'Không thể xóa dự án này.'
- msgid 'Project removed successfully.'
- msgstr 'Dự án đã được loại bỏ thành công.'
- msgid 'Project activated successfully.'
- msgstr 'Dự án được kích hoạt thành công.'
- msgid 'Unable to activate this project.'
- msgstr 'Không thể kích hoạt dự án này.'
- msgid 'Project disabled successfully.'
- msgstr 'Dự án bị vô hiệu thành công.'
- msgid 'Unable to disable this project.'
- msgstr 'Không thể vô hiệu hoá dự án này.'
- msgid 'Unable to open this task.'
- msgstr 'Không thể mở nhiệm vụ này.'
- msgid 'Task opened successfully.'
- msgstr 'Nhiệm vụ thành công.'
- msgid 'Unable to close this task.'
- msgstr 'Không thể đóng nhiệm vụ này.'
- msgid 'Task closed successfully.'
- msgstr 'Nhiệm vụ đóng thành công.'
- msgid 'Unable to update your task.'
- msgstr 'Không thể cập nhật công việc của bạn.'
- msgid 'Task updated successfully.'
- msgstr 'Nhiệm vụ được cập nhật thành công.'
- msgid 'Unable to create your task.'
- msgstr 'Không thể tạo ra nhiệm vụ của bạn.'
- msgid 'Task created successfully.'
- msgstr 'Nhiệm vụ thành công.'
- msgid 'User created successfully.'
- msgstr 'Người dùng đã thành công.'
- msgid 'Unable to create your user.'
- msgstr 'Không thể tạo người dùng của bạn.'
- msgid 'User updated successfully.'
- msgstr 'Người dùng cập nhật thành công.'
- msgid 'User removed successfully.'
- msgstr 'Người dùng đã xoá thành công.'
- msgid 'Unable to remove this user.'
- msgstr 'Không thể xóa người dùng này.'
- msgid 'Board updated successfully.'
- msgstr 'Bảng đã được cập nhật thành công.'
- msgid 'Ready'
- msgstr 'Sẳn sàng'
- msgid 'Backlog'
- msgstr 'Backlog'
- msgid 'Work in progress'
- msgstr 'Công việc đang tiến hành'
- msgid 'Done'
- msgstr 'Làm xong'
- msgid 'Application version:'
- msgstr 'Phiên bản ứng dụng:'
- msgid 'Id'
- msgstr 'ID'
- msgid 'Public link'
- msgstr 'Liên kết công cộng'
- msgid 'Timezone'
- msgstr 'Múi giờ'
- msgid 'Sorry, I didn\'t find this information in my database!'
- msgstr 'Xin lỗi, tôi không tìm thấy thông tin này trong cơ sở dữ liệu của tôi!'
- msgid 'Page not found'
- msgstr 'Trang không tìm thấy'
- msgid 'Complexity'
- msgstr 'Sự phức tạp'
- msgid 'Task limit'
- msgstr 'Nhiệm vụ giới hạn'
- msgid 'Task count'
- msgstr 'Nhiệm vụ'
- msgid 'User'
- msgstr 'Người dùng'
- msgid 'Comments'
- msgstr 'Bình luận'
- msgid 'Comment is required'
- msgstr 'Bình luận là bắt buộc'
- msgid 'Comment added successfully.'
- msgstr 'Bình luận được thêm thành công.'
- msgid 'Unable to create your comment.'
- msgstr 'Không thể tạo bình luận của bạn.'
- msgid 'Due Date'
- msgstr 'Ngày đáo hạn'
- msgid 'Invalid date'
- msgstr 'Ngày không hợp lệ'
- msgid 'Automatic actions'
- msgstr 'Hành động tự động'
- msgid 'Your automatic action has been created successfully.'
- msgstr 'Hành động tự động của bạn đã được tạo thành công.'
- msgid 'Unable to create your automatic action.'
- msgstr 'Không thể tạo hành động tự động của bạn.'
- msgid 'Remove an action'
- msgstr 'Loại bỏ một hành động'
- msgid 'Unable to remove this action.'
- msgstr 'Không thể loại bỏ hành động này.'
- msgid 'Action removed successfully.'
- msgstr 'Hành động đã được xoá thành công.'
- msgid 'Automatic actions for the project "%s"'
- msgstr 'Hành động tự động cho dự án "%s"'
- msgid 'Add an action'
- msgstr 'Thêm một hành động'
- msgid 'Event name'
- msgstr 'Tên sự kiện'
- msgid 'Action'
- msgstr 'Hoạt động'
- msgid 'Event'
- msgstr 'Biến cố'
- msgid 'When the selected event occurs execute the corresponding action.'
- msgstr 'Khi sự kiện đã chọn xảy ra, hãy thực hiện hành động tương ứng.'
- msgid 'Next step'
- msgstr 'Bước tiếp theo'
- msgid 'Define action parameters'
- msgstr 'Xác định các tham số hành động'
- msgid 'Do you really want to remove this action: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ hành động này: "%s"?'
- msgid 'Remove an automatic action'
- msgstr 'Hủy bỏ một hành động tự động'
- msgid 'Assign the task to a specific user'
- msgstr 'Chỉ định nhiệm vụ cho một người dùng cụ thể'
- msgid 'Assign the task to the person who does the action'
- msgstr 'Chỉ định nhiệm vụ cho người thực hiện hành động'
- msgid 'Duplicate the task to another project'
- msgstr 'Nhân đôi công việc với một dự án khác'
- msgid 'Move a task to another column'
- msgstr 'Di chuyển một nhiệm vụ tới một cột khác'
- msgid 'Task modification'
- msgstr 'Sửa đổi tác vụ'
- msgid 'Task creation'
- msgstr 'Nhiệm vụ sáng tạo'
- msgid 'Closing a task'
- msgstr 'Đóng một nhiệm vụ'
- msgid 'Assign a color to a specific user'
- msgstr 'Chỉ định màu cho một người dùng cụ thể'
- msgid 'Position'
- msgstr 'Chức vụ'
- msgid 'Duplicate to project'
- msgstr 'Nhân bản với một dự án khác'
- msgid 'Duplicate'
- msgstr 'Bản sao'
- msgid 'Link'
- msgstr 'Liên kết'
- msgid 'Comment updated successfully.'
- msgstr 'Bình luận cập nhật thành công.'
- msgid 'Unable to update your comment.'
- msgstr 'Không thể cập nhật nhận xét của bạn.'
- msgid 'Remove a comment'
- msgstr 'Xóa một bình luận'
- msgid 'Comment removed successfully.'
- msgstr 'Đã xóa nhận xét thành công.'
- msgid 'Unable to remove this comment.'
- msgstr 'Không thể xóa nhận xét này.'
- msgid 'Do you really want to remove this comment?'
- msgstr 'Bạn có thật sự muốn xóa nhận xét này?'
- msgid 'Current password for the user "%s"'
- msgstr 'Mật khẩu hiện tại cho người dùng "%s"'
- msgid 'The current password is required'
- msgstr 'Mật khẩu hiện tại là bắt buộc'
- msgid 'Wrong password'
- msgstr 'Sai mật khẩu'
- msgid 'Unknown'
- msgstr 'Không xác định'
- msgid 'Last logins'
- msgstr 'Đăng nhập lần cuối'
- msgid 'Login date'
- msgstr 'Ngày đăng nhập'
- msgid 'Authentication method'
- msgstr 'Phương pháp xác thực'
- msgid 'IP address'
- msgstr 'Địa chỉ IP'
- msgid 'User agent'
- msgstr 'Đại lý người dùng'
- msgid 'Persistent connections'
- msgstr 'Kết nối liên tục'
- msgid 'No session.'
- msgstr 'Không có phiên.'
- msgid 'Expiration date'
- msgstr 'Ngày hết hạn'
- msgid 'Remember Me'
- msgstr 'Nhớ tôi'
- msgid 'Creation date'
- msgstr 'Ngày thành lập'
- msgid 'Everybody'
- msgstr 'Mọi người'
- msgid 'Open'
- msgstr 'Mở'
- msgid 'Closed'
- msgstr 'Đóng'
- msgid 'Search'
- msgstr 'Tìm kiếm'
- msgid 'Nothing found.'
- msgstr 'Không kết quả.'
- msgid 'Due date'
- msgstr 'Ngày đáo hạn'
- msgid 'Description'
- msgstr 'Mô tả'
- msgid '%d comments'
- msgstr '%d nhận xét'
- msgid '%d comment'
- msgstr '%d nhận xét'
- msgid 'Email address invalid'
- msgstr 'Địa chỉ email không hợp lệ'
- msgid 'Your external account is not linked anymore to your profile.'
- msgstr 'Tài khoản bên ngoài của bạn không được liên kết với hồ sơ của bạn nữa.'
- msgid 'Unable to unlink your external account.'
- msgstr 'Không thể hủy liên kết tài khoản bên ngoài của bạn.'
- msgid 'External authentication failed'
- msgstr 'Xác thực bên ngoài không thành công'
- msgid 'Your external account is linked to your profile successfully.'
- msgstr 'Tài khoản bên ngoài của bạn được liên kết với hồ sơ của bạn thành công.'
- msgid 'Email'
- msgstr 'E-mail'
- msgid 'Task removed successfully.'
- msgstr 'Nhiệm vụ đã được gỡ bỏ thành công.'
- msgid 'Unable to remove this task.'
- msgstr 'Không thể xóa tác vụ này.'
- msgid 'Remove a task'
- msgstr 'Loại bỏ một nhiệm vụ'
- msgid 'Do you really want to remove this task: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ công việc này: "%s"?'
- msgid 'Assign automatically a color based on a category'
- msgstr 'Chỉ định tự động một màu dựa trên một loại'
- msgid 'Assign automatically a category based on a color'
- msgstr 'Chỉ định tự động một thể loại dựa trên màu'
- msgid 'Task creation or modification'
- msgstr 'Tạo tác hoặc sửa đổi nhiệm vụ'
- msgid 'Category'
- msgstr 'Thể loại'
- msgid 'Category:'
- msgstr 'Thể loại:'
- msgid 'Categories'
- msgstr 'Thể loại'
- msgid 'Your category has been created successfully.'
- msgstr 'Danh mục của bạn đã được tạo thành công.'
- msgid 'This category has been updated successfully.'
- msgstr 'Danh mục này đã được cập nhật thành công.'
- msgid 'Unable to update this category.'
- msgstr 'Không thể cập nhật danh mục này.'
- msgid 'Remove a category'
- msgstr 'Loại bỏ một danh mục'
- msgid 'Category removed successfully.'
- msgstr 'Loại bỏ thành công.'
- msgid 'Unable to remove this category.'
- msgstr 'Không thể xóa loại này.'
- msgid 'Category modification for the project "%s"'
- msgstr 'Sửa đổi loại cho dự án "%s"'
- msgid 'Category Name'
- msgstr 'Tên danh mục'
- msgid 'Add a new category'
- msgstr 'Thêm một loại mới'
- msgid 'Do you really want to remove this category: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ loại này: "%s"?'
- msgid 'All categories'
- msgstr 'Tất cả danh mục'
- msgid 'No category'
- msgstr 'Không có loại'
- msgid 'The name is required'
- msgstr 'Tên là bắt buộc'
- msgid 'Remove a file'
- msgstr 'Hủy bỏ một tập tin'
- msgid 'Unable to remove this file.'
- msgstr 'Không thể xóa tệp này.'
- msgid 'File removed successfully.'
- msgstr 'Đã xoá tệp thành công.'
- msgid 'Attach a document'
- msgstr 'Đính kèm một tài liệu'
- msgid 'Do you really want to remove this file: "%s"?'
- msgstr 'Bạn có thực sự muốn xóa tệp này: "%s"?'
- msgid 'Attachments'
- msgstr 'File đính kèm'
- msgid 'Edit the task'
- msgstr 'Chỉnh sửa nhiệm vụ'
- msgid 'Add a comment'
- msgstr 'Thêm nhận xét'
- msgid 'Edit a comment'
- msgstr 'Chỉnh sửa một nhận xét'
- msgid 'Summary'
- msgstr 'Tóm lược'
- msgid 'Time tracking'
- msgstr 'Theo dõi thời gian'
- msgid 'Estimate:'
- msgstr 'Ước tính:'
- msgid 'Spent:'
- msgstr 'Spent:'
- msgid 'Do you really want to remove this sub-task?'
- msgstr 'Bạn có thật sự muốn loại bỏ nhiệm vụ phụ này?'
- msgid 'Remaining:'
- msgstr 'Còn lại:'
- msgid 'hours'
- msgstr 'giờ'
- msgid 'estimated'
- msgstr 'ước tính'
- msgid 'Sub-Tasks'
- msgstr 'Nhiệm vụ phụ'
- msgid 'Add a sub-task'
- msgstr 'Thêm một nhiệm vụ phụ'
- msgid 'Original estimate'
- msgstr 'Ước tính ban đầu'
- msgid 'Create another sub-task'
- msgstr 'Tạo một nhiệm vụ phụ khác'
- msgid 'Time spent'
- msgstr 'Thời gian đã bỏ ra'
- msgid 'Edit a sub-task'
- msgstr 'Chỉnh sửa một tiểu nhiệm vụ'
- msgid 'Remove a sub-task'
- msgstr 'Loại bỏ một nhiệm vụ phụ'
- msgid 'The time must be a numeric value'
- msgstr 'Thời gian phải là một giá trị số'
- msgid 'Todo'
- msgstr 'Làm'
- msgid 'In progress'
- msgstr 'Trong tiến trình'
- msgid 'Sub-task removed successfully.'
- msgstr 'Nhiệm vụ phụ được xoá thành công.'
- msgid 'Unable to remove this sub-task.'
- msgstr 'Không thể loại bỏ nhiệm vụ phụ này.'
- msgid 'Sub-task updated successfully.'
- msgstr 'Tiểu nhiệm vụ được cập nhật thành công.'
- msgid 'Unable to update your sub-task.'
- msgstr 'Không thể cập nhật tiểu nhiệm vụ của bạn.'
- msgid 'Unable to create your sub-task.'
- msgstr 'Không thể tạo ra nhiệm vụ phụ của bạn.'
- msgid 'Maximum size: '
- msgstr 'Kích thước tối đa: '
- msgid 'Display another project'
- msgstr 'Hiển thị một dự án khác'
- msgid 'Created by %s'
- msgstr 'Đã tạo bởi %s'
- msgid 'Tasks Export'
- msgstr 'Nhiệm vụ xuất khẩu'
- msgid 'Start Date'
- msgstr 'Ngày bắt đầu'
- msgid 'Execute'
- msgstr 'Thực hiện'
- msgid 'Task Id'
- msgstr 'Nhiệm vụ Id'
- msgid 'Creator'
- msgstr 'Người sáng tạo'
- msgid 'Modification date'
- msgstr 'Ngày sửa đổi'
- msgid 'Completion date'
- msgstr 'Ngày kết thúc'
- msgid 'Clone'
- msgstr 'Clone'
- msgid 'Project cloned successfully.'
- msgstr 'Dự án nhân bản thành công.'
- msgid 'Unable to clone this project.'
- msgstr 'Không thể nhân bản dự án này.'
- msgid 'Enable email notifications'
- msgstr 'Bật thông báo qua email'
- msgid 'Task position:'
- msgstr 'Nhiệm vụ:'
- msgid 'The task #%d has been opened.'
- msgstr 'Nhiệm vụ #%d đã được mở ra.'
- msgid 'The task #%d has been closed.'
- msgstr 'Nhiệm vụ #%d đã được đóng lại.'
- msgid 'Sub-task updated'
- msgstr 'Tiểu nhiệm vụ cập nhật'
- msgid 'Title:'
- msgstr 'Chức vụ:'
- msgid 'Status:'
- msgstr 'Trạng thái:'
- msgid 'Assignee:'
- msgstr 'Người được chuyển nhượng:'
- msgid 'Time tracking:'
- msgstr 'Theo dõi thời gian:'
- msgid 'New sub-task'
- msgstr 'Nhiệm vụ phụ mới'
- msgid 'New attachment added "%s"'
- msgstr 'Tập tin đính kèm mới được thêm vào "%s"'
- msgid 'New comment posted by %s'
- msgstr 'Bình luận mới được đăng bởi %s'
- msgid 'New comment'
- msgstr 'Bình luận mới'
- msgid 'Comment updated'
- msgstr 'Bình luận cập nhật'
- msgid 'New subtask'
- msgstr 'Bổ sung phụ'
- msgid 'I only want to receive notifications for these projects:'
- msgstr 'Tôi chỉ muốn nhận thông báo cho các dự án đó:'
- msgid 'view the task on Kanboard'
- msgstr 'xem công việc trên Kanboard'
- msgid 'Public access'
- msgstr 'Truy cập công cộng'
- msgid 'Disable public access'
- msgstr 'Vô hiệu hoá quyền truy cập công cộng'
- msgid 'Enable public access'
- msgstr 'Bật quyền truy cập công cộng'
- msgid 'Public access disabled'
- msgstr 'Truy cập công cộng bị vô hiệu hóa'
- msgid 'Move the task to another project'
- msgstr 'Di chuyển công việc sang dự án khác'
- msgid 'Move to project'
- msgstr 'Chuyển sang dự án khác'
- msgid 'Do you really want to duplicate this task?'
- msgstr 'Bạn có thực sự muốn lặp lại nhiệm vụ này?'
- msgid 'Duplicate a task'
- msgstr 'Nhân đôi một nhiệm vụ'
- msgid 'External accounts'
- msgstr 'Tài khoản bên ngoài'
- msgid 'Account type'
- msgstr 'Kiểu tài khoản'
- msgid 'Local'
- msgstr 'Địa phương'
- msgid 'Remote'
- msgstr 'Xa'
- msgid 'Enabled'
- msgstr 'Bật'
- msgid 'Disabled'
- msgstr 'Vô hiệu'
- msgid 'Login:'
- msgstr 'Đăng nhập:'
- msgid 'Full Name:'
- msgstr 'Họ và tên:'
- msgid 'Email:'
- msgstr 'E-mail:'
- msgid 'Notifications:'
- msgstr 'Thông báo:'
- msgid 'Notifications'
- msgstr 'Thông báo'
- msgid 'Account type:'
- msgstr 'Kiểu tài khoản:'
- msgid 'Edit profile'
- msgstr 'Chỉnh sửa hồ sơ'
- msgid 'Change password'
- msgstr 'Đổi mật khẩu'
- msgid 'Password modification'
- msgstr 'Sửa đổi mật khẩu'
- msgid 'External authentications'
- msgstr 'Xác thực bên ngoài'
- msgid 'Never connected.'
- msgstr 'Không bao giờ kết nối.'
- msgid 'No external authentication enabled.'
- msgstr 'Không bật xác thực bên ngoài.'
- msgid 'Password modified successfully.'
- msgstr 'Đã sửa đổi mật khẩu thành công.'
- msgid 'Unable to change the password.'
- msgstr 'Không thể thay đổi mật khẩu.'
- msgid 'Change category'
- msgstr 'Thay đổi loại'
- msgid '%s updated the task %s'
- msgstr ' %s đã cập nhật công việc %s'
- msgid '%s opened the task %s'
- msgstr ' %s mở nhiệm vụ %s'
- msgid '%s moved the task %s to the position #%d in the column "%s"'
- msgstr ' %s di chuyển nhiệm vụ %s đến vị trí #%d trong cột "%s"'
- msgid '%s moved the task %s to the column "%s"'
- msgstr ' %s di chuyển công việc %s đến cột "%s"'
- msgid '%s created the task %s'
- msgstr ' %s đã tạo ra nhiệm vụ %s'
- msgid '%s closed the task %s'
- msgstr ' %s đã đóng công việc %s'
- msgid '%s created a subtask for the task %s'
- msgstr ' %s tạo ra một phụ cho nhiệm vụ %s'
- msgid '%s updated a subtask for the task %s'
- msgstr ' %s cập nhật một công việc phụ cho nhiệm vụ %s'
- msgid 'Assigned to %s with an estimate of %s/%sh'
- msgstr 'Được giao cho %s với ước tính %s / %sh'
- msgid 'Not assigned, estimate of %sh'
- msgstr 'Không được chỉ định, ước tính %sh'
- msgid '%s updated a comment on the task %s'
- msgstr ' %s đã cập nhật một bình luận về nhiệm vụ %s'
- msgid '%s commented the task %s'
- msgstr ' %s bình luận về nhiệm vụ %s'
- msgid '%s\'s activity'
- msgstr 'Hoạt động của %s'
- msgid 'RSS feed'
- msgstr 'Nguồn cấp dữ liệu RSS'
- msgid '%s updated a comment on the task #%d'
- msgstr ' %s đã cập nhật một bình luận về nhiệm vụ #%d'
- msgid '%s commented on the task #%d'
- msgstr ' %s bình luận về nhiệm vụ #%d'
- msgid '%s updated a subtask for the task #%d'
- msgstr ' %s đã cập nhật một công việc phụ cho nhiệm vụ #%d'
- msgid '%s created a subtask for the task #%d'
- msgstr ' %s tạo ra một phụ cho nhiệm vụ #%d'
- msgid '%s updated the task #%d'
- msgstr ' %s cập nhật công việc #%d'
- msgid '%s created the task #%d'
- msgstr ' %s đã tạo ra nhiệm vụ #%d'
- msgid '%s closed the task #%d'
- msgstr ' %s đã đóng công việc #%d'
- msgid '%s opened the task #%d'
- msgstr ' %s mở nhiệm vụ #%d'
- msgid 'Activity'
- msgstr 'Hoạt động'
- msgid 'Default values are "%s"'
- msgstr 'Giá trị mặc định là "%s"'
- msgid 'Default columns for new projects (Comma-separated)'
- msgstr 'Cột mặc định cho các dự án mới (tách bằng dấu phẩy)'
- msgid 'Task assignee change'
- msgstr 'Thay đổi nhiệm vụ chuyển nhượng'
- msgid '%s changed the assignee of the task #%d to %s'
- msgstr ' %s đã thay đổi người được giao nhiệm vụ #%d thành %s'
- msgid '%s changed the assignee of the task %s to %s'
- msgstr ' %s đã thay đổi người được giao nhiệm vụ %s sang %s'
- msgid 'New password for the user "%s"'
- msgstr 'Mật khẩu mới cho người dùng "%s"'
- msgid 'Choose an event'
- msgstr 'Chọn một sự kiện'
- msgid 'Create a task from an external provider'
- msgstr 'Tạo một nhiệm vụ từ một nhà cung cấp bên ngoài'
- msgid 'Change the assignee based on an external username'
- msgstr 'Thay đổi người được chuyển nhượng dựa trên tên người dùng bên ngoài'
- msgid 'Change the category based on an external label'
- msgstr 'Thay đổi thể loại dựa trên một nhãn bên ngoài'
- msgid 'Reference'
- msgstr 'Tài liệu tham khảo'
- msgid 'Label'
- msgstr 'Nhãn'
- msgid 'Database'
- msgstr 'Cơ sở dữ liệu'
- msgid 'About'
- msgstr 'Về'
- msgid 'Database driver:'
- msgstr 'Trình điều khiển cơ sở dữ liệu:'
- msgid 'Board settings'
- msgstr 'Cài đặt Bảng'
- msgid 'Webhook settings'
- msgstr 'Cài đặt Webhook'
- msgid 'Reset token'
- msgstr 'Đặt lại mã thông báo'
- msgid 'API endpoint:'
- msgstr 'Điểm cuối API:'
- msgid 'Refresh interval for personal board'
- msgstr 'Khoảng thời gian làm mới cho bảng cá nhân'
- msgid 'Refresh interval for public board'
- msgstr 'Khoảng thời gian làm mới cho hội đồng quản trị'
- msgid 'Task highlight period'
- msgstr 'Nhiệm vụ thời gian nổi bật'
- msgid 'Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)'
- msgstr 'Thời gian (thứ hai) để xem xét một tác vụ đã được sửa đổi gần đây (0 để vô hiệu hoá, 2 ngày theo mặc định)'
- msgid 'Frequency in second (60 seconds by default)'
- msgstr 'Tần số trong giây (mặc định 60 giây)'
- msgid 'Frequency in second (0 to disable this feature, 10 seconds by default)'
- msgstr 'Tần số trong giây (0 để tắt tính năng này, mặc định là 10 giây)'
- msgid 'Application URL'
- msgstr 'URL ứng dụng'
- msgid 'Token regenerated.'
- msgstr 'Token tái tạo.'
- msgid 'Date format'
- msgstr 'Định dạng ngày tháng'
- msgid 'ISO format is always accepted, example: "%s" and "%s"'
- msgstr 'Định dạng ISO luôn được chấp nhận, ví dụ: "%s" và "%s"'
- msgid 'New personal project'
- msgstr 'Dự án riêng tư mới'
- msgid 'This project is personal'
- msgstr 'Dự án này là riêng tư'
- msgid 'Add'
- msgstr 'Thêm vào'
- msgid 'Start date'
- msgstr 'Ngày bắt đầu'
- msgid 'Time estimated'
- msgstr 'Thời gian ước tính'
- msgid 'There is nothing assigned to you.'
- msgstr 'Không có gì được giao cho bạn.'
- msgid 'My tasks'
- msgstr 'Nhiệm vụ của tôi'
- msgid 'Activity stream'
- msgstr 'Luồng hoạt động'
- msgid 'Dashboard'
- msgstr 'Bảng điều khiển'
- msgid 'Confirmation'
- msgstr 'Xác nhận'
- msgid 'Webhooks'
- msgstr 'Webhooks'
- msgid 'API'
- msgstr 'API'
- msgid 'Create a comment from an external provider'
- msgstr 'Tạo một bình luận từ một nhà cung cấp bên ngoài'
- msgid 'Project management'
- msgstr 'Quản lý dự án'
- msgid 'Columns'
- msgstr 'Cột'
- msgid 'Task'
- msgstr 'Bài tập'
- msgid 'Percentage'
- msgstr 'Phần trăm'
- msgid 'Number of tasks'
- msgstr 'Số nhiệm vụ'
- msgid 'Task distribution'
- msgstr 'Phân phát nhiệm vụ'
- msgid 'Analytics'
- msgstr 'Phân tích'
- msgid 'Subtask'
- msgstr 'Subtask'
- msgid 'User repartition'
- msgstr 'Phân vùng người dùng'
- msgid 'Clone this project'
- msgstr 'Nhân bản dự án này'
- msgid 'Column removed successfully.'
- msgstr 'Bỏ cột thành công.'
- msgid 'Not enough data to show the graph.'
- msgstr 'Không đủ dữ liệu để hiển thị đồ thị.'
- msgid 'Previous'
- msgstr 'Trước'
- msgid 'The id must be an integer'
- msgstr 'Id phải là một số nguyên'
- msgid 'The project id must be an integer'
- msgstr 'Id dự án phải là một số nguyên'
- msgid 'The status must be an integer'
- msgstr 'Trạng thái phải là một số nguyên'
- msgid 'The subtask id is required'
- msgstr 'Cần phải có id phụ đề'
- msgid 'The subtask id must be an integer'
- msgstr 'Số thứ tự subtask phải là một số nguyên'
- msgid 'The task id is required'
- msgstr 'ID công việc được yêu cầu'
- msgid 'The task id must be an integer'
- msgstr 'ID công việc phải là một số nguyên'
- msgid 'The user id must be an integer'
- msgstr 'ID người dùng phải là một số nguyên'
- msgid 'This value is required'
- msgstr 'Giá trị này là bắt buộc'
- msgid 'This value must be numeric'
- msgstr 'Giá trị này phải là số'
- msgid 'Unable to create this task.'
- msgstr 'Không thể tạo ra nhiệm vụ này.'
- msgid 'Cumulative flow diagram'
- msgstr 'Sơ đồ luồng tích luỹ'
- msgid 'Daily project summary'
- msgstr 'Tóm tắt dự án hàng ngày'
- msgid 'Daily project summary export'
- msgstr 'Tóm tắt dự án hàng ngày xuất khẩu'
- msgid 'Exports'
- msgstr 'Xuất khẩu'
- msgid 'This export contains the number of tasks per column grouped per day.'
- msgstr 'Xuất này có chứa số nhiệm vụ cho mỗi cột được nhóm trong một ngày.'
- msgid 'Active swimlanes'
- msgstr 'Đường phố hoạt động'
- msgid 'Add a new swimlane'
- msgstr 'Thêm một đường swimlane mới'
- msgid 'Default swimlane'
- msgstr 'Mặc định swimlane'
- msgid 'Do you really want to remove this swimlane: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ swimlane này: "%s"?'
- msgid 'Inactive swimlanes'
- msgstr 'Bể swimlane không hoạt động'
- msgid 'Remove a swimlane'
- msgstr 'Hủy bỏ swimlane lội'
- msgid 'Swimlane modification for the project "%s"'
- msgstr 'Sửa đổi Swimlane cho dự án %s'
- msgid 'Swimlane removed successfully.'
- msgstr 'Swimlane đã được gỡ bỏ thành công.'
- msgid 'Swimlanes'
- msgstr 'Swimlanes'
- msgid 'Swimlane updated successfully.'
- msgstr 'Swimlane được cập nhật thành công.'
- msgid 'Unable to remove this swimlane.'
- msgstr 'Không thể tháo dải swimlane ra.'
- msgid 'Unable to update this swimlane.'
- msgstr 'Không thể cập nhật swimlane lội này.'
- msgid 'Your swimlane has been created successfully.'
- msgstr 'Làn sóng của bạn đã được tạo ra thành công.'
- msgid 'Example: "Bug, Feature Request, Improvement"'
- msgstr 'Ví dụ: "Lỗi, yêu cầu tính năng, cải tiến"'
- msgid 'Default categories for new projects (Comma-separated)'
- msgstr 'Danh mục mặc định cho các dự án mới (Phân cách bằng dấu phẩy)'
- msgid 'Integrations'
- msgstr 'Tích hợp'
- msgid 'Integration with third-party services'
- msgstr 'Tích hợp với các dịch vụ của bên thứ ba'
- msgid 'Subtask Id'
- msgstr 'Id phụ đề'
- msgid 'Subtasks'
- msgstr 'Công việc'
- msgid 'Subtasks Export'
- msgstr 'Nhiệm vụ xuất khẩu'
- msgid 'Task Title'
- msgstr 'Nhiệm vụ'
- msgid 'Untitled'
- msgstr 'Không có tiêu đề'
- msgid 'Application default'
- msgstr 'Mặc định ứng dụng'
- msgid 'Language:'
- msgstr 'Ngôn ngữ:'
- msgid 'Timezone:'
- msgstr 'Múi giờ:'
- msgid 'All columns'
- msgstr 'Tất cả các cột'
- msgid 'Next'
- msgstr 'Kế tiếp'
- msgid '#%d'
- msgstr '#%d'
- msgid 'All swimlanes'
- msgstr 'Tất cả swimlane'
- msgid 'All colors'
- msgstr 'Đủ màu sắc'
- msgid 'Moved to column %s'
- msgstr 'Đã chuyển đến cột %s'
- msgid 'User dashboard'
- msgstr 'Trang tổng quan của người dùng'
- msgid 'Allow only one subtask in progress at the same time for a user'
- msgstr 'Cho phép chỉ có một phụ đề đang được tiến hành đồng thời cho một người dùng'
- msgid 'Edit column "%s"'
- msgstr 'Chỉnh sửa cột %s '
- msgid 'Select the new status of the subtask: "%s"'
- msgstr 'Chọn trạng thái mới của phụ đề: "%s"'
- msgid 'Subtask timesheet'
- msgstr 'Lịch biểu phụ đề'
- msgid 'There is nothing to show.'
- msgstr 'Không có gì để hiển thị.'
- msgid 'Time Tracking'
- msgstr 'Theo dõi Thời gian'
- msgid 'You already have one subtask in progress'
- msgstr 'Bạn đã có một phụ trong tiến trình'
- msgid 'Which parts of the project do you want to duplicate?'
- msgstr 'Bạn muốn nhân bản phần nào của dự án?'
- msgid 'Disallow login form'
- msgstr 'Disallow form đăng nhập'
- msgid 'Start'
- msgstr 'Khởi đầu'
- msgid 'End'
- msgstr 'Kết thúc'
- msgid 'Task age in days'
- msgstr 'Nhiệm vụ tuổi tác trong ngày'
- msgid 'Days in this column'
- msgstr 'Ngày trong cột này'
- msgid '%dd'
- msgstr '%dd'
- msgid 'Add a new link'
- msgstr 'Thêm một liên kết mới'
- msgid 'Do you really want to remove this link: "%s"?'
- msgstr 'Bạn có thực sự muốn xoá liên kết này: "%s"?'
- msgid 'Do you really want to remove this link with task #%d?'
- msgstr 'Bạn có thực sự muốn loại bỏ liên kết này với công việc #%d?'
- msgid 'Field required'
- msgstr 'Trường bắt buộc'
- msgid 'Link added successfully.'
- msgstr 'Liên kết thành công.'
- msgid 'Link updated successfully.'
- msgstr 'Liên kết được cập nhật thành công.'
- msgid 'Link removed successfully.'
- msgstr 'Liên kết đã xoá thành công.'
- msgid 'Link labels'
- msgstr 'Liên kết nhãn'
- msgid 'Link modification'
- msgstr 'Liên kết sửa đổi'
- msgid 'Opposite label'
- msgstr 'Ngược lại nhãn'
- msgid 'Remove a link'
- msgstr 'Hủy liên kết'
- msgid 'The labels must be different'
- msgstr 'Các nhãn phải khác nhau'
- msgid 'There is no link.'
- msgstr 'Không có liên kết.'
- msgid 'This label must be unique'
- msgstr 'Nhãn này phải là duy nhất'
- msgid 'Unable to create your link.'
- msgstr 'Không thể tạo liên kết của bạn.'
- msgid 'Unable to update your link.'
- msgstr 'Không thể cập nhật liên kết của bạn.'
- msgid 'Unable to remove this link.'
- msgstr 'Không thể xóa liên kết này.'
- msgid 'relates to'
- msgstr 'liên quan tới'
- msgid 'blocks'
- msgstr 'khối'
- msgid 'is blocked by'
- msgstr 'bị chặn bởi'
- msgid 'duplicates'
- msgstr 'bản sao'
- msgid 'is duplicated by'
- msgstr 'được nhân đôi bởi'
- msgid 'is a child of'
- msgstr 'là một đứa trẻ'
- msgid 'is a parent of'
- msgstr 'là cha mẹ của'
- msgid 'targets milestone'
- msgstr 'mục tiêu cột mốc'
- msgid 'is a milestone of'
- msgstr 'là một mốc quan trọng của'
- msgid 'fixes'
- msgstr 'sửa lỗi'
- msgid 'is fixed by'
- msgstr 'được sửa bởi'
- msgid 'This task'
- msgstr 'Nhiệm vụ này'
- msgid '<1h'
- msgstr '<1 giờ'
- msgid '%dh'
- msgstr '%dh'
- msgid 'Expand tasks'
- msgstr 'Mở rộng các nhiệm vụ'
- msgid 'Collapse tasks'
- msgstr 'Thu hẹp nhiệm vụ'
- msgid 'Expand/collapse tasks'
- msgstr 'Mở rộng / thu gọn nhiệm vụ'
- msgid 'Close dialog box'
- msgstr 'Đóng hộp thoại'
- msgid 'Submit a form'
- msgstr 'Gửi một mẫu'
- msgid 'Board view'
- msgstr 'Quan điểm của hội đồng quản trị'
- msgid 'Keyboard shortcuts'
- msgstr 'Các phím tắt bàn phím'
- msgid 'Open board switcher'
- msgstr 'Open board switcher'
- msgid 'Application'
- msgstr 'Ứng dụng'
- msgid 'Compact view'
- msgstr 'Chế độ xem nhỏ gọn'
- msgid 'Horizontal scrolling'
- msgstr 'Cuộn ngang'
- msgid 'Compact/wide view'
- msgstr 'Chế độ xem nhỏ gọn / rộng'
- msgid 'Currency'
- msgstr 'Tiền tệ'
- msgid 'Personal project'
- msgstr 'Dự án riêng tư'
- msgid 'AUD - Australian Dollar'
- msgstr 'AUD - Đô la Úc'
- msgid 'CAD - Canadian Dollar'
- msgstr 'CAD - Đô la Canada'
- msgid 'CHF - Swiss Francs'
- msgstr 'CHF - Swiss Francs'
- msgid 'Custom Stylesheet'
- msgstr 'Biểu định kiểu Tuỳ chỉnh'
- msgid 'EUR - Euro'
- msgstr 'EUR - Euro'
- msgid 'GBP - British Pound'
- msgstr 'GBP - Bảng Anh'
- msgid 'INR - Indian Rupee'
- msgstr 'INR - Rupi Ấn Độ'
- msgid 'JPY - Japanese Yen'
- msgstr 'JPY - Yên Nhật'
- msgid 'NZD - New Zealand Dollar'
- msgstr 'NZD - Đô la New Zealand'
- msgid 'RSD - Serbian dinar'
- msgstr 'RSD - dinar Serbia'
- msgid 'CNY - Chinese Yuan'
- msgstr 'CNY - Yuan Trung Quốc'
- msgid 'USD - US Dollar'
- msgstr 'Đô la Mỹ - Đô la Mỹ'
- msgid 'VES - Venezuelan Bolívar'
- msgstr ''
- msgid 'Destination column'
- msgstr 'Cột đích'
- msgid 'Move the task to another column when assigned to a user'
- msgstr 'Chuyển nhiệm vụ sang cột khác khi được chỉ định cho người dùng'
- msgid 'Move the task to another column when assignee is cleared'
- msgstr 'Di chuyển nhiệm vụ sang cột khác khi người nhận chuyển giao bị xóa'
- msgid 'Source column'
- msgstr 'Cột nguồn'
- msgid 'Transitions'
- msgstr 'Chuyển tiếp'
- msgid 'Executer'
- msgstr 'Executer'
- msgid 'Time spent in the column'
- msgstr 'Thời gian trong cột'
- msgid 'Task transitions'
- msgstr 'Nhiệm vụ chuyển tiếp'
- msgid 'Task transitions export'
- msgstr 'Nhiệm vụ chuyển tiếp xuất khẩu'
- msgid 'This report contains all column moves for each task with the date, the user and the time spent for each transition.'
- msgstr 'Báo cáo này chứa tất cả các cột di chuyển cho mỗi nhiệm vụ với ngày, người sử dụng và thời gian dành cho mỗi quá trình chuyển đổi.'
- msgid 'Currency rates'
- msgstr 'Tỷ giá tiền tệ'
- msgid 'Rate'
- msgstr 'Tỷ lệ'
- msgid 'Change reference currency'
- msgstr 'Thay đổi đồng tiền tham chiếu'
- msgid 'Reference currency'
- msgstr 'Tiền tệ tham khảo'
- msgid 'The currency rate has been added successfully.'
- msgstr 'Tỷ giá đã được thêm thành công.'
- msgid 'Unable to add this currency rate.'
- msgstr 'Không thể thêm tỷ giá tiền tệ này.'
- msgid 'Webhook URL'
- msgstr 'Webhook URL'
- msgid '%s removed the assignee of the task %s'
- msgstr ' %s loại bỏ người nhận chuyển nhượng của nhiệm vụ %s'
- msgid 'Information'
- msgstr 'Thông tin'
- msgid 'Check two factor authentication code'
- msgstr 'Kiểm tra mã xác thực hai lớp'
- msgid 'The two factor authentication code is not valid.'
- msgstr 'Mã xác thực hai lớp không hợp lệ.'
- msgid 'The two factor authentication code is valid.'
- msgstr 'Mã xác thực hai lớp là hợp lệ.'
- msgid 'Code'
- msgstr 'Mã'
- msgid 'Two factor authentication'
- msgstr 'Xác thực hai lớp'
- msgid 'This QR code contains the key URI: '
- msgstr 'Mã QR này có chứa URI chính:'
- msgid 'Check my code'
- msgstr 'Kiểm tra mã của tôi'
- msgid 'Secret key: '
- msgstr 'Chìa khoá bí mật: '
- msgid 'Test your device'
- msgstr 'Kiểm tra thiết bị của bạn'
- msgid 'Assign a color when the task is moved to a specific column'
- msgstr 'Chỉ định một màu khi công việc được chuyển đến một cột cụ thể'
- msgid '%s via Kanboard'
- msgstr ' %s qua Kanboard'
- msgid 'Burndown chart'
- msgstr 'Biểu đồ Burndown'
- msgid 'This chart show the task complexity over the time (Work Remaining).'
- msgstr 'Biểu đồ này cho thấy sự phức tạp của công việc qua thời gian (Work Remaining).'
- msgid 'Screenshot taken %s'
- msgstr 'Đã chụp ảnh chụp màn hình %s'
- msgid 'Add a screenshot'
- msgstr 'Thêm ảnh chụp màn hình'
- msgid 'Take a screenshot and press CTRL+V or ⌘+V to paste here.'
- msgstr 'Chụp ảnh màn hình và nhấn CTRL + V hoặc ⌘ + V để dán vào đây.'
- msgid 'Screenshot uploaded successfully.'
- msgstr 'Ảnh chụp màn hình được tải lên thành công.'
- msgid 'SEK - Swedish Krona'
- msgstr 'SEK - Krona Thu Swedish Điển'
- msgid 'Identifier'
- msgstr 'Bộ nhận dạng'
- msgid 'Disable two factor authentication'
- msgstr 'Vô hiệu hoá hai lớp xác thực'
- msgid 'Do you really want to disable the two factor authentication for this user: "%s"?'
- msgstr 'Bạn có thực sự muốn vô hiệu hóa xác thực hai lớp cho người dùng này: "%s"?'
- msgid 'Edit link'
- msgstr 'Chỉnh sửa liên kết'
- msgid 'Start to type task title...'
- msgstr 'Bắt đầu gõ tên tác vụ ...'
- msgid 'A task cannot be linked to itself'
- msgstr 'Một nhiệm vụ không thể được liên kết với chính nó'
- msgid 'The exact same link already exists'
- msgstr 'Liên kết chính xác đã tồn tại'
- msgid 'Recurrent task is scheduled to be generated'
- msgstr 'Nhiệm vụ lặp lại được dự kiến ​​sẽ được tạo ra'
- msgid 'Score'
- msgstr 'Ghi bàn'
- msgid 'The identifier must be unique'
- msgstr 'Mã nhận diện phải là duy nhất'
- msgid 'This linked task id doesn\'t exists'
- msgstr 'Không có id công việc liên kết nào tồn tại'
- msgid 'This value must be alphanumeric'
- msgstr 'Giá trị này phải là chữ số'
- msgid 'Edit recurrence'
- msgstr 'Chỉnh sửa sự tái phát'
- msgid 'Generate recurrent task'
- msgstr 'Tạo ra công việc lặp đi lặp lại'
- msgid 'Trigger to generate recurrent task'
- msgstr 'Trigger để tạo ra công việc lặp đi lặp lại'
- msgid 'Factor to calculate new due date'
- msgstr 'Yếu tố tính ngày đáo hạn mới'
- msgid 'Timeframe to calculate new due date'
- msgstr 'Khung thời gian để tính toán ngày đáo hạn mới'
- msgid 'Base date to calculate new due date'
- msgstr 'Base date để tính ngày đáo hạn mới'
- msgid 'Action date'
- msgstr 'Ngày hành động'
- msgid 'Base date to calculate new due date: '
- msgstr 'Căn cứ để tính ngày đáo hạn mới:'
- msgid 'This task has created this child task: '
- msgstr 'Nhiệm vụ này đã tạo ra nhiệm vụ con này:'
- msgid 'Day(s)'
- msgstr 'Ngày'
- msgid 'Existing due date'
- msgstr 'Ngày hết hạn'
- msgid 'Factor to calculate new due date: '
- msgstr 'Yếu tố tính ngày đáo hạn mới:'
- msgid 'Month(s)'
- msgstr 'Tháng)'
- msgid 'This task has been created by: '
- msgstr 'Nhiệm vụ này đã được tạo ra bằng cách:'
- msgid 'Recurrent task has been generated:'
- msgstr 'Nhiệm vụ lặp lại đã được tạo ra:'
- msgid 'Timeframe to calculate new due date: '
- msgstr 'Khung thời gian tính ngày đáo hạn mới:'
- msgid 'Trigger to generate recurrent task: '
- msgstr 'Kích hoạt để tạo ra công việc lặp đi lặp lại:'
- msgid 'When task is closed'
- msgstr 'Khi công việc được đóng lại'
- msgid 'When task is moved from first column'
- msgstr 'Khi công việc được di chuyển từ cột đầu tiên'
- msgid 'When task is moved to last column'
- msgstr 'Khi công việc được chuyển đến cột cuối cùng'
- msgid 'Year(s)'
- msgstr 'Năm (s)'
- msgid 'Project settings'
- msgstr 'Cài đặt dự án'
- msgid 'Automatically update the start date'
- msgstr 'Tự động cập nhật ngày bắt đầu'
- msgid 'iCal feed'
- msgstr 'nguồn cấp dữ liệu iCal'
- msgid 'Preferences'
- msgstr 'Sở thích'
- msgid 'Security'
- msgstr 'An ninh'
- msgid 'Two factor authentication disabled'
- msgstr 'Xác thực hai lớp bị vô hiệu'
- msgid 'Two factor authentication enabled'
- msgstr 'Kích hoạt chứng thực hai lớp'
- msgid 'Unable to update this user.'
- msgstr 'Không thể cập nhật người dùng này.'
- msgid 'There is no user management for personal projects.'
- msgstr 'Không có người quản lý người dùng cho các dự án riêng tư.'
- msgid 'User that will receive the email'
- msgstr 'Người dùng sẽ nhận được email'
- msgid 'Email subject'
- msgstr 'Chủ đề email'
- msgid 'Date'
- msgstr 'Ngày'
- msgid 'Add a comment log when moving the task between columns'
- msgstr 'Thêm nhật ký nhận xét khi di chuyển nhiệm vụ giữa các cột'
- msgid 'Move the task to another column when the category is changed'
- msgstr 'Di chuyển công việc sang cột khác khi danh mục được thay đổi'
- msgid 'Send a task by email to someone'
- msgstr 'Gửi một nhiệm vụ qua email cho ai đó'
- msgid 'Reopen a task'
- msgstr 'Mở lại một nhiệm vụ'
- msgid 'Notification'
- msgstr 'Thông báo'
- msgid '%s moved the task #%d to the first swimlane'
- msgstr ' %s di chuyển nhiệm vụ #%d đến người đầu tiên swimlane'
- msgid 'Swimlane'
- msgstr 'Swimlane'
- msgid '%s moved the task %s to the first swimlane'
- msgstr ' %s di chuyển nhiệm vụ %s tới swimlane đầu tiên'
- msgid '%s moved the task %s to the swimlane "%s"'
- msgstr ' %s di chuyển nhiệm vụ %s tới swimlane lội "%s"'
- msgid 'This report contains all subtasks information for the given date range.'
- msgstr 'Báo cáo này chứa tất cả các thông tin phụ cho một phạm vi ngày.'
- msgid 'This report contains all tasks information for the given date range.'
- msgstr 'Báo cáo này chứa tất cả các nhiệm vụ thông tin cho phạm vi ngày nhất định.'
- msgid 'Project activities for %s'
- msgstr 'Các hoạt động dự án cho %s'
- msgid 'view the board on Kanboard'
- msgstr 'xem bảng trên Kanboard'
- msgid 'The task has been moved to the first swimlane'
- msgstr 'Nhiệm vụ đã được dời đến sân vận động đầu tiên'
- msgid 'The task has been moved to another swimlane:'
- msgstr 'Nhiệm vụ đã được chuyển sang một đội swimlane khác: '
- msgid 'New title: %s'
- msgstr 'Tiêu đề mới: %s'
- msgid 'The task is not assigned anymore'
- msgstr 'Nhiệm vụ không được giao nữa'
- msgid 'New assignee: %s'
- msgstr 'Người được chuyển nhượng mới: %s'
- msgid 'There is no category now'
- msgstr 'Không có danh mục bây giờ'
- msgid 'New category: %s'
- msgstr 'Thể loại mới: %s'
- msgid 'New color: %s'
- msgstr 'Màu mới: %s'
- msgid 'New complexity: %d'
- msgstr 'Sự phức tạp mới: %d'
- msgid 'The due date has been removed'
- msgstr 'Ngày đáo hạn đã bị xoá'
- msgid 'There is no description anymore'
- msgstr 'Không còn mô tả nữa'
- msgid 'Recurrence settings has been modified'
- msgstr 'Cài đặt tái lập đã được sửa đổi'
- msgid 'Time spent changed: %sh'
- msgstr 'Thời gian thay đổi: %sh'
- msgid 'Time estimated changed: %sh'
- msgstr 'Thời gian ước tính thay đổi: %sh'
- msgid 'The field "%s" has been updated'
- msgstr 'Trường "%s" đã được cập nhật'
- msgid 'The description has been modified:'
- msgstr 'Mô tả đã được sửa đổi:'
- msgid 'Do you really want to close the task "%s" as well as all subtasks?'
- msgstr 'Bạn có thực sự muốn đóng nhiệm vụ "%s" cũng như tất cả các nhiệm vụ phụ?'
- msgid 'I want to receive notifications for:'
- msgstr 'Tôi muốn nhận thông báo cho:'
- msgid 'All tasks'
- msgstr 'Tất cả các nhiệm vụ'
- msgid 'Only for tasks assigned to me'
- msgstr 'Chỉ đối với những nhiệm vụ được giao cho tôi'
- msgid 'Only for tasks created by me'
- msgstr 'Chỉ cho những công việc do tôi tạo ra'
- msgid 'Only for tasks created by me and tasks assigned to me'
- msgstr 'Chỉ cho những công việc mà tôi tạo ra và được giao cho tôi'
- msgid '%%Y-%%m-%%d'
- msgstr '%%Y - %%m - %%d'
- msgid 'Total for all columns'
- msgstr 'Tổng cho tất cả các cột'
- msgid 'You need at least 2 days of data to show the chart.'
- msgstr 'Bạn cần ít nhất 2 ngày dữ liệu để hiển thị biểu đồ.'
- msgid '<15m'
- msgstr '<15m'
- msgid '<30m'
- msgstr '<30m'
- msgid 'Stop timer'
- msgstr 'Ngừng hẹn giờ'
- msgid 'Start timer'
- msgstr 'Bắt đầu hẹn giờ'
- msgid 'My activity stream'
- msgstr 'Dòng hoạt động của tôi'
- msgid 'Search tasks'
- msgstr 'Các nhiệm vụ tìm kiếm'
- msgid 'Reset filters'
- msgstr 'Đặt lại bộ lọc'
- msgid 'My tasks due tomorrow'
- msgstr 'Nhiệm vụ của tôi vào ngày mai'
- msgid 'Tasks due today'
- msgstr 'Nhiệm vụ hôm nay'
- msgid 'Tasks due tomorrow'
- msgstr 'Nhiệm vụ vào ngày mai'
- msgid 'Tasks due yesterday'
- msgstr 'Nhiệm vụ do ngày hôm qua'
- msgid 'Closed tasks'
- msgstr 'Các nhiệm vụ đã đóng'
- msgid 'Open tasks'
- msgstr 'Mở nhiệm vụ'
- msgid 'Not assigned'
- msgstr 'Không được chỉ định'
- msgid 'View advanced search syntax'
- msgstr 'Xem cú pháp tìm kiếm nâng cao'
- msgid 'Overview'
- msgstr 'Tổng quan'
- msgid 'Board/Calendar/List view'
- msgstr 'Chế độ xem hội đồng quản trị / lịch / danh sách'
- msgid 'Switch to the board view'
- msgstr 'Chuyển sang chế độ xem bảng'
- msgid 'Switch to the list view'
- msgstr 'Chuyển sang chế độ xem danh sách'
- msgid 'Go to the search/filter box'
- msgstr 'Đi tới hộp tìm kiếm / bộ lọc'
- msgid 'There is no activity yet.'
- msgstr 'Không có hoạt động nào.'
- msgid 'No tasks found.'
- msgstr 'Không tìm thấy công việc nào.'
- msgid 'Keyboard shortcut: "%s"'
- msgstr 'Các phím tắt bàn phím "%s"'
- msgid 'List'
- msgstr 'Danh sách'
- msgid 'Filter'
- msgstr 'Lọc'
- msgid 'Advanced search'
- msgstr 'Tìm kiếm nâng cao'
- msgid 'Example of query: '
- msgstr 'Ví dụ về truy vấn:'
- msgid 'Search by project: '
- msgstr 'Tìm kiếm theo dự án:'
- msgid 'Search by column: '
- msgstr 'Tìm kiếm theo cột:'
- msgid 'Search by assignee: '
- msgstr 'Tìm kiếm bởi người được chuyển nhượng:'
- msgid 'Search by color: '
- msgstr 'Tìm kiếm theo màu sắc:'
- msgid 'Search by category: '
- msgstr 'Tìm kiếm theo thể loại:'
- msgid 'Search by description: '
- msgstr 'Tìm theo mô tả:'
- msgid 'Search by due date: '
- msgstr 'Tìm kiếm theo ngày đáo hạn:'
- msgid 'Average time spent in each column'
- msgstr 'Thời gian trung bình dành cho từng cột'
- msgid 'Average time spent'
- msgstr 'Thời gian trung bình dành'
- msgid 'This chart shows the average time spent in each column for the last %d tasks.'
- msgstr 'Biểu đồ này cho thấy thời gian trung bình dành cho mỗi cột cho các tác vụ %d cuối cùng.'
- msgid 'Average Lead and Cycle time'
- msgstr 'Thời gian trung bình và thời gian chu kỳ'
- msgid 'Average lead time: '
- msgstr 'Thời gian dẫn trung bình:'
- msgid 'Average cycle time: '
- msgstr 'Thời gian chu kỳ trung bình:'
- msgid 'Cycle Time'
- msgstr 'Thời gian chu kỳ'
- msgid 'Lead Time'
- msgstr 'Chì Thời gian'
- msgid 'This chart shows the average lead and cycle time for the last %d tasks over the time.'
- msgstr 'Biểu đồ này cho thấy thời gian dẫn và thời gian trung bình cho các tác vụ %d cuối cùng qua thời gian.'
- msgid 'Average time into each column'
- msgstr 'Thời gian trung bình vào mỗi cột'
- msgid 'Lead and cycle time'
- msgstr 'Chì và thời gian chu kỳ'
- msgid 'Lead time: '
- msgstr 'Chì thời gian:'
- msgid 'Cycle time: '
- msgstr 'Thời gian chu kỳ: '
- msgid 'Time spent in each column'
- msgstr 'Thời gian dành cho từng cột'
- msgid 'The lead time is the duration between the task creation and the completion.'
- msgstr 'Thời gian dẫn là khoảng thời gian giữa nhiệm vụ sáng tạo và hoàn thành.'
- msgid 'The cycle time is the duration between the start date and the completion.'
- msgstr 'Thời gian chu kỳ là khoảng thời gian giữa ngày bắt đầu và ngày hoàn thành.'
- msgid 'If the task is not closed the current time is used instead of the completion date.'
- msgstr 'Nếu nhiệm vụ không đóng thì thời gian hiện tại được sử dụng thay vì ngày hoàn thành.'
- msgid 'Set the start date automatically'
- msgstr 'Đặt tự động ngày bắt đầu'
- msgid 'Edit Authentication'
- msgstr 'Chỉnh sửa Xác thực'
- msgid 'Remote user'
- msgstr 'Người dùng từ xa'
- msgid 'Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts.'
- msgstr 'Người dùng từ xa không lưu mật khẩu của họ trong cơ sở dữ liệu Kanboard, ví dụ: LDAP, Google và Github.'
- msgid 'If you check the box "Disallow login form", credentials entered in the login form will be ignored.'
- msgstr 'Nếu bạn đánh dấu ô "Disallow form đăng nhập", các thông tin đăng nhập vào mẫu đăng nhập sẽ bị bỏ qua.'
- msgid 'Default task color'
- msgstr 'Màu nhiệm vụ mặc định'
- msgid 'This feature does not work with all browsers.'
- msgstr 'Tính năng này không hoạt động với tất cả các trình duyệt.'
- msgid 'There is no destination project available.'
- msgstr 'Không có dự án điểm đến có sẵn.'
- msgid 'Trigger automatically subtask time tracking'
- msgstr 'Trigger tự động theo dõi thời gian theo dõi'
- msgid 'Include closed tasks in the cumulative flow diagram'
- msgstr 'Bao gồm các nhiệm vụ đã đóng trong sơ đồ luồng tích lũy'
- msgid 'Current swimlane: %s'
- msgstr 'Dòng swimlane hiện tại: %s'
- msgid 'Current column: %s'
- msgstr 'Cột hiện tại: %s'
- msgid 'Current category: %s'
- msgstr 'Thể loại hiện tại: %s'
- msgid 'no category'
- msgstr 'không có loại'
- msgid 'Current assignee: %s'
- msgstr 'Đang chuyển nhượng hiện tại: %s'
- msgid 'not assigned'
- msgstr 'không được chỉ định'
- msgid 'Author:'
- msgstr 'Tác giả:'
- msgid 'contributors'
- msgstr 'người đóng góp'
- msgid 'License:'
- msgstr 'Giấy phép:'
- msgid 'License'
- msgstr 'Giấy phép'
- msgid 'Enter the text below'
- msgstr 'Nhập văn bản dưới đây'
- msgid 'Start date:'
- msgstr 'Ngày bắt đầu:'
- msgid 'Due date:'
- msgstr 'Ngày đáo hạn:'
- msgid 'People who are project managers'
- msgstr 'Những người quản lý dự án'
- msgid 'People who are project members'
- msgstr 'Những người là thành viên của dự án'
- msgid 'NOK - Norwegian Krone'
- msgstr 'NOK - Krone Na Uy'
- msgid 'Show this column'
- msgstr 'Hiển thị cột này'
- msgid 'Hide this column'
- msgstr 'Ẩn cột này'
- msgid 'End date'
- msgstr 'Ngày cuối'
- msgid 'Users overview'
- msgstr 'Tổng quan người dùng'
- msgid 'Members'
- msgstr 'Các thành viên'
- msgid 'Shared project'
- msgstr 'Dự án được chia sẻ'
- msgid 'Project managers'
- msgstr 'Quản lý dự án'
- msgid 'Projects list'
- msgstr 'Danh sách các dự án'
- msgid 'End date:'
- msgstr 'Ngày cuối:'
- msgid 'Change task color when using a specific task link'
- msgstr 'Thay đổi màu nhiệm vụ khi sử dụng liên kết nhiệm vụ cụ thể'
- msgid 'Task link creation or modification'
- msgstr 'Tạo hoặc sửa đổi liên kết nhiệm vụ'
- msgid 'Milestone'
- msgstr 'Milestone'
- msgid 'Reset the search/filter box'
- msgstr 'Đặt lại hộp tìm kiếm / bộ lọc'
- msgid 'Documentation'
- msgstr 'Tài liệu hướng dẫn'
- msgid 'Author'
- msgstr 'Tác giả'
- msgid 'Version'
- msgstr 'Phiên bản'
- msgid 'Plugins'
- msgstr 'Plugins'
- msgid 'There is no plugin loaded.'
- msgstr 'Không có plugin nạp.'
- msgid 'My notifications'
- msgstr 'Thông báo của tôi'
- msgid 'Custom filters'
- msgstr 'Bộ lọc tùy chỉnh'
- msgid 'Your custom filter has been created successfully.'
- msgstr 'Bộ lọc tuỳ chỉnh của bạn đã được tạo thành công.'
- msgid 'Unable to create your custom filter.'
- msgstr 'Không thể tạo bộ lọc tuỳ chỉnh của bạn.'
- msgid 'Custom filter removed successfully.'
- msgstr 'Đã xoá bộ lọc tùy chỉnh.'
- msgid 'Unable to remove this custom filter.'
- msgstr 'Không thể xóa bộ lọc tùy chỉnh này.'
- msgid 'Edit custom filter'
- msgstr 'Chỉnh sửa bộ lọc tùy chỉnh'
- msgid 'Your custom filter has been updated successfully.'
- msgstr 'Bộ lọc tuỳ chỉnh của bạn đã được cập nhật thành công.'
- msgid 'Unable to update custom filter.'
- msgstr 'Không thể cập nhật bộ lọc tuỳ chỉnh.'
- msgid 'Web'
- msgstr 'Web'
- msgid 'New attachment on task #%d: %s'
- msgstr 'Tập tin đính kèm mới trên task #%d: %s'
- msgid 'New comment on task #%d'
- msgstr 'Ý kiến ​​mới về nhiệm vụ #%d'
- msgid 'Comment updated on task #%d'
- msgstr 'Bình luận cập nhật về nhiệm vụ #%d'
- msgid 'New subtask on task #%d'
- msgstr 'Bổ sung phụ về nhiệm vụ #%d'
- msgid 'Subtask updated on task #%d'
- msgstr 'Không cập nhật được nhiệm vụ #%d'
- msgid 'New task #%d: %s'
- msgstr 'Nhiệm vụ mới %d: %s'
- msgid 'Task updated #%d'
- msgstr 'Đã cập nhật nhiệm vụ #%d'
- msgid 'Task #%d closed'
- msgstr 'Nhiệm vụ #%d đóng'
- msgid 'Task #%d opened'
- msgstr 'Nhiệm vụ #%d mở'
- msgid 'Column changed for task #%d'
- msgstr 'Đã thay đổi cột cho tác vụ #%d'
- msgid 'New position for task #%d'
- msgstr 'Vị trí mới cho nhiệm vụ #%d'
- msgid 'Swimlane changed for task #%d'
- msgstr 'Swimlane đã thay đổi cho nhiệm vụ #%d'
- msgid 'Assignee changed on task #%d'
- msgstr 'Người được chỉ định thay đổi về nhiệm vụ #%d'
- msgid '%d overdue tasks'
- msgstr '%d quá hạn tác vụ'
- msgid 'Task #%d is overdue'
- msgstr 'Công việc #%d là quá hạn'
- msgid 'No notification.'
- msgstr 'Không có thông báo.'
- msgid 'Mark all as read'
- msgstr 'Đánh dấu tất cả như đã đọc'
- msgid 'Mark as read'
- msgstr 'Đánh dấu là đã đọc'
- msgid 'Total number of tasks in this column across all swimlanes'
- msgstr 'Tổng số công việc trong cột này trên tất cả các đường swimlane'
- msgid 'Collapse swimlane'
- msgstr 'Thu gọn swimlane'
- msgid 'Expand swimlane'
- msgstr 'Mở rộng swimlane lội'
- msgid 'Add a new filter'
- msgstr 'Thêm một bộ lọc mới'
- msgid 'Share with all project members'
- msgstr 'Chia sẻ với tất cả các thành viên dự án'
- msgid 'Shared'
- msgstr 'Chia sẻ'
- msgid 'Owner'
- msgstr 'Chủ nhân'
- msgid 'Unread notifications'
- msgstr 'Thông báo chưa đọc'
- msgid 'Notification methods:'
- msgstr 'Phương pháp thông báo:'
- msgid 'Unable to read your file'
- msgstr 'Không thể đọc tập tin của bạn'
- msgid '%d task(s) have been imported successfully.'
- msgstr '%d nhiệm vụ đã được nhập thành công.'
- msgid 'Nothing has been imported!'
- msgstr 'Không có gì đã được nhập khẩu!'
- msgid 'Import users from CSV file'
- msgstr 'Nhập khẩu người dùng từ tệp CSV'
- msgid '%d user(s) have been imported successfully.'
- msgstr '%d người dùng đã được nhập thành công.'
- msgid 'Comma'
- msgstr 'Comma'
- msgid 'Semi-colon'
- msgstr 'Bán kết'
- msgid 'Tab'
- msgstr 'Chuyển hướng'
- msgid 'Vertical bar'
- msgstr 'Thanh dọc'
- msgid 'Double Quote'
- msgstr 'Double Quote'
- msgid 'Single Quote'
- msgstr 'Trích dẫn đơn'
- msgid '%s attached a file to the task #%d'
- msgstr ' %s gắn một tập tin vào tác vụ #%d'
- msgid 'There is no column or swimlane activated in your project!'
- msgstr 'Không có cột hoặc swimlane kích hoạt trong dự án của bạn!'
- msgid 'Append filter (instead of replacement)'
- msgstr 'Thêm bộ lọc (thay vì thay thế)'
- msgid 'Append/Replace'
- msgstr 'Thêm / Thay thế'
- msgid 'Append'
- msgstr 'Thêm'
- msgid 'Replace'
- msgstr 'Thay thế'
- msgid 'Import'
- msgstr 'Nhập khẩu'
- msgid 'Change sorting'
- msgstr 'Thay đổi phân loại'
- msgid 'Tasks Importation'
- msgstr 'Nhiệm vụ Nhập khẩu'
- msgid 'Delimiter'
- msgstr 'Delimiter'
- msgid 'Enclosure'
- msgstr 'Bao vây'
- msgid 'CSV File'
- msgstr 'CSV File'
- msgid 'Instructions'
- msgstr 'Hướng dẫn'
- msgid 'Your file must use the predefined CSV format'
- msgstr 'Tệp của bạn phải sử dụng định dạng CSV được xác định trước'
- msgid 'Your file must be encoded in UTF-8'
- msgstr 'Tập tin của bạn phải được mã hoá bằng UTF-8'
- msgid 'The first row must be the header'
- msgstr 'Hàng đầu tiên phải là tiêu đề'
- msgid 'Duplicates are not verified for you'
- msgstr 'Bản sao không được xác minh cho bạn'
- msgid 'The due date must use the ISO format: YYYY-MM-DD'
- msgstr 'Ngày đáo hạn phải sử dụng định dạng ISO: YYYY-MM-DD'
- msgid 'Download CSV template'
- msgstr 'Tải xuống mẫu CSV'
- msgid 'No external integration registered.'
- msgstr 'Không có tích hợp bên ngoài đăng ký.'
- msgid 'Duplicates are not imported'
- msgstr 'Bản sao không được nhập'
- msgid 'Usernames must be lowercase and unique'
- msgstr 'Tên người dùng phải là chữ thường và'
- msgid 'Passwords will be encrypted if present'
- msgstr 'Mật khẩu sẽ được mã hóa nếu có'
- msgid '%s attached a new file to the task %s'
- msgstr ' %s gắn một tập tin mới vào công việc %s'
- msgid 'Link type'
- msgstr 'Loại liên kết'
- msgid 'Assign automatically a category based on a link'
- msgstr 'Chỉ định tự động một thể loại dựa trên liên kết'
- msgid 'BAM - Konvertible Mark'
- msgstr 'BAM - Konvertible Mark'
- msgid 'Assignee Username'
- msgstr 'Assignee Username'
- msgid 'Assignee Name'
- msgstr 'Người được chuyển nhượng'
- msgid 'Groups'
- msgstr 'Các nhóm'
- msgid 'Members of %s'
- msgstr 'Thành viên của %s'
- msgid 'New group'
- msgstr 'Nhóm mới'
- msgid 'Group created successfully.'
- msgstr 'Nhóm được tạo thành công.'
- msgid 'Unable to create your group.'
- msgstr 'Không thể tạo nhóm của bạn.'
- msgid 'Edit group'
- msgstr 'Chỉnh sửa nhóm'
- msgid 'Group updated successfully.'
- msgstr 'Nhóm được cập nhật thành công.'
- msgid 'Unable to update your group.'
- msgstr 'Không thể cập nhật nhóm của bạn.'
- msgid 'Add group member to "%s"'
- msgstr 'Thêm thành viên nhóm vào "%s"'
- msgid 'Group member added successfully.'
- msgstr 'Thành viên nhóm đã thành công.'
- msgid 'Unable to add group member.'
- msgstr 'Không thể thêm thành viên nhóm'
- msgid 'Remove user from group "%s"'
- msgstr 'Xóa người dùng khỏi nhóm %s'
- msgid 'User removed successfully from this group.'
- msgstr 'Người dùng đã xóa thành công khỏi nhóm này.'
- msgid 'Unable to remove this user from the group.'
- msgstr 'Không thể xóa người dùng này khỏi nhóm.'
- msgid 'Remove group'
- msgstr 'Loại bỏ nhóm'
- msgid 'Group removed successfully.'
- msgstr 'Nhóm đã xoá thành công.'
- msgid 'Unable to remove this group.'
- msgstr 'Không thể xóa nhóm này.'
- msgid 'Project Permissions'
- msgstr 'Quyền dự án'
- msgid 'Manager'
- msgstr 'Giám đốc'
- msgid 'Project Manager'
- msgstr 'Quản lý dự án'
- msgid 'Project Member'
- msgstr 'Thành viên Dự án'
- msgid 'Project Viewer'
- msgstr 'Trình xem dự án'
- msgid 'Your account is locked for %d minutes'
- msgstr 'Tài khoản của bạn bị khóa trong %d phút'
- msgid 'Invalid captcha'
- msgstr 'Captcha không hợp lệ'
- msgid 'The name must be unique'
- msgstr 'Cái tên phải là duy nhất'
- msgid 'View all groups'
- msgstr 'Xem tất cả các nhóm'
- msgid 'There is no user available.'
- msgstr 'Không có người dùng nào có sẵn.'
- msgid 'Do you really want to remove the user "%s" from the group "%s"?'
- msgstr 'Bạn có thực sự muốn xóa người dùng "%s" khỏi nhóm "%s"?'
- msgid 'There is no group.'
- msgstr 'Không có nhóm.'
- msgid 'Add group member'
- msgstr 'Thêm thành viên nhóm'
- msgid 'Do you really want to remove this group: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ nhóm này: "%s"?'
- msgid 'There is no user in this group.'
- msgstr 'Không có người dùng trong nhóm này.'
- msgid 'Permissions'
- msgstr 'Quyền'
- msgid 'Allowed Users'
- msgstr 'Người dùng được phép'
- msgid 'No specific user has been allowed.'
- msgstr 'Không người dùng nào được cho phép cụ thể.'
- msgid 'Role'
- msgstr 'Vai trò'
- msgid 'Enter user name...'
- msgstr 'Điền tên đăng nhập...'
- msgid 'Allowed Groups'
- msgstr 'Nhóm được phép'
- msgid 'No group has been allowed.'
- msgstr 'Không có nhóm nào được cho phép cụ thể.'
- msgid 'Group'
- msgstr 'Nhóm'
- msgid 'Group Name'
- msgstr 'Tên nhóm'
- msgid 'Enter group name...'
- msgstr 'Nhập tên nhóm ...'
- msgid 'Role:'
- msgstr 'Vai trò:'
- msgid 'Project members'
- msgstr 'Thành viên dự án'
- msgid '%s mentioned you in the task #%d'
- msgstr ' %s đề cập đến bạn trong công việc #%d'
- msgid '%s mentioned you in a comment on the task #%d'
- msgstr ' %s đã đề cập đến bạn trong một nhận xét về nhiệm vụ #%d'
- msgid 'You were mentioned in the task #%d'
- msgstr 'Bạn đã được đề cập trong nhiệm vụ #%d'
- msgid 'You were mentioned in a comment on the task #%d'
- msgstr 'Bạn đã được đề cập trong một nhận xét về nhiệm vụ #%d'
- msgid 'Estimated hours: '
- msgstr 'Giờ ước tính:'
- msgid 'Actual hours: '
- msgstr 'Giờ thực tế:'
- msgid 'Hours Spent'
- msgstr 'Thời gian Nghỉ ngơi'
- msgid 'Hours Estimated'
- msgstr 'Số giờ Ước tính'
- msgid 'Estimated Time'
- msgstr 'Thơi gian dự định'
- msgid 'Actual Time'
- msgstr 'Thời gian Thực'
- msgid 'Estimated vs actual time'
- msgstr 'Ước tính thời gian thực'
- msgid 'RUB - Russian Ruble'
- msgstr 'RUB - Nga Ruble'
- msgid 'Assign the task to the person who does the action when the column is changed'
- msgstr 'Chỉ định nhiệm vụ cho người thực hiện hành động khi cột được thay đổi'
- msgid 'Close a task in a specific column'
- msgstr 'Đóng một nhiệm vụ trong một cột cụ thể'
- msgid 'Time-based One-time Password Algorithm'
- msgstr 'Thuật toán mật khẩu một lần dựa trên thời gian'
- msgid 'Two-Factor Provider: '
- msgstr 'Nhà cung cấp hai nhân tố:'
- msgid 'Disable two-factor authentication'
- msgstr 'Tắt xác thực hai lớp'
- msgid 'Enable two-factor authentication'
- msgstr 'Kích hoạt xác thực hai lớp'
- msgid 'There is no integration registered at the moment.'
- msgstr 'Hiện tại không có hội nhập nào được đăng ký.'
- msgid 'Password Reset for Kanboard'
- msgstr 'Đặt lại mật khẩu cho Kanboard'
- msgid 'Forgot password?'
- msgstr 'Quên mật khẩu?'
- msgid 'Enable "Forget Password"'
- msgstr 'Bật Quên mật khẩu '
- msgid 'Password Reset'
- msgstr 'Đặt lại mật khẩu'
- msgid 'New password'
- msgstr 'Mật khẩu mới'
- msgid 'Change Password'
- msgstr 'Đổi mật khẩu'
- msgid 'To reset your password click on this link:'
- msgstr 'Để đặt lại mật khẩu của bạn bấm vào liên kết này:'
- msgid 'Last Password Reset'
- msgstr 'Thiết lập lại mật khẩu lần cuối'
- msgid 'The password has never been reinitialized.'
- msgstr 'Mật khẩu chưa bao giờ được khởi tạo lại.'
- msgid 'Creation'
- msgstr 'Sự sáng tạo'
- msgid 'Expiration'
- msgstr 'Hết hạn'
- msgid 'Password reset history'
- msgstr 'Lịch sử đặt lại mật khẩu'
- msgid 'All tasks of the column "%s" and the swimlane "%s" have been closed successfully.'
- msgstr 'Tất cả nhiệm vụ của cột "%s" và swimlane "%s" đã được đóng thành công.'
- msgid 'Do you really want to close all tasks of this column?'
- msgstr 'Bạn có thực sự muốn đóng tất cả các nhiệm vụ của cột này?'
- msgid '%d task(s) in the column "%s" and the swimlane "%s" will be closed.'
- msgstr '%d nhiệm vụ trong cột "%s" và swimlane "%s" sẽ được đóng lại.'
- msgid 'Close all tasks in this column and this swimlane'
- msgstr 'Đóng tất cả các tác vụ của cột này'
- msgid 'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.'
- msgstr 'Không có plugin đã đăng ký một phương pháp thông báo dự án. Bạn vẫn có thể định cấu hình các thông báo riêng trong hồ sơ người dùng của bạn. '
- msgid 'My dashboard'
- msgstr 'Bảng điều khiển của tôi'
- msgid 'My profile'
- msgstr 'Thông tin của tôi'
- msgid 'Project owner: '
- msgstr 'Chủ dự án: '
- msgid 'The project identifier is optional and must be alphanumeric, example: MYPROJECT.'
- msgstr 'Định danh dự án là tùy chọn và phải là chữ số, ví dụ: MYPROJECT.'
- msgid 'Project owner'
- msgstr 'Chủ dự án'
- msgid 'Personal projects do not have users and groups management.'
- msgstr 'Các dự án riêng tư không có người dùng và quản lý nhóm.'
- msgid 'There is no project member.'
- msgstr 'Không có thành viên dự án.'
- msgid 'Priority'
- msgstr 'Sự ưu tiên'
- msgid 'Task priority'
- msgstr 'Nhiệm vụ ưu tiên'
- msgid 'General'
- msgstr 'Chung'
- msgid 'Dates'
- msgstr 'Ngày'
- msgid 'Default priority'
- msgstr 'Mức độ ưu tiên mặc định'
- msgid 'Lowest priority'
- msgstr 'Mức ưu tiên thấp nhất'
- msgid 'Highest priority'
- msgstr 'Mức ưu tiên cao nhất'
- msgid 'Close a task when there is no activity'
- msgstr 'Đóng một nhiệm vụ khi không có hoạt động'
- msgid 'Duration in days'
- msgstr 'Thời lượng theo ngày'
- msgid 'Send email when there is no activity on a task'
- msgstr 'Gửi email khi không có hoạt động nào trên một tác vụ'
- msgid 'Unable to fetch link information.'
- msgstr 'Không thể tìm nạp thông tin liên kết.'
- msgid 'Daily background job for tasks'
- msgstr 'Công việc hàng ngày cho các nhiệm vụ'
- msgid 'Auto'
- msgstr 'Tự động'
- msgid 'Related'
- msgstr 'Liên quan'
- msgid 'Attachment'
- msgstr 'Tập tin đính kèm'
- msgid 'Title not found'
- msgstr 'Tiêu đề không tìm thấy'
- msgid 'Web Link'
- msgstr 'Liên kết Web'
- msgid 'External links'
- msgstr 'Liện kết ngoại'
- msgid 'Add external link'
- msgstr 'Thêm liên kết bên ngoài'
- msgid 'Type'
- msgstr 'Kiểu'
- msgid 'Dependency'
- msgstr 'Sự phụ thuộc'
- msgid 'Add internal link'
- msgstr 'Thêm liên kết nội bộ'
- msgid 'Add a new external link'
- msgstr 'Thêm một liên kết bên ngoài mới'
- msgid 'Edit external link'
- msgstr 'Chỉnh sửa liên kết bên ngoài'
- msgid 'External link'
- msgstr 'Liên kết bên ngoài'
- msgid 'Copy and paste your link here...'
- msgstr 'Sao chép và dán liên kết của bạn ở đây ...'
- msgid 'URL'
- msgstr 'URL'
- msgid 'Internal links'
- msgstr 'Liên kết nội bộ'
- msgid 'Assign to me'
- msgstr 'Chỉ định cho tôi'
- msgid 'Me'
- msgstr 'Tôi'
- msgid 'Do not duplicate anything'
- msgstr 'Đừng trùng lặp bất cứ điều gì'
- msgid 'Projects management'
- msgstr 'Quản lý dự án'
- msgid 'Users management'
- msgstr 'Quản lý người dùng'
- msgid 'Groups management'
- msgstr 'Quản lý nhóm'
- msgid 'Create from another project'
- msgstr 'Tạo ra từ một dự án khác'
- msgid 'open'
- msgstr 'mở'
- msgid 'closed'
- msgstr 'đóng cửa'
- msgid 'Priority:'
- msgstr 'Sự ưu tiên:'
- msgid 'Reference:'
- msgstr 'Tài liệu tham khảo:'
- msgid 'Complexity:'
- msgstr 'Sự phức tạp:'
- msgid 'Swimlane:'
- msgstr 'Swimlane:'
- msgid 'Column:'
- msgstr 'Cột:'
- msgid 'Position:'
- msgstr 'Chức vụ:'
- msgid 'Creator:'
- msgstr 'Người sáng tạo:'
- msgid 'Time estimated:'
- msgstr 'Thời gian ước tính:'
- msgid '%s hours'
- msgstr ' %s hours'
- msgid 'Time spent:'
- msgstr 'Thời gian dành:'
- msgid 'Created:'
- msgstr 'Tạo:'
- msgid 'Modified:'
- msgstr 'Sửa đổi:'
- msgid 'Completed:'
- msgstr 'Đã hoàn thành:'
- msgid 'Started:'
- msgstr 'Đã bắt đầu:'
- msgid 'Moved:'
- msgstr 'Moved:'
- msgid 'Task #%d'
- msgstr 'Nhiệm vụ #%d'
- msgid 'Time format'
- msgstr 'Định dạng thời gian'
- msgid 'Start date: '
- msgstr 'Ngày bắt đầu:'
- msgid 'End date: '
- msgstr 'Ngày cuối: '
- msgid 'New due date: '
- msgstr 'Ngày đáo hạn mới:'
- msgid 'Start date changed: '
- msgstr 'Ngày bắt đầu thay đổi:'
- msgid 'Disable personal projects'
- msgstr 'Vô hiệu hoá các dự án riêng tư'
- msgid 'Do you really want to remove this custom filter: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ bộ lọc tuỳ chỉnh này: "%s"?'
- msgid 'Remove a custom filter'
- msgstr 'Xóa một bộ lọc tuỳ chỉnh'
- msgid 'User activated successfully.'
- msgstr 'Người dùng đã kích hoạt thành công.'
- msgid 'Unable to enable this user.'
- msgstr 'Không thể kích hoạt người dùng này.'
- msgid 'User disabled successfully.'
- msgstr 'Người dùng đã vô hiệu thành công.'
- msgid 'Unable to disable this user.'
- msgstr 'Không thể vô hiệu hóa người dùng này.'
- msgid 'All files have been uploaded successfully.'
- msgstr 'Tất cả các tập tin đã được tải lên thành công.'
- msgid 'The maximum allowed file size is %sB.'
- msgstr 'Kích thước tập tin tối đa cho phép là %sB.'
- msgid 'Drag and drop your files here'
- msgstr 'Kéo và thả tệp của bạn ở đây'
- msgid 'choose files'
- msgstr 'chọn tập tin'
- msgid 'View profile'
- msgstr 'Xem hồ sơ'
- msgid 'Two Factor'
- msgstr 'hai lớp'
- msgid 'Disable user'
- msgstr 'Vô hiệu hoá người dùng'
- msgid 'Do you really want to disable this user: "%s"?'
- msgstr 'Bạn thực sự muốn vô hiệu hóa người dùng này: "%s"?'
- msgid 'Enable user'
- msgstr 'Enable user'
- msgid 'Do you really want to enable this user: "%s"?'
- msgstr 'Bạn có thực sự muốn cho phép người dùng này: "%s"?'
- msgid 'Download'
- msgstr 'Tải về'
- msgid 'Uploaded: %s'
- msgstr 'Đã tải lên: %s'
- msgid 'Size: %s'
- msgstr 'Kích thước: %s'
- msgid 'Uploaded by %s'
- msgstr 'Đã tải lên bởi %s'
- msgid 'Filename'
- msgstr 'Filename'
- msgid 'Size'
- msgstr 'Kích thước'
- msgid 'Column created successfully.'
- msgstr 'Cột được tạo thành công.'
- msgid 'Another column with the same name exists in the project'
- msgstr 'Một cột có cùng tên tồn tại trong dự án'
- msgid 'Default filters'
- msgstr 'Bộ lọc mặc định'
- msgid 'Your board doesn\'t have any columns!'
- msgstr 'Bảng của bạn không có bất kỳ cột nào!'
- msgid 'Change column position'
- msgstr 'Thay đổi vị trí cột'
- msgid 'Switch to the project overview'
- msgstr 'Chuyển sang tổng quan về dự án'
- msgid 'User filters'
- msgstr 'Bộ lọc người dùng'
- msgid 'Category filters'
- msgstr 'Bộ lọc danh mục'
- msgid 'Upload a file'
- msgstr 'Tải lên một tài liệu'
- msgid 'View file'
- msgstr 'Xem tài liệu'
- msgid 'Last activity'
- msgstr 'Hoạt động cuối'
- msgid 'Change subtask position'
- msgstr 'Thay đổi vị trí phụ'
- msgid 'This value must be greater than %d'
- msgstr 'Giá trị này phải lớn hơn %d'
- msgid 'Another swimlane with the same name exists in the project'
- msgstr 'Một con tàu khác có cùng tên tồn tại trong dự án '
- msgid 'Example: https://example.kanboard.org/ (used to generate absolute URLs)'
- msgstr 'Ví dụ: https://example.kanboard.org/ (dùng để tạo URL tuyệt đối)'
- msgid 'Actions duplicated successfully.'
- msgstr 'Hành động trùng lặp thành công.'
- msgid 'Unable to duplicate actions.'
- msgstr 'Không thể lặp lại hành động.'
- msgid 'Add a new action'
- msgstr 'Thêm một hành động mới'
- msgid 'Import from another project'
- msgstr 'Nhập khẩu từ một dự án khác'
- msgid 'There is no action at the moment.'
- msgstr 'Hiện tại không có hành động nào.'
- msgid 'Import actions from another project'
- msgstr 'Nhập khẩu các hành động từ một dự án khác'
- msgid 'There is no available project.'
- msgstr 'Không có dự án sẵn có.'
- msgid 'Local File'
- msgstr 'Local File'
- msgid 'Configuration'
- msgstr 'Cấu hình'
- msgid 'PHP version:'
- msgstr 'Phiên bản PHP:'
- msgid 'PHP SAPI:'
- msgstr 'PHP SAPI:'
- msgid 'OS version:'
- msgstr 'Phiên bản hệ điều hành:'
- msgid 'Database version:'
- msgstr 'Phiên bản cơ sở dữ liệu:'
- msgid 'Browser:'
- msgstr 'Trình duyệt:'
- msgid 'Task view'
- msgstr 'Công việc xem'
- msgid 'Edit task'
- msgstr 'Chỉnh sửa nhiệm vụ'
- msgid 'Edit description'
- msgstr 'Chỉnh sửa mô tả'
- msgid 'New internal link'
- msgstr 'Liên kết nội bộ mới'
- msgid 'Display list of keyboard shortcuts'
- msgstr 'Hiển thị danh sách các phím tắt'
- msgid 'Avatar'
- msgstr 'Hình đại diện'
- msgid 'Upload my avatar image'
- msgstr 'Tải lên hình ảnh đại diện của tôi'
- msgid 'Remove my image'
- msgstr 'Hủy bỏ hình ảnh của tôi'
- msgid 'The OAuth2 state parameter is invalid'
- msgstr 'Tham số trạng thái OAuth2 không hợp lệ'
- msgid 'User not found.'
- msgstr 'Người dùng không tìm thấy.'
- msgid 'Search in activity stream'
- msgstr 'Tìm kiếm trong luồng hoạt động'
- msgid 'My activities'
- msgstr 'Hoạt động của tôi'
- msgid 'Activity until yesterday'
- msgstr 'Hoạt động cho đến ngày hôm qua'
- msgid 'Activity until today'
- msgstr 'Hoạt động cho đến ngày hôm nay'
- msgid 'Search by creator: '
- msgstr 'Tìm kiếm theo người sáng tạo:'
- msgid 'Search by creation date: '
- msgstr 'Tìm kiếm theo ngày tạo:'
- msgid 'Search by task status: '
- msgstr 'Tìm theo tình trạng công việc:'
- msgid 'Search by task title: '
- msgstr 'Tìm theo tên công việc:'
- msgid 'Activity stream search'
- msgstr 'Tìm kiếm luồng hoạt động'
- msgid 'Projects where "%s" is manager'
- msgstr 'Dự án nơi "%s" là người quản lý'
- msgid 'Projects where "%s" is member'
- msgstr 'Dự án nơi "%s" là thành viên'
- msgid 'Open tasks assigned to "%s"'
- msgstr 'Mở nhiệm vụ được giao cho "%s"'
- msgid 'Closed tasks assigned to "%s"'
- msgstr 'Đã đóng nhiệm vụ được giao cho "%s"'
- msgid 'Assign automatically a color based on a priority'
- msgstr 'Chỉ định tự động một màu dựa trên một ưu tiên'
- msgid 'Overdue tasks for the project(s) "%s"'
- msgstr 'Các nhiệm vụ quá hạn cho (các) dự án %s'
- msgid 'Upload files'
- msgstr 'Tải tệp lên'
- msgid 'Installed Plugins'
- msgstr 'Plugin cài đặt'
- msgid 'Plugin Directory'
- msgstr 'Plugin Directory'
- msgid 'Plugin installed successfully.'
- msgstr 'Plugin được cài đặt thành công.'
- msgid 'Plugin updated successfully.'
- msgstr 'Plugin được cập nhật thành công.'
- msgid 'Plugin removed successfully.'
- msgstr 'Plugin được xoá thành công.'
- msgid 'Subtask converted to task successfully.'
- msgstr 'Đã thực hiện thành công nhiệm vụ phụ đề đã được chuyển thành.'
- msgid 'Unable to convert the subtask.'
- msgstr 'Không thể chuyển đổi phụ đề.'
- msgid 'Unable to extract plugin archive.'
- msgstr 'Không thể trích xuất kho lưu trữ plugin.'
- msgid 'Plugin not found.'
- msgstr 'Plugin không tìm thấy.'
- msgid 'You don\'t have the permission to remove this plugin.'
- msgstr 'Bạn không có quyền xóa plugin này.'
- msgid 'Unable to download plugin archive.'
- msgstr 'Không thể tải tệp lưu trữ plugin.'
- msgid 'Unable to write temporary file for plugin.'
- msgstr 'Không thể ghi tập tin tạm thời cho plugin.'
- msgid 'Unable to open plugin archive.'
- msgstr 'Không thể mở tệp lưu trữ plugin.'
- msgid 'There is no file in the plugin archive.'
- msgstr 'Không có tệp nào trong kho lưu trữ trình cắm.'
- msgid 'Create tasks in bulk'
- msgstr 'Tạo nhiệm vụ hàng loạt'
- msgid 'Your Kanboard instance is not configured to install plugins from the user interface.'
- msgstr 'Trường hợp Kanboard của bạn không được định cấu hình để cài đặt plugin từ giao diện người dùng.'
- msgid 'There is no plugin available.'
- msgstr 'Không có plugin nào sẵn có.'
- msgid 'Install'
- msgstr 'Cài đặt, dựng lên'
- msgid 'Update'
- msgstr 'Cập nhật'
- msgid 'Up to date'
- msgstr 'Cập nhật'
- msgid 'Not available'
- msgstr 'Không có sẵn'
- msgid 'Remove plugin'
- msgstr 'Xoá plugin'
- msgid 'Do you really want to remove this plugin: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ plugin này: "%s"?'
- msgid 'Uninstall'
- msgstr 'Gỡ cài đặt'
- msgid 'Listing'
- msgstr 'Liệt kê'
- msgid 'Metadata'
- msgstr 'Siêu dữ liệu'
- msgid 'Manage projects'
- msgstr 'Quản lý dự án'
- msgid 'Convert to task'
- msgstr 'Chuyển đổi sang tác vụ'
- msgid 'Convert sub-task to task'
- msgstr 'Chuyển tiểu nhiệm vụ thành nhiệm vụ'
- msgid 'Do you really want to convert this sub-task to a task?'
- msgstr 'Bạn có thực sự muốn chuyển đổi tiểu nhiệm vụ này sang một nhiệm vụ?'
- msgid 'My task title'
- msgstr 'Nhiệm vụ của tôi'
- msgid 'Enter one task by line.'
- msgstr 'Nhập một tác vụ theo dòng.'
- msgid 'Number of failed login:'
- msgstr 'Số lần đăng nhập không thành công:'
- msgid 'Account locked until:'
- msgstr 'Tài khoản bị khoá cho đến khi:'
- msgid 'Email settings'
- msgstr 'Cài đặt email'
- msgid 'Email sender address'
- msgstr 'Địa chỉ người gửi email'
- msgid 'Email transport'
- msgstr 'Vận chuyển email'
- msgid 'Webhook token'
- msgstr 'Mã thông báo của Webhook'
- msgid 'Project tags management'
- msgstr 'Quản lý thẻ dự án'
- msgid 'Tag created successfully.'
- msgstr 'Thẻ được tạo thành công.'
- msgid 'Unable to create this tag.'
- msgstr 'Không thể tạo thẻ này.'
- msgid 'Tag updated successfully.'
- msgstr 'Thẻ được cập nhật thành công.'
- msgid 'Unable to update this tag.'
- msgstr 'Không thể cập nhật thẻ này.'
- msgid 'Tag removed successfully.'
- msgstr 'Thẻ đã xoá thành công.'
- msgid 'Unable to remove this tag.'
- msgstr 'Không thể xóa thẻ này.'
- msgid 'Global tags management'
- msgstr 'Quản lý thẻ toàn cầu'
- msgid 'Tags'
- msgstr 'Thẻ'
- msgid 'Tags management'
- msgstr 'Quản lý thẻ'
- msgid 'Add new tag'
- msgstr 'Thêm thẻ mới'
- msgid 'Edit a tag'
- msgstr 'Chỉnh sửa thẻ'
- msgid 'Project tags'
- msgstr 'Thẻ dự án'
- msgid 'There is no specific tag for this project at the moment.'
- msgstr 'Hiện tại không có thẻ cụ thể cho dự án này.'
- msgid 'Tag'
- msgstr 'Nhãn'
- msgid 'Remove a tag'
- msgstr 'Loại bỏ một thẻ'
- msgid 'Do you really want to remove this tag: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ thẻ này: "%s"?'
- msgid 'Global tags'
- msgstr 'Thẻ toàn cầu'
- msgid 'There is no global tag at the moment.'
- msgstr 'Hiện tại không có nhãn toàn cầu. '
- msgid 'This field cannot be empty'
- msgstr 'Trường này không thể để trống'
- msgid 'Close a task when there is no activity in a specific column'
- msgstr 'Đóng một nhiệm vụ khi không có hoạt động trong một cột cụ thể'
- msgid '%s removed a subtask for the task #%d'
- msgstr ' %s loại bỏ một subtask cho nhiệm vụ #%d'
- msgid '%s removed a comment on the task #%d'
- msgstr ' %s xóa một nhận xét về nhiệm vụ #%d'
- msgid 'Comment removed on task #%d'
- msgstr 'Đã xóa nhận xét về công việc #%d'
- msgid 'Subtask removed on task #%d'
- msgstr 'Huỷ bỏ các nhiệm vụ #%d'
- msgid 'Hide tasks in this column in the dashboard'
- msgstr 'Ẩn nhiệm vụ trong cột này trong bảng điều khiển'
- msgid '%s removed a comment on the task %s'
- msgstr ' %s xóa một nhận xét về nhiệm vụ %s'
- msgid '%s removed a subtask for the task %s'
- msgstr ' %s loại bỏ một phụ cho nhiệm vụ %s'
- msgid 'Comment removed'
- msgstr 'Đã xóa nhận xét'
- msgid 'Subtask removed'
- msgstr 'Huỷ bỏ bỏ'
- msgid '%s set a new internal link for the task #%d'
- msgstr ' %s thiết lập một liên kết nội bộ mới cho nhiệm vụ #%d'
- msgid '%s removed an internal link for the task #%d'
- msgstr ' %s đã xóa liên kết nội bộ cho tác vụ #%d'
- msgid 'A new internal link for the task #%d has been defined'
- msgstr 'Một liên kết nội bộ mới cho nhiệm vụ #%d đã được xác định'
- msgid 'Internal link removed for the task #%d'
- msgstr 'Đã loại bỏ liên kết nội bộ cho tác vụ #%d'
- msgid '%s set a new internal link for the task %s'
- msgstr ' %s thiết lập một liên kết nội bộ mới cho nhiệm vụ %s'
- msgid '%s removed an internal link for the task %s'
- msgstr ' %s đã xóa liên kết nội bộ cho tác vụ %s'
- msgid 'Automatically set the due date on task creation'
- msgstr 'Tự động thiết lập ngày đáo hạn khi tạo tác vụ'
- msgid 'Move the task to another column when closed'
- msgstr 'Di chuyển nhiệm vụ sang cột khác khi đóng'
- msgid 'Move the task to another column when not moved during a given period'
- msgstr 'Di chuyển công việc sang cột khác khi không di chuyển trong một khoảng thời gian nhất định'
- msgid 'Dashboard for %s'
- msgstr 'Bảng điều khiển cho %s'
- msgid 'Tasks overview for %s'
- msgstr 'Tổng quan về các nhiệm vụ cho %s'
- msgid 'Subtasks overview for %s'
- msgstr 'Tổng quan về các công việc cho %s'
- msgid 'Projects overview for %s'
- msgstr 'Tổng quan về dự án cho %s'
- msgid 'Activity stream for %s'
- msgstr 'Luồng hoạt động cho %s'
- msgid 'Assign a color when the task is moved to a specific swimlane'
- msgstr 'Chỉ định một màu sắc khi nhiệm vụ được chuyển đến một swimlane cụ thể'
- msgid 'Assign a priority when the task is moved to a specific swimlane'
- msgstr 'Chỉ định một ưu tiên khi nhiệm vụ được chuyển đến một con swimlane cụ thể'
- msgid 'User unlocked successfully.'
- msgstr 'Người dùng đã mở khóa thành công.'
- msgid 'Unable to unlock the user.'
- msgstr 'Không thể mở khóa người dùng.'
- msgid 'Move a task to another swimlane'
- msgstr 'Di chuyển một nhiệm vụ đến một swimlane khác'
- msgid 'Creator Name'
- msgstr 'Tên người tạo'
- msgid 'Time spent and estimated'
- msgstr 'Thời gian chi tiêu và ước tính'
- msgid 'Move position'
- msgstr 'Di chuyển vị trí'
- msgid 'Move task to another position on the board'
- msgstr 'Chuyển nhiệm vụ sang vị trí khác trên bảng'
- msgid 'Insert before this task'
- msgstr 'Chèn trước khi tác vụ này'
- msgid 'Insert after this task'
- msgstr 'Chèn sau khi tác vụ này'
- msgid 'Unlock this user'
- msgstr 'Mở khóa người dùng này'
- msgid 'Custom Project Roles'
- msgstr 'Vai trò dự án tùy chỉnh'
- msgid 'Add a new custom role'
- msgstr 'Thêm một vai trò tùy chỉnh mới'
- msgid 'Restrictions for the role "%s"'
- msgstr 'Hạn chế đối với vai trò %s'
- msgid 'Add a new project restriction'
- msgstr 'Thêm một hạn chế dự án mới'
- msgid 'Add a new drag and drop restriction'
- msgstr 'Thêm một hạn chế kéo và thả mới'
- msgid 'Add a new column restriction'
- msgstr 'Thêm một cột mới'
- msgid 'Edit this role'
- msgstr 'Chỉnh sửa vai trò này'
- msgid 'Remove this role'
- msgstr 'Loại bỏ vai trò này'
- msgid 'There is no restriction for this role.'
- msgstr 'Không có sự hạn chế đối với vai trò này.'
- msgid 'Only moving task between those columns is permitted'
- msgstr 'Chỉ di chuyển nhiệm vụ giữa các cột đó được phép'
- msgid 'Close a task in a specific column when not moved during a given period'
- msgstr 'Đóng một nhiệm vụ trong một cột cụ thể khi không di chuyển trong một khoảng thời gian nhất định'
- msgid 'Edit columns'
- msgstr 'Chỉnh sửa cột'
- msgid 'The column restriction has been created successfully.'
- msgstr 'Hạn chế cột đã được tạo thành công.'
- msgid 'Unable to create this column restriction.'
- msgstr 'Không thể tạo giới hạn cột này.'
- msgid 'Column restriction removed successfully.'
- msgstr 'Hạn chế cột đã được xoá thành công.'
- msgid 'Unable to remove this restriction.'
- msgstr 'Không thể xóa bỏ hạn chế này.'
- msgid 'Your custom project role has been created successfully.'
- msgstr 'Vai trò dự án tùy chỉnh của bạn đã được tạo thành công.'
- msgid 'Unable to create custom project role.'
- msgstr 'Không thể tạo vai trò dự án tùy chỉnh.'
- msgid 'Your custom project role has been updated successfully.'
- msgstr 'Vai trò dự án tùy chỉnh của bạn đã được cập nhật thành công.'
- msgid 'Unable to update custom project role.'
- msgstr 'Không thể cập nhật vai trò dự án tùy chỉnh.'
- msgid 'Custom project role removed successfully.'
- msgstr 'Vai trò dự án đã được gỡ bỏ thành công.'
- msgid 'Unable to remove this project role.'
- msgstr 'Không thể xóa vai trò dự án này.'
- msgid 'The project restriction has been created successfully.'
- msgstr 'Sự hạn chế của dự án đã được tạo ra thành công.'
- msgid 'Unable to create this project restriction.'
- msgstr 'Không thể tạo ra sự hạn chế của dự án.'
- msgid 'Project restriction removed successfully.'
- msgstr 'Hạn chế dự án đã được loại bỏ thành công.'
- msgid 'You cannot create tasks in this column.'
- msgstr 'Bạn không thể tạo ra các nhiệm vụ trong cột này.'
- msgid 'Task creation is permitted for this column'
- msgstr 'Tạo tác vụ được cho phép cho cột này'
- msgid 'Closing or opening a task is permitted for this column'
- msgstr 'Cho phép Đóng hay mở một nhiệm vụ cho cột này'
- msgid 'Task creation is blocked for this column'
- msgstr 'Tạo tác vụ bị chặn cho cột này'
- msgid 'Closing or opening a task is blocked for this column'
- msgstr 'Đóng hoặc mở một tác vụ bị chặn cho cột này'
- msgid 'Task creation is not permitted'
- msgstr 'Không được phép tạo công việc'
- msgid 'Closing or opening a task is not permitted'
- msgstr 'Không được phép đóng hay mở một nhiệm vụ'
- msgid 'New drag and drop restriction for the role "%s"'
- msgstr 'Hạn chế kéo và thả mới cho vai trò "%s"'
- msgid 'People belonging to this role will be able to move tasks only between the source and the destination column.'
- msgstr 'Những người thuộc vai trò này sẽ chỉ có thể di chuyển nhiệm vụ giữa cột nguồn và cột đích.'
- msgid 'Remove a column restriction'
- msgstr 'Hủy bỏ một hạn chế về cột'
- msgid 'Do you really want to remove this column restriction: "%s" to "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ giới hạn cột này: "%s" thành "%s"?'
- msgid 'New column restriction for the role "%s"'
- msgstr 'Hạn chế cột mới cho vai trò %s'
- msgid 'Rule'
- msgstr 'Qui định'
- msgid 'Do you really want to remove this column restriction?'
- msgstr 'Bạn có thực sự muốn loại bỏ hạn chế cột này?'
- msgid 'Custom roles'
- msgstr 'Vai trò tùy chỉnh'
- msgid 'New custom project role'
- msgstr 'Vai trò dự án mới tùy chỉnh'
- msgid 'Edit custom project role'
- msgstr 'Chỉnh sửa vai trò dự án tùy chỉnh'
- msgid 'Remove a custom role'
- msgstr 'Loại bỏ một vai trò tùy chỉnh'
- msgid 'Do you really want to remove this custom role: "%s"? All people assigned to this role will become project member.'
- msgstr 'Bạn có thực sự muốn loại bỏ vai trò tùy chỉnh này: "%s"? Tất cả mọi người được giao nhiệm vụ này sẽ trở thành thành viên của dự án.'
- msgid 'There is no custom role for this project.'
- msgstr 'Không có vai trò tùy chỉnh cho dự án này.'
- msgid 'New project restriction for the role "%s"'
- msgstr 'Hạn chế dự án mới cho vai trò "%s"'
- msgid 'Restriction'
- msgstr 'Sự hạn chế'
- msgid 'Remove a project restriction'
- msgstr 'Hủy bỏ một dự án hạn chế'
- msgid 'Do you really want to remove this project restriction: "%s"?'
- msgstr 'Bạn có thực sự muốn loại bỏ hạn chế dự án này: "%s"?'
- msgid 'Duplicate to multiple projects'
- msgstr 'Nhân đôi với nhiều dự án'
- msgid 'This field is required'
- msgstr 'Trường này là bắt buộc'
- msgid 'Moving a task is not permitted'
- msgstr 'Không được phép di chuyển một nhiệm vụ'
- msgid 'This value must be in the range %d to %d'
- msgstr 'Giá trị này phải nằm trong khoảng từ %d đến %d'
- msgid 'You are not allowed to move this task.'
- msgstr 'Bạn không được phép di chuyển nhiệm vụ này.'
- msgid 'API User Access'
- msgstr 'Truy cập Người dùng API'
- msgid 'Preview'
- msgstr 'Xem trước'
- msgid 'Write'
- msgstr 'Viết'
- msgid 'Write your text in Markdown'
- msgstr 'Viết văn bản của bạn trong Markdown'
- msgid 'No personal API access token registered.'
- msgstr 'Không có đăng nhập truy cập API cá nhân.'
- msgid 'Your personal API access token is "%s"'
- msgstr 'Mã thông báo truy cập API cá nhân của bạn là "%s"'
- msgid 'Remove your token'
- msgstr 'Hủy bỏ mã thông báo của bạn'
- msgid 'Generate a new token'
- msgstr 'Tạo mã thông báo mới'
- msgid 'Showing %d-%d of %d'
- msgstr 'Hiển thị %d-%d của %d'
- msgid 'Outgoing Emails'
- msgstr 'Email gửi đi'
- msgid 'Add or change currency rate'
- msgstr 'Thêm hoặc thay đổi tỷ lệ tiền tệ'
- msgid 'Reference currency: %s'
- msgstr 'Tiền tệ tham khảo: %s'
- msgid 'Add custom filters'
- msgstr 'Thêm bộ lọc tùy chỉnh'
- msgid 'Export'
- msgstr 'Xuất khẩu'
- msgid 'Add link label'
- msgstr 'Thêm nhãn liên kết'
- msgid 'Incompatible Plugins'
- msgstr 'Plugin không tương thích'
- msgid 'Compatibility'
- msgstr 'Khả năng tương thích'
- msgid 'Permissions and ownership'
- msgstr 'Quyền và quyền sở hữu'
- msgid 'Priorities'
- msgstr 'Ưu tiên'
- msgid 'Close this window'
- msgstr 'Đóng cửa sổ này'
- msgid 'Unable to upload this file.'
- msgstr 'Không thể tải tệp này lên.'
- msgid 'Import tasks'
- msgstr 'Nhập khẩu các nhiệm vụ'
- msgid 'Choose a project'
- msgstr 'Chọn một dự án'
- msgid 'Profile'
- msgstr 'Hồ sơ'
- msgid 'Application role'
- msgstr 'Vai trò ứng dụng'
- msgid '%d invitations were sent.'
- msgstr '%d lời mời đã được gửi.'
- msgid '%d invitation was sent.'
- msgstr 'Thư mời %d đã được gửi.'
- msgid 'Unable to create this user.'
- msgstr 'Không thể tạo người dùng này.'
- msgid 'Kanboard Invitation'
- msgstr 'Lời mời của Kanboard'
- msgid 'Visible on dashboard'
- msgstr 'Hiển thị trên bảng điều khiển'
- msgid 'Created at:'
- msgstr 'Được tạo vào:'
- msgid 'Updated at:'
- msgstr 'Cập nhật tại:'
- msgid 'There is no custom filter.'
- msgstr 'Không có bộ lọc tuỳ chỉnh.'
- msgid 'New User'
- msgstr 'Người dùng mới'
- msgid 'Authentication'
- msgstr 'Xác thực'
- msgid 'If checked, this user will use a third-party system for authentication.'
- msgstr 'Nếu được chọn, người dùng này sẽ sử dụng hệ thống của bên thứ ba để xác thực.'
- msgid 'The password is necessary only for local users.'
- msgstr 'Mật khẩu là cần thiết chỉ dành cho người dùng cục bộ.'
- msgid 'You have been invited to register on Kanboard.'
- msgstr 'Bạn đã được mời đăng ký trên Kanboard.'
- msgid 'Click here to join your team'
- msgstr 'Nhấp vào đây để tham gia nhóm của bạn'
- msgid 'Invite people'
- msgstr 'Mời mọi người'
- msgid 'Emails'
- msgstr 'Email'
- msgid 'Enter one email address by line.'
- msgstr 'Nhập một địa chỉ email theo dòng.'
- msgid 'Add these people to this project'
- msgstr 'Thêm những người này vào dự án này'
- msgid 'Add this person to this project'
- msgstr 'Thêm người này vào dự án này'
- msgid 'Sign-up'
- msgstr 'Đăng ký'
- msgid 'Credentials'
- msgstr 'Thông tin xác thực'
- msgid 'New user'
- msgstr 'Người dùng mới'
- msgid 'This username is already taken'
- msgstr 'Tên người dùng này đã được dùng'
- msgid 'Your profile must have a valid email address.'
- msgstr 'Tiểu sử của bạn phải có địa chỉ email hợp lệ.'
- msgid 'TRL - Turkish Lira'
- msgstr 'TRL - Lira Thổ Nhĩ Kỳ'
- msgid 'The project email is optional and could be used by several plugins.'
- msgstr 'Email dự án là tùy chọn và có thể được sử dụng bởi một số plugin.'
- msgid 'The project email must be unique across all projects'
- msgstr 'Email của dự án phải là duy nhất trong tất cả các dự án'
- msgid 'The email configuration has been disabled by the administrator.'
- msgstr 'Quản trị viên đã vô hiệu cấu hình email.'
- msgid 'Close this project'
- msgstr 'Đóng dự án này'
- msgid 'Open this project'
- msgstr 'Mở dự án này'
- msgid 'Close a project'
- msgstr 'Đóng một dự án'
- msgid 'Do you really want to close this project: "%s"?'
- msgstr 'Bạn có thực sự muốn đóng dự án này: "%s"?'
- msgid 'Reopen a project'
- msgstr 'Mở lại một dự án'
- msgid 'Do you really want to reopen this project: "%s"?'
- msgstr 'Bạn có thực sự muốn mở lại dự án này: "%s"?'
- msgid 'This project is open'
- msgstr 'Dự án này đang mở'
- msgid 'This project is closed'
- msgstr 'Dự án này đã kết thúc'
- msgid 'Unable to upload files, check the permissions of your data folder.'
- msgstr 'Không thể tải tệp lên, hãy kiểm tra quyền của thư mục dữ liệu của bạn.'
- msgid 'Another category with the same name exists in this project'
- msgstr 'Một thể loại khác có cùng tên tồn tại trong dự án này'
- msgid 'Comment sent by email successfully.'
- msgstr 'Thảo luận gửi qua email thành công.'
- msgid 'Sent by email to "%s" (%s)'
- msgstr 'Gửi qua email tới "%s" ( %s)'
- msgid 'Unable to read uploaded file.'
- msgstr 'Không thể đọc tập tin được tải lên.'
- msgid 'Database uploaded successfully.'
- msgstr 'Cơ sở dữ liệu được tải lên thành công.'
- msgid 'Task sent by email successfully.'
- msgstr 'Nhiệm vụ gửi qua email thành công.'
- msgid 'There is no category in this project.'
- msgstr 'Không có hạng mục trong dự án này.'
- msgid 'Send by email'
- msgstr 'Gửi bằng thư điện tử'
- msgid 'Create and send a comment by email'
- msgstr 'Tạo và gửi một nhận xét qua email'
- msgid 'Subject'
- msgstr 'Môn học'
- msgid 'Upload the database'
- msgstr 'Tải lên cơ sở dữ liệu'
- msgid 'You could upload the previously downloaded Sqlite database (Gzip format).'
- msgstr 'Bạn có thể tải lên cơ sở dữ liệu Sqlite đã tải xuống trước đây (định dạng Gzip)'
- msgid 'Database file'
- msgstr 'Tập tin cơ sở dữ liệu'
- msgid 'Upload'
- msgstr 'Tải lên'
- msgid 'Your project must have at least one active swimlane.'
- msgstr 'Dự án của bạn phải có ít nhất một swimlane hoạt động.'
- msgid 'Project: %s'
- msgstr 'Dự án: %s'
- msgid 'Automatic action not found: "%s"'
- msgstr 'Không tìm thấy hành động tự động: "%s"'
- msgid '%d projects'
- msgstr '%d dự án'
- msgid '%d project'
- msgstr '%d dự án'
- msgid 'There is no project.'
- msgstr 'Không có dự án.'
- msgid 'Sort'
- msgstr 'Sắp xếp'
- msgid 'Project ID'
- msgstr 'ID dự án'
- msgid 'Project name'
- msgstr 'Tên dự án'
- msgid 'Public'
- msgstr 'Công cộng'
- msgid 'Personal'
- msgstr 'Riêng tư'
- msgid '%d tasks'
- msgstr '%d nhiệm vụ'
- msgid '%d task'
- msgstr '%d công việc'
- msgid 'Task ID'
- msgstr 'ID công việc'
- msgid 'Assign automatically a color when due date is expired'
- msgstr 'Chỉ định màu tự động khi ngày hết hạn hết hạn'
- msgid 'Total score in this column across all swimlanes'
- msgstr 'Tổng số điểm trong cột này trên tất cả các đường swimlane'
- msgid 'HRK - Kuna'
- msgstr 'HRK - Kuna'
- msgid 'ARS - Argentine Peso'
- msgstr 'ARS - Peso Argentina'
- msgid 'COP - Colombian Peso'
- msgstr 'COP - Colombia Peso'
- msgid '%d groups'
- msgstr '%d nhóm'
- msgid '%d group'
- msgstr '%d nhóm'
- msgid 'Group ID'
- msgstr 'ID nhóm'
- msgid 'External ID'
- msgstr 'ID bên ngoài'
- msgid '%d users'
- msgstr '%d người dùng'
- msgid '%d user'
- msgstr '%d người dùng'
- msgid 'Hide subtasks'
- msgstr 'Ẩn các nhiệm vụ phụ'
- msgid 'Show subtasks'
- msgstr 'Hiện các nhiệm vụ phụ'
- msgid 'Authentication Parameters'
- msgstr 'Thông số xác thực'
- msgid 'API Access'
- msgstr 'Truy cập API'
- msgid 'No users found.'
- msgstr 'Không tìm thấy người dùng.'
- msgid 'User ID'
- msgstr 'Tên người dùng'
- msgid 'Notifications are activated'
- msgstr 'Thông báo được kích hoạt'
- msgid 'Notifications are disabled'
- msgstr 'Thông báo bị vô hiệu hóa'
- msgid 'User disabled'
- msgstr 'Người dùng đã vô hiệu hóa'
- msgid '%d notifications'
- msgstr '%d thông báo'
- msgid '%d notification'
- msgstr '%d thông báo'
- msgid 'There is no external integration installed.'
- msgstr 'Không có tích hợp bên ngoài được cài đặt.'
- msgid 'You are not allowed to update tasks assigned to someone else.'
- msgstr 'Bạn không được phép cập nhật các nhiệm vụ được giao cho người khác.'
- msgid 'You are not allowed to change the assignee.'
- msgstr 'Bạn không được phép thay đổi người được chuyển nhượng.'
- msgid 'Task suppression is not permitted'
- msgstr 'Không được phép loại bỏ công việc'
- msgid 'Changing assignee is not permitted'
- msgstr 'Không được phép thay đổi người được chuyển nhượng'
- msgid 'Update only assigned tasks is permitted'
- msgstr 'Chỉ được phép cập nhật các nhiệm vụ được giao'
- msgid 'Only for tasks assigned to the current user'
- msgstr 'Chỉ cho các nhiệm vụ được gán cho người dùng hiện tại'
- msgid 'My projects'
- msgstr 'Dự án của tôi'
- msgid 'You are not a member of any project.'
- msgstr 'Bạn không phải là thành viên của bất kỳ dự án nào.'
- msgid 'My subtasks'
- msgstr 'Nhiệm vụ phụ của tôi'
- msgid '%d subtasks'
- msgstr '%d nhiệm vụ phụ'
- msgid '%d subtask'
- msgstr '%d nhiệm vụ phụ'
- msgid 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgstr 'Chỉ di chuyển nhiệm vụ giữa các cột được phép cho các nhiệm vụ được giao cho người sử dụng hiện tại'
- msgid '[DUPLICATE]'
- msgstr '[BẢN SAO]'
- msgid 'DKK - Danish Krona'
- msgstr 'DKK - Đan Mạch Đan Mạch'
- msgid 'Remove user from group'
- msgstr 'Xóa người dùng khỏi nhóm'
- msgid 'Assign the task to its creator'
- msgstr 'Chỉ định nhiệm vụ cho người sáng tạo'
- msgid 'This task was sent by email to "%s" with subject "%s".'
- msgstr 'Nhiệm vụ này được gửi qua email tới "%s" với chủ đề "%s".'
- msgid 'Predefined Email Subjects'
- msgstr 'Đối tượng Email được Xác định trước'
- msgid 'Write one subject by line.'
- msgstr 'Viết một chủ đề theo dòng.'
- msgid 'Create another link'
- msgstr 'Tạo liên kết khác'
- msgid 'BRL - Brazilian Real'
- msgstr 'BRL - Brazilian Real'
- msgid 'Add a new Kanboard task'
- msgstr ''
- msgid 'Subtask not started'
- msgstr ''
- msgid 'Subtask currently in progress'
- msgstr ''
- msgid 'Subtask completed'
- msgstr ''
- msgid 'Subtask added successfully.'
- msgstr ''
- msgid '%d subtasks added successfully.'
- msgstr ''
- msgid 'Enter one subtask by line.'
- msgstr ''
- msgid 'Predefined Contents'
- msgstr ''
- msgid 'Predefined contents'
- msgstr ''
- msgid 'Predefined Task Description'
- msgstr ''
- msgid 'Do you really want to remove this template? "%s"'
- msgstr ''
- msgid 'Add predefined task description'
- msgstr ''
- msgid 'Predefined Task Descriptions'
- msgstr ''
- msgid 'Template created successfully.'
- msgstr ''
- msgid 'Unable to create this template.'
- msgstr ''
- msgid 'Template updated successfully.'
- msgstr ''
- msgid 'Unable to update this template.'
- msgstr ''
- msgid 'Template removed successfully.'
- msgstr ''
- msgid 'Unable to remove this template.'
- msgstr ''
- msgid 'Template for the task description'
- msgstr ''
- msgid 'The start date is greater than the end date'
- msgstr ''
- msgid 'Tags must be separated by a comma'
- msgstr ''
- msgid 'Only the task title is required'
- msgstr ''
- msgid 'Creator Username'
- msgstr ''
- msgid 'Color Name'
- msgstr ''
- msgid 'Column Name'
- msgstr ''
- msgid 'Swimlane Name'
- msgstr ''
- msgid 'Time Estimated'
- msgstr ''
- msgid 'Time Spent'
- msgstr ''
- msgid 'External Link'
- msgstr ''
- msgid 'This feature enables the iCal feed, RSS feed and the public board view.'
- msgstr ''
- msgid 'Stop the timer of all subtasks when moving a task to another column'
- msgstr ''
- msgid 'Subtask Title'
- msgstr ''
- msgid 'Add a subtask and activate the timer when moving a task to another column'
- msgstr ''
- msgid 'days'
- msgstr ''
- msgid 'minutes'
- msgstr ''
- msgid 'seconds'
- msgstr ''
- msgid 'Assign automatically a color when preset start date is reached'
- msgstr ''
- msgid 'Move the task to another column once a predefined start date is reached'
- msgstr ''
- msgid 'This task is now linked to the task %s with the relation "%s"'
- msgstr ''
- msgid 'The link with the relation "%s" to the task %s has been removed'
- msgstr ''
- msgid 'Custom Filter:'
- msgstr ''
- msgid 'Unable to find this group.'
- msgstr ''
- msgid '%s moved the task #%d to the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the position %d in the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the swimlane "%s"'
- msgstr ''
- msgid '%sh spent'
- msgstr ''
- msgid '%sh estimated'
- msgstr ''
- msgid 'Select All'
- msgstr ''
- msgid 'Unselect All'
- msgstr ''
- msgid 'Apply action'
- msgstr ''
- msgid 'Move selected tasks to another column or swimlane'
- msgstr ''
- msgid 'Edit tasks in bulk'
- msgstr ''
- msgid 'Choose the properties that you would like to change for the selected tasks.'
- msgstr ''
- msgid 'Configure this project'
- msgstr ''
- msgid 'Start now'
- msgstr ''
- msgid '%s removed a file from the task #%d'
- msgstr ''
- msgid 'Attachment removed from task #%d: %s'
- msgstr ''
- msgid 'No color'
- msgstr ''
- msgid 'Attachment removed "%s"'
- msgstr ''
- msgid '%s removed a file from the task %s'
- msgstr ''
- msgid 'Move the task to another swimlane when assigned to a user'
- msgstr ''
- msgid 'Destination swimlane'
- msgstr ''
- msgid 'Assign a category when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Move the task to another swimlane when the category is changed'
- msgstr ''
- msgid 'Reorder this column by priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee (A-Z)'
- msgstr ''
- msgid 'Reorder this column by assignee (Z-A)'
- msgstr ''
- msgid 'Reorder this column by due date (ASC)'
- msgstr ''
- msgid 'Reorder this column by due date (DESC)'
- msgstr ''
- msgid '%s moved the task #%d "%s" to the project "%s"'
- msgstr ''
- msgid 'Task #%d "%s" has been moved to the project "%s"'
- msgstr ''
- msgid 'Move the task to another column when the due date is less than a certain number of days'
- msgstr ''
- msgid 'Automatically update the start date when the task is moved away from a specific column'
- msgstr ''
- msgid 'HTTP Client:'
- msgstr ''
- msgid 'Assigned'
- msgstr ''
- msgid 'Task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied across swimlanes'
- msgstr ''
- msgid 'Task limit: '
- msgstr ''
- msgid 'Change to global tag'
- msgstr ''
- msgid 'Do you really want to make the tag "%s" global?'
- msgstr ''
- msgid 'Enable global tags for this project'
- msgstr ''
- msgid 'Group membership(s):'
- msgstr ''
- msgid '%s is a member of the following group(s): %s'
- msgstr ''
- msgid '%d/%d group(s) shown'
- msgstr ''
- msgid 'Subtask creation or modification'
- msgstr ''
- msgid 'Assign the task to a specific user when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Comment'
- msgstr ''
- msgid 'Collapse vertically'
- msgstr ''
- msgid 'Expand vertically'
- msgstr ''
- msgid 'MXN - Mexican Peso'
- msgstr ''
- msgid 'Estimated vs actual time per column'
- msgstr ''
- msgid 'HUF - Hungarian Forint'
- msgstr ''
- msgid 'XBT - Bitcoin'
- msgstr ''
- msgid 'You must select a file to upload as your avatar!'
- msgstr ''
- msgid 'The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)'
- msgstr ''
- msgid 'Automatically set the due date when the task is moved away from a specific column'
- msgstr ''
- msgid 'No other projects found.'
- msgstr ''
- msgid 'Please choose a project you want to copy the tasks from.'
- msgstr ''
- msgid 'Import Tasks'
- msgstr ''
- msgid 'Copy'
- msgstr ''
- msgid 'Tasks copied successfully.'
- msgstr ''
- msgid 'Unable to copy tasks.'
- msgstr ''
+msgid "number.decimals_separator"
+msgstr ","
+msgid "number.thousands_separator"
+msgstr " "
+msgid "None"
+msgstr "Chưa có"
+msgid "Edit"
+msgstr "Chỉnh sửa"
+msgid "Remove"
+msgstr "Xóa bỏ"
+msgid "Yes"
+msgstr "Có"
+msgid "No"
+msgstr "Không"
+msgid "cancel"
+msgstr "hủy bỏ"
+msgid "or"
+msgstr "hoặc là"
+msgid "Yellow"
+msgstr "Màu vàng"
+msgid "Blue"
+msgstr "Màu xanh da trời"
+msgid "Green"
+msgstr "Màu xanh lá"
+msgid "Purple"
+msgstr "Màu tím"
+msgid "Red"
+msgstr "Đỏ"
+msgid "Orange"
+msgstr "Trái cam"
+msgid "Grey"
+msgstr "Xám"
+msgid "Brown"
+msgstr "Nâu"
+msgid "Deep Orange"
+msgstr "Deep Orange"
+msgid "Dark Grey"
+msgstr "Màu xám đen"
+msgid "Pink"
+msgstr "Hồng"
+msgid "Teal"
+msgstr "Teal"
+msgid "Cyan"
+msgstr " Cyan"
+msgid "Lime"
+msgstr "Vôi"
+msgid "Light Green"
+msgstr "Màu xanh lợt"
+msgid "Amber"
+msgstr "Amber"
+msgid "Save"
+msgstr "Lưu"
+msgid "Login"
+msgstr "Đăng nhập"
+msgid "Official website:"
+msgstr "Trang web chinh thưc:"
+msgid "Unassigned"
+msgstr "Chưa được gán"
+msgid "View this task"
+msgstr "Xem công việc này"
+msgid "Remove user"
+msgstr "Xóa người dùng"
+msgid "Do you really want to remove this user: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ người dùng này: \"%s\"?"
+msgid "All users"
+msgstr "Tất cả người dùng"
+msgid "Username"
+msgstr "Tên đăng nhập"
+msgid "Password"
+msgstr "Mật khẩu"
+msgid "Administrator"
+msgstr "Người quản lý"
+msgid "Sign in"
+msgstr "Đăng nhập"
+msgid "Users"
+msgstr "Người dùng"
+msgid "Forbidden"
+msgstr "Forbidden"
+msgid "Access Forbidden"
+msgstr "Truy cập bị cấm"
+msgid "Edit user"
+msgstr "Chỉnh sửa người dùng"
+msgid "Logout"
+msgstr "Đăng xuất"
+msgid "Bad username or password"
+msgstr "Tên đăng nhập hoặc mật khẩu xâu"
+msgid "Edit project"
+msgstr "Chỉnh sửa dự án"
+msgid "Name"
+msgstr "Tên"
+msgid "Projects"
+msgstr "Dự án"
+msgid "No project"
+msgstr "Không có dự án"
+msgid "Project"
+msgstr "Dự án"
+msgid "Status"
+msgstr "Trạng thái"
+msgid "Tasks"
+msgstr "Nhiệm vụ"
+msgid "Board"
+msgstr "Bảng"
+msgid "Actions"
+msgstr "Hành động"
+msgid "Inactive"
+msgstr "Không hoạt động"
+msgid "Active"
+msgstr "Hoạt động"
+msgid "Unable to update this board."
+msgstr "Không thể cập nhật bảng này."
+msgid "Disable"
+msgstr "Vô hiệu hóa"
+msgid "Enable"
+msgstr "Bật"
+msgid "New project"
+msgstr "Dự án mới"
+msgid "Do you really want to remove this project: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ dự án này: \"%s\"?"
+msgid "Remove project"
+msgstr "Loại bỏ dự án"
+msgid "Edit the board for \"%s\""
+msgstr "Chỉnh sửa bảng cho \"%s\""
+msgid "Add a new column"
+msgstr "Thêm cột mới"
+msgid "Title"
+msgstr "Chức vụ"
+msgid "Assigned to %s"
+msgstr "Được giao cho %s"
+msgid "Remove a column"
+msgstr "Loại bỏ một cột"
+msgid "Unable to remove this column."
+msgstr "Không thể xoá cột này."
+msgid "Do you really want to remove this column: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ cột này: \"%s\"?"
+msgid "Settings"
+msgstr "Cài đặt"
+msgid "Application settings"
+msgstr "Cài đặt ứng dụng"
+msgid "Language"
+msgstr "Ngôn ngữ"
+msgid "Webhook token:"
+msgstr "Mã thông báo Webhook:"
+msgid "API token:"
+msgstr "Mã thông báo API:"
+msgid "Database size:"
+msgstr "Kích thước cơ sở dữ liệu:"
+msgid "Download the database"
+msgstr "Tải về cơ sở dữ liệu"
+msgid "Optimize the database"
+msgstr "Tối ưu hóa cơ sở dữ liệu"
+msgid "(VACUUM command)"
+msgstr "(Lệnh VACUUM)"
+msgid "(Gzip compressed Sqlite file)"
+msgstr "(Gzip nén tập tin Sqlite)"
+msgid "Close a task"
+msgstr "Đóng một nhiệm vụ"
+msgid "Column"
+msgstr "Cột"
+msgid "Color"
+msgstr "Màu"
+msgid "Assignee"
+msgstr "Người được chuyển nhượng"
+msgid "Create another task"
+msgstr "Tạo một nhiệm vụ khác"
+msgid "New task"
+msgstr "Nhiệm vụ mới"
+msgid "Open a task"
+msgstr "Mở một nhiệm vụ"
+msgid "Do you really want to open this task: \"%s\"?"
+msgstr "Bạn có thực sự muốn mở công việc này: \"%s\"?"
+msgid "Back to the board"
+msgstr "Trở lại bảng"
+msgid "There is nobody assigned"
+msgstr "Không ai được chỉ định"
+msgid "Column on the board:"
+msgstr "Cột trên bảng:"
+msgid "Close this task"
+msgstr "Đóng nhiệm vụ này"
+msgid "Open this task"
+msgstr "Mở nhiệm vụ này"
+msgid "There is no description."
+msgstr "Không có mô tả."
+msgid "Add a new task"
+msgstr "Thêm một nhiệm vụ mới"
+msgid "The username is required"
+msgstr "Tên người dùng được yêu cầu"
+msgid "The maximum length is %d characters"
+msgstr "Chiều dài tối đa là %d ký tự"
+msgid "The minimum length is %d characters"
+msgstr "Chiều dài tối thiểu là %d ký tự"
+msgid "The password is required"
+msgstr "Mật khẩu là bắt buộc"
+msgid "This value must be an integer"
+msgstr "Giá trị này phải là một số nguyên"
+msgid "The username must be unique"
+msgstr "Tên người dùng phải là duy nhất"
+msgid "The user id is required"
+msgstr "Người sử dụng id là bắt buộc"
+msgid "Passwords don't match"
+msgstr "Mật khẩu don 't match"
+msgid "The confirmation is required"
+msgstr "Cần xác nhận"
+msgid "The project is required"
+msgstr "Dự án được yêu cầu"
+msgid "The id is required"
+msgstr "Id là bắt buộc"
+msgid "The project id is required"
+msgstr "Id dự án được yêu cầu"
+msgid "The project name is required"
+msgstr "Tên của dự án được yêu cầu"
+msgid "The title is required"
+msgstr "Tiêu đề là bắt buộc"
+msgid "Settings saved successfully."
+msgstr "Cài đặt đã lưu thành công."
+msgid "Unable to save your settings."
+msgstr "Không thể lưu cài đặt của bạn."
+msgid "Database optimization done."
+msgstr "Tối ưu hóa cơ sở dữ liệu được thực hiện."
+msgid "Your project has been created successfully."
+msgstr "Dự án của bạn đã được tạo thành công."
+msgid "Unable to create your project."
+msgstr "Không thể tạo dự án của bạn."
+msgid "Project updated successfully."
+msgstr "Dự án được cập nhật thành công."
+msgid "Unable to update this project."
+msgstr "Không thể cập nhật dự án này."
+msgid "Unable to remove this project."
+msgstr "Không thể xóa dự án này."
+msgid "Project removed successfully."
+msgstr "Dự án đã được loại bỏ thành công."
+msgid "Project activated successfully."
+msgstr "Dự án được kích hoạt thành công."
+msgid "Unable to activate this project."
+msgstr "Không thể kích hoạt dự án này."
+msgid "Project disabled successfully."
+msgstr "Dự án bị vô hiệu thành công."
+msgid "Unable to disable this project."
+msgstr "Không thể vô hiệu hoá dự án này."
+msgid "Unable to open this task."
+msgstr "Không thể mở nhiệm vụ này."
+msgid "Task opened successfully."
+msgstr "Nhiệm vụ thành công."
+msgid "Unable to close this task."
+msgstr "Không thể đóng nhiệm vụ này."
+msgid "Task closed successfully."
+msgstr "Nhiệm vụ đóng thành công."
+msgid "Unable to update your task."
+msgstr "Không thể cập nhật công việc của bạn."
+msgid "Task updated successfully."
+msgstr "Nhiệm vụ được cập nhật thành công."
+msgid "Unable to create your task."
+msgstr "Không thể tạo ra nhiệm vụ của bạn."
+msgid "Task created successfully."
+msgstr "Nhiệm vụ thành công."
+msgid "User created successfully."
+msgstr "Người dùng đã thành công."
+msgid "Unable to create your user."
+msgstr "Không thể tạo người dùng của bạn."
+msgid "User updated successfully."
+msgstr "Người dùng cập nhật thành công."
+msgid "User removed successfully."
+msgstr "Người dùng đã xoá thành công."
+msgid "Unable to remove this user."
+msgstr "Không thể xóa người dùng này."
+msgid "Board updated successfully."
+msgstr "Bảng đã được cập nhật thành công."
+msgid "Ready"
+msgstr "Sẳn sàng"
+msgid "Backlog"
+msgstr "Backlog"
+msgid "Work in progress"
+msgstr "Công việc đang tiến hành"
+msgid "Done"
+msgstr "Làm xong"
+msgid "Application version:"
+msgstr "Phiên bản ứng dụng:"
+msgid "Id"
+msgstr "ID"
+msgid "Public link"
+msgstr "Liên kết công cộng"
+msgid "Timezone"
+msgstr "Múi giờ"
+msgid "Sorry, I didn't find this information in my database!"
+msgstr "Xin lỗi, tôi không tìm thấy thông tin này trong cơ sở dữ liệu của tôi!"
+msgid "Page not found"
+msgstr "Trang không tìm thấy"
+msgid "Complexity"
+msgstr "Sự phức tạp"
+msgid "Task limit"
+msgstr "Nhiệm vụ giới hạn"
+msgid "Task count"
+msgstr "Nhiệm vụ"
+msgid "User"
+msgstr "Người dùng"
+msgid "Comments"
+msgstr "Bình luận"
+msgid "Comment is required"
+msgstr "Bình luận là bắt buộc"
+msgid "Comment added successfully."
+msgstr "Bình luận được thêm thành công."
+msgid "Unable to create your comment."
+msgstr "Không thể tạo bình luận của bạn."
+msgid "Due Date"
+msgstr "Ngày đáo hạn"
+msgid "Invalid date"
+msgstr "Ngày không hợp lệ"
+msgid "Automatic actions"
+msgstr "Hành động tự động"
+msgid "Your automatic action has been created successfully."
+msgstr "Hành động tự động của bạn đã được tạo thành công."
+msgid "Unable to create your automatic action."
+msgstr "Không thể tạo hành động tự động của bạn."
+msgid "Remove an action"
+msgstr "Loại bỏ một hành động"
+msgid "Unable to remove this action."
+msgstr "Không thể loại bỏ hành động này."
+msgid "Action removed successfully."
+msgstr "Hành động đã được xoá thành công."
+msgid "Automatic actions for the project \"%s\""
+msgstr "Hành động tự động cho dự án \"%s\""
+msgid "Add an action"
+msgstr "Thêm một hành động"
+msgid "Event name"
+msgstr "Tên sự kiện"
+msgid "Action"
+msgstr "Hoạt động"
+msgid "Event"
+msgstr "Biến cố"
+msgid "When the selected event occurs execute the corresponding action."
+msgstr "Khi sự kiện đã chọn xảy ra, hãy thực hiện hành động tương ứng."
+msgid "Next step"
+msgstr "Bước tiếp theo"
+msgid "Define action parameters"
+msgstr "Xác định các tham số hành động"
+msgid "Do you really want to remove this action: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ hành động này: \"%s\"?"
+msgid "Remove an automatic action"
+msgstr "Hủy bỏ một hành động tự động"
+msgid "Assign the task to a specific user"
+msgstr "Chỉ định nhiệm vụ cho một người dùng cụ thể"
+msgid "Assign the task to the person who does the action"
+msgstr "Chỉ định nhiệm vụ cho người thực hiện hành động"
+msgid "Duplicate the task to another project"
+msgstr "Nhân đôi công việc với một dự án khác"
+msgid "Move a task to another column"
+msgstr "Di chuyển một nhiệm vụ tới một cột khác"
+msgid "Task modification"
+msgstr "Sửa đổi tác vụ"
+msgid "Task creation"
+msgstr "Nhiệm vụ sáng tạo"
+msgid "Closing a task"
+msgstr "Đóng một nhiệm vụ"
+msgid "Assign a color to a specific user"
+msgstr "Chỉ định màu cho một người dùng cụ thể"
+msgid "Position"
+msgstr "Chức vụ"
+msgid "Duplicate to project"
+msgstr "Nhân bản với một dự án khác"
+msgid "Duplicate"
+msgstr "Bản sao"
+msgid "Link"
+msgstr "Liên kết"
+msgid "Comment updated successfully."
+msgstr "Bình luận cập nhật thành công."
+msgid "Unable to update your comment."
+msgstr "Không thể cập nhật nhận xét của bạn."
+msgid "Remove a comment"
+msgstr "Xóa một bình luận"
+msgid "Comment removed successfully."
+msgstr "Đã xóa nhận xét thành công."
+msgid "Unable to remove this comment."
+msgstr "Không thể xóa nhận xét này."
+msgid "Do you really want to remove this comment?"
+msgstr "Bạn có thật sự muốn xóa nhận xét này?"
+msgid "Current password for the user \"%s\""
+msgstr "Mật khẩu hiện tại cho người dùng \"%s\""
+msgid "The current password is required"
+msgstr "Mật khẩu hiện tại là bắt buộc"
+msgid "Wrong password"
+msgstr "Sai mật khẩu"
+msgid "Unknown"
+msgstr "Không xác định"
+msgid "Last logins"
+msgstr "Đăng nhập lần cuối"
+msgid "Login date"
+msgstr "Ngày đăng nhập"
+msgid "Authentication method"
+msgstr "Phương pháp xác thực"
+msgid "IP address"
+msgstr "Địa chỉ IP"
+msgid "User agent"
+msgstr "Đại lý người dùng"
+msgid "Persistent connections"
+msgstr "Kết nối liên tục"
+msgid "No session."
+msgstr "Không có phiên."
+msgid "Expiration date"
+msgstr "Ngày hết hạn"
+msgid "Remember Me"
+msgstr "Nhớ tôi"
+msgid "Creation date"
+msgstr "Ngày thành lập"
+msgid "Everybody"
+msgstr "Mọi người"
+msgid "Open"
+msgstr "Mở"
+msgid "Closed"
+msgstr "Đóng"
+msgid "Search"
+msgstr "Tìm kiếm"
+msgid "Nothing found."
+msgstr "Không kết quả."
+msgid "Due date"
+msgstr "Ngày đáo hạn"
+msgid "Description"
+msgstr "Mô tả"
+msgid "%d comments"
+msgstr "%d nhận xét"
+msgid "%d comment"
+msgstr "%d nhận xét"
+msgid "Email address invalid"
+msgstr "Địa chỉ email không hợp lệ"
+msgid "Your external account is not linked anymore to your profile."
+msgstr "Tài khoản bên ngoài của bạn không được liên kết với hồ sơ của bạn nữa."
+msgid "Unable to unlink your external account."
+msgstr "Không thể hủy liên kết tài khoản bên ngoài của bạn."
+msgid "External authentication failed"
+msgstr "Xác thực bên ngoài không thành công"
+msgid "Your external account is linked to your profile successfully."
+msgstr "Tài khoản bên ngoài của bạn được liên kết với hồ sơ của bạn thành công."
+msgid "Email"
+msgstr "E-mail"
+msgid "Task removed successfully."
+msgstr "Nhiệm vụ đã được gỡ bỏ thành công."
+msgid "Unable to remove this task."
+msgstr "Không thể xóa tác vụ này."
+msgid "Remove a task"
+msgstr "Loại bỏ một nhiệm vụ"
+msgid "Do you really want to remove this task: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ công việc này: \"%s\"?"
+msgid "Assign automatically a color based on a category"
+msgstr "Chỉ định tự động một màu dựa trên một loại"
+msgid "Assign automatically a category based on a color"
+msgstr "Chỉ định tự động một thể loại dựa trên màu"
+msgid "Task creation or modification"
+msgstr "Tạo tác hoặc sửa đổi nhiệm vụ"
+msgid "Category"
+msgstr "Thể loại"
+msgid "Category:"
+msgstr "Thể loại:"
+msgid "Categories"
+msgstr "Thể loại"
+msgid "Your category has been created successfully."
+msgstr "Danh mục của bạn đã được tạo thành công."
+msgid "This category has been updated successfully."
+msgstr "Danh mục này đã được cập nhật thành công."
+msgid "Unable to update this category."
+msgstr "Không thể cập nhật danh mục này."
+msgid "Remove a category"
+msgstr "Loại bỏ một danh mục"
+msgid "Category removed successfully."
+msgstr "Loại bỏ thành công."
+msgid "Unable to remove this category."
+msgstr "Không thể xóa loại này."
+msgid "Category modification for the project \"%s\""
+msgstr "Sửa đổi loại cho dự án \"%s\""
+msgid "Category Name"
+msgstr "Tên danh mục"
+msgid "Add a new category"
+msgstr "Thêm một loại mới"
+msgid "Do you really want to remove this category: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ loại này: \"%s\"?"
+msgid "All categories"
+msgstr "Tất cả danh mục"
+msgid "No category"
+msgstr "Không có loại"
+msgid "The name is required"
+msgstr "Tên là bắt buộc"
+msgid "Remove a file"
+msgstr "Hủy bỏ một tập tin"
+msgid "Unable to remove this file."
+msgstr "Không thể xóa tệp này."
+msgid "File removed successfully."
+msgstr "Đã xoá tệp thành công."
+msgid "Attach a document"
+msgstr "Đính kèm một tài liệu"
+msgid "Do you really want to remove this file: \"%s\"?"
+msgstr "Bạn có thực sự muốn xóa tệp này: \"%s\"?"
+msgid "Attachments"
+msgstr "File đính kèm"
+msgid "Edit the task"
+msgstr "Chỉnh sửa nhiệm vụ"
+msgid "Add a comment"
+msgstr "Thêm nhận xét"
+msgid "Edit a comment"
+msgstr "Chỉnh sửa một nhận xét"
+msgid "Summary"
+msgstr "Tóm lược"
+msgid "Time tracking"
+msgstr "Theo dõi thời gian"
+msgid "Estimate:"
+msgstr "Ước tính:"
+msgid "Spent:"
+msgstr "Spent:"
+msgid "Do you really want to remove this sub-task?"
+msgstr "Bạn có thật sự muốn loại bỏ nhiệm vụ phụ này?"
+msgid "Remaining:"
+msgstr "Còn lại:"
+msgid "hours"
+msgstr "giờ"
+msgid "estimated"
+msgstr "ước tính"
+msgid "Sub-Tasks"
+msgstr "Nhiệm vụ phụ"
+msgid "Add a sub-task"
+msgstr "Thêm một nhiệm vụ phụ"
+msgid "Original estimate"
+msgstr "Ước tính ban đầu"
+msgid "Create another sub-task"
+msgstr "Tạo một nhiệm vụ phụ khác"
+msgid "Time spent"
+msgstr "Thời gian đã bỏ ra"
+msgid "Edit a sub-task"
+msgstr "Chỉnh sửa một tiểu nhiệm vụ"
+msgid "Remove a sub-task"
+msgstr "Loại bỏ một nhiệm vụ phụ"
+msgid "The time must be a numeric value"
+msgstr "Thời gian phải là một giá trị số"
+msgid "Todo"
+msgstr "Làm"
+msgid "In progress"
+msgstr "Trong tiến trình"
+msgid "Sub-task removed successfully."
+msgstr "Nhiệm vụ phụ được xoá thành công."
+msgid "Unable to remove this sub-task."
+msgstr "Không thể loại bỏ nhiệm vụ phụ này."
+msgid "Sub-task updated successfully."
+msgstr "Tiểu nhiệm vụ được cập nhật thành công."
+msgid "Unable to update your sub-task."
+msgstr "Không thể cập nhật tiểu nhiệm vụ của bạn."
+msgid "Unable to create your sub-task."
+msgstr "Không thể tạo ra nhiệm vụ phụ của bạn."
+msgid "Maximum size: "
+msgstr "Kích thước tối đa: "
+msgid "Display another project"
+msgstr "Hiển thị một dự án khác"
+msgid "Created by %s"
+msgstr "Đã tạo bởi %s"
+msgid "Tasks Export"
+msgstr "Nhiệm vụ xuất khẩu"
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+msgid "Execute"
+msgstr "Thực hiện"
+msgid "Task Id"
+msgstr "Nhiệm vụ Id"
+msgid "Creator"
+msgstr "Người sáng tạo"
+msgid "Modification date"
+msgstr "Ngày sửa đổi"
+msgid "Completion date"
+msgstr "Ngày kết thúc"
+msgid "Clone"
+msgstr "Clone"
+msgid "Project cloned successfully."
+msgstr "Dự án nhân bản thành công."
+msgid "Unable to clone this project."
+msgstr "Không thể nhân bản dự án này."
+msgid "Enable email notifications"
+msgstr "Bật thông báo qua email"
+msgid "Task position:"
+msgstr "Nhiệm vụ:"
+msgid "The task #%d has been opened."
+msgstr "Nhiệm vụ #%d đã được mở ra."
+msgid "The task #%d has been closed."
+msgstr "Nhiệm vụ #%d đã được đóng lại."
+msgid "Sub-task updated"
+msgstr "Tiểu nhiệm vụ cập nhật"
+msgid "Title:"
+msgstr "Chức vụ:"
+msgid "Status:"
+msgstr "Trạng thái:"
+msgid "Assignee:"
+msgstr "Người được chuyển nhượng:"
+msgid "Time tracking:"
+msgstr "Theo dõi thời gian:"
+msgid "New sub-task"
+msgstr "Nhiệm vụ phụ mới"
+msgid "New attachment added \"%s\""
+msgstr "Tập tin đính kèm mới được thêm vào \"%s\""
+msgid "New comment posted by %s"
+msgstr "Bình luận mới được đăng bởi %s"
+msgid "New comment"
+msgstr "Bình luận mới"
+msgid "Comment updated"
+msgstr "Bình luận cập nhật"
+msgid "New subtask"
+msgstr "Bổ sung phụ"
+msgid "I only want to receive notifications for these projects:"
+msgstr "Tôi chỉ muốn nhận thông báo cho các dự án đó:"
+msgid "view the task on Kanboard"
+msgstr "xem công việc trên Kanboard"
+msgid "Public access"
+msgstr "Truy cập công cộng"
+msgid "Disable public access"
+msgstr "Vô hiệu hoá quyền truy cập công cộng"
+msgid "Enable public access"
+msgstr "Bật quyền truy cập công cộng"
+msgid "Public access disabled"
+msgstr "Truy cập công cộng bị vô hiệu hóa"
+msgid "Move the task to another project"
+msgstr "Di chuyển công việc sang dự án khác"
+msgid "Move to project"
+msgstr "Chuyển sang dự án khác"
+msgid "Do you really want to duplicate this task?"
+msgstr "Bạn có thực sự muốn lặp lại nhiệm vụ này?"
+msgid "Duplicate a task"
+msgstr "Nhân đôi một nhiệm vụ"
+msgid "External accounts"
+msgstr "Tài khoản bên ngoài"
+msgid "Account type"
+msgstr "Kiểu tài khoản"
+msgid "Local"
+msgstr "Địa phương"
+msgid "Remote"
+msgstr "Xa"
+msgid "Enabled"
+msgstr "Bật"
+msgid "Disabled"
+msgstr "Vô hiệu"
+msgid "Login:"
+msgstr "Đăng nhập:"
+msgid "Full Name:"
+msgstr "Họ và tên:"
+msgid "Email:"
+msgstr "E-mail:"
+msgid "Notifications:"
+msgstr "Thông báo:"
+msgid "Notifications"
+msgstr "Thông báo"
+msgid "Account type:"
+msgstr "Kiểu tài khoản:"
+msgid "Edit profile"
+msgstr "Chỉnh sửa hồ sơ"
+msgid "Change password"
+msgstr "Đổi mật khẩu"
+msgid "Password modification"
+msgstr "Sửa đổi mật khẩu"
+msgid "External authentications"
+msgstr "Xác thực bên ngoài"
+msgid "Never connected."
+msgstr "Không bao giờ kết nối."
+msgid "No external authentication enabled."
+msgstr "Không bật xác thực bên ngoài."
+msgid "Password modified successfully."
+msgstr "Đã sửa đổi mật khẩu thành công."
+msgid "Unable to change the password."
+msgstr "Không thể thay đổi mật khẩu."
+msgid "Change category"
+msgstr "Thay đổi loại"
+msgid "%s updated the task %s"
+msgstr " %s đã cập nhật công việc %s"
+msgid "%s opened the task %s"
+msgstr " %s mở nhiệm vụ %s"
+msgid "%s moved the task %s to the position #%d in the column \"%s\""
+msgstr " %s di chuyển nhiệm vụ %s đến vị trí #%d trong cột \"%s\""
+msgid "%s moved the task %s to the column \"%s\""
+msgstr " %s di chuyển công việc %s đến cột \"%s\""
+msgid "%s created the task %s"
+msgstr " %s đã tạo ra nhiệm vụ %s"
+msgid "%s closed the task %s"
+msgstr " %s đã đóng công việc %s"
+msgid "%s created a subtask for the task %s"
+msgstr " %s tạo ra một phụ cho nhiệm vụ %s"
+msgid "%s updated a subtask for the task %s"
+msgstr " %s cập nhật một công việc phụ cho nhiệm vụ %s"
+msgid "Assigned to %s with an estimate of %s/%sh"
+msgstr "Được giao cho %s với ước tính %s / %sh"
+msgid "Not assigned, estimate of %sh"
+msgstr "Không được chỉ định, ước tính %sh"
+msgid "%s updated a comment on the task %s"
+msgstr " %s đã cập nhật một bình luận về nhiệm vụ %s"
+msgid "%s commented the task %s"
+msgstr " %s bình luận về nhiệm vụ %s"
+msgid "%s's activity"
+msgstr "Hoạt động của %s"
+msgid "RSS feed"
+msgstr "Nguồn cấp dữ liệu RSS"
+msgid "%s updated a comment on the task #%d"
+msgstr " %s đã cập nhật một bình luận về nhiệm vụ #%d"
+msgid "%s commented on the task #%d"
+msgstr " %s bình luận về nhiệm vụ #%d"
+msgid "%s updated a subtask for the task #%d"
+msgstr " %s đã cập nhật một công việc phụ cho nhiệm vụ #%d"
+msgid "%s created a subtask for the task #%d"
+msgstr " %s tạo ra một phụ cho nhiệm vụ #%d"
+msgid "%s updated the task #%d"
+msgstr " %s cập nhật công việc #%d"
+msgid "%s created the task #%d"
+msgstr " %s đã tạo ra nhiệm vụ #%d"
+msgid "%s closed the task #%d"
+msgstr " %s đã đóng công việc #%d"
+msgid "%s opened the task #%d"
+msgstr " %s mở nhiệm vụ #%d"
+msgid "Activity"
+msgstr "Hoạt động"
+msgid "Default values are \"%s\""
+msgstr "Giá trị mặc định là \"%s\""
+msgid "Default columns for new projects (Comma-separated)"
+msgstr "Cột mặc định cho các dự án mới (tách bằng dấu phẩy)"
+msgid "Task assignee change"
+msgstr "Thay đổi nhiệm vụ chuyển nhượng"
+msgid "%s changed the assignee of the task #%d to %s"
+msgstr " %s đã thay đổi người được giao nhiệm vụ #%d thành %s"
+msgid "%s changed the assignee of the task %s to %s"
+msgstr " %s đã thay đổi người được giao nhiệm vụ %s sang %s"
+msgid "New password for the user \"%s\""
+msgstr "Mật khẩu mới cho người dùng \"%s\""
+msgid "Choose an event"
+msgstr "Chọn một sự kiện"
+msgid "Create a task from an external provider"
+msgstr "Tạo một nhiệm vụ từ một nhà cung cấp bên ngoài"
+msgid "Change the assignee based on an external username"
+msgstr "Thay đổi người được chuyển nhượng dựa trên tên người dùng bên ngoài"
+msgid "Change the category based on an external label"
+msgstr "Thay đổi thể loại dựa trên một nhãn bên ngoài"
+msgid "Reference"
+msgstr "Tài liệu tham khảo"
+msgid "Label"
+msgstr "Nhãn"
+msgid "Database"
+msgstr "Cơ sở dữ liệu"
+msgid "About"
+msgstr "Về"
+msgid "Database driver:"
+msgstr "Trình điều khiển cơ sở dữ liệu:"
+msgid "Board settings"
+msgstr "Cài đặt Bảng"
+msgid "Webhook settings"
+msgstr "Cài đặt Webhook"
+msgid "Reset token"
+msgstr "Đặt lại mã thông báo"
+msgid "API endpoint:"
+msgstr "Điểm cuối API:"
+msgid "Refresh interval for personal board"
+msgstr "Khoảng thời gian làm mới cho bảng cá nhân"
+msgid "Refresh interval for public board"
+msgstr "Khoảng thời gian làm mới cho hội đồng quản trị"
+msgid "Task highlight period"
+msgstr "Nhiệm vụ thời gian nổi bật"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Thời gian (thứ hai) để xem xét một tác vụ đã được sửa đổi gần đây (0 để vô hiệu hoá, 2 ngày theo mặc định)"
+msgid "Frequency in second (60 seconds by default)"
+msgstr "Tần số trong giây (mặc định 60 giây)"
+msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
+msgstr "Tần số trong giây (0 để tắt tính năng này, mặc định là 10 giây)"
+msgid "Application URL"
+msgstr "URL ứng dụng"
+msgid "Token regenerated."
+msgstr "Token tái tạo."
+msgid "Date format"
+msgstr "Định dạng ngày tháng"
+msgid "ISO format is always accepted, example: \"%s\" and \"%s\""
+msgstr "Định dạng ISO luôn được chấp nhận, ví dụ: \"%s\" và \"%s\""
+msgid "New personal project"
+msgstr "Dự án riêng tư mới"
+msgid "This project is personal"
+msgstr "Dự án này là riêng tư"
+msgid "Add"
+msgstr "Thêm vào"
+msgid "Start date"
+msgstr "Ngày bắt đầu"
+msgid "Time estimated"
+msgstr "Thời gian ước tính"
+msgid "There is nothing assigned to you."
+msgstr "Không có gì được giao cho bạn."
+msgid "My tasks"
+msgstr "Nhiệm vụ của tôi"
+msgid "Activity stream"
+msgstr "Luồng hoạt động"
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+msgid "Confirmation"
+msgstr "Xác nhận"
+msgid "Webhooks"
+msgstr "Webhooks"
+msgid "API"
+msgstr "API"
+msgid "Create a comment from an external provider"
+msgstr "Tạo một bình luận từ một nhà cung cấp bên ngoài"
+msgid "Project management"
+msgstr "Quản lý dự án"
+msgid "Columns"
+msgstr "Cột"
+msgid "Task"
+msgstr "Bài tập"
+msgid "Percentage"
+msgstr "Phần trăm"
+msgid "Number of tasks"
+msgstr "Số nhiệm vụ"
+msgid "Task distribution"
+msgstr "Phân phát nhiệm vụ"
+msgid "Analytics"
+msgstr "Phân tích"
+msgid "Subtask"
+msgstr "Subtask"
+msgid "User repartition"
+msgstr "Phân vùng người dùng"
+msgid "Clone this project"
+msgstr "Nhân bản dự án này"
+msgid "Column removed successfully."
+msgstr "Bỏ cột thành công."
+msgid "Not enough data to show the graph."
+msgstr "Không đủ dữ liệu để hiển thị đồ thị."
+msgid "Previous"
+msgstr "Trước"
+msgid "The id must be an integer"
+msgstr "Id phải là một số nguyên"
+msgid "The project id must be an integer"
+msgstr "Id dự án phải là một số nguyên"
+msgid "The status must be an integer"
+msgstr "Trạng thái phải là một số nguyên"
+msgid "The subtask id is required"
+msgstr "Cần phải có id phụ đề"
+msgid "The subtask id must be an integer"
+msgstr "Số thứ tự subtask phải là một số nguyên"
+msgid "The task id is required"
+msgstr "ID công việc được yêu cầu"
+msgid "The task id must be an integer"
+msgstr "ID công việc phải là một số nguyên"
+msgid "The user id must be an integer"
+msgstr "ID người dùng phải là một số nguyên"
+msgid "This value is required"
+msgstr "Giá trị này là bắt buộc"
+msgid "This value must be numeric"
+msgstr "Giá trị này phải là số"
+msgid "Unable to create this task."
+msgstr "Không thể tạo ra nhiệm vụ này."
+msgid "Cumulative flow diagram"
+msgstr "Sơ đồ luồng tích luỹ"
+msgid "Daily project summary"
+msgstr "Tóm tắt dự án hàng ngày"
+msgid "Daily project summary export"
+msgstr "Tóm tắt dự án hàng ngày xuất khẩu"
+msgid "Exports"
+msgstr "Xuất khẩu"
+msgid "This export contains the number of tasks per column grouped per day."
+msgstr "Xuất này có chứa số nhiệm vụ cho mỗi cột được nhóm trong một ngày."
+msgid "Active swimlanes"
+msgstr "Đường phố hoạt động"
+msgid "Add a new swimlane"
+msgstr "Thêm một đường swimlane mới"
+msgid "Default swimlane"
+msgstr "Mặc định swimlane"
+msgid "Do you really want to remove this swimlane: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ swimlane này: \"%s\"?"
+msgid "Inactive swimlanes"
+msgstr "Bể swimlane không hoạt động"
+msgid "Remove a swimlane"
+msgstr "Hủy bỏ swimlane lội"
+msgid "Swimlane modification for the project \"%s\""
+msgstr "Sửa đổi Swimlane cho dự án %s"
+msgid "Swimlane removed successfully."
+msgstr "Swimlane đã được gỡ bỏ thành công."
+msgid "Swimlanes"
+msgstr "Swimlanes"
+msgid "Swimlane updated successfully."
+msgstr "Swimlane được cập nhật thành công."
+msgid "Unable to remove this swimlane."
+msgstr "Không thể tháo dải swimlane ra."
+msgid "Unable to update this swimlane."
+msgstr "Không thể cập nhật swimlane lội này."
+msgid "Your swimlane has been created successfully."
+msgstr "Làn sóng của bạn đã được tạo ra thành công."
+msgid "Example: \"Bug, Feature Request, Improvement\""
+msgstr "Ví dụ: "Lỗi, yêu cầu tính năng, cải tiến""
+msgid "Default categories for new projects (Comma-separated)"
+msgstr "Danh mục mặc định cho các dự án mới (Phân cách bằng dấu phẩy)"
+msgid "Integrations"
+msgstr "Tích hợp"
+msgid "Integration with third-party services"
+msgstr "Tích hợp với các dịch vụ của bên thứ ba"
+msgid "Subtask Id"
+msgstr "Id phụ đề"
+msgid "Subtasks"
+msgstr "Công việc"
+msgid "Subtasks Export"
+msgstr "Nhiệm vụ xuất khẩu"
+msgid "Task Title"
+msgstr "Nhiệm vụ"
+msgid "Untitled"
+msgstr "Không có tiêu đề"
+msgid "Application default"
+msgstr "Mặc định ứng dụng"
+msgid "Language:"
+msgstr "Ngôn ngữ:"
+msgid "Timezone:"
+msgstr "Múi giờ:"
+msgid "All columns"
+msgstr "Tất cả các cột"
+msgid "Next"
+msgstr "Kế tiếp"
+msgid "#%d"
+msgstr "#%d"
+msgid "All swimlanes"
+msgstr "Tất cả swimlane"
+msgid "All colors"
+msgstr "Đủ màu sắc"
+msgid "Moved to column %s"
+msgstr "Đã chuyển đến cột %s"
+msgid "User dashboard"
+msgstr "Trang tổng quan của người dùng"
+msgid "Allow only one subtask in progress at the same time for a user"
+msgstr "Cho phép chỉ có một phụ đề đang được tiến hành đồng thời cho một người dùng"
+msgid "Edit column \"%s\""
+msgstr "Chỉnh sửa cột %s "
+msgid "Select the new status of the subtask: \"%s\""
+msgstr "Chọn trạng thái mới của phụ đề: \"%s\""
+msgid "Subtask timesheet"
+msgstr "Lịch biểu phụ đề"
+msgid "There is nothing to show."
+msgstr "Không có gì để hiển thị."
+msgid "Time Tracking"
+msgstr "Theo dõi Thời gian"
+msgid "You already have one subtask in progress"
+msgstr "Bạn đã có một phụ trong tiến trình"
+msgid "Which parts of the project do you want to duplicate?"
+msgstr "Bạn muốn nhân bản phần nào của dự án?"
+msgid "Disallow login form"
+msgstr "Disallow form đăng nhập"
+msgid "Start"
+msgstr "Khởi đầu"
+msgid "End"
+msgstr "Kết thúc"
+msgid "Task age in days"
+msgstr "Nhiệm vụ tuổi tác trong ngày"
+msgid "Days in this column"
+msgstr "Ngày trong cột này"
+msgid "%dd"
+msgstr "%dd"
+msgid "Add a new link"
+msgstr "Thêm một liên kết mới"
+msgid "Do you really want to remove this link: \"%s\"?"
+msgstr "Bạn có thực sự muốn xoá liên kết này: \"%s\"?"
+msgid "Do you really want to remove this link with task #%d?"
+msgstr "Bạn có thực sự muốn loại bỏ liên kết này với công việc #%d?"
+msgid "Field required"
+msgstr "Trường bắt buộc"
+msgid "Link added successfully."
+msgstr "Liên kết thành công."
+msgid "Link updated successfully."
+msgstr "Liên kết được cập nhật thành công."
+msgid "Link removed successfully."
+msgstr "Liên kết đã xoá thành công."
+msgid "Link labels"
+msgstr "Liên kết nhãn"
+msgid "Link modification"
+msgstr "Liên kết sửa đổi"
+msgid "Opposite label"
+msgstr "Ngược lại nhãn"
+msgid "Remove a link"
+msgstr "Hủy liên kết"
+msgid "The labels must be different"
+msgstr "Các nhãn phải khác nhau"
+msgid "There is no link."
+msgstr "Không có liên kết."
+msgid "This label must be unique"
+msgstr "Nhãn này phải là duy nhất"
+msgid "Unable to create your link."
+msgstr "Không thể tạo liên kết của bạn."
+msgid "Unable to update your link."
+msgstr "Không thể cập nhật liên kết của bạn."
+msgid "Unable to remove this link."
+msgstr "Không thể xóa liên kết này."
+msgid "relates to"
+msgstr "liên quan tới"
+msgid "blocks"
+msgstr "khối"
+msgid "is blocked by"
+msgstr "bị chặn bởi"
+msgid "duplicates"
+msgstr "bản sao"
+msgid "is duplicated by"
+msgstr "được nhân đôi bởi"
+msgid "is a child of"
+msgstr "là một đứa trẻ"
+msgid "is a parent of"
+msgstr "là cha mẹ của"
+msgid "targets milestone"
+msgstr "mục tiêu cột mốc"
+msgid "is a milestone of"
+msgstr "là một mốc quan trọng của"
+msgid "fixes"
+msgstr "sửa lỗi"
+msgid "is fixed by"
+msgstr "được sửa bởi"
+msgid "This task"
+msgstr "Nhiệm vụ này"
+msgid "<1h"
+msgstr "<1 giờ"
+msgid "%dh"
+msgstr "%dh"
+msgid "Expand tasks"
+msgstr "Mở rộng các nhiệm vụ"
+msgid "Collapse tasks"
+msgstr "Thu hẹp nhiệm vụ"
+msgid "Expand/collapse tasks"
+msgstr "Mở rộng / thu gọn nhiệm vụ"
+msgid "Close dialog box"
+msgstr "Đóng hộp thoại"
+msgid "Submit a form"
+msgstr "Gửi một mẫu"
+msgid "Board view"
+msgstr "Quan điểm của hội đồng quản trị"
+msgid "Keyboard shortcuts"
+msgstr "Các phím tắt bàn phím"
+msgid "Open board switcher"
+msgstr "Open board switcher"
+msgid "Application"
+msgstr "Ứng dụng"
+msgid "Compact view"
+msgstr "Chế độ xem nhỏ gọn"
+msgid "Horizontal scrolling"
+msgstr "Cuộn ngang"
+msgid "Compact/wide view"
+msgstr "Chế độ xem nhỏ gọn / rộng"
+msgid "Currency"
+msgstr "Tiền tệ"
+msgid "Personal project"
+msgstr "Dự án riêng tư"
+msgid "AUD - Australian Dollar"
+msgstr "AUD - Đô la Úc"
+msgid "CAD - Canadian Dollar"
+msgstr "CAD - Đô la Canada"
+msgid "CHF - Swiss Francs"
+msgstr "CHF - Swiss Francs"
+msgid "Custom Stylesheet"
+msgstr "Biểu định kiểu Tuỳ chỉnh"
+msgid "EUR - Euro"
+msgstr "EUR - Euro"
+msgid "GBP - British Pound"
+msgstr "GBP - Bảng Anh"
+msgid "INR - Indian Rupee"
+msgstr "INR - Rupi Ấn Độ"
+msgid "JPY - Japanese Yen"
+msgstr "JPY - Yên Nhật"
+msgid "NZD - New Zealand Dollar"
+msgstr "NZD - Đô la New Zealand"
+msgid "RSD - Serbian dinar"
+msgstr "RSD - dinar Serbia"
+msgid "CNY - Chinese Yuan"
+msgstr "CNY - Yuan Trung Quốc"
+msgid "USD - US Dollar"
+msgstr "Đô la Mỹ - Đô la Mỹ"
+msgid "VES - Venezuelan Bolívar"
+msgstr ""
+msgid "Destination column"
+msgstr "Cột đích"
+msgid "Move the task to another column when assigned to a user"
+msgstr "Chuyển nhiệm vụ sang cột khác khi được chỉ định cho người dùng"
+msgid "Move the task to another column when assignee is cleared"
+msgstr "Di chuyển nhiệm vụ sang cột khác khi người nhận chuyển giao bị xóa"
+msgid "Source column"
+msgstr "Cột nguồn"
+msgid "Transitions"
+msgstr "Chuyển tiếp"
+msgid "Executer"
+msgstr "Executer"
+msgid "Time spent in the column"
+msgstr "Thời gian trong cột"
+msgid "Task transitions"
+msgstr "Nhiệm vụ chuyển tiếp"
+msgid "Task transitions export"
+msgstr "Nhiệm vụ chuyển tiếp xuất khẩu"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Báo cáo này chứa tất cả các cột di chuyển cho mỗi nhiệm vụ với ngày, người sử dụng và thời gian dành cho mỗi quá trình chuyển đổi."
+msgid "Currency rates"
+msgstr "Tỷ giá tiền tệ"
+msgid "Rate"
+msgstr "Tỷ lệ"
+msgid "Change reference currency"
+msgstr "Thay đổi đồng tiền tham chiếu"
+msgid "Reference currency"
+msgstr "Tiền tệ tham khảo"
+msgid "The currency rate has been added successfully."
+msgstr "Tỷ giá đã được thêm thành công."
+msgid "Unable to add this currency rate."
+msgstr "Không thể thêm tỷ giá tiền tệ này."
+msgid "Webhook URL"
+msgstr "Webhook URL"
+msgid "%s removed the assignee of the task %s"
+msgstr " %s loại bỏ người nhận chuyển nhượng của nhiệm vụ %s"
+msgid "Information"
+msgstr "Thông tin"
+msgid "Check two factor authentication code"
+msgstr "Kiểm tra mã xác thực hai lớp"
+msgid "The two factor authentication code is not valid."
+msgstr "Mã xác thực hai lớp không hợp lệ."
+msgid "The two factor authentication code is valid."
+msgstr "Mã xác thực hai lớp là hợp lệ."
+msgid "Code"
+msgstr "Mã"
+msgid "Two factor authentication"
+msgstr "Xác thực hai lớp"
+msgid "This QR code contains the key URI: "
+msgstr "Mã QR này có chứa URI chính:"
+msgid "Check my code"
+msgstr "Kiểm tra mã của tôi"
+msgid "Secret key: "
+msgstr "Chìa khoá bí mật: "
+msgid "Test your device"
+msgstr "Kiểm tra thiết bị của bạn"
+msgid "Assign a color when the task is moved to a specific column"
+msgstr "Chỉ định một màu khi công việc được chuyển đến một cột cụ thể"
+msgid "%s via Kanboard"
+msgstr " %s qua Kanboard"
+msgid "Burndown chart"
+msgstr "Biểu đồ Burndown"
+msgid "This chart show the task complexity over the time (Work Remaining)."
+msgstr "Biểu đồ này cho thấy sự phức tạp của công việc qua thời gian (Work Remaining)."
+msgid "Screenshot taken %s"
+msgstr "Đã chụp ảnh chụp màn hình %s"
+msgid "Add a screenshot"
+msgstr "Thêm ảnh chụp màn hình"
+msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
+msgstr "Chụp ảnh màn hình và nhấn CTRL + V hoặc ⌘ + V để dán vào đây."
+msgid "Screenshot uploaded successfully."
+msgstr "Ảnh chụp màn hình được tải lên thành công."
+msgid "SEK - Swedish Krona"
+msgstr "SEK - Krona Thu Swedish Điển"
+msgid "Identifier"
+msgstr "Bộ nhận dạng"
+msgid "Disable two factor authentication"
+msgstr "Vô hiệu hoá hai lớp xác thực"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Bạn có thực sự muốn vô hiệu hóa xác thực hai lớp cho người dùng này: \"%s\"?"
+msgid "Edit link"
+msgstr "Chỉnh sửa liên kết"
+msgid "Start to type task title..."
+msgstr "Bắt đầu gõ tên tác vụ ..."
+msgid "A task cannot be linked to itself"
+msgstr "Một nhiệm vụ không thể được liên kết với chính nó"
+msgid "The exact same link already exists"
+msgstr "Liên kết chính xác đã tồn tại"
+msgid "Recurrent task is scheduled to be generated"
+msgstr "Nhiệm vụ lặp lại được dự kiến ​​sẽ được tạo ra"
+msgid "Score"
+msgstr "Ghi bàn"
+msgid "The identifier must be unique"
+msgstr "Mã nhận diện phải là duy nhất"
+msgid "This linked task id doesn't exists"
+msgstr "Không có id công việc liên kết nào tồn tại"
+msgid "This value must be alphanumeric"
+msgstr "Giá trị này phải là chữ số"
+msgid "Edit recurrence"
+msgstr "Chỉnh sửa sự tái phát"
+msgid "Generate recurrent task"
+msgstr "Tạo ra công việc lặp đi lặp lại"
+msgid "Trigger to generate recurrent task"
+msgstr "Trigger để tạo ra công việc lặp đi lặp lại"
+msgid "Factor to calculate new due date"
+msgstr "Yếu tố tính ngày đáo hạn mới"
+msgid "Timeframe to calculate new due date"
+msgstr "Khung thời gian để tính toán ngày đáo hạn mới"
+msgid "Base date to calculate new due date"
+msgstr "Base date để tính ngày đáo hạn mới"
+msgid "Action date"
+msgstr "Ngày hành động"
+msgid "Base date to calculate new due date: "
+msgstr "Căn cứ để tính ngày đáo hạn mới:"
+msgid "This task has created this child task: "
+msgstr "Nhiệm vụ này đã tạo ra nhiệm vụ con này:"
+msgid "Day(s)"
+msgstr "Ngày"
+msgid "Existing due date"
+msgstr "Ngày hết hạn"
+msgid "Factor to calculate new due date: "
+msgstr "Yếu tố tính ngày đáo hạn mới:"
+msgid "Month(s)"
+msgstr "Tháng)"
+msgid "This task has been created by: "
+msgstr "Nhiệm vụ này đã được tạo ra bằng cách:"
+msgid "Recurrent task has been generated:"
+msgstr "Nhiệm vụ lặp lại đã được tạo ra:"
+msgid "Timeframe to calculate new due date: "
+msgstr "Khung thời gian tính ngày đáo hạn mới:"
+msgid "Trigger to generate recurrent task: "
+msgstr "Kích hoạt để tạo ra công việc lặp đi lặp lại:"
+msgid "When task is closed"
+msgstr "Khi công việc được đóng lại"
+msgid "When task is moved from first column"
+msgstr "Khi công việc được di chuyển từ cột đầu tiên"
+msgid "When task is moved to last column"
+msgstr "Khi công việc được chuyển đến cột cuối cùng"
+msgid "Year(s)"
+msgstr "Năm (s)"
+msgid "Project settings"
+msgstr "Cài đặt dự án"
+msgid "Automatically update the start date"
+msgstr "Tự động cập nhật ngày bắt đầu"
+msgid "iCal feed"
+msgstr "nguồn cấp dữ liệu iCal"
+msgid "Preferences"
+msgstr "Sở thích"
+msgid "Security"
+msgstr "An ninh"
+msgid "Two factor authentication disabled"
+msgstr "Xác thực hai lớp bị vô hiệu"
+msgid "Two factor authentication enabled"
+msgstr "Kích hoạt chứng thực hai lớp"
+msgid "Unable to update this user."
+msgstr "Không thể cập nhật người dùng này."
+msgid "There is no user management for personal projects."
+msgstr "Không có người quản lý người dùng cho các dự án riêng tư."
+msgid "User that will receive the email"
+msgstr "Người dùng sẽ nhận được email"
+msgid "Email subject"
+msgstr "Chủ đề email"
+msgid "Date"
+msgstr "Ngày"
+msgid "Add a comment log when moving the task between columns"
+msgstr "Thêm nhật ký nhận xét khi di chuyển nhiệm vụ giữa các cột"
+msgid "Move the task to another column when the category is changed"
+msgstr "Di chuyển công việc sang cột khác khi danh mục được thay đổi"
+msgid "Send a task by email to someone"
+msgstr "Gửi một nhiệm vụ qua email cho ai đó"
+msgid "Reopen a task"
+msgstr "Mở lại một nhiệm vụ"
+msgid "Notification"
+msgstr "Thông báo"
+msgid "%s moved the task #%d to the first swimlane"
+msgstr " %s di chuyển nhiệm vụ #%d đến người đầu tiên swimlane"
+msgid "Swimlane"
+msgstr "Swimlane"
+msgid "%s moved the task %s to the first swimlane"
+msgstr " %s di chuyển nhiệm vụ %s tới swimlane đầu tiên"
+msgid "%s moved the task %s to the swimlane \"%s\""
+msgstr " %s di chuyển nhiệm vụ %s tới swimlane lội \"%s\""
+msgid "This report contains all subtasks information for the given date range."
+msgstr "Báo cáo này chứa tất cả các thông tin phụ cho một phạm vi ngày."
+msgid "This report contains all tasks information for the given date range."
+msgstr "Báo cáo này chứa tất cả các nhiệm vụ thông tin cho phạm vi ngày nhất định."
+msgid "Project activities for %s"
+msgstr "Các hoạt động dự án cho %s"
+msgid "view the board on Kanboard"
+msgstr "xem bảng trên Kanboard"
+msgid "The task has been moved to the first swimlane"
+msgstr "Nhiệm vụ đã được dời đến sân vận động đầu tiên"
+msgid "The task has been moved to another swimlane:"
+msgstr "Nhiệm vụ đã được chuyển sang một đội swimlane khác: "
+msgid "New title: %s"
+msgstr "Tiêu đề mới: %s"
+msgid "The task is not assigned anymore"
+msgstr "Nhiệm vụ không được giao nữa"
+msgid "New assignee: %s"
+msgstr "Người được chuyển nhượng mới: %s"
+msgid "There is no category now"
+msgstr "Không có danh mục bây giờ"
+msgid "New category: %s"
+msgstr "Thể loại mới: %s"
+msgid "New color: %s"
+msgstr "Màu mới: %s"
+msgid "New complexity: %d"
+msgstr "Sự phức tạp mới: %d"
+msgid "The due date has been removed"
+msgstr "Ngày đáo hạn đã bị xoá"
+msgid "There is no description anymore"
+msgstr "Không còn mô tả nữa"
+msgid "Recurrence settings has been modified"
+msgstr "Cài đặt tái lập đã được sửa đổi"
+msgid "Time spent changed: %sh"
+msgstr "Thời gian thay đổi: %sh"
+msgid "Time estimated changed: %sh"
+msgstr "Thời gian ước tính thay đổi: %sh"
+msgid "The field \"%s\" has been updated"
+msgstr "Trường \"%s\" đã được cập nhật"
+msgid "The description has been modified:"
+msgstr "Mô tả đã được sửa đổi:"
+msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
+msgstr "Bạn có thực sự muốn đóng nhiệm vụ \"%s\" cũng như tất cả các nhiệm vụ phụ?"
+msgid "I want to receive notifications for:"
+msgstr "Tôi muốn nhận thông báo cho:"
+msgid "All tasks"
+msgstr "Tất cả các nhiệm vụ"
+msgid "Only for tasks assigned to me"
+msgstr "Chỉ đối với những nhiệm vụ được giao cho tôi"
+msgid "Only for tasks created by me"
+msgstr "Chỉ cho những công việc do tôi tạo ra"
+msgid "Only for tasks created by me and tasks assigned to me"
+msgstr "Chỉ cho những công việc mà tôi tạo ra và được giao cho tôi"
+msgid "%%Y-%%m-%%d"
+msgstr "%%Y - %%m - %%d"
+msgid "Total for all columns"
+msgstr "Tổng cho tất cả các cột"
+msgid "You need at least 2 days of data to show the chart."
+msgstr "Bạn cần ít nhất 2 ngày dữ liệu để hiển thị biểu đồ."
+msgid "<15m"
+msgstr "<15m"
+msgid "<30m"
+msgstr "<30m"
+msgid "Stop timer"
+msgstr "Ngừng hẹn giờ"
+msgid "Start timer"
+msgstr "Bắt đầu hẹn giờ"
+msgid "My activity stream"
+msgstr "Dòng hoạt động của tôi"
+msgid "Search tasks"
+msgstr "Các nhiệm vụ tìm kiếm"
+msgid "Reset filters"
+msgstr "Đặt lại bộ lọc"
+msgid "My tasks due tomorrow"
+msgstr "Nhiệm vụ của tôi vào ngày mai"
+msgid "Tasks due today"
+msgstr "Nhiệm vụ hôm nay"
+msgid "Tasks due tomorrow"
+msgstr "Nhiệm vụ vào ngày mai"
+msgid "Tasks due yesterday"
+msgstr "Nhiệm vụ do ngày hôm qua"
+msgid "Closed tasks"
+msgstr "Các nhiệm vụ đã đóng"
+msgid "Open tasks"
+msgstr "Mở nhiệm vụ"
+msgid "Not assigned"
+msgstr "Không được chỉ định"
+msgid "View advanced search syntax"
+msgstr "Xem cú pháp tìm kiếm nâng cao"
+msgid "Overview"
+msgstr "Tổng quan"
+msgid "Board/Calendar/List view"
+msgstr "Chế độ xem hội đồng quản trị / lịch / danh sách"
+msgid "Switch to the board view"
+msgstr "Chuyển sang chế độ xem bảng"
+msgid "Switch to the list view"
+msgstr "Chuyển sang chế độ xem danh sách"
+msgid "Go to the search/filter box"
+msgstr "Đi tới hộp tìm kiếm / bộ lọc"
+msgid "There is no activity yet."
+msgstr "Không có hoạt động nào."
+msgid "No tasks found."
+msgstr "Không tìm thấy công việc nào."
+msgid "Keyboard shortcut: \"%s\""
+msgstr "Các phím tắt bàn phím \"%s\""
+msgid "List"
+msgstr "Danh sách"
+msgid "Filter"
+msgstr "Lọc"
+msgid "Advanced search"
+msgstr "Tìm kiếm nâng cao"
+msgid "Example of query: "
+msgstr "Ví dụ về truy vấn:"
+msgid "Search by project: "
+msgstr "Tìm kiếm theo dự án:"
+msgid "Search by column: "
+msgstr "Tìm kiếm theo cột:"
+msgid "Search by assignee: "
+msgstr "Tìm kiếm bởi người được chuyển nhượng:"
+msgid "Search by color: "
+msgstr "Tìm kiếm theo màu sắc:"
+msgid "Search by category: "
+msgstr "Tìm kiếm theo thể loại:"
+msgid "Search by description: "
+msgstr "Tìm theo mô tả:"
+msgid "Search by due date: "
+msgstr "Tìm kiếm theo ngày đáo hạn:"
+msgid "Average time spent in each column"
+msgstr "Thời gian trung bình dành cho từng cột"
+msgid "Average time spent"
+msgstr "Thời gian trung bình dành"
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Biểu đồ này cho thấy thời gian trung bình dành cho mỗi cột cho các tác vụ %d cuối cùng."
+msgid "Average Lead and Cycle time"
+msgstr "Thời gian trung bình và thời gian chu kỳ"
+msgid "Average lead time: "
+msgstr "Thời gian dẫn trung bình:"
+msgid "Average cycle time: "
+msgstr "Thời gian chu kỳ trung bình:"
+msgid "Cycle Time"
+msgstr "Thời gian chu kỳ"
+msgid "Lead Time"
+msgstr "Chì Thời gian"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Biểu đồ này cho thấy thời gian dẫn và thời gian trung bình cho các tác vụ %d cuối cùng qua thời gian."
+msgid "Average time into each column"
+msgstr "Thời gian trung bình vào mỗi cột"
+msgid "Lead and cycle time"
+msgstr "Chì và thời gian chu kỳ"
+msgid "Lead time: "
+msgstr "Chì thời gian:"
+msgid "Cycle time: "
+msgstr "Thời gian chu kỳ: "
+msgid "Time spent in each column"
+msgstr "Thời gian dành cho từng cột"
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "Thời gian dẫn là khoảng thời gian giữa nhiệm vụ sáng tạo và hoàn thành."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "Thời gian chu kỳ là khoảng thời gian giữa ngày bắt đầu và ngày hoàn thành."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Nếu nhiệm vụ không đóng thì thời gian hiện tại được sử dụng thay vì ngày hoàn thành."
+msgid "Set the start date automatically"
+msgstr "Đặt tự động ngày bắt đầu"
+msgid "Edit Authentication"
+msgstr "Chỉnh sửa Xác thực"
+msgid "Remote user"
+msgstr "Người dùng từ xa"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Người dùng từ xa không lưu mật khẩu của họ trong cơ sở dữ liệu Kanboard, ví dụ: LDAP, Google và Github."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Nếu bạn đánh dấu ô \"Disallow form đăng nhập\", các thông tin đăng nhập vào mẫu đăng nhập sẽ bị bỏ qua."
+msgid "Default task color"
+msgstr "Màu nhiệm vụ mặc định"
+msgid "This feature does not work with all browsers."
+msgstr "Tính năng này không hoạt động với tất cả các trình duyệt."
+msgid "There is no destination project available."
+msgstr "Không có dự án điểm đến có sẵn."
+msgid "Trigger automatically subtask time tracking"
+msgstr "Trigger tự động theo dõi thời gian theo dõi"
+msgid "Include closed tasks in the cumulative flow diagram"
+msgstr "Bao gồm các nhiệm vụ đã đóng trong sơ đồ luồng tích lũy"
+msgid "Current swimlane: %s"
+msgstr "Dòng swimlane hiện tại: %s"
+msgid "Current column: %s"
+msgstr "Cột hiện tại: %s"
+msgid "Current category: %s"
+msgstr "Thể loại hiện tại: %s"
+msgid "no category"
+msgstr "không có loại"
+msgid "Current assignee: %s"
+msgstr "Đang chuyển nhượng hiện tại: %s"
+msgid "not assigned"
+msgstr "không được chỉ định"
+msgid "Author:"
+msgstr "Tác giả:"
+msgid "contributors"
+msgstr "người đóng góp"
+msgid "License:"
+msgstr "Giấy phép:"
+msgid "License"
+msgstr "Giấy phép"
+msgid "Enter the text below"
+msgstr "Nhập văn bản dưới đây"
+msgid "Start date:"
+msgstr "Ngày bắt đầu:"
+msgid "Due date:"
+msgstr "Ngày đáo hạn:"
+msgid "People who are project managers"
+msgstr "Những người quản lý dự án"
+msgid "People who are project members"
+msgstr "Những người là thành viên của dự án"
+msgid "NOK - Norwegian Krone"
+msgstr "NOK - Krone Na Uy"
+msgid "Show this column"
+msgstr "Hiển thị cột này"
+msgid "Hide this column"
+msgstr "Ẩn cột này"
+msgid "End date"
+msgstr "Ngày cuối"
+msgid "Users overview"
+msgstr "Tổng quan người dùng"
+msgid "Members"
+msgstr "Các thành viên"
+msgid "Shared project"
+msgstr "Dự án được chia sẻ"
+msgid "Project managers"
+msgstr "Quản lý dự án"
+msgid "Projects list"
+msgstr "Danh sách các dự án"
+msgid "End date:"
+msgstr "Ngày cuối:"
+msgid "Change task color when using a specific task link"
+msgstr "Thay đổi màu nhiệm vụ khi sử dụng liên kết nhiệm vụ cụ thể"
+msgid "Task link creation or modification"
+msgstr "Tạo hoặc sửa đổi liên kết nhiệm vụ"
+msgid "Milestone"
+msgstr "Milestone"
+msgid "Reset the search/filter box"
+msgstr "Đặt lại hộp tìm kiếm / bộ lọc"
+msgid "Documentation"
+msgstr "Tài liệu hướng dẫn"
+msgid "Author"
+msgstr "Tác giả"
+msgid "Version"
+msgstr "Phiên bản"
+msgid "Plugins"
+msgstr "Plugins"
+msgid "There is no plugin loaded."
+msgstr "Không có plugin nạp."
+msgid "My notifications"
+msgstr "Thông báo của tôi"
+msgid "Custom filters"
+msgstr "Bộ lọc tùy chỉnh"
+msgid "Your custom filter has been created successfully."
+msgstr "Bộ lọc tuỳ chỉnh của bạn đã được tạo thành công."
+msgid "Unable to create your custom filter."
+msgstr "Không thể tạo bộ lọc tuỳ chỉnh của bạn."
+msgid "Custom filter removed successfully."
+msgstr "Đã xoá bộ lọc tùy chỉnh."
+msgid "Unable to remove this custom filter."
+msgstr "Không thể xóa bộ lọc tùy chỉnh này."
+msgid "Edit custom filter"
+msgstr "Chỉnh sửa bộ lọc tùy chỉnh"
+msgid "Your custom filter has been updated successfully."
+msgstr "Bộ lọc tuỳ chỉnh của bạn đã được cập nhật thành công."
+msgid "Unable to update custom filter."
+msgstr "Không thể cập nhật bộ lọc tuỳ chỉnh."
+msgid "Web"
+msgstr "Web"
+msgid "New attachment on task #%d: %s"
+msgstr "Tập tin đính kèm mới trên task #%d: %s"
+msgid "New comment on task #%d"
+msgstr "Ý kiến ​​mới về nhiệm vụ #%d"
+msgid "Comment updated on task #%d"
+msgstr "Bình luận cập nhật về nhiệm vụ #%d"
+msgid "New subtask on task #%d"
+msgstr "Bổ sung phụ về nhiệm vụ #%d"
+msgid "Subtask updated on task #%d"
+msgstr "Không cập nhật được nhiệm vụ #%d"
+msgid "New task #%d: %s"
+msgstr "Nhiệm vụ mới %d: %s"
+msgid "Task updated #%d"
+msgstr "Đã cập nhật nhiệm vụ #%d"
+msgid "Task #%d closed"
+msgstr "Nhiệm vụ #%d đóng"
+msgid "Task #%d opened"
+msgstr "Nhiệm vụ #%d mở"
+msgid "Column changed for task #%d"
+msgstr "Đã thay đổi cột cho tác vụ #%d"
+msgid "New position for task #%d"
+msgstr "Vị trí mới cho nhiệm vụ #%d"
+msgid "Swimlane changed for task #%d"
+msgstr "Swimlane đã thay đổi cho nhiệm vụ #%d"
+msgid "Assignee changed on task #%d"
+msgstr "Người được chỉ định thay đổi về nhiệm vụ #%d"
+msgid "%d overdue tasks"
+msgstr "%d quá hạn tác vụ"
+msgid "Task #%d is overdue"
+msgstr "Công việc #%d là quá hạn"
+msgid "No notification."
+msgstr "Không có thông báo."
+msgid "Mark all as read"
+msgstr "Đánh dấu tất cả như đã đọc"
+msgid "Mark as read"
+msgstr "Đánh dấu là đã đọc"
+msgid "Total number of tasks in this column across all swimlanes"
+msgstr "Tổng số công việc trong cột này trên tất cả các đường swimlane"
+msgid "Collapse swimlane"
+msgstr "Thu gọn swimlane"
+msgid "Expand swimlane"
+msgstr "Mở rộng swimlane lội"
+msgid "Add a new filter"
+msgstr "Thêm một bộ lọc mới"
+msgid "Share with all project members"
+msgstr "Chia sẻ với tất cả các thành viên dự án"
+msgid "Shared"
+msgstr "Chia sẻ"
+msgid "Owner"
+msgstr "Chủ nhân"
+msgid "Unread notifications"
+msgstr "Thông báo chưa đọc"
+msgid "Notification methods:"
+msgstr "Phương pháp thông báo:"
+msgid "Unable to read your file"
+msgstr "Không thể đọc tập tin của bạn"
+msgid "%d task(s) have been imported successfully."
+msgstr "%d nhiệm vụ đã được nhập thành công."
+msgid "Nothing has been imported!"
+msgstr "Không có gì đã được nhập khẩu!"
+msgid "Import users from CSV file"
+msgstr "Nhập khẩu người dùng từ tệp CSV"
+msgid "%d user(s) have been imported successfully."
+msgstr "%d người dùng đã được nhập thành công."
+msgid "Comma"
+msgstr "Comma"
+msgid "Semi-colon"
+msgstr "Bán kết"
+msgid "Tab"
+msgstr "Chuyển hướng"
+msgid "Vertical bar"
+msgstr "Thanh dọc"
+msgid "Double Quote"
+msgstr "Double Quote"
+msgid "Single Quote"
+msgstr "Trích dẫn đơn"
+msgid "%s attached a file to the task #%d"
+msgstr " %s gắn một tập tin vào tác vụ #%d"
+msgid "There is no column or swimlane activated in your project!"
+msgstr "Không có cột hoặc swimlane kích hoạt trong dự án của bạn!"
+msgid "Append filter (instead of replacement)"
+msgstr "Thêm bộ lọc (thay vì thay thế)"
+msgid "Append/Replace"
+msgstr "Thêm / Thay thế"
+msgid "Append"
+msgstr "Thêm"
+msgid "Replace"
+msgstr "Thay thế"
+msgid "Import"
+msgstr "Nhập khẩu"
+msgid "Change sorting"
+msgstr "Thay đổi phân loại"
+msgid "Tasks Importation"
+msgstr "Nhiệm vụ Nhập khẩu"
+msgid "Delimiter"
+msgstr "Delimiter"
+msgid "Enclosure"
+msgstr "Bao vây"
+msgid "CSV File"
+msgstr "CSV File"
+msgid "Instructions"
+msgstr "Hướng dẫn"
+msgid "Your file must use the predefined CSV format"
+msgstr "Tệp của bạn phải sử dụng định dạng CSV được xác định trước"
+msgid "Your file must be encoded in UTF-8"
+msgstr "Tập tin của bạn phải được mã hoá bằng UTF-8"
+msgid "The first row must be the header"
+msgstr "Hàng đầu tiên phải là tiêu đề"
+msgid "Duplicates are not verified for you"
+msgstr "Bản sao không được xác minh cho bạn"
+msgid "The due date must use the ISO format: YYYY-MM-DD"
+msgstr "Ngày đáo hạn phải sử dụng định dạng ISO: YYYY-MM-DD"
+msgid "Download CSV template"
+msgstr "Tải xuống mẫu CSV"
+msgid "No external integration registered."
+msgstr "Không có tích hợp bên ngoài đăng ký."
+msgid "Duplicates are not imported"
+msgstr "Bản sao không được nhập"
+msgid "Usernames must be lowercase and unique"
+msgstr "Tên người dùng phải là chữ thường và"
+msgid "Passwords will be encrypted if present"
+msgstr "Mật khẩu sẽ được mã hóa nếu có"
+msgid "%s attached a new file to the task %s"
+msgstr " %s gắn một tập tin mới vào công việc %s"
+msgid "Link type"
+msgstr "Loại liên kết"
+msgid "Assign automatically a category based on a link"
+msgstr "Chỉ định tự động một thể loại dựa trên liên kết"
+msgid "BAM - Konvertible Mark"
+msgstr "BAM - Konvertible Mark"
+msgid "Assignee Username"
+msgstr "Assignee Username"
+msgid "Assignee Name"
+msgstr "Người được chuyển nhượng"
+msgid "Groups"
+msgstr "Các nhóm"
+msgid "Members of %s"
+msgstr "Thành viên của %s"
+msgid "New group"
+msgstr "Nhóm mới"
+msgid "Group created successfully."
+msgstr "Nhóm được tạo thành công."
+msgid "Unable to create your group."
+msgstr "Không thể tạo nhóm của bạn."
+msgid "Edit group"
+msgstr "Chỉnh sửa nhóm"
+msgid "Group updated successfully."
+msgstr "Nhóm được cập nhật thành công."
+msgid "Unable to update your group."
+msgstr "Không thể cập nhật nhóm của bạn."
+msgid "Add group member to \"%s\""
+msgstr "Thêm thành viên nhóm vào \"%s\""
+msgid "Group member added successfully."
+msgstr "Thành viên nhóm đã thành công."
+msgid "Unable to add group member."
+msgstr "Không thể thêm thành viên nhóm"
+msgid "Remove user from group \"%s\""
+msgstr "Xóa người dùng khỏi nhóm %s"
+msgid "User removed successfully from this group."
+msgstr "Người dùng đã xóa thành công khỏi nhóm này."
+msgid "Unable to remove this user from the group."
+msgstr "Không thể xóa người dùng này khỏi nhóm."
+msgid "Remove group"
+msgstr "Loại bỏ nhóm"
+msgid "Group removed successfully."
+msgstr "Nhóm đã xoá thành công."
+msgid "Unable to remove this group."
+msgstr "Không thể xóa nhóm này."
+msgid "Project Permissions"
+msgstr "Quyền dự án"
+msgid "Manager"
+msgstr "Giám đốc"
+msgid "Project Manager"
+msgstr "Quản lý dự án"
+msgid "Project Member"
+msgstr "Thành viên Dự án"
+msgid "Project Viewer"
+msgstr "Trình xem dự án"
+msgid "Your account is locked for %d minutes"
+msgstr "Tài khoản của bạn bị khóa trong %d phút"
+msgid "Invalid captcha"
+msgstr "Captcha không hợp lệ"
+msgid "The name must be unique"
+msgstr "Cái tên phải là duy nhất"
+msgid "View all groups"
+msgstr "Xem tất cả các nhóm"
+msgid "There is no user available."
+msgstr "Không có người dùng nào có sẵn."
+msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
+msgstr "Bạn có thực sự muốn xóa người dùng \"%s\" khỏi nhóm \"%s\"?"
+msgid "There is no group."
+msgstr "Không có nhóm."
+msgid "Add group member"
+msgstr "Thêm thành viên nhóm"
+msgid "Do you really want to remove this group: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ nhóm này: \"%s\"?"
+msgid "There is no user in this group."
+msgstr "Không có người dùng trong nhóm này."
+msgid "Permissions"
+msgstr "Quyền"
+msgid "Allowed Users"
+msgstr "Người dùng được phép"
+msgid "No specific user has been allowed."
+msgstr "Không người dùng nào được cho phép cụ thể."
+msgid "Role"
+msgstr "Vai trò"
+msgid "Enter user name..."
+msgstr "Điền tên đăng nhập..."
+msgid "Allowed Groups"
+msgstr "Nhóm được phép"
+msgid "No group has been allowed."
+msgstr "Không có nhóm nào được cho phép cụ thể."
+msgid "Group"
+msgstr "Nhóm"
+msgid "Group Name"
+msgstr "Tên nhóm"
+msgid "Enter group name..."
+msgstr "Nhập tên nhóm ..."
+msgid "Role:"
+msgstr "Vai trò:"
+msgid "Project members"
+msgstr "Thành viên dự án"
+msgid "%s mentioned you in the task #%d"
+msgstr " %s đề cập đến bạn trong công việc #%d"
+msgid "%s mentioned you in a comment on the task #%d"
+msgstr " %s đã đề cập đến bạn trong một nhận xét về nhiệm vụ #%d"
+msgid "You were mentioned in the task #%d"
+msgstr "Bạn đã được đề cập trong nhiệm vụ #%d"
+msgid "You were mentioned in a comment on the task #%d"
+msgstr "Bạn đã được đề cập trong một nhận xét về nhiệm vụ #%d"
+msgid "Estimated hours: "
+msgstr "Giờ ước tính:"
+msgid "Actual hours: "
+msgstr "Giờ thực tế:"
+msgid "Hours Spent"
+msgstr "Thời gian Nghỉ ngơi"
+msgid "Hours Estimated"
+msgstr "Số giờ Ước tính"
+msgid "Estimated Time"
+msgstr "Thơi gian dự định"
+msgid "Actual Time"
+msgstr "Thời gian Thực"
+msgid "Estimated vs actual time"
+msgstr "Ước tính thời gian thực"
+msgid "RUB - Russian Ruble"
+msgstr "RUB - Nga Ruble"
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "Chỉ định nhiệm vụ cho người thực hiện hành động khi cột được thay đổi"
+msgid "Close a task in a specific column"
+msgstr "Đóng một nhiệm vụ trong một cột cụ thể"
+msgid "Time-based One-time Password Algorithm"
+msgstr "Thuật toán mật khẩu một lần dựa trên thời gian"
+msgid "Two-Factor Provider: "
+msgstr "Nhà cung cấp hai nhân tố:"
+msgid "Disable two-factor authentication"
+msgstr "Tắt xác thực hai lớp"
+msgid "Enable two-factor authentication"
+msgstr "Kích hoạt xác thực hai lớp"
+msgid "There is no integration registered at the moment."
+msgstr "Hiện tại không có hội nhập nào được đăng ký."
+msgid "Password Reset for Kanboard"
+msgstr "Đặt lại mật khẩu cho Kanboard"
+msgid "Forgot password?"
+msgstr "Quên mật khẩu?"
+msgid "Enable \"Forget Password\""
+msgstr "Bật Quên mật khẩu "
+msgid "Password Reset"
+msgstr "Đặt lại mật khẩu"
+msgid "New password"
+msgstr "Mật khẩu mới"
+msgid "Change Password"
+msgstr "Đổi mật khẩu"
+msgid "To reset your password click on this link:"
+msgstr "Để đặt lại mật khẩu của bạn bấm vào liên kết này:"
+msgid "Last Password Reset"
+msgstr "Thiết lập lại mật khẩu lần cuối"
+msgid "The password has never been reinitialized."
+msgstr "Mật khẩu chưa bao giờ được khởi tạo lại."
+msgid "Creation"
+msgstr "Sự sáng tạo"
+msgid "Expiration"
+msgstr "Hết hạn"
+msgid "Password reset history"
+msgstr "Lịch sử đặt lại mật khẩu"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "Tất cả nhiệm vụ của cột \"%s\" và swimlane \"%s\" đã được đóng thành công."
+msgid "Do you really want to close all tasks of this column?"
+msgstr "Bạn có thực sự muốn đóng tất cả các nhiệm vụ của cột này?"
+msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+msgstr "%d nhiệm vụ trong cột \"%s\" và swimlane \"%s\" sẽ được đóng lại."
+msgid "Close all tasks in this column and this swimlane"
+msgstr "Đóng tất cả các tác vụ của cột này"
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Không có plugin đã đăng ký một phương pháp thông báo dự án. Bạn vẫn có thể định cấu hình các thông báo riêng trong hồ sơ người dùng của bạn. "
+msgid "My dashboard"
+msgstr "Bảng điều khiển của tôi"
+msgid "My profile"
+msgstr "Thông tin của tôi"
+msgid "Project owner: "
+msgstr "Chủ dự án: "
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Định danh dự án là tùy chọn và phải là chữ số, ví dụ: MYPROJECT."
+msgid "Project owner"
+msgstr "Chủ dự án"
+msgid "Personal projects do not have users and groups management."
+msgstr "Các dự án riêng tư không có người dùng và quản lý nhóm."
+msgid "There is no project member."
+msgstr "Không có thành viên dự án."
+msgid "Priority"
+msgstr "Sự ưu tiên"
+msgid "Task priority"
+msgstr "Nhiệm vụ ưu tiên"
+msgid "General"
+msgstr "Chung"
+msgid "Dates"
+msgstr "Ngày"
+msgid "Default priority"
+msgstr "Mức độ ưu tiên mặc định"
+msgid "Lowest priority"
+msgstr "Mức ưu tiên thấp nhất"
+msgid "Highest priority"
+msgstr "Mức ưu tiên cao nhất"
+msgid "Close a task when there is no activity"
+msgstr "Đóng một nhiệm vụ khi không có hoạt động"
+msgid "Duration in days"
+msgstr "Thời lượng theo ngày"
+msgid "Send email when there is no activity on a task"
+msgstr "Gửi email khi không có hoạt động nào trên một tác vụ"
+msgid "Unable to fetch link information."
+msgstr "Không thể tìm nạp thông tin liên kết."
+msgid "Daily background job for tasks"
+msgstr "Công việc hàng ngày cho các nhiệm vụ"
+msgid "Auto"
+msgstr "Tự động"
+msgid "Related"
+msgstr "Liên quan"
+msgid "Attachment"
+msgstr "Tập tin đính kèm"
+msgid "Title not found"
+msgstr "Tiêu đề không tìm thấy"
+msgid "Web Link"
+msgstr "Liên kết Web"
+msgid "External links"
+msgstr "Liện kết ngoại"
+msgid "Add external link"
+msgstr "Thêm liên kết bên ngoài"
+msgid "Type"
+msgstr "Kiểu"
+msgid "Dependency"
+msgstr "Sự phụ thuộc"
+msgid "Add internal link"
+msgstr "Thêm liên kết nội bộ"
+msgid "Add a new external link"
+msgstr "Thêm một liên kết bên ngoài mới"
+msgid "Edit external link"
+msgstr "Chỉnh sửa liên kết bên ngoài"
+msgid "External link"
+msgstr "Liên kết bên ngoài"
+msgid "Copy and paste your link here..."
+msgstr "Sao chép và dán liên kết của bạn ở đây ..."
+msgid "URL"
+msgstr "URL"
+msgid "Internal links"
+msgstr "Liên kết nội bộ"
+msgid "Assign to me"
+msgstr "Chỉ định cho tôi"
+msgid "Me"
+msgstr "Tôi"
+msgid "Do not duplicate anything"
+msgstr "Đừng trùng lặp bất cứ điều gì"
+msgid "Projects management"
+msgstr "Quản lý dự án"
+msgid "Users management"
+msgstr "Quản lý người dùng"
+msgid "Groups management"
+msgstr "Quản lý nhóm"
+msgid "Create from another project"
+msgstr "Tạo ra từ một dự án khác"
+msgid "open"
+msgstr "mở"
+msgid "closed"
+msgstr "đóng cửa"
+msgid "Priority:"
+msgstr "Sự ưu tiên:"
+msgid "Reference:"
+msgstr "Tài liệu tham khảo:"
+msgid "Complexity:"
+msgstr "Sự phức tạp:"
+msgid "Swimlane:"
+msgstr "Swimlane:"
+msgid "Column:"
+msgstr "Cột:"
+msgid "Position:"
+msgstr "Chức vụ:"
+msgid "Creator:"
+msgstr "Người sáng tạo:"
+msgid "Time estimated:"
+msgstr "Thời gian ước tính:"
+msgid "%s hours"
+msgstr " %s hours"
+msgid "Time spent:"
+msgstr "Thời gian dành:"
+msgid "Created:"
+msgstr "Tạo:"
+msgid "Modified:"
+msgstr "Sửa đổi:"
+msgid "Completed:"
+msgstr "Đã hoàn thành:"
+msgid "Started:"
+msgstr "Đã bắt đầu:"
+msgid "Moved:"
+msgstr "Moved:"
+msgid "Task #%d"
+msgstr "Nhiệm vụ #%d"
+msgid "Time format"
+msgstr "Định dạng thời gian"
+msgid "Start date: "
+msgstr "Ngày bắt đầu:"
+msgid "End date: "
+msgstr "Ngày cuối: "
+msgid "New due date: "
+msgstr "Ngày đáo hạn mới:"
+msgid "Start date changed: "
+msgstr "Ngày bắt đầu thay đổi:"
+msgid "Disable personal projects"
+msgstr "Vô hiệu hoá các dự án riêng tư"
+msgid "Do you really want to remove this custom filter: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ bộ lọc tuỳ chỉnh này: \"%s\"?"
+msgid "Remove a custom filter"
+msgstr "Xóa một bộ lọc tuỳ chỉnh"
+msgid "User activated successfully."
+msgstr "Người dùng đã kích hoạt thành công."
+msgid "Unable to enable this user."
+msgstr "Không thể kích hoạt người dùng này."
+msgid "User disabled successfully."
+msgstr "Người dùng đã vô hiệu thành công."
+msgid "Unable to disable this user."
+msgstr "Không thể vô hiệu hóa người dùng này."
+msgid "All files have been uploaded successfully."
+msgstr "Tất cả các tập tin đã được tải lên thành công."
+msgid "The maximum allowed file size is %sB."
+msgstr "Kích thước tập tin tối đa cho phép là %sB."
+msgid "Drag and drop your files here"
+msgstr "Kéo và thả tệp của bạn ở đây"
+msgid "choose files"
+msgstr "chọn tập tin"
+msgid "View profile"
+msgstr "Xem hồ sơ"
+msgid "Two Factor"
+msgstr "hai lớp"
+msgid "Disable user"
+msgstr "Vô hiệu hoá người dùng"
+msgid "Do you really want to disable this user: \"%s\"?"
+msgstr "Bạn thực sự muốn vô hiệu hóa người dùng này: \"%s\"?"
+msgid "Enable user"
+msgstr "Enable user"
+msgid "Do you really want to enable this user: \"%s\"?"
+msgstr "Bạn có thực sự muốn cho phép người dùng này: \"%s\"?"
+msgid "Download"
+msgstr "Tải về"
+msgid "Uploaded: %s"
+msgstr "Đã tải lên: %s"
+msgid "Size: %s"
+msgstr "Kích thước: %s"
+msgid "Uploaded by %s"
+msgstr "Đã tải lên bởi %s"
+msgid "Filename"
+msgstr "Filename"
+msgid "Size"
+msgstr "Kích thước"
+msgid "Column created successfully."
+msgstr "Cột được tạo thành công."
+msgid "Another column with the same name exists in the project"
+msgstr "Một cột có cùng tên tồn tại trong dự án"
+msgid "Default filters"
+msgstr "Bộ lọc mặc định"
+msgid "Your board doesn't have any columns!"
+msgstr "Bảng của bạn không có bất kỳ cột nào!"
+msgid "Change column position"
+msgstr "Thay đổi vị trí cột"
+msgid "Switch to the project overview"
+msgstr "Chuyển sang tổng quan về dự án"
+msgid "User filters"
+msgstr "Bộ lọc người dùng"
+msgid "Category filters"
+msgstr "Bộ lọc danh mục"
+msgid "Upload a file"
+msgstr "Tải lên một tài liệu"
+msgid "View file"
+msgstr "Xem tài liệu"
+msgid "Last activity"
+msgstr "Hoạt động cuối"
+msgid "Change subtask position"
+msgstr "Thay đổi vị trí phụ"
+msgid "This value must be greater than %d"
+msgstr "Giá trị này phải lớn hơn %d"
+msgid "Another swimlane with the same name exists in the project"
+msgstr "Một con tàu khác có cùng tên tồn tại trong dự án "
+msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
+msgstr "Ví dụ: https://example.kanboard.org/ (dùng để tạo URL tuyệt đối)"
+msgid "Actions duplicated successfully."
+msgstr "Hành động trùng lặp thành công."
+msgid "Unable to duplicate actions."
+msgstr "Không thể lặp lại hành động."
+msgid "Add a new action"
+msgstr "Thêm một hành động mới"
+msgid "Import from another project"
+msgstr "Nhập khẩu từ một dự án khác"
+msgid "There is no action at the moment."
+msgstr "Hiện tại không có hành động nào."
+msgid "Import actions from another project"
+msgstr "Nhập khẩu các hành động từ một dự án khác"
+msgid "There is no available project."
+msgstr "Không có dự án sẵn có."
+msgid "Local File"
+msgstr "Local File"
+msgid "Configuration"
+msgstr "Cấu hình"
+msgid "PHP version:"
+msgstr "Phiên bản PHP:"
+msgid "PHP SAPI:"
+msgstr "PHP SAPI:"
+msgid "OS version:"
+msgstr "Phiên bản hệ điều hành:"
+msgid "Database version:"
+msgstr "Phiên bản cơ sở dữ liệu:"
+msgid "Browser:"
+msgstr "Trình duyệt:"
+msgid "Task view"
+msgstr "Công việc xem"
+msgid "Edit task"
+msgstr "Chỉnh sửa nhiệm vụ"
+msgid "Edit description"
+msgstr "Chỉnh sửa mô tả"
+msgid "New internal link"
+msgstr "Liên kết nội bộ mới"
+msgid "Display list of keyboard shortcuts"
+msgstr "Hiển thị danh sách các phím tắt"
+msgid "Avatar"
+msgstr "Hình đại diện"
+msgid "Upload my avatar image"
+msgstr "Tải lên hình ảnh đại diện của tôi"
+msgid "Remove my image"
+msgstr "Hủy bỏ hình ảnh của tôi"
+msgid "The OAuth2 state parameter is invalid"
+msgstr "Tham số trạng thái OAuth2 không hợp lệ"
+msgid "User not found."
+msgstr "Người dùng không tìm thấy."
+msgid "Search in activity stream"
+msgstr "Tìm kiếm trong luồng hoạt động"
+msgid "My activities"
+msgstr "Hoạt động của tôi"
+msgid "Activity until yesterday"
+msgstr "Hoạt động cho đến ngày hôm qua"
+msgid "Activity until today"
+msgstr "Hoạt động cho đến ngày hôm nay"
+msgid "Search by creator: "
+msgstr "Tìm kiếm theo người sáng tạo:"
+msgid "Search by creation date: "
+msgstr "Tìm kiếm theo ngày tạo:"
+msgid "Search by task status: "
+msgstr "Tìm theo tình trạng công việc:"
+msgid "Search by task title: "
+msgstr "Tìm theo tên công việc:"
+msgid "Activity stream search"
+msgstr "Tìm kiếm luồng hoạt động"
+msgid "Projects where \"%s\" is manager"
+msgstr "Dự án nơi \"%s\" là người quản lý"
+msgid "Projects where \"%s\" is member"
+msgstr "Dự án nơi \"%s\" là thành viên"
+msgid "Open tasks assigned to \"%s\""
+msgstr "Mở nhiệm vụ được giao cho \"%s\""
+msgid "Closed tasks assigned to \"%s\""
+msgstr "Đã đóng nhiệm vụ được giao cho \"%s\""
+msgid "Assign automatically a color based on a priority"
+msgstr "Chỉ định tự động một màu dựa trên một ưu tiên"
+msgid "Overdue tasks for the project(s) \"%s\""
+msgstr "Các nhiệm vụ quá hạn cho (các) dự án %s"
+msgid "Upload files"
+msgstr "Tải tệp lên"
+msgid "Installed Plugins"
+msgstr "Plugin cài đặt"
+msgid "Plugin Directory"
+msgstr "Plugin Directory"
+msgid "Plugin installed successfully."
+msgstr "Plugin được cài đặt thành công."
+msgid "Plugin updated successfully."
+msgstr "Plugin được cập nhật thành công."
+msgid "Plugin removed successfully."
+msgstr "Plugin được xoá thành công."
+msgid "Subtask converted to task successfully."
+msgstr "Đã thực hiện thành công nhiệm vụ phụ đề đã được chuyển thành."
+msgid "Unable to convert the subtask."
+msgstr "Không thể chuyển đổi phụ đề."
+msgid "Unable to extract plugin archive."
+msgstr "Không thể trích xuất kho lưu trữ plugin."
+msgid "Plugin not found."
+msgstr "Plugin không tìm thấy."
+msgid "You don't have the permission to remove this plugin."
+msgstr "Bạn không có quyền xóa plugin này."
+msgid "Unable to download plugin archive."
+msgstr "Không thể tải tệp lưu trữ plugin."
+msgid "Unable to write temporary file for plugin."
+msgstr "Không thể ghi tập tin tạm thời cho plugin."
+msgid "Unable to open plugin archive."
+msgstr "Không thể mở tệp lưu trữ plugin."
+msgid "There is no file in the plugin archive."
+msgstr "Không có tệp nào trong kho lưu trữ trình cắm."
+msgid "Create tasks in bulk"
+msgstr "Tạo nhiệm vụ hàng loạt"
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Trường hợp Kanboard của bạn không được định cấu hình để cài đặt plugin từ giao diện người dùng."
+msgid "There is no plugin available."
+msgstr "Không có plugin nào sẵn có."
+msgid "Install"
+msgstr "Cài đặt, dựng lên"
+msgid "Update"
+msgstr "Cập nhật"
+msgid "Up to date"
+msgstr "Cập nhật"
+msgid "Not available"
+msgstr "Không có sẵn"
+msgid "Remove plugin"
+msgstr "Xoá plugin"
+msgid "Do you really want to remove this plugin: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ plugin này: \"%s\"?"
+msgid "Uninstall"
+msgstr "Gỡ cài đặt"
+msgid "Listing"
+msgstr "Liệt kê"
+msgid "Metadata"
+msgstr "Siêu dữ liệu"
+msgid "Manage projects"
+msgstr "Quản lý dự án"
+msgid "Convert to task"
+msgstr "Chuyển đổi sang tác vụ"
+msgid "Convert sub-task to task"
+msgstr "Chuyển tiểu nhiệm vụ thành nhiệm vụ"
+msgid "Do you really want to convert this sub-task to a task?"
+msgstr "Bạn có thực sự muốn chuyển đổi tiểu nhiệm vụ này sang một nhiệm vụ?"
+msgid "My task title"
+msgstr "Nhiệm vụ của tôi"
+msgid "Enter one task by line."
+msgstr "Nhập một tác vụ theo dòng."
+msgid "Number of failed login:"
+msgstr "Số lần đăng nhập không thành công:"
+msgid "Account locked until:"
+msgstr "Tài khoản bị khoá cho đến khi:"
+msgid "Email settings"
+msgstr "Cài đặt email"
+msgid "Email sender address"
+msgstr "Địa chỉ người gửi email"
+msgid "Email transport"
+msgstr "Vận chuyển email"
+msgid "Webhook token"
+msgstr "Mã thông báo của Webhook"
+msgid "Project tags management"
+msgstr "Quản lý thẻ dự án"
+msgid "Tag created successfully."
+msgstr "Thẻ được tạo thành công."
+msgid "Unable to create this tag."
+msgstr "Không thể tạo thẻ này."
+msgid "Tag updated successfully."
+msgstr "Thẻ được cập nhật thành công."
+msgid "Unable to update this tag."
+msgstr "Không thể cập nhật thẻ này."
+msgid "Tag removed successfully."
+msgstr "Thẻ đã xoá thành công."
+msgid "Unable to remove this tag."
+msgstr "Không thể xóa thẻ này."
+msgid "Global tags management"
+msgstr "Quản lý thẻ toàn cầu"
+msgid "Tags"
+msgstr "Thẻ"
+msgid "Tags management"
+msgstr "Quản lý thẻ"
+msgid "Add new tag"
+msgstr "Thêm thẻ mới"
+msgid "Edit a tag"
+msgstr "Chỉnh sửa thẻ"
+msgid "Project tags"
+msgstr "Thẻ dự án"
+msgid "There is no specific tag for this project at the moment."
+msgstr "Hiện tại không có thẻ cụ thể cho dự án này."
+msgid "Tag"
+msgstr "Nhãn"
+msgid "Remove a tag"
+msgstr "Loại bỏ một thẻ"
+msgid "Do you really want to remove this tag: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ thẻ này: \"%s\"?"
+msgid "Global tags"
+msgstr "Thẻ toàn cầu"
+msgid "There is no global tag at the moment."
+msgstr "Hiện tại không có nhãn toàn cầu. "
+msgid "This field cannot be empty"
+msgstr "Trường này không thể để trống"
+msgid "Close a task when there is no activity in a specific column"
+msgstr "Đóng một nhiệm vụ khi không có hoạt động trong một cột cụ thể"
+msgid "%s removed a subtask for the task #%d"
+msgstr " %s loại bỏ một subtask cho nhiệm vụ #%d"
+msgid "%s removed a comment on the task #%d"
+msgstr " %s xóa một nhận xét về nhiệm vụ #%d"
+msgid "Comment removed on task #%d"
+msgstr "Đã xóa nhận xét về công việc #%d"
+msgid "Subtask removed on task #%d"
+msgstr "Huỷ bỏ các nhiệm vụ #%d"
+msgid "Hide tasks in this column in the dashboard"
+msgstr "Ẩn nhiệm vụ trong cột này trong bảng điều khiển"
+msgid "%s removed a comment on the task %s"
+msgstr " %s xóa một nhận xét về nhiệm vụ %s"
+msgid "%s removed a subtask for the task %s"
+msgstr " %s loại bỏ một phụ cho nhiệm vụ %s"
+msgid "Comment removed"
+msgstr "Đã xóa nhận xét"
+msgid "Subtask removed"
+msgstr "Huỷ bỏ bỏ"
+msgid "%s set a new internal link for the task #%d"
+msgstr " %s thiết lập một liên kết nội bộ mới cho nhiệm vụ #%d"
+msgid "%s removed an internal link for the task #%d"
+msgstr " %s đã xóa liên kết nội bộ cho tác vụ #%d"
+msgid "A new internal link for the task #%d has been defined"
+msgstr "Một liên kết nội bộ mới cho nhiệm vụ #%d đã được xác định"
+msgid "Internal link removed for the task #%d"
+msgstr "Đã loại bỏ liên kết nội bộ cho tác vụ #%d"
+msgid "%s set a new internal link for the task %s"
+msgstr " %s thiết lập một liên kết nội bộ mới cho nhiệm vụ %s"
+msgid "%s removed an internal link for the task %s"
+msgstr " %s đã xóa liên kết nội bộ cho tác vụ %s"
+msgid "Automatically set the due date on task creation"
+msgstr "Tự động thiết lập ngày đáo hạn khi tạo tác vụ"
+msgid "Move the task to another column when closed"
+msgstr "Di chuyển nhiệm vụ sang cột khác khi đóng"
+msgid "Move the task to another column when not moved during a given period"
+msgstr "Di chuyển công việc sang cột khác khi không di chuyển trong một khoảng thời gian nhất định"
+msgid "Dashboard for %s"
+msgstr "Bảng điều khiển cho %s"
+msgid "Tasks overview for %s"
+msgstr "Tổng quan về các nhiệm vụ cho %s"
+msgid "Subtasks overview for %s"
+msgstr "Tổng quan về các công việc cho %s"
+msgid "Projects overview for %s"
+msgstr "Tổng quan về dự án cho %s"
+msgid "Activity stream for %s"
+msgstr "Luồng hoạt động cho %s"
+msgid "Assign a color when the task is moved to a specific swimlane"
+msgstr "Chỉ định một màu sắc khi nhiệm vụ được chuyển đến một swimlane cụ thể"
+msgid "Assign a priority when the task is moved to a specific swimlane"
+msgstr "Chỉ định một ưu tiên khi nhiệm vụ được chuyển đến một con swimlane cụ thể"
+msgid "User unlocked successfully."
+msgstr "Người dùng đã mở khóa thành công."
+msgid "Unable to unlock the user."
+msgstr "Không thể mở khóa người dùng."
+msgid "Move a task to another swimlane"
+msgstr "Di chuyển một nhiệm vụ đến một swimlane khác"
+msgid "Creator Name"
+msgstr "Tên người tạo"
+msgid "Time spent and estimated"
+msgstr "Thời gian chi tiêu và ước tính"
+msgid "Move position"
+msgstr "Di chuyển vị trí"
+msgid "Move task to another position on the board"
+msgstr "Chuyển nhiệm vụ sang vị trí khác trên bảng"
+msgid "Insert before this task"
+msgstr "Chèn trước khi tác vụ này"
+msgid "Insert after this task"
+msgstr "Chèn sau khi tác vụ này"
+msgid "Unlock this user"
+msgstr "Mở khóa người dùng này"
+msgid "Custom Project Roles"
+msgstr "Vai trò dự án tùy chỉnh"
+msgid "Add a new custom role"
+msgstr "Thêm một vai trò tùy chỉnh mới"
+msgid "Restrictions for the role \"%s\""
+msgstr "Hạn chế đối với vai trò %s"
+msgid "Add a new project restriction"
+msgstr "Thêm một hạn chế dự án mới"
+msgid "Add a new drag and drop restriction"
+msgstr "Thêm một hạn chế kéo và thả mới"
+msgid "Add a new column restriction"
+msgstr "Thêm một cột mới"
+msgid "Edit this role"
+msgstr "Chỉnh sửa vai trò này"
+msgid "Remove this role"
+msgstr "Loại bỏ vai trò này"
+msgid "There is no restriction for this role."
+msgstr "Không có sự hạn chế đối với vai trò này."
+msgid "Only moving task between those columns is permitted"
+msgstr "Chỉ di chuyển nhiệm vụ giữa các cột đó được phép"
+msgid "Close a task in a specific column when not moved during a given period"
+msgstr "Đóng một nhiệm vụ trong một cột cụ thể khi không di chuyển trong một khoảng thời gian nhất định"
+msgid "Edit columns"
+msgstr "Chỉnh sửa cột"
+msgid "The column restriction has been created successfully."
+msgstr "Hạn chế cột đã được tạo thành công."
+msgid "Unable to create this column restriction."
+msgstr "Không thể tạo giới hạn cột này."
+msgid "Column restriction removed successfully."
+msgstr "Hạn chế cột đã được xoá thành công."
+msgid "Unable to remove this restriction."
+msgstr "Không thể xóa bỏ hạn chế này."
+msgid "Your custom project role has been created successfully."
+msgstr "Vai trò dự án tùy chỉnh của bạn đã được tạo thành công."
+msgid "Unable to create custom project role."
+msgstr "Không thể tạo vai trò dự án tùy chỉnh."
+msgid "Your custom project role has been updated successfully."
+msgstr "Vai trò dự án tùy chỉnh của bạn đã được cập nhật thành công."
+msgid "Unable to update custom project role."
+msgstr "Không thể cập nhật vai trò dự án tùy chỉnh."
+msgid "Custom project role removed successfully."
+msgstr "Vai trò dự án đã được gỡ bỏ thành công."
+msgid "Unable to remove this project role."
+msgstr "Không thể xóa vai trò dự án này."
+msgid "The project restriction has been created successfully."
+msgstr "Sự hạn chế của dự án đã được tạo ra thành công."
+msgid "Unable to create this project restriction."
+msgstr "Không thể tạo ra sự hạn chế của dự án."
+msgid "Project restriction removed successfully."
+msgstr "Hạn chế dự án đã được loại bỏ thành công."
+msgid "You cannot create tasks in this column."
+msgstr "Bạn không thể tạo ra các nhiệm vụ trong cột này."
+msgid "Task creation is permitted for this column"
+msgstr "Tạo tác vụ được cho phép cho cột này"
+msgid "Closing or opening a task is permitted for this column"
+msgstr "Cho phép Đóng hay mở một nhiệm vụ cho cột này"
+msgid "Task creation is blocked for this column"
+msgstr "Tạo tác vụ bị chặn cho cột này"
+msgid "Closing or opening a task is blocked for this column"
+msgstr "Đóng hoặc mở một tác vụ bị chặn cho cột này"
+msgid "Task creation is not permitted"
+msgstr "Không được phép tạo công việc"
+msgid "Closing or opening a task is not permitted"
+msgstr "Không được phép đóng hay mở một nhiệm vụ"
+msgid "New drag and drop restriction for the role \"%s\""
+msgstr "Hạn chế kéo và thả mới cho vai trò \"%s\""
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Những người thuộc vai trò này sẽ chỉ có thể di chuyển nhiệm vụ giữa cột nguồn và cột đích."
+msgid "Remove a column restriction"
+msgstr "Hủy bỏ một hạn chế về cột"
+msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ giới hạn cột này: \"%s\" thành \"%s\"?"
+msgid "New column restriction for the role \"%s\""
+msgstr "Hạn chế cột mới cho vai trò %s"
+msgid "Rule"
+msgstr "Qui định"
+msgid "Do you really want to remove this column restriction?"
+msgstr "Bạn có thực sự muốn loại bỏ hạn chế cột này?"
+msgid "Custom roles"
+msgstr "Vai trò tùy chỉnh"
+msgid "New custom project role"
+msgstr "Vai trò dự án mới tùy chỉnh"
+msgid "Edit custom project role"
+msgstr "Chỉnh sửa vai trò dự án tùy chỉnh"
+msgid "Remove a custom role"
+msgstr "Loại bỏ một vai trò tùy chỉnh"
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Bạn có thực sự muốn loại bỏ vai trò tùy chỉnh này: \"%s\"? Tất cả mọi người được giao nhiệm vụ này sẽ trở thành thành viên của dự án."
+msgid "There is no custom role for this project."
+msgstr "Không có vai trò tùy chỉnh cho dự án này."
+msgid "New project restriction for the role \"%s\""
+msgstr "Hạn chế dự án mới cho vai trò \"%s\""
+msgid "Restriction"
+msgstr "Sự hạn chế"
+msgid "Remove a project restriction"
+msgstr "Hủy bỏ một dự án hạn chế"
+msgid "Do you really want to remove this project restriction: \"%s\"?"
+msgstr "Bạn có thực sự muốn loại bỏ hạn chế dự án này: \"%s\"?"
+msgid "Duplicate to multiple projects"
+msgstr "Nhân đôi với nhiều dự án"
+msgid "This field is required"
+msgstr "Trường này là bắt buộc"
+msgid "Moving a task is not permitted"
+msgstr "Không được phép di chuyển một nhiệm vụ"
+msgid "This value must be in the range %d to %d"
+msgstr "Giá trị này phải nằm trong khoảng từ %d đến %d"
+msgid "You are not allowed to move this task."
+msgstr "Bạn không được phép di chuyển nhiệm vụ này."
+msgid "API User Access"
+msgstr "Truy cập Người dùng API"
+msgid "Preview"
+msgstr "Xem trước"
+msgid "Write"
+msgstr "Viết"
+msgid "Write your text in Markdown"
+msgstr "Viết văn bản của bạn trong Markdown"
+msgid "No personal API access token registered."
+msgstr "Không có đăng nhập truy cập API cá nhân."
+msgid "Your personal API access token is \"%s\""
+msgstr "Mã thông báo truy cập API cá nhân của bạn là \"%s\""
+msgid "Remove your token"
+msgstr "Hủy bỏ mã thông báo của bạn"
+msgid "Generate a new token"
+msgstr "Tạo mã thông báo mới"
+msgid "Showing %d-%d of %d"
+msgstr "Hiển thị %d-%d của %d"
+msgid "Outgoing Emails"
+msgstr "Email gửi đi"
+msgid "Add or change currency rate"
+msgstr "Thêm hoặc thay đổi tỷ lệ tiền tệ"
+msgid "Reference currency: %s"
+msgstr "Tiền tệ tham khảo: %s"
+msgid "Add custom filters"
+msgstr "Thêm bộ lọc tùy chỉnh"
+msgid "Export"
+msgstr "Xuất khẩu"
+msgid "Add link label"
+msgstr "Thêm nhãn liên kết"
+msgid "Incompatible Plugins"
+msgstr "Plugin không tương thích"
+msgid "Compatibility"
+msgstr "Khả năng tương thích"
+msgid "Permissions and ownership"
+msgstr "Quyền và quyền sở hữu"
+msgid "Priorities"
+msgstr "Ưu tiên"
+msgid "Close this window"
+msgstr "Đóng cửa sổ này"
+msgid "Unable to upload this file."
+msgstr "Không thể tải tệp này lên."
+msgid "Import tasks"
+msgstr "Nhập khẩu các nhiệm vụ"
+msgid "Choose a project"
+msgstr "Chọn một dự án"
+msgid "Profile"
+msgstr "Hồ sơ"
+msgid "Application role"
+msgstr "Vai trò ứng dụng"
+msgid "%d invitations were sent."
+msgstr "%d lời mời đã được gửi."
+msgid "%d invitation was sent."
+msgstr "Thư mời %d đã được gửi."
+msgid "Unable to create this user."
+msgstr "Không thể tạo người dùng này."
+msgid "Kanboard Invitation"
+msgstr "Lời mời của Kanboard"
+msgid "Visible on dashboard"
+msgstr "Hiển thị trên bảng điều khiển"
+msgid "Created at:"
+msgstr "Được tạo vào:"
+msgid "Updated at:"
+msgstr "Cập nhật tại:"
+msgid "There is no custom filter."
+msgstr "Không có bộ lọc tuỳ chỉnh."
+msgid "New User"
+msgstr "Người dùng mới"
+msgid "Authentication"
+msgstr "Xác thực"
+msgid "If checked, this user will use a third-party system for authentication."
+msgstr "Nếu được chọn, người dùng này sẽ sử dụng hệ thống của bên thứ ba để xác thực."
+msgid "The password is necessary only for local users."
+msgstr "Mật khẩu là cần thiết chỉ dành cho người dùng cục bộ."
+msgid "You have been invited to register on Kanboard."
+msgstr "Bạn đã được mời đăng ký trên Kanboard."
+msgid "Click here to join your team"
+msgstr "Nhấp vào đây để tham gia nhóm của bạn"
+msgid "Invite people"
+msgstr "Mời mọi người"
+msgid "Emails"
+msgstr "Email"
+msgid "Enter one email address by line."
+msgstr "Nhập một địa chỉ email theo dòng."
+msgid "Add these people to this project"
+msgstr "Thêm những người này vào dự án này"
+msgid "Add this person to this project"
+msgstr "Thêm người này vào dự án này"
+msgid "Sign-up"
+msgstr "Đăng ký"
+msgid "Credentials"
+msgstr "Thông tin xác thực"
+msgid "New user"
+msgstr "Người dùng mới"
+msgid "This username is already taken"
+msgstr "Tên người dùng này đã được dùng"
+msgid "Your profile must have a valid email address."
+msgstr "Tiểu sử của bạn phải có địa chỉ email hợp lệ."
+msgid "TRL - Turkish Lira"
+msgstr "TRL - Lira Thổ Nhĩ Kỳ"
+msgid "The project email is optional and could be used by several plugins."
+msgstr "Email dự án là tùy chọn và có thể được sử dụng bởi một số plugin."
+msgid "The project email must be unique across all projects"
+msgstr "Email của dự án phải là duy nhất trong tất cả các dự án"
+msgid "The email configuration has been disabled by the administrator."
+msgstr "Quản trị viên đã vô hiệu cấu hình email."
+msgid "Close this project"
+msgstr "Đóng dự án này"
+msgid "Open this project"
+msgstr "Mở dự án này"
+msgid "Close a project"
+msgstr "Đóng một dự án"
+msgid "Do you really want to close this project: \"%s\"?"
+msgstr "Bạn có thực sự muốn đóng dự án này: \"%s\"?"
+msgid "Reopen a project"
+msgstr "Mở lại một dự án"
+msgid "Do you really want to reopen this project: \"%s\"?"
+msgstr "Bạn có thực sự muốn mở lại dự án này: \"%s\"?"
+msgid "This project is open"
+msgstr "Dự án này đang mở"
+msgid "This project is closed"
+msgstr "Dự án này đã kết thúc"
+msgid "Unable to upload files, check the permissions of your data folder."
+msgstr "Không thể tải tệp lên, hãy kiểm tra quyền của thư mục dữ liệu của bạn."
+msgid "Another category with the same name exists in this project"
+msgstr "Một thể loại khác có cùng tên tồn tại trong dự án này"
+msgid "Comment sent by email successfully."
+msgstr "Thảo luận gửi qua email thành công."
+msgid "Sent by email to \"%s\" (%s)"
+msgstr "Gửi qua email tới \"%s\" ( %s)"
+msgid "Unable to read uploaded file."
+msgstr "Không thể đọc tập tin được tải lên."
+msgid "Database uploaded successfully."
+msgstr "Cơ sở dữ liệu được tải lên thành công."
+msgid "Task sent by email successfully."
+msgstr "Nhiệm vụ gửi qua email thành công."
+msgid "There is no category in this project."
+msgstr "Không có hạng mục trong dự án này."
+msgid "Send by email"
+msgstr "Gửi bằng thư điện tử"
+msgid "Create and send a comment by email"
+msgstr "Tạo và gửi một nhận xét qua email"
+msgid "Subject"
+msgstr "Môn học"
+msgid "Upload the database"
+msgstr "Tải lên cơ sở dữ liệu"
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Bạn có thể tải lên cơ sở dữ liệu Sqlite đã tải xuống trước đây (định dạng Gzip)"
+msgid "Database file"
+msgstr "Tập tin cơ sở dữ liệu"
+msgid "Upload"
+msgstr "Tải lên"
+msgid "Your project must have at least one active swimlane."
+msgstr "Dự án của bạn phải có ít nhất một swimlane hoạt động."
+msgid "Project: %s"
+msgstr "Dự án: %s"
+msgid "Automatic action not found: \"%s\""
+msgstr "Không tìm thấy hành động tự động: \"%s\""
+msgid "%d projects"
+msgstr "%d dự án"
+msgid "%d project"
+msgstr "%d dự án"
+msgid "There is no project."
+msgstr "Không có dự án."
+msgid "Sort"
+msgstr "Sắp xếp"
+msgid "Project ID"
+msgstr "ID dự án"
+msgid "Project name"
+msgstr "Tên dự án"
+msgid "Public"
+msgstr "Công cộng"
+msgid "Personal"
+msgstr "Riêng tư"
+msgid "%d tasks"
+msgstr "%d nhiệm vụ"
+msgid "%d task"
+msgstr "%d công việc"
+msgid "Task ID"
+msgstr "ID công việc"
+msgid "Assign automatically a color when due date is expired"
+msgstr "Chỉ định màu tự động khi ngày hết hạn hết hạn"
+msgid "Total score in this column across all swimlanes"
+msgstr "Tổng số điểm trong cột này trên tất cả các đường swimlane"
+msgid "HRK - Kuna"
+msgstr "HRK - Kuna"
+msgid "ARS - Argentine Peso"
+msgstr "ARS - Peso Argentina"
+msgid "COP - Colombian Peso"
+msgstr "COP - Colombia Peso"
+msgid "%d groups"
+msgstr "%d nhóm"
+msgid "%d group"
+msgstr "%d nhóm"
+msgid "Group ID"
+msgstr "ID nhóm"
+msgid "External ID"
+msgstr "ID bên ngoài"
+msgid "%d users"
+msgstr "%d người dùng"
+msgid "%d user"
+msgstr "%d người dùng"
+msgid "Hide subtasks"
+msgstr "Ẩn các nhiệm vụ phụ"
+msgid "Show subtasks"
+msgstr "Hiện các nhiệm vụ phụ"
+msgid "Authentication Parameters"
+msgstr "Thông số xác thực"
+msgid "API Access"
+msgstr "Truy cập API"
+msgid "No users found."
+msgstr "Không tìm thấy người dùng."
+msgid "User ID"
+msgstr "Tên người dùng"
+msgid "Notifications are activated"
+msgstr "Thông báo được kích hoạt"
+msgid "Notifications are disabled"
+msgstr "Thông báo bị vô hiệu hóa"
+msgid "User disabled"
+msgstr "Người dùng đã vô hiệu hóa"
+msgid "%d notifications"
+msgstr "%d thông báo"
+msgid "%d notification"
+msgstr "%d thông báo"
+msgid "There is no external integration installed."
+msgstr "Không có tích hợp bên ngoài được cài đặt."
+msgid "You are not allowed to update tasks assigned to someone else."
+msgstr "Bạn không được phép cập nhật các nhiệm vụ được giao cho người khác."
+msgid "You are not allowed to change the assignee."
+msgstr "Bạn không được phép thay đổi người được chuyển nhượng."
+msgid "Task suppression is not permitted"
+msgstr "Không được phép loại bỏ công việc"
+msgid "Changing assignee is not permitted"
+msgstr "Không được phép thay đổi người được chuyển nhượng"
+msgid "Update only assigned tasks is permitted"
+msgstr "Chỉ được phép cập nhật các nhiệm vụ được giao"
+msgid "Only for tasks assigned to the current user"
+msgstr "Chỉ cho các nhiệm vụ được gán cho người dùng hiện tại"
+msgid "My projects"
+msgstr "Dự án của tôi"
+msgid "You are not a member of any project."
+msgstr "Bạn không phải là thành viên của bất kỳ dự án nào."
+msgid "My subtasks"
+msgstr "Nhiệm vụ phụ của tôi"
+msgid "%d subtasks"
+msgstr "%d nhiệm vụ phụ"
+msgid "%d subtask"
+msgstr "%d nhiệm vụ phụ"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Chỉ di chuyển nhiệm vụ giữa các cột được phép cho các nhiệm vụ được giao cho người sử dụng hiện tại"
+msgid "[DUPLICATE]"
+msgstr "[BẢN SAO]"
+msgid "DKK - Danish Krona"
+msgstr "DKK - Đan Mạch Đan Mạch"
+msgid "Remove user from group"
+msgstr "Xóa người dùng khỏi nhóm"
+msgid "Assign the task to its creator"
+msgstr "Chỉ định nhiệm vụ cho người sáng tạo"
+msgid "This task was sent by email to \"%s\" with subject \"%s\"."
+msgstr "Nhiệm vụ này được gửi qua email tới \"%s\" với chủ đề \"%s\"."
+msgid "Predefined Email Subjects"
+msgstr "Đối tượng Email được Xác định trước"
+msgid "Write one subject by line."
+msgstr "Viết một chủ đề theo dòng."
+msgid "Create another link"
+msgstr "Tạo liên kết khác"
+msgid "BRL - Brazilian Real"
+msgstr "BRL - Brazilian Real"
+msgid "Add a new Kanboard task"
+msgstr ""
+msgid "Subtask not started"
+msgstr ""
+msgid "Subtask currently in progress"
+msgstr ""
+msgid "Subtask completed"
+msgstr ""
+msgid "Subtask added successfully."
+msgstr ""
+msgid "%d subtasks added successfully."
+msgstr ""
+msgid "Enter one subtask by line."
+msgstr ""
+msgid "Predefined Contents"
+msgstr ""
+msgid "Predefined contents"
+msgstr ""
+msgid "Predefined Task Description"
+msgstr ""
+msgid "Do you really want to remove this template? \"%s\""
+msgstr ""
+msgid "Add predefined task description"
+msgstr ""
+msgid "Predefined Task Descriptions"
+msgstr ""
+msgid "Template created successfully."
+msgstr ""
+msgid "Unable to create this template."
+msgstr ""
+msgid "Template updated successfully."
+msgstr ""
+msgid "Unable to update this template."
+msgstr ""
+msgid "Template removed successfully."
+msgstr ""
+msgid "Unable to remove this template."
+msgstr ""
+msgid "Template for the task description"
+msgstr ""
+msgid "The start date is greater than the end date"
+msgstr ""
+msgid "Tags must be separated by a comma"
+msgstr ""
+msgid "Only the task title is required"
+msgstr ""
+msgid "Creator Username"
+msgstr ""
+msgid "Color Name"
+msgstr ""
+msgid "Column Name"
+msgstr ""
+msgid "Swimlane Name"
+msgstr ""
+msgid "Time Estimated"
+msgstr ""
+msgid "Time Spent"
+msgstr ""
+msgid "External Link"
+msgstr ""
+msgid "This feature enables the iCal feed, RSS feed and the public board view."
+msgstr ""
+msgid "Stop the timer of all subtasks when moving a task to another column"
+msgstr ""
+msgid "Subtask Title"
+msgstr ""
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr ""
+msgid "days"
+msgstr ""
+msgid "minutes"
+msgstr ""
+msgid "seconds"
+msgstr ""
+msgid "Assign automatically a color when preset start date is reached"
+msgstr ""
+msgid "Move the task to another column once a predefined start date is reached"
+msgstr ""
+msgid "This task is now linked to the task %s with the relation \"%s\""
+msgstr ""
+msgid "The link with the relation \"%s\" to the task %s has been removed"
+msgstr ""
+msgid "Custom Filter:"
+msgstr ""
+msgid "Unable to find this group."
+msgstr ""
+msgid "%s moved the task #%d to the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the position %d in the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the swimlane \"%s\""
+msgstr ""
+msgid "%sh spent"
+msgstr ""
+msgid "%sh estimated"
+msgstr ""
+msgid "Select All"
+msgstr ""
+msgid "Unselect All"
+msgstr ""
+msgid "Apply action"
+msgstr ""
+msgid "Move selected tasks to another column or swimlane"
+msgstr ""
+msgid "Edit tasks in bulk"
+msgstr ""
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr ""
+msgid "Configure this project"
+msgstr ""
+msgid "Start now"
+msgstr ""
+msgid "%s removed a file from the task #%d"
+msgstr ""
+msgid "Attachment removed from task #%d: %s"
+msgstr ""
+msgid "No color"
+msgstr ""
+msgid "Attachment removed \"%s\""
+msgstr ""
+msgid "%s removed a file from the task %s"
+msgstr ""
+msgid "Move the task to another swimlane when assigned to a user"
+msgstr ""
+msgid "Destination swimlane"
+msgstr ""
+msgid "Assign a category when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Move the task to another swimlane when the category is changed"
+msgstr ""
+msgid "Reorder this column by priority (ASC)"
+msgstr ""
+msgid "Reorder this column by priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (ASC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee (A-Z)"
+msgstr ""
+msgid "Reorder this column by assignee (Z-A)"
+msgstr ""
+msgid "Reorder this column by due date (ASC)"
+msgstr ""
+msgid "Reorder this column by due date (DESC)"
+msgstr ""
+msgid "%s moved the task #%d \"%s\" to the project \"%s\""
+msgstr ""
+msgid "Task #%d \"%s\" has been moved to the project \"%s\""
+msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr ""
+msgid "HTTP Client:"
+msgstr ""
+msgid "Assigned"
+msgstr ""
+msgid "Task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied across swimlanes"
+msgstr ""
+msgid "Task limit: "
+msgstr ""
+msgid "Change to global tag"
+msgstr ""
+msgid "Do you really want to make the tag \"%s\" global?"
+msgstr ""
+msgid "Enable global tags for this project"
+msgstr ""
+msgid "Group membership(s):"
+msgstr ""
+msgid "%s is a member of the following group(s): %s"
+msgstr ""
+msgid "%d/%d group(s) shown"
+msgstr ""
+msgid "Subtask creation or modification"
+msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Comment"
+msgstr ""
+msgid "Collapse vertically"
+msgstr ""
+msgid "Expand vertically"
+msgstr ""
+msgid "MXN - Mexican Peso"
+msgstr ""
+msgid "Estimated vs actual time per column"
+msgstr ""
+msgid "HUF - Hungarian Forint"
+msgstr ""
+msgid "XBT - Bitcoin"
+msgstr ""
+msgid "You must select a file to upload as your avatar!"
+msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr ""
+msgid "No other projects found."
+msgstr ""
+msgid "Please choose a project you want to copy the tasks from."
+msgstr ""
+msgid "Import Tasks"
+msgstr ""
+msgid "Copy"
+msgstr ""
+msgid "Tasks copied successfully."
+msgstr ""
+msgid "Unable to copy tasks."
+msgstr ""
 

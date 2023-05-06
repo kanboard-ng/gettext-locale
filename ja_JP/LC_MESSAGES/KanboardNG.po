@@ -1,2868 +1,2868 @@
 
- msgid 'number.decimals_separator'
- msgstr '.'
- msgid 'number.thousands_separator'
- msgstr ','
- msgid 'None'
- msgstr 'なし'
- msgid 'Edit'
- msgstr '編集'
- msgid 'Remove'
- msgstr '削除'
- msgid 'Yes'
- msgstr 'はい'
- msgid 'No'
- msgstr 'いいえ'
- msgid 'cancel'
- msgstr 'キャンセル'
- msgid 'or'
- msgstr 'または'
- msgid 'Yellow'
- msgstr 'イエロー'
- msgid 'Blue'
- msgstr 'ブルー'
- msgid 'Green'
- msgstr 'グリーン'
- msgid 'Purple'
- msgstr 'パープル'
- msgid 'Red'
- msgstr 'レッド'
- msgid 'Orange'
- msgstr 'オレンジ'
- msgid 'Grey'
- msgstr 'グレー'
- msgid 'Brown'
- msgstr 'ブラウン'
- msgid 'Deep Orange'
- msgstr 'ディープオレンジ'
- msgid 'Dark Grey'
- msgstr 'ダークグレー'
- msgid 'Pink'
- msgstr 'ピンク'
- msgid 'Teal'
- msgstr 'ティール'
- msgid 'Cyan'
- msgstr 'シアン'
- msgid 'Lime'
- msgstr 'ライム'
- msgid 'Light Green'
- msgstr 'ライトグリーン'
- msgid 'Amber'
- msgstr 'アンバー'
- msgid 'Save'
- msgstr '保存'
- msgid 'Login'
- msgstr 'ログイン'
- msgid 'Official website:'
- msgstr '公式 Webサイト：'
- msgid 'Unassigned'
- msgstr '担当なし'
- msgid 'View this task'
- msgstr 'このタスクを見る'
- msgid 'Remove user'
- msgstr 'ユーザーの削除'
- msgid 'Do you really want to remove this user: "%s"?'
- msgstr 'ユーザー「%s」を削除しますか？'
- msgid 'All users'
- msgstr 'すべてのユーザー'
- msgid 'Username'
- msgstr 'ユーザー名'
- msgid 'Password'
- msgstr 'パスワード'
- msgid 'Administrator'
- msgstr 'システム管理者'
- msgid 'Sign in'
- msgstr 'ログイン'
- msgid 'Users'
- msgstr 'ユーザー'
- msgid 'Forbidden'
- msgstr 'アクセス拒否'
- msgid 'Access Forbidden'
- msgstr 'アクセスが拒否されました'
- msgid 'Edit user'
- msgstr 'ユーザーを編集する'
- msgid 'Logout'
- msgstr 'ログアウト'
- msgid 'Bad username or password'
- msgstr 'ユーザー名またはパスワードが違います'
- msgid 'Edit project'
- msgstr 'プロジェクトを編集'
- msgid 'Name'
- msgstr '名前'
- msgid 'Projects'
- msgstr 'プロジェクト'
- msgid 'No project'
- msgstr 'プロジェクトがありません'
- msgid 'Project'
- msgstr 'プロジェクト'
- msgid 'Status'
- msgstr 'ステータス'
- msgid 'Tasks'
- msgstr 'タスク'
- msgid 'Board'
- msgstr 'ボード'
- msgid 'Actions'
- msgstr 'アクション'
- msgid 'Inactive'
- msgstr '無効'
- msgid 'Active'
- msgstr '有効'
- msgid 'Unable to update this board.'
- msgstr 'ボードを更新できませんでした'
- msgid 'Disable'
- msgstr '無効にする'
- msgid 'Enable'
- msgstr '有効にする'
- msgid 'New project'
- msgstr 'プロジェクト作成'
- msgid 'Do you really want to remove this project: "%s"?'
- msgstr 'プロジェクト「%s」を削除しますか？'
- msgid 'Remove project'
- msgstr 'プロジェクトの削除'
- msgid 'Edit the board for "%s"'
- msgstr 'ボード「%s」を編集'
- msgid 'Add a new column'
- msgstr 'カラムの追加'
- msgid 'Title'
- msgstr 'タイトル'
- msgid 'Assigned to %s'
- msgstr '%sが担当'
- msgid 'Remove a column'
- msgstr 'カラムの削除'
- msgid 'Unable to remove this column.'
- msgstr 'カラムを削除できませんでした'
- msgid 'Do you really want to remove this column: "%s"?'
- msgstr 'カラム「%s」を削除しますか？'
- msgid 'Settings'
- msgstr '設定'
- msgid 'Application settings'
- msgstr 'アプリケーション設定'
- msgid 'Language'
- msgstr '言語'
- msgid 'Webhook token:'
- msgstr 'Webhook トークン：'
- msgid 'API token:'
- msgstr 'API トークン：'
- msgid 'Database size:'
- msgstr 'データベースのサイズ：'
- msgid 'Download the database'
- msgstr 'データベースのダウンロード'
- msgid 'Optimize the database'
- msgstr 'データベースの最適化'
- msgid '(VACUUM command)'
- msgstr '(VACUUM コマンド)'
- msgid '(Gzip compressed Sqlite file)'
- msgstr '(GZip コマンドで圧縮された Sqlite ファイル)'
- msgid 'Close a task'
- msgstr 'タスクを完了'
- msgid 'Column'
- msgstr 'カラム'
- msgid 'Color'
- msgstr '色'
- msgid 'Assignee'
- msgstr '担当'
- msgid 'Create another task'
- msgstr '続けて別のタスクを追加'
- msgid 'New task'
- msgstr 'タスクを追加'
- msgid 'Open a task'
- msgstr 'タスクを開く'
- msgid 'Do you really want to open this task: "%s"?'
- msgstr 'タスク「%s」を作成しますか？'
- msgid 'Back to the board'
- msgstr 'ボードに戻る'
- msgid 'There is nobody assigned'
- msgstr '担当者がいません'
- msgid 'Column on the board:'
- msgstr 'カラム：'
- msgid 'Close this task'
- msgstr 'タスクを完了'
- msgid 'Open this task'
- msgstr 'このタスクを開く'
- msgid 'There is no description.'
- msgstr '説明がありません'
- msgid 'Add a new task'
- msgstr 'タスクを追加'
- msgid 'The username is required'
- msgstr 'ユーザー名が必要です'
- msgid 'The maximum length is %d characters'
- msgstr '最大 %d 文字です'
- msgid 'The minimum length is %d characters'
- msgstr '最小 %d 文字必要です'
- msgid 'The password is required'
- msgstr 'パスワードが必要です'
- msgid 'This value must be an integer'
- msgstr '整数で入力してください'
- msgid 'The username must be unique'
- msgstr 'ユーザー名がすでに使用されています'
- msgid 'The user id is required'
- msgstr 'ユーザー ID が必要です'
- msgid 'Passwords don\'t match'
- msgstr 'パスワードが一致しません'
- msgid 'The confirmation is required'
- msgstr '確認用のパスワードを入力してください'
- msgid 'The project is required'
- msgstr 'プロジェクトが必要です'
- msgid 'The id is required'
- msgstr 'ID が必要です'
- msgid 'The project id is required'
- msgstr 'プロジェクト ID が必要です'
- msgid 'The project name is required'
- msgstr 'プロジェクト名が必要です'
- msgid 'The title is required'
- msgstr 'タイトルが必要です'
- msgid 'Settings saved successfully.'
- msgstr '設定を保存しました'
- msgid 'Unable to save your settings.'
- msgstr '設定の保存に失敗しました'
- msgid 'Database optimization done.'
- msgstr 'データベースの最適化が終わりました'
- msgid 'Your project has been created successfully.'
- msgstr 'プロジェクトを作成しました'
- msgid 'Unable to create your project.'
- msgstr 'プロジェクトの作成に失敗しました'
- msgid 'Project updated successfully.'
- msgstr 'プロジェクトを更新しました'
- msgid 'Unable to update this project.'
- msgstr 'プロジェクトの更新に失敗しました'
- msgid 'Unable to remove this project.'
- msgstr 'プロジェクトの削除に失敗しました'
- msgid 'Project removed successfully.'
- msgstr 'プロジェクトを削除しました'
- msgid 'Project activated successfully.'
- msgstr 'プロジェクトを有効にしました'
- msgid 'Unable to activate this project.'
- msgstr 'プロジェクトを有効にできませんでした'
- msgid 'Project disabled successfully.'
- msgstr 'プロジェクトを無効にしました'
- msgid 'Unable to disable this project.'
- msgstr 'プロジェクトを無効にできませんでした'
- msgid 'Unable to open this task.'
- msgstr 'タスクの作成に失敗しました'
- msgid 'Task opened successfully.'
- msgstr 'タスクを作成しました'
- msgid 'Unable to close this task.'
- msgstr 'タスクの完了に失敗しました'
- msgid 'Task closed successfully.'
- msgstr 'タスクを完了しました'
- msgid 'Unable to update your task.'
- msgstr 'タスクの更新に失敗しました'
- msgid 'Task updated successfully.'
- msgstr 'タスクを更新しました'
- msgid 'Unable to create your task.'
- msgstr 'タスクの追加に失敗しました'
- msgid 'Task created successfully.'
- msgstr 'タスクを追加しました'
- msgid 'User created successfully.'
- msgstr 'ユーザーを追加しました'
- msgid 'Unable to create your user.'
- msgstr 'ユーザーの追加に失敗しました'
- msgid 'User updated successfully.'
- msgstr 'ユーザーを更新しました'
- msgid 'User removed successfully.'
- msgstr 'ユーザーを削除しました'
- msgid 'Unable to remove this user.'
- msgstr 'ユーザーの削除に失敗しました'
- msgid 'Board updated successfully.'
- msgstr 'ボードを更新しました'
- msgid 'Ready'
- msgstr 'Ready'
- msgid 'Backlog'
- msgstr 'Backlog'
- msgid 'Work in progress'
- msgstr 'Work in progress'
- msgid 'Done'
- msgstr 'Done'
- msgid 'Application version:'
- msgstr 'アプリケーションのバージョン：'
- msgid 'Id'
- msgstr 'ID'
- msgid 'Public link'
- msgstr '公開アクセス用リンク'
- msgid 'Timezone'
- msgstr 'タイムゾーン'
- msgid 'Sorry, I didn\'t find this information in my database!'
- msgstr 'データベース上で情報が見つかりませんでした！'
- msgid 'Page not found'
- msgstr 'ページが見つかりません'
- msgid 'Complexity'
- msgstr '複雑さ'
- msgid 'Task limit'
- msgstr 'タスク数制限'
- msgid 'Task count'
- msgstr 'タスク数'
- msgid 'User'
- msgstr 'ユーザー'
- msgid 'Comments'
- msgstr 'コメント'
- msgid 'Comment is required'
- msgstr 'コメントを入力してください'
- msgid 'Comment added successfully.'
- msgstr 'コメントを追加しました'
- msgid 'Unable to create your comment.'
- msgstr 'コメントの追加に失敗しました'
- msgid 'Due Date'
- msgstr '期限'
- msgid 'Invalid date'
- msgstr '日付が無効です'
- msgid 'Automatic actions'
- msgstr '自動アクションの管理'
- msgid 'Your automatic action has been created successfully.'
- msgstr '自動アクションを作成しました'
- msgid 'Unable to create your automatic action.'
- msgstr '自動アクションの作成に失敗しました'
- msgid 'Remove an action'
- msgstr '自動アクションの削除'
- msgid 'Unable to remove this action.'
- msgstr '自動アクションの削除に失敗しました'
- msgid 'Action removed successfully.'
- msgstr '自動アクションの削除に成功しました'
- msgid 'Automatic actions for the project "%s"'
- msgstr 'プロジェクト「%s」の自動アクション'
- msgid 'Add an action'
- msgstr '自動アクションの追加'
- msgid 'Event name'
- msgstr 'イベント名'
- msgid 'Action'
- msgstr 'アクション'
- msgid 'Event'
- msgstr 'イベント'
- msgid 'When the selected event occurs execute the corresponding action.'
- msgstr '選択されたイベントが発生した時、対応するアクションを実行'
- msgid 'Next step'
- msgstr '次のステップ'
- msgid 'Define action parameters'
- msgstr 'アクションのパラメーター'
- msgid 'Do you really want to remove this action: "%s"?'
- msgstr '自動アクション「%s」を削除しますか？'
- msgid 'Remove an automatic action'
- msgstr '自動アクションの削除'
- msgid 'Assign the task to a specific user'
- msgstr 'タスクの担当者を割当てる'
- msgid 'Assign the task to the person who does the action'
- msgstr 'アクションを起こしたユーザーを担当者にする'
- msgid 'Duplicate the task to another project'
- msgstr '別のプロジェクトにタスクを複製'
- msgid 'Move a task to another column'
- msgstr 'タスクを別のカラムに移動'
- msgid 'Task modification'
- msgstr 'タスクの変更'
- msgid 'Task creation'
- msgstr 'タスクを作る'
- msgid 'Closing a task'
- msgstr 'タスクを完了'
- msgid 'Assign a color to a specific user'
- msgstr '色をユーザーに割当てる'
- msgid 'Position'
- msgstr '位置'
- msgid 'Duplicate to project'
- msgstr '別プロジェクトに複製'
- msgid 'Duplicate'
- msgstr '複製'
- msgid 'Link'
- msgstr 'リンク'
- msgid 'Comment updated successfully.'
- msgstr 'コメントを更新しました'
- msgid 'Unable to update your comment.'
- msgstr 'コメントの更新に失敗しました'
- msgid 'Remove a comment'
- msgstr 'コメントを削除'
- msgid 'Comment removed successfully.'
- msgstr 'コメントを削除しました'
- msgid 'Unable to remove this comment.'
- msgstr 'コメントの削除に失敗しました'
- msgid 'Do you really want to remove this comment?'
- msgstr 'コメントを削除しますか？'
- msgid 'Current password for the user "%s"'
- msgstr 'ユーザー「%s」の現在のパスワード'
- msgid 'The current password is required'
- msgstr '現在のパスワードを入力してください'
- msgid 'Wrong password'
- msgstr 'パスワードが違います'
- msgid 'Unknown'
- msgstr '不明'
- msgid 'Last logins'
- msgstr 'ログインの一覧'
- msgid 'Login date'
- msgstr 'ログイン日時'
- msgid 'Authentication method'
- msgstr '認証方法'
- msgid 'IP address'
- msgstr 'IP アドレス'
- msgid 'User agent'
- msgstr 'ユーザーエージェント'
- msgid 'Persistent connections'
- msgstr '既存のコネクション'
- msgid 'No session.'
- msgstr 'セッションなし'
- msgid 'Expiration date'
- msgstr '有効期限'
- msgid 'Remember Me'
- msgstr '次回から自動的にログイン'
- msgid 'Creation date'
- msgstr '作成日'
- msgid 'Everybody'
- msgstr '全員'
- msgid 'Open'
- msgstr '作成'
- msgid 'Closed'
- msgstr '完了'
- msgid 'Search'
- msgstr '検索'
- msgid 'Nothing found.'
- msgstr '結果なし'
- msgid 'Due date'
- msgstr '期限'
- msgid 'Description'
- msgstr '説明'
- msgid '%d comments'
- msgstr '%d 個のコメント'
- msgid '%d comment'
- msgstr '%d 個のコメント'
- msgid 'Email address invalid'
- msgstr 'メールアドレスが正しくありません'
- msgid 'Your external account is not linked anymore to your profile.'
- msgstr 'あなたの外部アカウントはプロフィールにリンクされていません'
- msgid 'Unable to unlink your external account.'
- msgstr '外部アカウントのリンクを解除できません'
- msgid 'External authentication failed'
- msgstr '外部認証に失敗しました'
- msgid 'Your external account is linked to your profile successfully.'
- msgstr 'あなたの外部アカウントはプロフィールに正常にリンクしています'
- msgid 'Email'
- msgstr 'Email'
- msgid 'Task removed successfully.'
- msgstr 'タスクを削除しました'
- msgid 'Unable to remove this task.'
- msgstr 'タスクの削除に失敗しました'
- msgid 'Remove a task'
- msgstr 'タスクの削除'
- msgid 'Do you really want to remove this task: "%s"?'
- msgstr 'タスク「%s」を削除しますか？'
- msgid 'Assign automatically a color based on a category'
- msgstr 'カテゴリに基いて色を変える'
- msgid 'Assign automatically a category based on a color'
- msgstr '色に基いてカテゴリを変える'
- msgid 'Task creation or modification'
- msgstr 'タスクの作成または変更'
- msgid 'Category'
- msgstr 'カテゴリ'
- msgid 'Category:'
- msgstr 'カテゴリ：'
- msgid 'Categories'
- msgstr 'カテゴリ'
- msgid 'Your category has been created successfully.'
- msgstr 'カテゴリを作成しました'
- msgid 'This category has been updated successfully.'
- msgstr 'カテゴリを更新しました'
- msgid 'Unable to update this category.'
- msgstr 'カテゴリの更新に失敗しました'
- msgid 'Remove a category'
- msgstr 'カテゴリの削除'
- msgid 'Category removed successfully.'
- msgstr 'カテゴリを削除しました'
- msgid 'Unable to remove this category.'
- msgstr 'カテゴリを削除できませんでした'
- msgid 'Category modification for the project "%s"'
- msgstr 'プロジェクト「%s」のカテゴリの編集'
- msgid 'Category Name'
- msgstr 'カテゴリ名'
- msgid 'Add a new category'
- msgstr 'カテゴリの追加'
- msgid 'Do you really want to remove this category: "%s"?'
- msgstr 'カテゴリ「%s」を削除しますか？'
- msgid 'All categories'
- msgstr 'すべてのカテゴリ'
- msgid 'No category'
- msgstr 'カテゴリなし'
- msgid 'The name is required'
- msgstr '名前を入力してください'
- msgid 'Remove a file'
- msgstr 'ファイルの削除'
- msgid 'Unable to remove this file.'
- msgstr 'ファイルの削除に失敗しました'
- msgid 'File removed successfully.'
- msgstr 'ファイルを削除しました'
- msgid 'Attach a document'
- msgstr 'ドキュメントを添付'
- msgid 'Do you really want to remove this file: "%s"?'
- msgstr 'ファイル「%s」を削除しますか？'
- msgid 'Attachments'
- msgstr '添付'
- msgid 'Edit the task'
- msgstr 'タスクを編集'
- msgid 'Add a comment'
- msgstr 'コメントを追加'
- msgid 'Edit a comment'
- msgstr 'コメントを編集'
- msgid 'Summary'
- msgstr '要約'
- msgid 'Time tracking'
- msgstr '時間の追跡'
- msgid 'Estimate:'
- msgstr '見積：'
- msgid 'Spent:'
- msgstr '経過：'
- msgid 'Do you really want to remove this sub-task?'
- msgstr 'サブタスクを削除しますか？'
- msgid 'Remaining:'
- msgstr '残：'
- msgid 'hours'
- msgstr '時間'
- msgid 'estimated'
- msgstr '見積'
- msgid 'Sub-Tasks'
- msgstr 'サブタスク'
- msgid 'Add a sub-task'
- msgstr 'サブタスクを追加'
- msgid 'Original estimate'
- msgstr '初期の見積'
- msgid 'Create another sub-task'
- msgstr '続けて別のサブタスクを追加'
- msgid 'Time spent'
- msgstr '経過時間'
- msgid 'Edit a sub-task'
- msgstr 'サブタスクを編集'
- msgid 'Remove a sub-task'
- msgstr 'サブタスクを削除'
- msgid 'The time must be a numeric value'
- msgstr '時間は数字で入力してください'
- msgid 'Todo'
- msgstr '作業予定'
- msgid 'In progress'
- msgstr '作業中'
- msgid 'Sub-task removed successfully.'
- msgstr 'サブタスクを削除しました'
- msgid 'Unable to remove this sub-task.'
- msgstr 'サブタスクの削除に失敗しました'
- msgid 'Sub-task updated successfully.'
- msgstr 'サブタスクを更新しました'
- msgid 'Unable to update your sub-task.'
- msgstr 'サブタスクの更新に失敗しました'
- msgid 'Unable to create your sub-task.'
- msgstr 'サブタスクの追加に失敗しました'
- msgid 'Maximum size: '
- msgstr '最大：'
- msgid 'Display another project'
- msgstr '別のプロジェクトを表示'
- msgid 'Created by %s'
- msgstr '%s が作成'
- msgid 'Tasks Export'
- msgstr 'タスクの出力'
- msgid 'Start Date'
- msgstr '開始日'
- msgid 'Execute'
- msgstr '実行'
- msgid 'Task Id'
- msgstr 'タスク ID'
- msgid 'Creator'
- msgstr '作成者'
- msgid 'Modification date'
- msgstr '更新日'
- msgid 'Completion date'
- msgstr '完了日'
- msgid 'Clone'
- msgstr '複製'
- msgid 'Project cloned successfully.'
- msgstr 'プロジェクトを複製しました'
- msgid 'Unable to clone this project.'
- msgstr 'プロジェクトの複製に失敗しました'
- msgid 'Enable email notifications'
- msgstr 'メール通知を設定'
- msgid 'Task position:'
- msgstr 'タスクの位置：'
- msgid 'The task #%d has been opened.'
- msgstr 'タスク #%d を作成しました'
- msgid 'The task #%d has been closed.'
- msgstr 'タスク #%d を完了しました'
- msgid 'Sub-task updated'
- msgstr 'サブタスクの更新'
- msgid 'Title:'
- msgstr 'タイトル：'
- msgid 'Status:'
- msgstr 'ステータス：'
- msgid 'Assignee:'
- msgstr '担当：'
- msgid 'Time tracking:'
- msgstr '時間計測：'
- msgid 'New sub-task'
- msgstr '新しいサブタスク'
- msgid 'New attachment added "%s"'
- msgstr '添付ファイル「%s」が追加されました'
- msgid 'New comment posted by %s'
- msgstr '「%s」の新しいコメントが追加されました'
- msgid 'New comment'
- msgstr '新しいコメント'
- msgid 'Comment updated'
- msgstr 'コメントが更新されました'
- msgid 'New subtask'
- msgstr '新しいサブタスク'
- msgid 'I only want to receive notifications for these projects:'
- msgstr '以下のプロジェクトにのみ通知を受け取る：'
- msgid 'view the task on Kanboard'
- msgstr 'Kanboard でタスクを見る'
- msgid 'Public access'
- msgstr '公開アクセス'
- msgid 'Disable public access'
- msgstr '公開アクセスを無効にする'
- msgid 'Enable public access'
- msgstr '公開アクセスを有効にする'
- msgid 'Public access disabled'
- msgstr '公開アクセスは無効化されています'
- msgid 'Move the task to another project'
- msgstr 'タスクを別プロジェクトに移動'
- msgid 'Move to project'
- msgstr '別プロジェクトに移動'
- msgid 'Do you really want to duplicate this task?'
- msgstr 'タスクを複製しますか？'
- msgid 'Duplicate a task'
- msgstr 'タスクの複製'
- msgid 'External accounts'
- msgstr '外部アカウント'
- msgid 'Account type'
- msgstr 'アカウントの種類'
- msgid 'Local'
- msgstr 'ローカル'
- msgid 'Remote'
- msgstr 'リモート'
- msgid 'Enabled'
- msgstr '有効'
- msgid 'Disabled'
- msgstr '無効'
- msgid 'Login:'
- msgstr 'ユーザー名：'
- msgid 'Full Name:'
- msgstr '名前：'
- msgid 'Email:'
- msgstr 'Email：'
- msgid 'Notifications:'
- msgstr '通知：'
- msgid 'Notifications'
- msgstr '通知'
- msgid 'Account type:'
- msgstr 'アカウントの種類：'
- msgid 'Edit profile'
- msgstr 'プロフィールの編集'
- msgid 'Change password'
- msgstr 'パスワードの変更'
- msgid 'Password modification'
- msgstr 'パスワードの変更'
- msgid 'External authentications'
- msgstr '外部認証'
- msgid 'Never connected.'
- msgstr '未接続'
- msgid 'No external authentication enabled.'
- msgstr '外部認証が設定されていません'
- msgid 'Password modified successfully.'
- msgstr 'パスワードを変更しました'
- msgid 'Unable to change the password.'
- msgstr 'パスワードを変更できませんでした'
- msgid 'Change category'
- msgstr 'カテゴリの変更'
- msgid '%s updated the task %s'
- msgstr '%s がタスク %s を更新しました'
- msgid '%s opened the task %s'
- msgstr '%s がタスク %s を作成しました'
- msgid '%s moved the task %s to the position #%d in the column "%s"'
- msgstr '%s がタスク %s をポジション #%d カラム %s に移動しました'
- msgid '%s moved the task %s to the column "%s"'
- msgstr '%s がタスク %s をカラム「%s」に移動しました'
- msgid '%s created the task %s'
- msgstr '%s がタスク %s を作成しました'
- msgid '%s closed the task %s'
- msgstr '%s がタスク %s を完了しました'
- msgid '%s created a subtask for the task %s'
- msgstr '%s がタスク %s のサブタスクを追加しました'
- msgid '%s updated a subtask for the task %s'
- msgstr '%s がタスク %s のサブタスクを更新しました'
- msgid 'Assigned to %s with an estimate of %s/%sh'
- msgstr '担当者 %s は見積を %s/%s時間 に変更しました'
- msgid 'Not assigned, estimate of %sh'
- msgstr '担当者無しで見積を %s時間 に変更しました'
- msgid '%s updated a comment on the task %s'
- msgstr '%s がタスク %s のコメントを更新しました'
- msgid '%s commented the task %s'
- msgstr '%s がタスク %s にコメントしました'
- msgid '%s\'s activity'
- msgstr '%s の活動状況'
- msgid 'RSS feed'
- msgstr 'RSS フィード'
- msgid '%s updated a comment on the task #%d'
- msgstr '%s がタスク #%d のコメントを更新しました'
- msgid '%s commented on the task #%d'
- msgstr '%s がタスク #%d にコメントしました'
- msgid '%s updated a subtask for the task #%d'
- msgstr '%s がタスク #%d のサブタスクを更新しました'
- msgid '%s created a subtask for the task #%d'
- msgstr '%s がタスク #%d のサブタスクを追加しました'
- msgid '%s updated the task #%d'
- msgstr '%s がタスク #%d を更新しました'
- msgid '%s created the task #%d'
- msgstr '%s がタスク #%d を追加しました'
- msgid '%s closed the task #%d'
- msgstr '%s がタスク #%d を完了しました'
- msgid '%s opened the task #%d'
- msgstr '%s がタスク #%d を作成しました'
- msgid 'Activity'
- msgstr '活動状況'
- msgid 'Default values are "%s"'
- msgstr '既定値は「%s」'
- msgid 'Default columns for new projects (Comma-separated)'
- msgstr '新規プロジェクトの既定カラム (コンマで区切って入力)'
- msgid 'Task assignee change'
- msgstr '担当者の変更'
- msgid '%s changed the assignee of the task #%d to %s'
- msgstr '%s がタスク #%d の担当を %s に変更しました'
- msgid '%s changed the assignee of the task %s to %s'
- msgstr '%s がタスク %s の担当を %s に変更しました'
- msgid 'New password for the user "%s"'
- msgstr 'ユーザー「%s」の新しいパスワード'
- msgid 'Choose an event'
- msgstr 'イベントの選択'
- msgid 'Create a task from an external provider'
- msgstr 'タスクを外部サービスから作成'
- msgid 'Change the assignee based on an external username'
- msgstr '担当者を外部サービスに基いて変更'
- msgid 'Change the category based on an external label'
- msgstr 'カテゴリを外部サービスに基いて変更'
- msgid 'Reference'
- msgstr '参照'
- msgid 'Label'
- msgstr 'ラベル'
- msgid 'Database'
- msgstr 'データベース'
- msgid 'About'
- msgstr '情報'
- msgid 'Database driver:'
- msgstr 'データベースドライバ：'
- msgid 'Board settings'
- msgstr '基本設定'
- msgid 'Webhook settings'
- msgstr 'Webhook の設定'
- msgid 'Reset token'
- msgstr 'トークンのリセット'
- msgid 'API endpoint:'
- msgstr 'API エンドポイント：'
- msgid 'Refresh interval for personal board'
- msgstr '非公開ボードの更新頻度'
- msgid 'Refresh interval for public board'
- msgstr '公開ボードの更新頻度'
- msgid 'Task highlight period'
- msgstr 'タスクのハイライト期間'
- msgid 'Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)'
- msgstr 'タスクが最近更新されたとみなす期間(0 はハイライト無効、既定 2 日)'
- msgid 'Frequency in second (60 seconds by default)'
- msgstr '秒数 (既定 60 秒)'
- msgid 'Frequency in second (0 to disable this feature, 10 seconds by default)'
- msgstr '秒数 (0 は機能を無効化、既定 10 秒)'
- msgid 'Application URL'
- msgstr 'アプリケーションの URL'
- msgid 'Token regenerated.'
- msgstr 'トークンが再生成されました'
- msgid 'Date format'
- msgstr 'データのフォーマット'
- msgid 'ISO format is always accepted, example: "%s" and "%s"'
- msgstr 'ISO フォーマットが入力できます(例: %s または %s)'
- msgid 'New personal project'
- msgstr '非公開プロジェクト作成'
- msgid 'This project is personal'
- msgstr 'このプロジェクトは非公開です'
- msgid 'Add'
- msgstr '追加'
- msgid 'Start date'
- msgstr '開始時間'
- msgid 'Time estimated'
- msgstr '見積時間'
- msgid 'There is nothing assigned to you.'
- msgstr '何もアサインされていません'
- msgid 'My tasks'
- msgstr '自分のタスク'
- msgid 'Activity stream'
- msgstr '活動状況'
- msgid 'Dashboard'
- msgstr 'ダッシュボード'
- msgid 'Confirmation'
- msgstr '確認'
- msgid 'Webhooks'
- msgstr 'Webhook'
- msgid 'API'
- msgstr 'API'
- msgid 'Create a comment from an external provider'
- msgstr '外部サービスからコメントを作成'
- msgid 'Project management'
- msgstr 'プロジェクト管理'
- msgid 'Columns'
- msgstr 'カラム'
- msgid 'Task'
- msgstr 'タスク'
- msgid 'Percentage'
- msgstr '割合'
- msgid 'Number of tasks'
- msgstr 'タスク数'
- msgid 'Task distribution'
- msgstr 'タスク分布'
- msgid 'Analytics'
- msgstr '分析'
- msgid 'Subtask'
- msgstr 'サブタスク'
- msgid 'User repartition'
- msgstr '担当者分布'
- msgid 'Clone this project'
- msgstr 'このプロジェクトを複製'
- msgid 'Column removed successfully.'
- msgstr 'カラムを削除しました'
- msgid 'Not enough data to show the graph.'
- msgstr 'グラフを描画するためのデータが不足しています'
- msgid 'Previous'
- msgstr '戻る'
- msgid 'The id must be an integer'
- msgstr 'id は数字でなければなりません'
- msgid 'The project id must be an integer'
- msgstr 'project id は数字でなければなりません'
- msgid 'The status must be an integer'
- msgstr 'status は数字でなければなりません'
- msgid 'The subtask id is required'
- msgstr 'subtask id が必要です'
- msgid 'The subtask id must be an integer'
- msgstr 'subtask id は数字でなければなりません'
- msgid 'The task id is required'
- msgstr 'task id が必要です'
- msgid 'The task id must be an integer'
- msgstr 'task id は数字でなければなりません'
- msgid 'The user id must be an integer'
- msgstr 'user id は数字でなければなりません'
- msgid 'This value is required'
- msgstr 'この値が必要です'
- msgid 'This value must be numeric'
- msgstr 'この値は数字でなければなりません'
- msgid 'Unable to create this task.'
- msgstr 'このタスクを作成できませんでした'
- msgid 'Cumulative flow diagram'
- msgstr '累積フロー図'
- msgid 'Daily project summary'
- msgstr '日時プロジェクトサマリー'
- msgid 'Daily project summary export'
- msgstr '日時プロジェクトサマリーの出力'
- msgid 'Exports'
- msgstr '出力'
- msgid 'This export contains the number of tasks per column grouped per day.'
- msgstr 'この出力は日時のカラムごとのタスク数を集計したものです'
- msgid 'Active swimlanes'
- msgstr 'アクティブなスイムレーン'
- msgid 'Add a new swimlane'
- msgstr '新しいスイムレーン'
- msgid 'Default swimlane'
- msgstr '既定スイムレーン'
- msgid 'Do you really want to remove this swimlane: "%s"?'
- msgstr 'スイムレーン「%s」を削除しますか？'
- msgid 'Inactive swimlanes'
- msgstr '無効なスイムレーン'
- msgid 'Remove a swimlane'
- msgstr 'スイムレーンの削除'
- msgid 'Swimlane modification for the project "%s"'
- msgstr '「%s」に対するスイムレーン変更'
- msgid 'Swimlane removed successfully.'
- msgstr 'スイムレーンを削除しました'
- msgid 'Swimlanes'
- msgstr 'スイムレーン'
- msgid 'Swimlane updated successfully.'
- msgstr 'スイムレーンを更新しました'
- msgid 'Unable to remove this swimlane.'
- msgstr 'スイムレーンを削除できませんでした'
- msgid 'Unable to update this swimlane.'
- msgstr 'スイムレーンを更新できませんでした'
- msgid 'Your swimlane has been created successfully.'
- msgstr 'スイムレーンが作成されました'
- msgid 'Example: "Bug, Feature Request, Improvement"'
- msgstr '例: バグ, 機能, 改善'
- msgid 'Default categories for new projects (Comma-separated)'
- msgstr '新しいプロジェクトの既定カテゴリー (コンマ区切り)'
- msgid 'Integrations'
- msgstr '連携'
- msgid 'Integration with third-party services'
- msgstr 'サードパーティサービスとの連携'
- msgid 'Subtask Id'
- msgstr 'サブタスク Id'
- msgid 'Subtasks'
- msgstr 'サブタスク'
- msgid 'Subtasks Export'
- msgstr 'サブタスクの出力'
- msgid 'Task Title'
- msgstr 'タスクタイトル'
- msgid 'Untitled'
- msgstr 'タイトル無し'
- msgid 'Application default'
- msgstr 'アプリケーションの既定値'
- msgid 'Language:'
- msgstr '言語：'
- msgid 'Timezone:'
- msgstr 'タイムゾーン：'
- msgid 'All columns'
- msgstr '全てのカラム'
- msgid 'Next'
- msgstr '次へ'
- msgid '#%d'
- msgstr '#%d'
- msgid 'All swimlanes'
- msgstr '全てのスイムレーン'
- msgid 'All colors'
- msgstr '全ての色'
- msgid 'Moved to column %s'
- msgstr 'カラム %s へ移動しました'
- msgid 'User dashboard'
- msgstr 'ユーザーダッシュボード'
- msgid 'Allow only one subtask in progress at the same time for a user'
- msgstr '1ユーザーにつき1件のタスクのみを進行中にできるよう制限'
- msgid 'Edit column "%s"'
- msgstr 'カラム「%s」の編集'
- msgid 'Select the new status of the subtask: "%s"'
- msgstr 'サブタスク「%s」のステータスを選択'
- msgid 'Subtask timesheet'
- msgstr 'サブタスクのタイムシート'
- msgid 'There is nothing to show.'
- msgstr '何も表示するものがありません'
- msgid 'Time Tracking'
- msgstr '時間の追跡'
- msgid 'You already have one subtask in progress'
- msgstr 'すでに進行中のサブタスクがあります'
- msgid 'Which parts of the project do you want to duplicate?'
- msgstr 'プロジェクトの何を複製しますか？'
- msgid 'Disallow login form'
- msgstr 'ログインフォームからのログインを許可しない'
- msgid 'Start'
- msgstr '開始'
- msgid 'End'
- msgstr '終了'
- msgid 'Task age in days'
- msgstr 'タスクの経過日数'
- msgid 'Days in this column'
- msgstr 'カラムでの経過日数'
- msgid '%dd'
- msgstr '%d 日'
- msgid 'Add a new link'
- msgstr '新しいリンクの追加'
- msgid 'Do you really want to remove this link: "%s"?'
- msgstr 'リンク「%s」を削除しますか？'
- msgid 'Do you really want to remove this link with task #%d?'
- msgstr 'タスク#%dとのリンクを削除しますか？'
- msgid 'Field required'
- msgstr 'フィールドが必要です'
- msgid 'Link added successfully.'
- msgstr 'リンクを追加しました'
- msgid 'Link updated successfully.'
- msgstr 'リンクを更新しました'
- msgid 'Link removed successfully.'
- msgstr 'リンクを削除しました'
- msgid 'Link labels'
- msgstr 'リンクラベル'
- msgid 'Link modification'
- msgstr 'リンクの変更'
- msgid 'Opposite label'
- msgstr '反対のラベル'
- msgid 'Remove a link'
- msgstr 'ラベルの削除'
- msgid 'The labels must be different'
- msgstr '異なるラベルを指定してください'
- msgid 'There is no link.'
- msgstr 'リンクがありません'
- msgid 'This label must be unique'
- msgstr 'ラベルはユニークである必要があります'
- msgid 'Unable to create your link.'
- msgstr 'リンクを作成できませんでした'
- msgid 'Unable to update your link.'
- msgstr 'リンクを更新できませんでした'
- msgid 'Unable to remove this link.'
- msgstr 'リンクを削除できませんでした'
- msgid 'relates to'
- msgstr '次に関連します'
- msgid 'blocks'
- msgstr '次をブロックしています'
- msgid 'is blocked by'
- msgstr '次にブロックされています'
- msgid 'duplicates'
- msgstr '次に重複しています'
- msgid 'is duplicated by'
- msgstr '次に重複しています'
- msgid 'is a child of'
- msgstr '次の子タスクです　'
- msgid 'is a parent of'
- msgstr '次の親タスクです'
- msgid 'targets milestone'
- msgstr '次のマイルストーンを目標とします'
- msgid 'is a milestone of'
- msgstr '次のタスクのマイルストーンです'
- msgid 'fixes'
- msgstr '次を修正します'
- msgid 'is fixed by'
- msgstr '次に修正されます'
- msgid 'This task'
- msgstr 'このタスクは'
- msgid '<1h'
- msgstr '<１時間'
- msgid '%dh'
- msgstr '%d 時間'
- msgid 'Expand tasks'
- msgstr 'タスクを詳細表示'
- msgid 'Collapse tasks'
- msgstr 'タスクを簡略表示'
- msgid 'Expand/collapse tasks'
- msgstr 'タスクの展開／閉じる'
- msgid 'Close dialog box'
- msgstr 'ダイアログボックスを閉じる'
- msgid 'Submit a form'
- msgstr 'フォームを送信'
- msgid 'Board view'
- msgstr 'ボードビュー'
- msgid 'Keyboard shortcuts'
- msgstr 'キーボードショートカット'
- msgid 'Open board switcher'
- msgstr 'ボード切り替えを開く'
- msgid 'Application'
- msgstr 'アプリケーション'
- msgid 'Compact view'
- msgstr 'コンパクトビュー'
- msgid 'Horizontal scrolling'
- msgstr '横スクロール'
- msgid 'Compact/wide view'
- msgstr 'コンパクト／ワイドビュー'
- msgid 'Currency'
- msgstr '通貨'
- msgid 'Personal project'
- msgstr '非公開プロジェクト'
- msgid 'AUD - Australian Dollar'
- msgstr 'AUD - 豪ドル'
- msgid 'CAD - Canadian Dollar'
- msgstr 'CAD - 加ドル'
- msgid 'CHF - Swiss Francs'
- msgstr 'CHF - スイスフラン'
- msgid 'Custom Stylesheet'
- msgstr 'カスタムスタイルシート'
- msgid 'EUR - Euro'
- msgstr 'EUR - ユーロ'
- msgid 'GBP - British Pound'
- msgstr 'GBP - 独ポンド'
- msgid 'INR - Indian Rupee'
- msgstr 'INR - 伊ルピー'
- msgid 'JPY - Japanese Yen'
- msgstr 'JPY - 日本円'
- msgid 'NZD - New Zealand Dollar'
- msgstr 'NZD - NZ ドル'
- msgid 'RSD - Serbian dinar'
- msgstr 'RSD - セルビアデナール'
- msgid 'CNY - Chinese Yuan'
- msgstr 'CNY - 中国元'
- msgid 'USD - US Dollar'
- msgstr 'USD - 米ドル'
- msgid 'VES - Venezuelan Bolívar'
- msgstr ''
- msgid 'Destination column'
- msgstr '移動先のカラム'
- msgid 'Move the task to another column when assigned to a user'
- msgstr 'ユーザーの割当てをしたらタスクを他のカラムに移動'
- msgid 'Move the task to another column when assignee is cleared'
- msgstr 'ユーザーの割当てがなくなったらタスクを他のカラムに移動'
- msgid 'Source column'
- msgstr '移動元のカラム'
- msgid 'Transitions'
- msgstr '履歴'
- msgid 'Executer'
- msgstr '実行者'
- msgid 'Time spent in the column'
- msgstr 'カラムでの経過時間'
- msgid 'Task transitions'
- msgstr 'タスクの遷移'
- msgid 'Task transitions export'
- msgstr 'タスクの遷移を出力'
- msgid 'This report contains all column moves for each task with the date, the user and the time spent for each transition.'
- msgstr 'このレポートはタスクのカラム間における移動を時間、ユーザー、経過時間と共に記録した物です'
- msgid 'Currency rates'
- msgstr '為替レート'
- msgid 'Rate'
- msgstr 'レート'
- msgid 'Change reference currency'
- msgstr '現在の基軸通貨'
- msgid 'Reference currency'
- msgstr '基軸通貨'
- msgid 'The currency rate has been added successfully.'
- msgstr '通貨レートが正常に追加されました'
- msgid 'Unable to add this currency rate.'
- msgstr 'この通貨レートを追加できません'
- msgid 'Webhook URL'
- msgstr 'Webhook URL'
- msgid '%s removed the assignee of the task %s'
- msgstr '%s がタスク「%s」の担当を解除しました'
- msgid 'Information'
- msgstr '情報　'
- msgid 'Check two factor authentication code'
- msgstr '二要素認証を確認'
- msgid 'The two factor authentication code is not valid.'
- msgstr '二要素認証コードは無効です'
- msgid 'The two factor authentication code is valid.'
- msgstr '二要素認証コードは有効です'
- msgid 'Code'
- msgstr 'コード'
- msgid 'Two factor authentication'
- msgstr '二要素認証'
- msgid 'This QR code contains the key URI: '
- msgstr 'この QR　コードが URI キーを含んでいます：'
- msgid 'Check my code'
- msgstr '自分のコードをチェック'
- msgid 'Secret key: '
- msgstr '秘密鍵：'
- msgid 'Test your device'
- msgstr 'あなたのデバイスをテスト'
- msgid 'Assign a color when the task is moved to a specific column'
- msgstr 'タスクが特定のカラムに移動した時の色を設定'
- msgid '%s via Kanboard'
- msgstr '%s by Kanboard'
- msgid 'Burndown chart'
- msgstr 'バーンダウンチャート'
- msgid 'This chart show the task complexity over the time (Work Remaining).'
- msgstr 'グラフは、時間の経過とともにタスクの複雑さを示しています（残っている作業）'
- msgid 'Screenshot taken %s'
- msgstr 'スクリーンショット %s'
- msgid 'Add a screenshot'
- msgstr 'スクリーンショットを追加'
- msgid 'Take a screenshot and press CTRL+V or ⌘+V to paste here.'
- msgstr 'スクリーンショットを撮りCTRL + Vまたは⌘+ Vを押してここに貼り付けてください'
- msgid 'Screenshot uploaded successfully.'
- msgstr 'スクリーンショットが正常にアップロードされました'
- msgid 'SEK - Swedish Krona'
- msgstr 'SEK - スウェーデン　クローナ'
- msgid 'Identifier'
- msgstr '識別子'
- msgid 'Disable two factor authentication'
- msgstr '二要素認証を無効にする'
- msgid 'Do you really want to disable the two factor authentication for this user: "%s"?'
- msgstr '本当にユーザー「%s」の二要素認証を無効にしますか？'
- msgid 'Edit link'
- msgstr 'リンクを編集'
- msgid 'Start to type task title...'
- msgstr 'タスクタイトルを入力...'
- msgid 'A task cannot be linked to itself'
- msgstr 'タスク自身へのリンクはできません'
- msgid 'The exact same link already exists'
- msgstr '同じリンクが既に存在しています'
- msgid 'Recurrent task is scheduled to be generated'
- msgstr '反復タスクが生成されるようにスケジュールされています'
- msgid 'Score'
- msgstr 'スコア'
- msgid 'The identifier must be unique'
- msgstr '識別子はユニークでなければなりません'
- msgid 'This linked task id doesn\'t exists'
- msgstr 'リンクされたタスクIDは存在しません'
- msgid 'This value must be alphanumeric'
- msgstr '英数字で入力ください'
- msgid 'Edit recurrence'
- msgstr '反復タスクの編集'
- msgid 'Generate recurrent task'
- msgstr '反復タスクを生成'
- msgid 'Trigger to generate recurrent task'
- msgstr '反復タスクを生成するためのトリガ'
- msgid 'Factor to calculate new due date'
- msgstr '新しい期限を計算する要素'
- msgid 'Timeframe to calculate new due date'
- msgstr '新しい期限を計算するための時間枠'
- msgid 'Base date to calculate new due date'
- msgstr '新しい期限を計算するための基準日'
- msgid 'Action date'
- msgstr '実行日'
- msgid 'Base date to calculate new due date: '
- msgstr '新しい期限を計算するための基準日：'
- msgid 'This task has created this child task: '
- msgstr 'このタスクはこの子タスクを作成しました：'
- msgid 'Day(s)'
- msgstr '日'
- msgid 'Existing due date'
- msgstr '既存の予定日'
- msgid 'Factor to calculate new due date: '
- msgstr '新しい期限を計算する要素：'
- msgid 'Month(s)'
- msgstr 'ヶ月'
- msgid 'This task has been created by: '
- msgstr 'タスク作成者'
- msgid 'Recurrent task has been generated:'
- msgstr '反復タスクが生成されました：'
- msgid 'Timeframe to calculate new due date: '
- msgstr '新しい期限を計算する時間枠：'
- msgid 'Trigger to generate recurrent task: '
- msgstr '反復タスクを生成するためのトリガー：'
- msgid 'When task is closed'
- msgstr 'タスクが完了したとき'
- msgid 'When task is moved from first column'
- msgstr 'タスクが最初のカラムから移動されたとき'
- msgid 'When task is moved to last column'
- msgstr 'タスクが最後のカラムに移動したとき'
- msgid 'Year(s)'
- msgstr '年'
- msgid 'Project settings'
- msgstr 'プロジェクト設定'
- msgid 'Automatically update the start date'
- msgstr '開始日を自動的に更新'
- msgid 'iCal feed'
- msgstr 'iCal 配信'
- msgid 'Preferences'
- msgstr 'プリファレンス'
- msgid 'Security'
- msgstr 'セキュリティ'
- msgid 'Two factor authentication disabled'
- msgstr '二要素認証は無効です'
- msgid 'Two factor authentication enabled'
- msgstr '二要素認証は有効です'
- msgid 'Unable to update this user.'
- msgstr 'このユーザーを更新できません'
- msgid 'There is no user management for personal projects.'
- msgstr '非公開プロジェクトのためのユーザー管理はありません'
- msgid 'User that will receive the email'
- msgstr 'メールを受信するユーザー'
- msgid 'Email subject'
- msgstr 'メールの件名'
- msgid 'Date'
- msgstr '日付'
- msgid 'Add a comment log when moving the task between columns'
- msgstr 'カラム間でタスクを移動するときにコメントログを追加'
- msgid 'Move the task to another column when the category is changed'
- msgstr 'カテゴリが変更されたときにタスクを別のカラムに移動'
- msgid 'Send a task by email to someone'
- msgstr 'タスクをメールで送信'
- msgid 'Reopen a task'
- msgstr 'タスクを再開'
- msgid 'Notification'
- msgstr '通知'
- msgid '%s moved the task #%d to the first swimlane'
- msgstr '%sはタスク＃%dを最初のスイムレーンに移動しました'
- msgid 'Swimlane'
- msgstr 'スイムレーン'
- msgid '%s moved the task %s to the first swimlane'
- msgstr '%sはタスク%sを最初のスイムレーンに移動しました'
- msgid '%s moved the task %s to the swimlane "%s"'
- msgstr '%sはタスク%sをスイムレーン "%s"に移動しました'
- msgid 'This report contains all subtasks information for the given date range.'
- msgstr 'このレポートには、指定した期間のすべてのサブタスク情報が含まれています'
- msgid 'This report contains all tasks information for the given date range.'
- msgstr 'このレポートには、指定した期間のすべてのタスク情報が含まれます'
- msgid 'Project activities for %s'
- msgstr '%sのプロジェクトの活動状況'
- msgid 'view the board on Kanboard'
- msgstr 'Kanboard上のボードを見る'
- msgid 'The task has been moved to the first swimlane'
- msgstr 'タスクは最初のスイムレーンに移動されました'
- msgid 'The task has been moved to another swimlane:'
- msgstr 'タスクは次のスイムレーンに移動しました：'
- msgid 'New title: %s'
- msgstr '新しいタイトル：%s'
- msgid 'The task is not assigned anymore'
- msgstr 'タスクはもう割当てられません'
- msgid 'New assignee: %s'
- msgstr '新しい担当者：%s'
- msgid 'There is no category now'
- msgstr 'カテゴリはありません'
- msgid 'New category: %s'
- msgstr '新しいカテゴリ：%s'
- msgid 'New color: %s'
- msgstr '新しい色：%s'
- msgid 'New complexity: %d'
- msgstr '新しい複雑さ：%d'
- msgid 'The due date has been removed'
- msgstr '期限が削除されました'
- msgid 'There is no description anymore'
- msgstr '説明はありません'
- msgid 'Recurrence settings has been modified'
- msgstr '反復設定が変更されました'
- msgid 'Time spent changed: %sh'
- msgstr '経過時間が変更されました：%sh'
- msgid 'Time estimated changed: %sh'
- msgstr '見積時間が変更されました：%sh'
- msgid 'The field "%s" has been updated'
- msgstr 'フィールド "%s"は更新されました'
- msgid 'The description has been modified:'
- msgstr '説明が変更されました：'
- msgid 'Do you really want to close the task "%s" as well as all subtasks?'
- msgstr 'タスク"%s"と、すべてのサブタスクを完了しますか？'
- msgid 'I want to receive notifications for:'
- msgstr '次の通知を受信します：'
- msgid 'All tasks'
- msgstr 'すべてのタスク'
- msgid 'Only for tasks assigned to me'
- msgstr '自分のタスクのみ'
- msgid 'Only for tasks created by me'
- msgstr '自分が作成したタスクのみ'
- msgid 'Only for tasks created by me and tasks assigned to me'
- msgstr '自分が作成した自分のタスクのみ'
- msgid '%%Y-%%m-%%d'
- msgstr '%%Y-%%m-%%d'
- msgid 'Total for all columns'
- msgstr 'すべてのカラムの合計'
- msgid 'You need at least 2 days of data to show the chart.'
- msgstr 'グラフを表示するには最低2日間のデータが必要です'
- msgid '<15m'
- msgstr '15分未満'
- msgid '<30m'
- msgstr '30分未満'
- msgid 'Stop timer'
- msgstr 'タイマー停止'
- msgid 'Start timer'
- msgstr 'タイマー開始'
- msgid 'My activity stream'
- msgstr '自分の活動状況'
- msgid 'Search tasks'
- msgstr 'タスクを検索'
- msgid 'Reset filters'
- msgstr 'フィルターをリセット'
- msgid 'My tasks due tomorrow'
- msgstr '明日の自分のタスク'
- msgid 'Tasks due today'
- msgstr '今日のタスク'
- msgid 'Tasks due tomorrow'
- msgstr '明日のタスク'
- msgid 'Tasks due yesterday'
- msgstr '昨日のタスク'
- msgid 'Closed tasks'
- msgstr '完了タスク'
- msgid 'Open tasks'
- msgstr '未完了タスク'
- msgid 'Not assigned'
- msgstr '未割当'
- msgid 'View advanced search syntax'
- msgstr '詳細検索の構文を見る'
- msgid 'Overview'
- msgstr '概要'
- msgid 'Board/Calendar/List view'
- msgstr 'ボード/カレンダー/リストビュー'
- msgid 'Switch to the board view'
- msgstr 'ボードビューに切替'
- msgid 'Switch to the list view'
- msgstr 'リストビューに切替'
- msgid 'Go to the search/filter box'
- msgstr '検索/フィルタボックスに移動'
- msgid 'There is no activity yet.'
- msgstr 'まだ活動状況はありません'
- msgid 'No tasks found.'
- msgstr 'タスクが見つかりません'
- msgid 'Keyboard shortcut: "%s"'
- msgstr 'キーボード・ショートカット： "%s"'
- msgid 'List'
- msgstr 'リスト'
- msgid 'Filter'
- msgstr 'フィルター'
- msgid 'Advanced search'
- msgstr '詳細検索'
- msgid 'Example of query: '
- msgstr 'クエリの例：'
- msgid 'Search by project: '
- msgstr 'プロジェクトで検索：'
- msgid 'Search by column: '
- msgstr 'カラムで検索：'
- msgid 'Search by assignee: '
- msgstr '担当者で検索：'
- msgid 'Search by color: '
- msgstr '色で検索：'
- msgid 'Search by category: '
- msgstr 'カテゴリで検索：'
- msgid 'Search by description: '
- msgstr '説明で検索：'
- msgid 'Search by due date: '
- msgstr '期限で検索：'
- msgid 'Average time spent in each column'
- msgstr '各カラムで経過した時間の平均'
- msgid 'Average time spent'
- msgstr '平均経過時間'
- msgid 'This chart shows the average time spent in each column for the last %d tasks.'
- msgstr 'このグラフは最後の%d個のタスクに対して各カラムで経過した平均時間を示しています'
- msgid 'Average Lead and Cycle time'
- msgstr '平均リードタイム・平均サイクルタイム'
- msgid 'Average lead time: '
- msgstr '平均リードタイム：'
- msgid 'Average cycle time: '
- msgstr '平均サイクルタイム：'
- msgid 'Cycle Time'
- msgstr 'サイクルタイム'
- msgid 'Lead Time'
- msgstr 'リードタイム'
- msgid 'This chart shows the average lead and cycle time for the last %d tasks over the time.'
- msgstr 'このグラフは時間の経過に伴う最後の%d個のタスクの平均リードタイムとサイクルタイムを示します'
- msgid 'Average time into each column'
- msgstr '各カラムの平均時間'
- msgid 'Lead and cycle time'
- msgstr 'リード／サイクルタイム'
- msgid 'Lead time: '
- msgstr 'リードタイム：'
- msgid 'Cycle time: '
- msgstr 'サイクルタイム：'
- msgid 'Time spent in each column'
- msgstr '各カラムの経過時間'
- msgid 'The lead time is the duration between the task creation and the completion.'
- msgstr 'リードタイムはタスクの作成〜完了まで時間です'
- msgid 'The cycle time is the duration between the start date and the completion.'
- msgstr 'サイクルタイムは着手〜完了までの期間です'
- msgid 'If the task is not closed the current time is used instead of the completion date.'
- msgstr 'タスクが終了していない場合は完了日の代わりに現在時刻を使用します'
- msgid 'Set the start date automatically'
- msgstr '開始日を自動的に設定'
- msgid 'Edit Authentication'
- msgstr '認証の編集'
- msgid 'Remote user'
- msgstr 'リモートユーザー'
- msgid 'Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts.'
- msgstr 'リモートユーザーはパスワードをKanboardデータベースに保存しません（例：LDAP、Google、Githubのアカウント）'
- msgid 'If you check the box "Disallow login form", credentials entered in the login form will be ignored.'
- msgstr '「ログインフォームを許可しない」チェックボックスをオンにすると、ログインフォームに入力された認証情報は無視されます'
- msgid 'Default task color'
- msgstr '規定のタスクカラー'
- msgid 'This feature does not work with all browsers.'
- msgstr 'この機能は一部のブラウザで動作しません'
- msgid 'There is no destination project available.'
- msgstr '利用可能なプロジェクトはありません'
- msgid 'Trigger automatically subtask time tracking'
- msgstr '自動的にサブタスク時間トラッキングを作動させる'
- msgid 'Include closed tasks in the cumulative flow diagram'
- msgstr '累積フロー図に完了したタスクを含める'
- msgid 'Current swimlane: %s'
- msgstr '現在のスイムレーン：%s'
- msgid 'Current column: %s'
- msgstr '現在のカラム：%s'
- msgid 'Current category: %s'
- msgstr '現在のカテゴリ：%s'
- msgid 'no category'
- msgstr 'カテゴリなし'
- msgid 'Current assignee: %s'
- msgstr '現在の担当者：%s'
- msgid 'not assigned'
- msgstr '未割当'
- msgid 'Author:'
- msgstr '著者：'
- msgid 'contributors'
- msgstr '協力者'
- msgid 'License:'
- msgstr 'ライセンス：'
- msgid 'License'
- msgstr 'ライセンス'
- msgid 'Enter the text below'
- msgstr 'テキストを入力'
- msgid 'Start date:'
- msgstr '開始日：'
- msgid 'Due date:'
- msgstr '期限：'
- msgid 'People who are project managers'
- msgstr 'プロジェクト管理者'
- msgid 'People who are project members'
- msgstr 'プロジェクトメンバー'
- msgid 'NOK - Norwegian Krone'
- msgstr 'NOK - ノルウェークローネ'
- msgid 'Show this column'
- msgstr 'このカラムを表示'
- msgid 'Hide this column'
- msgstr 'このカラムを隠す'
- msgid 'End date'
- msgstr '終了日'
- msgid 'Users overview'
- msgstr 'ユーザー概要'
- msgid 'Members'
- msgstr 'メンバー'
- msgid 'Shared project'
- msgstr '共有プロジェクト'
- msgid 'Project managers'
- msgstr 'プロジェクト管理者'
- msgid 'Projects list'
- msgstr 'プロジェクトリスト'
- msgid 'End date:'
- msgstr '終了日：'
- msgid 'Change task color when using a specific task link'
- msgstr '特定のタスクリンクを使用するとタスクの色を変更'
- msgid 'Task link creation or modification'
- msgstr 'タスクへのリンクの作成または変更'
- msgid 'Milestone'
- msgstr 'マイルストーン'
- msgid 'Reset the search/filter box'
- msgstr '検索/フィルタをリセット'
- msgid 'Documentation'
- msgstr 'ドキュメント'
- msgid 'Author'
- msgstr '著者'
- msgid 'Version'
- msgstr 'バージョン'
- msgid 'Plugins'
- msgstr 'プラグイン'
- msgid 'There is no plugin loaded.'
- msgstr 'プラグインがロードされていません'
- msgid 'My notifications'
- msgstr '自分の通知'
- msgid 'Custom filters'
- msgstr 'カスタムフィルタ'
- msgid 'Your custom filter has been created successfully.'
- msgstr 'カスタムフィルタを作成しました'
- msgid 'Unable to create your custom filter.'
- msgstr 'カスタムフィルタを作成できません'
- msgid 'Custom filter removed successfully.'
- msgstr 'カスタムフィルタを削除しました'
- msgid 'Unable to remove this custom filter.'
- msgstr 'このカスタムフィルタは削除できません'
- msgid 'Edit custom filter'
- msgstr 'カスタムフィルタを編集'
- msgid 'Your custom filter has been updated successfully.'
- msgstr 'カスタムフィルタを更新しました'
- msgid 'Unable to update custom filter.'
- msgstr 'カスタムフィルタを更新できません'
- msgid 'Web'
- msgstr 'Web'
- msgid 'New attachment on task #%d: %s'
- msgstr 'タスク＃%dの新しい添付ファイル：%s'
- msgid 'New comment on task #%d'
- msgstr 'タスク＃%dの新しいコメント'
- msgid 'Comment updated on task #%d'
- msgstr 'タスク＃%dで更新されたコメント'
- msgid 'New subtask on task #%d'
- msgstr 'タスク＃%dの新しいサブタスク'
- msgid 'Subtask updated on task #%d'
- msgstr 'タスク＃%dで更新されたサブタスク'
- msgid 'New task #%d: %s'
- msgstr '新しいタスク＃%d：%s'
- msgid 'Task updated #%d'
- msgstr 'タスクが更新されました＃%d'
- msgid 'Task #%d closed'
- msgstr 'タスク＃%dは完了しました'
- msgid 'Task #%d opened'
- msgstr 'タスク＃%dを作成しました'
- msgid 'Column changed for task #%d'
- msgstr 'タスク＃%dのカラムが変更されました'
- msgid 'New position for task #%d'
- msgstr 'タスク＃%dの新しい位置'
- msgid 'Swimlane changed for task #%d'
- msgstr 'タスク＃%dのスイムレーンが変更されました'
- msgid 'Assignee changed on task #%d'
- msgstr 'タスク＃%dの担当者が変更されました'
- msgid '%d overdue tasks'
- msgstr '%d 件の期限切れタスク'
- msgid 'Task #%d is overdue'
- msgstr 'タスク＃%dは期限切れです'
- msgid 'No notification.'
- msgstr '通知なし'
- msgid 'Mark all as read'
- msgstr 'すべてを既読にする'
- msgid 'Mark as read'
- msgstr '既読にする'
- msgid 'Total number of tasks in this column across all swimlanes'
- msgstr 'すべてのスイムレーンでこのカラムのタスクの合計'
- msgid 'Collapse swimlane'
- msgstr 'スイムレーンをたたむ'
- msgid 'Expand swimlane'
- msgstr 'スイムレーンを展開'
- msgid 'Add a new filter'
- msgstr 'フィルターを追加'
- msgid 'Share with all project members'
- msgstr 'プロジェクトメンバーと共有'
- msgid 'Shared'
- msgstr '共有済み'
- msgid 'Owner'
- msgstr '所有者'
- msgid 'Unread notifications'
- msgstr '未読通知'
- msgid 'Notification methods:'
- msgstr '通知方法：'
- msgid 'Unable to read your file'
- msgstr 'あなたのファイルを読むことができません'
- msgid '%d task(s) have been imported successfully.'
- msgstr '%d件のタスクが正常にインポートされました'
- msgid 'Nothing has been imported!'
- msgstr '何もインポートされていません！'
- msgid 'Import users from CSV file'
- msgstr 'CSVファイルからユーザーをインポート'
- msgid '%d user(s) have been imported successfully.'
- msgstr '%d人のユーザーが正常にインポートされました'
- msgid 'Comma'
- msgstr 'カンマ'
- msgid 'Semi-colon'
- msgstr 'セミコロン'
- msgid 'Tab'
- msgstr 'タブ'
- msgid 'Vertical bar'
- msgstr '縦棒'
- msgid 'Double Quote'
- msgstr '二重引用符'
- msgid 'Single Quote'
- msgstr '一重引用符'
- msgid '%s attached a file to the task #%d'
- msgstr '%sさんがタスクにファイルを添付しました＃%d'
- msgid 'There is no column or swimlane activated in your project!'
- msgstr 'あなたのプロジェクトではカラムやスイムレーンが有効になっていません！'
- msgid 'Append filter (instead of replacement)'
- msgstr '置換の代わりにフィルターを追加'
- msgid 'Append/Replace'
- msgstr '追加/置換'
- msgid 'Append'
- msgstr '追加'
- msgid 'Replace'
- msgstr '置換'
- msgid 'Import'
- msgstr 'インポート'
- msgid 'Change sorting'
- msgstr 'ソートの変更'
- msgid 'Tasks Importation'
- msgstr 'タスクのインポート'
- msgid 'Delimiter'
- msgstr '区切り'
- msgid 'Enclosure'
- msgstr 'エンクロージャ'
- msgid 'CSV File'
- msgstr 'CSVファイル'
- msgid 'Instructions'
- msgstr '指示'
- msgid 'Your file must use the predefined CSV format'
- msgstr 'ファイルは定義済みのCSV形式である必要があります'
- msgid 'Your file must be encoded in UTF-8'
- msgstr 'ファイルはUTF-8でエンコードする必要があります'
- msgid 'The first row must be the header'
- msgstr '最初の行は見出しでなければなりません'
- msgid 'Duplicates are not verified for you'
- msgstr '重複は検証されません'
- msgid 'The due date must use the ISO format: YYYY-MM-DD'
- msgstr '期限はISO形式である必要があります：YYYY-MM-DD'
- msgid 'Download CSV template'
- msgstr 'CSVテンプレートをダウンロード'
- msgid 'No external integration registered.'
- msgstr '外部統合が登録されていません'
- msgid 'Duplicates are not imported'
- msgstr '重複はインポートされません'
- msgid 'Usernames must be lowercase and unique'
- msgstr 'ユーザー名は小文字でユニークでなければなりません'
- msgid 'Passwords will be encrypted if present'
- msgstr 'パスワードがあれば暗号化されます'
- msgid '%s attached a new file to the task %s'
- msgstr '%sが、タスク %s に新しいファイルを添付しました'
- msgid 'Link type'
- msgstr 'リンクタイプ'
- msgid 'Assign automatically a category based on a link'
- msgstr 'リンクに基づいてカテゴリを自動的に割当てる'
- msgid 'BAM - Konvertible Mark'
- msgstr 'BAM - 兌換マルク'
- msgid 'Assignee Username'
- msgstr '担当者のユーザー名'
- msgid 'Assignee Name'
- msgstr '担当者名'
- msgid 'Groups'
- msgstr 'グループ'
- msgid 'Members of %s'
- msgstr '%sのメンバー'
- msgid 'New group'
- msgstr '新しいグループ'
- msgid 'Group created successfully.'
- msgstr 'グループは正常に作成されました'
- msgid 'Unable to create your group.'
- msgstr 'あなたのグループを作成できません'
- msgid 'Edit group'
- msgstr 'グループを編集'
- msgid 'Group updated successfully.'
- msgstr 'グループは正常に更新されました'
- msgid 'Unable to update your group.'
- msgstr 'あなたのグループを更新できません'
- msgid 'Add group member to "%s"'
- msgstr '「%s」にグループメンバーを追加'
- msgid 'Group member added successfully.'
- msgstr 'グループメンバーが正常に追加されました'
- msgid 'Unable to add group member.'
- msgstr 'グループメンバーを追加できません'
- msgid 'Remove user from group "%s"'
- msgstr 'グループ「%s」からユーザーを削除'
- msgid 'User removed successfully from this group.'
- msgstr 'このグループからユーザーが正常に削除されました'
- msgid 'Unable to remove this user from the group.'
- msgstr 'このユーザーをグループから削除できません'
- msgid 'Remove group'
- msgstr 'グループを削除'
- msgid 'Group removed successfully.'
- msgstr 'グループは正常に削除されました'
- msgid 'Unable to remove this group.'
- msgstr 'このグループを削除できません'
- msgid 'Project Permissions'
- msgstr 'プロジェクトの権限'
- msgid 'Manager'
- msgstr '組織の管理者'
- msgid 'Project Manager'
- msgstr 'プロジェクト管理者'
- msgid 'Project Member'
- msgstr 'プロジェクトメンバー'
- msgid 'Project Viewer'
- msgstr 'プロジェクトビューアー'
- msgid 'Your account is locked for %d minutes'
- msgstr 'あなたのアカウントは%d分間ロックされています'
- msgid 'Invalid captcha'
- msgstr '無効なcaptcha'
- msgid 'The name must be unique'
- msgstr '名前はユニークである必要があります'
- msgid 'View all groups'
- msgstr 'すべてのグループを表示'
- msgid 'There is no user available.'
- msgstr '利用可能なユーザーはありません'
- msgid 'Do you really want to remove the user "%s" from the group "%s"?'
- msgstr 'ユーザー「%s」をグループ「%s」から削除しますか？'
- msgid 'There is no group.'
- msgstr 'グループはありません'
- msgid 'Add group member'
- msgstr 'グループメンバーを追加'
- msgid 'Do you really want to remove this group: "%s"?'
- msgstr 'グループ「%s」を削除しますか？'
- msgid 'There is no user in this group.'
- msgstr 'このグループにはユーザーがいません'
- msgid 'Permissions'
- msgstr '権限'
- msgid 'Allowed Users'
- msgstr '許可されたユーザー'
- msgid 'No specific user has been allowed.'
- msgstr '許可されたユーザーはありません'
- msgid 'Role'
- msgstr '役割'
- msgid 'Enter user name...'
- msgstr 'ユーザー名を入力...'
- msgid 'Allowed Groups'
- msgstr '許可されたグループ'
- msgid 'No group has been allowed.'
- msgstr '許可されたグループはありません'
- msgid 'Group'
- msgstr 'グループ'
- msgid 'Group Name'
- msgstr 'グループ名'
- msgid 'Enter group name...'
- msgstr 'グループ名を入力...'
- msgid 'Role:'
- msgstr '役割：'
- msgid 'Project members'
- msgstr 'プロジェクトメンバー'
- msgid '%s mentioned you in the task #%d'
- msgstr '%sはタスク#%dであなたのことに言及しました'
- msgid '%s mentioned you in a comment on the task #%d'
- msgstr '%sはタスク#%dのコメントであなたのことに言及しました'
- msgid 'You were mentioned in the task #%d'
- msgstr 'タスク#%dであなたのことが言及されました'
- msgid 'You were mentioned in a comment on the task #%d'
- msgstr 'タスク#%dのコメントであなたのことが言及されました'
- msgid 'Estimated hours: '
- msgstr '見積時間：'
- msgid 'Actual hours: '
- msgstr '実際の時間：'
- msgid 'Hours Spent'
- msgstr '時間（経過）'
- msgid 'Hours Estimated'
- msgstr '時間（見積）'
- msgid 'Estimated Time'
- msgstr '見積時間'
- msgid 'Actual Time'
- msgstr '実際の時間'
- msgid 'Estimated vs actual time'
- msgstr '見積時間と実際の時間'
- msgid 'RUB - Russian Ruble'
- msgstr '露ルーブル'
- msgid 'Assign the task to the person who does the action when the column is changed'
- msgstr 'カラムが変更されたときにアクションを実行する人にタスクを割当てる'
- msgid 'Close a task in a specific column'
- msgstr '特定のカラムのタスクを完了させる'
- msgid 'Time-based One-time Password Algorithm'
- msgstr '時間基準のワンタイム・パスワード・アルゴリズム'
- msgid 'Two-Factor Provider: '
- msgstr '二要素認証の提供元：'
- msgid 'Disable two-factor authentication'
- msgstr '二要素認証を無効にする'
- msgid 'Enable two-factor authentication'
- msgstr '二要素認証を有効にする'
- msgid 'There is no integration registered at the moment.'
- msgstr '現在登録されている統合はありません'
- msgid 'Password Reset for Kanboard'
- msgstr 'Kanboardのパスワードリセット'
- msgid 'Forgot password?'
- msgstr 'パスワードをお忘れですか？'
- msgid 'Enable "Forget Password"'
- msgstr '「パスワードをお忘れですか？」を有効にする'
- msgid 'Password Reset'
- msgstr 'パスワードリセット'
- msgid 'New password'
- msgstr '新しいパスワード'
- msgid 'Change Password'
- msgstr 'パスワードを変更'
- msgid 'To reset your password click on this link:'
- msgstr 'このリンクをクリックするとパスワードをリセットします：'
- msgid 'Last Password Reset'
- msgstr '最後のパスワードリセット'
- msgid 'The password has never been reinitialized.'
- msgstr 'パスワードが再設定されていません'
- msgid 'Creation'
- msgstr '作成'
- msgid 'Expiration'
- msgstr '失効'
- msgid 'Password reset history'
- msgstr 'パスワードリセット履歴'
- msgid 'All tasks of the column "%s" and the swimlane "%s" have been closed successfully.'
- msgstr 'カラム「%s」 かつ、スイムレーン「%s」の全てのタスクは正常に終了しました'
- msgid 'Do you really want to close all tasks of this column?'
- msgstr 'このカラムのすべてのタスクを終了しますか？'
- msgid '%d task(s) in the column "%s" and the swimlane "%s" will be closed.'
- msgstr '%d件の、カラム「%s」 かつ、スイムレーン「%s」 にあるタスクを終了します'
- msgid 'Close all tasks in this column and this swimlane'
- msgstr 'このカラムのすべてのタスクを終了'
- msgid 'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.'
- msgstr 'プラグインはプロジェクト通知メソッドを登録していません。ユーザープロフィールで個別に通知を設定することができます'
- msgid 'My dashboard'
- msgstr 'ダッシュボード'
- msgid 'My profile'
- msgstr 'プロフィール'
- msgid 'Project owner: '
- msgstr 'プロジェクト責任者：'
- msgid 'The project identifier is optional and must be alphanumeric, example: MYPROJECT.'
- msgstr 'プロジェクト識別子はオプションです。設定する場合は英数字にしてください。　例：MYPROJECT'
- msgid 'Project owner'
- msgstr 'プロジェクト責任者'
- msgid 'Personal projects do not have users and groups management.'
- msgstr '非公開プロジェクトにはユーザーとグループの管理はありません'
- msgid 'There is no project member.'
- msgstr 'プロジェクトメンバーがいません'
- msgid 'Priority'
- msgstr '優先度'
- msgid 'Task priority'
- msgstr 'タスクの優先度'
- msgid 'General'
- msgstr '一般'
- msgid 'Dates'
- msgstr '日付'
- msgid 'Default priority'
- msgstr '既定の優先度'
- msgid 'Lowest priority'
- msgstr '最低優先度'
- msgid 'Highest priority'
- msgstr '最高優先度'
- msgid 'Close a task when there is no activity'
- msgstr '活動がないときはタスクを終了'
- msgid 'Duration in days'
- msgstr '期間（日）'
- msgid 'Send email when there is no activity on a task'
- msgstr 'タスクに活動がないときにメールを送信'
- msgid 'Unable to fetch link information.'
- msgstr 'リンク情報を取得できません'
- msgid 'Daily background job for tasks'
- msgstr 'タスクのためのバックグラウンドジョブ（毎日）'
- msgid 'Auto'
- msgstr '自動'
- msgid 'Related'
- msgstr '関連'
- msgid 'Attachment'
- msgstr '添付'
- msgid 'Title not found'
- msgstr 'タイトルが見つかりません'
- msgid 'Web Link'
- msgstr 'Webリンク'
- msgid 'External links'
- msgstr '外部リンク'
- msgid 'Add external link'
- msgstr '外部リンクを追加'
- msgid 'Type'
- msgstr 'タイプ'
- msgid 'Dependency'
- msgstr '依存'
- msgid 'Add internal link'
- msgstr '内部リンクを追加'
- msgid 'Add a new external link'
- msgstr '新しい外部リンクを追加'
- msgid 'Edit external link'
- msgstr '外部リンクを編集'
- msgid 'External link'
- msgstr '外部リンク'
- msgid 'Copy and paste your link here...'
- msgstr 'リンクをここにコピー＆ペースト...'
- msgid 'URL'
- msgstr 'URL'
- msgid 'Internal links'
- msgstr '内部リンク'
- msgid 'Assign to me'
- msgstr '自分が担当する'
- msgid 'Me'
- msgstr '自分'
- msgid 'Do not duplicate anything'
- msgstr '何も複製しない'
- msgid 'Projects management'
- msgstr 'プロジェクト管理'
- msgid 'Users management'
- msgstr 'ユーザー管理'
- msgid 'Groups management'
- msgstr 'グループ管理'
- msgid 'Create from another project'
- msgstr '別のプロジェクトから作成'
- msgid 'open'
- msgstr '開始'
- msgid 'closed'
- msgstr '終了'
- msgid 'Priority:'
- msgstr '優先度：'
- msgid 'Reference:'
- msgstr '参照：'
- msgid 'Complexity:'
- msgstr '複雑さ：'
- msgid 'Swimlane:'
- msgstr 'スイムレーン：'
- msgid 'Column:'
- msgstr 'カラム：'
- msgid 'Position:'
- msgstr '位置：'
- msgid 'Creator:'
- msgstr '作成者：'
- msgid 'Time estimated:'
- msgstr '見積時間：'
- msgid '%s hours'
- msgstr '%s時間'
- msgid 'Time spent:'
- msgstr '経過時間：'
- msgid 'Created:'
- msgstr '作成：'
- msgid 'Modified:'
- msgstr '更新：'
- msgid 'Completed:'
- msgstr '完了：'
- msgid 'Started:'
- msgstr '開始：'
- msgid 'Moved:'
- msgstr '移動：'
- msgid 'Task #%d'
- msgstr 'タスク #%d'
- msgid 'Time format'
- msgstr '時刻形式'
- msgid 'Start date: '
- msgstr '開始日：'
- msgid 'End date: '
- msgstr '完了日：'
- msgid 'New due date: '
- msgstr '新しい期限：'
- msgid 'Start date changed: '
- msgstr '開始日が変更されました：'
- msgid 'Disable personal projects'
- msgstr '非公開プロジェクトを無効にする'
- msgid 'Do you really want to remove this custom filter: "%s"?'
- msgstr 'このカスタムフィルタ「%s」を削除しますか？'
- msgid 'Remove a custom filter'
- msgstr 'カスタムフィルタを削除'
- msgid 'User activated successfully.'
- msgstr 'ユーザーは有効になりました'
- msgid 'Unable to enable this user.'
- msgstr 'このユーザーを有効にできません'
- msgid 'User disabled successfully.'
- msgstr 'ユーザーが無効になりました'
- msgid 'Unable to disable this user.'
- msgstr 'このユーザーを無効にできません'
- msgid 'All files have been uploaded successfully.'
- msgstr 'すべてのファイルが正常にアップロードされました'
- msgid 'The maximum allowed file size is %sB.'
- msgstr '最大許容ファイルサイズ：%sB'
- msgid 'Drag and drop your files here'
- msgstr 'ファイルをドラッグアンドドロップ'
- msgid 'choose files'
- msgstr 'ファイルを選択'
- msgid 'View profile'
- msgstr 'プロフィールを見る'
- msgid 'Two Factor'
- msgstr '二要素認証'
- msgid 'Disable user'
- msgstr 'ユーザーを無効にする'
- msgid 'Do you really want to disable this user: "%s"?'
- msgstr 'ユーザー「%s」を無効にしますか？'
- msgid 'Enable user'
- msgstr 'ユーザーを有効にする'
- msgid 'Do you really want to enable this user: "%s"?'
- msgstr 'ユーザー「%s」を有効にしますか？'
- msgid 'Download'
- msgstr 'ダウンロード'
- msgid 'Uploaded: %s'
- msgstr 'アップロード完了：%s'
- msgid 'Size: %s'
- msgstr 'サイズ：%s'
- msgid 'Uploaded by %s'
- msgstr '%sによってアップロードされました'
- msgid 'Filename'
- msgstr 'ファイル名'
- msgid 'Size'
- msgstr 'サイズ'
- msgid 'Column created successfully.'
- msgstr 'カラムが正常に作成されました'
- msgid 'Another column with the same name exists in the project'
- msgstr '同じ名前の別のカラムがプロジェクトにあります'
- msgid 'Default filters'
- msgstr '既定フィルタ'
- msgid 'Your board doesn\'t have any columns!'
- msgstr 'あなたのボードにはカラムがありません！'
- msgid 'Change column position'
- msgstr 'カラムの位置を変更'
- msgid 'Switch to the project overview'
- msgstr 'プロジェクト概要に切替'
- msgid 'User filters'
- msgstr 'ユーザーフィルタ'
- msgid 'Category filters'
- msgstr 'カテゴリフィルタ'
- msgid 'Upload a file'
- msgstr 'ファイルをアップロード'
- msgid 'View file'
- msgstr 'ファイルを見る'
- msgid 'Last activity'
- msgstr '最新の活動状況'
- msgid 'Change subtask position'
- msgstr 'サブタスクの位置を変更'
- msgid 'This value must be greater than %d'
- msgstr '%dより大きくなければなりません'
- msgid 'Another swimlane with the same name exists in the project'
- msgstr '同じ名前の別のスイムレーンがプロジェクトにあります'
- msgid 'Example: https://example.kanboard.org/ (used to generate absolute URLs)'
- msgstr '例：https://example.kanboard.org/（絶対URLの生成に使用）'
- msgid 'Actions duplicated successfully.'
- msgstr 'アクションを複製しました'
- msgid 'Unable to duplicate actions.'
- msgstr 'アクションを複製できません'
- msgid 'Add a new action'
- msgstr '新しいアクションを追加'
- msgid 'Import from another project'
- msgstr '別のプロジェクトからインポート'
- msgid 'There is no action at the moment.'
- msgstr 'アクションはありません'
- msgid 'Import actions from another project'
- msgstr '別のプロジェクトからアクションをインポート'
- msgid 'There is no available project.'
- msgstr '利用可能なプロジェクトはありません'
- msgid 'Local File'
- msgstr 'ローカルファイル'
- msgid 'Configuration'
- msgstr '構成'
- msgid 'PHP version:'
- msgstr 'PHPバージョン：'
- msgid 'PHP SAPI:'
- msgstr 'PHP SAPI'
- msgid 'OS version:'
- msgstr 'OSバージョン：'
- msgid 'Database version:'
- msgstr 'データベース・バージョン：'
- msgid 'Browser:'
- msgstr 'ブラウザー：'
- msgid 'Task view'
- msgstr 'タスクビュー'
- msgid 'Edit task'
- msgstr 'タスクを編集'
- msgid 'Edit description'
- msgstr '説明を編集'
- msgid 'New internal link'
- msgstr '新しい内部リンク'
- msgid 'Display list of keyboard shortcuts'
- msgstr 'キーボードショートカットのリストを表示'
- msgid 'Avatar'
- msgstr 'アバター'
- msgid 'Upload my avatar image'
- msgstr '自分のアバター画像をアップロード'
- msgid 'Remove my image'
- msgstr '画像を削除'
- msgid 'The OAuth2 state parameter is invalid'
- msgstr 'OAuth2ステートパラメータは無効です'
- msgid 'User not found.'
- msgstr 'ユーザーが見つかりません'
- msgid 'Search in activity stream'
- msgstr '活動状況で検索'
- msgid 'My activities'
- msgstr '自分の活動状況'
- msgid 'Activity until yesterday'
- msgstr '昨日までの活動状況'
- msgid 'Activity until today'
- msgstr '今までの活動状況'
- msgid 'Search by creator: '
- msgstr '作成者で検索：'
- msgid 'Search by creation date: '
- msgstr '作成日で検索：'
- msgid 'Search by task status: '
- msgstr 'タスクステータスで検索：'
- msgid 'Search by task title: '
- msgstr 'タスク名で検索：'
- msgid 'Activity stream search'
- msgstr '活動状況を検索'
- msgid 'Projects where "%s" is manager'
- msgstr '「%s」が管理者のプロジェクト'
- msgid 'Projects where "%s" is member'
- msgstr '「%s」がメンバーのプロジェクト'
- msgid 'Open tasks assigned to "%s"'
- msgstr '「%s」が担当のタスクを開く'
- msgid 'Closed tasks assigned to "%s"'
- msgstr '「%s」が担当した終了したタスク'
- msgid 'Assign automatically a color based on a priority'
- msgstr '優先度に基づいて自動的に色を割当て'
- msgid 'Overdue tasks for the project(s) "%s"'
- msgstr '期限を超過したタスク「%s」'
- msgid 'Upload files'
- msgstr 'ファイルをアップロード'
- msgid 'Installed Plugins'
- msgstr '使用中のプラグイン'
- msgid 'Plugin Directory'
- msgstr 'プラグインディレクトリ'
- msgid 'Plugin installed successfully.'
- msgstr 'プラグインがインストールされました'
- msgid 'Plugin updated successfully.'
- msgstr 'プラグインが更新されました'
- msgid 'Plugin removed successfully.'
- msgstr 'プラグインを削除しました'
- msgid 'Subtask converted to task successfully.'
- msgstr 'サブタスクをタスクに変換しました'
- msgid 'Unable to convert the subtask.'
- msgstr 'サブタスクを変換できません'
- msgid 'Unable to extract plugin archive.'
- msgstr 'プラグインアーカイブを解凍できません'
- msgid 'Plugin not found.'
- msgstr 'プラグインが見つかりません'
- msgid 'You don\'t have the permission to remove this plugin.'
- msgstr 'このプラグインを削除する権限がありません'
- msgid 'Unable to download plugin archive.'
- msgstr 'プラグインアーカイブをダウンロードできません'
- msgid 'Unable to write temporary file for plugin.'
- msgstr 'プラグインの一時ファイルを書き込めません'
- msgid 'Unable to open plugin archive.'
- msgstr 'プラグインアーカイブを開くことができません'
- msgid 'There is no file in the plugin archive.'
- msgstr 'プラグインアーカイブにファイルがありません'
- msgid 'Create tasks in bulk'
- msgstr 'タスクを一括作成'
- msgid 'Your Kanboard instance is not configured to install plugins from the user interface.'
- msgstr 'あなたのKanboardインスタンスは、ユーザーインターフェースからプラグインをインストールするように設定されていません'
- msgid 'There is no plugin available.'
- msgstr '利用可能なプラグインはありません'
- msgid 'Install'
- msgstr 'インストール'
- msgid 'Update'
- msgstr '更新'
- msgid 'Up to date'
- msgstr '最新の日付'
- msgid 'Not available'
- msgstr '利用できません'
- msgid 'Remove plugin'
- msgstr 'プラグインを削除'
- msgid 'Do you really want to remove this plugin: "%s"?'
- msgstr 'このプラグインを削除しますか？： %s'
- msgid 'Uninstall'
- msgstr 'アンインストール'
- msgid 'Listing'
- msgstr 'リスト'
- msgid 'Metadata'
- msgstr 'メタデータ'
- msgid 'Manage projects'
- msgstr 'プロジェクトを管理'
- msgid 'Convert to task'
- msgstr 'タスクに変換'
- msgid 'Convert sub-task to task'
- msgstr 'サブタスクをタスクに変換'
- msgid 'Do you really want to convert this sub-task to a task?'
- msgstr 'このサブタスクをタスクに変換しますか？'
- msgid 'My task title'
- msgstr '自分のタスク名'
- msgid 'Enter one task by line.'
- msgstr '1行に1件のタスクを入力'
- msgid 'Number of failed login:'
- msgstr 'ログイン失敗回数：'
- msgid 'Account locked until:'
- msgstr 'ロックされたアカウント：'
- msgid 'Email settings'
- msgstr 'メール設定'
- msgid 'Email sender address'
- msgstr '送信者のメールアドレス'
- msgid 'Email transport'
- msgstr 'メールの送信'
- msgid 'Webhook token'
- msgstr 'Webhookトークン'
- msgid 'Project tags management'
- msgstr 'プロジェクトタグ管理'
- msgid 'Tag created successfully.'
- msgstr 'タグを作成しました'
- msgid 'Unable to create this tag.'
- msgstr 'タグを作成できません'
- msgid 'Tag updated successfully.'
- msgstr 'タグを更新しました'
- msgid 'Unable to update this tag.'
- msgstr 'タグを更新できません'
- msgid 'Tag removed successfully.'
- msgstr 'タグを削除しました'
- msgid 'Unable to remove this tag.'
- msgstr 'タグを削除できません'
- msgid 'Global tags management'
- msgstr 'グローバルタグ管理'
- msgid 'Tags'
- msgstr 'タグ'
- msgid 'Tags management'
- msgstr 'タグ管理'
- msgid 'Add new tag'
- msgstr '新しいタグを追加'
- msgid 'Edit a tag'
- msgstr 'タグを編集'
- msgid 'Project tags'
- msgstr 'プロジェクトタグ'
- msgid 'There is no specific tag for this project at the moment.'
- msgstr 'このプロジェクトにはタグはありません'
- msgid 'Tag'
- msgstr 'タグ'
- msgid 'Remove a tag'
- msgstr 'タグを削除'
- msgid 'Do you really want to remove this tag: "%s"?'
- msgstr 'タグ「%s」を削除しますか？'
- msgid 'Global tags'
- msgstr 'グローバルタグ'
- msgid 'There is no global tag at the moment.'
- msgstr 'グローバルタグはありません'
- msgid 'This field cannot be empty'
- msgstr 'このフィールドは必須です'
- msgid 'Close a task when there is no activity in a specific column'
- msgstr '特定のカラムに活動がない場合にタスクを終了'
- msgid '%s removed a subtask for the task #%d'
- msgstr 'タスク＃%dからサブタスク%s件を削除しました'
- msgid '%s removed a comment on the task #%d'
- msgstr 'タスク＃%dからコメント%s件を削除しました'
- msgid 'Comment removed on task #%d'
- msgstr 'タスク＃%dからコメントを削除しました'
- msgid 'Subtask removed on task #%d'
- msgstr 'タスク＃%dからサブタスクを削除しました'
- msgid 'Hide tasks in this column in the dashboard'
- msgstr 'ダッシュボードでこのカラムのタスクは表示しない'
- msgid '%s removed a comment on the task %s'
- msgstr '%sはタスク「%s」からコメントを削除しました'
- msgid '%s removed a subtask for the task %s'
- msgstr '%sはタスク「%s」からサブタスクを削除しました'
- msgid 'Comment removed'
- msgstr 'コメントを削除しました'
- msgid 'Subtask removed'
- msgstr 'サブタスクを削除しました'
- msgid '%s set a new internal link for the task #%d'
- msgstr '%sはタスク＃%dの新しい内部リンクを設定しました'
- msgid '%s removed an internal link for the task #%d'
- msgstr '%sはタスク＃%dの内部リンクを削除しました'
- msgid 'A new internal link for the task #%d has been defined'
- msgstr 'タスク＃%dの新しい内部リンクが定義されています'
- msgid 'Internal link removed for the task #%d'
- msgstr 'タスク＃%dの内部リンクが削除されました'
- msgid '%s set a new internal link for the task %s'
- msgstr '%sはタスク「%s」の新しい内部リンクを設定しました'
- msgid '%s removed an internal link for the task %s'
- msgstr '%sはタスク「%s」の内部リンクを削除しました'
- msgid 'Automatically set the due date on task creation'
- msgstr 'タスク作成時に自動的に期限を設定'
- msgid 'Move the task to another column when closed'
- msgstr '閉じたときにタスクを別のカラムに移動'
- msgid 'Move the task to another column when not moved during a given period'
- msgstr '指定された期間中に移動しなかった場合、タスクを別のカラムに移動'
- msgid 'Dashboard for %s'
- msgstr '%sのダッシュボード'
- msgid 'Tasks overview for %s'
- msgstr '%sのタスク概要'
- msgid 'Subtasks overview for %s'
- msgstr '%sのサブタスク概要'
- msgid 'Projects overview for %s'
- msgstr '%sのプロジェクト概要'
- msgid 'Activity stream for %s'
- msgstr '%sの活動状況'
- msgid 'Assign a color when the task is moved to a specific swimlane'
- msgstr 'タスクが特定のスイムレーンに移動したときに色を割当てる'
- msgid 'Assign a priority when the task is moved to a specific swimlane'
- msgstr 'タスクが特定のスイムレーンに移動したときに優先度を割当てる'
- msgid 'User unlocked successfully.'
- msgstr 'ユーザーのロックを解除しました'
- msgid 'Unable to unlock the user.'
- msgstr 'ユーザーのロックを解除できません'
- msgid 'Move a task to another swimlane'
- msgstr '別のスイムレーンにタスクを移動'
- msgid 'Creator Name'
- msgstr '作成者'
- msgid 'Time spent and estimated'
- msgstr '経過／見積時間'
- msgid 'Move position'
- msgstr '移動'
- msgid 'Move task to another position on the board'
- msgstr 'ボード上の別の位置にタスクを移動'
- msgid 'Insert before this task'
- msgstr 'このタスクの前に挿入'
- msgid 'Insert after this task'
- msgstr 'このタスクの後に挿入'
- msgid 'Unlock this user'
- msgstr 'このユーザーをロック解除'
- msgid 'Custom Project Roles'
- msgstr 'プロジェクト独自の役割'
- msgid 'Add a new custom role'
- msgstr '新しい役割を追加'
- msgid 'Restrictions for the role "%s"'
- msgstr '役割「%s」の制限'
- msgid 'Add a new project restriction'
- msgstr 'プロジェクト制約を追加'
- msgid 'Add a new drag and drop restriction'
- msgstr 'ドラッグアンドドロップの制限を追加'
- msgid 'Add a new column restriction'
- msgstr 'カラムに制限を追加'
- msgid 'Edit this role'
- msgstr '役割を編集'
- msgid 'Remove this role'
- msgstr '役割を削除'
- msgid 'There is no restriction for this role.'
- msgstr 'この役割には制限はありません'
- msgid 'Only moving task between those columns is permitted'
- msgstr 'これらのカラム間はタスクの移動のみが許可されています'
- msgid 'Close a task in a specific column when not moved during a given period'
- msgstr '指定された期間中に移動しなかった場合、特定のカラムのタスクを終了'
- msgid 'Edit columns'
- msgstr 'カラムを編集'
- msgid 'The column restriction has been created successfully.'
- msgstr 'カラムの制限を作成しました'
- msgid 'Unable to create this column restriction.'
- msgstr 'このカラムの制限を作成できません'
- msgid 'Column restriction removed successfully.'
- msgstr 'カラムの制限を削除しました'
- msgid 'Unable to remove this restriction.'
- msgstr 'この制限を削除できません'
- msgid 'Your custom project role has been created successfully.'
- msgstr 'あなたのプロジェクトで独自の役割を作成しました'
- msgid 'Unable to create custom project role.'
- msgstr 'プロジェクト独自の役割を作成できません'
- msgid 'Your custom project role has been updated successfully.'
- msgstr 'プロジェクト独自の役割を更新しました'
- msgid 'Unable to update custom project role.'
- msgstr 'プロジェクト独自の役割を更新できません'
- msgid 'Custom project role removed successfully.'
- msgstr 'プロジェクト独自の役割を削除しました'
- msgid 'Unable to remove this project role.'
- msgstr 'プロジェクトから役割を削除できません'
- msgid 'The project restriction has been created successfully.'
- msgstr 'プロジェクトの制限が作成しました'
- msgid 'Unable to create this project restriction.'
- msgstr 'プロジェクトの制限を作成できません'
- msgid 'Project restriction removed successfully.'
- msgstr 'プロジェクトの制限を削除しました'
- msgid 'You cannot create tasks in this column.'
- msgstr 'このカラムにタスクは作成できません'
- msgid 'Task creation is permitted for this column'
- msgstr 'このカラムではタスクの作成が許可されています'
- msgid 'Closing or opening a task is permitted for this column'
- msgstr 'このカラムではタスクを作成／完了が許可されています'
- msgid 'Task creation is blocked for this column'
- msgstr 'このカラムでのタスク作成はブロックされています'
- msgid 'Closing or opening a task is blocked for this column'
- msgstr 'このカラムでのタスクの作成／完了はブロックされています'
- msgid 'Task creation is not permitted'
- msgstr 'タスクの作成は許可されていません'
- msgid 'Closing or opening a task is not permitted'
- msgstr 'タスクの作成／完了は許可されていません'
- msgid 'New drag and drop restriction for the role "%s"'
- msgstr '役割「%s」の新しいドラッグアンドドロップ制限'
- msgid 'People belonging to this role will be able to move tasks only between the source and the destination column.'
- msgstr 'この役割に属するユーザーは、起点カラムと宛先カラムの間でのみタスクを移動できます'
- msgid 'Remove a column restriction'
- msgstr 'カラムの制限を解除'
- msgid 'Do you really want to remove this column restriction: "%s" to "%s"?'
- msgstr 'このカラムの制限を解除しますか？： 「%s」→「%s」'
- msgid 'New column restriction for the role "%s"'
- msgstr '役割「%s」のカラムでの新しい制限'
- msgid 'Rule'
- msgstr '役割'
- msgid 'Do you really want to remove this column restriction?'
- msgstr 'この列の制限を解除しますか？'
- msgid 'Custom roles'
- msgstr '独自の役割'
- msgid 'New custom project role'
- msgstr 'プロジェクトでの新しい独自の役割'
- msgid 'Edit custom project role'
- msgstr 'プロジェクトでの独自の役割を編集'
- msgid 'Remove a custom role'
- msgstr 'プロジェクトでの独自の役割を削除'
- msgid 'Do you really want to remove this custom role: "%s"? All people assigned to this role will become project member.'
- msgstr '役割「%s」を削除しますか？この役割に割当てられたすべてのユーザーがプロジェクトメンバーになります'
- msgid 'There is no custom role for this project.'
- msgstr 'プロジェクトでの独自の役割はありません'
- msgid 'New project restriction for the role "%s"'
- msgstr '役割「%s」の新しいプロジェクト制限'
- msgid 'Restriction'
- msgstr '制限'
- msgid 'Remove a project restriction'
- msgstr 'プロジェクトの制限を解除'
- msgid 'Do you really want to remove this project restriction: "%s"?'
- msgstr 'プロジェクトの制限「%s」を解除しますか？'
- msgid 'Duplicate to multiple projects'
- msgstr '複数プロジェクトに複製'
- msgid 'This field is required'
- msgstr 'このフィールドは必須です'
- msgid 'Moving a task is not permitted'
- msgstr 'タスクを移動できません'
- msgid 'This value must be in the range %d to %d'
- msgstr 'この値は%d〜%dの範囲になければなりません'
- msgid 'You are not allowed to move this task.'
- msgstr 'このタスクを移動する権限がありません'
- msgid 'API User Access'
- msgstr 'API ユーザーアクセス'
- msgid 'Preview'
- msgstr 'プレビュー'
- msgid 'Write'
- msgstr '書込み'
- msgid 'Write your text in Markdown'
- msgstr 'Markdownで入力'
- msgid 'No personal API access token registered.'
- msgstr '個人APIアクセストークンは登録されていません'
- msgid 'Your personal API access token is "%s"'
- msgstr 'あなたのパーソナルAPIアクセストークン "%s"'
- msgid 'Remove your token'
- msgstr 'あなたのトークンを削除'
- msgid 'Generate a new token'
- msgstr '新しいトークンを生成'
- msgid 'Showing %d-%d of %d'
- msgstr '%d〜%d／%dを表示'
- msgid 'Outgoing Emails'
- msgstr '送信メール'
- msgid 'Add or change currency rate'
- msgstr '通貨レートを追加または変更'
- msgid 'Reference currency: %s'
- msgstr '参照通貨：%s'
- msgid 'Add custom filters'
- msgstr 'カスタムフィルタを追加'
- msgid 'Export'
- msgstr 'エクスポート'
- msgid 'Add link label'
- msgstr 'リンクラベルを追加'
- msgid 'Incompatible Plugins'
- msgstr '互換性のないプラグイン'
- msgid 'Compatibility'
- msgstr '互換性'
- msgid 'Permissions and ownership'
- msgstr 'アクセス権と所有権'
- msgid 'Priorities'
- msgstr 'プロパティ'
- msgid 'Close this window'
- msgstr 'ウィンドウを閉じる'
- msgid 'Unable to upload this file.'
- msgstr 'ファイルをアップロードできません'
- msgid 'Import tasks'
- msgstr 'タスクのインポート'
- msgid 'Choose a project'
- msgstr 'プロジェクトを選択'
- msgid 'Profile'
- msgstr 'プロフィール'
- msgid 'Application role'
- msgstr 'アプリケーションでの役割'
- msgid '%d invitations were sent.'
- msgstr '%d通の招待状を送信しました'
- msgid '%d invitation was sent.'
- msgstr '%dに招待状を送信しました'
- msgid 'Unable to create this user.'
- msgstr 'ユーザーを作成できません'
- msgid 'Kanboard Invitation'
- msgstr 'Kanboardへの招待'
- msgid 'Visible on dashboard'
- msgstr 'ダッシュボード表示'
- msgid 'Created at:'
- msgstr '作成日時：'
- msgid 'Updated at:'
- msgstr '更新日時：'
- msgid 'There is no custom filter.'
- msgstr 'カスタムフィルタはありません'
- msgid 'New User'
- msgstr '新規ユーザー'
- msgid 'Authentication'
- msgstr '認証'
- msgid 'If checked, this user will use a third-party system for authentication.'
- msgstr 'チェックすると、このユーザーは認証に第三者システムを使用します'
- msgid 'The password is necessary only for local users.'
- msgstr 'パスワードはローカルユーザーにのみ必要です'
- msgid 'You have been invited to register on Kanboard.'
- msgstr 'あなたはKanboardに登録されました'
- msgid 'Click here to join your team'
- msgstr 'クリックしてあなたのチームに参加'
- msgid 'Invite people'
- msgstr '招待'
- msgid 'Emails'
- msgstr 'Eメール'
- msgid 'Enter one email address by line.'
- msgstr '行ごとに1つのメールアドレスを入力してください'
- msgid 'Add these people to this project'
- msgstr 'これらの人々をプロジェクトに追加'
- msgid 'Add this person to this project'
- msgstr 'この人をプロジェクトに追加'
- msgid 'Sign-up'
- msgstr 'サインアップ'
- msgid 'Credentials'
- msgstr '資格情報'
- msgid 'New user'
- msgstr '新規ユーザー'
- msgid 'This username is already taken'
- msgstr 'このユーザー名はすでに使用されています'
- msgid 'Your profile must have a valid email address.'
- msgstr 'プロフィールには有効なメールアドレスが必要です'
- msgid 'TRL - Turkish Lira'
- msgstr 'トルコリラ'
- msgid 'The project email is optional and could be used by several plugins.'
- msgstr 'プロジェクトのEメールはオプション／複数のプラグインで使用可能'
- msgid 'The project email must be unique across all projects'
- msgstr 'プロジェクトのEメールはすべてのプロジェクトでユニークである必要があります'
- msgid 'The email configuration has been disabled by the administrator.'
- msgstr '管理者がEメールの設定を無効にしました'
- msgid 'Close this project'
- msgstr 'プロジェクトを終了'
- msgid 'Open this project'
- msgstr 'このプロジェクトを開く'
- msgid 'Close a project'
- msgstr 'プロジェクトを終了'
- msgid 'Do you really want to close this project: "%s"?'
- msgstr 'このプロジェクトを本当に終了しますか？： %s'
- msgid 'Reopen a project'
- msgstr 'プロジェクトを開く'
- msgid 'Do you really want to reopen this project: "%s"?'
- msgstr 'このプロジェクトを開きますか？： %s'
- msgid 'This project is open'
- msgstr 'このプロジェクトは進行中'
- msgid 'This project is closed'
- msgstr 'このプロジェクトは終了しました'
- msgid 'Unable to upload files, check the permissions of your data folder.'
- msgstr 'ファイルをアップロードできません。データフォルダのアクセス権を確認してください。'
- msgid 'Another category with the same name exists in this project'
- msgstr '同じ名前の別のカテゴリがプロジェクトに存在します'
- msgid 'Comment sent by email successfully.'
- msgstr 'メールでコメントを送信しました'
- msgid 'Sent by email to "%s" (%s)'
- msgstr '%s をメールで送信しました "%s"'
- msgid 'Unable to read uploaded file.'
- msgstr 'アップロードされたファイルを読み込めません'
- msgid 'Database uploaded successfully.'
- msgstr 'データベースをアップロードしました'
- msgid 'Task sent by email successfully.'
- msgstr 'タスクをメールで送信しました'
- msgid 'There is no category in this project.'
- msgstr 'このプロジェクトにカテゴリはありません'
- msgid 'Send by email'
- msgstr 'メールで送る'
- msgid 'Create and send a comment by email'
- msgstr 'Eメールでコメントを送信'
- msgid 'Subject'
- msgstr '件名'
- msgid 'Upload the database'
- msgstr 'データベースをアップロード'
- msgid 'You could upload the previously downloaded Sqlite database (Gzip format).'
- msgstr '以前にダウンロードしたSqliteデータベース（Gzip形式）をアップロードできます'
- msgid 'Database file'
- msgstr 'データベースファイル'
- msgid 'Upload'
- msgstr 'アップロード'
- msgid 'Your project must have at least one active swimlane.'
- msgstr 'プロジェクトには少なくとも1つのアクティブなスイムレーンが必要です'
- msgid 'Project: %s'
- msgstr 'プロジェクト：%s'
- msgid 'Automatic action not found: "%s"'
- msgstr '自動アクションが見つかりません： %s'
- msgid '%d projects'
- msgstr '%d 件のプロジェクト'
- msgid '%d project'
- msgstr '%d プロジェクト'
- msgid 'There is no project.'
- msgstr 'プロジェクトはありません'
- msgid 'Sort'
- msgstr 'ソート'
- msgid 'Project ID'
- msgstr 'プロジェクトID'
- msgid 'Project name'
- msgstr 'プロジェクト名'
- msgid 'Public'
- msgstr '公開'
- msgid 'Personal'
- msgstr '非公開'
- msgid '%d tasks'
- msgstr '%d 件のタスク'
- msgid '%d task'
- msgstr '%d タスク'
- msgid 'Task ID'
- msgstr 'タスクID'
- msgid 'Assign automatically a color when due date is expired'
- msgstr '期限が切れたら自動的に色を割当て'
- msgid 'Total score in this column across all swimlanes'
- msgstr 'このカラムのすべてのスイムレーンで合計得点'
- msgid 'HRK - Kuna'
- msgstr 'クロアチア クーナ'
- msgid 'ARS - Argentine Peso'
- msgstr 'ARS - アルゼンチンペソ'
- msgid 'COP - Colombian Peso'
- msgstr 'COP - コロンビアペソ'
- msgid '%d groups'
- msgstr '%d個のグループ'
- msgid '%d group'
- msgstr '%d グループ'
- msgid 'Group ID'
- msgstr 'グループID'
- msgid 'External ID'
- msgstr '外部ID'
- msgid '%d users'
- msgstr '%d 人のユーザー'
- msgid '%d user'
- msgstr '%d ユーザー'
- msgid 'Hide subtasks'
- msgstr 'サブタスクを隠す'
- msgid 'Show subtasks'
- msgstr 'サブタスクを表示'
- msgid 'Authentication Parameters'
- msgstr '認証パラメータ'
- msgid 'API Access'
- msgstr 'APIアクセス'
- msgid 'No users found.'
- msgstr 'ユーザーが見つかりません'
- msgid 'User ID'
- msgstr 'ユーザーID'
- msgid 'Notifications are activated'
- msgstr '通知は有効'
- msgid 'Notifications are disabled'
- msgstr '通知は無効'
- msgid 'User disabled'
- msgstr 'ユーザーを無効にしました'
- msgid '%d notifications'
- msgstr '%d 件の通知'
- msgid '%d notification'
- msgstr '%d 通知'
- msgid 'There is no external integration installed.'
- msgstr '外部インテグレーションはインストールされていません'
- msgid 'You are not allowed to update tasks assigned to someone else.'
- msgstr '他の人に割当てられたタスクを更新する権限がありません'
- msgid 'You are not allowed to change the assignee.'
- msgstr '担当者を変更する権限はありません'
- msgid 'Task suppression is not permitted'
- msgstr 'タスクの抑制は許可されていません'
- msgid 'Changing assignee is not permitted'
- msgstr '担当者は変更できません'
- msgid 'Update only assigned tasks is permitted'
- msgstr '割当てられたタスクのみ更新できます'
- msgid 'Only for tasks assigned to the current user'
- msgstr '現在のユーザーに割当てられたタスクのみ'
- msgid 'My projects'
- msgstr '自分のプロジェクト'
- msgid 'You are not a member of any project.'
- msgstr 'あなたが所属しているプロジェクトにはありません'
- msgid 'My subtasks'
- msgstr '自分のサブタスク'
- msgid '%d subtasks'
- msgstr '%d 件のサブタスク'
- msgid '%d subtask'
- msgstr '%d サブタスク'
- msgid 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgstr '現在のユーザーに割当てられたタスクは、これらのカラム間の移動のみが許可されます'
- msgid '[DUPLICATE]'
- msgstr '[コピー]'
- msgid 'DKK - Danish Krona'
- msgstr 'DKK - デンマーククローナ'
- msgid 'Remove user from group'
- msgstr 'ユーザーをグループから削除'
- msgid 'Assign the task to its creator'
- msgstr '作成者にタスクを割当て'
- msgid 'This task was sent by email to "%s" with subject "%s".'
- msgstr 'このタスクをメールで 「%s」 に送信しました（件名 "%s"）'
- msgid 'Predefined Email Subjects'
- msgstr '既定のメールの件名'
- msgid 'Write one subject by line.'
- msgstr '行ごとに1つずつ件名を書く'
- msgid 'Create another link'
- msgstr '別のリンクを作成'
- msgid 'BRL - Brazilian Real'
- msgstr 'BRL - ブラジルレアル'
- msgid 'Add a new Kanboard task'
- msgstr 'Kanboard タスクを追加'
- msgid 'Subtask not started'
- msgstr 'サブタスクは開始されていません'
- msgid 'Subtask currently in progress'
- msgstr 'サブタスクは進行中'
- msgid 'Subtask completed'
- msgstr 'サブタスクは完了'
- msgid 'Subtask added successfully.'
- msgstr 'サブタスクを追加しました'
- msgid '%d subtasks added successfully.'
- msgstr '%d 件のサブタスクを追加しました'
- msgid 'Enter one subtask by line.'
- msgstr '1行に1件のサブタスクを入力'
- msgid 'Predefined Contents'
- msgstr '定義済みコンテンツ'
- msgid 'Predefined contents'
- msgstr '定義済みコンテンツ'
- msgid 'Predefined Task Description'
- msgstr '定義済みタスクの説明'
- msgid 'Do you really want to remove this template? "%s"'
- msgstr 'このテンプレートを削除しますか？： %s'
- msgid 'Add predefined task description'
- msgstr '定義済みのタスクの説明を追加'
- msgid 'Predefined Task Descriptions'
- msgstr '定義済みタスクの説明'
- msgid 'Template created successfully.'
- msgstr 'テンプレートを作成しました'
- msgid 'Unable to create this template.'
- msgstr 'テンプレートを作成できません'
- msgid 'Template updated successfully.'
- msgstr 'テンプレートを更新しました'
- msgid 'Unable to update this template.'
- msgstr 'テンプレートを更新できません'
- msgid 'Template removed successfully.'
- msgstr 'テンプレートを削除しました'
- msgid 'Unable to remove this template.'
- msgstr 'テンプレートを削除できません'
- msgid 'Template for the task description'
- msgstr 'タスク説明のテンプレート'
- msgid 'The start date is greater than the end date'
- msgstr '開始日が終了日を超えています'
- msgid 'Tags must be separated by a comma'
- msgstr 'タグはコンマで区切る必要があります'
- msgid 'Only the task title is required'
- msgstr 'タスクのタイトルのみが必要です'
- msgid 'Creator Username'
- msgstr '作成者名'
- msgid 'Color Name'
- msgstr '色名'
- msgid 'Column Name'
- msgstr 'カラム名'
- msgid 'Swimlane Name'
- msgstr 'スイムレーン名'
- msgid 'Time Estimated'
- msgstr '見積時間'
- msgid 'Time Spent'
- msgstr '経過時間'
- msgid 'External Link'
- msgstr '外部リンク'
- msgid 'This feature enables the iCal feed, RSS feed and the public board view.'
- msgstr 'この機能は、iCal フィードとRSSフィード、そしてボードビューを公開します。'
- msgid 'Stop the timer of all subtasks when moving a task to another column'
- msgstr 'タスクを別のカラムに移動したときに、全てのサブタスクのタイマーを停止する'
- msgid 'Subtask Title'
- msgstr 'サブタスクのタイトル'
- msgid 'Add a subtask and activate the timer when moving a task to another column'
- msgstr 'サブタスクを追加し、タスクを別のカラムに移動したときにタイマーを有効化する'
- msgid 'days'
- msgstr '日'
- msgid 'minutes'
- msgstr '分'
- msgid 'seconds'
- msgstr '秒'
- msgid 'Assign automatically a color when preset start date is reached'
- msgstr '予め設定した開始日になったら、自動的に色を割り当てる'
- msgid 'Move the task to another column once a predefined start date is reached'
- msgstr '予め設定した開始日になったら、タスクを別のカラムに移動する'
- msgid 'This task is now linked to the task %s with the relation "%s"'
- msgstr 'このタスクと、タスク %s を、"%s"として関連付けました '
- msgid 'The link with the relation "%s" to the task %s has been removed'
- msgstr 'このタスクと "%s" として関連付けていた、タスク %s とのリンクを削除しました'
- msgid 'Custom Filter:'
- msgstr 'カスタムフィルタ'
- msgid 'Unable to find this group.'
- msgstr 'このグループが見つかりません'
- msgid '%s moved the task #%d to the column "%s"'
- msgstr '%s がタスク #%d をカラム "%s"に移動しました'
- msgid '%s moved the task #%d to the position %d in the column "%s"'
- msgstr '%s がタスク #%d をポジション#%d カラム "%s"に移動しました'
- msgid '%s moved the task #%d to the swimlane "%s"'
- msgstr '%s がタスク #%d をスイムレーン "%s"に移動しました'
- msgid '%sh spent'
- msgstr '%sh 経過'
- msgid '%sh estimated'
- msgstr '%sh の見積'
- msgid 'Select All'
- msgstr '全て選択'
- msgid 'Unselect All'
- msgstr '全て選択解除'
- msgid 'Apply action'
- msgstr 'アクションを実行'
- msgid 'Move selected tasks to another column or swimlane'
- msgstr '選択したタスクを別のカラムに移動'
- msgid 'Edit tasks in bulk'
- msgstr 'タスクを一括編集'
- msgid 'Choose the properties that you would like to change for the selected tasks.'
- msgstr '選択したタスクの、変更したいプロパティを選択してください。'
- msgid 'Configure this project'
- msgstr 'このプロジェクトの設定'
- msgid 'Start now'
- msgstr '今すぐ開始'
- msgid '%s removed a file from the task #%d'
- msgstr '%s がタスク #%d からファイルを削除しました'
- msgid 'Attachment removed from task #%d: %s'
- msgstr 'タスク #%d への添付ファイル %s は削除されました'
- msgid 'No color'
- msgstr '色無し'
- msgid 'Attachment removed "%s"'
- msgstr '添付 "%s" は削除されました'
- msgid '%s removed a file from the task %s'
- msgstr '%s がタスク %s からファイルを削除しました'
- msgid 'Move the task to another swimlane when assigned to a user'
- msgstr '担当者を割り当てたとき、タスクを別のスイムレーンに移動する'
- msgid 'Destination swimlane'
- msgstr '宛先のスイムレーン'
- msgid 'Assign a category when the task is moved to a specific swimlane'
- msgstr 'タスクが特定のスイムレーンに移動したときにカテゴリを割り当てる'
- msgid 'Move the task to another swimlane when the category is changed'
- msgstr 'カテゴリが変更されたとき、タスクを別のスイムレーンに移動する'
- msgid 'Reorder this column by priority (ASC)'
- msgstr '優先度で並び替える(昇順)'
- msgid 'Reorder this column by priority (DESC)'
- msgstr '優先度で並び替える(降順)'
- msgid 'Reorder this column by assignee and priority (ASC)'
- msgstr '担当者と優先度で並び替える(昇順)'
- msgid 'Reorder this column by assignee and priority (DESC)'
- msgstr '担当者と優先度で並び替える(降順)'
- msgid 'Reorder this column by assignee (A-Z)'
- msgstr '担当者で並び替える(A-Z)'
- msgid 'Reorder this column by assignee (Z-A)'
- msgstr '担当者で並び替える(Z-A)'
- msgid 'Reorder this column by due date (ASC)'
- msgstr '期限で並び替える(昇順)'
- msgid 'Reorder this column by due date (DESC)'
- msgstr '期限で並び替える(降順)'
- msgid '%s moved the task #%d "%s" to the project "%s"'
- msgstr '%s がタスク #%d "%s" をプロジェクト "%s" に移動しました'
- msgid 'Task #%d "%s" has been moved to the project "%s"'
- msgstr 'タスク#%d "%s" はプロジェクト "%s" へ移動されました '
- msgid 'Move the task to another column when the due date is less than a certain number of days'
- msgstr '期限までの日数が規定値以下になったら、タスクを別のカラムに移動する'
- msgid 'Automatically update the start date when the task is moved away from a specific column'
- msgstr 'タスクが特定のカラムから移動された時、自動的に開始日を更新する'
- msgid 'HTTP Client:'
- msgstr 'HTTPクライアント'
- msgid 'Assigned'
- msgstr '割当済み'
- msgid 'Task limits apply to each swimlane individually'
- msgstr 'スイムレーン毎にタスク数制限を適用する。'
- msgid 'Column task limits apply to each swimlane individually'
- msgstr 'スイムレーン毎にカラムのタスク数制限が適用されます。'
- msgid 'Column task limits are applied to each swimlane individually'
- msgstr 'カラムのタスク数制限はスイムレーン毎に適用されています。'
- msgid 'Column task limits are applied across swimlanes'
- msgstr 'カラムのタスク数制限はスイムレーンを跨いで適用されています。'
- msgid 'Task limit: '
- msgstr 'タスク数制限'
- msgid 'Change to global tag'
- msgstr 'グローバルタグに変換'
- msgid 'Do you really want to make the tag "%s" global?'
- msgstr '本当にタグ "%s" をグローバルタグに変換しますか?'
- msgid 'Enable global tags for this project'
- msgstr 'このプロジェクトでグローバルタグを有効にする'
- msgid 'Group membership(s):'
- msgstr '所属グループ'
- msgid '%s is a member of the following group(s): %s'
- msgstr 'メンバー %s は以下のグループに所属しています: %s'
- msgid '%d/%d group(s) shown'
- msgstr 'グループ %d/%d を表示'
- msgid 'Subtask creation or modification'
- msgstr 'サブタスクが作成or更新されました'
- msgid 'Assign the task to a specific user when the task is moved to a specific swimlane'
- msgstr '特定のスイムレーンにタスクを移動した時に、特定のユーザーにタスクを割当てる'
- msgid 'Comment'
- msgstr 'コメント'
- msgid 'Collapse vertically'
- msgstr '縦に折りたたむ'
- msgid 'Expand vertically'
- msgstr '縦の折りたたみを解除'
- msgid 'MXN - Mexican Peso'
- msgstr 'メキシコ・ペソ'
- msgid 'Estimated vs actual time per column'
- msgstr ''
- msgid 'HUF - Hungarian Forint'
- msgstr ''
- msgid 'XBT - Bitcoin'
- msgstr 'XBT - Bitcoin'
- msgid 'You must select a file to upload as your avatar!'
- msgstr ''
- msgid 'The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)'
- msgstr ''
- msgid 'Automatically set the due date when the task is moved away from a specific column'
- msgstr ''
- msgid 'No other projects found.'
- msgstr ''
- msgid 'Please choose a project you want to copy the tasks from.'
- msgstr ''
- msgid 'Import Tasks'
- msgstr ''
- msgid 'Copy'
- msgstr ''
- msgid 'Tasks copied successfully.'
- msgstr ''
- msgid 'Unable to copy tasks.'
- msgstr ''
+msgid "number.decimals_separator"
+msgstr "."
+msgid "number.thousands_separator"
+msgstr ","
+msgid "None"
+msgstr "なし"
+msgid "Edit"
+msgstr "編集"
+msgid "Remove"
+msgstr "削除"
+msgid "Yes"
+msgstr "はい"
+msgid "No"
+msgstr "いいえ"
+msgid "cancel"
+msgstr "キャンセル"
+msgid "or"
+msgstr "または"
+msgid "Yellow"
+msgstr "イエロー"
+msgid "Blue"
+msgstr "ブルー"
+msgid "Green"
+msgstr "グリーン"
+msgid "Purple"
+msgstr "パープル"
+msgid "Red"
+msgstr "レッド"
+msgid "Orange"
+msgstr "オレンジ"
+msgid "Grey"
+msgstr "グレー"
+msgid "Brown"
+msgstr "ブラウン"
+msgid "Deep Orange"
+msgstr "ディープオレンジ"
+msgid "Dark Grey"
+msgstr "ダークグレー"
+msgid "Pink"
+msgstr "ピンク"
+msgid "Teal"
+msgstr "ティール"
+msgid "Cyan"
+msgstr "シアン"
+msgid "Lime"
+msgstr "ライム"
+msgid "Light Green"
+msgstr "ライトグリーン"
+msgid "Amber"
+msgstr "アンバー"
+msgid "Save"
+msgstr "保存"
+msgid "Login"
+msgstr "ログイン"
+msgid "Official website:"
+msgstr "公式 Webサイト："
+msgid "Unassigned"
+msgstr "担当なし"
+msgid "View this task"
+msgstr "このタスクを見る"
+msgid "Remove user"
+msgstr "ユーザーの削除"
+msgid "Do you really want to remove this user: \"%s\"?"
+msgstr "ユーザー「%s」を削除しますか？"
+msgid "All users"
+msgstr "すべてのユーザー"
+msgid "Username"
+msgstr "ユーザー名"
+msgid "Password"
+msgstr "パスワード"
+msgid "Administrator"
+msgstr "システム管理者"
+msgid "Sign in"
+msgstr "ログイン"
+msgid "Users"
+msgstr "ユーザー"
+msgid "Forbidden"
+msgstr "アクセス拒否"
+msgid "Access Forbidden"
+msgstr "アクセスが拒否されました"
+msgid "Edit user"
+msgstr "ユーザーを編集する"
+msgid "Logout"
+msgstr "ログアウト"
+msgid "Bad username or password"
+msgstr "ユーザー名またはパスワードが違います"
+msgid "Edit project"
+msgstr "プロジェクトを編集"
+msgid "Name"
+msgstr "名前"
+msgid "Projects"
+msgstr "プロジェクト"
+msgid "No project"
+msgstr "プロジェクトがありません"
+msgid "Project"
+msgstr "プロジェクト"
+msgid "Status"
+msgstr "ステータス"
+msgid "Tasks"
+msgstr "タスク"
+msgid "Board"
+msgstr "ボード"
+msgid "Actions"
+msgstr "アクション"
+msgid "Inactive"
+msgstr "無効"
+msgid "Active"
+msgstr "有効"
+msgid "Unable to update this board."
+msgstr "ボードを更新できませんでした"
+msgid "Disable"
+msgstr "無効にする"
+msgid "Enable"
+msgstr "有効にする"
+msgid "New project"
+msgstr "プロジェクト作成"
+msgid "Do you really want to remove this project: \"%s\"?"
+msgstr "プロジェクト「%s」を削除しますか？"
+msgid "Remove project"
+msgstr "プロジェクトの削除"
+msgid "Edit the board for \"%s\""
+msgstr "ボード「%s」を編集"
+msgid "Add a new column"
+msgstr "カラムの追加"
+msgid "Title"
+msgstr "タイトル"
+msgid "Assigned to %s"
+msgstr "%sが担当"
+msgid "Remove a column"
+msgstr "カラムの削除"
+msgid "Unable to remove this column."
+msgstr "カラムを削除できませんでした"
+msgid "Do you really want to remove this column: \"%s\"?"
+msgstr "カラム「%s」を削除しますか？"
+msgid "Settings"
+msgstr "設定"
+msgid "Application settings"
+msgstr "アプリケーション設定"
+msgid "Language"
+msgstr "言語"
+msgid "Webhook token:"
+msgstr "Webhook トークン："
+msgid "API token:"
+msgstr "API トークン："
+msgid "Database size:"
+msgstr "データベースのサイズ："
+msgid "Download the database"
+msgstr "データベースのダウンロード"
+msgid "Optimize the database"
+msgstr "データベースの最適化"
+msgid "(VACUUM command)"
+msgstr "(VACUUM コマンド)"
+msgid "(Gzip compressed Sqlite file)"
+msgstr "(GZip コマンドで圧縮された Sqlite ファイル)"
+msgid "Close a task"
+msgstr "タスクを完了"
+msgid "Column"
+msgstr "カラム"
+msgid "Color"
+msgstr "色"
+msgid "Assignee"
+msgstr "担当"
+msgid "Create another task"
+msgstr "続けて別のタスクを追加"
+msgid "New task"
+msgstr "タスクを追加"
+msgid "Open a task"
+msgstr "タスクを開く"
+msgid "Do you really want to open this task: \"%s\"?"
+msgstr "タスク「%s」を作成しますか？"
+msgid "Back to the board"
+msgstr "ボードに戻る"
+msgid "There is nobody assigned"
+msgstr "担当者がいません"
+msgid "Column on the board:"
+msgstr "カラム："
+msgid "Close this task"
+msgstr "タスクを完了"
+msgid "Open this task"
+msgstr "このタスクを開く"
+msgid "There is no description."
+msgstr "説明がありません"
+msgid "Add a new task"
+msgstr "タスクを追加"
+msgid "The username is required"
+msgstr "ユーザー名が必要です"
+msgid "The maximum length is %d characters"
+msgstr "最大 %d 文字です"
+msgid "The minimum length is %d characters"
+msgstr "最小 %d 文字必要です"
+msgid "The password is required"
+msgstr "パスワードが必要です"
+msgid "This value must be an integer"
+msgstr "整数で入力してください"
+msgid "The username must be unique"
+msgstr "ユーザー名がすでに使用されています"
+msgid "The user id is required"
+msgstr "ユーザー ID が必要です"
+msgid "Passwords don't match"
+msgstr "パスワードが一致しません"
+msgid "The confirmation is required"
+msgstr "確認用のパスワードを入力してください"
+msgid "The project is required"
+msgstr "プロジェクトが必要です"
+msgid "The id is required"
+msgstr "ID が必要です"
+msgid "The project id is required"
+msgstr "プロジェクト ID が必要です"
+msgid "The project name is required"
+msgstr "プロジェクト名が必要です"
+msgid "The title is required"
+msgstr "タイトルが必要です"
+msgid "Settings saved successfully."
+msgstr "設定を保存しました"
+msgid "Unable to save your settings."
+msgstr "設定の保存に失敗しました"
+msgid "Database optimization done."
+msgstr "データベースの最適化が終わりました"
+msgid "Your project has been created successfully."
+msgstr "プロジェクトを作成しました"
+msgid "Unable to create your project."
+msgstr "プロジェクトの作成に失敗しました"
+msgid "Project updated successfully."
+msgstr "プロジェクトを更新しました"
+msgid "Unable to update this project."
+msgstr "プロジェクトの更新に失敗しました"
+msgid "Unable to remove this project."
+msgstr "プロジェクトの削除に失敗しました"
+msgid "Project removed successfully."
+msgstr "プロジェクトを削除しました"
+msgid "Project activated successfully."
+msgstr "プロジェクトを有効にしました"
+msgid "Unable to activate this project."
+msgstr "プロジェクトを有効にできませんでした"
+msgid "Project disabled successfully."
+msgstr "プロジェクトを無効にしました"
+msgid "Unable to disable this project."
+msgstr "プロジェクトを無効にできませんでした"
+msgid "Unable to open this task."
+msgstr "タスクの作成に失敗しました"
+msgid "Task opened successfully."
+msgstr "タスクを作成しました"
+msgid "Unable to close this task."
+msgstr "タスクの完了に失敗しました"
+msgid "Task closed successfully."
+msgstr "タスクを完了しました"
+msgid "Unable to update your task."
+msgstr "タスクの更新に失敗しました"
+msgid "Task updated successfully."
+msgstr "タスクを更新しました"
+msgid "Unable to create your task."
+msgstr "タスクの追加に失敗しました"
+msgid "Task created successfully."
+msgstr "タスクを追加しました"
+msgid "User created successfully."
+msgstr "ユーザーを追加しました"
+msgid "Unable to create your user."
+msgstr "ユーザーの追加に失敗しました"
+msgid "User updated successfully."
+msgstr "ユーザーを更新しました"
+msgid "User removed successfully."
+msgstr "ユーザーを削除しました"
+msgid "Unable to remove this user."
+msgstr "ユーザーの削除に失敗しました"
+msgid "Board updated successfully."
+msgstr "ボードを更新しました"
+msgid "Ready"
+msgstr "Ready"
+msgid "Backlog"
+msgstr "Backlog"
+msgid "Work in progress"
+msgstr "Work in progress"
+msgid "Done"
+msgstr "Done"
+msgid "Application version:"
+msgstr "アプリケーションのバージョン："
+msgid "Id"
+msgstr "ID"
+msgid "Public link"
+msgstr "公開アクセス用リンク"
+msgid "Timezone"
+msgstr "タイムゾーン"
+msgid "Sorry, I didn't find this information in my database!"
+msgstr "データベース上で情報が見つかりませんでした！"
+msgid "Page not found"
+msgstr "ページが見つかりません"
+msgid "Complexity"
+msgstr "複雑さ"
+msgid "Task limit"
+msgstr "タスク数制限"
+msgid "Task count"
+msgstr "タスク数"
+msgid "User"
+msgstr "ユーザー"
+msgid "Comments"
+msgstr "コメント"
+msgid "Comment is required"
+msgstr "コメントを入力してください"
+msgid "Comment added successfully."
+msgstr "コメントを追加しました"
+msgid "Unable to create your comment."
+msgstr "コメントの追加に失敗しました"
+msgid "Due Date"
+msgstr "期限"
+msgid "Invalid date"
+msgstr "日付が無効です"
+msgid "Automatic actions"
+msgstr "自動アクションの管理"
+msgid "Your automatic action has been created successfully."
+msgstr "自動アクションを作成しました"
+msgid "Unable to create your automatic action."
+msgstr "自動アクションの作成に失敗しました"
+msgid "Remove an action"
+msgstr "自動アクションの削除"
+msgid "Unable to remove this action."
+msgstr "自動アクションの削除に失敗しました"
+msgid "Action removed successfully."
+msgstr "自動アクションの削除に成功しました"
+msgid "Automatic actions for the project \"%s\""
+msgstr "プロジェクト「%s」の自動アクション"
+msgid "Add an action"
+msgstr "自動アクションの追加"
+msgid "Event name"
+msgstr "イベント名"
+msgid "Action"
+msgstr "アクション"
+msgid "Event"
+msgstr "イベント"
+msgid "When the selected event occurs execute the corresponding action."
+msgstr "選択されたイベントが発生した時、対応するアクションを実行"
+msgid "Next step"
+msgstr "次のステップ"
+msgid "Define action parameters"
+msgstr "アクションのパラメーター"
+msgid "Do you really want to remove this action: \"%s\"?"
+msgstr "自動アクション「%s」を削除しますか？"
+msgid "Remove an automatic action"
+msgstr "自動アクションの削除"
+msgid "Assign the task to a specific user"
+msgstr "タスクの担当者を割当てる"
+msgid "Assign the task to the person who does the action"
+msgstr "アクションを起こしたユーザーを担当者にする"
+msgid "Duplicate the task to another project"
+msgstr "別のプロジェクトにタスクを複製"
+msgid "Move a task to another column"
+msgstr "タスクを別のカラムに移動"
+msgid "Task modification"
+msgstr "タスクの変更"
+msgid "Task creation"
+msgstr "タスクを作る"
+msgid "Closing a task"
+msgstr "タスクを完了"
+msgid "Assign a color to a specific user"
+msgstr "色をユーザーに割当てる"
+msgid "Position"
+msgstr "位置"
+msgid "Duplicate to project"
+msgstr "別プロジェクトに複製"
+msgid "Duplicate"
+msgstr "複製"
+msgid "Link"
+msgstr "リンク"
+msgid "Comment updated successfully."
+msgstr "コメントを更新しました"
+msgid "Unable to update your comment."
+msgstr "コメントの更新に失敗しました"
+msgid "Remove a comment"
+msgstr "コメントを削除"
+msgid "Comment removed successfully."
+msgstr "コメントを削除しました"
+msgid "Unable to remove this comment."
+msgstr "コメントの削除に失敗しました"
+msgid "Do you really want to remove this comment?"
+msgstr "コメントを削除しますか？"
+msgid "Current password for the user \"%s\""
+msgstr "ユーザー「%s」の現在のパスワード"
+msgid "The current password is required"
+msgstr "現在のパスワードを入力してください"
+msgid "Wrong password"
+msgstr "パスワードが違います"
+msgid "Unknown"
+msgstr "不明"
+msgid "Last logins"
+msgstr "ログインの一覧"
+msgid "Login date"
+msgstr "ログイン日時"
+msgid "Authentication method"
+msgstr "認証方法"
+msgid "IP address"
+msgstr "IP アドレス"
+msgid "User agent"
+msgstr "ユーザーエージェント"
+msgid "Persistent connections"
+msgstr "既存のコネクション"
+msgid "No session."
+msgstr "セッションなし"
+msgid "Expiration date"
+msgstr "有効期限"
+msgid "Remember Me"
+msgstr "次回から自動的にログイン"
+msgid "Creation date"
+msgstr "作成日"
+msgid "Everybody"
+msgstr "全員"
+msgid "Open"
+msgstr "作成"
+msgid "Closed"
+msgstr "完了"
+msgid "Search"
+msgstr "検索"
+msgid "Nothing found."
+msgstr "結果なし"
+msgid "Due date"
+msgstr "期限"
+msgid "Description"
+msgstr "説明"
+msgid "%d comments"
+msgstr "%d 個のコメント"
+msgid "%d comment"
+msgstr "%d 個のコメント"
+msgid "Email address invalid"
+msgstr "メールアドレスが正しくありません"
+msgid "Your external account is not linked anymore to your profile."
+msgstr "あなたの外部アカウントはプロフィールにリンクされていません"
+msgid "Unable to unlink your external account."
+msgstr "外部アカウントのリンクを解除できません"
+msgid "External authentication failed"
+msgstr "外部認証に失敗しました"
+msgid "Your external account is linked to your profile successfully."
+msgstr "あなたの外部アカウントはプロフィールに正常にリンクしています"
+msgid "Email"
+msgstr "Email"
+msgid "Task removed successfully."
+msgstr "タスクを削除しました"
+msgid "Unable to remove this task."
+msgstr "タスクの削除に失敗しました"
+msgid "Remove a task"
+msgstr "タスクの削除"
+msgid "Do you really want to remove this task: \"%s\"?"
+msgstr "タスク「%s」を削除しますか？"
+msgid "Assign automatically a color based on a category"
+msgstr "カテゴリに基いて色を変える"
+msgid "Assign automatically a category based on a color"
+msgstr "色に基いてカテゴリを変える"
+msgid "Task creation or modification"
+msgstr "タスクの作成または変更"
+msgid "Category"
+msgstr "カテゴリ"
+msgid "Category:"
+msgstr "カテゴリ："
+msgid "Categories"
+msgstr "カテゴリ"
+msgid "Your category has been created successfully."
+msgstr "カテゴリを作成しました"
+msgid "This category has been updated successfully."
+msgstr "カテゴリを更新しました"
+msgid "Unable to update this category."
+msgstr "カテゴリの更新に失敗しました"
+msgid "Remove a category"
+msgstr "カテゴリの削除"
+msgid "Category removed successfully."
+msgstr "カテゴリを削除しました"
+msgid "Unable to remove this category."
+msgstr "カテゴリを削除できませんでした"
+msgid "Category modification for the project \"%s\""
+msgstr "プロジェクト「%s」のカテゴリの編集"
+msgid "Category Name"
+msgstr "カテゴリ名"
+msgid "Add a new category"
+msgstr "カテゴリの追加"
+msgid "Do you really want to remove this category: \"%s\"?"
+msgstr "カテゴリ「%s」を削除しますか？"
+msgid "All categories"
+msgstr "すべてのカテゴリ"
+msgid "No category"
+msgstr "カテゴリなし"
+msgid "The name is required"
+msgstr "名前を入力してください"
+msgid "Remove a file"
+msgstr "ファイルの削除"
+msgid "Unable to remove this file."
+msgstr "ファイルの削除に失敗しました"
+msgid "File removed successfully."
+msgstr "ファイルを削除しました"
+msgid "Attach a document"
+msgstr "ドキュメントを添付"
+msgid "Do you really want to remove this file: \"%s\"?"
+msgstr "ファイル「%s」を削除しますか？"
+msgid "Attachments"
+msgstr "添付"
+msgid "Edit the task"
+msgstr "タスクを編集"
+msgid "Add a comment"
+msgstr "コメントを追加"
+msgid "Edit a comment"
+msgstr "コメントを編集"
+msgid "Summary"
+msgstr "要約"
+msgid "Time tracking"
+msgstr "時間の追跡"
+msgid "Estimate:"
+msgstr "見積："
+msgid "Spent:"
+msgstr "経過："
+msgid "Do you really want to remove this sub-task?"
+msgstr "サブタスクを削除しますか？"
+msgid "Remaining:"
+msgstr "残："
+msgid "hours"
+msgstr "時間"
+msgid "estimated"
+msgstr "見積"
+msgid "Sub-Tasks"
+msgstr "サブタスク"
+msgid "Add a sub-task"
+msgstr "サブタスクを追加"
+msgid "Original estimate"
+msgstr "初期の見積"
+msgid "Create another sub-task"
+msgstr "続けて別のサブタスクを追加"
+msgid "Time spent"
+msgstr "経過時間"
+msgid "Edit a sub-task"
+msgstr "サブタスクを編集"
+msgid "Remove a sub-task"
+msgstr "サブタスクを削除"
+msgid "The time must be a numeric value"
+msgstr "時間は数字で入力してください"
+msgid "Todo"
+msgstr "作業予定"
+msgid "In progress"
+msgstr "作業中"
+msgid "Sub-task removed successfully."
+msgstr "サブタスクを削除しました"
+msgid "Unable to remove this sub-task."
+msgstr "サブタスクの削除に失敗しました"
+msgid "Sub-task updated successfully."
+msgstr "サブタスクを更新しました"
+msgid "Unable to update your sub-task."
+msgstr "サブタスクの更新に失敗しました"
+msgid "Unable to create your sub-task."
+msgstr "サブタスクの追加に失敗しました"
+msgid "Maximum size: "
+msgstr "最大："
+msgid "Display another project"
+msgstr "別のプロジェクトを表示"
+msgid "Created by %s"
+msgstr "%s が作成"
+msgid "Tasks Export"
+msgstr "タスクの出力"
+msgid "Start Date"
+msgstr "開始日"
+msgid "Execute"
+msgstr "実行"
+msgid "Task Id"
+msgstr "タスク ID"
+msgid "Creator"
+msgstr "作成者"
+msgid "Modification date"
+msgstr "更新日"
+msgid "Completion date"
+msgstr "完了日"
+msgid "Clone"
+msgstr "複製"
+msgid "Project cloned successfully."
+msgstr "プロジェクトを複製しました"
+msgid "Unable to clone this project."
+msgstr "プロジェクトの複製に失敗しました"
+msgid "Enable email notifications"
+msgstr "メール通知を設定"
+msgid "Task position:"
+msgstr "タスクの位置："
+msgid "The task #%d has been opened."
+msgstr "タスク #%d を作成しました"
+msgid "The task #%d has been closed."
+msgstr "タスク #%d を完了しました"
+msgid "Sub-task updated"
+msgstr "サブタスクの更新"
+msgid "Title:"
+msgstr "タイトル："
+msgid "Status:"
+msgstr "ステータス："
+msgid "Assignee:"
+msgstr "担当："
+msgid "Time tracking:"
+msgstr "時間計測："
+msgid "New sub-task"
+msgstr "新しいサブタスク"
+msgid "New attachment added \"%s\""
+msgstr "添付ファイル「%s」が追加されました"
+msgid "New comment posted by %s"
+msgstr "「%s」の新しいコメントが追加されました"
+msgid "New comment"
+msgstr "新しいコメント"
+msgid "Comment updated"
+msgstr "コメントが更新されました"
+msgid "New subtask"
+msgstr "新しいサブタスク"
+msgid "I only want to receive notifications for these projects:"
+msgstr "以下のプロジェクトにのみ通知を受け取る："
+msgid "view the task on Kanboard"
+msgstr "Kanboard でタスクを見る"
+msgid "Public access"
+msgstr "公開アクセス"
+msgid "Disable public access"
+msgstr "公開アクセスを無効にする"
+msgid "Enable public access"
+msgstr "公開アクセスを有効にする"
+msgid "Public access disabled"
+msgstr "公開アクセスは無効化されています"
+msgid "Move the task to another project"
+msgstr "タスクを別プロジェクトに移動"
+msgid "Move to project"
+msgstr "別プロジェクトに移動"
+msgid "Do you really want to duplicate this task?"
+msgstr "タスクを複製しますか？"
+msgid "Duplicate a task"
+msgstr "タスクの複製"
+msgid "External accounts"
+msgstr "外部アカウント"
+msgid "Account type"
+msgstr "アカウントの種類"
+msgid "Local"
+msgstr "ローカル"
+msgid "Remote"
+msgstr "リモート"
+msgid "Enabled"
+msgstr "有効"
+msgid "Disabled"
+msgstr "無効"
+msgid "Login:"
+msgstr "ユーザー名："
+msgid "Full Name:"
+msgstr "名前："
+msgid "Email:"
+msgstr "Email："
+msgid "Notifications:"
+msgstr "通知："
+msgid "Notifications"
+msgstr "通知"
+msgid "Account type:"
+msgstr "アカウントの種類："
+msgid "Edit profile"
+msgstr "プロフィールの編集"
+msgid "Change password"
+msgstr "パスワードの変更"
+msgid "Password modification"
+msgstr "パスワードの変更"
+msgid "External authentications"
+msgstr "外部認証"
+msgid "Never connected."
+msgstr "未接続"
+msgid "No external authentication enabled."
+msgstr "外部認証が設定されていません"
+msgid "Password modified successfully."
+msgstr "パスワードを変更しました"
+msgid "Unable to change the password."
+msgstr "パスワードを変更できませんでした"
+msgid "Change category"
+msgstr "カテゴリの変更"
+msgid "%s updated the task %s"
+msgstr "%s がタスク %s を更新しました"
+msgid "%s opened the task %s"
+msgstr "%s がタスク %s を作成しました"
+msgid "%s moved the task %s to the position #%d in the column \"%s\""
+msgstr "%s がタスク %s をポジション #%d カラム %s に移動しました"
+msgid "%s moved the task %s to the column \"%s\""
+msgstr "%s がタスク %s をカラム「%s」に移動しました"
+msgid "%s created the task %s"
+msgstr "%s がタスク %s を作成しました"
+msgid "%s closed the task %s"
+msgstr "%s がタスク %s を完了しました"
+msgid "%s created a subtask for the task %s"
+msgstr "%s がタスク %s のサブタスクを追加しました"
+msgid "%s updated a subtask for the task %s"
+msgstr "%s がタスク %s のサブタスクを更新しました"
+msgid "Assigned to %s with an estimate of %s/%sh"
+msgstr "担当者 %s は見積を %s/%s時間 に変更しました"
+msgid "Not assigned, estimate of %sh"
+msgstr "担当者無しで見積を %s時間 に変更しました"
+msgid "%s updated a comment on the task %s"
+msgstr "%s がタスク %s のコメントを更新しました"
+msgid "%s commented the task %s"
+msgstr "%s がタスク %s にコメントしました"
+msgid "%s's activity"
+msgstr "%s の活動状況"
+msgid "RSS feed"
+msgstr "RSS フィード"
+msgid "%s updated a comment on the task #%d"
+msgstr "%s がタスク #%d のコメントを更新しました"
+msgid "%s commented on the task #%d"
+msgstr "%s がタスク #%d にコメントしました"
+msgid "%s updated a subtask for the task #%d"
+msgstr "%s がタスク #%d のサブタスクを更新しました"
+msgid "%s created a subtask for the task #%d"
+msgstr "%s がタスク #%d のサブタスクを追加しました"
+msgid "%s updated the task #%d"
+msgstr "%s がタスク #%d を更新しました"
+msgid "%s created the task #%d"
+msgstr "%s がタスク #%d を追加しました"
+msgid "%s closed the task #%d"
+msgstr "%s がタスク #%d を完了しました"
+msgid "%s opened the task #%d"
+msgstr "%s がタスク #%d を作成しました"
+msgid "Activity"
+msgstr "活動状況"
+msgid "Default values are \"%s\""
+msgstr "既定値は「%s」"
+msgid "Default columns for new projects (Comma-separated)"
+msgstr "新規プロジェクトの既定カラム (コンマで区切って入力)"
+msgid "Task assignee change"
+msgstr "担当者の変更"
+msgid "%s changed the assignee of the task #%d to %s"
+msgstr "%s がタスク #%d の担当を %s に変更しました"
+msgid "%s changed the assignee of the task %s to %s"
+msgstr "%s がタスク %s の担当を %s に変更しました"
+msgid "New password for the user \"%s\""
+msgstr "ユーザー「%s」の新しいパスワード"
+msgid "Choose an event"
+msgstr "イベントの選択"
+msgid "Create a task from an external provider"
+msgstr "タスクを外部サービスから作成"
+msgid "Change the assignee based on an external username"
+msgstr "担当者を外部サービスに基いて変更"
+msgid "Change the category based on an external label"
+msgstr "カテゴリを外部サービスに基いて変更"
+msgid "Reference"
+msgstr "参照"
+msgid "Label"
+msgstr "ラベル"
+msgid "Database"
+msgstr "データベース"
+msgid "About"
+msgstr "情報"
+msgid "Database driver:"
+msgstr "データベースドライバ："
+msgid "Board settings"
+msgstr "基本設定"
+msgid "Webhook settings"
+msgstr "Webhook の設定"
+msgid "Reset token"
+msgstr "トークンのリセット"
+msgid "API endpoint:"
+msgstr "API エンドポイント："
+msgid "Refresh interval for personal board"
+msgstr "非公開ボードの更新頻度"
+msgid "Refresh interval for public board"
+msgstr "公開ボードの更新頻度"
+msgid "Task highlight period"
+msgstr "タスクのハイライト期間"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "タスクが最近更新されたとみなす期間(0 はハイライト無効、既定 2 日)"
+msgid "Frequency in second (60 seconds by default)"
+msgstr "秒数 (既定 60 秒)"
+msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
+msgstr "秒数 (0 は機能を無効化、既定 10 秒)"
+msgid "Application URL"
+msgstr "アプリケーションの URL"
+msgid "Token regenerated."
+msgstr "トークンが再生成されました"
+msgid "Date format"
+msgstr "データのフォーマット"
+msgid "ISO format is always accepted, example: \"%s\" and \"%s\""
+msgstr "ISO フォーマットが入力できます(例: %s または %s)"
+msgid "New personal project"
+msgstr "非公開プロジェクト作成"
+msgid "This project is personal"
+msgstr "このプロジェクトは非公開です"
+msgid "Add"
+msgstr "追加"
+msgid "Start date"
+msgstr "開始時間"
+msgid "Time estimated"
+msgstr "見積時間"
+msgid "There is nothing assigned to you."
+msgstr "何もアサインされていません"
+msgid "My tasks"
+msgstr "自分のタスク"
+msgid "Activity stream"
+msgstr "活動状況"
+msgid "Dashboard"
+msgstr "ダッシュボード"
+msgid "Confirmation"
+msgstr "確認"
+msgid "Webhooks"
+msgstr "Webhook"
+msgid "API"
+msgstr "API"
+msgid "Create a comment from an external provider"
+msgstr "外部サービスからコメントを作成"
+msgid "Project management"
+msgstr "プロジェクト管理"
+msgid "Columns"
+msgstr "カラム"
+msgid "Task"
+msgstr "タスク"
+msgid "Percentage"
+msgstr "割合"
+msgid "Number of tasks"
+msgstr "タスク数"
+msgid "Task distribution"
+msgstr "タスク分布"
+msgid "Analytics"
+msgstr "分析"
+msgid "Subtask"
+msgstr "サブタスク"
+msgid "User repartition"
+msgstr "担当者分布"
+msgid "Clone this project"
+msgstr "このプロジェクトを複製"
+msgid "Column removed successfully."
+msgstr "カラムを削除しました"
+msgid "Not enough data to show the graph."
+msgstr "グラフを描画するためのデータが不足しています"
+msgid "Previous"
+msgstr "戻る"
+msgid "The id must be an integer"
+msgstr "id は数字でなければなりません"
+msgid "The project id must be an integer"
+msgstr "project id は数字でなければなりません"
+msgid "The status must be an integer"
+msgstr "status は数字でなければなりません"
+msgid "The subtask id is required"
+msgstr "subtask id が必要です"
+msgid "The subtask id must be an integer"
+msgstr "subtask id は数字でなければなりません"
+msgid "The task id is required"
+msgstr "task id が必要です"
+msgid "The task id must be an integer"
+msgstr "task id は数字でなければなりません"
+msgid "The user id must be an integer"
+msgstr "user id は数字でなければなりません"
+msgid "This value is required"
+msgstr "この値が必要です"
+msgid "This value must be numeric"
+msgstr "この値は数字でなければなりません"
+msgid "Unable to create this task."
+msgstr "このタスクを作成できませんでした"
+msgid "Cumulative flow diagram"
+msgstr "累積フロー図"
+msgid "Daily project summary"
+msgstr "日時プロジェクトサマリー"
+msgid "Daily project summary export"
+msgstr "日時プロジェクトサマリーの出力"
+msgid "Exports"
+msgstr "出力"
+msgid "This export contains the number of tasks per column grouped per day."
+msgstr "この出力は日時のカラムごとのタスク数を集計したものです"
+msgid "Active swimlanes"
+msgstr "アクティブなスイムレーン"
+msgid "Add a new swimlane"
+msgstr "新しいスイムレーン"
+msgid "Default swimlane"
+msgstr "既定スイムレーン"
+msgid "Do you really want to remove this swimlane: \"%s\"?"
+msgstr "スイムレーン「%s」を削除しますか？"
+msgid "Inactive swimlanes"
+msgstr "無効なスイムレーン"
+msgid "Remove a swimlane"
+msgstr "スイムレーンの削除"
+msgid "Swimlane modification for the project \"%s\""
+msgstr "「%s」に対するスイムレーン変更"
+msgid "Swimlane removed successfully."
+msgstr "スイムレーンを削除しました"
+msgid "Swimlanes"
+msgstr "スイムレーン"
+msgid "Swimlane updated successfully."
+msgstr "スイムレーンを更新しました"
+msgid "Unable to remove this swimlane."
+msgstr "スイムレーンを削除できませんでした"
+msgid "Unable to update this swimlane."
+msgstr "スイムレーンを更新できませんでした"
+msgid "Your swimlane has been created successfully."
+msgstr "スイムレーンが作成されました"
+msgid "Example: \"Bug, Feature Request, Improvement\""
+msgstr "例: バグ, 機能, 改善"
+msgid "Default categories for new projects (Comma-separated)"
+msgstr "新しいプロジェクトの既定カテゴリー (コンマ区切り)"
+msgid "Integrations"
+msgstr "連携"
+msgid "Integration with third-party services"
+msgstr "サードパーティサービスとの連携"
+msgid "Subtask Id"
+msgstr "サブタスク Id"
+msgid "Subtasks"
+msgstr "サブタスク"
+msgid "Subtasks Export"
+msgstr "サブタスクの出力"
+msgid "Task Title"
+msgstr "タスクタイトル"
+msgid "Untitled"
+msgstr "タイトル無し"
+msgid "Application default"
+msgstr "アプリケーションの既定値"
+msgid "Language:"
+msgstr "言語："
+msgid "Timezone:"
+msgstr "タイムゾーン："
+msgid "All columns"
+msgstr "全てのカラム"
+msgid "Next"
+msgstr "次へ"
+msgid "#%d"
+msgstr "#%d"
+msgid "All swimlanes"
+msgstr "全てのスイムレーン"
+msgid "All colors"
+msgstr "全ての色"
+msgid "Moved to column %s"
+msgstr "カラム %s へ移動しました"
+msgid "User dashboard"
+msgstr "ユーザーダッシュボード"
+msgid "Allow only one subtask in progress at the same time for a user"
+msgstr "1ユーザーにつき1件のタスクのみを進行中にできるよう制限"
+msgid "Edit column \"%s\""
+msgstr "カラム「%s」の編集"
+msgid "Select the new status of the subtask: \"%s\""
+msgstr "サブタスク「%s」のステータスを選択"
+msgid "Subtask timesheet"
+msgstr "サブタスクのタイムシート"
+msgid "There is nothing to show."
+msgstr "何も表示するものがありません"
+msgid "Time Tracking"
+msgstr "時間の追跡"
+msgid "You already have one subtask in progress"
+msgstr "すでに進行中のサブタスクがあります"
+msgid "Which parts of the project do you want to duplicate?"
+msgstr "プロジェクトの何を複製しますか？"
+msgid "Disallow login form"
+msgstr "ログインフォームからのログインを許可しない"
+msgid "Start"
+msgstr "開始"
+msgid "End"
+msgstr "終了"
+msgid "Task age in days"
+msgstr "タスクの経過日数"
+msgid "Days in this column"
+msgstr "カラムでの経過日数"
+msgid "%dd"
+msgstr "%d 日"
+msgid "Add a new link"
+msgstr "新しいリンクの追加"
+msgid "Do you really want to remove this link: \"%s\"?"
+msgstr "リンク「%s」を削除しますか？"
+msgid "Do you really want to remove this link with task #%d?"
+msgstr "タスク#%dとのリンクを削除しますか？"
+msgid "Field required"
+msgstr "フィールドが必要です"
+msgid "Link added successfully."
+msgstr "リンクを追加しました"
+msgid "Link updated successfully."
+msgstr "リンクを更新しました"
+msgid "Link removed successfully."
+msgstr "リンクを削除しました"
+msgid "Link labels"
+msgstr "リンクラベル"
+msgid "Link modification"
+msgstr "リンクの変更"
+msgid "Opposite label"
+msgstr "反対のラベル"
+msgid "Remove a link"
+msgstr "ラベルの削除"
+msgid "The labels must be different"
+msgstr "異なるラベルを指定してください"
+msgid "There is no link."
+msgstr "リンクがありません"
+msgid "This label must be unique"
+msgstr "ラベルはユニークである必要があります"
+msgid "Unable to create your link."
+msgstr "リンクを作成できませんでした"
+msgid "Unable to update your link."
+msgstr "リンクを更新できませんでした"
+msgid "Unable to remove this link."
+msgstr "リンクを削除できませんでした"
+msgid "relates to"
+msgstr "次に関連します"
+msgid "blocks"
+msgstr "次をブロックしています"
+msgid "is blocked by"
+msgstr "次にブロックされています"
+msgid "duplicates"
+msgstr "次に重複しています"
+msgid "is duplicated by"
+msgstr "次に重複しています"
+msgid "is a child of"
+msgstr "次の子タスクです　"
+msgid "is a parent of"
+msgstr "次の親タスクです"
+msgid "targets milestone"
+msgstr "次のマイルストーンを目標とします"
+msgid "is a milestone of"
+msgstr "次のタスクのマイルストーンです"
+msgid "fixes"
+msgstr "次を修正します"
+msgid "is fixed by"
+msgstr "次に修正されます"
+msgid "This task"
+msgstr "このタスクは"
+msgid "<1h"
+msgstr "<１時間"
+msgid "%dh"
+msgstr "%d 時間"
+msgid "Expand tasks"
+msgstr "タスクを詳細表示"
+msgid "Collapse tasks"
+msgstr "タスクを簡略表示"
+msgid "Expand/collapse tasks"
+msgstr "タスクの展開／閉じる"
+msgid "Close dialog box"
+msgstr "ダイアログボックスを閉じる"
+msgid "Submit a form"
+msgstr "フォームを送信"
+msgid "Board view"
+msgstr "ボードビュー"
+msgid "Keyboard shortcuts"
+msgstr "キーボードショートカット"
+msgid "Open board switcher"
+msgstr "ボード切り替えを開く"
+msgid "Application"
+msgstr "アプリケーション"
+msgid "Compact view"
+msgstr "コンパクトビュー"
+msgid "Horizontal scrolling"
+msgstr "横スクロール"
+msgid "Compact/wide view"
+msgstr "コンパクト／ワイドビュー"
+msgid "Currency"
+msgstr "通貨"
+msgid "Personal project"
+msgstr "非公開プロジェクト"
+msgid "AUD - Australian Dollar"
+msgstr "AUD - 豪ドル"
+msgid "CAD - Canadian Dollar"
+msgstr "CAD - 加ドル"
+msgid "CHF - Swiss Francs"
+msgstr "CHF - スイスフラン"
+msgid "Custom Stylesheet"
+msgstr "カスタムスタイルシート"
+msgid "EUR - Euro"
+msgstr "EUR - ユーロ"
+msgid "GBP - British Pound"
+msgstr "GBP - 独ポンド"
+msgid "INR - Indian Rupee"
+msgstr "INR - 伊ルピー"
+msgid "JPY - Japanese Yen"
+msgstr "JPY - 日本円"
+msgid "NZD - New Zealand Dollar"
+msgstr "NZD - NZ ドル"
+msgid "RSD - Serbian dinar"
+msgstr "RSD - セルビアデナール"
+msgid "CNY - Chinese Yuan"
+msgstr "CNY - 中国元"
+msgid "USD - US Dollar"
+msgstr "USD - 米ドル"
+msgid "VES - Venezuelan Bolívar"
+msgstr ""
+msgid "Destination column"
+msgstr "移動先のカラム"
+msgid "Move the task to another column when assigned to a user"
+msgstr "ユーザーの割当てをしたらタスクを他のカラムに移動"
+msgid "Move the task to another column when assignee is cleared"
+msgstr "ユーザーの割当てがなくなったらタスクを他のカラムに移動"
+msgid "Source column"
+msgstr "移動元のカラム"
+msgid "Transitions"
+msgstr "履歴"
+msgid "Executer"
+msgstr "実行者"
+msgid "Time spent in the column"
+msgstr "カラムでの経過時間"
+msgid "Task transitions"
+msgstr "タスクの遷移"
+msgid "Task transitions export"
+msgstr "タスクの遷移を出力"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "このレポートはタスクのカラム間における移動を時間、ユーザー、経過時間と共に記録した物です"
+msgid "Currency rates"
+msgstr "為替レート"
+msgid "Rate"
+msgstr "レート"
+msgid "Change reference currency"
+msgstr "現在の基軸通貨"
+msgid "Reference currency"
+msgstr "基軸通貨"
+msgid "The currency rate has been added successfully."
+msgstr "通貨レートが正常に追加されました"
+msgid "Unable to add this currency rate."
+msgstr "この通貨レートを追加できません"
+msgid "Webhook URL"
+msgstr "Webhook URL"
+msgid "%s removed the assignee of the task %s"
+msgstr "%s がタスク「%s」の担当を解除しました"
+msgid "Information"
+msgstr "情報　"
+msgid "Check two factor authentication code"
+msgstr "二要素認証を確認"
+msgid "The two factor authentication code is not valid."
+msgstr "二要素認証コードは無効です"
+msgid "The two factor authentication code is valid."
+msgstr "二要素認証コードは有効です"
+msgid "Code"
+msgstr "コード"
+msgid "Two factor authentication"
+msgstr "二要素認証"
+msgid "This QR code contains the key URI: "
+msgstr "この QR　コードが URI キーを含んでいます："
+msgid "Check my code"
+msgstr "自分のコードをチェック"
+msgid "Secret key: "
+msgstr "秘密鍵："
+msgid "Test your device"
+msgstr "あなたのデバイスをテスト"
+msgid "Assign a color when the task is moved to a specific column"
+msgstr "タスクが特定のカラムに移動した時の色を設定"
+msgid "%s via Kanboard"
+msgstr "%s by Kanboard"
+msgid "Burndown chart"
+msgstr "バーンダウンチャート"
+msgid "This chart show the task complexity over the time (Work Remaining)."
+msgstr "グラフは、時間の経過とともにタスクの複雑さを示しています（残っている作業）"
+msgid "Screenshot taken %s"
+msgstr "スクリーンショット %s"
+msgid "Add a screenshot"
+msgstr "スクリーンショットを追加"
+msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
+msgstr "スクリーンショットを撮りCTRL + Vまたは⌘+ Vを押してここに貼り付けてください"
+msgid "Screenshot uploaded successfully."
+msgstr "スクリーンショットが正常にアップロードされました"
+msgid "SEK - Swedish Krona"
+msgstr "SEK - スウェーデン　クローナ"
+msgid "Identifier"
+msgstr "識別子"
+msgid "Disable two factor authentication"
+msgstr "二要素認証を無効にする"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "本当にユーザー「%s」の二要素認証を無効にしますか？"
+msgid "Edit link"
+msgstr "リンクを編集"
+msgid "Start to type task title..."
+msgstr "タスクタイトルを入力..."
+msgid "A task cannot be linked to itself"
+msgstr "タスク自身へのリンクはできません"
+msgid "The exact same link already exists"
+msgstr "同じリンクが既に存在しています"
+msgid "Recurrent task is scheduled to be generated"
+msgstr "反復タスクが生成されるようにスケジュールされています"
+msgid "Score"
+msgstr "スコア"
+msgid "The identifier must be unique"
+msgstr "識別子はユニークでなければなりません"
+msgid "This linked task id doesn't exists"
+msgstr "リンクされたタスクIDは存在しません"
+msgid "This value must be alphanumeric"
+msgstr "英数字で入力ください"
+msgid "Edit recurrence"
+msgstr "反復タスクの編集"
+msgid "Generate recurrent task"
+msgstr "反復タスクを生成"
+msgid "Trigger to generate recurrent task"
+msgstr "反復タスクを生成するためのトリガ"
+msgid "Factor to calculate new due date"
+msgstr "新しい期限を計算する要素"
+msgid "Timeframe to calculate new due date"
+msgstr "新しい期限を計算するための時間枠"
+msgid "Base date to calculate new due date"
+msgstr "新しい期限を計算するための基準日"
+msgid "Action date"
+msgstr "実行日"
+msgid "Base date to calculate new due date: "
+msgstr "新しい期限を計算するための基準日："
+msgid "This task has created this child task: "
+msgstr "このタスクはこの子タスクを作成しました："
+msgid "Day(s)"
+msgstr "日"
+msgid "Existing due date"
+msgstr "既存の予定日"
+msgid "Factor to calculate new due date: "
+msgstr "新しい期限を計算する要素："
+msgid "Month(s)"
+msgstr "ヶ月"
+msgid "This task has been created by: "
+msgstr "タスク作成者"
+msgid "Recurrent task has been generated:"
+msgstr "反復タスクが生成されました："
+msgid "Timeframe to calculate new due date: "
+msgstr "新しい期限を計算する時間枠："
+msgid "Trigger to generate recurrent task: "
+msgstr "反復タスクを生成するためのトリガー："
+msgid "When task is closed"
+msgstr "タスクが完了したとき"
+msgid "When task is moved from first column"
+msgstr "タスクが最初のカラムから移動されたとき"
+msgid "When task is moved to last column"
+msgstr "タスクが最後のカラムに移動したとき"
+msgid "Year(s)"
+msgstr "年"
+msgid "Project settings"
+msgstr "プロジェクト設定"
+msgid "Automatically update the start date"
+msgstr "開始日を自動的に更新"
+msgid "iCal feed"
+msgstr "iCal 配信"
+msgid "Preferences"
+msgstr "プリファレンス"
+msgid "Security"
+msgstr "セキュリティ"
+msgid "Two factor authentication disabled"
+msgstr "二要素認証は無効です"
+msgid "Two factor authentication enabled"
+msgstr "二要素認証は有効です"
+msgid "Unable to update this user."
+msgstr "このユーザーを更新できません"
+msgid "There is no user management for personal projects."
+msgstr "非公開プロジェクトのためのユーザー管理はありません"
+msgid "User that will receive the email"
+msgstr "メールを受信するユーザー"
+msgid "Email subject"
+msgstr "メールの件名"
+msgid "Date"
+msgstr "日付"
+msgid "Add a comment log when moving the task between columns"
+msgstr "カラム間でタスクを移動するときにコメントログを追加"
+msgid "Move the task to another column when the category is changed"
+msgstr "カテゴリが変更されたときにタスクを別のカラムに移動"
+msgid "Send a task by email to someone"
+msgstr "タスクをメールで送信"
+msgid "Reopen a task"
+msgstr "タスクを再開"
+msgid "Notification"
+msgstr "通知"
+msgid "%s moved the task #%d to the first swimlane"
+msgstr "%sはタスク＃%dを最初のスイムレーンに移動しました"
+msgid "Swimlane"
+msgstr "スイムレーン"
+msgid "%s moved the task %s to the first swimlane"
+msgstr "%sはタスク%sを最初のスイムレーンに移動しました"
+msgid "%s moved the task %s to the swimlane \"%s\""
+msgstr "%sはタスク%sをスイムレーン \"%s\"に移動しました"
+msgid "This report contains all subtasks information for the given date range."
+msgstr "このレポートには、指定した期間のすべてのサブタスク情報が含まれています"
+msgid "This report contains all tasks information for the given date range."
+msgstr "このレポートには、指定した期間のすべてのタスク情報が含まれます"
+msgid "Project activities for %s"
+msgstr "%sのプロジェクトの活動状況"
+msgid "view the board on Kanboard"
+msgstr "Kanboard上のボードを見る"
+msgid "The task has been moved to the first swimlane"
+msgstr "タスクは最初のスイムレーンに移動されました"
+msgid "The task has been moved to another swimlane:"
+msgstr "タスクは次のスイムレーンに移動しました："
+msgid "New title: %s"
+msgstr "新しいタイトル：%s"
+msgid "The task is not assigned anymore"
+msgstr "タスクはもう割当てられません"
+msgid "New assignee: %s"
+msgstr "新しい担当者：%s"
+msgid "There is no category now"
+msgstr "カテゴリはありません"
+msgid "New category: %s"
+msgstr "新しいカテゴリ：%s"
+msgid "New color: %s"
+msgstr "新しい色：%s"
+msgid "New complexity: %d"
+msgstr "新しい複雑さ：%d"
+msgid "The due date has been removed"
+msgstr "期限が削除されました"
+msgid "There is no description anymore"
+msgstr "説明はありません"
+msgid "Recurrence settings has been modified"
+msgstr "反復設定が変更されました"
+msgid "Time spent changed: %sh"
+msgstr "経過時間が変更されました：%sh"
+msgid "Time estimated changed: %sh"
+msgstr "見積時間が変更されました：%sh"
+msgid "The field \"%s\" has been updated"
+msgstr "フィールド \"%s\"は更新されました"
+msgid "The description has been modified:"
+msgstr "説明が変更されました："
+msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
+msgstr "タスク\"%s\"と、すべてのサブタスクを完了しますか？"
+msgid "I want to receive notifications for:"
+msgstr "次の通知を受信します："
+msgid "All tasks"
+msgstr "すべてのタスク"
+msgid "Only for tasks assigned to me"
+msgstr "自分のタスクのみ"
+msgid "Only for tasks created by me"
+msgstr "自分が作成したタスクのみ"
+msgid "Only for tasks created by me and tasks assigned to me"
+msgstr "自分が作成した自分のタスクのみ"
+msgid "%%Y-%%m-%%d"
+msgstr "%%Y-%%m-%%d"
+msgid "Total for all columns"
+msgstr "すべてのカラムの合計"
+msgid "You need at least 2 days of data to show the chart."
+msgstr "グラフを表示するには最低2日間のデータが必要です"
+msgid "<15m"
+msgstr "15分未満"
+msgid "<30m"
+msgstr "30分未満"
+msgid "Stop timer"
+msgstr "タイマー停止"
+msgid "Start timer"
+msgstr "タイマー開始"
+msgid "My activity stream"
+msgstr "自分の活動状況"
+msgid "Search tasks"
+msgstr "タスクを検索"
+msgid "Reset filters"
+msgstr "フィルターをリセット"
+msgid "My tasks due tomorrow"
+msgstr "明日の自分のタスク"
+msgid "Tasks due today"
+msgstr "今日のタスク"
+msgid "Tasks due tomorrow"
+msgstr "明日のタスク"
+msgid "Tasks due yesterday"
+msgstr "昨日のタスク"
+msgid "Closed tasks"
+msgstr "完了タスク"
+msgid "Open tasks"
+msgstr "未完了タスク"
+msgid "Not assigned"
+msgstr "未割当"
+msgid "View advanced search syntax"
+msgstr "詳細検索の構文を見る"
+msgid "Overview"
+msgstr "概要"
+msgid "Board/Calendar/List view"
+msgstr "ボード/カレンダー/リストビュー"
+msgid "Switch to the board view"
+msgstr "ボードビューに切替"
+msgid "Switch to the list view"
+msgstr "リストビューに切替"
+msgid "Go to the search/filter box"
+msgstr "検索/フィルタボックスに移動"
+msgid "There is no activity yet."
+msgstr "まだ活動状況はありません"
+msgid "No tasks found."
+msgstr "タスクが見つかりません"
+msgid "Keyboard shortcut: \"%s\""
+msgstr "キーボード・ショートカット： \"%s\""
+msgid "List"
+msgstr "リスト"
+msgid "Filter"
+msgstr "フィルター"
+msgid "Advanced search"
+msgstr "詳細検索"
+msgid "Example of query: "
+msgstr "クエリの例："
+msgid "Search by project: "
+msgstr "プロジェクトで検索："
+msgid "Search by column: "
+msgstr "カラムで検索："
+msgid "Search by assignee: "
+msgstr "担当者で検索："
+msgid "Search by color: "
+msgstr "色で検索："
+msgid "Search by category: "
+msgstr "カテゴリで検索："
+msgid "Search by description: "
+msgstr "説明で検索："
+msgid "Search by due date: "
+msgstr "期限で検索："
+msgid "Average time spent in each column"
+msgstr "各カラムで経過した時間の平均"
+msgid "Average time spent"
+msgstr "平均経過時間"
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "このグラフは最後の%d個のタスクに対して各カラムで経過した平均時間を示しています"
+msgid "Average Lead and Cycle time"
+msgstr "平均リードタイム・平均サイクルタイム"
+msgid "Average lead time: "
+msgstr "平均リードタイム："
+msgid "Average cycle time: "
+msgstr "平均サイクルタイム："
+msgid "Cycle Time"
+msgstr "サイクルタイム"
+msgid "Lead Time"
+msgstr "リードタイム"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "このグラフは時間の経過に伴う最後の%d個のタスクの平均リードタイムとサイクルタイムを示します"
+msgid "Average time into each column"
+msgstr "各カラムの平均時間"
+msgid "Lead and cycle time"
+msgstr "リード／サイクルタイム"
+msgid "Lead time: "
+msgstr "リードタイム："
+msgid "Cycle time: "
+msgstr "サイクルタイム："
+msgid "Time spent in each column"
+msgstr "各カラムの経過時間"
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "リードタイムはタスクの作成〜完了まで時間です"
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "サイクルタイムは着手〜完了までの期間です"
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "タスクが終了していない場合は完了日の代わりに現在時刻を使用します"
+msgid "Set the start date automatically"
+msgstr "開始日を自動的に設定"
+msgid "Edit Authentication"
+msgstr "認証の編集"
+msgid "Remote user"
+msgstr "リモートユーザー"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "リモートユーザーはパスワードをKanboardデータベースに保存しません（例：LDAP、Google、Githubのアカウント）"
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "「ログインフォームを許可しない」チェックボックスをオンにすると、ログインフォームに入力された認証情報は無視されます"
+msgid "Default task color"
+msgstr "規定のタスクカラー"
+msgid "This feature does not work with all browsers."
+msgstr "この機能は一部のブラウザで動作しません"
+msgid "There is no destination project available."
+msgstr "利用可能なプロジェクトはありません"
+msgid "Trigger automatically subtask time tracking"
+msgstr "自動的にサブタスク時間トラッキングを作動させる"
+msgid "Include closed tasks in the cumulative flow diagram"
+msgstr "累積フロー図に完了したタスクを含める"
+msgid "Current swimlane: %s"
+msgstr "現在のスイムレーン：%s"
+msgid "Current column: %s"
+msgstr "現在のカラム：%s"
+msgid "Current category: %s"
+msgstr "現在のカテゴリ：%s"
+msgid "no category"
+msgstr "カテゴリなし"
+msgid "Current assignee: %s"
+msgstr "現在の担当者：%s"
+msgid "not assigned"
+msgstr "未割当"
+msgid "Author:"
+msgstr "著者："
+msgid "contributors"
+msgstr "協力者"
+msgid "License:"
+msgstr "ライセンス："
+msgid "License"
+msgstr "ライセンス"
+msgid "Enter the text below"
+msgstr "テキストを入力"
+msgid "Start date:"
+msgstr "開始日："
+msgid "Due date:"
+msgstr "期限："
+msgid "People who are project managers"
+msgstr "プロジェクト管理者"
+msgid "People who are project members"
+msgstr "プロジェクトメンバー"
+msgid "NOK - Norwegian Krone"
+msgstr "NOK - ノルウェークローネ"
+msgid "Show this column"
+msgstr "このカラムを表示"
+msgid "Hide this column"
+msgstr "このカラムを隠す"
+msgid "End date"
+msgstr "終了日"
+msgid "Users overview"
+msgstr "ユーザー概要"
+msgid "Members"
+msgstr "メンバー"
+msgid "Shared project"
+msgstr "共有プロジェクト"
+msgid "Project managers"
+msgstr "プロジェクト管理者"
+msgid "Projects list"
+msgstr "プロジェクトリスト"
+msgid "End date:"
+msgstr "終了日："
+msgid "Change task color when using a specific task link"
+msgstr "特定のタスクリンクを使用するとタスクの色を変更"
+msgid "Task link creation or modification"
+msgstr "タスクへのリンクの作成または変更"
+msgid "Milestone"
+msgstr "マイルストーン"
+msgid "Reset the search/filter box"
+msgstr "検索/フィルタをリセット"
+msgid "Documentation"
+msgstr "ドキュメント"
+msgid "Author"
+msgstr "著者"
+msgid "Version"
+msgstr "バージョン"
+msgid "Plugins"
+msgstr "プラグイン"
+msgid "There is no plugin loaded."
+msgstr "プラグインがロードされていません"
+msgid "My notifications"
+msgstr "自分の通知"
+msgid "Custom filters"
+msgstr "カスタムフィルタ"
+msgid "Your custom filter has been created successfully."
+msgstr "カスタムフィルタを作成しました"
+msgid "Unable to create your custom filter."
+msgstr "カスタムフィルタを作成できません"
+msgid "Custom filter removed successfully."
+msgstr "カスタムフィルタを削除しました"
+msgid "Unable to remove this custom filter."
+msgstr "このカスタムフィルタは削除できません"
+msgid "Edit custom filter"
+msgstr "カスタムフィルタを編集"
+msgid "Your custom filter has been updated successfully."
+msgstr "カスタムフィルタを更新しました"
+msgid "Unable to update custom filter."
+msgstr "カスタムフィルタを更新できません"
+msgid "Web"
+msgstr "Web"
+msgid "New attachment on task #%d: %s"
+msgstr "タスク＃%dの新しい添付ファイル：%s"
+msgid "New comment on task #%d"
+msgstr "タスク＃%dの新しいコメント"
+msgid "Comment updated on task #%d"
+msgstr "タスク＃%dで更新されたコメント"
+msgid "New subtask on task #%d"
+msgstr "タスク＃%dの新しいサブタスク"
+msgid "Subtask updated on task #%d"
+msgstr "タスク＃%dで更新されたサブタスク"
+msgid "New task #%d: %s"
+msgstr "新しいタスク＃%d：%s"
+msgid "Task updated #%d"
+msgstr "タスクが更新されました＃%d"
+msgid "Task #%d closed"
+msgstr "タスク＃%dは完了しました"
+msgid "Task #%d opened"
+msgstr "タスク＃%dを作成しました"
+msgid "Column changed for task #%d"
+msgstr "タスク＃%dのカラムが変更されました"
+msgid "New position for task #%d"
+msgstr "タスク＃%dの新しい位置"
+msgid "Swimlane changed for task #%d"
+msgstr "タスク＃%dのスイムレーンが変更されました"
+msgid "Assignee changed on task #%d"
+msgstr "タスク＃%dの担当者が変更されました"
+msgid "%d overdue tasks"
+msgstr "%d 件の期限切れタスク"
+msgid "Task #%d is overdue"
+msgstr "タスク＃%dは期限切れです"
+msgid "No notification."
+msgstr "通知なし"
+msgid "Mark all as read"
+msgstr "すべてを既読にする"
+msgid "Mark as read"
+msgstr "既読にする"
+msgid "Total number of tasks in this column across all swimlanes"
+msgstr "すべてのスイムレーンでこのカラムのタスクの合計"
+msgid "Collapse swimlane"
+msgstr "スイムレーンをたたむ"
+msgid "Expand swimlane"
+msgstr "スイムレーンを展開"
+msgid "Add a new filter"
+msgstr "フィルターを追加"
+msgid "Share with all project members"
+msgstr "プロジェクトメンバーと共有"
+msgid "Shared"
+msgstr "共有済み"
+msgid "Owner"
+msgstr "所有者"
+msgid "Unread notifications"
+msgstr "未読通知"
+msgid "Notification methods:"
+msgstr "通知方法："
+msgid "Unable to read your file"
+msgstr "あなたのファイルを読むことができません"
+msgid "%d task(s) have been imported successfully."
+msgstr "%d件のタスクが正常にインポートされました"
+msgid "Nothing has been imported!"
+msgstr "何もインポートされていません！"
+msgid "Import users from CSV file"
+msgstr "CSVファイルからユーザーをインポート"
+msgid "%d user(s) have been imported successfully."
+msgstr "%d人のユーザーが正常にインポートされました"
+msgid "Comma"
+msgstr "カンマ"
+msgid "Semi-colon"
+msgstr "セミコロン"
+msgid "Tab"
+msgstr "タブ"
+msgid "Vertical bar"
+msgstr "縦棒"
+msgid "Double Quote"
+msgstr "二重引用符"
+msgid "Single Quote"
+msgstr "一重引用符"
+msgid "%s attached a file to the task #%d"
+msgstr "%sさんがタスクにファイルを添付しました＃%d"
+msgid "There is no column or swimlane activated in your project!"
+msgstr "あなたのプロジェクトではカラムやスイムレーンが有効になっていません！"
+msgid "Append filter (instead of replacement)"
+msgstr "置換の代わりにフィルターを追加"
+msgid "Append/Replace"
+msgstr "追加/置換"
+msgid "Append"
+msgstr "追加"
+msgid "Replace"
+msgstr "置換"
+msgid "Import"
+msgstr "インポート"
+msgid "Change sorting"
+msgstr "ソートの変更"
+msgid "Tasks Importation"
+msgstr "タスクのインポート"
+msgid "Delimiter"
+msgstr "区切り"
+msgid "Enclosure"
+msgstr "エンクロージャ"
+msgid "CSV File"
+msgstr "CSVファイル"
+msgid "Instructions"
+msgstr "指示"
+msgid "Your file must use the predefined CSV format"
+msgstr "ファイルは定義済みのCSV形式である必要があります"
+msgid "Your file must be encoded in UTF-8"
+msgstr "ファイルはUTF-8でエンコードする必要があります"
+msgid "The first row must be the header"
+msgstr "最初の行は見出しでなければなりません"
+msgid "Duplicates are not verified for you"
+msgstr "重複は検証されません"
+msgid "The due date must use the ISO format: YYYY-MM-DD"
+msgstr "期限はISO形式である必要があります：YYYY-MM-DD"
+msgid "Download CSV template"
+msgstr "CSVテンプレートをダウンロード"
+msgid "No external integration registered."
+msgstr "外部統合が登録されていません"
+msgid "Duplicates are not imported"
+msgstr "重複はインポートされません"
+msgid "Usernames must be lowercase and unique"
+msgstr "ユーザー名は小文字でユニークでなければなりません"
+msgid "Passwords will be encrypted if present"
+msgstr "パスワードがあれば暗号化されます"
+msgid "%s attached a new file to the task %s"
+msgstr "%sが、タスク %s に新しいファイルを添付しました"
+msgid "Link type"
+msgstr "リンクタイプ"
+msgid "Assign automatically a category based on a link"
+msgstr "リンクに基づいてカテゴリを自動的に割当てる"
+msgid "BAM - Konvertible Mark"
+msgstr "BAM - 兌換マルク"
+msgid "Assignee Username"
+msgstr "担当者のユーザー名"
+msgid "Assignee Name"
+msgstr "担当者名"
+msgid "Groups"
+msgstr "グループ"
+msgid "Members of %s"
+msgstr "%sのメンバー"
+msgid "New group"
+msgstr "新しいグループ"
+msgid "Group created successfully."
+msgstr "グループは正常に作成されました"
+msgid "Unable to create your group."
+msgstr "あなたのグループを作成できません"
+msgid "Edit group"
+msgstr "グループを編集"
+msgid "Group updated successfully."
+msgstr "グループは正常に更新されました"
+msgid "Unable to update your group."
+msgstr "あなたのグループを更新できません"
+msgid "Add group member to \"%s\""
+msgstr "「%s」にグループメンバーを追加"
+msgid "Group member added successfully."
+msgstr "グループメンバーが正常に追加されました"
+msgid "Unable to add group member."
+msgstr "グループメンバーを追加できません"
+msgid "Remove user from group \"%s\""
+msgstr "グループ「%s」からユーザーを削除"
+msgid "User removed successfully from this group."
+msgstr "このグループからユーザーが正常に削除されました"
+msgid "Unable to remove this user from the group."
+msgstr "このユーザーをグループから削除できません"
+msgid "Remove group"
+msgstr "グループを削除"
+msgid "Group removed successfully."
+msgstr "グループは正常に削除されました"
+msgid "Unable to remove this group."
+msgstr "このグループを削除できません"
+msgid "Project Permissions"
+msgstr "プロジェクトの権限"
+msgid "Manager"
+msgstr "組織の管理者"
+msgid "Project Manager"
+msgstr "プロジェクト管理者"
+msgid "Project Member"
+msgstr "プロジェクトメンバー"
+msgid "Project Viewer"
+msgstr "プロジェクトビューアー"
+msgid "Your account is locked for %d minutes"
+msgstr "あなたのアカウントは%d分間ロックされています"
+msgid "Invalid captcha"
+msgstr "無効なcaptcha"
+msgid "The name must be unique"
+msgstr "名前はユニークである必要があります"
+msgid "View all groups"
+msgstr "すべてのグループを表示"
+msgid "There is no user available."
+msgstr "利用可能なユーザーはありません"
+msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
+msgstr "ユーザー「%s」をグループ「%s」から削除しますか？"
+msgid "There is no group."
+msgstr "グループはありません"
+msgid "Add group member"
+msgstr "グループメンバーを追加"
+msgid "Do you really want to remove this group: \"%s\"?"
+msgstr "グループ「%s」を削除しますか？"
+msgid "There is no user in this group."
+msgstr "このグループにはユーザーがいません"
+msgid "Permissions"
+msgstr "権限"
+msgid "Allowed Users"
+msgstr "許可されたユーザー"
+msgid "No specific user has been allowed."
+msgstr "許可されたユーザーはありません"
+msgid "Role"
+msgstr "役割"
+msgid "Enter user name..."
+msgstr "ユーザー名を入力..."
+msgid "Allowed Groups"
+msgstr "許可されたグループ"
+msgid "No group has been allowed."
+msgstr "許可されたグループはありません"
+msgid "Group"
+msgstr "グループ"
+msgid "Group Name"
+msgstr "グループ名"
+msgid "Enter group name..."
+msgstr "グループ名を入力..."
+msgid "Role:"
+msgstr "役割："
+msgid "Project members"
+msgstr "プロジェクトメンバー"
+msgid "%s mentioned you in the task #%d"
+msgstr "%sはタスク#%dであなたのことに言及しました"
+msgid "%s mentioned you in a comment on the task #%d"
+msgstr "%sはタスク#%dのコメントであなたのことに言及しました"
+msgid "You were mentioned in the task #%d"
+msgstr "タスク#%dであなたのことが言及されました"
+msgid "You were mentioned in a comment on the task #%d"
+msgstr "タスク#%dのコメントであなたのことが言及されました"
+msgid "Estimated hours: "
+msgstr "見積時間："
+msgid "Actual hours: "
+msgstr "実際の時間："
+msgid "Hours Spent"
+msgstr "時間（経過）"
+msgid "Hours Estimated"
+msgstr "時間（見積）"
+msgid "Estimated Time"
+msgstr "見積時間"
+msgid "Actual Time"
+msgstr "実際の時間"
+msgid "Estimated vs actual time"
+msgstr "見積時間と実際の時間"
+msgid "RUB - Russian Ruble"
+msgstr "露ルーブル"
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "カラムが変更されたときにアクションを実行する人にタスクを割当てる"
+msgid "Close a task in a specific column"
+msgstr "特定のカラムのタスクを完了させる"
+msgid "Time-based One-time Password Algorithm"
+msgstr "時間基準のワンタイム・パスワード・アルゴリズム"
+msgid "Two-Factor Provider: "
+msgstr "二要素認証の提供元："
+msgid "Disable two-factor authentication"
+msgstr "二要素認証を無効にする"
+msgid "Enable two-factor authentication"
+msgstr "二要素認証を有効にする"
+msgid "There is no integration registered at the moment."
+msgstr "現在登録されている統合はありません"
+msgid "Password Reset for Kanboard"
+msgstr "Kanboardのパスワードリセット"
+msgid "Forgot password?"
+msgstr "パスワードをお忘れですか？"
+msgid "Enable \"Forget Password\""
+msgstr "「パスワードをお忘れですか？」を有効にする"
+msgid "Password Reset"
+msgstr "パスワードリセット"
+msgid "New password"
+msgstr "新しいパスワード"
+msgid "Change Password"
+msgstr "パスワードを変更"
+msgid "To reset your password click on this link:"
+msgstr "このリンクをクリックするとパスワードをリセットします："
+msgid "Last Password Reset"
+msgstr "最後のパスワードリセット"
+msgid "The password has never been reinitialized."
+msgstr "パスワードが再設定されていません"
+msgid "Creation"
+msgstr "作成"
+msgid "Expiration"
+msgstr "失効"
+msgid "Password reset history"
+msgstr "パスワードリセット履歴"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "カラム「%s」 かつ、スイムレーン「%s」の全てのタスクは正常に終了しました"
+msgid "Do you really want to close all tasks of this column?"
+msgstr "このカラムのすべてのタスクを終了しますか？"
+msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+msgstr "%d件の、カラム「%s」 かつ、スイムレーン「%s」 にあるタスクを終了します"
+msgid "Close all tasks in this column and this swimlane"
+msgstr "このカラムのすべてのタスクを終了"
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "プラグインはプロジェクト通知メソッドを登録していません。ユーザープロフィールで個別に通知を設定することができます"
+msgid "My dashboard"
+msgstr "ダッシュボード"
+msgid "My profile"
+msgstr "プロフィール"
+msgid "Project owner: "
+msgstr "プロジェクト責任者："
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "プロジェクト識別子はオプションです。設定する場合は英数字にしてください。　例：MYPROJECT"
+msgid "Project owner"
+msgstr "プロジェクト責任者"
+msgid "Personal projects do not have users and groups management."
+msgstr "非公開プロジェクトにはユーザーとグループの管理はありません"
+msgid "There is no project member."
+msgstr "プロジェクトメンバーがいません"
+msgid "Priority"
+msgstr "優先度"
+msgid "Task priority"
+msgstr "タスクの優先度"
+msgid "General"
+msgstr "一般"
+msgid "Dates"
+msgstr "日付"
+msgid "Default priority"
+msgstr "既定の優先度"
+msgid "Lowest priority"
+msgstr "最低優先度"
+msgid "Highest priority"
+msgstr "最高優先度"
+msgid "Close a task when there is no activity"
+msgstr "活動がないときはタスクを終了"
+msgid "Duration in days"
+msgstr "期間（日）"
+msgid "Send email when there is no activity on a task"
+msgstr "タスクに活動がないときにメールを送信"
+msgid "Unable to fetch link information."
+msgstr "リンク情報を取得できません"
+msgid "Daily background job for tasks"
+msgstr "タスクのためのバックグラウンドジョブ（毎日）"
+msgid "Auto"
+msgstr "自動"
+msgid "Related"
+msgstr "関連"
+msgid "Attachment"
+msgstr "添付"
+msgid "Title not found"
+msgstr "タイトルが見つかりません"
+msgid "Web Link"
+msgstr "Webリンク"
+msgid "External links"
+msgstr "外部リンク"
+msgid "Add external link"
+msgstr "外部リンクを追加"
+msgid "Type"
+msgstr "タイプ"
+msgid "Dependency"
+msgstr "依存"
+msgid "Add internal link"
+msgstr "内部リンクを追加"
+msgid "Add a new external link"
+msgstr "新しい外部リンクを追加"
+msgid "Edit external link"
+msgstr "外部リンクを編集"
+msgid "External link"
+msgstr "外部リンク"
+msgid "Copy and paste your link here..."
+msgstr "リンクをここにコピー＆ペースト..."
+msgid "URL"
+msgstr "URL"
+msgid "Internal links"
+msgstr "内部リンク"
+msgid "Assign to me"
+msgstr "自分が担当する"
+msgid "Me"
+msgstr "自分"
+msgid "Do not duplicate anything"
+msgstr "何も複製しない"
+msgid "Projects management"
+msgstr "プロジェクト管理"
+msgid "Users management"
+msgstr "ユーザー管理"
+msgid "Groups management"
+msgstr "グループ管理"
+msgid "Create from another project"
+msgstr "別のプロジェクトから作成"
+msgid "open"
+msgstr "開始"
+msgid "closed"
+msgstr "終了"
+msgid "Priority:"
+msgstr "優先度："
+msgid "Reference:"
+msgstr "参照："
+msgid "Complexity:"
+msgstr "複雑さ："
+msgid "Swimlane:"
+msgstr "スイムレーン："
+msgid "Column:"
+msgstr "カラム："
+msgid "Position:"
+msgstr "位置："
+msgid "Creator:"
+msgstr "作成者："
+msgid "Time estimated:"
+msgstr "見積時間："
+msgid "%s hours"
+msgstr "%s時間"
+msgid "Time spent:"
+msgstr "経過時間："
+msgid "Created:"
+msgstr "作成："
+msgid "Modified:"
+msgstr "更新："
+msgid "Completed:"
+msgstr "完了："
+msgid "Started:"
+msgstr "開始："
+msgid "Moved:"
+msgstr "移動："
+msgid "Task #%d"
+msgstr "タスク #%d"
+msgid "Time format"
+msgstr "時刻形式"
+msgid "Start date: "
+msgstr "開始日："
+msgid "End date: "
+msgstr "完了日："
+msgid "New due date: "
+msgstr "新しい期限："
+msgid "Start date changed: "
+msgstr "開始日が変更されました："
+msgid "Disable personal projects"
+msgstr "非公開プロジェクトを無効にする"
+msgid "Do you really want to remove this custom filter: \"%s\"?"
+msgstr "このカスタムフィルタ「%s」を削除しますか？"
+msgid "Remove a custom filter"
+msgstr "カスタムフィルタを削除"
+msgid "User activated successfully."
+msgstr "ユーザーは有効になりました"
+msgid "Unable to enable this user."
+msgstr "このユーザーを有効にできません"
+msgid "User disabled successfully."
+msgstr "ユーザーが無効になりました"
+msgid "Unable to disable this user."
+msgstr "このユーザーを無効にできません"
+msgid "All files have been uploaded successfully."
+msgstr "すべてのファイルが正常にアップロードされました"
+msgid "The maximum allowed file size is %sB."
+msgstr "最大許容ファイルサイズ：%sB"
+msgid "Drag and drop your files here"
+msgstr "ファイルをドラッグアンドドロップ"
+msgid "choose files"
+msgstr "ファイルを選択"
+msgid "View profile"
+msgstr "プロフィールを見る"
+msgid "Two Factor"
+msgstr "二要素認証"
+msgid "Disable user"
+msgstr "ユーザーを無効にする"
+msgid "Do you really want to disable this user: \"%s\"?"
+msgstr "ユーザー「%s」を無効にしますか？"
+msgid "Enable user"
+msgstr "ユーザーを有効にする"
+msgid "Do you really want to enable this user: \"%s\"?"
+msgstr "ユーザー「%s」を有効にしますか？"
+msgid "Download"
+msgstr "ダウンロード"
+msgid "Uploaded: %s"
+msgstr "アップロード完了：%s"
+msgid "Size: %s"
+msgstr "サイズ：%s"
+msgid "Uploaded by %s"
+msgstr "%sによってアップロードされました"
+msgid "Filename"
+msgstr "ファイル名"
+msgid "Size"
+msgstr "サイズ"
+msgid "Column created successfully."
+msgstr "カラムが正常に作成されました"
+msgid "Another column with the same name exists in the project"
+msgstr "同じ名前の別のカラムがプロジェクトにあります"
+msgid "Default filters"
+msgstr "既定フィルタ"
+msgid "Your board doesn't have any columns!"
+msgstr "あなたのボードにはカラムがありません！"
+msgid "Change column position"
+msgstr "カラムの位置を変更"
+msgid "Switch to the project overview"
+msgstr "プロジェクト概要に切替"
+msgid "User filters"
+msgstr "ユーザーフィルタ"
+msgid "Category filters"
+msgstr "カテゴリフィルタ"
+msgid "Upload a file"
+msgstr "ファイルをアップロード"
+msgid "View file"
+msgstr "ファイルを見る"
+msgid "Last activity"
+msgstr "最新の活動状況"
+msgid "Change subtask position"
+msgstr "サブタスクの位置を変更"
+msgid "This value must be greater than %d"
+msgstr "%dより大きくなければなりません"
+msgid "Another swimlane with the same name exists in the project"
+msgstr "同じ名前の別のスイムレーンがプロジェクトにあります"
+msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
+msgstr "例：https://example.kanboard.org/（絶対URLの生成に使用）"
+msgid "Actions duplicated successfully."
+msgstr "アクションを複製しました"
+msgid "Unable to duplicate actions."
+msgstr "アクションを複製できません"
+msgid "Add a new action"
+msgstr "新しいアクションを追加"
+msgid "Import from another project"
+msgstr "別のプロジェクトからインポート"
+msgid "There is no action at the moment."
+msgstr "アクションはありません"
+msgid "Import actions from another project"
+msgstr "別のプロジェクトからアクションをインポート"
+msgid "There is no available project."
+msgstr "利用可能なプロジェクトはありません"
+msgid "Local File"
+msgstr "ローカルファイル"
+msgid "Configuration"
+msgstr "構成"
+msgid "PHP version:"
+msgstr "PHPバージョン："
+msgid "PHP SAPI:"
+msgstr "PHP SAPI"
+msgid "OS version:"
+msgstr "OSバージョン："
+msgid "Database version:"
+msgstr "データベース・バージョン："
+msgid "Browser:"
+msgstr "ブラウザー："
+msgid "Task view"
+msgstr "タスクビュー"
+msgid "Edit task"
+msgstr "タスクを編集"
+msgid "Edit description"
+msgstr "説明を編集"
+msgid "New internal link"
+msgstr "新しい内部リンク"
+msgid "Display list of keyboard shortcuts"
+msgstr "キーボードショートカットのリストを表示"
+msgid "Avatar"
+msgstr "アバター"
+msgid "Upload my avatar image"
+msgstr "自分のアバター画像をアップロード"
+msgid "Remove my image"
+msgstr "画像を削除"
+msgid "The OAuth2 state parameter is invalid"
+msgstr "OAuth2ステートパラメータは無効です"
+msgid "User not found."
+msgstr "ユーザーが見つかりません"
+msgid "Search in activity stream"
+msgstr "活動状況で検索"
+msgid "My activities"
+msgstr "自分の活動状況"
+msgid "Activity until yesterday"
+msgstr "昨日までの活動状況"
+msgid "Activity until today"
+msgstr "今までの活動状況"
+msgid "Search by creator: "
+msgstr "作成者で検索："
+msgid "Search by creation date: "
+msgstr "作成日で検索："
+msgid "Search by task status: "
+msgstr "タスクステータスで検索："
+msgid "Search by task title: "
+msgstr "タスク名で検索："
+msgid "Activity stream search"
+msgstr "活動状況を検索"
+msgid "Projects where \"%s\" is manager"
+msgstr "「%s」が管理者のプロジェクト"
+msgid "Projects where \"%s\" is member"
+msgstr "「%s」がメンバーのプロジェクト"
+msgid "Open tasks assigned to \"%s\""
+msgstr "「%s」が担当のタスクを開く"
+msgid "Closed tasks assigned to \"%s\""
+msgstr "「%s」が担当した終了したタスク"
+msgid "Assign automatically a color based on a priority"
+msgstr "優先度に基づいて自動的に色を割当て"
+msgid "Overdue tasks for the project(s) \"%s\""
+msgstr "期限を超過したタスク「%s」"
+msgid "Upload files"
+msgstr "ファイルをアップロード"
+msgid "Installed Plugins"
+msgstr "使用中のプラグイン"
+msgid "Plugin Directory"
+msgstr "プラグインディレクトリ"
+msgid "Plugin installed successfully."
+msgstr "プラグインがインストールされました"
+msgid "Plugin updated successfully."
+msgstr "プラグインが更新されました"
+msgid "Plugin removed successfully."
+msgstr "プラグインを削除しました"
+msgid "Subtask converted to task successfully."
+msgstr "サブタスクをタスクに変換しました"
+msgid "Unable to convert the subtask."
+msgstr "サブタスクを変換できません"
+msgid "Unable to extract plugin archive."
+msgstr "プラグインアーカイブを解凍できません"
+msgid "Plugin not found."
+msgstr "プラグインが見つかりません"
+msgid "You don't have the permission to remove this plugin."
+msgstr "このプラグインを削除する権限がありません"
+msgid "Unable to download plugin archive."
+msgstr "プラグインアーカイブをダウンロードできません"
+msgid "Unable to write temporary file for plugin."
+msgstr "プラグインの一時ファイルを書き込めません"
+msgid "Unable to open plugin archive."
+msgstr "プラグインアーカイブを開くことができません"
+msgid "There is no file in the plugin archive."
+msgstr "プラグインアーカイブにファイルがありません"
+msgid "Create tasks in bulk"
+msgstr "タスクを一括作成"
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "あなたのKanboardインスタンスは、ユーザーインターフェースからプラグインをインストールするように設定されていません"
+msgid "There is no plugin available."
+msgstr "利用可能なプラグインはありません"
+msgid "Install"
+msgstr "インストール"
+msgid "Update"
+msgstr "更新"
+msgid "Up to date"
+msgstr "最新の日付"
+msgid "Not available"
+msgstr "利用できません"
+msgid "Remove plugin"
+msgstr "プラグインを削除"
+msgid "Do you really want to remove this plugin: \"%s\"?"
+msgstr "このプラグインを削除しますか？： %s"
+msgid "Uninstall"
+msgstr "アンインストール"
+msgid "Listing"
+msgstr "リスト"
+msgid "Metadata"
+msgstr "メタデータ"
+msgid "Manage projects"
+msgstr "プロジェクトを管理"
+msgid "Convert to task"
+msgstr "タスクに変換"
+msgid "Convert sub-task to task"
+msgstr "サブタスクをタスクに変換"
+msgid "Do you really want to convert this sub-task to a task?"
+msgstr "このサブタスクをタスクに変換しますか？"
+msgid "My task title"
+msgstr "自分のタスク名"
+msgid "Enter one task by line."
+msgstr "1行に1件のタスクを入力"
+msgid "Number of failed login:"
+msgstr "ログイン失敗回数："
+msgid "Account locked until:"
+msgstr "ロックされたアカウント："
+msgid "Email settings"
+msgstr "メール設定"
+msgid "Email sender address"
+msgstr "送信者のメールアドレス"
+msgid "Email transport"
+msgstr "メールの送信"
+msgid "Webhook token"
+msgstr "Webhookトークン"
+msgid "Project tags management"
+msgstr "プロジェクトタグ管理"
+msgid "Tag created successfully."
+msgstr "タグを作成しました"
+msgid "Unable to create this tag."
+msgstr "タグを作成できません"
+msgid "Tag updated successfully."
+msgstr "タグを更新しました"
+msgid "Unable to update this tag."
+msgstr "タグを更新できません"
+msgid "Tag removed successfully."
+msgstr "タグを削除しました"
+msgid "Unable to remove this tag."
+msgstr "タグを削除できません"
+msgid "Global tags management"
+msgstr "グローバルタグ管理"
+msgid "Tags"
+msgstr "タグ"
+msgid "Tags management"
+msgstr "タグ管理"
+msgid "Add new tag"
+msgstr "新しいタグを追加"
+msgid "Edit a tag"
+msgstr "タグを編集"
+msgid "Project tags"
+msgstr "プロジェクトタグ"
+msgid "There is no specific tag for this project at the moment."
+msgstr "このプロジェクトにはタグはありません"
+msgid "Tag"
+msgstr "タグ"
+msgid "Remove a tag"
+msgstr "タグを削除"
+msgid "Do you really want to remove this tag: \"%s\"?"
+msgstr "タグ「%s」を削除しますか？"
+msgid "Global tags"
+msgstr "グローバルタグ"
+msgid "There is no global tag at the moment."
+msgstr "グローバルタグはありません"
+msgid "This field cannot be empty"
+msgstr "このフィールドは必須です"
+msgid "Close a task when there is no activity in a specific column"
+msgstr "特定のカラムに活動がない場合にタスクを終了"
+msgid "%s removed a subtask for the task #%d"
+msgstr "タスク＃%dからサブタスク%s件を削除しました"
+msgid "%s removed a comment on the task #%d"
+msgstr "タスク＃%dからコメント%s件を削除しました"
+msgid "Comment removed on task #%d"
+msgstr "タスク＃%dからコメントを削除しました"
+msgid "Subtask removed on task #%d"
+msgstr "タスク＃%dからサブタスクを削除しました"
+msgid "Hide tasks in this column in the dashboard"
+msgstr "ダッシュボードでこのカラムのタスクは表示しない"
+msgid "%s removed a comment on the task %s"
+msgstr "%sはタスク「%s」からコメントを削除しました"
+msgid "%s removed a subtask for the task %s"
+msgstr "%sはタスク「%s」からサブタスクを削除しました"
+msgid "Comment removed"
+msgstr "コメントを削除しました"
+msgid "Subtask removed"
+msgstr "サブタスクを削除しました"
+msgid "%s set a new internal link for the task #%d"
+msgstr "%sはタスク＃%dの新しい内部リンクを設定しました"
+msgid "%s removed an internal link for the task #%d"
+msgstr "%sはタスク＃%dの内部リンクを削除しました"
+msgid "A new internal link for the task #%d has been defined"
+msgstr "タスク＃%dの新しい内部リンクが定義されています"
+msgid "Internal link removed for the task #%d"
+msgstr "タスク＃%dの内部リンクが削除されました"
+msgid "%s set a new internal link for the task %s"
+msgstr "%sはタスク「%s」の新しい内部リンクを設定しました"
+msgid "%s removed an internal link for the task %s"
+msgstr "%sはタスク「%s」の内部リンクを削除しました"
+msgid "Automatically set the due date on task creation"
+msgstr "タスク作成時に自動的に期限を設定"
+msgid "Move the task to another column when closed"
+msgstr "閉じたときにタスクを別のカラムに移動"
+msgid "Move the task to another column when not moved during a given period"
+msgstr "指定された期間中に移動しなかった場合、タスクを別のカラムに移動"
+msgid "Dashboard for %s"
+msgstr "%sのダッシュボード"
+msgid "Tasks overview for %s"
+msgstr "%sのタスク概要"
+msgid "Subtasks overview for %s"
+msgstr "%sのサブタスク概要"
+msgid "Projects overview for %s"
+msgstr "%sのプロジェクト概要"
+msgid "Activity stream for %s"
+msgstr "%sの活動状況"
+msgid "Assign a color when the task is moved to a specific swimlane"
+msgstr "タスクが特定のスイムレーンに移動したときに色を割当てる"
+msgid "Assign a priority when the task is moved to a specific swimlane"
+msgstr "タスクが特定のスイムレーンに移動したときに優先度を割当てる"
+msgid "User unlocked successfully."
+msgstr "ユーザーのロックを解除しました"
+msgid "Unable to unlock the user."
+msgstr "ユーザーのロックを解除できません"
+msgid "Move a task to another swimlane"
+msgstr "別のスイムレーンにタスクを移動"
+msgid "Creator Name"
+msgstr "作成者"
+msgid "Time spent and estimated"
+msgstr "経過／見積時間"
+msgid "Move position"
+msgstr "移動"
+msgid "Move task to another position on the board"
+msgstr "ボード上の別の位置にタスクを移動"
+msgid "Insert before this task"
+msgstr "このタスクの前に挿入"
+msgid "Insert after this task"
+msgstr "このタスクの後に挿入"
+msgid "Unlock this user"
+msgstr "このユーザーをロック解除"
+msgid "Custom Project Roles"
+msgstr "プロジェクト独自の役割"
+msgid "Add a new custom role"
+msgstr "新しい役割を追加"
+msgid "Restrictions for the role \"%s\""
+msgstr "役割「%s」の制限"
+msgid "Add a new project restriction"
+msgstr "プロジェクト制約を追加"
+msgid "Add a new drag and drop restriction"
+msgstr "ドラッグアンドドロップの制限を追加"
+msgid "Add a new column restriction"
+msgstr "カラムに制限を追加"
+msgid "Edit this role"
+msgstr "役割を編集"
+msgid "Remove this role"
+msgstr "役割を削除"
+msgid "There is no restriction for this role."
+msgstr "この役割には制限はありません"
+msgid "Only moving task between those columns is permitted"
+msgstr "これらのカラム間はタスクの移動のみが許可されています"
+msgid "Close a task in a specific column when not moved during a given period"
+msgstr "指定された期間中に移動しなかった場合、特定のカラムのタスクを終了"
+msgid "Edit columns"
+msgstr "カラムを編集"
+msgid "The column restriction has been created successfully."
+msgstr "カラムの制限を作成しました"
+msgid "Unable to create this column restriction."
+msgstr "このカラムの制限を作成できません"
+msgid "Column restriction removed successfully."
+msgstr "カラムの制限を削除しました"
+msgid "Unable to remove this restriction."
+msgstr "この制限を削除できません"
+msgid "Your custom project role has been created successfully."
+msgstr "あなたのプロジェクトで独自の役割を作成しました"
+msgid "Unable to create custom project role."
+msgstr "プロジェクト独自の役割を作成できません"
+msgid "Your custom project role has been updated successfully."
+msgstr "プロジェクト独自の役割を更新しました"
+msgid "Unable to update custom project role."
+msgstr "プロジェクト独自の役割を更新できません"
+msgid "Custom project role removed successfully."
+msgstr "プロジェクト独自の役割を削除しました"
+msgid "Unable to remove this project role."
+msgstr "プロジェクトから役割を削除できません"
+msgid "The project restriction has been created successfully."
+msgstr "プロジェクトの制限が作成しました"
+msgid "Unable to create this project restriction."
+msgstr "プロジェクトの制限を作成できません"
+msgid "Project restriction removed successfully."
+msgstr "プロジェクトの制限を削除しました"
+msgid "You cannot create tasks in this column."
+msgstr "このカラムにタスクは作成できません"
+msgid "Task creation is permitted for this column"
+msgstr "このカラムではタスクの作成が許可されています"
+msgid "Closing or opening a task is permitted for this column"
+msgstr "このカラムではタスクを作成／完了が許可されています"
+msgid "Task creation is blocked for this column"
+msgstr "このカラムでのタスク作成はブロックされています"
+msgid "Closing or opening a task is blocked for this column"
+msgstr "このカラムでのタスクの作成／完了はブロックされています"
+msgid "Task creation is not permitted"
+msgstr "タスクの作成は許可されていません"
+msgid "Closing or opening a task is not permitted"
+msgstr "タスクの作成／完了は許可されていません"
+msgid "New drag and drop restriction for the role \"%s\""
+msgstr "役割「%s」の新しいドラッグアンドドロップ制限"
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "この役割に属するユーザーは、起点カラムと宛先カラムの間でのみタスクを移動できます"
+msgid "Remove a column restriction"
+msgstr "カラムの制限を解除"
+msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
+msgstr "このカラムの制限を解除しますか？： 「%s」→「%s」"
+msgid "New column restriction for the role \"%s\""
+msgstr "役割「%s」のカラムでの新しい制限"
+msgid "Rule"
+msgstr "役割"
+msgid "Do you really want to remove this column restriction?"
+msgstr "この列の制限を解除しますか？"
+msgid "Custom roles"
+msgstr "独自の役割"
+msgid "New custom project role"
+msgstr "プロジェクトでの新しい独自の役割"
+msgid "Edit custom project role"
+msgstr "プロジェクトでの独自の役割を編集"
+msgid "Remove a custom role"
+msgstr "プロジェクトでの独自の役割を削除"
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "役割「%s」を削除しますか？この役割に割当てられたすべてのユーザーがプロジェクトメンバーになります"
+msgid "There is no custom role for this project."
+msgstr "プロジェクトでの独自の役割はありません"
+msgid "New project restriction for the role \"%s\""
+msgstr "役割「%s」の新しいプロジェクト制限"
+msgid "Restriction"
+msgstr "制限"
+msgid "Remove a project restriction"
+msgstr "プロジェクトの制限を解除"
+msgid "Do you really want to remove this project restriction: \"%s\"?"
+msgstr "プロジェクトの制限「%s」を解除しますか？"
+msgid "Duplicate to multiple projects"
+msgstr "複数プロジェクトに複製"
+msgid "This field is required"
+msgstr "このフィールドは必須です"
+msgid "Moving a task is not permitted"
+msgstr "タスクを移動できません"
+msgid "This value must be in the range %d to %d"
+msgstr "この値は%d〜%dの範囲になければなりません"
+msgid "You are not allowed to move this task."
+msgstr "このタスクを移動する権限がありません"
+msgid "API User Access"
+msgstr "API ユーザーアクセス"
+msgid "Preview"
+msgstr "プレビュー"
+msgid "Write"
+msgstr "書込み"
+msgid "Write your text in Markdown"
+msgstr "Markdownで入力"
+msgid "No personal API access token registered."
+msgstr "個人APIアクセストークンは登録されていません"
+msgid "Your personal API access token is \"%s\""
+msgstr "あなたのパーソナルAPIアクセストークン \"%s\""
+msgid "Remove your token"
+msgstr "あなたのトークンを削除"
+msgid "Generate a new token"
+msgstr "新しいトークンを生成"
+msgid "Showing %d-%d of %d"
+msgstr "%d〜%d／%dを表示"
+msgid "Outgoing Emails"
+msgstr "送信メール"
+msgid "Add or change currency rate"
+msgstr "通貨レートを追加または変更"
+msgid "Reference currency: %s"
+msgstr "参照通貨：%s"
+msgid "Add custom filters"
+msgstr "カスタムフィルタを追加"
+msgid "Export"
+msgstr "エクスポート"
+msgid "Add link label"
+msgstr "リンクラベルを追加"
+msgid "Incompatible Plugins"
+msgstr "互換性のないプラグイン"
+msgid "Compatibility"
+msgstr "互換性"
+msgid "Permissions and ownership"
+msgstr "アクセス権と所有権"
+msgid "Priorities"
+msgstr "プロパティ"
+msgid "Close this window"
+msgstr "ウィンドウを閉じる"
+msgid "Unable to upload this file."
+msgstr "ファイルをアップロードできません"
+msgid "Import tasks"
+msgstr "タスクのインポート"
+msgid "Choose a project"
+msgstr "プロジェクトを選択"
+msgid "Profile"
+msgstr "プロフィール"
+msgid "Application role"
+msgstr "アプリケーションでの役割"
+msgid "%d invitations were sent."
+msgstr "%d通の招待状を送信しました"
+msgid "%d invitation was sent."
+msgstr "%dに招待状を送信しました"
+msgid "Unable to create this user."
+msgstr "ユーザーを作成できません"
+msgid "Kanboard Invitation"
+msgstr "Kanboardへの招待"
+msgid "Visible on dashboard"
+msgstr "ダッシュボード表示"
+msgid "Created at:"
+msgstr "作成日時："
+msgid "Updated at:"
+msgstr "更新日時："
+msgid "There is no custom filter."
+msgstr "カスタムフィルタはありません"
+msgid "New User"
+msgstr "新規ユーザー"
+msgid "Authentication"
+msgstr "認証"
+msgid "If checked, this user will use a third-party system for authentication."
+msgstr "チェックすると、このユーザーは認証に第三者システムを使用します"
+msgid "The password is necessary only for local users."
+msgstr "パスワードはローカルユーザーにのみ必要です"
+msgid "You have been invited to register on Kanboard."
+msgstr "あなたはKanboardに登録されました"
+msgid "Click here to join your team"
+msgstr "クリックしてあなたのチームに参加"
+msgid "Invite people"
+msgstr "招待"
+msgid "Emails"
+msgstr "Eメール"
+msgid "Enter one email address by line."
+msgstr "行ごとに1つのメールアドレスを入力してください"
+msgid "Add these people to this project"
+msgstr "これらの人々をプロジェクトに追加"
+msgid "Add this person to this project"
+msgstr "この人をプロジェクトに追加"
+msgid "Sign-up"
+msgstr "サインアップ"
+msgid "Credentials"
+msgstr "資格情報"
+msgid "New user"
+msgstr "新規ユーザー"
+msgid "This username is already taken"
+msgstr "このユーザー名はすでに使用されています"
+msgid "Your profile must have a valid email address."
+msgstr "プロフィールには有効なメールアドレスが必要です"
+msgid "TRL - Turkish Lira"
+msgstr "トルコリラ"
+msgid "The project email is optional and could be used by several plugins."
+msgstr "プロジェクトのEメールはオプション／複数のプラグインで使用可能"
+msgid "The project email must be unique across all projects"
+msgstr "プロジェクトのEメールはすべてのプロジェクトでユニークである必要があります"
+msgid "The email configuration has been disabled by the administrator."
+msgstr "管理者がEメールの設定を無効にしました"
+msgid "Close this project"
+msgstr "プロジェクトを終了"
+msgid "Open this project"
+msgstr "このプロジェクトを開く"
+msgid "Close a project"
+msgstr "プロジェクトを終了"
+msgid "Do you really want to close this project: \"%s\"?"
+msgstr "このプロジェクトを本当に終了しますか？： %s"
+msgid "Reopen a project"
+msgstr "プロジェクトを開く"
+msgid "Do you really want to reopen this project: \"%s\"?"
+msgstr "このプロジェクトを開きますか？： %s"
+msgid "This project is open"
+msgstr "このプロジェクトは進行中"
+msgid "This project is closed"
+msgstr "このプロジェクトは終了しました"
+msgid "Unable to upload files, check the permissions of your data folder."
+msgstr "ファイルをアップロードできません。データフォルダのアクセス権を確認してください。"
+msgid "Another category with the same name exists in this project"
+msgstr "同じ名前の別のカテゴリがプロジェクトに存在します"
+msgid "Comment sent by email successfully."
+msgstr "メールでコメントを送信しました"
+msgid "Sent by email to \"%s\" (%s)"
+msgstr "%s をメールで送信しました \"%s\""
+msgid "Unable to read uploaded file."
+msgstr "アップロードされたファイルを読み込めません"
+msgid "Database uploaded successfully."
+msgstr "データベースをアップロードしました"
+msgid "Task sent by email successfully."
+msgstr "タスクをメールで送信しました"
+msgid "There is no category in this project."
+msgstr "このプロジェクトにカテゴリはありません"
+msgid "Send by email"
+msgstr "メールで送る"
+msgid "Create and send a comment by email"
+msgstr "Eメールでコメントを送信"
+msgid "Subject"
+msgstr "件名"
+msgid "Upload the database"
+msgstr "データベースをアップロード"
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "以前にダウンロードしたSqliteデータベース（Gzip形式）をアップロードできます"
+msgid "Database file"
+msgstr "データベースファイル"
+msgid "Upload"
+msgstr "アップロード"
+msgid "Your project must have at least one active swimlane."
+msgstr "プロジェクトには少なくとも1つのアクティブなスイムレーンが必要です"
+msgid "Project: %s"
+msgstr "プロジェクト：%s"
+msgid "Automatic action not found: \"%s\""
+msgstr "自動アクションが見つかりません： %s"
+msgid "%d projects"
+msgstr "%d 件のプロジェクト"
+msgid "%d project"
+msgstr "%d プロジェクト"
+msgid "There is no project."
+msgstr "プロジェクトはありません"
+msgid "Sort"
+msgstr "ソート"
+msgid "Project ID"
+msgstr "プロジェクトID"
+msgid "Project name"
+msgstr "プロジェクト名"
+msgid "Public"
+msgstr "公開"
+msgid "Personal"
+msgstr "非公開"
+msgid "%d tasks"
+msgstr "%d 件のタスク"
+msgid "%d task"
+msgstr "%d タスク"
+msgid "Task ID"
+msgstr "タスクID"
+msgid "Assign automatically a color when due date is expired"
+msgstr "期限が切れたら自動的に色を割当て"
+msgid "Total score in this column across all swimlanes"
+msgstr "このカラムのすべてのスイムレーンで合計得点"
+msgid "HRK - Kuna"
+msgstr "クロアチア クーナ"
+msgid "ARS - Argentine Peso"
+msgstr "ARS - アルゼンチンペソ"
+msgid "COP - Colombian Peso"
+msgstr "COP - コロンビアペソ"
+msgid "%d groups"
+msgstr "%d個のグループ"
+msgid "%d group"
+msgstr "%d グループ"
+msgid "Group ID"
+msgstr "グループID"
+msgid "External ID"
+msgstr "外部ID"
+msgid "%d users"
+msgstr "%d 人のユーザー"
+msgid "%d user"
+msgstr "%d ユーザー"
+msgid "Hide subtasks"
+msgstr "サブタスクを隠す"
+msgid "Show subtasks"
+msgstr "サブタスクを表示"
+msgid "Authentication Parameters"
+msgstr "認証パラメータ"
+msgid "API Access"
+msgstr "APIアクセス"
+msgid "No users found."
+msgstr "ユーザーが見つかりません"
+msgid "User ID"
+msgstr "ユーザーID"
+msgid "Notifications are activated"
+msgstr "通知は有効"
+msgid "Notifications are disabled"
+msgstr "通知は無効"
+msgid "User disabled"
+msgstr "ユーザーを無効にしました"
+msgid "%d notifications"
+msgstr "%d 件の通知"
+msgid "%d notification"
+msgstr "%d 通知"
+msgid "There is no external integration installed."
+msgstr "外部インテグレーションはインストールされていません"
+msgid "You are not allowed to update tasks assigned to someone else."
+msgstr "他の人に割当てられたタスクを更新する権限がありません"
+msgid "You are not allowed to change the assignee."
+msgstr "担当者を変更する権限はありません"
+msgid "Task suppression is not permitted"
+msgstr "タスクの抑制は許可されていません"
+msgid "Changing assignee is not permitted"
+msgstr "担当者は変更できません"
+msgid "Update only assigned tasks is permitted"
+msgstr "割当てられたタスクのみ更新できます"
+msgid "Only for tasks assigned to the current user"
+msgstr "現在のユーザーに割当てられたタスクのみ"
+msgid "My projects"
+msgstr "自分のプロジェクト"
+msgid "You are not a member of any project."
+msgstr "あなたが所属しているプロジェクトにはありません"
+msgid "My subtasks"
+msgstr "自分のサブタスク"
+msgid "%d subtasks"
+msgstr "%d 件のサブタスク"
+msgid "%d subtask"
+msgstr "%d サブタスク"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "現在のユーザーに割当てられたタスクは、これらのカラム間の移動のみが許可されます"
+msgid "[DUPLICATE]"
+msgstr "[コピー]"
+msgid "DKK - Danish Krona"
+msgstr "DKK - デンマーククローナ"
+msgid "Remove user from group"
+msgstr "ユーザーをグループから削除"
+msgid "Assign the task to its creator"
+msgstr "作成者にタスクを割当て"
+msgid "This task was sent by email to \"%s\" with subject \"%s\"."
+msgstr "このタスクをメールで 「%s」 に送信しました（件名 \"%s\"）"
+msgid "Predefined Email Subjects"
+msgstr "既定のメールの件名"
+msgid "Write one subject by line."
+msgstr "行ごとに1つずつ件名を書く"
+msgid "Create another link"
+msgstr "別のリンクを作成"
+msgid "BRL - Brazilian Real"
+msgstr "BRL - ブラジルレアル"
+msgid "Add a new Kanboard task"
+msgstr "Kanboard タスクを追加"
+msgid "Subtask not started"
+msgstr "サブタスクは開始されていません"
+msgid "Subtask currently in progress"
+msgstr "サブタスクは進行中"
+msgid "Subtask completed"
+msgstr "サブタスクは完了"
+msgid "Subtask added successfully."
+msgstr "サブタスクを追加しました"
+msgid "%d subtasks added successfully."
+msgstr "%d 件のサブタスクを追加しました"
+msgid "Enter one subtask by line."
+msgstr "1行に1件のサブタスクを入力"
+msgid "Predefined Contents"
+msgstr "定義済みコンテンツ"
+msgid "Predefined contents"
+msgstr "定義済みコンテンツ"
+msgid "Predefined Task Description"
+msgstr "定義済みタスクの説明"
+msgid "Do you really want to remove this template? \"%s\""
+msgstr "このテンプレートを削除しますか？： %s"
+msgid "Add predefined task description"
+msgstr "定義済みのタスクの説明を追加"
+msgid "Predefined Task Descriptions"
+msgstr "定義済みタスクの説明"
+msgid "Template created successfully."
+msgstr "テンプレートを作成しました"
+msgid "Unable to create this template."
+msgstr "テンプレートを作成できません"
+msgid "Template updated successfully."
+msgstr "テンプレートを更新しました"
+msgid "Unable to update this template."
+msgstr "テンプレートを更新できません"
+msgid "Template removed successfully."
+msgstr "テンプレートを削除しました"
+msgid "Unable to remove this template."
+msgstr "テンプレートを削除できません"
+msgid "Template for the task description"
+msgstr "タスク説明のテンプレート"
+msgid "The start date is greater than the end date"
+msgstr "開始日が終了日を超えています"
+msgid "Tags must be separated by a comma"
+msgstr "タグはコンマで区切る必要があります"
+msgid "Only the task title is required"
+msgstr "タスクのタイトルのみが必要です"
+msgid "Creator Username"
+msgstr "作成者名"
+msgid "Color Name"
+msgstr "色名"
+msgid "Column Name"
+msgstr "カラム名"
+msgid "Swimlane Name"
+msgstr "スイムレーン名"
+msgid "Time Estimated"
+msgstr "見積時間"
+msgid "Time Spent"
+msgstr "経過時間"
+msgid "External Link"
+msgstr "外部リンク"
+msgid "This feature enables the iCal feed, RSS feed and the public board view."
+msgstr "この機能は、iCal フィードとRSSフィード、そしてボードビューを公開します。"
+msgid "Stop the timer of all subtasks when moving a task to another column"
+msgstr "タスクを別のカラムに移動したときに、全てのサブタスクのタイマーを停止する"
+msgid "Subtask Title"
+msgstr "サブタスクのタイトル"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "サブタスクを追加し、タスクを別のカラムに移動したときにタイマーを有効化する"
+msgid "days"
+msgstr "日"
+msgid "minutes"
+msgstr "分"
+msgid "seconds"
+msgstr "秒"
+msgid "Assign automatically a color when preset start date is reached"
+msgstr "予め設定した開始日になったら、自動的に色を割り当てる"
+msgid "Move the task to another column once a predefined start date is reached"
+msgstr "予め設定した開始日になったら、タスクを別のカラムに移動する"
+msgid "This task is now linked to the task %s with the relation \"%s\""
+msgstr "このタスクと、タスク %s を、\"%s\"として関連付けました "
+msgid "The link with the relation \"%s\" to the task %s has been removed"
+msgstr "このタスクと \"%s\" として関連付けていた、タスク %s とのリンクを削除しました"
+msgid "Custom Filter:"
+msgstr "カスタムフィルタ"
+msgid "Unable to find this group."
+msgstr "このグループが見つかりません"
+msgid "%s moved the task #%d to the column \"%s\""
+msgstr "%s がタスク #%d をカラム \"%s\"に移動しました"
+msgid "%s moved the task #%d to the position %d in the column \"%s\""
+msgstr "%s がタスク #%d をポジション#%d カラム \"%s\"に移動しました"
+msgid "%s moved the task #%d to the swimlane \"%s\""
+msgstr "%s がタスク #%d をスイムレーン \"%s\"に移動しました"
+msgid "%sh spent"
+msgstr "%sh 経過"
+msgid "%sh estimated"
+msgstr "%sh の見積"
+msgid "Select All"
+msgstr "全て選択"
+msgid "Unselect All"
+msgstr "全て選択解除"
+msgid "Apply action"
+msgstr "アクションを実行"
+msgid "Move selected tasks to another column or swimlane"
+msgstr "選択したタスクを別のカラムに移動"
+msgid "Edit tasks in bulk"
+msgstr "タスクを一括編集"
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr "選択したタスクの、変更したいプロパティを選択してください。"
+msgid "Configure this project"
+msgstr "このプロジェクトの設定"
+msgid "Start now"
+msgstr "今すぐ開始"
+msgid "%s removed a file from the task #%d"
+msgstr "%s がタスク #%d からファイルを削除しました"
+msgid "Attachment removed from task #%d: %s"
+msgstr "タスク #%d への添付ファイル %s は削除されました"
+msgid "No color"
+msgstr "色無し"
+msgid "Attachment removed \"%s\""
+msgstr "添付 \"%s\" は削除されました"
+msgid "%s removed a file from the task %s"
+msgstr "%s がタスク %s からファイルを削除しました"
+msgid "Move the task to another swimlane when assigned to a user"
+msgstr "担当者を割り当てたとき、タスクを別のスイムレーンに移動する"
+msgid "Destination swimlane"
+msgstr "宛先のスイムレーン"
+msgid "Assign a category when the task is moved to a specific swimlane"
+msgstr "タスクが特定のスイムレーンに移動したときにカテゴリを割り当てる"
+msgid "Move the task to another swimlane when the category is changed"
+msgstr "カテゴリが変更されたとき、タスクを別のスイムレーンに移動する"
+msgid "Reorder this column by priority (ASC)"
+msgstr "優先度で並び替える(昇順)"
+msgid "Reorder this column by priority (DESC)"
+msgstr "優先度で並び替える(降順)"
+msgid "Reorder this column by assignee and priority (ASC)"
+msgstr "担当者と優先度で並び替える(昇順)"
+msgid "Reorder this column by assignee and priority (DESC)"
+msgstr "担当者と優先度で並び替える(降順)"
+msgid "Reorder this column by assignee (A-Z)"
+msgstr "担当者で並び替える(A-Z)"
+msgid "Reorder this column by assignee (Z-A)"
+msgstr "担当者で並び替える(Z-A)"
+msgid "Reorder this column by due date (ASC)"
+msgstr "期限で並び替える(昇順)"
+msgid "Reorder this column by due date (DESC)"
+msgstr "期限で並び替える(降順)"
+msgid "%s moved the task #%d \"%s\" to the project \"%s\""
+msgstr "%s がタスク #%d \"%s\" をプロジェクト \"%s\" に移動しました"
+msgid "Task #%d \"%s\" has been moved to the project \"%s\""
+msgstr "タスク#%d \"%s\" はプロジェクト \"%s\" へ移動されました "
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "期限までの日数が規定値以下になったら、タスクを別のカラムに移動する"
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "タスクが特定のカラムから移動された時、自動的に開始日を更新する"
+msgid "HTTP Client:"
+msgstr "HTTPクライアント"
+msgid "Assigned"
+msgstr "割当済み"
+msgid "Task limits apply to each swimlane individually"
+msgstr "スイムレーン毎にタスク数制限を適用する。"
+msgid "Column task limits apply to each swimlane individually"
+msgstr "スイムレーン毎にカラムのタスク数制限が適用されます。"
+msgid "Column task limits are applied to each swimlane individually"
+msgstr "カラムのタスク数制限はスイムレーン毎に適用されています。"
+msgid "Column task limits are applied across swimlanes"
+msgstr "カラムのタスク数制限はスイムレーンを跨いで適用されています。"
+msgid "Task limit: "
+msgstr "タスク数制限"
+msgid "Change to global tag"
+msgstr "グローバルタグに変換"
+msgid "Do you really want to make the tag \"%s\" global?"
+msgstr "本当にタグ \"%s\" をグローバルタグに変換しますか?"
+msgid "Enable global tags for this project"
+msgstr "このプロジェクトでグローバルタグを有効にする"
+msgid "Group membership(s):"
+msgstr "所属グループ"
+msgid "%s is a member of the following group(s): %s"
+msgstr "メンバー %s は以下のグループに所属しています: %s"
+msgid "%d/%d group(s) shown"
+msgstr "グループ %d/%d を表示"
+msgid "Subtask creation or modification"
+msgstr "サブタスクが作成or更新されました"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "特定のスイムレーンにタスクを移動した時に、特定のユーザーにタスクを割当てる"
+msgid "Comment"
+msgstr "コメント"
+msgid "Collapse vertically"
+msgstr "縦に折りたたむ"
+msgid "Expand vertically"
+msgstr "縦の折りたたみを解除"
+msgid "MXN - Mexican Peso"
+msgstr "メキシコ・ペソ"
+msgid "Estimated vs actual time per column"
+msgstr ""
+msgid "HUF - Hungarian Forint"
+msgstr ""
+msgid "XBT - Bitcoin"
+msgstr "XBT - Bitcoin"
+msgid "You must select a file to upload as your avatar!"
+msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr ""
+msgid "No other projects found."
+msgstr ""
+msgid "Please choose a project you want to copy the tasks from."
+msgstr ""
+msgid "Import Tasks"
+msgstr ""
+msgid "Copy"
+msgstr ""
+msgid "Tasks copied successfully."
+msgstr ""
+msgid "Unable to copy tasks."
+msgstr ""
 

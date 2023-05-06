@@ -1,2868 +1,2868 @@
 
- msgid 'number.decimals_separator'
- msgstr ''
- msgid 'number.thousands_separator'
- msgstr ''
- msgid 'None'
- msgstr 'هیچ'
- msgid 'Edit'
- msgstr 'ویرایش'
- msgid 'Remove'
- msgstr 'حذف'
- msgid 'Yes'
- msgstr 'بلی'
- msgid 'No'
- msgstr 'خیر'
- msgid 'cancel'
- msgstr 'انصراف'
- msgid 'or'
- msgstr 'یا'
- msgid 'Yellow'
- msgstr 'زرد'
- msgid 'Blue'
- msgstr 'آبی'
- msgid 'Green'
- msgstr 'سبز'
- msgid 'Purple'
- msgstr 'ارغوانی'
- msgid 'Red'
- msgstr 'قرمز'
- msgid 'Orange'
- msgstr 'نارنجی'
- msgid 'Grey'
- msgstr 'خاکستری'
- msgid 'Brown'
- msgstr 'قهوه ای'
- msgid 'Deep Orange'
- msgstr 'نارنجی پررنگ'
- msgid 'Dark Grey'
- msgstr 'خاکستری تیره'
- msgid 'Pink'
- msgstr 'صورتی'
- msgid 'Teal'
- msgstr 'آبی سیر'
- msgid 'Cyan'
- msgstr 'یشمی'
- msgid 'Lime'
- msgstr 'لیمویی'
- msgid 'Light Green'
- msgstr 'سبز کمرنگ'
- msgid 'Amber'
- msgstr 'زرد کهربایی'
- msgid 'Save'
- msgstr 'ذخیره'
- msgid 'Login'
- msgstr 'ورود'
- msgid 'Official website:'
- msgstr 'وبسایت رسمی :'
- msgid 'Unassigned'
- msgstr 'محول نشده'
- msgid 'View this task'
- msgstr 'نمایش این کار'
- msgid 'Remove user'
- msgstr 'حذف کاربر'
- msgid 'Do you really want to remove this user: "%s"?'
- msgstr 'واقعاً می خواهید این کاربر حذف شود؟ : « %s » '
- msgid 'All users'
- msgstr 'تمامی کاربران'
- msgid 'Username'
- msgstr 'نام کاربری'
- msgid 'Password'
- msgstr 'گذرواژه'
- msgid 'Administrator'
- msgstr 'مدیر سیستم'
- msgid 'Sign in'
- msgstr 'ورود'
- msgid 'Users'
- msgstr 'کاربران'
- msgid 'Forbidden'
- msgstr 'ممنوع شده'
- msgid 'Access Forbidden'
- msgstr 'دسترسی غیرمجاز'
- msgid 'Edit user'
- msgstr 'ویرایش کاربر'
- msgid 'Logout'
- msgstr 'خروج'
- msgid 'Bad username or password'
- msgstr 'نام کاربری یا گذرواژه اشتباه'
- msgid 'Edit project'
- msgstr 'ویرایش پروژه'
- msgid 'Name'
- msgstr 'نام'
- msgid 'Projects'
- msgstr 'پروژه ها'
- msgid 'No project'
- msgstr 'پروژه ای نیست'
- msgid 'Project'
- msgstr 'پروژه'
- msgid 'Status'
- msgstr 'وضعیت'
- msgid 'Tasks'
- msgstr 'کارها'
- msgid 'Board'
- msgstr 'برد'
- msgid 'Actions'
- msgstr 'فعالیت ها'
- msgid 'Inactive'
- msgstr 'غیرفعال'
- msgid 'Active'
- msgstr 'فعال'
- msgid 'Unable to update this board.'
- msgstr 'امکان فعال کردن این برد وجود ندارد.'
- msgid 'Disable'
- msgstr 'غیرفعال'
- msgid 'Enable'
- msgstr 'فعال'
- msgid 'New project'
- msgstr 'پروژه جدید'
- msgid 'Do you really want to remove this project: "%s"?'
- msgstr 'واقعاً مایل به حذف این پروژه هستید : « %s » ؟'
- msgid 'Remove project'
- msgstr 'حذف پروژه'
- msgid 'Edit the board for "%s"'
- msgstr 'ویرایش برد برای « %s »'
- msgid 'Add a new column'
- msgstr 'افزودن یک ستون جدید'
- msgid 'Title'
- msgstr 'عنوان'
- msgid 'Assigned to %s'
- msgstr 'اختصاص به %s'
- msgid 'Remove a column'
- msgstr 'حذف یک ستون'
- msgid 'Unable to remove this column.'
- msgstr 'امکان حذف این ستون وجود ندارد.'
- msgid 'Do you really want to remove this column: "%s"?'
- msgstr 'واقعاً مایل به حذف این ستون هستید : « %s » ؟'
- msgid 'Settings'
- msgstr 'تنظیمات'
- msgid 'Application settings'
- msgstr 'تنظیمات برنامه'
- msgid 'Language'
- msgstr 'زبان'
- msgid 'Webhook token:'
- msgstr 'توکن Webhook:'
- msgid 'API token:'
- msgstr 'توکن API:'
- msgid 'Database size:'
- msgstr 'اندازه پایگاه داده :'
- msgid 'Download the database'
- msgstr 'بارگیری پایگاه داده'
- msgid 'Optimize the database'
- msgstr 'بهینه سازی پایگاه داده'
- msgid '(VACUUM command)'
- msgstr '(دستور VACUUM)'
- msgid '(Gzip compressed Sqlite file)'
- msgstr '(فایل فشرده sqlite Gzip)'
- msgid 'Close a task'
- msgstr 'بستن یک کار'
- msgid 'Column'
- msgstr 'ستون'
- msgid 'Color'
- msgstr 'رنگ'
- msgid 'Assignee'
- msgstr 'شخص محول شده'
- msgid 'Create another task'
- msgstr 'ایجاد کاری دیگر'
- msgid 'New task'
- msgstr 'کار جدید'
- msgid 'Open a task'
- msgstr 'یک کار را باز کنید'
- msgid 'Do you really want to open this task: "%s"?'
- msgstr 'واقعاً می خواهید این کار را باز کنید: "%s"؟'
- msgid 'Back to the board'
- msgstr 'بازگشت به برد'
- msgid 'There is nobody assigned'
- msgstr 'به هیچ کسی محول نشده'
- msgid 'Column on the board:'
- msgstr 'ستون در برد'
- msgid 'Close this task'
- msgstr 'این کار بسته شود'
- msgid 'Open this task'
- msgstr 'این کار باز شود'
- msgid 'There is no description.'
- msgstr 'هیچ توضیحی وجود ندارد'
- msgid 'Add a new task'
- msgstr 'یک کار جدید اضافه کنید'
- msgid 'The username is required'
- msgstr 'می بایست نام کاربری را وارد کنید'
- msgid 'The maximum length is %d characters'
- msgstr 'بیشترین طول مجاز %d حرف است'
- msgid 'The minimum length is %d characters'
- msgstr 'کمترین طول مجاز %d حرف است'
- msgid 'The password is required'
- msgstr 'می بایست گذرواژه را وارد کنید'
- msgid 'This value must be an integer'
- msgstr 'این مقدار باید عدد صحیح باشد'
- msgid 'The username must be unique'
- msgstr 'نام کاربری باید یکتا باشد'
- msgid 'The user id is required'
- msgstr 'شناسه کاربر الزامی است'
- msgid 'Passwords don\'t match'
- msgstr 'گذرواژه مطابقت ندارد'
- msgid 'The confirmation is required'
- msgstr 'تصدیق الزامی است'
- msgid 'The project is required'
- msgstr 'پروژه الزامی است'
- msgid 'The id is required'
- msgstr 'شناسه الزامی است'
- msgid 'The project id is required'
- msgstr 'شناسه پروژه الزامی است'
- msgid 'The project name is required'
- msgstr 'نام پروژه الزامی است'
- msgid 'The title is required'
- msgstr 'عنوان الزامی است'
- msgid 'Settings saved successfully.'
- msgstr 'تنظیمات با موفقیت ذخیره شدند.'
- msgid 'Unable to save your settings.'
- msgstr 'تنظیمات شما ذخیره نمی شود.'
- msgid 'Database optimization done.'
- msgstr 'بهینه سازی پایگاه داده انجام شد.'
- msgid 'Your project has been created successfully.'
- msgstr 'پروژه شما با موفقیت ایجاد شد'
- msgid 'Unable to create your project.'
- msgstr 'ایجاد پروژه شما امکان پذیر نیست.'
- msgid 'Project updated successfully.'
- msgstr 'پروژه با موفقیت به روز رسانی شد.'
- msgid 'Unable to update this project.'
- msgstr 'بروز رسانی این پروژه امکان پذیر نیست.'
- msgid 'Unable to remove this project.'
- msgstr 'حذف این پروژه امکان پذیر نیست.'
- msgid 'Project removed successfully.'
- msgstr 'پروژه با موفقیت حذف شد.'
- msgid 'Project activated successfully.'
- msgstr 'پروژه با موفقیت فعال شد.'
- msgid 'Unable to activate this project.'
- msgstr 'فعال شدن این پروژه امکان پذیر نیست.'
- msgid 'Project disabled successfully.'
- msgstr 'پروژه با موفقیت غیرفعال شد.'
- msgid 'Unable to disable this project.'
- msgstr 'غیر فعال شدن این پروژه امکان پذیر نیست.'
- msgid 'Unable to open this task.'
- msgstr 'باز کردن این کار امکان پذیر نیست.'
- msgid 'Task opened successfully.'
- msgstr 'کار با موفقیت باز شد.'
- msgid 'Unable to close this task.'
- msgstr 'بست این کار امکان پذیر نیست.'
- msgid 'Task closed successfully.'
- msgstr 'کار با موفقیت بسته شد.'
- msgid 'Unable to update your task.'
- msgstr 'بروز رسانی کار شما امکان پذیر نیست.'
- msgid 'Task updated successfully.'
- msgstr 'کار با موفقیت بروز رسانی شد.'
- msgid 'Unable to create your task.'
- msgstr 'ایجاد کار شما امکان پذیر نیست.'
- msgid 'Task created successfully.'
- msgstr 'کار با موفقیت ایجاد شد.'
- msgid 'User created successfully.'
- msgstr 'کاربر با موفقیت ایجاد شد.'
- msgid 'Unable to create your user.'
- msgstr 'ایجاد کاربر شما امکان پذیر نیست.'
- msgid 'User updated successfully.'
- msgstr 'کاربر با موفقیت بروز رسانی شد.'
- msgid 'User removed successfully.'
- msgstr 'کاربر با موفقیت حذف شد.'
- msgid 'Unable to remove this user.'
- msgstr 'حذف این کاربر امکان پذیر نیست.'
- msgid 'Board updated successfully.'
- msgstr 'برد با موفقیت بروز رسانی شد.'
- msgid 'Ready'
- msgstr 'آماده'
- msgid 'Backlog'
- msgstr 'بلاتکلیف'
- msgid 'Work in progress'
- msgstr 'کار در حال انجام'
- msgid 'Done'
- msgstr 'انجام شده'
- msgid 'Application version:'
- msgstr 'نسخه برنامه:'
- msgid 'Id'
- msgstr 'شناسه'
- msgid 'Public link'
- msgstr 'پیوند عمومی'
- msgid 'Timezone'
- msgstr 'منطقه زمانی'
- msgid 'Sorry, I didn\'t find this information in my database!'
- msgstr 'شرمنده، من این اطلاعات را در پایگاه داده ام پیدا نکردم!'
- msgid 'Page not found'
- msgstr 'صفحه پیدا نشد'
- msgid 'Complexity'
- msgstr 'پیچیدگی'
- msgid 'Task limit'
- msgstr 'محدودیت کار'
- msgid 'Task count'
- msgstr 'تعداد کار'
- msgid 'User'
- msgstr 'کاربر'
- msgid 'Comments'
- msgstr 'نظرات'
- msgid 'Comment is required'
- msgstr 'نظر الزامی است'
- msgid 'Comment added successfully.'
- msgstr 'نظر با موفقیت افزوده شد'
- msgid 'Unable to create your comment.'
- msgstr 'ایجاد نظر شما امکان پذیر نیست'
- msgid 'Due Date'
- msgstr 'سر رسید'
- msgid 'Invalid date'
- msgstr 'تاریخ نامعتبر'
- msgid 'Automatic actions'
- msgstr 'اعمال خودکار'
- msgid 'Your automatic action has been created successfully.'
- msgstr 'عمل خودکار شما با موفقیت ایجاد شد'
- msgid 'Unable to create your automatic action.'
- msgstr 'ایجاد عمل خودکار شما امکان پذیر نیست.'
- msgid 'Remove an action'
- msgstr 'حذف یک عمل'
- msgid 'Unable to remove this action.'
- msgstr 'حذف این عمل امکان پذیر نیست.'
- msgid 'Action removed successfully.'
- msgstr 'عمل با موفقیت حذف شد'
- msgid 'Automatic actions for the project "%s"'
- msgstr 'اعمال خودکار برای پروژه "%s"'
- msgid 'Add an action'
- msgstr 'یک عمل اضافه کنید'
- msgid 'Event name'
- msgstr 'نام رویداد'
- msgid 'Action'
- msgstr 'عمل'
- msgid 'Event'
- msgstr 'رویداد'
- msgid 'When the selected event occurs execute the corresponding action.'
- msgstr 'وقتی رویداد انتخابی رخ دهد، عمل متناظر با آن را اجرا کن.'
- msgid 'Next step'
- msgstr 'گام بعدی'
- msgid 'Define action parameters'
- msgstr 'تعریف پارامترهای عمل'
- msgid 'Do you really want to remove this action: "%s"?'
- msgstr 'واقعاً می خواهید این عمل را حذف کنید: "%s" ؟'
- msgid 'Remove an automatic action'
- msgstr 'حذف یک عمل خودکار'
- msgid 'Assign the task to a specific user'
- msgstr 'تخصیص کار به یک کاربر خاص'
- msgid 'Assign the task to the person who does the action'
- msgstr 'تخصیص کار به شخصی که عمل را انجام می دهد،'
- msgid 'Duplicate the task to another project'
- msgstr 'کپی  کار به پروژه ای دیگر'
- msgid 'Move a task to another column'
- msgstr 'انتقال یک کار به ستونی دیگر'
- msgid 'Task modification'
- msgstr 'دستکاری کار'
- msgid 'Task creation'
- msgstr 'ایجاد کار'
- msgid 'Closing a task'
- msgstr 'بستن یک کار'
- msgid 'Assign a color to a specific user'
- msgstr 'تخصیص یک رنگ به یک کاربر خاص'
- msgid 'Position'
- msgstr 'موقعیت'
- msgid 'Duplicate to project'
- msgstr 'کپی به پروژه ای دیگر'
- msgid 'Duplicate'
- msgstr 'کپی کردن'
- msgid 'Link'
- msgstr 'پیوند'
- msgid 'Comment updated successfully.'
- msgstr 'نظر با موفقیت بروز رسانی شد.'
- msgid 'Unable to update your comment.'
- msgstr 'بروز رسانی نظر شما امکان پذیر نیست.'
- msgid 'Remove a comment'
- msgstr 'حذف یک نظر'
- msgid 'Comment removed successfully.'
- msgstr 'نظر با موفقیت حذف شد.'
- msgid 'Unable to remove this comment.'
- msgstr 'حذف این نظر امکان پذیر نیست.'
- msgid 'Do you really want to remove this comment?'
- msgstr 'واقعاً مایل به حذف این نظر هستید؟'
- msgid 'Current password for the user "%s"'
- msgstr 'گذرواژه کنونی برای کاربر "%s"'
- msgid 'The current password is required'
- msgstr 'گذرواژه کنونی الزامی است'
- msgid 'Wrong password'
- msgstr 'گذرواژه اشتباه'
- msgid 'Unknown'
- msgstr 'ناشناخته'
- msgid 'Last logins'
- msgstr 'آخرین ورود ها'
- msgid 'Login date'
- msgstr 'تاریخ ورود'
- msgid 'Authentication method'
- msgstr 'شیوه تایید هویت'
- msgid 'IP address'
- msgstr 'آدرس IP'
- msgid 'User agent'
- msgstr 'واسط کاربری'
- msgid 'Persistent connections'
- msgstr 'ارتباطات برقرار شده'
- msgid 'No session.'
- msgstr 'نشستی وجود ندارد.'
- msgid 'Expiration date'
- msgstr 'تاریخ انقضاء'
- msgid 'Remember Me'
- msgstr 'مرا به خاطر بسپار'
- msgid 'Creation date'
- msgstr 'تاریخ ایجاد'
- msgid 'Everybody'
- msgstr 'همه'
- msgid 'Open'
- msgstr 'باز'
- msgid 'Closed'
- msgstr 'بسته'
- msgid 'Search'
- msgstr 'جستجو'
- msgid 'Nothing found.'
- msgstr 'چیزی یافت نشد'
- msgid 'Due date'
- msgstr 'تاریخ سررسید'
- msgid 'Description'
- msgstr 'شرح'
- msgid '%d comments'
- msgstr '%d نظر'
- msgid '%d comment'
- msgstr '%d نظر'
- msgid 'Email address invalid'
- msgstr 'آدرس پست الکترونیکی اشتباه'
- msgid 'Your external account is not linked anymore to your profile.'
- msgstr 'حساب خارجی شما دیگر به پروفایل شما پیوند ندارد'
- msgid 'Unable to unlink your external account.'
- msgstr 'قطع پیوند از حساب کاربری شما امکانپذیر نیست'
- msgid 'External authentication failed'
- msgstr 'تایید هویت خارجی با شکست مواجه شد'
- msgid 'Your external account is linked to your profile successfully.'
- msgstr 'حساب خارجی شما به پروفایل شما با موفقیت پیوند خورد.'
- msgid 'Email'
- msgstr 'پست الکترونیکی'
- msgid 'Task removed successfully.'
- msgstr 'کار با موفقیت حذف شد.'
- msgid 'Unable to remove this task.'
- msgstr 'حذف این کار امکانپذیر نیست.'
- msgid 'Remove a task'
- msgstr 'حذف یک کار'
- msgid 'Do you really want to remove this task: "%s"?'
- msgstr 'واقعاً می خواهید کار: "%s" را حذف کنید؟'
- msgid 'Assign automatically a color based on a category'
- msgstr 'اختصاص خودکار یک رنگ بر اساس یک دسته بندی'
- msgid 'Assign automatically a category based on a color'
- msgstr 'اختصاص خودکار یک دسته بندی بر اساس یک رنگ'
- msgid 'Task creation or modification'
- msgstr 'ایجاد یا تغییر کار'
- msgid 'Category'
- msgstr 'دسته بندی'
- msgid 'Category:'
- msgstr 'دسته بندی:'
- msgid 'Categories'
- msgstr 'دسته بندی ها'
- msgid 'Your category has been created successfully.'
- msgstr 'دسته بندی شما با موفقیت ایجاد شد.'
- msgid 'This category has been updated successfully.'
- msgstr 'دسته بندی با موفقیت بروز رسانی شد.'
- msgid 'Unable to update this category.'
- msgstr 'امکان بروز رسانی این دسته بندی وجود ندارد.'
- msgid 'Remove a category'
- msgstr 'حذف یک دسته بندی'
- msgid 'Category removed successfully.'
- msgstr 'دسته بندی با موفقیت حذف شد.'
- msgid 'Unable to remove this category.'
- msgstr 'حذف این دسته بندی امکان پذیر نیست.'
- msgid 'Category modification for the project "%s"'
- msgstr 'تغییر دسته بندی برای پروژه "%s"'
- msgid 'Category Name'
- msgstr 'نام دسته بندی'
- msgid 'Add a new category'
- msgstr 'افزودن یک دسته بندی جدید'
- msgid 'Do you really want to remove this category: "%s"?'
- msgstr 'واقعاً می خواهید دسته بندی "%s" را حذف کنید؟'
- msgid 'All categories'
- msgstr 'همه دسته بندی ها'
- msgid 'No category'
- msgstr 'بدون دسته بندی'
- msgid 'The name is required'
- msgstr 'نام الزامی است'
- msgid 'Remove a file'
- msgstr 'حذف یک فایل'
- msgid 'Unable to remove this file.'
- msgstr 'حذف این فایل امکان پذیر نیست.'
- msgid 'File removed successfully.'
- msgstr 'فایل با موفقیت حذف شد.'
- msgid 'Attach a document'
- msgstr 'پیوست یک سند'
- msgid 'Do you really want to remove this file: "%s"?'
- msgstr 'واقعاً از حذف فایل "%s" اطمینان دارید؟'
- msgid 'Attachments'
- msgstr 'پیوست ها'
- msgid 'Edit the task'
- msgstr 'ویرایش کار'
- msgid 'Add a comment'
- msgstr 'افزودن یک نظر'
- msgid 'Edit a comment'
- msgstr 'ویرایش یک نظر'
- msgid 'Summary'
- msgstr 'خلاصه'
- msgid 'Time tracking'
- msgstr 'پیگیری زمانی'
- msgid 'Estimate:'
- msgstr 'تخمین:'
- msgid 'Spent:'
- msgstr 'صرف شده:'
- msgid 'Do you really want to remove this sub-task?'
- msgstr 'آیا واقعاً از حذف این کار فرعی اطمینان دارید؟'
- msgid 'Remaining:'
- msgstr 'باقیمانده:'
- msgid 'hours'
- msgstr 'ساعت'
- msgid 'estimated'
- msgstr 'تخمینی'
- msgid 'Sub-Tasks'
- msgstr 'کارهای فرعی'
- msgid 'Add a sub-task'
- msgstr 'افزودن یک کار فرعی'
- msgid 'Original estimate'
- msgstr 'تخمین اصلی'
- msgid 'Create another sub-task'
- msgstr 'ایجاد یک کار فرعی دیگر'
- msgid 'Time spent'
- msgstr 'زمان سپری شده'
- msgid 'Edit a sub-task'
- msgstr 'ویرایش یک کار فرعی'
- msgid 'Remove a sub-task'
- msgstr 'حذف یک کار فرعی'
- msgid 'The time must be a numeric value'
- msgstr 'زمان باید بصورت عدد باشد'
- msgid 'Todo'
- msgstr 'لیست جهت انجام کار'
- msgid 'In progress'
- msgstr 'در حال انجام'
- msgid 'Sub-task removed successfully.'
- msgstr 'کار فرعی با موفقیت حذف شد.'
- msgid 'Unable to remove this sub-task.'
- msgstr 'حذف این کار فرعی امکان پذیر نیست.'
- msgid 'Sub-task updated successfully.'
- msgstr 'کار فرعی با موفقیت بروز رسانی شد.'
- msgid 'Unable to update your sub-task.'
- msgstr 'بروز رسانی کار فرعی شما امکان پذیر نیست.'
- msgid 'Unable to create your sub-task.'
- msgstr 'ایجاد کار فرعی شما امکان پذیر نیست.'
- msgid 'Maximum size: '
- msgstr 'بیشترین اندازه: '
- msgid 'Display another project'
- msgstr 'نمایش پروژه دیگر'
- msgid 'Created by %s'
- msgstr 'ایجاد شده توسط %s'
- msgid 'Tasks Export'
- msgstr 'برون ریزی کار ها'
- msgid 'Start Date'
- msgstr 'تاریخ شروع'
- msgid 'Execute'
- msgstr 'اجرا'
- msgid 'Task Id'
- msgstr 'شناسه کار'
- msgid 'Creator'
- msgstr 'ایجاد کننده'
- msgid 'Modification date'
- msgstr 'تاریخ تغییر'
- msgid 'Completion date'
- msgstr 'تاریخ تکمیل'
- msgid 'Clone'
- msgstr 'تکثیر'
- msgid 'Project cloned successfully.'
- msgstr 'پروژه با موفقیت تکثیر شد.'
- msgid 'Unable to clone this project.'
- msgstr 'تکثیر این پروژه امکان پذیر نیست.'
- msgid 'Enable email notifications'
- msgstr 'فعال کردن آگاه سازی از طریق پست الکترونیکی'
- msgid 'Task position:'
- msgstr 'جایگاه کار:'
- msgid 'The task #%d has been opened.'
- msgstr 'کار #%d باز شد.'
- msgid 'The task #%d has been closed.'
- msgstr 'کار #%d بسته شد.'
- msgid 'Sub-task updated'
- msgstr 'کار فرعی بروز رسانی شد'
- msgid 'Title:'
- msgstr 'عنوان:'
- msgid 'Status:'
- msgstr 'وضعیت:'
- msgid 'Assignee:'
- msgstr 'شخص محول شده:'
- msgid 'Time tracking:'
- msgstr 'رهگیری زمان:'
- msgid 'New sub-task'
- msgstr 'کار فرعی جدید'
- msgid 'New attachment added "%s"'
- msgstr 'پیوست جدید افزوده شده: "%s"'
- msgid 'New comment posted by %s'
- msgstr 'نظر جدید توسط %s ارسال شد.'
- msgid 'New comment'
- msgstr 'نظر جدید'
- msgid 'Comment updated'
- msgstr 'نظر بروز رسانی شد'
- msgid 'New subtask'
- msgstr 'کار فرعی جدید'
- msgid 'I only want to receive notifications for these projects:'
- msgstr 'می خواهم آگاه سازی ها را فقط برای این پروژه ها دریافت کنم:'
- msgid 'view the task on Kanboard'
- msgstr 'نمایش کار در کن برد'
- msgid 'Public access'
- msgstr 'دسترسی عمومی'
- msgid 'Disable public access'
- msgstr 'غیر فعال کردن دسترسی عمومی'
- msgid 'Enable public access'
- msgstr 'فعال کردن دسترسی عمومی'
- msgid 'Public access disabled'
- msgstr 'دسترسی عمومی غیر فعال شد'
- msgid 'Move the task to another project'
- msgstr 'انتقال کار به پروژه ای دیگر'
- msgid 'Move to project'
- msgstr 'انتقال به پروژه ای دیگر'
- msgid 'Do you really want to duplicate this task?'
- msgstr 'واقعاً می خواهید این کار را کپی کنید؟'
- msgid 'Duplicate a task'
- msgstr 'کپی یک کار'
- msgid 'External accounts'
- msgstr 'حساب های خارجی'
- msgid 'Account type'
- msgstr 'نوع حساب'
- msgid 'Local'
- msgstr 'محلی'
- msgid 'Remote'
- msgstr 'از راه دور'
- msgid 'Enabled'
- msgstr 'فعال'
- msgid 'Disabled'
- msgstr 'غیر فعال'
- msgid 'Login:'
- msgstr 'ورود:'
- msgid 'Full Name:'
- msgstr 'نام کامل:'
- msgid 'Email:'
- msgstr 'پست الکترونیکی:'
- msgid 'Notifications:'
- msgstr 'آگاه سازی ها:'
- msgid 'Notifications'
- msgstr 'آگاه سازی ها'
- msgid 'Account type:'
- msgstr 'نوع حساب:'
- msgid 'Edit profile'
- msgstr 'ویرایش پروفایل'
- msgid 'Change password'
- msgstr 'تغییر گذرواژه'
- msgid 'Password modification'
- msgstr 'تغییر گذرواژه'
- msgid 'External authentications'
- msgstr 'تایید هویت خارجی'
- msgid 'Never connected.'
- msgstr 'هرگز متصل نشده.'
- msgid 'No external authentication enabled.'
- msgstr 'هیچ گونه تایید هویت خارجی فعال نشده.'
- msgid 'Password modified successfully.'
- msgstr 'گذرواژه با موفقیت تغییر کرد.'
- msgid 'Unable to change the password.'
- msgstr 'تغییر گذرواژه امکان پذیر نیست.'
- msgid 'Change category'
- msgstr 'تغییر دسته بندی'
- msgid '%s updated the task %s'
- msgstr 'کاربر %s کار %s را بروز رسانی کرد.'
- msgid '%s opened the task %s'
- msgstr 'کاربر %s کار %s را باز کرد.'
- msgid '%s moved the task %s to the position #%d in the column "%s"'
- msgstr 'کاربر %s کار %s را به موقعیت #%d در ستون "%s" منتقل کرد.'
- msgid '%s moved the task %s to the column "%s"'
- msgstr 'کاربر %s کار %s را به ستون "%s" منتقل کرد.'
- msgid '%s created the task %s'
- msgstr 'کاربر %s کار %s را ایجاد کرد.'
- msgid '%s closed the task %s'
- msgstr 'کاربر %s کار %s را بست.'
- msgid '%s created a subtask for the task %s'
- msgstr 'کاربر %s یک کار فرعی برای کار %s ایجاد کرد.'
- msgid '%s updated a subtask for the task %s'
- msgstr 'کاربر %s یک کار فرعی برای کار %s بروز رسانی کرد.'
- msgid 'Assigned to %s with an estimate of %s/%sh'
- msgstr 'محول شده به %s با تخمین %s/%sh'
- msgid 'Not assigned, estimate of %sh'
- msgstr 'محول نشده، تخمین %sh'
- msgid '%s updated a comment on the task %s'
- msgstr ''
- msgid '%s commented the task %s'
- msgstr ''
- msgid '%s\'s activity'
- msgstr 'فعالیت %s'
- msgid 'RSS feed'
- msgstr 'خوراک RSS'
- msgid '%s updated a comment on the task #%d'
- msgstr 'کاربر %s یک نظر را در کار #%d بروز رسانی کرد.'
- msgid '%s commented on the task #%d'
- msgstr 'کاربر %s در کار #%d نظر گذاشت.'
- msgid '%s updated a subtask for the task #%d'
- msgstr 'کاربر %s یک کار فرعی برای کار #%d را بروز رسانی کرد.'
- msgid '%s created a subtask for the task #%d'
- msgstr 'کاربر %s یک کار فرعی برای کار #%d ایجاد کرد.'
- msgid '%s updated the task #%d'
- msgstr 'کاربر %s کار #%d را بروز رسانی کرد.'
- msgid '%s created the task #%d'
- msgstr 'کاربر %s کار #%d را ایجاد کرد.'
- msgid '%s closed the task #%d'
- msgstr 'کاربر %s کار #%d را بست.'
- msgid '%s opened the task #%d'
- msgstr 'کاربر %s کار #%d را باز کرد.'
- msgid 'Activity'
- msgstr 'فعالیت'
- msgid 'Default values are "%s"'
- msgstr 'مقادیر پیشفرض این ها هستند: "%s"'
- msgid 'Default columns for new projects (Comma-separated)'
- msgstr 'ستون های پیشفرض برای پروژه جدید - با کاما از هم جدا کنید'
- msgid 'Task assignee change'
- msgstr 'تغییر شخص محول شده برای کار'
- msgid '%s changed the assignee of the task #%d to %s'
- msgstr 'کاربر %s شخص محول شده برای کار #%d را به %s تغییر داد.'
- msgid '%s changed the assignee of the task %s to %s'
- msgstr 'کاربر %s شخص محول شده برای کار %s را به %s تغییر داد.'
- msgid 'New password for the user "%s"'
- msgstr 'گذرواژه جدید برای کاربر "%s"'
- msgid 'Choose an event'
- msgstr 'یک رویداد را انتخاب کنید'
- msgid 'Create a task from an external provider'
- msgstr 'ایجاد یک کار از یک فراهم کننده خارجی'
- msgid 'Change the assignee based on an external username'
- msgstr 'تغییر شخص محول شده بر اساس یک نام کاربری خارجی'
- msgid 'Change the category based on an external label'
- msgstr 'تغییر دسته بندی بر اساس یک برچسب لیبل خارجی'
- msgid 'Reference'
- msgstr 'مرجع'
- msgid 'Label'
- msgstr 'برچسب لیبل'
- msgid 'Database'
- msgstr 'پایگاه داده'
- msgid 'About'
- msgstr 'درباره'
- msgid 'Database driver:'
- msgstr 'راه انداز پایگاه داده:'
- msgid 'Board settings'
- msgstr 'تنظیمات برد'
- msgid 'Webhook settings'
- msgstr 'تنظیمات Webhook'
- msgid 'Reset token'
- msgstr 'بازنشانی توکن'
- msgid 'API endpoint:'
- msgstr 'نقطه پایانی API:'
- msgid 'Refresh interval for personal board'
- msgstr 'فاصله زمانی تازه سازی برد خصوصی'
- msgid 'Refresh interval for public board'
- msgstr 'فاصله زمانی تازه سازی برد عمومی'
- msgid 'Task highlight period'
- msgstr 'دوره اوج کار'
- msgid 'Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)'
- msgstr 'دوره زمانی که در آن یک کار بعنوان تغییر یافته به تازگی قلمداد می شود - دوره را به ثانیه وارد کنید، برای غیر فعال کردن 0 وارد کنید، بصورت پیشفرض دو روز است.'
- msgid 'Frequency in second (60 seconds by default)'
- msgstr 'تواتر به ثانیه، بصورت پیشفرض 60 ثانیه است.'
- msgid 'Frequency in second (0 to disable this feature, 10 seconds by default)'
- msgstr 'تواتر به ثانیه، 0 برای غیر فعال کردن، بصورت پیشفرض 10 ثانیه است.'
- msgid 'Application URL'
- msgstr 'آدرس اپلیکیشن'
- msgid 'Token regenerated.'
- msgstr 'توکن بازتولید شد.'
- msgid 'Date format'
- msgstr 'فرمت تاریخ'
- msgid 'ISO format is always accepted, example: "%s" and "%s"'
- msgstr 'فرمت ایزو همواره مورد قبول است، مثال: "%s" و "%s"'
- msgid 'New personal project'
- msgstr 'پروژه خصوصی جدید'
- msgid 'This project is personal'
- msgstr 'این پروژه خصوصی است'
- msgid 'Add'
- msgstr 'افزودن'
- msgid 'Start date'
- msgstr 'تاریخ شروع'
- msgid 'Time estimated'
- msgstr 'زمان تخمینی'
- msgid 'There is nothing assigned to you.'
- msgstr 'هیچ چیزی به شما محول نشده است.'
- msgid 'My tasks'
- msgstr 'کارهای من'
- msgid 'Activity stream'
- msgstr 'جریان فعالیت'
- msgid 'Dashboard'
- msgstr 'میز کار'
- msgid 'Confirmation'
- msgstr 'تائیدیه'
- msgid 'Webhooks'
- msgstr 'Webhook ها'
- msgid 'API'
- msgstr 'واسط API'
- msgid 'Create a comment from an external provider'
- msgstr 'ایجاد یک نظر از فراهم کننده خارجی'
- msgid 'Project management'
- msgstr 'مدیریت پروژه'
- msgid 'Columns'
- msgstr 'ستون ها'
- msgid 'Task'
- msgstr 'کار'
- msgid 'Percentage'
- msgstr 'درصد'
- msgid 'Number of tasks'
- msgstr 'تعداد کارها'
- msgid 'Task distribution'
- msgstr 'توزیع کار'
- msgid 'Analytics'
- msgstr 'آمار'
- msgid 'Subtask'
- msgstr 'کار فرعی'
- msgid 'User repartition'
- msgstr 'توزیع مجدد کاربر'
- msgid 'Clone this project'
- msgstr 'کپی این پروژه'
- msgid 'Column removed successfully.'
- msgstr 'ستون با موفقیت حذف شد'
- msgid 'Not enough data to show the graph.'
- msgstr 'داده کافی برای نشان دادن گراف وجود ندارد.'
- msgid 'Previous'
- msgstr 'قبلی'
- msgid 'The id must be an integer'
- msgstr 'شناسه باید از نوع عددی باشد'
- msgid 'The project id must be an integer'
- msgstr 'شناسه پروژه باید از نوع عددی باشد'
- msgid 'The status must be an integer'
- msgstr 'وضعیت باید از نوع عددی باشد'
- msgid 'The subtask id is required'
- msgstr 'شناسه کار فرعی الزامی است'
- msgid 'The subtask id must be an integer'
- msgstr 'شناسه کار فرعی باید از نوع عددی باشد'
- msgid 'The task id is required'
- msgstr 'شناسه کار الزامی است'
- msgid 'The task id must be an integer'
- msgstr 'شناسه کار باید یک عدد باشد'
- msgid 'The user id must be an integer'
- msgstr 'شناسه کاربر باید از یک عدد باشد'
- msgid 'This value is required'
- msgstr 'این مقدار الزامی است'
- msgid 'This value must be numeric'
- msgstr 'این مقدار باید عددی باشد'
- msgid 'Unable to create this task.'
- msgstr 'ایجاد این کار امکان پذیر نیست.'
- msgid 'Cumulative flow diagram'
- msgstr 'نمودار جریان تجمعی'
- msgid 'Daily project summary'
- msgstr 'خلاصه روزانه پروژه'
- msgid 'Daily project summary export'
- msgstr 'برون ریزی خلاصه روزانه پروژه'
- msgid 'Exports'
- msgstr 'برون ریزی ها'
- msgid 'This export contains the number of tasks per column grouped per day.'
- msgstr 'این برون ریزی شامل تعداد کار در ستون است که بر اساس روز دسته بندی شده'
- msgid 'Active swimlanes'
- msgstr 'مسیرهای شنای فعال'
- msgid 'Add a new swimlane'
- msgstr 'افزودن یک مسیر شنا'
- msgid 'Default swimlane'
- msgstr 'مسیر شنای پیشفرض'
- msgid 'Do you really want to remove this swimlane: "%s"?'
- msgstr 'واقعاً می خواهید این مسیر شنا را حذف کنید : "%s" ؟'
- msgid 'Inactive swimlanes'
- msgstr 'مسیرهای شنای غیر فعال'
- msgid 'Remove a swimlane'
- msgstr 'حذف یک مسیر شنا'
- msgid 'Swimlane modification for the project "%s"'
- msgstr 'تغییر مسیر شنا برای پروژه "%s"'
- msgid 'Swimlane removed successfully.'
- msgstr 'مسیر شنا با موفقیت حذف شد.'
- msgid 'Swimlanes'
- msgstr 'مسیرهای شنا'
- msgid 'Swimlane updated successfully.'
- msgstr 'مسیر شنا با موفقیت بروز رسانی شد.'
- msgid 'Unable to remove this swimlane.'
- msgstr 'حذف این مسیر شنا امکان پذیر نیست.'
- msgid 'Unable to update this swimlane.'
- msgstr 'بروز رسانی این مسیر شنا امکان پذیر نیست.'
- msgid 'Your swimlane has been created successfully.'
- msgstr 'مسیر شنای شما با موفقیت ایجاد شد.'
- msgid 'Example: "Bug, Feature Request, Improvement"'
- msgstr 'مثال: "باگ, درخواست ویژگی, بهبود"'
- msgid 'Default categories for new projects (Comma-separated)'
- msgstr 'دسته بندی ها برای پروژه جدید، با کاما از هم جدا کنید'
- msgid 'Integrations'
- msgstr 'تلفیق ها'
- msgid 'Integration with third-party services'
- msgstr 'تلفیق با خدمات شخص ثالث'
- msgid 'Subtask Id'
- msgstr 'شناسه کار فرعی'
- msgid 'Subtasks'
- msgstr 'کارهای فرعی'
- msgid 'Subtasks Export'
- msgstr 'برون ریزی کارهای فرعی'
- msgid 'Task Title'
- msgstr 'عنوان کار'
- msgid 'Untitled'
- msgstr 'بدون عنوان'
- msgid 'Application default'
- msgstr 'پیشفرض اپلیکیشن'
- msgid 'Language:'
- msgstr 'زبان:'
- msgid 'Timezone:'
- msgstr 'ناحیه زمانی:'
- msgid 'All columns'
- msgstr 'همه ستون ها'
- msgid 'Next'
- msgstr 'بعدی'
- msgid '#%d'
- msgstr ''
- msgid 'All swimlanes'
- msgstr 'همه مسیرهای شنا'
- msgid 'All colors'
- msgstr 'تمامی رنگ ها'
- msgid 'Moved to column %s'
- msgstr 'منتقل شده به ستون %s'
- msgid 'User dashboard'
- msgstr 'میز کارِ کاربر'
- msgid 'Allow only one subtask in progress at the same time for a user'
- msgstr 'اجازه فقط یک کار فرعی در حال انجام در یک زمان برای یک کاربر'
- msgid 'Edit column "%s"'
- msgstr 'ویرایش ستون "%s"'
- msgid 'Select the new status of the subtask: "%s"'
- msgstr 'وضعیت جدید برای کار فرعی "%s" را انتخاب کنید'
- msgid 'Subtask timesheet'
- msgstr 'برگه زمانبندی کار فرعی'
- msgid 'There is nothing to show.'
- msgstr 'چیزی برای نمایش وجود ندارد.'
- msgid 'Time Tracking'
- msgstr 'پیگیری زمان'
- msgid 'You already have one subtask in progress'
- msgstr 'شما در حال حاضر یک کار فرعی در حال انجام دارید'
- msgid 'Which parts of the project do you want to duplicate?'
- msgstr 'کدام بخش از پروژه را می خواهید کپی کنید؟'
- msgid 'Disallow login form'
- msgstr 'غیرمجاز کردن فرم ورود'
- msgid 'Start'
- msgstr 'شروع'
- msgid 'End'
- msgstr 'پایان'
- msgid 'Task age in days'
- msgstr 'عمر کار به روز'
- msgid 'Days in this column'
- msgstr 'روزها در این ستون'
- msgid '%dd'
- msgstr '%dروز'
- msgid 'Add a new link'
- msgstr 'افزودن پیوند جدید'
- msgid 'Do you really want to remove this link: "%s"?'
- msgstr 'واقعاً می خواهید این پیوند را حذف کنید؟ : "%s"'
- msgid 'Do you really want to remove this link with task #%d?'
- msgstr 'واقعاً می خواهید این پیوند با کار #%d را حذف کنید؟'
- msgid 'Field required'
- msgstr 'فیلد اجباری'
- msgid 'Link added successfully.'
- msgstr 'پیوند با موفقیت افزوده شد'
- msgid 'Link updated successfully.'
- msgstr 'پیوند با موفقیت بروز شد.'
- msgid 'Link removed successfully.'
- msgstr 'پیوند با موفقیت حذف شد.'
- msgid 'Link labels'
- msgstr 'برچسب های پیوند'
- msgid 'Link modification'
- msgstr 'تغییرات پیوند'
- msgid 'Opposite label'
- msgstr 'برچسب مخالف'
- msgid 'Remove a link'
- msgstr 'حذف یک برچسب'
- msgid 'The labels must be different'
- msgstr 'برچسب ها باید متفاوت باشند'
- msgid 'There is no link.'
- msgstr 'هیچ پیوندی نیست.'
- msgid 'This label must be unique'
- msgstr 'این برچسب باید یکتا باشد'
- msgid 'Unable to create your link.'
- msgstr 'ایجاد پیوند شما امکان پذیر نیست.'
- msgid 'Unable to update your link.'
- msgstr 'بروز رسانی پیوند شما امکان پذیر نیست.'
- msgid 'Unable to remove this link.'
- msgstr 'حذف این پیوند امکان پذیر نیست.'
- msgid 'relates to'
- msgstr 'مرتبط است با'
- msgid 'blocks'
- msgstr 'مسدود می کند'
- msgid 'is blocked by'
- msgstr 'مسدود شده توسط'
- msgid 'duplicates'
- msgstr 'کپی است'
- msgid 'is duplicated by'
- msgstr 'کپی شده توسط'
- msgid 'is a child of'
- msgstr 'فرزندی است از'
- msgid 'is a parent of'
- msgstr 'پدری است برای'
- msgid 'targets milestone'
- msgstr 'نقطه عطف را مورد هدف قرار می دهد'
- msgid 'is a milestone of'
- msgstr 'نقطه عطفی است از'
- msgid 'fixes'
- msgstr 'مشکل را رفع می کند'
- msgid 'is fixed by'
- msgstr 'مشکل حل شده توسط'
- msgid 'This task'
- msgstr 'این کار'
- msgid '<1h'
- msgstr 'زیر یکساعت'
- msgid '%dh'
- msgstr '%d ساعت'
- msgid 'Expand tasks'
- msgstr 'گستردن کارها'
- msgid 'Collapse tasks'
- msgstr 'جمع کردن کارها'
- msgid 'Expand/collapse tasks'
- msgstr 'جمع/گستردن کارها'
- msgid 'Close dialog box'
- msgstr 'بستن کادر محاوره'
- msgid 'Submit a form'
- msgstr 'ارسال یک فرم'
- msgid 'Board view'
- msgstr 'نمای برد'
- msgid 'Keyboard shortcuts'
- msgstr 'میانبرهای صفحه کلید'
- msgid 'Open board switcher'
- msgstr 'باز کردن سویچر برد'
- msgid 'Application'
- msgstr 'اپلیکیشن'
- msgid 'Compact view'
- msgstr 'نمای جمع و جور'
- msgid 'Horizontal scrolling'
- msgstr 'پیمایش افقی'
- msgid 'Compact/wide view'
- msgstr 'نمای جمع و جور/عریض'
- msgid 'Currency'
- msgstr 'واحد پول'
- msgid 'Personal project'
- msgstr 'پروژه خصوصی'
- msgid 'AUD - Australian Dollar'
- msgstr 'AUD - دلار استرالیا'
- msgid 'CAD - Canadian Dollar'
- msgstr 'CAD - دلار کانادا'
- msgid 'CHF - Swiss Francs'
- msgstr 'CHF - فرانک سویس'
- msgid 'Custom Stylesheet'
- msgstr 'Stylesheet سفارشی'
- msgid 'EUR - Euro'
- msgstr 'EUR - یورو اروپا'
- msgid 'GBP - British Pound'
- msgstr 'GBP - پوند انگلیس'
- msgid 'INR - Indian Rupee'
- msgstr 'INR - روپیه هند'
- msgid 'JPY - Japanese Yen'
- msgstr 'JPY - ین ژاپن'
- msgid 'NZD - New Zealand Dollar'
- msgstr 'NZD - دلار نیوزلند'
- msgid 'RSD - Serbian dinar'
- msgstr 'RSD - دینار صرب'
- msgid 'CNY - Chinese Yuan'
- msgstr 'CNY - یوآن چین'
- msgid 'USD - US Dollar'
- msgstr 'USD - دلار آمریکا'
- msgid 'VES - Venezuelan Bolívar'
- msgstr 'VES - بولیوار ونزوئلا'
- msgid 'Destination column'
- msgstr 'ستون مقصد'
- msgid 'Move the task to another column when assigned to a user'
- msgstr 'کار را وقتی به یک کاربر محول شد به ستونی دیگر منتقل کن'
- msgid 'Move the task to another column when assignee is cleared'
- msgstr 'وقتی شخص محول شده حذف شد، کار را به ستونی دیگر منتقل کن'
- msgid 'Source column'
- msgstr 'ستون مبدا'
- msgid 'Transitions'
- msgstr 'گذارها'
- msgid 'Executer'
- msgstr 'مجری'
- msgid 'Time spent in the column'
- msgstr 'زمان صرف شده در ستون'
- msgid 'Task transitions'
- msgstr 'گذارهای کار'
- msgid 'Task transitions export'
- msgstr 'برون ریزی گذارهای کار'
- msgid 'This report contains all column moves for each task with the date, the user and the time spent for each transition.'
- msgstr 'این گزارش حاوی همه انتقال های ستون برای هر کار با تاریخ، کاربر و زمان صرف شده برای هر گذار است.'
- msgid 'Currency rates'
- msgstr 'نرخ های واحد پول'
- msgid 'Rate'
- msgstr 'نرخ'
- msgid 'Change reference currency'
- msgstr 'تغییر مرجع واحد پول'
- msgid 'Reference currency'
- msgstr 'مرجع واحد پول'
- msgid 'The currency rate has been added successfully.'
- msgstr 'نرخ واحد پول با موفقیت افزوده شد.'
- msgid 'Unable to add this currency rate.'
- msgstr 'افزودن این نرخ واحد پول امکان پذیر نیست.'
- msgid 'Webhook URL'
- msgstr 'آدرس Webhook'
- msgid '%s removed the assignee of the task %s'
- msgstr 'کاربر %s شخص محول شده برای کار %s را حذف کرد.'
- msgid 'Information'
- msgstr 'اطلاعات'
- msgid 'Check two factor authentication code'
- msgstr 'بررسی کد احراز هویت دو مرحله ای'
- msgid 'The two factor authentication code is not valid.'
- msgstr 'کد احراز هویت دو مرحله ای معتبر نیست.'
- msgid 'The two factor authentication code is valid.'
- msgstr 'کد احراز دو مرحله ای معتبر است.'
- msgid 'Code'
- msgstr 'کد'
- msgid 'Two factor authentication'
- msgstr 'احراز هویت دو مرحله ای'
- msgid 'This QR code contains the key URI: '
- msgstr 'این کد QR حاوی کلید URI است: '
- msgid 'Check my code'
- msgstr 'کد مرا بررسی کن'
- msgid 'Secret key: '
- msgstr 'کلید سرّی'
- msgid 'Test your device'
- msgstr 'دستگاه خود را آزمایش کنید'
- msgid 'Assign a color when the task is moved to a specific column'
- msgstr 'به هنگام انتقال کار به یک ستون خاص، یک رنگ اختصاص یابد'
- msgid '%s via Kanboard'
- msgstr '%s از طریق کان بُرد'
- msgid 'Burndown chart'
- msgstr 'نمودار کار باقی مانده'
- msgid 'This chart show the task complexity over the time (Work Remaining).'
- msgstr 'این نمودار پیچیدگی کار طی زمان را نشان می دهد (کار باقیمانده)'
- msgid 'Screenshot taken %s'
- msgstr 'اسکرین شات گرفته شد %s'
- msgid 'Add a screenshot'
- msgstr 'افزودن اسکرین شات'
- msgid 'Take a screenshot and press CTRL+V or ⌘+V to paste here.'
- msgstr 'یک اسکرین شات بگیرید و با زدن دکمه های کنترل+وی یا کامند+وی اینجا بچسبانید.'
- msgid 'Screenshot uploaded successfully.'
- msgstr 'اسکرین شات با موفقیت بارگذاری شد.'
- msgid 'SEK - Swedish Krona'
- msgstr 'SEK - کرون سوئد'
- msgid 'Identifier'
- msgstr 'شناسه'
- msgid 'Disable two factor authentication'
- msgstr 'غیرفعال کردن تایید هویت دو مرحله ای'
- msgid 'Do you really want to disable the two factor authentication for this user: "%s"?'
- msgstr 'آیا واقعاً می خواهید تایید هویت دو مرحله ای برای کاربر "%s" را غیر فعال کنید؟'
- msgid 'Edit link'
- msgstr 'ویرایش پیوند'
- msgid 'Start to type task title...'
- msgstr 'عنوان کار را بنویسد...'
- msgid 'A task cannot be linked to itself'
- msgstr 'یک کار نمی تواند به خودش پیوند داده شود.'
- msgid 'The exact same link already exists'
- msgstr 'همین لینک اکنون موجود است'
- msgid 'Recurrent task is scheduled to be generated'
- msgstr 'کار متناوب برنامه ریزی شده تا تولید شود'
- msgid 'Score'
- msgstr 'امتیاز'
- msgid 'The identifier must be unique'
- msgstr 'شناسه باید یکتا باشد'
- msgid 'This linked task id doesn\'t exists'
- msgstr 'این کار پیوند داده شده وجود ندارد'
- msgid 'This value must be alphanumeric'
- msgstr 'این مقدار باید الفبایی باشد'
- msgid 'Edit recurrence'
- msgstr 'ویرایش تناوب'
- msgid 'Generate recurrent task'
- msgstr 'تولید کار متناوب'
- msgid 'Trigger to generate recurrent task'
- msgstr 'تنظیم برای تولید کار متناوب'
- msgid 'Factor to calculate new due date'
- msgstr 'فاکتور محاسبه تاریخ سررسید جدید'
- msgid 'Timeframe to calculate new due date'
- msgstr 'دوره زمانی برای محاسبه تاریخ سررسید جدید'
- msgid 'Base date to calculate new due date'
- msgstr 'تاریخ پایه برای محاسبه تاریخ سررسید جدید'
- msgid 'Action date'
- msgstr 'تاریخ عمل'
- msgid 'Base date to calculate new due date: '
- msgstr 'تاریخ پایه برای محاسبه تاریخ سررسید جدید: '
- msgid 'This task has created this child task: '
- msgstr 'این کار این کار فرزند را ایجاد کرده است:'
- msgid 'Day(s)'
- msgstr 'روز(ها)'
- msgid 'Existing due date'
- msgstr 'تاریخ سررسید موجود'
- msgid 'Factor to calculate new due date: '
- msgstr 'فاکتور محاسبه تاریخ سررسید جدید: '
- msgid 'Month(s)'
- msgstr 'ماه(ها)'
- msgid 'This task has been created by: '
- msgstr 'این کار ایجاد شده توسط: '
- msgid 'Recurrent task has been generated:'
- msgstr 'کار متناوب تولید شد: '
- msgid 'Timeframe to calculate new due date: '
- msgstr 'دوره زمانی برای محاسبه تاریخ سررسید جدید: '
- msgid 'Trigger to generate recurrent task: '
- msgstr 'تنظیم برای تولید کار متناوب: '
- msgid 'When task is closed'
- msgstr 'وقتی کار بسته شد'
- msgid 'When task is moved from first column'
- msgstr 'وقتی کار از ستون اول منتقل شد'
- msgid 'When task is moved to last column'
- msgstr 'وقتی کار به ستون آخر منتقل شد'
- msgid 'Year(s)'
- msgstr 'سال(ها)'
- msgid 'Project settings'
- msgstr 'تنظیمات پروژه'
- msgid 'Automatically update the start date'
- msgstr 'بصورت خودکار تاریخ شروع بروز رسانی شود'
- msgid 'iCal feed'
- msgstr 'خوراک iCal'
- msgid 'Preferences'
- msgstr 'اولویت ها'
- msgid 'Security'
- msgstr 'امنیت'
- msgid 'Two factor authentication disabled'
- msgstr 'احراز هویت دو مرحله ای غیر فعال شده است'
- msgid 'Two factor authentication enabled'
- msgstr 'احراز هویت دو مرحله ای فعال است'
- msgid 'Unable to update this user.'
- msgstr 'بروز رسانی این کاربر امکان پذیر نیست.'
- msgid 'There is no user management for personal projects.'
- msgstr 'مدیریت کاربر برای پروژه های خصوصی وجود ندارد.'
- msgid 'User that will receive the email'
- msgstr 'کاربری که پست الکترونیکی را دریافت خواهد کرد'
- msgid 'Email subject'
- msgstr 'موضوع پست الکترونیکی'
- msgid 'Date'
- msgstr 'تاریخ'
- msgid 'Add a comment log when moving the task between columns'
- msgstr 'افزودن یک لاگ نظر وقتی که کاری از یک ستون به ستون دیگر منتقل می شود'
- msgid 'Move the task to another column when the category is changed'
- msgstr 'وقتی دسته بندی تغییر کرد، کار را به ستونی دیگر منتقل کن'
- msgid 'Send a task by email to someone'
- msgstr 'ارسال کار توسط پست الکترونیکی به یک شخص'
- msgid 'Reopen a task'
- msgstr 'بازگشایی مجدد یک کار'
- msgid 'Notification'
- msgstr 'آگاه سازی'
- msgid '%s moved the task #%d to the first swimlane'
- msgstr 'کاربر %s کار #%d را به مسیر شنای اول منتقل کرد'
- msgid 'Swimlane'
- msgstr 'مسیر شنا'
- msgid '%s moved the task %s to the first swimlane'
- msgstr 'کاربر %s کار %s را به مسیر شنای اول منتقل کرد'
- msgid '%s moved the task %s to the swimlane "%s"'
- msgstr 'کاربر %s کار %s را به مسیر شنای "%s" منتقل کرد'
- msgid 'This report contains all subtasks information for the given date range.'
- msgstr 'این گزارش حاوی همه اطلاعات کارهای فرعی برای بازه زمانی داده شده است.'
- msgid 'This report contains all tasks information for the given date range.'
- msgstr 'این گزارش حاوی همه اطلاعات کارها برای بازه زمانی داده شده است.'
- msgid 'Project activities for %s'
- msgstr 'فعالیت های پروژه برای %s'
- msgid 'view the board on Kanboard'
- msgstr 'نمایش برد در کان بُرد'
- msgid 'The task has been moved to the first swimlane'
- msgstr 'کار به مسیر شنای اول منتقل شد'
- msgid 'The task has been moved to another swimlane:'
- msgstr 'کار به مسیر شنای دیگر منتقل شد:'
- msgid 'New title: %s'
- msgstr 'عنوان جدید: %s'
- msgid 'The task is not assigned anymore'
- msgstr 'کار به هیچ کسی محول نشده'
- msgid 'New assignee: %s'
- msgstr 'شخص محول شده جدید: %s'
- msgid 'There is no category now'
- msgstr 'الان هیچگونه دسته بندی وجود ندارد'
- msgid 'New category: %s'
- msgstr 'دسته بندی جدید: %s'
- msgid 'New color: %s'
- msgstr 'رنگ جدید: %s'
- msgid 'New complexity: %d'
- msgstr 'پیچیدگی جدید: %d'
- msgid 'The due date has been removed'
- msgstr 'تاریخ سررسید حذف شد'
- msgid 'There is no description anymore'
- msgstr 'دیگر شرحی وجود ندارد'
- msgid 'Recurrence settings has been modified'
- msgstr 'تکرار تنظیمات اصلاح شد'
- msgid 'Time spent changed: %sh'
- msgstr 'زمان صرف شده تغییر کرد: %sh'
- msgid 'Time estimated changed: %sh'
- msgstr 'زمان تخمینی تغییر کرد: %sh'
- msgid 'The field "%s" has been updated'
- msgstr 'فیلد "%s" بروز رسانی شد'
- msgid 'The description has been modified:'
- msgstr 'شرح تغییر کرد:'
- msgid 'Do you really want to close the task "%s" as well as all subtasks?'
- msgstr 'واقعاً می خواهید کار "%s" و همچنین کارهای فرعی آن را ببندید؟'
- msgid 'I want to receive notifications for:'
- msgstr 'می خواهم آگاه سازی ها را برای این موارد دریافت کنم:'
- msgid 'All tasks'
- msgstr 'تمامی کارها'
- msgid 'Only for tasks assigned to me'
- msgstr 'فقط برای کارهایی که به من محول شده'
- msgid 'Only for tasks created by me'
- msgstr 'فقط برای کارهایی که توسط من ایجاد شده'
- msgid 'Only for tasks created by me and tasks assigned to me'
- msgstr 'فقط برای کارهایی که توسط من ایجاد شده و کارهایی که به من محول شده'
- msgid '%%Y-%%m-%%d'
- msgstr ''
- msgid 'Total for all columns'
- msgstr 'جمع برای تمامی ستون ها'
- msgid 'You need at least 2 days of data to show the chart.'
- msgstr 'برای نمایش نمودار شما نیاز به حداقل 2 روز داده دارید.'
- msgid '<15m'
- msgstr 'زیر یک ربع'
- msgid '<30m'
- msgstr 'زیر نیم ساعت'
- msgid 'Stop timer'
- msgstr 'توقف زمانسنج'
- msgid 'Start timer'
- msgstr 'شروع زمانسنج'
- msgid 'My activity stream'
- msgstr 'جریان فعالیت من'
- msgid 'Search tasks'
- msgstr 'جستجوی کارها'
- msgid 'Reset filters'
- msgstr 'بازنشانی فیلترها'
- msgid 'My tasks due tomorrow'
- msgstr 'کارهای من طی فردا'
- msgid 'Tasks due today'
- msgstr 'کارها طی امروز'
- msgid 'Tasks due tomorrow'
- msgstr 'کارها طی فردا'
- msgid 'Tasks due yesterday'
- msgstr 'کارها طی دیروز'
- msgid 'Closed tasks'
- msgstr 'کارهای بسته شده'
- msgid 'Open tasks'
- msgstr 'کارهای باز'
- msgid 'Not assigned'
- msgstr 'محول نـشده'
- msgid 'View advanced search syntax'
- msgstr 'نمایش دستور زبان جستجوی پیشرفته'
- msgid 'Overview'
- msgstr 'بررسی اجمالی'
- msgid 'Board/Calendar/List view'
- msgstr 'نمای برد/تقویم/لیست'
- msgid 'Switch to the board view'
- msgstr 'تغییر به نمای برد'
- msgid 'Switch to the list view'
- msgstr 'تغییر به نمای لیست'
- msgid 'Go to the search/filter box'
- msgstr 'برو به جعبه جستجو/فیلتر'
- msgid 'There is no activity yet.'
- msgstr 'هنوز فعالیتی وجود ندارد.'
- msgid 'No tasks found.'
- msgstr 'کاری پیدا نشد.'
- msgid 'Keyboard shortcut: "%s"'
- msgstr 'میانبر صفحه کلید: "%s"'
- msgid 'List'
- msgstr 'لیست'
- msgid 'Filter'
- msgstr 'فیلتر'
- msgid 'Advanced search'
- msgstr 'جستجوی پیشرفته'
- msgid 'Example of query: '
- msgstr 'مثال پرس و جو: '
- msgid 'Search by project: '
- msgstr 'جستجو بر اساس پروژه: '
- msgid 'Search by column: '
- msgstr 'جستجو بر اساس ستون: '
- msgid 'Search by assignee: '
- msgstr 'جستجو بر اساس شخص محول شده: '
- msgid 'Search by color: '
- msgstr 'جستجو بر اساس رنگ: '
- msgid 'Search by category: '
- msgstr 'جستجو بر اساس دسته بندی: '
- msgid 'Search by description: '
- msgstr 'جستجو بر اساس شرح: '
- msgid 'Search by due date: '
- msgstr 'جستجو بر اساس تاریخ سررسید: '
- msgid 'Average time spent in each column'
- msgstr 'زمان صرف شده میانگین در هر ستون'
- msgid 'Average time spent'
- msgstr 'میانگین زمان صرف شده'
- msgid 'This chart shows the average time spent in each column for the last %d tasks.'
- msgstr 'این نمودار زمان صرف شده میانگین در هر ستون برای %d کار آخر را نشان می دهد.'
- msgid 'Average Lead and Cycle time'
- msgstr 'میانگین زمان Lead و Cycle'
- msgid 'Average lead time: '
- msgstr 'میانگین lead time:&#x202B; '
- msgid 'Average cycle time: '
- msgstr 'میانگین cycle time:&#x202B; '
- msgid 'Cycle Time'
- msgstr 'Cycle Time&#x202B;'
- msgid 'Lead Time'
- msgstr 'Lead Time&#x202B;'
- msgid 'This chart shows the average lead and cycle time for the last %d tasks over the time.'
- msgstr 'این نمودار میانگین زمان Lead و Cycle را برای %d کار آخر طی زمان را نشان می دهد.'
- msgid 'Average time into each column'
- msgstr 'میانگین زمانی برای هر ستون'
- msgid 'Lead and cycle time'
- msgstr 'زمان Lead و Cycle'
- msgid 'Lead time: '
- msgstr 'Lead time: &#x202B;'
- msgid 'Cycle time: '
- msgstr 'Cycle time: &#x202B;'
- msgid 'Time spent in each column'
- msgstr 'زمان صرف شده در هر ستون'
- msgid 'The lead time is the duration between the task creation and the completion.'
- msgstr 'اصطلاح Lead time یعنی مدتی که بین ایجاد کار و اتمام کار سپری شده است.'
- msgid 'The cycle time is the duration between the start date and the completion.'
- msgstr 'اصطلاح Cycle time یعنی مدتی که از تاریخ شروع تا تاریخ اتمام سپری شده است.'
- msgid 'If the task is not closed the current time is used instead of the completion date.'
- msgstr 'اگر کار بسته نشده باشد، زمان کنونی بجای زمان اتمام استفاده شده است.'
- msgid 'Set the start date automatically'
- msgstr 'تاریخ شروع بصورت خودکار تنظیم شود'
- msgid 'Edit Authentication'
- msgstr 'ویرایش احراز هویت'
- msgid 'Remote user'
- msgstr 'کاربر راه دور'
- msgid 'Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts.'
- msgstr 'کاربران راه دور گذرواژه خود را در پایگاه داده کان بُرد ذخیره نمی کنند، بطور مثال: LDAP, حساب های گوگل و گیتهاب.'
- msgid 'If you check the box "Disallow login form", credentials entered in the login form will be ignored.'
- msgstr 'اگر گزینه "غیرمجاز کردن فرم ورود" را انتخاب کرده باشید، موارد وارد شده در فرم ورود نادیده گرفته خواهند شد.'
- msgid 'Default task color'
- msgstr 'رنگ پیشفرض کار'
- msgid 'This feature does not work with all browsers.'
- msgstr 'این ویژگی در تمامی مرورگرها کار نمی کند.'
- msgid 'There is no destination project available.'
- msgstr 'هیچ پروژه مقصدی وجود ندارد.'
- msgid 'Trigger automatically subtask time tracking'
- msgstr 'بصورت خودکار پیگیری زمان کار فرعی را راه اندازی کن'
- msgid 'Include closed tasks in the cumulative flow diagram'
- msgstr 'کارهای بسته شده نیز در جریان دیاگرام انباشته شامل شود'
- msgid 'Current swimlane: %s'
- msgstr 'مسیر شنای فعلی: %s'
- msgid 'Current column: %s'
- msgstr 'ستون فعلی: %s'
- msgid 'Current category: %s'
- msgstr 'دسته بندی فعلی: %s'
- msgid 'no category'
- msgstr 'بدون دسته بندی'
- msgid 'Current assignee: %s'
- msgstr 'شخص محول شده فعلی: %s'
- msgid 'not assigned'
- msgstr 'محول نشده'
- msgid 'Author:'
- msgstr 'نویسنده:'
- msgid 'contributors'
- msgstr 'شرکت کنندگان'
- msgid 'License:'
- msgstr 'گواهینامه:'
- msgid 'License'
- msgstr 'گواهینامه'
- msgid 'Enter the text below'
- msgstr 'متن زیر را وارد کنید'
- msgid 'Start date:'
- msgstr 'تاریخ شروع:'
- msgid 'Due date:'
- msgstr 'تاریخ سررسید:'
- msgid 'People who are project managers'
- msgstr 'اشخاصی که مدیر پروژه هستند'
- msgid 'People who are project members'
- msgstr 'اشخاصی که عضو پروژه هستند'
- msgid 'NOK - Norwegian Krone'
- msgstr 'NOK - کرون نروژ'
- msgid 'Show this column'
- msgstr 'نمایش این ستون'
- msgid 'Hide this column'
- msgstr 'مخفی کردن این ستون'
- msgid 'End date'
- msgstr 'تاریخ پایان'
- msgid 'Users overview'
- msgstr 'بررسی اجمالی کاربران'
- msgid 'Members'
- msgstr 'اعضاء'
- msgid 'Shared project'
- msgstr 'پروژه مشترک'
- msgid 'Project managers'
- msgstr 'مدیران پروژه'
- msgid 'Projects list'
- msgstr 'لیست پروژه ها'
- msgid 'End date:'
- msgstr 'تاریخ پایان:'
- msgid 'Change task color when using a specific task link'
- msgstr 'رنگ کار وقتی که از پیوند یک کار مشخص استفاده می شود تغییر داده شود'
- msgid 'Task link creation or modification'
- msgstr 'ایجاد یا تغییر پیوند کار'
- msgid 'Milestone'
- msgstr 'نقطه عطف'
- msgid 'Reset the search/filter box'
- msgstr 'بازنشانی جعبه جستجو/فیلتر'
- msgid 'Documentation'
- msgstr 'مستندات'
- msgid 'Author'
- msgstr 'نویسنده'
- msgid 'Version'
- msgstr 'نسخه'
- msgid 'Plugins'
- msgstr 'پلاگین'
- msgid 'There is no plugin loaded.'
- msgstr 'هیچ پلاگینی بارگیری نشده.'
- msgid 'My notifications'
- msgstr 'آگاه سازی های من'
- msgid 'Custom filters'
- msgstr 'فیلترهای سفارشی'
- msgid 'Your custom filter has been created successfully.'
- msgstr 'فیلتر سفارشی شما با موفقیت ایجاد شد.'
- msgid 'Unable to create your custom filter.'
- msgstr 'ایجاد فیلتر سفارشی شما امکان پذیر نیست.'
- msgid 'Custom filter removed successfully.'
- msgstr 'فیلتر سفارشی با موفقیت حذف شد.'
- msgid 'Unable to remove this custom filter.'
- msgstr 'حذف این فیلتر سفارشی امکان پذیر نیست.'
- msgid 'Edit custom filter'
- msgstr 'ویرایش فیلتر سفارشی'
- msgid 'Your custom filter has been updated successfully.'
- msgstr 'فیلتر سفارشی شما با موفقیت بروز رسانی شد.'
- msgid 'Unable to update custom filter.'
- msgstr 'بروز رسانی فیلتر سفارشی امکان پذیر نیست.'
- msgid 'Web'
- msgstr 'وب'
- msgid 'New attachment on task #%d: %s'
- msgstr 'پیوست جدید برای کار #%d: %s'
- msgid 'New comment on task #%d'
- msgstr 'نظر جدید در کار #%d'
- msgid 'Comment updated on task #%d'
- msgstr 'نظر در کار #%d بروز رسانی شد.'
- msgid 'New subtask on task #%d'
- msgstr 'کار فرعی جدید در کار #%d'
- msgid 'Subtask updated on task #%d'
- msgstr 'کار فرعی در کار #%d بروز شد'
- msgid 'New task #%d: %s'
- msgstr 'کار جدید #%d: %s'
- msgid 'Task updated #%d'
- msgstr 'کار بروز شد #%d'
- msgid 'Task #%d closed'
- msgstr 'کار #%d بسته شد'
- msgid 'Task #%d opened'
- msgstr 'کار #%d باز شد'
- msgid 'Column changed for task #%d'
- msgstr 'ستون برای کار #%d تغییر کرد'
- msgid 'New position for task #%d'
- msgstr 'موقعیت جدید برای کار #%d '
- msgid 'Swimlane changed for task #%d'
- msgstr 'مسیر شنا برای کار #%d  تغییر کرد'
- msgid 'Assignee changed on task #%d'
- msgstr 'شخص محول شده در کار #%d تغییر کرد'
- msgid '%d overdue tasks'
- msgstr '%d کار عقب افتاده'
- msgid 'Task #%d is overdue'
- msgstr 'کار #%d عقب افتاده است'
- msgid 'No notification.'
- msgstr 'بدون آگاه سازی.'
- msgid 'Mark all as read'
- msgstr 'همه را بعنوان خوانده شده علامتگذاری کن'
- msgid 'Mark as read'
- msgstr 'علامتگذاری بعنوان خوانده شده'
- msgid 'Total number of tasks in this column across all swimlanes'
- msgstr 'تعداد کل کارهای این ستون طی همه مسیرهای شنا'
- msgid 'Collapse swimlane'
- msgstr 'جمع کردن مسیرهای شنا'
- msgid 'Expand swimlane'
- msgstr 'گستردن مسیرهای شنا'
- msgid 'Add a new filter'
- msgstr 'افزودن یک فیلتر جدید'
- msgid 'Share with all project members'
- msgstr 'اشتراک با تمامی اعضای پروژه'
- msgid 'Shared'
- msgstr 'به اشتراک گذاشته شده'
- msgid 'Owner'
- msgstr 'صاحب'
- msgid 'Unread notifications'
- msgstr 'آگاه سازی های خوانده نشده'
- msgid 'Notification methods:'
- msgstr 'روش های آگاه سازی:'
- msgid 'Unable to read your file'
- msgstr 'خواندن فایل شما امکان پذیر نیست'
- msgid '%d task(s) have been imported successfully.'
- msgstr 'تعداد %d عدد کار با موفقیت درون ریزی شد.'
- msgid 'Nothing has been imported!'
- msgstr 'هیچی چیزی درون ریزی نشد!'
- msgid 'Import users from CSV file'
- msgstr 'درون ریزی کاربران از طریق فایل  CSV'
- msgid '%d user(s) have been imported successfully.'
- msgstr 'تعداد %d کاربر با موفقیت درون ریزی شدند.'
- msgid 'Comma'
- msgstr 'کاما'
- msgid 'Semi-colon'
- msgstr 'سمی کالن'
- msgid 'Tab'
- msgstr 'تب'
- msgid 'Vertical bar'
- msgstr 'تب عمودی'
- msgid 'Double Quote'
- msgstr 'دابل کوت'
- msgid 'Single Quote'
- msgstr 'سینگل کوت'
- msgid '%s attached a file to the task #%d'
- msgstr 'کاربر %s یک فایل را به کار #%d پیوست کرد.'
- msgid 'There is no column or swimlane activated in your project!'
- msgstr 'هیچ ستون یا مسیر شنای فعال در پروژه شما نیست!'
- msgid 'Append filter (instead of replacement)'
- msgstr 'فیلتر افزوده شود (بجای اینکه جایگزین شود)'
- msgid 'Append/Replace'
- msgstr 'افزودن/جایگزینی'
- msgid 'Append'
- msgstr 'افزودن'
- msgid 'Replace'
- msgstr 'جایگزینی'
- msgid 'Import'
- msgstr 'درون ریزی'
- msgid 'Change sorting'
- msgstr 'تغییر مرتب سازی'
- msgid 'Tasks Importation'
- msgstr 'برون ریزی کردن کارها'
- msgid 'Delimiter'
- msgstr 'جدا ساز'
- msgid 'Enclosure'
- msgstr 'محصور ساز'
- msgid 'CSV File'
- msgstr 'فایل CSV'
- msgid 'Instructions'
- msgstr 'دستورالعمل ها'
- msgid 'Your file must use the predefined CSV format'
- msgstr 'فایل شما باید از فرمت از پیش تعریف شده CSV استفاده کند'
- msgid 'Your file must be encoded in UTF-8'
- msgstr 'کدبندی فایل شما باید UTF-8 باشد'
- msgid 'The first row must be the header'
- msgstr 'اولین ردیف باید سربرگ باشد'
- msgid 'Duplicates are not verified for you'
- msgstr 'تکراری ها برای شما بررسی نمی شوند'
- msgid 'The due date must use the ISO format: YYYY-MM-DD'
- msgstr 'تاریخ سررسید باید از استاندارد ISO بصورت YYYY-MM-DD پیروی کند.'
- msgid 'Download CSV template'
- msgstr 'بارگیری قالب CSV'
- msgid 'No external integration registered.'
- msgstr 'هیچ تلفیق خارجی ثبت نشده.'
- msgid 'Duplicates are not imported'
- msgstr 'تکراری ها درون ریزی نشدند'
- msgid 'Usernames must be lowercase and unique'
- msgstr 'نام های کاربری باید با حروف کوچک بوده و یکتا باشند'
- msgid 'Passwords will be encrypted if present'
- msgstr 'گذرواژه ها در صورت وجود رمزنگاری می شوند'
- msgid '%s attached a new file to the task %s'
- msgstr 'کاربر %s یک فایل جدید به کار %s پیوست کرد.'
- msgid 'Link type'
- msgstr 'نوع پیوند'
- msgid 'Assign automatically a category based on a link'
- msgstr 'اختصاص خودکار یک دسته بندی بر اساس یک پیوند'
- msgid 'BAM - Konvertible Mark'
- msgstr 'BAM - مارک تبدیل پذیر بوسنی هرزگوین'
- msgid 'Assignee Username'
- msgstr 'نام کاربری شخص محول شده'
- msgid 'Assignee Name'
- msgstr 'نام شخص محول شده'
- msgid 'Groups'
- msgstr 'گروه ها'
- msgid 'Members of %s'
- msgstr 'اعضای %s'
- msgid 'New group'
- msgstr 'گروه جدید'
- msgid 'Group created successfully.'
- msgstr 'گروه با موفقیت ایجاد شد.'
- msgid 'Unable to create your group.'
- msgstr 'ایجاد گروه شما امکان پذیر نیست.'
- msgid 'Edit group'
- msgstr 'ویرایش گروه'
- msgid 'Group updated successfully.'
- msgstr 'گروه با موفقیت بروز رسانی شد.'
- msgid 'Unable to update your group.'
- msgstr 'بروز رسانی گروه شما امکان پذیر نیست.'
- msgid 'Add group member to "%s"'
- msgstr 'افزودن عضو گروه به "%s"'
- msgid 'Group member added successfully.'
- msgstr 'عضو گروه با موفقیت افزوده شد.'
- msgid 'Unable to add group member.'
- msgstr 'افزودن عضو گروه امکان پذیر نیست.'
- msgid 'Remove user from group "%s"'
- msgstr 'حذف کاربر از گروه "%s"'
- msgid 'User removed successfully from this group.'
- msgstr 'کاربر با موفقیت از این گروه حذف شد.'
- msgid 'Unable to remove this user from the group.'
- msgstr 'حذف این کاربر از گروه امکان پذیر نیست.'
- msgid 'Remove group'
- msgstr 'حذف گروه'
- msgid 'Group removed successfully.'
- msgstr 'گروه با موفقیت حذف شد.'
- msgid 'Unable to remove this group.'
- msgstr 'حذف این گروه امکان پذیر نیست.'
- msgid 'Project Permissions'
- msgstr 'مجوز های پروژه'
- msgid 'Manager'
- msgstr 'مدیر'
- msgid 'Project Manager'
- msgstr 'مدیر پروژه'
- msgid 'Project Member'
- msgstr 'عضو پروژه'
- msgid 'Project Viewer'
- msgstr 'بازدید کننده پروژه'
- msgid 'Your account is locked for %d minutes'
- msgstr 'حساب کاربری شما به مدت %d دقیقه مسدود شده'
- msgid 'Invalid captcha'
- msgstr 'کد امنیتی کپچا نامعتبر است'
- msgid 'The name must be unique'
- msgstr 'نام بایستی یکتا باشد'
- msgid 'View all groups'
- msgstr 'نمایش همه گروه ها'
- msgid 'There is no user available.'
- msgstr 'کاربری در دسترس نیست'
- msgid 'Do you really want to remove the user "%s" from the group "%s"?'
- msgstr 'واقعاً می خواهید کاربر "%s" را از گروه "%s" حذف کنید؟'
- msgid 'There is no group.'
- msgstr 'گروهی وجود ندارد.'
- msgid 'Add group member'
- msgstr 'افزون عضو گروه'
- msgid 'Do you really want to remove this group: "%s"?'
- msgstr 'واقعاً می خواهید این گروه را حذف کنید؟ : "%s"'
- msgid 'There is no user in this group.'
- msgstr 'کاربری در این گروه نیست.'
- msgid 'Permissions'
- msgstr 'مجوز ها'
- msgid 'Allowed Users'
- msgstr 'کاربران مجاز'
- msgid 'No specific user has been allowed.'
- msgstr 'به کاربری بصورت خاص اجازه داده نشده است.'
- msgid 'Role'
- msgstr 'نقش'
- msgid 'Enter user name...'
- msgstr 'نام کاربری را وارد کنید...'
- msgid 'Allowed Groups'
- msgstr 'گروه های مجاز'
- msgid 'No group has been allowed.'
- msgstr 'گروهی بصورت خاص اجازه داده نشده است.'
- msgid 'Group'
- msgstr 'گروه'
- msgid 'Group Name'
- msgstr 'نام گروه'
- msgid 'Enter group name...'
- msgstr 'نام گروه را وارد کنید...'
- msgid 'Role:'
- msgstr 'نقش:'
- msgid 'Project members'
- msgstr 'اعضای پروژه'
- msgid '%s mentioned you in the task #%d'
- msgstr 'کاربر %s از شما در کار #%d نام بری کرده است.'
- msgid '%s mentioned you in a comment on the task #%d'
- msgstr 'کاربر %s از شما در نظری که در مورد کار #%d بوده نام بری کرده است'
- msgid 'You were mentioned in the task #%d'
- msgstr 'شما در کار #%d نام بری شدید.'
- msgid 'You were mentioned in a comment on the task #%d'
- msgstr 'شما در نظری که در مورد کار #%d بوده نام بری شدید.'
- msgid 'Estimated hours: '
- msgstr 'ساعت های تخمینی: '
- msgid 'Actual hours: '
- msgstr 'ساعت های واقعی: '
- msgid 'Hours Spent'
- msgstr 'ساعت های صرف شده'
- msgid 'Hours Estimated'
- msgstr 'ساعت های تخمینی'
- msgid 'Estimated Time'
- msgstr 'زمان تخمینی'
- msgid 'Actual Time'
- msgstr 'زمان واقعی'
- msgid 'Estimated vs actual time'
- msgstr 'مقایسه زمان تخمینی با زمان واقعی'
- msgid 'RUB - Russian Ruble'
- msgstr 'RUB - روبل روسیه'
- msgid 'Assign the task to the person who does the action when the column is changed'
- msgstr 'کار را به شخصی که عمل را وقتی ستون تغییر کرد انجام می دهد محول کن'
- msgid 'Close a task in a specific column'
- msgstr 'یک کار را در یک ستون مشخص ببند'
- msgid 'Time-based One-time Password Algorithm'
- msgstr 'الگوریتم گذرواژه یکبارمصرف مبتنی بر زمان'
- msgid 'Two-Factor Provider: '
- msgstr 'فراهم کننده دو مرحله ای: '
- msgid 'Disable two-factor authentication'
- msgstr 'احراز هویت دو مرحله ای غیر فعال گردد'
- msgid 'Enable two-factor authentication'
- msgstr 'احراز هویت دو مرحله ای فعال گردد'
- msgid 'There is no integration registered at the moment.'
- msgstr 'تلفیق ثبت شده در این لحظه وجود ندارد.'
- msgid 'Password Reset for Kanboard'
- msgstr 'بازنشانی گذرواژه برای کان بُرد'
- msgid 'Forgot password?'
- msgstr 'فراموشی گذرواژه؟'
- msgid 'Enable "Forget Password"'
- msgstr 'فعال کردن "فراموشی گذرواژه"'
- msgid 'Password Reset'
- msgstr 'بازنشانی گذرواژه'
- msgid 'New password'
- msgstr 'گذرواژه جدید'
- msgid 'Change Password'
- msgstr 'تغییر گذرواژه'
- msgid 'To reset your password click on this link:'
- msgstr 'برای بازنشانی گذرواژه خود روی پیوند زیر کلیک کنید:'
- msgid 'Last Password Reset'
- msgstr 'آخرین بازنشانی گذرواژه'
- msgid 'The password has never been reinitialized.'
- msgstr 'گذرواژه هرگز از نو مقداردهی نشده است.'
- msgid 'Creation'
- msgstr 'ایجاد'
- msgid 'Expiration'
- msgstr 'انقضاء'
- msgid 'Password reset history'
- msgstr 'تاریخچه بازنشانی گذرواژه'
- msgid 'All tasks of the column "%s" and the swimlane "%s" have been closed successfully.'
- msgstr 'تمامی کارهای ستون "%s" و مسیر شنای "%s" با موفقیت بسته شدند.'
- msgid 'Do you really want to close all tasks of this column?'
- msgstr 'واقعاً می خواهید همه کارهای این ستون را ببندید؟'
- msgid '%d task(s) in the column "%s" and the swimlane "%s" will be closed.'
- msgstr '%d کار در ستون "%s" و مسیر شنای "%s" بسته خواهند شد.'
- msgid 'Close all tasks in this column and this swimlane'
- msgstr 'تمامی کارهای این ستون بسته شود'
- msgid 'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.'
- msgstr 'هیچ پلاگینی یک روش آگاه سازی در پروژه را ثبت نکرده است. شما هنوز می توانید آگاه سازی های مجزا را در پروفایل کاربری خود تنظیم کنید.'
- msgid 'My dashboard'
- msgstr 'میز کار من'
- msgid 'My profile'
- msgstr 'پروفایل من'
- msgid 'Project owner: '
- msgstr 'صاحب پروژه: '
- msgid 'The project identifier is optional and must be alphanumeric, example: MYPROJECT.'
- msgstr 'شناسه پروژه اختیاری است و باید حتما از حروف انگلیسی یا عدد تشکیل شود. مثال MYPROJECT'
- msgid 'Project owner'
- msgstr 'صاحب پروژه'
- msgid 'Personal projects do not have users and groups management.'
- msgstr 'پروژه های خصوصی مدیریت کاربر و گروه ندارند'
- msgid 'There is no project member.'
- msgstr 'عضوی در پروژه وجود ندارد'
- msgid 'Priority'
- msgstr 'اولویت'
- msgid 'Task priority'
- msgstr 'اولویت کار'
- msgid 'General'
- msgstr 'عمومی'
- msgid 'Dates'
- msgstr 'تاریخ ها'
- msgid 'Default priority'
- msgstr 'اولویت پیشفرض'
- msgid 'Lowest priority'
- msgstr 'کمترین اولویت'
- msgid 'Highest priority'
- msgstr 'بیشترین اولویت'
- msgid 'Close a task when there is no activity'
- msgstr 'یک کار را در صورت نبود فعالیت ببند'
- msgid 'Duration in days'
- msgstr 'مدت به روز'
- msgid 'Send email when there is no activity on a task'
- msgstr 'در صورت عدم فعالیت در یک کار، نامه الکترونیکی ارسال کن'
- msgid 'Unable to fetch link information.'
- msgstr 'امکان دریافت اطلاعات پیوند وجود ندارد.'
- msgid 'Daily background job for tasks'
- msgstr 'امور پس زمینه روزانه برای کارها'
- msgid 'Auto'
- msgstr 'خودکار'
- msgid 'Related'
- msgstr 'مرتبط'
- msgid 'Attachment'
- msgstr 'پیوست'
- msgid 'Title not found'
- msgstr 'عنوان یافت نشد'
- msgid 'Web Link'
- msgstr 'پیوند وب'
- msgid 'External links'
- msgstr 'پیوند های خارجی'
- msgid 'Add external link'
- msgstr 'افزودن پیوند خارجی'
- msgid 'Type'
- msgstr 'نوع'
- msgid 'Dependency'
- msgstr 'وابستگی'
- msgid 'Add internal link'
- msgstr 'افزودن پیوند داخلی'
- msgid 'Add a new external link'
- msgstr 'افزودن یک پیوند خارجی جدید'
- msgid 'Edit external link'
- msgstr 'ویرایش پیوند خارجی'
- msgid 'External link'
- msgstr 'پیوند خارجی'
- msgid 'Copy and paste your link here...'
- msgstr 'پیوند خود را اینجا کپی  پیست کنید...'
- msgid 'URL'
- msgstr 'آدرس'
- msgid 'Internal links'
- msgstr 'پیوند های داخلی'
- msgid 'Assign to me'
- msgstr 'به من محول کن'
- msgid 'Me'
- msgstr 'من'
- msgid 'Do not duplicate anything'
- msgstr 'هیچ چیزی را کپی نکن'
- msgid 'Projects management'
- msgstr 'مدیریت پروژه'
- msgid 'Users management'
- msgstr 'مدیریت کاربران'
- msgid 'Groups management'
- msgstr 'مدیریت گروه ها'
- msgid 'Create from another project'
- msgstr 'ایجاد از پروژه ای دیگر'
- msgid 'open'
- msgstr 'باز'
- msgid 'closed'
- msgstr 'بسته شده'
- msgid 'Priority:'
- msgstr 'اولویت:'
- msgid 'Reference:'
- msgstr 'مرجع:'
- msgid 'Complexity:'
- msgstr 'پیچیدگی:'
- msgid 'Swimlane:'
- msgstr 'مسیر شنا:'
- msgid 'Column:'
- msgstr 'ستون:'
- msgid 'Position:'
- msgstr 'موقعیت:'
- msgid 'Creator:'
- msgstr 'ایجاد کننده:'
- msgid 'Time estimated:'
- msgstr 'زمان تخمینی:'
- msgid '%s hours'
- msgstr '%s ساعت'
- msgid 'Time spent:'
- msgstr 'زمان صرف شده:'
- msgid 'Created:'
- msgstr 'ایجاد شده:'
- msgid 'Modified:'
- msgstr 'تغییر یافته:'
- msgid 'Completed:'
- msgstr 'تکمیل شده:'
- msgid 'Started:'
- msgstr 'شروع شده:'
- msgid 'Moved:'
- msgstr 'منتقل شده:'
- msgid 'Task #%d'
- msgstr 'کار #%d'
- msgid 'Time format'
- msgstr 'فرمت زمان'
- msgid 'Start date: '
- msgstr 'تاریخ شروع: '
- msgid 'End date: '
- msgstr 'تاریخ پایان: '
- msgid 'New due date: '
- msgstr 'تاریخ سررسید جدید: '
- msgid 'Start date changed: '
- msgstr 'تاریخ شروع تغییر کرده: '
- msgid 'Disable personal projects'
- msgstr 'غیر فعال کردن پروژه های خصوصی'
- msgid 'Do you really want to remove this custom filter: "%s"?'
- msgstr 'واقعاً می خواهید این فیلتر سفارشی را حذف کنید؟ "%s"'
- msgid 'Remove a custom filter'
- msgstr 'حذف یک فیلتر سفارشی'
- msgid 'User activated successfully.'
- msgstr 'کاربر با موفقیت فعال شد.'
- msgid 'Unable to enable this user.'
- msgstr 'فعال کردن این کاربر امکان پذیر نیست.'
- msgid 'User disabled successfully.'
- msgstr 'کاربر با موفقیت غیر فعال شد.'
- msgid 'Unable to disable this user.'
- msgstr 'غیرفعال کردن این کاربر امکان پذیر نیست.'
- msgid 'All files have been uploaded successfully.'
- msgstr 'همه فایل ها با موفقیت بارگذاری شدند.'
- msgid 'The maximum allowed file size is %sB.'
- msgstr 'بیشترین اندازه فایل مجاز %sB است.'
- msgid 'Drag and drop your files here'
- msgstr 'فایل های خود را در اینجا کشیده و رها کنید.'
- msgid 'choose files'
- msgstr 'انتخاب فایل ها'
- msgid 'View profile'
- msgstr 'نمایش پروفایل'
- msgid 'Two Factor'
- msgstr 'دو مرحله ای'
- msgid 'Disable user'
- msgstr 'غیر فعال کردن کاربر'
- msgid 'Do you really want to disable this user: "%s"?'
- msgstr 'واقعاً می خواهید این کاربر را غیر فعال کنید؟ "%s"'
- msgid 'Enable user'
- msgstr 'فعال کردن کاربر'
- msgid 'Do you really want to enable this user: "%s"?'
- msgstr 'واقعاً می خواهید این کاربر را فعال کنید؟ "%s"'
- msgid 'Download'
- msgstr 'بارگیری'
- msgid 'Uploaded: %s'
- msgstr 'بارگذاری: %s'
- msgid 'Size: %s'
- msgstr 'اندازه: %s'
- msgid 'Uploaded by %s'
- msgstr 'بارگذاری شده توسط %s'
- msgid 'Filename'
- msgstr 'نام فایل'
- msgid 'Size'
- msgstr 'اندازه'
- msgid 'Column created successfully.'
- msgstr 'ستون با موفقیت ایجاد شد.'
- msgid 'Another column with the same name exists in the project'
- msgstr 'ستونی دیگر با همین نام در پروژه وجود دارد'
- msgid 'Default filters'
- msgstr 'فیلترهای پیشفرض'
- msgid 'Your board doesn\'t have any columns!'
- msgstr 'برد شما هیچ ستونی ندارد!'
- msgid 'Change column position'
- msgstr 'تغییر موقعیت ستون'
- msgid 'Switch to the project overview'
- msgstr 'تغییر به حالت بررسی اجمالی پروژه'
- msgid 'User filters'
- msgstr 'فیلترهای کاربر'
- msgid 'Category filters'
- msgstr 'فیلترهای دسته بندی'
- msgid 'Upload a file'
- msgstr 'بارگذاری یک فایل'
- msgid 'View file'
- msgstr 'نمایش فایل'
- msgid 'Last activity'
- msgstr 'آخرین فعالیت'
- msgid 'Change subtask position'
- msgstr 'تغییر موقعیت کار فرعی'
- msgid 'This value must be greater than %d'
- msgstr 'این مقدار باید از %d بزرگتر باشد'
- msgid 'Another swimlane with the same name exists in the project'
- msgstr 'یک مسیر شنای دیگر با همین نام در پروژه وجود دارد'
- msgid 'Example: https://example.kanboard.org/ (used to generate absolute URLs)'
- msgstr 'مثال: https://example.kanboard.org/ (برای تولید نشانی های کامل استفاده شده)'
- msgid 'Actions duplicated successfully.'
- msgstr 'اعمال با موفقیت کپی شدند'
- msgid 'Unable to duplicate actions.'
- msgstr 'کپی اعمال امکان پذیر نیست.'
- msgid 'Add a new action'
- msgstr 'افزودن یک عمل جدید'
- msgid 'Import from another project'
- msgstr 'درون ریزی از پروژه ای دیگر'
- msgid 'There is no action at the moment.'
- msgstr 'در این لحظه هیچ عملی وجود ندارد.'
- msgid 'Import actions from another project'
- msgstr 'درون ریزی اعمال از پروژه ای دیگر'
- msgid 'There is no available project.'
- msgstr 'پروژه ای در دسترس نیست.'
- msgid 'Local File'
- msgstr 'فایل محلی'
- msgid 'Configuration'
- msgstr 'پیکربندی'
- msgid 'PHP version:'
- msgstr 'نسخه PHP:'
- msgid 'PHP SAPI:'
- msgstr ''
- msgid 'OS version:'
- msgstr 'نسخه سیستم عامل:'
- msgid 'Database version:'
- msgstr 'نسخه پایگاه داده:'
- msgid 'Browser:'
- msgstr 'مرورگر:'
- msgid 'Task view'
- msgstr 'نمای کار'
- msgid 'Edit task'
- msgstr 'ویرایش کار'
- msgid 'Edit description'
- msgstr 'ویرایش شرح'
- msgid 'New internal link'
- msgstr 'لینک داخلی جدید'
- msgid 'Display list of keyboard shortcuts'
- msgstr 'نمایش لیست از میانبرهای صفحه کلید'
- msgid 'Avatar'
- msgstr 'آواتار'
- msgid 'Upload my avatar image'
- msgstr 'بارگذاری تصویر آواتار من'
- msgid 'Remove my image'
- msgstr 'حذف تصویر من'
- msgid 'The OAuth2 state parameter is invalid'
- msgstr 'وضعیت پارامتر OAuth2 معتبر نیست.'
- msgid 'User not found.'
- msgstr 'کاربر یافت نشد.'
- msgid 'Search in activity stream'
- msgstr 'جستجو در جریان فعالیت'
- msgid 'My activities'
- msgstr 'فعالیت های من'
- msgid 'Activity until yesterday'
- msgstr 'فعالیت تا دیروز'
- msgid 'Activity until today'
- msgstr 'فعالیت تا امروز'
- msgid 'Search by creator: '
- msgstr 'جستجو بر اساس ایجاد کننده: '
- msgid 'Search by creation date: '
- msgstr 'جستجو بر اساس تاریخ ایجاد: '
- msgid 'Search by task status: '
- msgstr 'جستجو بر اساس وضعیت کار: '
- msgid 'Search by task title: '
- msgstr 'جستجو بر اساس عنوان کار: '
- msgid 'Activity stream search'
- msgstr 'جستجوی جریان فعالیت'
- msgid 'Projects where "%s" is manager'
- msgstr 'پروژه هایی که در آن "%s" مدیر است'
- msgid 'Projects where "%s" is member'
- msgstr 'پروژه هایی که در آن "%s" عضو است'
- msgid 'Open tasks assigned to "%s"'
- msgstr 'کارهای بازی که به "%s" محول شده است'
- msgid 'Closed tasks assigned to "%s"'
- msgstr 'کارهای بسته ای که به "%s" محول شده است'
- msgid 'Assign automatically a color based on a priority'
- msgstr 'اختصاص خودکار یک رنگ بر اساس یک اولویت'
- msgid 'Overdue tasks for the project(s) "%s"'
- msgstr 'کارهای عقب مانده برای پروژه (های) "%s"'
- msgid 'Upload files'
- msgstr 'بارگذاری فایل ها'
- msgid 'Installed Plugins'
- msgstr 'پلاگین های نصب شده'
- msgid 'Plugin Directory'
- msgstr 'دایرکتوری پلاگین'
- msgid 'Plugin installed successfully.'
- msgstr 'پلاگین با موفقیت نصب شد.'
- msgid 'Plugin updated successfully.'
- msgstr 'پلاگین با موفقیت بروز رسانی شد.'
- msgid 'Plugin removed successfully.'
- msgstr 'پلاگین با موفقیت حذف شد.'
- msgid 'Subtask converted to task successfully.'
- msgstr 'کار فرعی با موفقیت به کار تبدیل شد.'
- msgid 'Unable to convert the subtask.'
- msgstr 'تبدیل کار فرعی امکان پذیر نیست.'
- msgid 'Unable to extract plugin archive.'
- msgstr 'برون ریزی آرشیو پلاگین امکان پذیر نیست.'
- msgid 'Plugin not found.'
- msgstr 'پلاگین یافت نشد.'
- msgid 'You don\'t have the permission to remove this plugin.'
- msgstr 'شما اجازه حذف این پلاگین را ندارید.'
- msgid 'Unable to download plugin archive.'
- msgstr 'امکان دانلود آرشیو پلاگین وجود ندارد.'
- msgid 'Unable to write temporary file for plugin.'
- msgstr 'نوشتن فایل موقت برای پلاگین امکان پذیر نیست.'
- msgid 'Unable to open plugin archive.'
- msgstr 'باز کردن آرشیو پلاگین امکان پذیر نیست.'
- msgid 'There is no file in the plugin archive.'
- msgstr 'فایلی در آرشیو پلاگین وجود ندارد.'
- msgid 'Create tasks in bulk'
- msgstr 'ایجاد کارها بصورت انبوه'
- msgid 'Your Kanboard instance is not configured to install plugins from the user interface.'
- msgstr 'کان بُرد شما طوری تنظیم نشده که بتوان پلاگین ها را از رابط کاربری نصب کرد.'
- msgid 'There is no plugin available.'
- msgstr 'پلاگینی در دسترس نیست.'
- msgid 'Install'
- msgstr 'نصب'
- msgid 'Update'
- msgstr 'بروز رسانی'
- msgid 'Up to date'
- msgstr 'بروز'
- msgid 'Not available'
- msgstr 'در دسترس نیست'
- msgid 'Remove plugin'
- msgstr 'حذف پلاگین'
- msgid 'Do you really want to remove this plugin: "%s"?'
- msgstr 'واقعاً می خواهید این پلاگین را حذف کنید؟ : "%s"'
- msgid 'Uninstall'
- msgstr 'حذف نصب'
- msgid 'Listing'
- msgstr 'لیست کردن'
- msgid 'Metadata'
- msgstr 'متا دیتا'
- msgid 'Manage projects'
- msgstr 'مدیریت پروژه ها'
- msgid 'Convert to task'
- msgstr 'تبدیل به کار'
- msgid 'Convert sub-task to task'
- msgstr 'تبدیل کار فرعی به کار'
- msgid 'Do you really want to convert this sub-task to a task?'
- msgstr 'واقعاً می خواهید این کار فرعی را به کار تبدیل کنید؟'
- msgid 'My task title'
- msgstr 'عنوان کار من'
- msgid 'Enter one task by line.'
- msgstr 'یک کار را در یک خط وارد کنید.'
- msgid 'Number of failed login:'
- msgstr 'تعداد ورودهای ناموفق:'
- msgid 'Account locked until:'
- msgstr 'حساب قفل شده تا:'
- msgid 'Email settings'
- msgstr 'تنظیمات پست الکترونیکی'
- msgid 'Email sender address'
- msgstr 'آدرس فرستنده پست الکترونیکی'
- msgid 'Email transport'
- msgstr 'ترابری پست الکترونیکی'
- msgid 'Webhook token'
- msgstr 'توکن Webhook'
- msgid 'Project tags management'
- msgstr 'مدیریت برچسب های پروژه'
- msgid 'Tag created successfully.'
- msgstr 'برچسب با موفقیت ایجاد شد'
- msgid 'Unable to create this tag.'
- msgstr 'ایجاد این برچسب امکان پذیر نیست.'
- msgid 'Tag updated successfully.'
- msgstr 'برچسب با موفقیت بروز رسانی شد.'
- msgid 'Unable to update this tag.'
- msgstr 'بروز رسانی این برچسب امکان پذیر نیست.'
- msgid 'Tag removed successfully.'
- msgstr 'برچسب با موفقیت حذف شد.'
- msgid 'Unable to remove this tag.'
- msgstr 'حذف این برچسب امکان پذیر نیست.'
- msgid 'Global tags management'
- msgstr 'مدیریت جامع برچسب ها'
- msgid 'Tags'
- msgstr 'برچسب ها'
- msgid 'Tags management'
- msgstr 'مدیریت برچسب ها'
- msgid 'Add new tag'
- msgstr 'افزودن برچسب جدید'
- msgid 'Edit a tag'
- msgstr 'ویرایش یک برچسب'
- msgid 'Project tags'
- msgstr 'برچسب های پروژه'
- msgid 'There is no specific tag for this project at the moment.'
- msgstr 'برچسب خاصی برای این پروژه در حال حاضر موجود نیست.'
- msgid 'Tag'
- msgstr 'برچسب'
- msgid 'Remove a tag'
- msgstr 'حذف یک برچسب'
- msgid 'Do you really want to remove this tag: "%s"?'
- msgstr 'واقعاً می خواهید برچسب : "%s" را حذف کنید؟'
- msgid 'Global tags'
- msgstr 'برچسب های جامع'
- msgid 'There is no global tag at the moment.'
- msgstr 'در حال حاضر برچسب جامعی وجود ندارد.'
- msgid 'This field cannot be empty'
- msgstr 'این فیلد نمی تواند خالی باشد'
- msgid 'Close a task when there is no activity in a specific column'
- msgstr 'وقتی هیچ فعالیتی در یک ستون مشخص وجود ندارد یک کار را ببند'
- msgid '%s removed a subtask for the task #%d'
- msgstr 'کاربر %s یک کار فرعی برای کار #%d را حذف کرد.'
- msgid '%s removed a comment on the task #%d'
- msgstr 'کاربر %s یک نظر برای کار #%d را حذف کرد.'
- msgid 'Comment removed on task #%d'
- msgstr 'نظر برای کار #%d حذف شد.'
- msgid 'Subtask removed on task #%d'
- msgstr 'کار فرعی برای کار #%d حذف شد.'
- msgid 'Hide tasks in this column in the dashboard'
- msgstr 'کارهای این ستون را در میز کار مخفی کن'
- msgid '%s removed a comment on the task %s'
- msgstr 'کاربر %s یک نظر برای کار %s را حذف کرد.'
- msgid '%s removed a subtask for the task %s'
- msgstr 'کاربر %s یک کار فرعی برای کار %s را حذف کرد.'
- msgid 'Comment removed'
- msgstr 'نظر حذف شد'
- msgid 'Subtask removed'
- msgstr 'کار فرعی حذف شد'
- msgid '%s set a new internal link for the task #%d'
- msgstr 'کاربر %s یک لینک داخلی برای کار #%d تنظیم کرد'
- msgid '%s removed an internal link for the task #%d'
- msgstr 'کاربر %s یک لینک داخلی برای کار #%d را حذف کرد.'
- msgid 'A new internal link for the task #%d has been defined'
- msgstr 'یک لینک داخلی برای کار #%d تعریف شد'
- msgid 'Internal link removed for the task #%d'
- msgstr 'لینک داخلی برای کار #%d حذف شد.'
- msgid '%s set a new internal link for the task %s'
- msgstr 'کاربر %s یک لینک داخلی برای کار %s تنظیم کرد'
- msgid '%s removed an internal link for the task %s'
- msgstr 'کاربر %s یک لینک داخلی برای کار %s را حذف کرد.'
- msgid 'Automatically set the due date on task creation'
- msgstr 'بصورت خودکار تاریخ سررسید را به هنگام ایجاد کار تنظیم کن'
- msgid 'Move the task to another column when closed'
- msgstr 'کار را وقتی بسته شد به ستونی دیگر منتقل کن'
- msgid 'Move the task to another column when not moved during a given period'
- msgstr 'کار را وقتی در طی یک دوره داده شده منتقل نشده باشد، به ستونی دیگر منتقل کن'
- msgid 'Dashboard for %s'
- msgstr 'میز کارِ %s'
- msgid 'Tasks overview for %s'
- msgstr 'بررسی اجمالی کارهایِ %s'
- msgid 'Subtasks overview for %s'
- msgstr 'بررسی اجمالی کارهای فرعیِ %s'
- msgid 'Projects overview for %s'
- msgstr 'بررسی اجمالی پروژه هایِ %s'
- msgid 'Activity stream for %s'
- msgstr 'جریان فعالیتِ %s'
- msgid 'Assign a color when the task is moved to a specific swimlane'
- msgstr 'وقتی کار به یک مسیر شنای مشخص منتقل شد، به آن یک رنگ اختصاص بده'
- msgid 'Assign a priority when the task is moved to a specific swimlane'
- msgstr 'وقتی که کار به یک مسیر شنای مشخص منتقل شد یک اولویت به آن اختصاص بده'
- msgid 'User unlocked successfully.'
- msgstr 'کاربر با موفقیت از حالت قفل خارج شد.'
- msgid 'Unable to unlock the user.'
- msgstr 'خروج از حالت قفل برای کاربر امکان پذیر نیست.'
- msgid 'Move a task to another swimlane'
- msgstr 'انتقال کار به مسیر شنای دیگر'
- msgid 'Creator Name'
- msgstr 'نام ایجاد کننده'
- msgid 'Time spent and estimated'
- msgstr 'زمان صرف شده و تخمینی'
- msgid 'Move position'
- msgstr 'انتقال موقعیت'
- msgid 'Move task to another position on the board'
- msgstr 'انتقال کار به موقعیتی دیگر در برد'
- msgid 'Insert before this task'
- msgstr 'درج قبل از این کار'
- msgid 'Insert after this task'
- msgstr 'درج بعد از این کار'
- msgid 'Unlock this user'
- msgstr 'قفل گشایی این کاربر'
- msgid 'Custom Project Roles'
- msgstr 'نقش های سفارشی پروژه'
- msgid 'Add a new custom role'
- msgstr 'افزودن یک نقش سفارشی جدید'
- msgid 'Restrictions for the role "%s"'
- msgstr 'محدودیت ها برای نقش "%s"'
- msgid 'Add a new project restriction'
- msgstr 'افزودن یک محدودیت پروژه جدید'
- msgid 'Add a new drag and drop restriction'
- msgstr 'افزودن یک محدودیت بکش و رهاکن جدید'
- msgid 'Add a new column restriction'
- msgstr 'افزودن یک محدودیت ستونی جدید'
- msgid 'Edit this role'
- msgstr 'ویرایش این نقش'
- msgid 'Remove this role'
- msgstr 'حذف این نقش'
- msgid 'There is no restriction for this role.'
- msgstr 'محدودیتی برای این نقش وجود ندارد.'
- msgid 'Only moving task between those columns is permitted'
- msgstr 'تنها انتقال کار بین آن ستون ها مجاز است.'
- msgid 'Close a task in a specific column when not moved during a given period'
- msgstr 'بستن یک کار در یک ستون خاص وقتی طی یک دوره داده شده منتقل نشده باشد'
- msgid 'Edit columns'
- msgstr 'ویرایش ستون ها'
- msgid 'The column restriction has been created successfully.'
- msgstr 'محدودیت ستون با موفقیت ایجاد شد.'
- msgid 'Unable to create this column restriction.'
- msgstr 'ایجاد این محدودیت ستون امکان پذیر نیست.'
- msgid 'Column restriction removed successfully.'
- msgstr 'محدودیت ستون با موفقیت حذف شد.'
- msgid 'Unable to remove this restriction.'
- msgstr 'حذف این محدودیت امکان پذیر نیست.'
- msgid 'Your custom project role has been created successfully.'
- msgstr 'نقش سفارشی پروژه شما با موفقیت ایجاد شد.'
- msgid 'Unable to create custom project role.'
- msgstr 'ایجاد نقش پروژه امکان پذیر نیست.'
- msgid 'Your custom project role has been updated successfully.'
- msgstr 'نقش سفارشی پروژه شما با موفقیت بروز رسانی شد.'
- msgid 'Unable to update custom project role.'
- msgstr 'بروز رسانی نقش سفارشی پروژه شما امکان پذیر نیست.'
- msgid 'Custom project role removed successfully.'
- msgstr 'نقش سفارشی پروژه با موفقیت حذف شد.'
- msgid 'Unable to remove this project role.'
- msgstr 'حذف این نقش پروژه امکان پذیر نیست.'
- msgid 'The project restriction has been created successfully.'
- msgstr 'محدودیت پروژه با موفقیت ایجاد شد.'
- msgid 'Unable to create this project restriction.'
- msgstr 'ایجاد این محدودیت پروژه امکان پذیر نیست.'
- msgid 'Project restriction removed successfully.'
- msgstr 'محدودیت پروژه با موفقیت حذف شد.'
- msgid 'You cannot create tasks in this column.'
- msgstr 'نمی توانید در این ستون کار ایجاد کنید.'
- msgid 'Task creation is permitted for this column'
- msgstr 'ایجاد کار برای این ستون مجاز است'
- msgid 'Closing or opening a task is permitted for this column'
- msgstr 'بستن یا باز کردن کار برای این ستون مجاز است'
- msgid 'Task creation is blocked for this column'
- msgstr 'ایجاد کار برای این ستون مسدود است'
- msgid 'Closing or opening a task is blocked for this column'
- msgstr 'باز یا بستن یک کار برای این ستون مسدود است'
- msgid 'Task creation is not permitted'
- msgstr 'ایجاد کار مجاز نیست'
- msgid 'Closing or opening a task is not permitted'
- msgstr 'بستن یا باز کردن یک کار مجاز نیست'
- msgid 'New drag and drop restriction for the role "%s"'
- msgstr 'محدودیت جدید کشیدن و رها کردن برای نقش "%s"'
- msgid 'People belonging to this role will be able to move tasks only between the source and the destination column.'
- msgstr 'اشخاص متعلق به این نقش قادر خواهند بود کارها را فقط بین ستون مبدا و مقصد منتقل کنند.'
- msgid 'Remove a column restriction'
- msgstr 'حذف یک محدودیت ستون'
- msgid 'Do you really want to remove this column restriction: "%s" to "%s"?'
- msgstr 'واقعاً می خواهید این محدودیت ستون را حذف کنید؟ : "%s" به "%s"'
- msgid 'New column restriction for the role "%s"'
- msgstr 'محدودیت جدید ستون برای نقش "%s"'
- msgid 'Rule'
- msgstr 'قانون'
- msgid 'Do you really want to remove this column restriction?'
- msgstr 'آیا واقعاً می خواهید این محدودیت ستون را حذف کنید؟'
- msgid 'Custom roles'
- msgstr 'نقش های سفارشی'
- msgid 'New custom project role'
- msgstr 'نقش سفارشی جدید پروژه'
- msgid 'Edit custom project role'
- msgstr 'ویرایش نقش سفارشی پروژه'
- msgid 'Remove a custom role'
- msgstr 'حذف یک نقش سفارشی'
- msgid 'Do you really want to remove this custom role: "%s"? All people assigned to this role will become project member.'
- msgstr 'واقعاً می خواهید این نقش سفارشی را حذف کنید؟ : "%s" تمامی اشخاصی که به این نقش اختصاص یافته اند تبدیل به عضو پروژه می شوند.'
- msgid 'There is no custom role for this project.'
- msgstr 'هیچ نقش سفارشی برای این پروژه وجود ندارد.'
- msgid 'New project restriction for the role "%s"'
- msgstr 'محدودیت پروژه جدید برای نقش "%s"'
- msgid 'Restriction'
- msgstr 'محدودیت'
- msgid 'Remove a project restriction'
- msgstr 'حذف یک محدودیت پروژه'
- msgid 'Do you really want to remove this project restriction: "%s"?'
- msgstr 'آیا واقعاً می خواهید محدودیت این پروژه را حذف کنید؟ : "%s"'
- msgid 'Duplicate to multiple projects'
- msgstr 'کپی به چندین پروژه'
- msgid 'This field is required'
- msgstr 'این فیلد اجباری است'
- msgid 'Moving a task is not permitted'
- msgstr 'انتقال یک کار مجاز نیست'
- msgid 'This value must be in the range %d to %d'
- msgstr 'این مقدار باید از بازه %d تا %d باشد'
- msgid 'You are not allowed to move this task.'
- msgstr 'شما مجاز به انتقال این کار نمی باشید'
- msgid 'API User Access'
- msgstr 'API دسترسی کاربر'
- msgid 'Preview'
- msgstr 'پیش نمایش'
- msgid 'Write'
- msgstr 'نوشتن'
- msgid 'Write your text in Markdown'
- msgstr 'متن خود را با فرمت مارکدان بنویسید (Markdown)'
- msgid 'No personal API access token registered.'
- msgstr 'هیچ توکن API دسترسی شخصی ثبت نشده است.'
- msgid 'Your personal API access token is "%s"'
- msgstr 'توکن دسترسی API شخصی شما برابر است با: "%s"'
- msgid 'Remove your token'
- msgstr 'توکن خود را حذف کنید'
- msgid 'Generate a new token'
- msgstr 'تولید یک توکن جدید'
- msgid 'Showing %d-%d of %d'
- msgstr 'در حال نمایش %d تا %d از %d'
- msgid 'Outgoing Emails'
- msgstr 'ایمیل های خروجی'
- msgid 'Add or change currency rate'
- msgstr 'نرخ ارز را اضافه کنید یا تغییر دهید'
- msgid 'Reference currency: %s'
- msgstr 'ارز مرجع: %s'
- msgid 'Add custom filters'
- msgstr 'افزودن فیلتر سفارشی'
- msgid 'Export'
- msgstr 'برون ریزی'
- msgid 'Add link label'
- msgstr 'افزودن برچسب پیوند'
- msgid 'Incompatible Plugins'
- msgstr 'پلاگین های ناسازگار'
- msgid 'Compatibility'
- msgstr 'سازگاری'
- msgid 'Permissions and ownership'
- msgstr 'مجوزها و مالکیت'
- msgid 'Priorities'
- msgstr 'مشخصات'
- msgid 'Close this window'
- msgstr 'این پنجره را ببند'
- msgid 'Unable to upload this file.'
- msgstr 'بارگذاری این فایل امکان پذیر نیست'
- msgid 'Import tasks'
- msgstr 'درون ریزی کارها'
- msgid 'Choose a project'
- msgstr 'انتخاب یک پروژه'
- msgid 'Profile'
- msgstr 'پروفایل'
- msgid 'Application role'
- msgstr 'نقش اپلیکیشنی'
- msgid '%d invitations were sent.'
- msgstr 'تعداد %d دعوتنامه ارسال شد.'
- msgid '%d invitation was sent.'
- msgstr 'تعداد %d دعوتنامه ارسال شد.'
- msgid 'Unable to create this user.'
- msgstr 'ایجاد این کاربر امکان پذیر نیست.'
- msgid 'Kanboard Invitation'
- msgstr 'دعوتنامه کان بُرد'
- msgid 'Visible on dashboard'
- msgstr 'قابل مشاهده در میز کار'
- msgid 'Created at:'
- msgstr 'ایجاد شده در:'
- msgid 'Updated at:'
- msgstr 'بروز شده در:'
- msgid 'There is no custom filter.'
- msgstr 'هیچ فیلتر سفارشی وجود ندارد.'
- msgid 'New User'
- msgstr 'کاربر جدید'
- msgid 'Authentication'
- msgstr 'احراز هویت'
- msgid 'If checked, this user will use a third-party system for authentication.'
- msgstr 'اگر انتخاب شده باشد، این کاربر از یک سیستم ثالث برای احراز هویت استفاده خواهد کرد.'
- msgid 'The password is necessary only for local users.'
- msgstr 'گذرواژه فقط برای کاربران محلی اجباری است'
- msgid 'You have been invited to register on Kanboard.'
- msgstr 'شما برای ثبت نام در کان بُرد دعوت شده اید.'
- msgid 'Click here to join your team'
- msgstr 'برای پیوستن به تیم خود اینجا کلیک کنید'
- msgid 'Invite people'
- msgstr 'دعوت افراد'
- msgid 'Emails'
- msgstr 'ایمیل ها'
- msgid 'Enter one email address by line.'
- msgstr 'هر ایمیل را در یک خط وارد کنید.'
- msgid 'Add these people to this project'
- msgstr 'این افراد را به این پروژه اضافه کنید'
- msgid 'Add this person to this project'
- msgstr 'این شخص را به این پروژه اضافه کنید'
- msgid 'Sign-up'
- msgstr 'ثبت نام'
- msgid 'Credentials'
- msgstr 'اعتبارنامه ها'
- msgid 'New user'
- msgstr 'کاربر جدید'
- msgid 'This username is already taken'
- msgstr 'این نام کاربری در حال حاضر استفاده شده است'
- msgid 'Your profile must have a valid email address.'
- msgstr 'پروفایل شما باید یک آدرس ایمیل معتبر داشته باشد'
- msgid 'TRL - Turkish Lira'
- msgstr 'TRL - لیر ترکیه'
- msgid 'The project email is optional and could be used by several plugins.'
- msgstr 'ایمیل پروژه اختیاری است و می تواند توسط چندین پلاگین مورد استفاده قرار گیرد.'
- msgid 'The project email must be unique across all projects'
- msgstr 'ایمیل پروژه باید بین همه پروژه ها یکتا باشد'
- msgid 'The email configuration has been disabled by the administrator.'
- msgstr 'تنظیمات ایمیل توسط مدیر سیستم غیر فعال شده است'
- msgid 'Close this project'
- msgstr 'بستن این پروژه'
- msgid 'Open this project'
- msgstr 'باز کردن این پروژه'
- msgid 'Close a project'
- msgstr 'بستن یک پروژه'
- msgid 'Do you really want to close this project: "%s"?'
- msgstr 'واقعاً می خواهید این پروژه را ببندید؟ : "%s"'
- msgid 'Reopen a project'
- msgstr 'بازگشایی مجدد یک پروژه'
- msgid 'Do you really want to reopen this project: "%s"?'
- msgstr 'واقعاً می خواهید این پروژه را مجددا بازگشایی کنید؟ : "%s"'
- msgid 'This project is open'
- msgstr 'این پروژه باز است'
- msgid 'This project is closed'
- msgstr 'این پروژه بسته است'
- msgid 'Unable to upload files, check the permissions of your data folder.'
- msgstr 'بارگذاری فایل امکان پذیر نیست، مجوزهای پوشه data را بررسی کنید.'
- msgid 'Another category with the same name exists in this project'
- msgstr 'یک دسته بندی دیگر با همین نام در این پروژه وجود دارد'
- msgid 'Comment sent by email successfully.'
- msgstr 'نظر با موفقیت توسط ایمیل ارسال شد.'
- msgid 'Sent by email to "%s" (%s)'
- msgstr 'توسط ایمیل ارسال شد به "%s" (%s)'
- msgid 'Unable to read uploaded file.'
- msgstr 'خواندن فایل بارگذاری شده امکان پذیر نیست.'
- msgid 'Database uploaded successfully.'
- msgstr 'پایگاه داده با موفقیت بارگذاری شد.'
- msgid 'Task sent by email successfully.'
- msgstr 'کار با موفقیت توسط ایمیل ارسال شد.'
- msgid 'There is no category in this project.'
- msgstr 'هیچ گونه دسته بندی در این پروژه وجود ندارد.'
- msgid 'Send by email'
- msgstr 'ارسال توسط ایمیل'
- msgid 'Create and send a comment by email'
- msgstr 'ایجاد و ارسال یک نظر توسط ایمیل'
- msgid 'Subject'
- msgstr 'موضوع'
- msgid 'Upload the database'
- msgstr 'بارگذاری پایگاه داده'
- msgid 'You could upload the previously downloaded Sqlite database (Gzip format).'
- msgstr 'می توانید پایگاه داده Sqlite که قبلا بارگیری کردید را بارگذاری کنید (با فرمت Gzip)'
- msgid 'Database file'
- msgstr 'فایل پایگاه داده'
- msgid 'Upload'
- msgstr 'بارگذاری'
- msgid 'Your project must have at least one active swimlane.'
- msgstr 'پروژه شما باید حداقل یک مسیر شنای فعال داشته باشد'
- msgid 'Project: %s'
- msgstr 'پروژه: %s'
- msgid 'Automatic action not found: "%s"'
- msgstr 'عمل خودکار یافت نشد: %s'
- msgid '%d projects'
- msgstr '%d پروژه'
- msgid '%d project'
- msgstr '%d پروژه'
- msgid 'There is no project.'
- msgstr 'هیچ پروژه ای وجود ندارد'
- msgid 'Sort'
- msgstr 'مرتب سازی'
- msgid 'Project ID'
- msgstr 'شناسه پروژه'
- msgid 'Project name'
- msgstr 'نام پروژه'
- msgid 'Public'
- msgstr 'عمومی'
- msgid 'Personal'
- msgstr 'خصوصی'
- msgid '%d tasks'
- msgstr '%d کار'
- msgid '%d task'
- msgstr '%d کار'
- msgid 'Task ID'
- msgstr 'شناسه کار'
- msgid 'Assign automatically a color when due date is expired'
- msgstr 'وقتی تاریخ سررسید منقضی شد، بصورت خودکار یک رنگ به آن اختصاص بده'
- msgid 'Total score in this column across all swimlanes'
- msgstr 'امتیاز کل در این ستون بین تمامی مسیرهای شنا'
- msgid 'HRK - Kuna'
- msgstr 'HRK - کونای کرواسی'
- msgid 'ARS - Argentine Peso'
- msgstr 'ARS - پزو آرژانتین'
- msgid 'COP - Colombian Peso'
- msgstr 'COP - پزو کلمبیا'
- msgid '%d groups'
- msgstr '%d گروه'
- msgid '%d group'
- msgstr '%d گروه'
- msgid 'Group ID'
- msgstr 'شناسه گروه'
- msgid 'External ID'
- msgstr 'شناسه خارجی'
- msgid '%d users'
- msgstr '%d کاربر'
- msgid '%d user'
- msgstr '%d کاربر'
- msgid 'Hide subtasks'
- msgstr 'مخفی کردن کارهای فرعی'
- msgid 'Show subtasks'
- msgstr 'نمایش کارهای فرعی'
- msgid 'Authentication Parameters'
- msgstr 'پارامتر های احراز هویت'
- msgid 'API Access'
- msgstr 'دسترسی API'
- msgid 'No users found.'
- msgstr 'کاربری یافت نشد.'
- msgid 'User ID'
- msgstr 'شناسه کاربر'
- msgid 'Notifications are activated'
- msgstr 'آگاه سازی ها فعال شدند'
- msgid 'Notifications are disabled'
- msgstr 'آگاه سازی ها غیر فعال شدند'
- msgid 'User disabled'
- msgstr 'کاربر غیرفعال شد'
- msgid '%d notifications'
- msgstr '%d آگاه سازی'
- msgid '%d notification'
- msgstr '%d آگاه سازی'
- msgid 'There is no external integration installed.'
- msgstr 'هیچ تلفیق خارجی نصب نشده است.'
- msgid 'You are not allowed to update tasks assigned to someone else.'
- msgstr 'شما اجازه بروز رسانی کارهایی که به شخص دیگر محول شده را ندارید.'
- msgid 'You are not allowed to change the assignee.'
- msgstr 'شما اجازه تغییر شخص محول شده را ندارید.'
- msgid 'Task suppression is not permitted'
- msgstr 'زدودن کار مجاز نیست'
- msgid 'Changing assignee is not permitted'
- msgstr 'تغییر شخص محول شده مجاز نیست'
- msgid 'Update only assigned tasks is permitted'
- msgstr 'فقط بروز رسانی کارهای محول شده مجاز است'
- msgid 'Only for tasks assigned to the current user'
- msgstr 'فقط برای کارهایی که به کاربر جاری محول شده'
- msgid 'My projects'
- msgstr 'پروژه های من'
- msgid 'You are not a member of any project.'
- msgstr 'شما عضو هیچ پروژه ای نمی باشید.'
- msgid 'My subtasks'
- msgstr 'کارهای فرعی من'
- msgid '%d subtasks'
- msgstr '%d کار فرعی'
- msgid '%d subtask'
- msgstr '%d کار فرعی'
- msgid 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgstr 'تنها انتقال کار بین ستون هایی مجاز است که آن کار به کاربر جاری محول شده باشد'
- msgid '[DUPLICATE]'
- msgstr '[تکراری]'
- msgid 'DKK - Danish Krona'
- msgstr 'DKK - کرون دانمارک'
- msgid 'Remove user from group'
- msgstr 'حذف کاربر از گروه'
- msgid 'Assign the task to its creator'
- msgstr 'محول کردن کار به ایجاد کننده آن'
- msgid 'This task was sent by email to "%s" with subject "%s".'
- msgstr 'این کار توسط ایمیل به "%s" با موضوع "%s" ارسال شد.'
- msgid 'Predefined Email Subjects'
- msgstr 'موضوعات ایمیل از پیش تعریف شده'
- msgid 'Write one subject by line.'
- msgstr 'در هر خط یک موضوع بنویسید.'
- msgid 'Create another link'
- msgstr 'ایجاد پیوندی دیگر'
- msgid 'BRL - Brazilian Real'
- msgstr 'BRL - رال برزیل'
- msgid 'Add a new Kanboard task'
- msgstr 'ایجاد یک کار جدید کان بُرد'
- msgid 'Subtask not started'
- msgstr 'کار فرعی شروع نشده'
- msgid 'Subtask currently in progress'
- msgstr 'کار فرعی در حال حاضر در حال انجام است'
- msgid 'Subtask completed'
- msgstr 'کار فرعی تکمیل شده'
- msgid 'Subtask added successfully.'
- msgstr 'کار فرعی با موفقیت افزوده شد.'
- msgid '%d subtasks added successfully.'
- msgstr '%d کار فرعی با موفقیت افزوده شد.'
- msgid 'Enter one subtask by line.'
- msgstr 'در هر خط یک کار فرعی وارد کنید.'
- msgid 'Predefined Contents'
- msgstr 'محتوای از پیش تعریف شده'
- msgid 'Predefined contents'
- msgstr 'محتوای از پیش تعریف شده'
- msgid 'Predefined Task Description'
- msgstr 'شرح کار از پیش تعریف شده'
- msgid 'Do you really want to remove this template? "%s"'
- msgstr 'آیا واقعاً می خواهید این قالب را حذف کنید؟ "%s"'
- msgid 'Add predefined task description'
- msgstr 'افزودن شرح کار از پیش تعریف شده'
- msgid 'Predefined Task Descriptions'
- msgstr 'شرح کار از پیش تعریف شده'
- msgid 'Template created successfully.'
- msgstr 'قالب با موفقیت ایجاد شد.'
- msgid 'Unable to create this template.'
- msgstr 'ایجاد این قالب امکان پذیر نیست.'
- msgid 'Template updated successfully.'
- msgstr 'قالب با موفقیت بروز شد.'
- msgid 'Unable to update this template.'
- msgstr 'بروز رسانی این قالب امکان پذیر نیست.'
- msgid 'Template removed successfully.'
- msgstr 'قالب با موفقیت حذف شد.'
- msgid 'Unable to remove this template.'
- msgstr 'حذف این قالب امکان پذیر نیست.'
- msgid 'Template for the task description'
- msgstr 'قالب برای این شرح کار'
- msgid 'The start date is greater than the end date'
- msgstr 'تاریخ شروع از تاریخ پایان جلوتر است'
- msgid 'Tags must be separated by a comma'
- msgstr 'برچسب ها باید با کاما از هم جدا شوند'
- msgid 'Only the task title is required'
- msgstr 'تنها عنوان کار الزامی است'
- msgid 'Creator Username'
- msgstr 'نام کاربری ایجاد کننده'
- msgid 'Color Name'
- msgstr 'نام رنگ'
- msgid 'Column Name'
- msgstr 'نام ستون'
- msgid 'Swimlane Name'
- msgstr 'نام مسیر شنا'
- msgid 'Time Estimated'
- msgstr 'زمان تخمینی'
- msgid 'Time Spent'
- msgstr 'زمان سپری شده'
- msgid 'External Link'
- msgstr 'لینک خارجی'
- msgid 'This feature enables the iCal feed, RSS feed and the public board view.'
- msgstr 'این ویژگی خوراک iCal، خوراک RSS و نمای عمومی برد را فعال می کند.'
- msgid 'Stop the timer of all subtasks when moving a task to another column'
- msgstr 'زمان سنج همه کارهای فرعی را وقتی که کار به ستون دیگری منتقل می شود متوقف کن'
- msgid 'Subtask Title'
- msgstr 'عنوان کار فرعی'
- msgid 'Add a subtask and activate the timer when moving a task to another column'
- msgstr 'وقتی کار به ستون دیگری منتقل می شود، یک کار فرعی به آن افزوده و زمان سنج فعال شود'
- msgid 'days'
- msgstr 'روز'
- msgid 'minutes'
- msgstr 'دقیقه'
- msgid 'seconds'
- msgstr 'ثانیه'
- msgid 'Assign automatically a color when preset start date is reached'
- msgstr 'هنگامی که تاریخ شروع از قبل تنظیم شده فرا برسد، بصورت خودکار یک رنگ به آن اختصاص بده'
- msgid 'Move the task to another column once a predefined start date is reached'
- msgstr 'هنگامی که تاریخ شروع از پیش تعریف شده ای فرا رسید، کار را به ستون دیگری منتقل کن'
- msgid 'This task is now linked to the task %s with the relation "%s"'
- msgstr 'این کار اکنون به کار %s با ارتباط "%s" پیوند خورده است.'
- msgid 'The link with the relation "%s" to the task %s has been removed'
- msgstr 'پیوند با ارتباط "%s" به کار %s حذف شد.'
- msgid 'Custom Filter:'
- msgstr 'فیلتر سفارشی:'
- msgid 'Unable to find this group.'
- msgstr 'یافتن این گروه امکان پذیر نیست.'
- msgid '%s moved the task #%d to the column "%s"'
- msgstr 'کاربر %s کار #%d را به ستون "%s" منتقل کرد.'
- msgid '%s moved the task #%d to the position %d in the column "%s"'
- msgstr 'کاربر %s کار #%d را به موقعیت %d در ستون "%s" منتقل کرد.'
- msgid '%s moved the task #%d to the swimlane "%s"'
- msgstr 'کاربر %s کار #%d را به مسیر شنای "%s" منتقل کرد'
- msgid '%sh spent'
- msgstr '%sh سپری شده'
- msgid '%sh estimated'
- msgstr '%sh تخمین زده شده'
- msgid 'Select All'
- msgstr 'انتخاب همه'
- msgid 'Unselect All'
- msgstr 'عدم انتخاب همه'
- msgid 'Apply action'
- msgstr 'انجام عمل'
- msgid 'Move selected tasks to another column or swimlane'
- msgstr 'کارهای انتخاب شده به ستون دیگری منتقل شوند'
- msgid 'Edit tasks in bulk'
- msgstr 'ویرایش کارها بصورت دسته ای'
- msgid 'Choose the properties that you would like to change for the selected tasks.'
- msgstr 'مشخصاتی که می خواهید برای کارهای انتخاب شده تغییر کنند را انتخاب کنید.'
- msgid 'Configure this project'
- msgstr 'پیکربندی این پروژه'
- msgid 'Start now'
- msgstr 'اکنون شروع شود'
- msgid '%s removed a file from the task #%d'
- msgstr 'کاربر %s یک فایل را از کار #%d حذف کرد'
- msgid 'Attachment removed from task #%d: %s'
- msgstr 'پیوست از کار #%d حذف شد: %s'
- msgid 'No color'
- msgstr 'بدون رنگ'
- msgid 'Attachment removed "%s"'
- msgstr 'پیوست حذف شد "%s"'
- msgid '%s removed a file from the task %s'
- msgstr 'کاربر %s یک فایل را از کار %s حذف کرد'
- msgid 'Move the task to another swimlane when assigned to a user'
- msgstr 'هنگامی که کاری به یک کاربر محول شد، آن کار را به مسیر شنای دیگر منتقل کن'
- msgid 'Destination swimlane'
- msgstr 'مسیر شنای مقصد'
- msgid 'Assign a category when the task is moved to a specific swimlane'
- msgstr 'هنگامی که کار به یک مسیر شنای مشخص منتقل شد، یک دسته بندی به آن اختصاص یابد'
- msgid 'Move the task to another swimlane when the category is changed'
- msgstr 'هنگامی که دسته بندی تغییر کرد، کار را به مسیر شنایی دیگر منتقل کن'
- msgid 'Reorder this column by priority (ASC)'
- msgstr 'مرتب سازی این ستون بر اساس اولویت (صعودی)'
- msgid 'Reorder this column by priority (DESC)'
- msgstr 'مرتب سازی این ستون بر اساس اولویت (نزولی)'
- msgid 'Reorder this column by assignee and priority (ASC)'
- msgstr 'مرتب سازی این ستون بر اساس شخص محول شده و اولویت (صعودی)'
- msgid 'Reorder this column by assignee and priority (DESC)'
- msgstr 'مرتب سازی این ستون بر اساس شخص محول شده و اولویت (نزولی)'
- msgid 'Reorder this column by assignee (A-Z)'
- msgstr 'مرتب سازی این ستون بر اساس شخص محول شده (حروف الفبا صعودی)'
- msgid 'Reorder this column by assignee (Z-A)'
- msgstr 'مرتب سازی این ستون بر اساس شخص محول شده (حروف الفبا نزولی)'
- msgid 'Reorder this column by due date (ASC)'
- msgstr 'مرتب سازی این ستون بر اساس تاریخ سررسید (صعودی)'
- msgid 'Reorder this column by due date (DESC)'
- msgstr 'مرتب سازی این ستون بر اساس تاریخ سررسید (نزولی)'
- msgid '%s moved the task #%d "%s" to the project "%s"'
- msgstr 'کاربر %s کار #%d "%s" را به پروژه "%s" منتقل کرد.'
- msgid 'Task #%d "%s" has been moved to the project "%s"'
- msgstr 'کار #%d "%s" به پروژه "%s" منتقل شد.'
- msgid 'Move the task to another column when the due date is less than a certain number of days'
- msgstr 'هنگامی که تاریخ سررسید کمتر از تعداد روز مشخصی شد، کار را به ستونی دیگر منتقل کن'
- msgid 'Automatically update the start date when the task is moved away from a specific column'
- msgstr 'هنگامی که کار از ستونی مشخص منتقل شد، تاریخ شروع کار را بصورت خودکار بروز رسانی کن'
- msgid 'HTTP Client:'
- msgstr 'کلاینت HTTP:'
- msgid 'Assigned'
- msgstr 'محول شده'
- msgid 'Task limits apply to each swimlane individually'
- msgstr 'محدودیت های کار به هر مسیر شنا بصورت مجزا اعمال می گردد'
- msgid 'Column task limits apply to each swimlane individually'
- msgstr 'محدودیت های کارهای هر ستون به مسیرهای شنای مجزا اعمال می گردد'
- msgid 'Column task limits are applied to each swimlane individually'
- msgstr 'محدودیت های کارهای هر ستون برای هر مسیر شنا مجزا است'
- msgid 'Column task limits are applied across swimlanes'
- msgstr 'محدودیت های کارهای هر ستون برای همه مسیرهای شنا اعمال شده است'
- msgid 'Task limit: '
- msgstr 'محدودیت کار: '
- msgid 'Change to global tag'
- msgstr 'تبدیل به برچسب جامع'
- msgid 'Do you really want to make the tag "%s" global?'
- msgstr 'واقعا می خواهید برچسب "%s" را تبدیل به برچسب جامع کنید؟'
- msgid 'Enable global tags for this project'
- msgstr 'برچسب های جامع برای این پروژه فعال گردند'
- msgid 'Group membership(s):'
- msgstr 'عضویت(های) گروهی:'
- msgid '%s is a member of the following group(s): %s'
- msgstr '%s عضوی از این گروه(ها) است: %s'
- msgid '%d/%d group(s) shown'
- msgstr '%d/%d گروه(ها) نمایش داده شده است'
- msgid 'Subtask creation or modification'
- msgstr 'ایجاد یا تغییر کار فرعی'
- msgid 'Assign the task to a specific user when the task is moved to a specific swimlane'
- msgstr 'وقتی که کار به یک مسیر شنای خاص منتقل شد، آن را به یک کاربر خاص اختصاص بده'
- msgid 'Comment'
- msgstr 'توضیح'
- msgid 'Collapse vertically'
- msgstr 'جمع شدن عمودی'
- msgid 'Expand vertically'
- msgstr 'باز شدن عمودی'
- msgid 'MXN - Mexican Peso'
- msgstr 'MXN - پزوی مکزیک'
- msgid 'Estimated vs actual time per column'
- msgstr 'زمان تخمینی در قیاس با واقعی برای هر ستون'
- msgid 'HUF - Hungarian Forint'
- msgstr 'HUF - فورینت مجراستان'
- msgid 'XBT - Bitcoin'
- msgstr 'XBT - بیت کوین'
- msgid 'You must select a file to upload as your avatar!'
- msgstr 'برای بارگذاری تصویر نمایه تان باید فایلی انتخاب کنید!'
- msgid 'The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)'
- msgstr 'فایلی که بارگذاری کردید یک تصویر معتبر نیست! (فقط *.gif, *.jpg, *.jpeg و *.png مجاز هستند!)'
- msgid 'Automatically set the due date when the task is moved away from a specific column'
- msgstr ''
- msgid 'No other projects found.'
- msgstr ''
- msgid 'Please choose a project you want to copy the tasks from.'
- msgstr ''
- msgid 'Import Tasks'
- msgstr ''
- msgid 'Copy'
- msgstr ''
- msgid 'Tasks copied successfully.'
- msgstr ''
- msgid 'Unable to copy tasks.'
- msgstr ''
+msgid "number.decimals_separator"
+msgstr ""
+msgid "number.thousands_separator"
+msgstr ""
+msgid "None"
+msgstr "هیچ"
+msgid "Edit"
+msgstr "ویرایش"
+msgid "Remove"
+msgstr "حذف"
+msgid "Yes"
+msgstr "بلی"
+msgid "No"
+msgstr "خیر"
+msgid "cancel"
+msgstr "انصراف"
+msgid "or"
+msgstr "یا"
+msgid "Yellow"
+msgstr "زرد"
+msgid "Blue"
+msgstr "آبی"
+msgid "Green"
+msgstr "سبز"
+msgid "Purple"
+msgstr "ارغوانی"
+msgid "Red"
+msgstr "قرمز"
+msgid "Orange"
+msgstr "نارنجی"
+msgid "Grey"
+msgstr "خاکستری"
+msgid "Brown"
+msgstr "قهوه ای"
+msgid "Deep Orange"
+msgstr "نارنجی پررنگ"
+msgid "Dark Grey"
+msgstr "خاکستری تیره"
+msgid "Pink"
+msgstr "صورتی"
+msgid "Teal"
+msgstr "آبی سیر"
+msgid "Cyan"
+msgstr "یشمی"
+msgid "Lime"
+msgstr "لیمویی"
+msgid "Light Green"
+msgstr "سبز کمرنگ"
+msgid "Amber"
+msgstr "زرد کهربایی"
+msgid "Save"
+msgstr "ذخیره"
+msgid "Login"
+msgstr "ورود"
+msgid "Official website:"
+msgstr "وبسایت رسمی :"
+msgid "Unassigned"
+msgstr "محول نشده"
+msgid "View this task"
+msgstr "نمایش این کار"
+msgid "Remove user"
+msgstr "حذف کاربر"
+msgid "Do you really want to remove this user: \"%s\"?"
+msgstr "واقعاً می خواهید این کاربر حذف شود؟ : « %s » "
+msgid "All users"
+msgstr "تمامی کاربران"
+msgid "Username"
+msgstr "نام کاربری"
+msgid "Password"
+msgstr "گذرواژه"
+msgid "Administrator"
+msgstr "مدیر سیستم"
+msgid "Sign in"
+msgstr "ورود"
+msgid "Users"
+msgstr "کاربران"
+msgid "Forbidden"
+msgstr "ممنوع شده"
+msgid "Access Forbidden"
+msgstr "دسترسی غیرمجاز"
+msgid "Edit user"
+msgstr "ویرایش کاربر"
+msgid "Logout"
+msgstr "خروج"
+msgid "Bad username or password"
+msgstr "نام کاربری یا گذرواژه اشتباه"
+msgid "Edit project"
+msgstr "ویرایش پروژه"
+msgid "Name"
+msgstr "نام"
+msgid "Projects"
+msgstr "پروژه ها"
+msgid "No project"
+msgstr "پروژه ای نیست"
+msgid "Project"
+msgstr "پروژه"
+msgid "Status"
+msgstr "وضعیت"
+msgid "Tasks"
+msgstr "کارها"
+msgid "Board"
+msgstr "برد"
+msgid "Actions"
+msgstr "فعالیت ها"
+msgid "Inactive"
+msgstr "غیرفعال"
+msgid "Active"
+msgstr "فعال"
+msgid "Unable to update this board."
+msgstr "امکان فعال کردن این برد وجود ندارد."
+msgid "Disable"
+msgstr "غیرفعال"
+msgid "Enable"
+msgstr "فعال"
+msgid "New project"
+msgstr "پروژه جدید"
+msgid "Do you really want to remove this project: \"%s\"?"
+msgstr "واقعاً مایل به حذف این پروژه هستید : « %s » ؟"
+msgid "Remove project"
+msgstr "حذف پروژه"
+msgid "Edit the board for \"%s\""
+msgstr "ویرایش برد برای « %s »"
+msgid "Add a new column"
+msgstr "افزودن یک ستون جدید"
+msgid "Title"
+msgstr "عنوان"
+msgid "Assigned to %s"
+msgstr "اختصاص به %s"
+msgid "Remove a column"
+msgstr "حذف یک ستون"
+msgid "Unable to remove this column."
+msgstr "امکان حذف این ستون وجود ندارد."
+msgid "Do you really want to remove this column: \"%s\"?"
+msgstr "واقعاً مایل به حذف این ستون هستید : « %s » ؟"
+msgid "Settings"
+msgstr "تنظیمات"
+msgid "Application settings"
+msgstr "تنظیمات برنامه"
+msgid "Language"
+msgstr "زبان"
+msgid "Webhook token:"
+msgstr "توکن Webhook:"
+msgid "API token:"
+msgstr "توکن API:"
+msgid "Database size:"
+msgstr "اندازه پایگاه داده :"
+msgid "Download the database"
+msgstr "بارگیری پایگاه داده"
+msgid "Optimize the database"
+msgstr "بهینه سازی پایگاه داده"
+msgid "(VACUUM command)"
+msgstr "(دستور VACUUM)"
+msgid "(Gzip compressed Sqlite file)"
+msgstr "(فایل فشرده sqlite Gzip)"
+msgid "Close a task"
+msgstr "بستن یک کار"
+msgid "Column"
+msgstr "ستون"
+msgid "Color"
+msgstr "رنگ"
+msgid "Assignee"
+msgstr "شخص محول شده"
+msgid "Create another task"
+msgstr "ایجاد کاری دیگر"
+msgid "New task"
+msgstr "کار جدید"
+msgid "Open a task"
+msgstr "یک کار را باز کنید"
+msgid "Do you really want to open this task: \"%s\"?"
+msgstr "واقعاً می خواهید این کار را باز کنید: \"%s\"؟"
+msgid "Back to the board"
+msgstr "بازگشت به برد"
+msgid "There is nobody assigned"
+msgstr "به هیچ کسی محول نشده"
+msgid "Column on the board:"
+msgstr "ستون در برد"
+msgid "Close this task"
+msgstr "این کار بسته شود"
+msgid "Open this task"
+msgstr "این کار باز شود"
+msgid "There is no description."
+msgstr "هیچ توضیحی وجود ندارد"
+msgid "Add a new task"
+msgstr "یک کار جدید اضافه کنید"
+msgid "The username is required"
+msgstr "می بایست نام کاربری را وارد کنید"
+msgid "The maximum length is %d characters"
+msgstr "بیشترین طول مجاز %d حرف است"
+msgid "The minimum length is %d characters"
+msgstr "کمترین طول مجاز %d حرف است"
+msgid "The password is required"
+msgstr "می بایست گذرواژه را وارد کنید"
+msgid "This value must be an integer"
+msgstr "این مقدار باید عدد صحیح باشد"
+msgid "The username must be unique"
+msgstr "نام کاربری باید یکتا باشد"
+msgid "The user id is required"
+msgstr "شناسه کاربر الزامی است"
+msgid "Passwords don't match"
+msgstr "گذرواژه مطابقت ندارد"
+msgid "The confirmation is required"
+msgstr "تصدیق الزامی است"
+msgid "The project is required"
+msgstr "پروژه الزامی است"
+msgid "The id is required"
+msgstr "شناسه الزامی است"
+msgid "The project id is required"
+msgstr "شناسه پروژه الزامی است"
+msgid "The project name is required"
+msgstr "نام پروژه الزامی است"
+msgid "The title is required"
+msgstr "عنوان الزامی است"
+msgid "Settings saved successfully."
+msgstr "تنظیمات با موفقیت ذخیره شدند."
+msgid "Unable to save your settings."
+msgstr "تنظیمات شما ذخیره نمی شود."
+msgid "Database optimization done."
+msgstr "بهینه سازی پایگاه داده انجام شد."
+msgid "Your project has been created successfully."
+msgstr "پروژه شما با موفقیت ایجاد شد"
+msgid "Unable to create your project."
+msgstr "ایجاد پروژه شما امکان پذیر نیست."
+msgid "Project updated successfully."
+msgstr "پروژه با موفقیت به روز رسانی شد."
+msgid "Unable to update this project."
+msgstr "بروز رسانی این پروژه امکان پذیر نیست."
+msgid "Unable to remove this project."
+msgstr "حذف این پروژه امکان پذیر نیست."
+msgid "Project removed successfully."
+msgstr "پروژه با موفقیت حذف شد."
+msgid "Project activated successfully."
+msgstr "پروژه با موفقیت فعال شد."
+msgid "Unable to activate this project."
+msgstr "فعال شدن این پروژه امکان پذیر نیست."
+msgid "Project disabled successfully."
+msgstr "پروژه با موفقیت غیرفعال شد."
+msgid "Unable to disable this project."
+msgstr "غیر فعال شدن این پروژه امکان پذیر نیست."
+msgid "Unable to open this task."
+msgstr "باز کردن این کار امکان پذیر نیست."
+msgid "Task opened successfully."
+msgstr "کار با موفقیت باز شد."
+msgid "Unable to close this task."
+msgstr "بست این کار امکان پذیر نیست."
+msgid "Task closed successfully."
+msgstr "کار با موفقیت بسته شد."
+msgid "Unable to update your task."
+msgstr "بروز رسانی کار شما امکان پذیر نیست."
+msgid "Task updated successfully."
+msgstr "کار با موفقیت بروز رسانی شد."
+msgid "Unable to create your task."
+msgstr "ایجاد کار شما امکان پذیر نیست."
+msgid "Task created successfully."
+msgstr "کار با موفقیت ایجاد شد."
+msgid "User created successfully."
+msgstr "کاربر با موفقیت ایجاد شد."
+msgid "Unable to create your user."
+msgstr "ایجاد کاربر شما امکان پذیر نیست."
+msgid "User updated successfully."
+msgstr "کاربر با موفقیت بروز رسانی شد."
+msgid "User removed successfully."
+msgstr "کاربر با موفقیت حذف شد."
+msgid "Unable to remove this user."
+msgstr "حذف این کاربر امکان پذیر نیست."
+msgid "Board updated successfully."
+msgstr "برد با موفقیت بروز رسانی شد."
+msgid "Ready"
+msgstr "آماده"
+msgid "Backlog"
+msgstr "بلاتکلیف"
+msgid "Work in progress"
+msgstr "کار در حال انجام"
+msgid "Done"
+msgstr "انجام شده"
+msgid "Application version:"
+msgstr "نسخه برنامه:"
+msgid "Id"
+msgstr "شناسه"
+msgid "Public link"
+msgstr "پیوند عمومی"
+msgid "Timezone"
+msgstr "منطقه زمانی"
+msgid "Sorry, I didn't find this information in my database!"
+msgstr "شرمنده، من این اطلاعات را در پایگاه داده ام پیدا نکردم!"
+msgid "Page not found"
+msgstr "صفحه پیدا نشد"
+msgid "Complexity"
+msgstr "پیچیدگی"
+msgid "Task limit"
+msgstr "محدودیت کار"
+msgid "Task count"
+msgstr "تعداد کار"
+msgid "User"
+msgstr "کاربر"
+msgid "Comments"
+msgstr "نظرات"
+msgid "Comment is required"
+msgstr "نظر الزامی است"
+msgid "Comment added successfully."
+msgstr "نظر با موفقیت افزوده شد"
+msgid "Unable to create your comment."
+msgstr "ایجاد نظر شما امکان پذیر نیست"
+msgid "Due Date"
+msgstr "سر رسید"
+msgid "Invalid date"
+msgstr "تاریخ نامعتبر"
+msgid "Automatic actions"
+msgstr "اعمال خودکار"
+msgid "Your automatic action has been created successfully."
+msgstr "عمل خودکار شما با موفقیت ایجاد شد"
+msgid "Unable to create your automatic action."
+msgstr "ایجاد عمل خودکار شما امکان پذیر نیست."
+msgid "Remove an action"
+msgstr "حذف یک عمل"
+msgid "Unable to remove this action."
+msgstr "حذف این عمل امکان پذیر نیست."
+msgid "Action removed successfully."
+msgstr "عمل با موفقیت حذف شد"
+msgid "Automatic actions for the project \"%s\""
+msgstr "اعمال خودکار برای پروژه \"%s\""
+msgid "Add an action"
+msgstr "یک عمل اضافه کنید"
+msgid "Event name"
+msgstr "نام رویداد"
+msgid "Action"
+msgstr "عمل"
+msgid "Event"
+msgstr "رویداد"
+msgid "When the selected event occurs execute the corresponding action."
+msgstr "وقتی رویداد انتخابی رخ دهد، عمل متناظر با آن را اجرا کن."
+msgid "Next step"
+msgstr "گام بعدی"
+msgid "Define action parameters"
+msgstr "تعریف پارامترهای عمل"
+msgid "Do you really want to remove this action: \"%s\"?"
+msgstr "واقعاً می خواهید این عمل را حذف کنید: \"%s\" ؟"
+msgid "Remove an automatic action"
+msgstr "حذف یک عمل خودکار"
+msgid "Assign the task to a specific user"
+msgstr "تخصیص کار به یک کاربر خاص"
+msgid "Assign the task to the person who does the action"
+msgstr "تخصیص کار به شخصی که عمل را انجام می دهد،"
+msgid "Duplicate the task to another project"
+msgstr "کپی  کار به پروژه ای دیگر"
+msgid "Move a task to another column"
+msgstr "انتقال یک کار به ستونی دیگر"
+msgid "Task modification"
+msgstr "دستکاری کار"
+msgid "Task creation"
+msgstr "ایجاد کار"
+msgid "Closing a task"
+msgstr "بستن یک کار"
+msgid "Assign a color to a specific user"
+msgstr "تخصیص یک رنگ به یک کاربر خاص"
+msgid "Position"
+msgstr "موقعیت"
+msgid "Duplicate to project"
+msgstr "کپی به پروژه ای دیگر"
+msgid "Duplicate"
+msgstr "کپی کردن"
+msgid "Link"
+msgstr "پیوند"
+msgid "Comment updated successfully."
+msgstr "نظر با موفقیت بروز رسانی شد."
+msgid "Unable to update your comment."
+msgstr "بروز رسانی نظر شما امکان پذیر نیست."
+msgid "Remove a comment"
+msgstr "حذف یک نظر"
+msgid "Comment removed successfully."
+msgstr "نظر با موفقیت حذف شد."
+msgid "Unable to remove this comment."
+msgstr "حذف این نظر امکان پذیر نیست."
+msgid "Do you really want to remove this comment?"
+msgstr "واقعاً مایل به حذف این نظر هستید؟"
+msgid "Current password for the user \"%s\""
+msgstr "گذرواژه کنونی برای کاربر \"%s\""
+msgid "The current password is required"
+msgstr "گذرواژه کنونی الزامی است"
+msgid "Wrong password"
+msgstr "گذرواژه اشتباه"
+msgid "Unknown"
+msgstr "ناشناخته"
+msgid "Last logins"
+msgstr "آخرین ورود ها"
+msgid "Login date"
+msgstr "تاریخ ورود"
+msgid "Authentication method"
+msgstr "شیوه تایید هویت"
+msgid "IP address"
+msgstr "آدرس IP"
+msgid "User agent"
+msgstr "واسط کاربری"
+msgid "Persistent connections"
+msgstr "ارتباطات برقرار شده"
+msgid "No session."
+msgstr "نشستی وجود ندارد."
+msgid "Expiration date"
+msgstr "تاریخ انقضاء"
+msgid "Remember Me"
+msgstr "مرا به خاطر بسپار"
+msgid "Creation date"
+msgstr "تاریخ ایجاد"
+msgid "Everybody"
+msgstr "همه"
+msgid "Open"
+msgstr "باز"
+msgid "Closed"
+msgstr "بسته"
+msgid "Search"
+msgstr "جستجو"
+msgid "Nothing found."
+msgstr "چیزی یافت نشد"
+msgid "Due date"
+msgstr "تاریخ سررسید"
+msgid "Description"
+msgstr "شرح"
+msgid "%d comments"
+msgstr "%d نظر"
+msgid "%d comment"
+msgstr "%d نظر"
+msgid "Email address invalid"
+msgstr "آدرس پست الکترونیکی اشتباه"
+msgid "Your external account is not linked anymore to your profile."
+msgstr "حساب خارجی شما دیگر به پروفایل شما پیوند ندارد"
+msgid "Unable to unlink your external account."
+msgstr "قطع پیوند از حساب کاربری شما امکانپذیر نیست"
+msgid "External authentication failed"
+msgstr "تایید هویت خارجی با شکست مواجه شد"
+msgid "Your external account is linked to your profile successfully."
+msgstr "حساب خارجی شما به پروفایل شما با موفقیت پیوند خورد."
+msgid "Email"
+msgstr "پست الکترونیکی"
+msgid "Task removed successfully."
+msgstr "کار با موفقیت حذف شد."
+msgid "Unable to remove this task."
+msgstr "حذف این کار امکانپذیر نیست."
+msgid "Remove a task"
+msgstr "حذف یک کار"
+msgid "Do you really want to remove this task: \"%s\"?"
+msgstr "واقعاً می خواهید کار: \"%s\" را حذف کنید؟"
+msgid "Assign automatically a color based on a category"
+msgstr "اختصاص خودکار یک رنگ بر اساس یک دسته بندی"
+msgid "Assign automatically a category based on a color"
+msgstr "اختصاص خودکار یک دسته بندی بر اساس یک رنگ"
+msgid "Task creation or modification"
+msgstr "ایجاد یا تغییر کار"
+msgid "Category"
+msgstr "دسته بندی"
+msgid "Category:"
+msgstr "دسته بندی:"
+msgid "Categories"
+msgstr "دسته بندی ها"
+msgid "Your category has been created successfully."
+msgstr "دسته بندی شما با موفقیت ایجاد شد."
+msgid "This category has been updated successfully."
+msgstr "دسته بندی با موفقیت بروز رسانی شد."
+msgid "Unable to update this category."
+msgstr "امکان بروز رسانی این دسته بندی وجود ندارد."
+msgid "Remove a category"
+msgstr "حذف یک دسته بندی"
+msgid "Category removed successfully."
+msgstr "دسته بندی با موفقیت حذف شد."
+msgid "Unable to remove this category."
+msgstr "حذف این دسته بندی امکان پذیر نیست."
+msgid "Category modification for the project \"%s\""
+msgstr "تغییر دسته بندی برای پروژه \"%s\""
+msgid "Category Name"
+msgstr "نام دسته بندی"
+msgid "Add a new category"
+msgstr "افزودن یک دسته بندی جدید"
+msgid "Do you really want to remove this category: \"%s\"?"
+msgstr "واقعاً می خواهید دسته بندی \"%s\" را حذف کنید؟"
+msgid "All categories"
+msgstr "همه دسته بندی ها"
+msgid "No category"
+msgstr "بدون دسته بندی"
+msgid "The name is required"
+msgstr "نام الزامی است"
+msgid "Remove a file"
+msgstr "حذف یک فایل"
+msgid "Unable to remove this file."
+msgstr "حذف این فایل امکان پذیر نیست."
+msgid "File removed successfully."
+msgstr "فایل با موفقیت حذف شد."
+msgid "Attach a document"
+msgstr "پیوست یک سند"
+msgid "Do you really want to remove this file: \"%s\"?"
+msgstr "واقعاً از حذف فایل \"%s\" اطمینان دارید؟"
+msgid "Attachments"
+msgstr "پیوست ها"
+msgid "Edit the task"
+msgstr "ویرایش کار"
+msgid "Add a comment"
+msgstr "افزودن یک نظر"
+msgid "Edit a comment"
+msgstr "ویرایش یک نظر"
+msgid "Summary"
+msgstr "خلاصه"
+msgid "Time tracking"
+msgstr "پیگیری زمانی"
+msgid "Estimate:"
+msgstr "تخمین:"
+msgid "Spent:"
+msgstr "صرف شده:"
+msgid "Do you really want to remove this sub-task?"
+msgstr "آیا واقعاً از حذف این کار فرعی اطمینان دارید؟"
+msgid "Remaining:"
+msgstr "باقیمانده:"
+msgid "hours"
+msgstr "ساعت"
+msgid "estimated"
+msgstr "تخمینی"
+msgid "Sub-Tasks"
+msgstr "کارهای فرعی"
+msgid "Add a sub-task"
+msgstr "افزودن یک کار فرعی"
+msgid "Original estimate"
+msgstr "تخمین اصلی"
+msgid "Create another sub-task"
+msgstr "ایجاد یک کار فرعی دیگر"
+msgid "Time spent"
+msgstr "زمان سپری شده"
+msgid "Edit a sub-task"
+msgstr "ویرایش یک کار فرعی"
+msgid "Remove a sub-task"
+msgstr "حذف یک کار فرعی"
+msgid "The time must be a numeric value"
+msgstr "زمان باید بصورت عدد باشد"
+msgid "Todo"
+msgstr "لیست جهت انجام کار"
+msgid "In progress"
+msgstr "در حال انجام"
+msgid "Sub-task removed successfully."
+msgstr "کار فرعی با موفقیت حذف شد."
+msgid "Unable to remove this sub-task."
+msgstr "حذف این کار فرعی امکان پذیر نیست."
+msgid "Sub-task updated successfully."
+msgstr "کار فرعی با موفقیت بروز رسانی شد."
+msgid "Unable to update your sub-task."
+msgstr "بروز رسانی کار فرعی شما امکان پذیر نیست."
+msgid "Unable to create your sub-task."
+msgstr "ایجاد کار فرعی شما امکان پذیر نیست."
+msgid "Maximum size: "
+msgstr "بیشترین اندازه: "
+msgid "Display another project"
+msgstr "نمایش پروژه دیگر"
+msgid "Created by %s"
+msgstr "ایجاد شده توسط %s"
+msgid "Tasks Export"
+msgstr "برون ریزی کار ها"
+msgid "Start Date"
+msgstr "تاریخ شروع"
+msgid "Execute"
+msgstr "اجرا"
+msgid "Task Id"
+msgstr "شناسه کار"
+msgid "Creator"
+msgstr "ایجاد کننده"
+msgid "Modification date"
+msgstr "تاریخ تغییر"
+msgid "Completion date"
+msgstr "تاریخ تکمیل"
+msgid "Clone"
+msgstr "تکثیر"
+msgid "Project cloned successfully."
+msgstr "پروژه با موفقیت تکثیر شد."
+msgid "Unable to clone this project."
+msgstr "تکثیر این پروژه امکان پذیر نیست."
+msgid "Enable email notifications"
+msgstr "فعال کردن آگاه سازی از طریق پست الکترونیکی"
+msgid "Task position:"
+msgstr "جایگاه کار:"
+msgid "The task #%d has been opened."
+msgstr "کار #%d باز شد."
+msgid "The task #%d has been closed."
+msgstr "کار #%d بسته شد."
+msgid "Sub-task updated"
+msgstr "کار فرعی بروز رسانی شد"
+msgid "Title:"
+msgstr "عنوان:"
+msgid "Status:"
+msgstr "وضعیت:"
+msgid "Assignee:"
+msgstr "شخص محول شده:"
+msgid "Time tracking:"
+msgstr "رهگیری زمان:"
+msgid "New sub-task"
+msgstr "کار فرعی جدید"
+msgid "New attachment added \"%s\""
+msgstr "پیوست جدید افزوده شده: \"%s\""
+msgid "New comment posted by %s"
+msgstr "نظر جدید توسط %s ارسال شد."
+msgid "New comment"
+msgstr "نظر جدید"
+msgid "Comment updated"
+msgstr "نظر بروز رسانی شد"
+msgid "New subtask"
+msgstr "کار فرعی جدید"
+msgid "I only want to receive notifications for these projects:"
+msgstr "می خواهم آگاه سازی ها را فقط برای این پروژه ها دریافت کنم:"
+msgid "view the task on Kanboard"
+msgstr "نمایش کار در کن برد"
+msgid "Public access"
+msgstr "دسترسی عمومی"
+msgid "Disable public access"
+msgstr "غیر فعال کردن دسترسی عمومی"
+msgid "Enable public access"
+msgstr "فعال کردن دسترسی عمومی"
+msgid "Public access disabled"
+msgstr "دسترسی عمومی غیر فعال شد"
+msgid "Move the task to another project"
+msgstr "انتقال کار به پروژه ای دیگر"
+msgid "Move to project"
+msgstr "انتقال به پروژه ای دیگر"
+msgid "Do you really want to duplicate this task?"
+msgstr "واقعاً می خواهید این کار را کپی کنید؟"
+msgid "Duplicate a task"
+msgstr "کپی یک کار"
+msgid "External accounts"
+msgstr "حساب های خارجی"
+msgid "Account type"
+msgstr "نوع حساب"
+msgid "Local"
+msgstr "محلی"
+msgid "Remote"
+msgstr "از راه دور"
+msgid "Enabled"
+msgstr "فعال"
+msgid "Disabled"
+msgstr "غیر فعال"
+msgid "Login:"
+msgstr "ورود:"
+msgid "Full Name:"
+msgstr "نام کامل:"
+msgid "Email:"
+msgstr "پست الکترونیکی:"
+msgid "Notifications:"
+msgstr "آگاه سازی ها:"
+msgid "Notifications"
+msgstr "آگاه سازی ها"
+msgid "Account type:"
+msgstr "نوع حساب:"
+msgid "Edit profile"
+msgstr "ویرایش پروفایل"
+msgid "Change password"
+msgstr "تغییر گذرواژه"
+msgid "Password modification"
+msgstr "تغییر گذرواژه"
+msgid "External authentications"
+msgstr "تایید هویت خارجی"
+msgid "Never connected."
+msgstr "هرگز متصل نشده."
+msgid "No external authentication enabled."
+msgstr "هیچ گونه تایید هویت خارجی فعال نشده."
+msgid "Password modified successfully."
+msgstr "گذرواژه با موفقیت تغییر کرد."
+msgid "Unable to change the password."
+msgstr "تغییر گذرواژه امکان پذیر نیست."
+msgid "Change category"
+msgstr "تغییر دسته بندی"
+msgid "%s updated the task %s"
+msgstr "کاربر %s کار %s را بروز رسانی کرد."
+msgid "%s opened the task %s"
+msgstr "کاربر %s کار %s را باز کرد."
+msgid "%s moved the task %s to the position #%d in the column \"%s\""
+msgstr "کاربر %s کار %s را به موقعیت #%d در ستون \"%s\" منتقل کرد."
+msgid "%s moved the task %s to the column \"%s\""
+msgstr "کاربر %s کار %s را به ستون \"%s\" منتقل کرد."
+msgid "%s created the task %s"
+msgstr "کاربر %s کار %s را ایجاد کرد."
+msgid "%s closed the task %s"
+msgstr "کاربر %s کار %s را بست."
+msgid "%s created a subtask for the task %s"
+msgstr "کاربر %s یک کار فرعی برای کار %s ایجاد کرد."
+msgid "%s updated a subtask for the task %s"
+msgstr "کاربر %s یک کار فرعی برای کار %s بروز رسانی کرد."
+msgid "Assigned to %s with an estimate of %s/%sh"
+msgstr "محول شده به %s با تخمین %s/%sh"
+msgid "Not assigned, estimate of %sh"
+msgstr "محول نشده، تخمین %sh"
+msgid "%s updated a comment on the task %s"
+msgstr ""
+msgid "%s commented the task %s"
+msgstr ""
+msgid "%s's activity"
+msgstr "فعالیت %s"
+msgid "RSS feed"
+msgstr "خوراک RSS"
+msgid "%s updated a comment on the task #%d"
+msgstr "کاربر %s یک نظر را در کار #%d بروز رسانی کرد."
+msgid "%s commented on the task #%d"
+msgstr "کاربر %s در کار #%d نظر گذاشت."
+msgid "%s updated a subtask for the task #%d"
+msgstr "کاربر %s یک کار فرعی برای کار #%d را بروز رسانی کرد."
+msgid "%s created a subtask for the task #%d"
+msgstr "کاربر %s یک کار فرعی برای کار #%d ایجاد کرد."
+msgid "%s updated the task #%d"
+msgstr "کاربر %s کار #%d را بروز رسانی کرد."
+msgid "%s created the task #%d"
+msgstr "کاربر %s کار #%d را ایجاد کرد."
+msgid "%s closed the task #%d"
+msgstr "کاربر %s کار #%d را بست."
+msgid "%s opened the task #%d"
+msgstr "کاربر %s کار #%d را باز کرد."
+msgid "Activity"
+msgstr "فعالیت"
+msgid "Default values are \"%s\""
+msgstr "مقادیر پیشفرض این ها هستند: \"%s\""
+msgid "Default columns for new projects (Comma-separated)"
+msgstr "ستون های پیشفرض برای پروژه جدید - با کاما از هم جدا کنید"
+msgid "Task assignee change"
+msgstr "تغییر شخص محول شده برای کار"
+msgid "%s changed the assignee of the task #%d to %s"
+msgstr "کاربر %s شخص محول شده برای کار #%d را به %s تغییر داد."
+msgid "%s changed the assignee of the task %s to %s"
+msgstr "کاربر %s شخص محول شده برای کار %s را به %s تغییر داد."
+msgid "New password for the user \"%s\""
+msgstr "گذرواژه جدید برای کاربر \"%s\""
+msgid "Choose an event"
+msgstr "یک رویداد را انتخاب کنید"
+msgid "Create a task from an external provider"
+msgstr "ایجاد یک کار از یک فراهم کننده خارجی"
+msgid "Change the assignee based on an external username"
+msgstr "تغییر شخص محول شده بر اساس یک نام کاربری خارجی"
+msgid "Change the category based on an external label"
+msgstr "تغییر دسته بندی بر اساس یک برچسب لیبل خارجی"
+msgid "Reference"
+msgstr "مرجع"
+msgid "Label"
+msgstr "برچسب لیبل"
+msgid "Database"
+msgstr "پایگاه داده"
+msgid "About"
+msgstr "درباره"
+msgid "Database driver:"
+msgstr "راه انداز پایگاه داده:"
+msgid "Board settings"
+msgstr "تنظیمات برد"
+msgid "Webhook settings"
+msgstr "تنظیمات Webhook"
+msgid "Reset token"
+msgstr "بازنشانی توکن"
+msgid "API endpoint:"
+msgstr "نقطه پایانی API:"
+msgid "Refresh interval for personal board"
+msgstr "فاصله زمانی تازه سازی برد خصوصی"
+msgid "Refresh interval for public board"
+msgstr "فاصله زمانی تازه سازی برد عمومی"
+msgid "Task highlight period"
+msgstr "دوره اوج کار"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "دوره زمانی که در آن یک کار بعنوان تغییر یافته به تازگی قلمداد می شود - دوره را به ثانیه وارد کنید، برای غیر فعال کردن 0 وارد کنید، بصورت پیشفرض دو روز است."
+msgid "Frequency in second (60 seconds by default)"
+msgstr "تواتر به ثانیه، بصورت پیشفرض 60 ثانیه است."
+msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
+msgstr "تواتر به ثانیه، 0 برای غیر فعال کردن، بصورت پیشفرض 10 ثانیه است."
+msgid "Application URL"
+msgstr "آدرس اپلیکیشن"
+msgid "Token regenerated."
+msgstr "توکن بازتولید شد."
+msgid "Date format"
+msgstr "فرمت تاریخ"
+msgid "ISO format is always accepted, example: \"%s\" and \"%s\""
+msgstr "فرمت ایزو همواره مورد قبول است، مثال: \"%s\" و \"%s\""
+msgid "New personal project"
+msgstr "پروژه خصوصی جدید"
+msgid "This project is personal"
+msgstr "این پروژه خصوصی است"
+msgid "Add"
+msgstr "افزودن"
+msgid "Start date"
+msgstr "تاریخ شروع"
+msgid "Time estimated"
+msgstr "زمان تخمینی"
+msgid "There is nothing assigned to you."
+msgstr "هیچ چیزی به شما محول نشده است."
+msgid "My tasks"
+msgstr "کارهای من"
+msgid "Activity stream"
+msgstr "جریان فعالیت"
+msgid "Dashboard"
+msgstr "میز کار"
+msgid "Confirmation"
+msgstr "تائیدیه"
+msgid "Webhooks"
+msgstr "Webhook ها"
+msgid "API"
+msgstr "واسط API"
+msgid "Create a comment from an external provider"
+msgstr "ایجاد یک نظر از فراهم کننده خارجی"
+msgid "Project management"
+msgstr "مدیریت پروژه"
+msgid "Columns"
+msgstr "ستون ها"
+msgid "Task"
+msgstr "کار"
+msgid "Percentage"
+msgstr "درصد"
+msgid "Number of tasks"
+msgstr "تعداد کارها"
+msgid "Task distribution"
+msgstr "توزیع کار"
+msgid "Analytics"
+msgstr "آمار"
+msgid "Subtask"
+msgstr "کار فرعی"
+msgid "User repartition"
+msgstr "توزیع مجدد کاربر"
+msgid "Clone this project"
+msgstr "کپی این پروژه"
+msgid "Column removed successfully."
+msgstr "ستون با موفقیت حذف شد"
+msgid "Not enough data to show the graph."
+msgstr "داده کافی برای نشان دادن گراف وجود ندارد."
+msgid "Previous"
+msgstr "قبلی"
+msgid "The id must be an integer"
+msgstr "شناسه باید از نوع عددی باشد"
+msgid "The project id must be an integer"
+msgstr "شناسه پروژه باید از نوع عددی باشد"
+msgid "The status must be an integer"
+msgstr "وضعیت باید از نوع عددی باشد"
+msgid "The subtask id is required"
+msgstr "شناسه کار فرعی الزامی است"
+msgid "The subtask id must be an integer"
+msgstr "شناسه کار فرعی باید از نوع عددی باشد"
+msgid "The task id is required"
+msgstr "شناسه کار الزامی است"
+msgid "The task id must be an integer"
+msgstr "شناسه کار باید یک عدد باشد"
+msgid "The user id must be an integer"
+msgstr "شناسه کاربر باید از یک عدد باشد"
+msgid "This value is required"
+msgstr "این مقدار الزامی است"
+msgid "This value must be numeric"
+msgstr "این مقدار باید عددی باشد"
+msgid "Unable to create this task."
+msgstr "ایجاد این کار امکان پذیر نیست."
+msgid "Cumulative flow diagram"
+msgstr "نمودار جریان تجمعی"
+msgid "Daily project summary"
+msgstr "خلاصه روزانه پروژه"
+msgid "Daily project summary export"
+msgstr "برون ریزی خلاصه روزانه پروژه"
+msgid "Exports"
+msgstr "برون ریزی ها"
+msgid "This export contains the number of tasks per column grouped per day."
+msgstr "این برون ریزی شامل تعداد کار در ستون است که بر اساس روز دسته بندی شده"
+msgid "Active swimlanes"
+msgstr "مسیرهای شنای فعال"
+msgid "Add a new swimlane"
+msgstr "افزودن یک مسیر شنا"
+msgid "Default swimlane"
+msgstr "مسیر شنای پیشفرض"
+msgid "Do you really want to remove this swimlane: \"%s\"?"
+msgstr "واقعاً می خواهید این مسیر شنا را حذف کنید : \"%s\" ؟"
+msgid "Inactive swimlanes"
+msgstr "مسیرهای شنای غیر فعال"
+msgid "Remove a swimlane"
+msgstr "حذف یک مسیر شنا"
+msgid "Swimlane modification for the project \"%s\""
+msgstr "تغییر مسیر شنا برای پروژه \"%s\""
+msgid "Swimlane removed successfully."
+msgstr "مسیر شنا با موفقیت حذف شد."
+msgid "Swimlanes"
+msgstr "مسیرهای شنا"
+msgid "Swimlane updated successfully."
+msgstr "مسیر شنا با موفقیت بروز رسانی شد."
+msgid "Unable to remove this swimlane."
+msgstr "حذف این مسیر شنا امکان پذیر نیست."
+msgid "Unable to update this swimlane."
+msgstr "بروز رسانی این مسیر شنا امکان پذیر نیست."
+msgid "Your swimlane has been created successfully."
+msgstr "مسیر شنای شما با موفقیت ایجاد شد."
+msgid "Example: \"Bug, Feature Request, Improvement\""
+msgstr "مثال: "باگ, درخواست ویژگی, بهبود""
+msgid "Default categories for new projects (Comma-separated)"
+msgstr "دسته بندی ها برای پروژه جدید، با کاما از هم جدا کنید"
+msgid "Integrations"
+msgstr "تلفیق ها"
+msgid "Integration with third-party services"
+msgstr "تلفیق با خدمات شخص ثالث"
+msgid "Subtask Id"
+msgstr "شناسه کار فرعی"
+msgid "Subtasks"
+msgstr "کارهای فرعی"
+msgid "Subtasks Export"
+msgstr "برون ریزی کارهای فرعی"
+msgid "Task Title"
+msgstr "عنوان کار"
+msgid "Untitled"
+msgstr "بدون عنوان"
+msgid "Application default"
+msgstr "پیشفرض اپلیکیشن"
+msgid "Language:"
+msgstr "زبان:"
+msgid "Timezone:"
+msgstr "ناحیه زمانی:"
+msgid "All columns"
+msgstr "همه ستون ها"
+msgid "Next"
+msgstr "بعدی"
+msgid "#%d"
+msgstr ""
+msgid "All swimlanes"
+msgstr "همه مسیرهای شنا"
+msgid "All colors"
+msgstr "تمامی رنگ ها"
+msgid "Moved to column %s"
+msgstr "منتقل شده به ستون %s"
+msgid "User dashboard"
+msgstr "میز کارِ کاربر"
+msgid "Allow only one subtask in progress at the same time for a user"
+msgstr "اجازه فقط یک کار فرعی در حال انجام در یک زمان برای یک کاربر"
+msgid "Edit column \"%s\""
+msgstr "ویرایش ستون \"%s\""
+msgid "Select the new status of the subtask: \"%s\""
+msgstr "وضعیت جدید برای کار فرعی \"%s\" را انتخاب کنید"
+msgid "Subtask timesheet"
+msgstr "برگه زمانبندی کار فرعی"
+msgid "There is nothing to show."
+msgstr "چیزی برای نمایش وجود ندارد."
+msgid "Time Tracking"
+msgstr "پیگیری زمان"
+msgid "You already have one subtask in progress"
+msgstr "شما در حال حاضر یک کار فرعی در حال انجام دارید"
+msgid "Which parts of the project do you want to duplicate?"
+msgstr "کدام بخش از پروژه را می خواهید کپی کنید؟"
+msgid "Disallow login form"
+msgstr "غیرمجاز کردن فرم ورود"
+msgid "Start"
+msgstr "شروع"
+msgid "End"
+msgstr "پایان"
+msgid "Task age in days"
+msgstr "عمر کار به روز"
+msgid "Days in this column"
+msgstr "روزها در این ستون"
+msgid "%dd"
+msgstr "%dروز"
+msgid "Add a new link"
+msgstr "افزودن پیوند جدید"
+msgid "Do you really want to remove this link: \"%s\"?"
+msgstr "واقعاً می خواهید این پیوند را حذف کنید؟ : \"%s\""
+msgid "Do you really want to remove this link with task #%d?"
+msgstr "واقعاً می خواهید این پیوند با کار #%d را حذف کنید؟"
+msgid "Field required"
+msgstr "فیلد اجباری"
+msgid "Link added successfully."
+msgstr "پیوند با موفقیت افزوده شد"
+msgid "Link updated successfully."
+msgstr "پیوند با موفقیت بروز شد."
+msgid "Link removed successfully."
+msgstr "پیوند با موفقیت حذف شد."
+msgid "Link labels"
+msgstr "برچسب های پیوند"
+msgid "Link modification"
+msgstr "تغییرات پیوند"
+msgid "Opposite label"
+msgstr "برچسب مخالف"
+msgid "Remove a link"
+msgstr "حذف یک برچسب"
+msgid "The labels must be different"
+msgstr "برچسب ها باید متفاوت باشند"
+msgid "There is no link."
+msgstr "هیچ پیوندی نیست."
+msgid "This label must be unique"
+msgstr "این برچسب باید یکتا باشد"
+msgid "Unable to create your link."
+msgstr "ایجاد پیوند شما امکان پذیر نیست."
+msgid "Unable to update your link."
+msgstr "بروز رسانی پیوند شما امکان پذیر نیست."
+msgid "Unable to remove this link."
+msgstr "حذف این پیوند امکان پذیر نیست."
+msgid "relates to"
+msgstr "مرتبط است با"
+msgid "blocks"
+msgstr "مسدود می کند"
+msgid "is blocked by"
+msgstr "مسدود شده توسط"
+msgid "duplicates"
+msgstr "کپی است"
+msgid "is duplicated by"
+msgstr "کپی شده توسط"
+msgid "is a child of"
+msgstr "فرزندی است از"
+msgid "is a parent of"
+msgstr "پدری است برای"
+msgid "targets milestone"
+msgstr "نقطه عطف را مورد هدف قرار می دهد"
+msgid "is a milestone of"
+msgstr "نقطه عطفی است از"
+msgid "fixes"
+msgstr "مشکل را رفع می کند"
+msgid "is fixed by"
+msgstr "مشکل حل شده توسط"
+msgid "This task"
+msgstr "این کار"
+msgid "<1h"
+msgstr "زیر یکساعت"
+msgid "%dh"
+msgstr "%d ساعت"
+msgid "Expand tasks"
+msgstr "گستردن کارها"
+msgid "Collapse tasks"
+msgstr "جمع کردن کارها"
+msgid "Expand/collapse tasks"
+msgstr "جمع/گستردن کارها"
+msgid "Close dialog box"
+msgstr "بستن کادر محاوره"
+msgid "Submit a form"
+msgstr "ارسال یک فرم"
+msgid "Board view"
+msgstr "نمای برد"
+msgid "Keyboard shortcuts"
+msgstr "میانبرهای صفحه کلید"
+msgid "Open board switcher"
+msgstr "باز کردن سویچر برد"
+msgid "Application"
+msgstr "اپلیکیشن"
+msgid "Compact view"
+msgstr "نمای جمع و جور"
+msgid "Horizontal scrolling"
+msgstr "پیمایش افقی"
+msgid "Compact/wide view"
+msgstr "نمای جمع و جور/عریض"
+msgid "Currency"
+msgstr "واحد پول"
+msgid "Personal project"
+msgstr "پروژه خصوصی"
+msgid "AUD - Australian Dollar"
+msgstr "AUD - دلار استرالیا"
+msgid "CAD - Canadian Dollar"
+msgstr "CAD - دلار کانادا"
+msgid "CHF - Swiss Francs"
+msgstr "CHF - فرانک سویس"
+msgid "Custom Stylesheet"
+msgstr "Stylesheet سفارشی"
+msgid "EUR - Euro"
+msgstr "EUR - یورو اروپا"
+msgid "GBP - British Pound"
+msgstr "GBP - پوند انگلیس"
+msgid "INR - Indian Rupee"
+msgstr "INR - روپیه هند"
+msgid "JPY - Japanese Yen"
+msgstr "JPY - ین ژاپن"
+msgid "NZD - New Zealand Dollar"
+msgstr "NZD - دلار نیوزلند"
+msgid "RSD - Serbian dinar"
+msgstr "RSD - دینار صرب"
+msgid "CNY - Chinese Yuan"
+msgstr "CNY - یوآن چین"
+msgid "USD - US Dollar"
+msgstr "USD - دلار آمریکا"
+msgid "VES - Venezuelan Bolívar"
+msgstr "VES - بولیوار ونزوئلا"
+msgid "Destination column"
+msgstr "ستون مقصد"
+msgid "Move the task to another column when assigned to a user"
+msgstr "کار را وقتی به یک کاربر محول شد به ستونی دیگر منتقل کن"
+msgid "Move the task to another column when assignee is cleared"
+msgstr "وقتی شخص محول شده حذف شد، کار را به ستونی دیگر منتقل کن"
+msgid "Source column"
+msgstr "ستون مبدا"
+msgid "Transitions"
+msgstr "گذارها"
+msgid "Executer"
+msgstr "مجری"
+msgid "Time spent in the column"
+msgstr "زمان صرف شده در ستون"
+msgid "Task transitions"
+msgstr "گذارهای کار"
+msgid "Task transitions export"
+msgstr "برون ریزی گذارهای کار"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "این گزارش حاوی همه انتقال های ستون برای هر کار با تاریخ، کاربر و زمان صرف شده برای هر گذار است."
+msgid "Currency rates"
+msgstr "نرخ های واحد پول"
+msgid "Rate"
+msgstr "نرخ"
+msgid "Change reference currency"
+msgstr "تغییر مرجع واحد پول"
+msgid "Reference currency"
+msgstr "مرجع واحد پول"
+msgid "The currency rate has been added successfully."
+msgstr "نرخ واحد پول با موفقیت افزوده شد."
+msgid "Unable to add this currency rate."
+msgstr "افزودن این نرخ واحد پول امکان پذیر نیست."
+msgid "Webhook URL"
+msgstr "آدرس Webhook"
+msgid "%s removed the assignee of the task %s"
+msgstr "کاربر %s شخص محول شده برای کار %s را حذف کرد."
+msgid "Information"
+msgstr "اطلاعات"
+msgid "Check two factor authentication code"
+msgstr "بررسی کد احراز هویت دو مرحله ای"
+msgid "The two factor authentication code is not valid."
+msgstr "کد احراز هویت دو مرحله ای معتبر نیست."
+msgid "The two factor authentication code is valid."
+msgstr "کد احراز دو مرحله ای معتبر است."
+msgid "Code"
+msgstr "کد"
+msgid "Two factor authentication"
+msgstr "احراز هویت دو مرحله ای"
+msgid "This QR code contains the key URI: "
+msgstr "این کد QR حاوی کلید URI است: "
+msgid "Check my code"
+msgstr "کد مرا بررسی کن"
+msgid "Secret key: "
+msgstr "کلید سرّی"
+msgid "Test your device"
+msgstr "دستگاه خود را آزمایش کنید"
+msgid "Assign a color when the task is moved to a specific column"
+msgstr "به هنگام انتقال کار به یک ستون خاص، یک رنگ اختصاص یابد"
+msgid "%s via Kanboard"
+msgstr "%s از طریق کان بُرد"
+msgid "Burndown chart"
+msgstr "نمودار کار باقی مانده"
+msgid "This chart show the task complexity over the time (Work Remaining)."
+msgstr "این نمودار پیچیدگی کار طی زمان را نشان می دهد (کار باقیمانده)"
+msgid "Screenshot taken %s"
+msgstr "اسکرین شات گرفته شد %s"
+msgid "Add a screenshot"
+msgstr "افزودن اسکرین شات"
+msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
+msgstr "یک اسکرین شات بگیرید و با زدن دکمه های کنترل+وی یا کامند+وی اینجا بچسبانید."
+msgid "Screenshot uploaded successfully."
+msgstr "اسکرین شات با موفقیت بارگذاری شد."
+msgid "SEK - Swedish Krona"
+msgstr "SEK - کرون سوئد"
+msgid "Identifier"
+msgstr "شناسه"
+msgid "Disable two factor authentication"
+msgstr "غیرفعال کردن تایید هویت دو مرحله ای"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "آیا واقعاً می خواهید تایید هویت دو مرحله ای برای کاربر \"%s\" را غیر فعال کنید؟"
+msgid "Edit link"
+msgstr "ویرایش پیوند"
+msgid "Start to type task title..."
+msgstr "عنوان کار را بنویسد..."
+msgid "A task cannot be linked to itself"
+msgstr "یک کار نمی تواند به خودش پیوند داده شود."
+msgid "The exact same link already exists"
+msgstr "همین لینک اکنون موجود است"
+msgid "Recurrent task is scheduled to be generated"
+msgstr "کار متناوب برنامه ریزی شده تا تولید شود"
+msgid "Score"
+msgstr "امتیاز"
+msgid "The identifier must be unique"
+msgstr "شناسه باید یکتا باشد"
+msgid "This linked task id doesn't exists"
+msgstr "این کار پیوند داده شده وجود ندارد"
+msgid "This value must be alphanumeric"
+msgstr "این مقدار باید الفبایی باشد"
+msgid "Edit recurrence"
+msgstr "ویرایش تناوب"
+msgid "Generate recurrent task"
+msgstr "تولید کار متناوب"
+msgid "Trigger to generate recurrent task"
+msgstr "تنظیم برای تولید کار متناوب"
+msgid "Factor to calculate new due date"
+msgstr "فاکتور محاسبه تاریخ سررسید جدید"
+msgid "Timeframe to calculate new due date"
+msgstr "دوره زمانی برای محاسبه تاریخ سررسید جدید"
+msgid "Base date to calculate new due date"
+msgstr "تاریخ پایه برای محاسبه تاریخ سررسید جدید"
+msgid "Action date"
+msgstr "تاریخ عمل"
+msgid "Base date to calculate new due date: "
+msgstr "تاریخ پایه برای محاسبه تاریخ سررسید جدید: "
+msgid "This task has created this child task: "
+msgstr "این کار این کار فرزند را ایجاد کرده است:"
+msgid "Day(s)"
+msgstr "روز(ها)"
+msgid "Existing due date"
+msgstr "تاریخ سررسید موجود"
+msgid "Factor to calculate new due date: "
+msgstr "فاکتور محاسبه تاریخ سررسید جدید: "
+msgid "Month(s)"
+msgstr "ماه(ها)"
+msgid "This task has been created by: "
+msgstr "این کار ایجاد شده توسط: "
+msgid "Recurrent task has been generated:"
+msgstr "کار متناوب تولید شد: "
+msgid "Timeframe to calculate new due date: "
+msgstr "دوره زمانی برای محاسبه تاریخ سررسید جدید: "
+msgid "Trigger to generate recurrent task: "
+msgstr "تنظیم برای تولید کار متناوب: "
+msgid "When task is closed"
+msgstr "وقتی کار بسته شد"
+msgid "When task is moved from first column"
+msgstr "وقتی کار از ستون اول منتقل شد"
+msgid "When task is moved to last column"
+msgstr "وقتی کار به ستون آخر منتقل شد"
+msgid "Year(s)"
+msgstr "سال(ها)"
+msgid "Project settings"
+msgstr "تنظیمات پروژه"
+msgid "Automatically update the start date"
+msgstr "بصورت خودکار تاریخ شروع بروز رسانی شود"
+msgid "iCal feed"
+msgstr "خوراک iCal"
+msgid "Preferences"
+msgstr "اولویت ها"
+msgid "Security"
+msgstr "امنیت"
+msgid "Two factor authentication disabled"
+msgstr "احراز هویت دو مرحله ای غیر فعال شده است"
+msgid "Two factor authentication enabled"
+msgstr "احراز هویت دو مرحله ای فعال است"
+msgid "Unable to update this user."
+msgstr "بروز رسانی این کاربر امکان پذیر نیست."
+msgid "There is no user management for personal projects."
+msgstr "مدیریت کاربر برای پروژه های خصوصی وجود ندارد."
+msgid "User that will receive the email"
+msgstr "کاربری که پست الکترونیکی را دریافت خواهد کرد"
+msgid "Email subject"
+msgstr "موضوع پست الکترونیکی"
+msgid "Date"
+msgstr "تاریخ"
+msgid "Add a comment log when moving the task between columns"
+msgstr "افزودن یک لاگ نظر وقتی که کاری از یک ستون به ستون دیگر منتقل می شود"
+msgid "Move the task to another column when the category is changed"
+msgstr "وقتی دسته بندی تغییر کرد، کار را به ستونی دیگر منتقل کن"
+msgid "Send a task by email to someone"
+msgstr "ارسال کار توسط پست الکترونیکی به یک شخص"
+msgid "Reopen a task"
+msgstr "بازگشایی مجدد یک کار"
+msgid "Notification"
+msgstr "آگاه سازی"
+msgid "%s moved the task #%d to the first swimlane"
+msgstr "کاربر %s کار #%d را به مسیر شنای اول منتقل کرد"
+msgid "Swimlane"
+msgstr "مسیر شنا"
+msgid "%s moved the task %s to the first swimlane"
+msgstr "کاربر %s کار %s را به مسیر شنای اول منتقل کرد"
+msgid "%s moved the task %s to the swimlane \"%s\""
+msgstr "کاربر %s کار %s را به مسیر شنای \"%s\" منتقل کرد"
+msgid "This report contains all subtasks information for the given date range."
+msgstr "این گزارش حاوی همه اطلاعات کارهای فرعی برای بازه زمانی داده شده است."
+msgid "This report contains all tasks information for the given date range."
+msgstr "این گزارش حاوی همه اطلاعات کارها برای بازه زمانی داده شده است."
+msgid "Project activities for %s"
+msgstr "فعالیت های پروژه برای %s"
+msgid "view the board on Kanboard"
+msgstr "نمایش برد در کان بُرد"
+msgid "The task has been moved to the first swimlane"
+msgstr "کار به مسیر شنای اول منتقل شد"
+msgid "The task has been moved to another swimlane:"
+msgstr "کار به مسیر شنای دیگر منتقل شد:"
+msgid "New title: %s"
+msgstr "عنوان جدید: %s"
+msgid "The task is not assigned anymore"
+msgstr "کار به هیچ کسی محول نشده"
+msgid "New assignee: %s"
+msgstr "شخص محول شده جدید: %s"
+msgid "There is no category now"
+msgstr "الان هیچگونه دسته بندی وجود ندارد"
+msgid "New category: %s"
+msgstr "دسته بندی جدید: %s"
+msgid "New color: %s"
+msgstr "رنگ جدید: %s"
+msgid "New complexity: %d"
+msgstr "پیچیدگی جدید: %d"
+msgid "The due date has been removed"
+msgstr "تاریخ سررسید حذف شد"
+msgid "There is no description anymore"
+msgstr "دیگر شرحی وجود ندارد"
+msgid "Recurrence settings has been modified"
+msgstr "تکرار تنظیمات اصلاح شد"
+msgid "Time spent changed: %sh"
+msgstr "زمان صرف شده تغییر کرد: %sh"
+msgid "Time estimated changed: %sh"
+msgstr "زمان تخمینی تغییر کرد: %sh"
+msgid "The field \"%s\" has been updated"
+msgstr "فیلد \"%s\" بروز رسانی شد"
+msgid "The description has been modified:"
+msgstr "شرح تغییر کرد:"
+msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
+msgstr "واقعاً می خواهید کار \"%s\" و همچنین کارهای فرعی آن را ببندید؟"
+msgid "I want to receive notifications for:"
+msgstr "می خواهم آگاه سازی ها را برای این موارد دریافت کنم:"
+msgid "All tasks"
+msgstr "تمامی کارها"
+msgid "Only for tasks assigned to me"
+msgstr "فقط برای کارهایی که به من محول شده"
+msgid "Only for tasks created by me"
+msgstr "فقط برای کارهایی که توسط من ایجاد شده"
+msgid "Only for tasks created by me and tasks assigned to me"
+msgstr "فقط برای کارهایی که توسط من ایجاد شده و کارهایی که به من محول شده"
+msgid "%%Y-%%m-%%d"
+msgstr ""
+msgid "Total for all columns"
+msgstr "جمع برای تمامی ستون ها"
+msgid "You need at least 2 days of data to show the chart."
+msgstr "برای نمایش نمودار شما نیاز به حداقل 2 روز داده دارید."
+msgid "<15m"
+msgstr "زیر یک ربع"
+msgid "<30m"
+msgstr "زیر نیم ساعت"
+msgid "Stop timer"
+msgstr "توقف زمانسنج"
+msgid "Start timer"
+msgstr "شروع زمانسنج"
+msgid "My activity stream"
+msgstr "جریان فعالیت من"
+msgid "Search tasks"
+msgstr "جستجوی کارها"
+msgid "Reset filters"
+msgstr "بازنشانی فیلترها"
+msgid "My tasks due tomorrow"
+msgstr "کارهای من طی فردا"
+msgid "Tasks due today"
+msgstr "کارها طی امروز"
+msgid "Tasks due tomorrow"
+msgstr "کارها طی فردا"
+msgid "Tasks due yesterday"
+msgstr "کارها طی دیروز"
+msgid "Closed tasks"
+msgstr "کارهای بسته شده"
+msgid "Open tasks"
+msgstr "کارهای باز"
+msgid "Not assigned"
+msgstr "محول نـشده"
+msgid "View advanced search syntax"
+msgstr "نمایش دستور زبان جستجوی پیشرفته"
+msgid "Overview"
+msgstr "بررسی اجمالی"
+msgid "Board/Calendar/List view"
+msgstr "نمای برد/تقویم/لیست"
+msgid "Switch to the board view"
+msgstr "تغییر به نمای برد"
+msgid "Switch to the list view"
+msgstr "تغییر به نمای لیست"
+msgid "Go to the search/filter box"
+msgstr "برو به جعبه جستجو/فیلتر"
+msgid "There is no activity yet."
+msgstr "هنوز فعالیتی وجود ندارد."
+msgid "No tasks found."
+msgstr "کاری پیدا نشد."
+msgid "Keyboard shortcut: \"%s\""
+msgstr "میانبر صفحه کلید: \"%s\""
+msgid "List"
+msgstr "لیست"
+msgid "Filter"
+msgstr "فیلتر"
+msgid "Advanced search"
+msgstr "جستجوی پیشرفته"
+msgid "Example of query: "
+msgstr "مثال پرس و جو: "
+msgid "Search by project: "
+msgstr "جستجو بر اساس پروژه: "
+msgid "Search by column: "
+msgstr "جستجو بر اساس ستون: "
+msgid "Search by assignee: "
+msgstr "جستجو بر اساس شخص محول شده: "
+msgid "Search by color: "
+msgstr "جستجو بر اساس رنگ: "
+msgid "Search by category: "
+msgstr "جستجو بر اساس دسته بندی: "
+msgid "Search by description: "
+msgstr "جستجو بر اساس شرح: "
+msgid "Search by due date: "
+msgstr "جستجو بر اساس تاریخ سررسید: "
+msgid "Average time spent in each column"
+msgstr "زمان صرف شده میانگین در هر ستون"
+msgid "Average time spent"
+msgstr "میانگین زمان صرف شده"
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "این نمودار زمان صرف شده میانگین در هر ستون برای %d کار آخر را نشان می دهد."
+msgid "Average Lead and Cycle time"
+msgstr "میانگین زمان Lead و Cycle"
+msgid "Average lead time: "
+msgstr "میانگین lead time:&#x202B; "
+msgid "Average cycle time: "
+msgstr "میانگین cycle time:&#x202B; "
+msgid "Cycle Time"
+msgstr "Cycle Time&#x202B;"
+msgid "Lead Time"
+msgstr "Lead Time&#x202B;"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "این نمودار میانگین زمان Lead و Cycle را برای %d کار آخر طی زمان را نشان می دهد."
+msgid "Average time into each column"
+msgstr "میانگین زمانی برای هر ستون"
+msgid "Lead and cycle time"
+msgstr "زمان Lead و Cycle"
+msgid "Lead time: "
+msgstr "Lead time: &#x202B;"
+msgid "Cycle time: "
+msgstr "Cycle time: &#x202B;"
+msgid "Time spent in each column"
+msgstr "زمان صرف شده در هر ستون"
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "اصطلاح Lead time یعنی مدتی که بین ایجاد کار و اتمام کار سپری شده است."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "اصطلاح Cycle time یعنی مدتی که از تاریخ شروع تا تاریخ اتمام سپری شده است."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "اگر کار بسته نشده باشد، زمان کنونی بجای زمان اتمام استفاده شده است."
+msgid "Set the start date automatically"
+msgstr "تاریخ شروع بصورت خودکار تنظیم شود"
+msgid "Edit Authentication"
+msgstr "ویرایش احراز هویت"
+msgid "Remote user"
+msgstr "کاربر راه دور"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "کاربران راه دور گذرواژه خود را در پایگاه داده کان بُرد ذخیره نمی کنند، بطور مثال: LDAP, حساب های گوگل و گیتهاب."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "اگر گزینه "غیرمجاز کردن فرم ورود" را انتخاب کرده باشید، موارد وارد شده در فرم ورود نادیده گرفته خواهند شد."
+msgid "Default task color"
+msgstr "رنگ پیشفرض کار"
+msgid "This feature does not work with all browsers."
+msgstr "این ویژگی در تمامی مرورگرها کار نمی کند."
+msgid "There is no destination project available."
+msgstr "هیچ پروژه مقصدی وجود ندارد."
+msgid "Trigger automatically subtask time tracking"
+msgstr "بصورت خودکار پیگیری زمان کار فرعی را راه اندازی کن"
+msgid "Include closed tasks in the cumulative flow diagram"
+msgstr "کارهای بسته شده نیز در جریان دیاگرام انباشته شامل شود"
+msgid "Current swimlane: %s"
+msgstr "مسیر شنای فعلی: %s"
+msgid "Current column: %s"
+msgstr "ستون فعلی: %s"
+msgid "Current category: %s"
+msgstr "دسته بندی فعلی: %s"
+msgid "no category"
+msgstr "بدون دسته بندی"
+msgid "Current assignee: %s"
+msgstr "شخص محول شده فعلی: %s"
+msgid "not assigned"
+msgstr "محول نشده"
+msgid "Author:"
+msgstr "نویسنده:"
+msgid "contributors"
+msgstr "شرکت کنندگان"
+msgid "License:"
+msgstr "گواهینامه:"
+msgid "License"
+msgstr "گواهینامه"
+msgid "Enter the text below"
+msgstr "متن زیر را وارد کنید"
+msgid "Start date:"
+msgstr "تاریخ شروع:"
+msgid "Due date:"
+msgstr "تاریخ سررسید:"
+msgid "People who are project managers"
+msgstr "اشخاصی که مدیر پروژه هستند"
+msgid "People who are project members"
+msgstr "اشخاصی که عضو پروژه هستند"
+msgid "NOK - Norwegian Krone"
+msgstr "NOK - کرون نروژ"
+msgid "Show this column"
+msgstr "نمایش این ستون"
+msgid "Hide this column"
+msgstr "مخفی کردن این ستون"
+msgid "End date"
+msgstr "تاریخ پایان"
+msgid "Users overview"
+msgstr "بررسی اجمالی کاربران"
+msgid "Members"
+msgstr "اعضاء"
+msgid "Shared project"
+msgstr "پروژه مشترک"
+msgid "Project managers"
+msgstr "مدیران پروژه"
+msgid "Projects list"
+msgstr "لیست پروژه ها"
+msgid "End date:"
+msgstr "تاریخ پایان:"
+msgid "Change task color when using a specific task link"
+msgstr "رنگ کار وقتی که از پیوند یک کار مشخص استفاده می شود تغییر داده شود"
+msgid "Task link creation or modification"
+msgstr "ایجاد یا تغییر پیوند کار"
+msgid "Milestone"
+msgstr "نقطه عطف"
+msgid "Reset the search/filter box"
+msgstr "بازنشانی جعبه جستجو/فیلتر"
+msgid "Documentation"
+msgstr "مستندات"
+msgid "Author"
+msgstr "نویسنده"
+msgid "Version"
+msgstr "نسخه"
+msgid "Plugins"
+msgstr "پلاگین"
+msgid "There is no plugin loaded."
+msgstr "هیچ پلاگینی بارگیری نشده."
+msgid "My notifications"
+msgstr "آگاه سازی های من"
+msgid "Custom filters"
+msgstr "فیلترهای سفارشی"
+msgid "Your custom filter has been created successfully."
+msgstr "فیلتر سفارشی شما با موفقیت ایجاد شد."
+msgid "Unable to create your custom filter."
+msgstr "ایجاد فیلتر سفارشی شما امکان پذیر نیست."
+msgid "Custom filter removed successfully."
+msgstr "فیلتر سفارشی با موفقیت حذف شد."
+msgid "Unable to remove this custom filter."
+msgstr "حذف این فیلتر سفارشی امکان پذیر نیست."
+msgid "Edit custom filter"
+msgstr "ویرایش فیلتر سفارشی"
+msgid "Your custom filter has been updated successfully."
+msgstr "فیلتر سفارشی شما با موفقیت بروز رسانی شد."
+msgid "Unable to update custom filter."
+msgstr "بروز رسانی فیلتر سفارشی امکان پذیر نیست."
+msgid "Web"
+msgstr "وب"
+msgid "New attachment on task #%d: %s"
+msgstr "پیوست جدید برای کار #%d: %s"
+msgid "New comment on task #%d"
+msgstr "نظر جدید در کار #%d"
+msgid "Comment updated on task #%d"
+msgstr "نظر در کار #%d بروز رسانی شد."
+msgid "New subtask on task #%d"
+msgstr "کار فرعی جدید در کار #%d"
+msgid "Subtask updated on task #%d"
+msgstr "کار فرعی در کار #%d بروز شد"
+msgid "New task #%d: %s"
+msgstr "کار جدید #%d: %s"
+msgid "Task updated #%d"
+msgstr "کار بروز شد #%d"
+msgid "Task #%d closed"
+msgstr "کار #%d بسته شد"
+msgid "Task #%d opened"
+msgstr "کار #%d باز شد"
+msgid "Column changed for task #%d"
+msgstr "ستون برای کار #%d تغییر کرد"
+msgid "New position for task #%d"
+msgstr "موقعیت جدید برای کار #%d "
+msgid "Swimlane changed for task #%d"
+msgstr "مسیر شنا برای کار #%d  تغییر کرد"
+msgid "Assignee changed on task #%d"
+msgstr "شخص محول شده در کار #%d تغییر کرد"
+msgid "%d overdue tasks"
+msgstr "%d کار عقب افتاده"
+msgid "Task #%d is overdue"
+msgstr "کار #%d عقب افتاده است"
+msgid "No notification."
+msgstr "بدون آگاه سازی."
+msgid "Mark all as read"
+msgstr "همه را بعنوان خوانده شده علامتگذاری کن"
+msgid "Mark as read"
+msgstr "علامتگذاری بعنوان خوانده شده"
+msgid "Total number of tasks in this column across all swimlanes"
+msgstr "تعداد کل کارهای این ستون طی همه مسیرهای شنا"
+msgid "Collapse swimlane"
+msgstr "جمع کردن مسیرهای شنا"
+msgid "Expand swimlane"
+msgstr "گستردن مسیرهای شنا"
+msgid "Add a new filter"
+msgstr "افزودن یک فیلتر جدید"
+msgid "Share with all project members"
+msgstr "اشتراک با تمامی اعضای پروژه"
+msgid "Shared"
+msgstr "به اشتراک گذاشته شده"
+msgid "Owner"
+msgstr "صاحب"
+msgid "Unread notifications"
+msgstr "آگاه سازی های خوانده نشده"
+msgid "Notification methods:"
+msgstr "روش های آگاه سازی:"
+msgid "Unable to read your file"
+msgstr "خواندن فایل شما امکان پذیر نیست"
+msgid "%d task(s) have been imported successfully."
+msgstr "تعداد %d عدد کار با موفقیت درون ریزی شد."
+msgid "Nothing has been imported!"
+msgstr "هیچی چیزی درون ریزی نشد!"
+msgid "Import users from CSV file"
+msgstr "درون ریزی کاربران از طریق فایل  CSV"
+msgid "%d user(s) have been imported successfully."
+msgstr "تعداد %d کاربر با موفقیت درون ریزی شدند."
+msgid "Comma"
+msgstr "کاما"
+msgid "Semi-colon"
+msgstr "سمی کالن"
+msgid "Tab"
+msgstr "تب"
+msgid "Vertical bar"
+msgstr "تب عمودی"
+msgid "Double Quote"
+msgstr "دابل کوت"
+msgid "Single Quote"
+msgstr "سینگل کوت"
+msgid "%s attached a file to the task #%d"
+msgstr "کاربر %s یک فایل را به کار #%d پیوست کرد."
+msgid "There is no column or swimlane activated in your project!"
+msgstr "هیچ ستون یا مسیر شنای فعال در پروژه شما نیست!"
+msgid "Append filter (instead of replacement)"
+msgstr "فیلتر افزوده شود (بجای اینکه جایگزین شود)"
+msgid "Append/Replace"
+msgstr "افزودن/جایگزینی"
+msgid "Append"
+msgstr "افزودن"
+msgid "Replace"
+msgstr "جایگزینی"
+msgid "Import"
+msgstr "درون ریزی"
+msgid "Change sorting"
+msgstr "تغییر مرتب سازی"
+msgid "Tasks Importation"
+msgstr "برون ریزی کردن کارها"
+msgid "Delimiter"
+msgstr "جدا ساز"
+msgid "Enclosure"
+msgstr "محصور ساز"
+msgid "CSV File"
+msgstr "فایل CSV"
+msgid "Instructions"
+msgstr "دستورالعمل ها"
+msgid "Your file must use the predefined CSV format"
+msgstr "فایل شما باید از فرمت از پیش تعریف شده CSV استفاده کند"
+msgid "Your file must be encoded in UTF-8"
+msgstr "کدبندی فایل شما باید UTF-8 باشد"
+msgid "The first row must be the header"
+msgstr "اولین ردیف باید سربرگ باشد"
+msgid "Duplicates are not verified for you"
+msgstr "تکراری ها برای شما بررسی نمی شوند"
+msgid "The due date must use the ISO format: YYYY-MM-DD"
+msgstr "تاریخ سررسید باید از استاندارد ISO بصورت YYYY-MM-DD پیروی کند."
+msgid "Download CSV template"
+msgstr "بارگیری قالب CSV"
+msgid "No external integration registered."
+msgstr "هیچ تلفیق خارجی ثبت نشده."
+msgid "Duplicates are not imported"
+msgstr "تکراری ها درون ریزی نشدند"
+msgid "Usernames must be lowercase and unique"
+msgstr "نام های کاربری باید با حروف کوچک بوده و یکتا باشند"
+msgid "Passwords will be encrypted if present"
+msgstr "گذرواژه ها در صورت وجود رمزنگاری می شوند"
+msgid "%s attached a new file to the task %s"
+msgstr "کاربر %s یک فایل جدید به کار %s پیوست کرد."
+msgid "Link type"
+msgstr "نوع پیوند"
+msgid "Assign automatically a category based on a link"
+msgstr "اختصاص خودکار یک دسته بندی بر اساس یک پیوند"
+msgid "BAM - Konvertible Mark"
+msgstr "BAM - مارک تبدیل پذیر بوسنی هرزگوین"
+msgid "Assignee Username"
+msgstr "نام کاربری شخص محول شده"
+msgid "Assignee Name"
+msgstr "نام شخص محول شده"
+msgid "Groups"
+msgstr "گروه ها"
+msgid "Members of %s"
+msgstr "اعضای %s"
+msgid "New group"
+msgstr "گروه جدید"
+msgid "Group created successfully."
+msgstr "گروه با موفقیت ایجاد شد."
+msgid "Unable to create your group."
+msgstr "ایجاد گروه شما امکان پذیر نیست."
+msgid "Edit group"
+msgstr "ویرایش گروه"
+msgid "Group updated successfully."
+msgstr "گروه با موفقیت بروز رسانی شد."
+msgid "Unable to update your group."
+msgstr "بروز رسانی گروه شما امکان پذیر نیست."
+msgid "Add group member to \"%s\""
+msgstr "افزودن عضو گروه به \"%s\""
+msgid "Group member added successfully."
+msgstr "عضو گروه با موفقیت افزوده شد."
+msgid "Unable to add group member."
+msgstr "افزودن عضو گروه امکان پذیر نیست."
+msgid "Remove user from group \"%s\""
+msgstr "حذف کاربر از گروه \"%s\""
+msgid "User removed successfully from this group."
+msgstr "کاربر با موفقیت از این گروه حذف شد."
+msgid "Unable to remove this user from the group."
+msgstr "حذف این کاربر از گروه امکان پذیر نیست."
+msgid "Remove group"
+msgstr "حذف گروه"
+msgid "Group removed successfully."
+msgstr "گروه با موفقیت حذف شد."
+msgid "Unable to remove this group."
+msgstr "حذف این گروه امکان پذیر نیست."
+msgid "Project Permissions"
+msgstr "مجوز های پروژه"
+msgid "Manager"
+msgstr "مدیر"
+msgid "Project Manager"
+msgstr "مدیر پروژه"
+msgid "Project Member"
+msgstr "عضو پروژه"
+msgid "Project Viewer"
+msgstr "بازدید کننده پروژه"
+msgid "Your account is locked for %d minutes"
+msgstr "حساب کاربری شما به مدت %d دقیقه مسدود شده"
+msgid "Invalid captcha"
+msgstr "کد امنیتی کپچا نامعتبر است"
+msgid "The name must be unique"
+msgstr "نام بایستی یکتا باشد"
+msgid "View all groups"
+msgstr "نمایش همه گروه ها"
+msgid "There is no user available."
+msgstr "کاربری در دسترس نیست"
+msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
+msgstr "واقعاً می خواهید کاربر \"%s\" را از گروه \"%s\" حذف کنید؟"
+msgid "There is no group."
+msgstr "گروهی وجود ندارد."
+msgid "Add group member"
+msgstr "افزون عضو گروه"
+msgid "Do you really want to remove this group: \"%s\"?"
+msgstr "واقعاً می خواهید این گروه را حذف کنید؟ : \"%s\""
+msgid "There is no user in this group."
+msgstr "کاربری در این گروه نیست."
+msgid "Permissions"
+msgstr "مجوز ها"
+msgid "Allowed Users"
+msgstr "کاربران مجاز"
+msgid "No specific user has been allowed."
+msgstr "به کاربری بصورت خاص اجازه داده نشده است."
+msgid "Role"
+msgstr "نقش"
+msgid "Enter user name..."
+msgstr "نام کاربری را وارد کنید..."
+msgid "Allowed Groups"
+msgstr "گروه های مجاز"
+msgid "No group has been allowed."
+msgstr "گروهی بصورت خاص اجازه داده نشده است."
+msgid "Group"
+msgstr "گروه"
+msgid "Group Name"
+msgstr "نام گروه"
+msgid "Enter group name..."
+msgstr "نام گروه را وارد کنید..."
+msgid "Role:"
+msgstr "نقش:"
+msgid "Project members"
+msgstr "اعضای پروژه"
+msgid "%s mentioned you in the task #%d"
+msgstr "کاربر %s از شما در کار #%d نام بری کرده است."
+msgid "%s mentioned you in a comment on the task #%d"
+msgstr "کاربر %s از شما در نظری که در مورد کار #%d بوده نام بری کرده است"
+msgid "You were mentioned in the task #%d"
+msgstr "شما در کار #%d نام بری شدید."
+msgid "You were mentioned in a comment on the task #%d"
+msgstr "شما در نظری که در مورد کار #%d بوده نام بری شدید."
+msgid "Estimated hours: "
+msgstr "ساعت های تخمینی: "
+msgid "Actual hours: "
+msgstr "ساعت های واقعی: "
+msgid "Hours Spent"
+msgstr "ساعت های صرف شده"
+msgid "Hours Estimated"
+msgstr "ساعت های تخمینی"
+msgid "Estimated Time"
+msgstr "زمان تخمینی"
+msgid "Actual Time"
+msgstr "زمان واقعی"
+msgid "Estimated vs actual time"
+msgstr "مقایسه زمان تخمینی با زمان واقعی"
+msgid "RUB - Russian Ruble"
+msgstr "RUB - روبل روسیه"
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "کار را به شخصی که عمل را وقتی ستون تغییر کرد انجام می دهد محول کن"
+msgid "Close a task in a specific column"
+msgstr "یک کار را در یک ستون مشخص ببند"
+msgid "Time-based One-time Password Algorithm"
+msgstr "الگوریتم گذرواژه یکبارمصرف مبتنی بر زمان"
+msgid "Two-Factor Provider: "
+msgstr "فراهم کننده دو مرحله ای: "
+msgid "Disable two-factor authentication"
+msgstr "احراز هویت دو مرحله ای غیر فعال گردد"
+msgid "Enable two-factor authentication"
+msgstr "احراز هویت دو مرحله ای فعال گردد"
+msgid "There is no integration registered at the moment."
+msgstr "تلفیق ثبت شده در این لحظه وجود ندارد."
+msgid "Password Reset for Kanboard"
+msgstr "بازنشانی گذرواژه برای کان بُرد"
+msgid "Forgot password?"
+msgstr "فراموشی گذرواژه؟"
+msgid "Enable \"Forget Password\""
+msgstr "فعال کردن "فراموشی گذرواژه""
+msgid "Password Reset"
+msgstr "بازنشانی گذرواژه"
+msgid "New password"
+msgstr "گذرواژه جدید"
+msgid "Change Password"
+msgstr "تغییر گذرواژه"
+msgid "To reset your password click on this link:"
+msgstr "برای بازنشانی گذرواژه خود روی پیوند زیر کلیک کنید:"
+msgid "Last Password Reset"
+msgstr "آخرین بازنشانی گذرواژه"
+msgid "The password has never been reinitialized."
+msgstr "گذرواژه هرگز از نو مقداردهی نشده است."
+msgid "Creation"
+msgstr "ایجاد"
+msgid "Expiration"
+msgstr "انقضاء"
+msgid "Password reset history"
+msgstr "تاریخچه بازنشانی گذرواژه"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "تمامی کارهای ستون \"%s\" و مسیر شنای \"%s\" با موفقیت بسته شدند."
+msgid "Do you really want to close all tasks of this column?"
+msgstr "واقعاً می خواهید همه کارهای این ستون را ببندید؟"
+msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+msgstr "%d کار در ستون \"%s\" و مسیر شنای \"%s\" بسته خواهند شد."
+msgid "Close all tasks in this column and this swimlane"
+msgstr "تمامی کارهای این ستون بسته شود"
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "هیچ پلاگینی یک روش آگاه سازی در پروژه را ثبت نکرده است. شما هنوز می توانید آگاه سازی های مجزا را در پروفایل کاربری خود تنظیم کنید."
+msgid "My dashboard"
+msgstr "میز کار من"
+msgid "My profile"
+msgstr "پروفایل من"
+msgid "Project owner: "
+msgstr "صاحب پروژه: "
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "شناسه پروژه اختیاری است و باید حتما از حروف انگلیسی یا عدد تشکیل شود. مثال MYPROJECT"
+msgid "Project owner"
+msgstr "صاحب پروژه"
+msgid "Personal projects do not have users and groups management."
+msgstr "پروژه های خصوصی مدیریت کاربر و گروه ندارند"
+msgid "There is no project member."
+msgstr "عضوی در پروژه وجود ندارد"
+msgid "Priority"
+msgstr "اولویت"
+msgid "Task priority"
+msgstr "اولویت کار"
+msgid "General"
+msgstr "عمومی"
+msgid "Dates"
+msgstr "تاریخ ها"
+msgid "Default priority"
+msgstr "اولویت پیشفرض"
+msgid "Lowest priority"
+msgstr "کمترین اولویت"
+msgid "Highest priority"
+msgstr "بیشترین اولویت"
+msgid "Close a task when there is no activity"
+msgstr "یک کار را در صورت نبود فعالیت ببند"
+msgid "Duration in days"
+msgstr "مدت به روز"
+msgid "Send email when there is no activity on a task"
+msgstr "در صورت عدم فعالیت در یک کار، نامه الکترونیکی ارسال کن"
+msgid "Unable to fetch link information."
+msgstr "امکان دریافت اطلاعات پیوند وجود ندارد."
+msgid "Daily background job for tasks"
+msgstr "امور پس زمینه روزانه برای کارها"
+msgid "Auto"
+msgstr "خودکار"
+msgid "Related"
+msgstr "مرتبط"
+msgid "Attachment"
+msgstr "پیوست"
+msgid "Title not found"
+msgstr "عنوان یافت نشد"
+msgid "Web Link"
+msgstr "پیوند وب"
+msgid "External links"
+msgstr "پیوند های خارجی"
+msgid "Add external link"
+msgstr "افزودن پیوند خارجی"
+msgid "Type"
+msgstr "نوع"
+msgid "Dependency"
+msgstr "وابستگی"
+msgid "Add internal link"
+msgstr "افزودن پیوند داخلی"
+msgid "Add a new external link"
+msgstr "افزودن یک پیوند خارجی جدید"
+msgid "Edit external link"
+msgstr "ویرایش پیوند خارجی"
+msgid "External link"
+msgstr "پیوند خارجی"
+msgid "Copy and paste your link here..."
+msgstr "پیوند خود را اینجا کپی  پیست کنید..."
+msgid "URL"
+msgstr "آدرس"
+msgid "Internal links"
+msgstr "پیوند های داخلی"
+msgid "Assign to me"
+msgstr "به من محول کن"
+msgid "Me"
+msgstr "من"
+msgid "Do not duplicate anything"
+msgstr "هیچ چیزی را کپی نکن"
+msgid "Projects management"
+msgstr "مدیریت پروژه"
+msgid "Users management"
+msgstr "مدیریت کاربران"
+msgid "Groups management"
+msgstr "مدیریت گروه ها"
+msgid "Create from another project"
+msgstr "ایجاد از پروژه ای دیگر"
+msgid "open"
+msgstr "باز"
+msgid "closed"
+msgstr "بسته شده"
+msgid "Priority:"
+msgstr "اولویت:"
+msgid "Reference:"
+msgstr "مرجع:"
+msgid "Complexity:"
+msgstr "پیچیدگی:"
+msgid "Swimlane:"
+msgstr "مسیر شنا:"
+msgid "Column:"
+msgstr "ستون:"
+msgid "Position:"
+msgstr "موقعیت:"
+msgid "Creator:"
+msgstr "ایجاد کننده:"
+msgid "Time estimated:"
+msgstr "زمان تخمینی:"
+msgid "%s hours"
+msgstr "%s ساعت"
+msgid "Time spent:"
+msgstr "زمان صرف شده:"
+msgid "Created:"
+msgstr "ایجاد شده:"
+msgid "Modified:"
+msgstr "تغییر یافته:"
+msgid "Completed:"
+msgstr "تکمیل شده:"
+msgid "Started:"
+msgstr "شروع شده:"
+msgid "Moved:"
+msgstr "منتقل شده:"
+msgid "Task #%d"
+msgstr "کار #%d"
+msgid "Time format"
+msgstr "فرمت زمان"
+msgid "Start date: "
+msgstr "تاریخ شروع: "
+msgid "End date: "
+msgstr "تاریخ پایان: "
+msgid "New due date: "
+msgstr "تاریخ سررسید جدید: "
+msgid "Start date changed: "
+msgstr "تاریخ شروع تغییر کرده: "
+msgid "Disable personal projects"
+msgstr "غیر فعال کردن پروژه های خصوصی"
+msgid "Do you really want to remove this custom filter: \"%s\"?"
+msgstr "واقعاً می خواهید این فیلتر سفارشی را حذف کنید؟ \"%s\""
+msgid "Remove a custom filter"
+msgstr "حذف یک فیلتر سفارشی"
+msgid "User activated successfully."
+msgstr "کاربر با موفقیت فعال شد."
+msgid "Unable to enable this user."
+msgstr "فعال کردن این کاربر امکان پذیر نیست."
+msgid "User disabled successfully."
+msgstr "کاربر با موفقیت غیر فعال شد."
+msgid "Unable to disable this user."
+msgstr "غیرفعال کردن این کاربر امکان پذیر نیست."
+msgid "All files have been uploaded successfully."
+msgstr "همه فایل ها با موفقیت بارگذاری شدند."
+msgid "The maximum allowed file size is %sB."
+msgstr "بیشترین اندازه فایل مجاز %sB است."
+msgid "Drag and drop your files here"
+msgstr "فایل های خود را در اینجا کشیده و رها کنید."
+msgid "choose files"
+msgstr "انتخاب فایل ها"
+msgid "View profile"
+msgstr "نمایش پروفایل"
+msgid "Two Factor"
+msgstr "دو مرحله ای"
+msgid "Disable user"
+msgstr "غیر فعال کردن کاربر"
+msgid "Do you really want to disable this user: \"%s\"?"
+msgstr "واقعاً می خواهید این کاربر را غیر فعال کنید؟ \"%s\""
+msgid "Enable user"
+msgstr "فعال کردن کاربر"
+msgid "Do you really want to enable this user: \"%s\"?"
+msgstr "واقعاً می خواهید این کاربر را فعال کنید؟ \"%s\""
+msgid "Download"
+msgstr "بارگیری"
+msgid "Uploaded: %s"
+msgstr "بارگذاری: %s"
+msgid "Size: %s"
+msgstr "اندازه: %s"
+msgid "Uploaded by %s"
+msgstr "بارگذاری شده توسط %s"
+msgid "Filename"
+msgstr "نام فایل"
+msgid "Size"
+msgstr "اندازه"
+msgid "Column created successfully."
+msgstr "ستون با موفقیت ایجاد شد."
+msgid "Another column with the same name exists in the project"
+msgstr "ستونی دیگر با همین نام در پروژه وجود دارد"
+msgid "Default filters"
+msgstr "فیلترهای پیشفرض"
+msgid "Your board doesn't have any columns!"
+msgstr "برد شما هیچ ستونی ندارد!"
+msgid "Change column position"
+msgstr "تغییر موقعیت ستون"
+msgid "Switch to the project overview"
+msgstr "تغییر به حالت بررسی اجمالی پروژه"
+msgid "User filters"
+msgstr "فیلترهای کاربر"
+msgid "Category filters"
+msgstr "فیلترهای دسته بندی"
+msgid "Upload a file"
+msgstr "بارگذاری یک فایل"
+msgid "View file"
+msgstr "نمایش فایل"
+msgid "Last activity"
+msgstr "آخرین فعالیت"
+msgid "Change subtask position"
+msgstr "تغییر موقعیت کار فرعی"
+msgid "This value must be greater than %d"
+msgstr "این مقدار باید از %d بزرگتر باشد"
+msgid "Another swimlane with the same name exists in the project"
+msgstr "یک مسیر شنای دیگر با همین نام در پروژه وجود دارد"
+msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
+msgstr "مثال: https://example.kanboard.org/ (برای تولید نشانی های کامل استفاده شده)"
+msgid "Actions duplicated successfully."
+msgstr "اعمال با موفقیت کپی شدند"
+msgid "Unable to duplicate actions."
+msgstr "کپی اعمال امکان پذیر نیست."
+msgid "Add a new action"
+msgstr "افزودن یک عمل جدید"
+msgid "Import from another project"
+msgstr "درون ریزی از پروژه ای دیگر"
+msgid "There is no action at the moment."
+msgstr "در این لحظه هیچ عملی وجود ندارد."
+msgid "Import actions from another project"
+msgstr "درون ریزی اعمال از پروژه ای دیگر"
+msgid "There is no available project."
+msgstr "پروژه ای در دسترس نیست."
+msgid "Local File"
+msgstr "فایل محلی"
+msgid "Configuration"
+msgstr "پیکربندی"
+msgid "PHP version:"
+msgstr "نسخه PHP:"
+msgid "PHP SAPI:"
+msgstr ""
+msgid "OS version:"
+msgstr "نسخه سیستم عامل:"
+msgid "Database version:"
+msgstr "نسخه پایگاه داده:"
+msgid "Browser:"
+msgstr "مرورگر:"
+msgid "Task view"
+msgstr "نمای کار"
+msgid "Edit task"
+msgstr "ویرایش کار"
+msgid "Edit description"
+msgstr "ویرایش شرح"
+msgid "New internal link"
+msgstr "لینک داخلی جدید"
+msgid "Display list of keyboard shortcuts"
+msgstr "نمایش لیست از میانبرهای صفحه کلید"
+msgid "Avatar"
+msgstr "آواتار"
+msgid "Upload my avatar image"
+msgstr "بارگذاری تصویر آواتار من"
+msgid "Remove my image"
+msgstr "حذف تصویر من"
+msgid "The OAuth2 state parameter is invalid"
+msgstr "وضعیت پارامتر OAuth2 معتبر نیست."
+msgid "User not found."
+msgstr "کاربر یافت نشد."
+msgid "Search in activity stream"
+msgstr "جستجو در جریان فعالیت"
+msgid "My activities"
+msgstr "فعالیت های من"
+msgid "Activity until yesterday"
+msgstr "فعالیت تا دیروز"
+msgid "Activity until today"
+msgstr "فعالیت تا امروز"
+msgid "Search by creator: "
+msgstr "جستجو بر اساس ایجاد کننده: "
+msgid "Search by creation date: "
+msgstr "جستجو بر اساس تاریخ ایجاد: "
+msgid "Search by task status: "
+msgstr "جستجو بر اساس وضعیت کار: "
+msgid "Search by task title: "
+msgstr "جستجو بر اساس عنوان کار: "
+msgid "Activity stream search"
+msgstr "جستجوی جریان فعالیت"
+msgid "Projects where \"%s\" is manager"
+msgstr "پروژه هایی که در آن \"%s\" مدیر است"
+msgid "Projects where \"%s\" is member"
+msgstr "پروژه هایی که در آن \"%s\" عضو است"
+msgid "Open tasks assigned to \"%s\""
+msgstr "کارهای بازی که به \"%s\" محول شده است"
+msgid "Closed tasks assigned to \"%s\""
+msgstr "کارهای بسته ای که به \"%s\" محول شده است"
+msgid "Assign automatically a color based on a priority"
+msgstr "اختصاص خودکار یک رنگ بر اساس یک اولویت"
+msgid "Overdue tasks for the project(s) \"%s\""
+msgstr "کارهای عقب مانده برای پروژه (های) \"%s\""
+msgid "Upload files"
+msgstr "بارگذاری فایل ها"
+msgid "Installed Plugins"
+msgstr "پلاگین های نصب شده"
+msgid "Plugin Directory"
+msgstr "دایرکتوری پلاگین"
+msgid "Plugin installed successfully."
+msgstr "پلاگین با موفقیت نصب شد."
+msgid "Plugin updated successfully."
+msgstr "پلاگین با موفقیت بروز رسانی شد."
+msgid "Plugin removed successfully."
+msgstr "پلاگین با موفقیت حذف شد."
+msgid "Subtask converted to task successfully."
+msgstr "کار فرعی با موفقیت به کار تبدیل شد."
+msgid "Unable to convert the subtask."
+msgstr "تبدیل کار فرعی امکان پذیر نیست."
+msgid "Unable to extract plugin archive."
+msgstr "برون ریزی آرشیو پلاگین امکان پذیر نیست."
+msgid "Plugin not found."
+msgstr "پلاگین یافت نشد."
+msgid "You don't have the permission to remove this plugin."
+msgstr "شما اجازه حذف این پلاگین را ندارید."
+msgid "Unable to download plugin archive."
+msgstr "امکان دانلود آرشیو پلاگین وجود ندارد."
+msgid "Unable to write temporary file for plugin."
+msgstr "نوشتن فایل موقت برای پلاگین امکان پذیر نیست."
+msgid "Unable to open plugin archive."
+msgstr "باز کردن آرشیو پلاگین امکان پذیر نیست."
+msgid "There is no file in the plugin archive."
+msgstr "فایلی در آرشیو پلاگین وجود ندارد."
+msgid "Create tasks in bulk"
+msgstr "ایجاد کارها بصورت انبوه"
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "کان بُرد شما طوری تنظیم نشده که بتوان پلاگین ها را از رابط کاربری نصب کرد."
+msgid "There is no plugin available."
+msgstr "پلاگینی در دسترس نیست."
+msgid "Install"
+msgstr "نصب"
+msgid "Update"
+msgstr "بروز رسانی"
+msgid "Up to date"
+msgstr "بروز"
+msgid "Not available"
+msgstr "در دسترس نیست"
+msgid "Remove plugin"
+msgstr "حذف پلاگین"
+msgid "Do you really want to remove this plugin: \"%s\"?"
+msgstr "واقعاً می خواهید این پلاگین را حذف کنید؟ : \"%s\""
+msgid "Uninstall"
+msgstr "حذف نصب"
+msgid "Listing"
+msgstr "لیست کردن"
+msgid "Metadata"
+msgstr "متا دیتا"
+msgid "Manage projects"
+msgstr "مدیریت پروژه ها"
+msgid "Convert to task"
+msgstr "تبدیل به کار"
+msgid "Convert sub-task to task"
+msgstr "تبدیل کار فرعی به کار"
+msgid "Do you really want to convert this sub-task to a task?"
+msgstr "واقعاً می خواهید این کار فرعی را به کار تبدیل کنید؟"
+msgid "My task title"
+msgstr "عنوان کار من"
+msgid "Enter one task by line."
+msgstr "یک کار را در یک خط وارد کنید."
+msgid "Number of failed login:"
+msgstr "تعداد ورودهای ناموفق:"
+msgid "Account locked until:"
+msgstr "حساب قفل شده تا:"
+msgid "Email settings"
+msgstr "تنظیمات پست الکترونیکی"
+msgid "Email sender address"
+msgstr "آدرس فرستنده پست الکترونیکی"
+msgid "Email transport"
+msgstr "ترابری پست الکترونیکی"
+msgid "Webhook token"
+msgstr "توکن Webhook"
+msgid "Project tags management"
+msgstr "مدیریت برچسب های پروژه"
+msgid "Tag created successfully."
+msgstr "برچسب با موفقیت ایجاد شد"
+msgid "Unable to create this tag."
+msgstr "ایجاد این برچسب امکان پذیر نیست."
+msgid "Tag updated successfully."
+msgstr "برچسب با موفقیت بروز رسانی شد."
+msgid "Unable to update this tag."
+msgstr "بروز رسانی این برچسب امکان پذیر نیست."
+msgid "Tag removed successfully."
+msgstr "برچسب با موفقیت حذف شد."
+msgid "Unable to remove this tag."
+msgstr "حذف این برچسب امکان پذیر نیست."
+msgid "Global tags management"
+msgstr "مدیریت جامع برچسب ها"
+msgid "Tags"
+msgstr "برچسب ها"
+msgid "Tags management"
+msgstr "مدیریت برچسب ها"
+msgid "Add new tag"
+msgstr "افزودن برچسب جدید"
+msgid "Edit a tag"
+msgstr "ویرایش یک برچسب"
+msgid "Project tags"
+msgstr "برچسب های پروژه"
+msgid "There is no specific tag for this project at the moment."
+msgstr "برچسب خاصی برای این پروژه در حال حاضر موجود نیست."
+msgid "Tag"
+msgstr "برچسب"
+msgid "Remove a tag"
+msgstr "حذف یک برچسب"
+msgid "Do you really want to remove this tag: \"%s\"?"
+msgstr "واقعاً می خواهید برچسب : \"%s\" را حذف کنید؟"
+msgid "Global tags"
+msgstr "برچسب های جامع"
+msgid "There is no global tag at the moment."
+msgstr "در حال حاضر برچسب جامعی وجود ندارد."
+msgid "This field cannot be empty"
+msgstr "این فیلد نمی تواند خالی باشد"
+msgid "Close a task when there is no activity in a specific column"
+msgstr "وقتی هیچ فعالیتی در یک ستون مشخص وجود ندارد یک کار را ببند"
+msgid "%s removed a subtask for the task #%d"
+msgstr "کاربر %s یک کار فرعی برای کار #%d را حذف کرد."
+msgid "%s removed a comment on the task #%d"
+msgstr "کاربر %s یک نظر برای کار #%d را حذف کرد."
+msgid "Comment removed on task #%d"
+msgstr "نظر برای کار #%d حذف شد."
+msgid "Subtask removed on task #%d"
+msgstr "کار فرعی برای کار #%d حذف شد."
+msgid "Hide tasks in this column in the dashboard"
+msgstr "کارهای این ستون را در میز کار مخفی کن"
+msgid "%s removed a comment on the task %s"
+msgstr "کاربر %s یک نظر برای کار %s را حذف کرد."
+msgid "%s removed a subtask for the task %s"
+msgstr "کاربر %s یک کار فرعی برای کار %s را حذف کرد."
+msgid "Comment removed"
+msgstr "نظر حذف شد"
+msgid "Subtask removed"
+msgstr "کار فرعی حذف شد"
+msgid "%s set a new internal link for the task #%d"
+msgstr "کاربر %s یک لینک داخلی برای کار #%d تنظیم کرد"
+msgid "%s removed an internal link for the task #%d"
+msgstr "کاربر %s یک لینک داخلی برای کار #%d را حذف کرد."
+msgid "A new internal link for the task #%d has been defined"
+msgstr "یک لینک داخلی برای کار #%d تعریف شد"
+msgid "Internal link removed for the task #%d"
+msgstr "لینک داخلی برای کار #%d حذف شد."
+msgid "%s set a new internal link for the task %s"
+msgstr "کاربر %s یک لینک داخلی برای کار %s تنظیم کرد"
+msgid "%s removed an internal link for the task %s"
+msgstr "کاربر %s یک لینک داخلی برای کار %s را حذف کرد."
+msgid "Automatically set the due date on task creation"
+msgstr "بصورت خودکار تاریخ سررسید را به هنگام ایجاد کار تنظیم کن"
+msgid "Move the task to another column when closed"
+msgstr "کار را وقتی بسته شد به ستونی دیگر منتقل کن"
+msgid "Move the task to another column when not moved during a given period"
+msgstr "کار را وقتی در طی یک دوره داده شده منتقل نشده باشد، به ستونی دیگر منتقل کن"
+msgid "Dashboard for %s"
+msgstr "میز کارِ %s"
+msgid "Tasks overview for %s"
+msgstr "بررسی اجمالی کارهایِ %s"
+msgid "Subtasks overview for %s"
+msgstr "بررسی اجمالی کارهای فرعیِ %s"
+msgid "Projects overview for %s"
+msgstr "بررسی اجمالی پروژه هایِ %s"
+msgid "Activity stream for %s"
+msgstr "جریان فعالیتِ %s"
+msgid "Assign a color when the task is moved to a specific swimlane"
+msgstr "وقتی کار به یک مسیر شنای مشخص منتقل شد، به آن یک رنگ اختصاص بده"
+msgid "Assign a priority when the task is moved to a specific swimlane"
+msgstr "وقتی که کار به یک مسیر شنای مشخص منتقل شد یک اولویت به آن اختصاص بده"
+msgid "User unlocked successfully."
+msgstr "کاربر با موفقیت از حالت قفل خارج شد."
+msgid "Unable to unlock the user."
+msgstr "خروج از حالت قفل برای کاربر امکان پذیر نیست."
+msgid "Move a task to another swimlane"
+msgstr "انتقال کار به مسیر شنای دیگر"
+msgid "Creator Name"
+msgstr "نام ایجاد کننده"
+msgid "Time spent and estimated"
+msgstr "زمان صرف شده و تخمینی"
+msgid "Move position"
+msgstr "انتقال موقعیت"
+msgid "Move task to another position on the board"
+msgstr "انتقال کار به موقعیتی دیگر در برد"
+msgid "Insert before this task"
+msgstr "درج قبل از این کار"
+msgid "Insert after this task"
+msgstr "درج بعد از این کار"
+msgid "Unlock this user"
+msgstr "قفل گشایی این کاربر"
+msgid "Custom Project Roles"
+msgstr "نقش های سفارشی پروژه"
+msgid "Add a new custom role"
+msgstr "افزودن یک نقش سفارشی جدید"
+msgid "Restrictions for the role \"%s\""
+msgstr "محدودیت ها برای نقش \"%s\""
+msgid "Add a new project restriction"
+msgstr "افزودن یک محدودیت پروژه جدید"
+msgid "Add a new drag and drop restriction"
+msgstr "افزودن یک محدودیت بکش و رهاکن جدید"
+msgid "Add a new column restriction"
+msgstr "افزودن یک محدودیت ستونی جدید"
+msgid "Edit this role"
+msgstr "ویرایش این نقش"
+msgid "Remove this role"
+msgstr "حذف این نقش"
+msgid "There is no restriction for this role."
+msgstr "محدودیتی برای این نقش وجود ندارد."
+msgid "Only moving task between those columns is permitted"
+msgstr "تنها انتقال کار بین آن ستون ها مجاز است."
+msgid "Close a task in a specific column when not moved during a given period"
+msgstr "بستن یک کار در یک ستون خاص وقتی طی یک دوره داده شده منتقل نشده باشد"
+msgid "Edit columns"
+msgstr "ویرایش ستون ها"
+msgid "The column restriction has been created successfully."
+msgstr "محدودیت ستون با موفقیت ایجاد شد."
+msgid "Unable to create this column restriction."
+msgstr "ایجاد این محدودیت ستون امکان پذیر نیست."
+msgid "Column restriction removed successfully."
+msgstr "محدودیت ستون با موفقیت حذف شد."
+msgid "Unable to remove this restriction."
+msgstr "حذف این محدودیت امکان پذیر نیست."
+msgid "Your custom project role has been created successfully."
+msgstr "نقش سفارشی پروژه شما با موفقیت ایجاد شد."
+msgid "Unable to create custom project role."
+msgstr "ایجاد نقش پروژه امکان پذیر نیست."
+msgid "Your custom project role has been updated successfully."
+msgstr "نقش سفارشی پروژه شما با موفقیت بروز رسانی شد."
+msgid "Unable to update custom project role."
+msgstr "بروز رسانی نقش سفارشی پروژه شما امکان پذیر نیست."
+msgid "Custom project role removed successfully."
+msgstr "نقش سفارشی پروژه با موفقیت حذف شد."
+msgid "Unable to remove this project role."
+msgstr "حذف این نقش پروژه امکان پذیر نیست."
+msgid "The project restriction has been created successfully."
+msgstr "محدودیت پروژه با موفقیت ایجاد شد."
+msgid "Unable to create this project restriction."
+msgstr "ایجاد این محدودیت پروژه امکان پذیر نیست."
+msgid "Project restriction removed successfully."
+msgstr "محدودیت پروژه با موفقیت حذف شد."
+msgid "You cannot create tasks in this column."
+msgstr "نمی توانید در این ستون کار ایجاد کنید."
+msgid "Task creation is permitted for this column"
+msgstr "ایجاد کار برای این ستون مجاز است"
+msgid "Closing or opening a task is permitted for this column"
+msgstr "بستن یا باز کردن کار برای این ستون مجاز است"
+msgid "Task creation is blocked for this column"
+msgstr "ایجاد کار برای این ستون مسدود است"
+msgid "Closing or opening a task is blocked for this column"
+msgstr "باز یا بستن یک کار برای این ستون مسدود است"
+msgid "Task creation is not permitted"
+msgstr "ایجاد کار مجاز نیست"
+msgid "Closing or opening a task is not permitted"
+msgstr "بستن یا باز کردن یک کار مجاز نیست"
+msgid "New drag and drop restriction for the role \"%s\""
+msgstr "محدودیت جدید کشیدن و رها کردن برای نقش \"%s\""
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "اشخاص متعلق به این نقش قادر خواهند بود کارها را فقط بین ستون مبدا و مقصد منتقل کنند."
+msgid "Remove a column restriction"
+msgstr "حذف یک محدودیت ستون"
+msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
+msgstr "واقعاً می خواهید این محدودیت ستون را حذف کنید؟ : \"%s\" به \"%s\""
+msgid "New column restriction for the role \"%s\""
+msgstr "محدودیت جدید ستون برای نقش \"%s\""
+msgid "Rule"
+msgstr "قانون"
+msgid "Do you really want to remove this column restriction?"
+msgstr "آیا واقعاً می خواهید این محدودیت ستون را حذف کنید؟"
+msgid "Custom roles"
+msgstr "نقش های سفارشی"
+msgid "New custom project role"
+msgstr "نقش سفارشی جدید پروژه"
+msgid "Edit custom project role"
+msgstr "ویرایش نقش سفارشی پروژه"
+msgid "Remove a custom role"
+msgstr "حذف یک نقش سفارشی"
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "واقعاً می خواهید این نقش سفارشی را حذف کنید؟ : \"%s\" تمامی اشخاصی که به این نقش اختصاص یافته اند تبدیل به عضو پروژه می شوند."
+msgid "There is no custom role for this project."
+msgstr "هیچ نقش سفارشی برای این پروژه وجود ندارد."
+msgid "New project restriction for the role \"%s\""
+msgstr "محدودیت پروژه جدید برای نقش \"%s\""
+msgid "Restriction"
+msgstr "محدودیت"
+msgid "Remove a project restriction"
+msgstr "حذف یک محدودیت پروژه"
+msgid "Do you really want to remove this project restriction: \"%s\"?"
+msgstr "آیا واقعاً می خواهید محدودیت این پروژه را حذف کنید؟ : \"%s\""
+msgid "Duplicate to multiple projects"
+msgstr "کپی به چندین پروژه"
+msgid "This field is required"
+msgstr "این فیلد اجباری است"
+msgid "Moving a task is not permitted"
+msgstr "انتقال یک کار مجاز نیست"
+msgid "This value must be in the range %d to %d"
+msgstr "این مقدار باید از بازه %d تا %d باشد"
+msgid "You are not allowed to move this task."
+msgstr "شما مجاز به انتقال این کار نمی باشید"
+msgid "API User Access"
+msgstr "API دسترسی کاربر"
+msgid "Preview"
+msgstr "پیش نمایش"
+msgid "Write"
+msgstr "نوشتن"
+msgid "Write your text in Markdown"
+msgstr "متن خود را با فرمت مارکدان بنویسید (Markdown)"
+msgid "No personal API access token registered."
+msgstr "هیچ توکن API دسترسی شخصی ثبت نشده است."
+msgid "Your personal API access token is \"%s\""
+msgstr "توکن دسترسی API شخصی شما برابر است با: \"%s\""
+msgid "Remove your token"
+msgstr "توکن خود را حذف کنید"
+msgid "Generate a new token"
+msgstr "تولید یک توکن جدید"
+msgid "Showing %d-%d of %d"
+msgstr "در حال نمایش %d تا %d از %d"
+msgid "Outgoing Emails"
+msgstr "ایمیل های خروجی"
+msgid "Add or change currency rate"
+msgstr "نرخ ارز را اضافه کنید یا تغییر دهید"
+msgid "Reference currency: %s"
+msgstr "ارز مرجع: %s"
+msgid "Add custom filters"
+msgstr "افزودن فیلتر سفارشی"
+msgid "Export"
+msgstr "برون ریزی"
+msgid "Add link label"
+msgstr "افزودن برچسب پیوند"
+msgid "Incompatible Plugins"
+msgstr "پلاگین های ناسازگار"
+msgid "Compatibility"
+msgstr "سازگاری"
+msgid "Permissions and ownership"
+msgstr "مجوزها و مالکیت"
+msgid "Priorities"
+msgstr "مشخصات"
+msgid "Close this window"
+msgstr "این پنجره را ببند"
+msgid "Unable to upload this file."
+msgstr "بارگذاری این فایل امکان پذیر نیست"
+msgid "Import tasks"
+msgstr "درون ریزی کارها"
+msgid "Choose a project"
+msgstr "انتخاب یک پروژه"
+msgid "Profile"
+msgstr "پروفایل"
+msgid "Application role"
+msgstr "نقش اپلیکیشنی"
+msgid "%d invitations were sent."
+msgstr "تعداد %d دعوتنامه ارسال شد."
+msgid "%d invitation was sent."
+msgstr "تعداد %d دعوتنامه ارسال شد."
+msgid "Unable to create this user."
+msgstr "ایجاد این کاربر امکان پذیر نیست."
+msgid "Kanboard Invitation"
+msgstr "دعوتنامه کان بُرد"
+msgid "Visible on dashboard"
+msgstr "قابل مشاهده در میز کار"
+msgid "Created at:"
+msgstr "ایجاد شده در:"
+msgid "Updated at:"
+msgstr "بروز شده در:"
+msgid "There is no custom filter."
+msgstr "هیچ فیلتر سفارشی وجود ندارد."
+msgid "New User"
+msgstr "کاربر جدید"
+msgid "Authentication"
+msgstr "احراز هویت"
+msgid "If checked, this user will use a third-party system for authentication."
+msgstr "اگر انتخاب شده باشد، این کاربر از یک سیستم ثالث برای احراز هویت استفاده خواهد کرد."
+msgid "The password is necessary only for local users."
+msgstr "گذرواژه فقط برای کاربران محلی اجباری است"
+msgid "You have been invited to register on Kanboard."
+msgstr "شما برای ثبت نام در کان بُرد دعوت شده اید."
+msgid "Click here to join your team"
+msgstr "برای پیوستن به تیم خود اینجا کلیک کنید"
+msgid "Invite people"
+msgstr "دعوت افراد"
+msgid "Emails"
+msgstr "ایمیل ها"
+msgid "Enter one email address by line."
+msgstr "هر ایمیل را در یک خط وارد کنید."
+msgid "Add these people to this project"
+msgstr "این افراد را به این پروژه اضافه کنید"
+msgid "Add this person to this project"
+msgstr "این شخص را به این پروژه اضافه کنید"
+msgid "Sign-up"
+msgstr "ثبت نام"
+msgid "Credentials"
+msgstr "اعتبارنامه ها"
+msgid "New user"
+msgstr "کاربر جدید"
+msgid "This username is already taken"
+msgstr "این نام کاربری در حال حاضر استفاده شده است"
+msgid "Your profile must have a valid email address."
+msgstr "پروفایل شما باید یک آدرس ایمیل معتبر داشته باشد"
+msgid "TRL - Turkish Lira"
+msgstr "TRL - لیر ترکیه"
+msgid "The project email is optional and could be used by several plugins."
+msgstr "ایمیل پروژه اختیاری است و می تواند توسط چندین پلاگین مورد استفاده قرار گیرد."
+msgid "The project email must be unique across all projects"
+msgstr "ایمیل پروژه باید بین همه پروژه ها یکتا باشد"
+msgid "The email configuration has been disabled by the administrator."
+msgstr "تنظیمات ایمیل توسط مدیر سیستم غیر فعال شده است"
+msgid "Close this project"
+msgstr "بستن این پروژه"
+msgid "Open this project"
+msgstr "باز کردن این پروژه"
+msgid "Close a project"
+msgstr "بستن یک پروژه"
+msgid "Do you really want to close this project: \"%s\"?"
+msgstr "واقعاً می خواهید این پروژه را ببندید؟ : \"%s\""
+msgid "Reopen a project"
+msgstr "بازگشایی مجدد یک پروژه"
+msgid "Do you really want to reopen this project: \"%s\"?"
+msgstr "واقعاً می خواهید این پروژه را مجددا بازگشایی کنید؟ : \"%s\""
+msgid "This project is open"
+msgstr "این پروژه باز است"
+msgid "This project is closed"
+msgstr "این پروژه بسته است"
+msgid "Unable to upload files, check the permissions of your data folder."
+msgstr "بارگذاری فایل امکان پذیر نیست، مجوزهای پوشه data را بررسی کنید."
+msgid "Another category with the same name exists in this project"
+msgstr "یک دسته بندی دیگر با همین نام در این پروژه وجود دارد"
+msgid "Comment sent by email successfully."
+msgstr "نظر با موفقیت توسط ایمیل ارسال شد."
+msgid "Sent by email to \"%s\" (%s)"
+msgstr "توسط ایمیل ارسال شد به \"%s\" (%s)"
+msgid "Unable to read uploaded file."
+msgstr "خواندن فایل بارگذاری شده امکان پذیر نیست."
+msgid "Database uploaded successfully."
+msgstr "پایگاه داده با موفقیت بارگذاری شد."
+msgid "Task sent by email successfully."
+msgstr "کار با موفقیت توسط ایمیل ارسال شد."
+msgid "There is no category in this project."
+msgstr "هیچ گونه دسته بندی در این پروژه وجود ندارد."
+msgid "Send by email"
+msgstr "ارسال توسط ایمیل"
+msgid "Create and send a comment by email"
+msgstr "ایجاد و ارسال یک نظر توسط ایمیل"
+msgid "Subject"
+msgstr "موضوع"
+msgid "Upload the database"
+msgstr "بارگذاری پایگاه داده"
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "می توانید پایگاه داده Sqlite که قبلا بارگیری کردید را بارگذاری کنید (با فرمت Gzip)"
+msgid "Database file"
+msgstr "فایل پایگاه داده"
+msgid "Upload"
+msgstr "بارگذاری"
+msgid "Your project must have at least one active swimlane."
+msgstr "پروژه شما باید حداقل یک مسیر شنای فعال داشته باشد"
+msgid "Project: %s"
+msgstr "پروژه: %s"
+msgid "Automatic action not found: \"%s\""
+msgstr "عمل خودکار یافت نشد: %s"
+msgid "%d projects"
+msgstr "%d پروژه"
+msgid "%d project"
+msgstr "%d پروژه"
+msgid "There is no project."
+msgstr "هیچ پروژه ای وجود ندارد"
+msgid "Sort"
+msgstr "مرتب سازی"
+msgid "Project ID"
+msgstr "شناسه پروژه"
+msgid "Project name"
+msgstr "نام پروژه"
+msgid "Public"
+msgstr "عمومی"
+msgid "Personal"
+msgstr "خصوصی"
+msgid "%d tasks"
+msgstr "%d کار"
+msgid "%d task"
+msgstr "%d کار"
+msgid "Task ID"
+msgstr "شناسه کار"
+msgid "Assign automatically a color when due date is expired"
+msgstr "وقتی تاریخ سررسید منقضی شد، بصورت خودکار یک رنگ به آن اختصاص بده"
+msgid "Total score in this column across all swimlanes"
+msgstr "امتیاز کل در این ستون بین تمامی مسیرهای شنا"
+msgid "HRK - Kuna"
+msgstr "HRK - کونای کرواسی"
+msgid "ARS - Argentine Peso"
+msgstr "ARS - پزو آرژانتین"
+msgid "COP - Colombian Peso"
+msgstr "COP - پزو کلمبیا"
+msgid "%d groups"
+msgstr "%d گروه"
+msgid "%d group"
+msgstr "%d گروه"
+msgid "Group ID"
+msgstr "شناسه گروه"
+msgid "External ID"
+msgstr "شناسه خارجی"
+msgid "%d users"
+msgstr "%d کاربر"
+msgid "%d user"
+msgstr "%d کاربر"
+msgid "Hide subtasks"
+msgstr "مخفی کردن کارهای فرعی"
+msgid "Show subtasks"
+msgstr "نمایش کارهای فرعی"
+msgid "Authentication Parameters"
+msgstr "پارامتر های احراز هویت"
+msgid "API Access"
+msgstr "دسترسی API"
+msgid "No users found."
+msgstr "کاربری یافت نشد."
+msgid "User ID"
+msgstr "شناسه کاربر"
+msgid "Notifications are activated"
+msgstr "آگاه سازی ها فعال شدند"
+msgid "Notifications are disabled"
+msgstr "آگاه سازی ها غیر فعال شدند"
+msgid "User disabled"
+msgstr "کاربر غیرفعال شد"
+msgid "%d notifications"
+msgstr "%d آگاه سازی"
+msgid "%d notification"
+msgstr "%d آگاه سازی"
+msgid "There is no external integration installed."
+msgstr "هیچ تلفیق خارجی نصب نشده است."
+msgid "You are not allowed to update tasks assigned to someone else."
+msgstr "شما اجازه بروز رسانی کارهایی که به شخص دیگر محول شده را ندارید."
+msgid "You are not allowed to change the assignee."
+msgstr "شما اجازه تغییر شخص محول شده را ندارید."
+msgid "Task suppression is not permitted"
+msgstr "زدودن کار مجاز نیست"
+msgid "Changing assignee is not permitted"
+msgstr "تغییر شخص محول شده مجاز نیست"
+msgid "Update only assigned tasks is permitted"
+msgstr "فقط بروز رسانی کارهای محول شده مجاز است"
+msgid "Only for tasks assigned to the current user"
+msgstr "فقط برای کارهایی که به کاربر جاری محول شده"
+msgid "My projects"
+msgstr "پروژه های من"
+msgid "You are not a member of any project."
+msgstr "شما عضو هیچ پروژه ای نمی باشید."
+msgid "My subtasks"
+msgstr "کارهای فرعی من"
+msgid "%d subtasks"
+msgstr "%d کار فرعی"
+msgid "%d subtask"
+msgstr "%d کار فرعی"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "تنها انتقال کار بین ستون هایی مجاز است که آن کار به کاربر جاری محول شده باشد"
+msgid "[DUPLICATE]"
+msgstr "[تکراری]"
+msgid "DKK - Danish Krona"
+msgstr "DKK - کرون دانمارک"
+msgid "Remove user from group"
+msgstr "حذف کاربر از گروه"
+msgid "Assign the task to its creator"
+msgstr "محول کردن کار به ایجاد کننده آن"
+msgid "This task was sent by email to \"%s\" with subject \"%s\"."
+msgstr "این کار توسط ایمیل به \"%s\" با موضوع \"%s\" ارسال شد."
+msgid "Predefined Email Subjects"
+msgstr "موضوعات ایمیل از پیش تعریف شده"
+msgid "Write one subject by line."
+msgstr "در هر خط یک موضوع بنویسید."
+msgid "Create another link"
+msgstr "ایجاد پیوندی دیگر"
+msgid "BRL - Brazilian Real"
+msgstr "BRL - رال برزیل"
+msgid "Add a new Kanboard task"
+msgstr "ایجاد یک کار جدید کان بُرد"
+msgid "Subtask not started"
+msgstr "کار فرعی شروع نشده"
+msgid "Subtask currently in progress"
+msgstr "کار فرعی در حال حاضر در حال انجام است"
+msgid "Subtask completed"
+msgstr "کار فرعی تکمیل شده"
+msgid "Subtask added successfully."
+msgstr "کار فرعی با موفقیت افزوده شد."
+msgid "%d subtasks added successfully."
+msgstr "%d کار فرعی با موفقیت افزوده شد."
+msgid "Enter one subtask by line."
+msgstr "در هر خط یک کار فرعی وارد کنید."
+msgid "Predefined Contents"
+msgstr "محتوای از پیش تعریف شده"
+msgid "Predefined contents"
+msgstr "محتوای از پیش تعریف شده"
+msgid "Predefined Task Description"
+msgstr "شرح کار از پیش تعریف شده"
+msgid "Do you really want to remove this template? \"%s\""
+msgstr "آیا واقعاً می خواهید این قالب را حذف کنید؟ \"%s\""
+msgid "Add predefined task description"
+msgstr "افزودن شرح کار از پیش تعریف شده"
+msgid "Predefined Task Descriptions"
+msgstr "شرح کار از پیش تعریف شده"
+msgid "Template created successfully."
+msgstr "قالب با موفقیت ایجاد شد."
+msgid "Unable to create this template."
+msgstr "ایجاد این قالب امکان پذیر نیست."
+msgid "Template updated successfully."
+msgstr "قالب با موفقیت بروز شد."
+msgid "Unable to update this template."
+msgstr "بروز رسانی این قالب امکان پذیر نیست."
+msgid "Template removed successfully."
+msgstr "قالب با موفقیت حذف شد."
+msgid "Unable to remove this template."
+msgstr "حذف این قالب امکان پذیر نیست."
+msgid "Template for the task description"
+msgstr "قالب برای این شرح کار"
+msgid "The start date is greater than the end date"
+msgstr "تاریخ شروع از تاریخ پایان جلوتر است"
+msgid "Tags must be separated by a comma"
+msgstr "برچسب ها باید با کاما از هم جدا شوند"
+msgid "Only the task title is required"
+msgstr "تنها عنوان کار الزامی است"
+msgid "Creator Username"
+msgstr "نام کاربری ایجاد کننده"
+msgid "Color Name"
+msgstr "نام رنگ"
+msgid "Column Name"
+msgstr "نام ستون"
+msgid "Swimlane Name"
+msgstr "نام مسیر شنا"
+msgid "Time Estimated"
+msgstr "زمان تخمینی"
+msgid "Time Spent"
+msgstr "زمان سپری شده"
+msgid "External Link"
+msgstr "لینک خارجی"
+msgid "This feature enables the iCal feed, RSS feed and the public board view."
+msgstr "این ویژگی خوراک iCal، خوراک RSS و نمای عمومی برد را فعال می کند."
+msgid "Stop the timer of all subtasks when moving a task to another column"
+msgstr "زمان سنج همه کارهای فرعی را وقتی که کار به ستون دیگری منتقل می شود متوقف کن"
+msgid "Subtask Title"
+msgstr "عنوان کار فرعی"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "وقتی کار به ستون دیگری منتقل می شود، یک کار فرعی به آن افزوده و زمان سنج فعال شود"
+msgid "days"
+msgstr "روز"
+msgid "minutes"
+msgstr "دقیقه"
+msgid "seconds"
+msgstr "ثانیه"
+msgid "Assign automatically a color when preset start date is reached"
+msgstr "هنگامی که تاریخ شروع از قبل تنظیم شده فرا برسد، بصورت خودکار یک رنگ به آن اختصاص بده"
+msgid "Move the task to another column once a predefined start date is reached"
+msgstr "هنگامی که تاریخ شروع از پیش تعریف شده ای فرا رسید، کار را به ستون دیگری منتقل کن"
+msgid "This task is now linked to the task %s with the relation \"%s\""
+msgstr "این کار اکنون به کار %s با ارتباط \"%s\" پیوند خورده است."
+msgid "The link with the relation \"%s\" to the task %s has been removed"
+msgstr "پیوند با ارتباط \"%s\" به کار %s حذف شد."
+msgid "Custom Filter:"
+msgstr "فیلتر سفارشی:"
+msgid "Unable to find this group."
+msgstr "یافتن این گروه امکان پذیر نیست."
+msgid "%s moved the task #%d to the column \"%s\""
+msgstr "کاربر %s کار #%d را به ستون \"%s\" منتقل کرد."
+msgid "%s moved the task #%d to the position %d in the column \"%s\""
+msgstr "کاربر %s کار #%d را به موقعیت %d در ستون \"%s\" منتقل کرد."
+msgid "%s moved the task #%d to the swimlane \"%s\""
+msgstr "کاربر %s کار #%d را به مسیر شنای \"%s\" منتقل کرد"
+msgid "%sh spent"
+msgstr "%sh سپری شده"
+msgid "%sh estimated"
+msgstr "%sh تخمین زده شده"
+msgid "Select All"
+msgstr "انتخاب همه"
+msgid "Unselect All"
+msgstr "عدم انتخاب همه"
+msgid "Apply action"
+msgstr "انجام عمل"
+msgid "Move selected tasks to another column or swimlane"
+msgstr "کارهای انتخاب شده به ستون دیگری منتقل شوند"
+msgid "Edit tasks in bulk"
+msgstr "ویرایش کارها بصورت دسته ای"
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr "مشخصاتی که می خواهید برای کارهای انتخاب شده تغییر کنند را انتخاب کنید."
+msgid "Configure this project"
+msgstr "پیکربندی این پروژه"
+msgid "Start now"
+msgstr "اکنون شروع شود"
+msgid "%s removed a file from the task #%d"
+msgstr "کاربر %s یک فایل را از کار #%d حذف کرد"
+msgid "Attachment removed from task #%d: %s"
+msgstr "پیوست از کار #%d حذف شد: %s"
+msgid "No color"
+msgstr "بدون رنگ"
+msgid "Attachment removed \"%s\""
+msgstr "پیوست حذف شد \"%s\""
+msgid "%s removed a file from the task %s"
+msgstr "کاربر %s یک فایل را از کار %s حذف کرد"
+msgid "Move the task to another swimlane when assigned to a user"
+msgstr "هنگامی که کاری به یک کاربر محول شد، آن کار را به مسیر شنای دیگر منتقل کن"
+msgid "Destination swimlane"
+msgstr "مسیر شنای مقصد"
+msgid "Assign a category when the task is moved to a specific swimlane"
+msgstr "هنگامی که کار به یک مسیر شنای مشخص منتقل شد، یک دسته بندی به آن اختصاص یابد"
+msgid "Move the task to another swimlane when the category is changed"
+msgstr "هنگامی که دسته بندی تغییر کرد، کار را به مسیر شنایی دیگر منتقل کن"
+msgid "Reorder this column by priority (ASC)"
+msgstr "مرتب سازی این ستون بر اساس اولویت (صعودی)"
+msgid "Reorder this column by priority (DESC)"
+msgstr "مرتب سازی این ستون بر اساس اولویت (نزولی)"
+msgid "Reorder this column by assignee and priority (ASC)"
+msgstr "مرتب سازی این ستون بر اساس شخص محول شده و اولویت (صعودی)"
+msgid "Reorder this column by assignee and priority (DESC)"
+msgstr "مرتب سازی این ستون بر اساس شخص محول شده و اولویت (نزولی)"
+msgid "Reorder this column by assignee (A-Z)"
+msgstr "مرتب سازی این ستون بر اساس شخص محول شده (حروف الفبا صعودی)"
+msgid "Reorder this column by assignee (Z-A)"
+msgstr "مرتب سازی این ستون بر اساس شخص محول شده (حروف الفبا نزولی)"
+msgid "Reorder this column by due date (ASC)"
+msgstr "مرتب سازی این ستون بر اساس تاریخ سررسید (صعودی)"
+msgid "Reorder this column by due date (DESC)"
+msgstr "مرتب سازی این ستون بر اساس تاریخ سررسید (نزولی)"
+msgid "%s moved the task #%d \"%s\" to the project \"%s\""
+msgstr "کاربر %s کار #%d \"%s\" را به پروژه \"%s\" منتقل کرد."
+msgid "Task #%d \"%s\" has been moved to the project \"%s\""
+msgstr "کار #%d \"%s\" به پروژه \"%s\" منتقل شد."
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "هنگامی که تاریخ سررسید کمتر از تعداد روز مشخصی شد، کار را به ستونی دیگر منتقل کن"
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "هنگامی که کار از ستونی مشخص منتقل شد، تاریخ شروع کار را بصورت خودکار بروز رسانی کن"
+msgid "HTTP Client:"
+msgstr "کلاینت HTTP:"
+msgid "Assigned"
+msgstr "محول شده"
+msgid "Task limits apply to each swimlane individually"
+msgstr "محدودیت های کار به هر مسیر شنا بصورت مجزا اعمال می گردد"
+msgid "Column task limits apply to each swimlane individually"
+msgstr "محدودیت های کارهای هر ستون به مسیرهای شنای مجزا اعمال می گردد"
+msgid "Column task limits are applied to each swimlane individually"
+msgstr "محدودیت های کارهای هر ستون برای هر مسیر شنا مجزا است"
+msgid "Column task limits are applied across swimlanes"
+msgstr "محدودیت های کارهای هر ستون برای همه مسیرهای شنا اعمال شده است"
+msgid "Task limit: "
+msgstr "محدودیت کار: "
+msgid "Change to global tag"
+msgstr "تبدیل به برچسب جامع"
+msgid "Do you really want to make the tag \"%s\" global?"
+msgstr "واقعا می خواهید برچسب \"%s\" را تبدیل به برچسب جامع کنید؟"
+msgid "Enable global tags for this project"
+msgstr "برچسب های جامع برای این پروژه فعال گردند"
+msgid "Group membership(s):"
+msgstr "عضویت(های) گروهی:"
+msgid "%s is a member of the following group(s): %s"
+msgstr "%s عضوی از این گروه(ها) است: %s"
+msgid "%d/%d group(s) shown"
+msgstr "%d/%d گروه(ها) نمایش داده شده است"
+msgid "Subtask creation or modification"
+msgstr "ایجاد یا تغییر کار فرعی"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "وقتی که کار به یک مسیر شنای خاص منتقل شد، آن را به یک کاربر خاص اختصاص بده"
+msgid "Comment"
+msgstr "توضیح"
+msgid "Collapse vertically"
+msgstr "جمع شدن عمودی"
+msgid "Expand vertically"
+msgstr "باز شدن عمودی"
+msgid "MXN - Mexican Peso"
+msgstr "MXN - پزوی مکزیک"
+msgid "Estimated vs actual time per column"
+msgstr "زمان تخمینی در قیاس با واقعی برای هر ستون"
+msgid "HUF - Hungarian Forint"
+msgstr "HUF - فورینت مجراستان"
+msgid "XBT - Bitcoin"
+msgstr "XBT - بیت کوین"
+msgid "You must select a file to upload as your avatar!"
+msgstr "برای بارگذاری تصویر نمایه تان باید فایلی انتخاب کنید!"
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "فایلی که بارگذاری کردید یک تصویر معتبر نیست! (فقط *.gif, *.jpg, *.jpeg و *.png مجاز هستند!)"
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr ""
+msgid "No other projects found."
+msgstr ""
+msgid "Please choose a project you want to copy the tasks from."
+msgstr ""
+msgid "Import Tasks"
+msgstr ""
+msgid "Copy"
+msgstr ""
+msgid "Tasks copied successfully."
+msgstr ""
+msgid "Unable to copy tasks."
+msgstr ""
 

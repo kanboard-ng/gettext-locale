@@ -1,2868 +1,2868 @@
 
- msgid 'number.decimals_separator'
- msgstr ','
- msgid 'number.thousands_separator'
- msgstr '.'
- msgid 'None'
- msgstr 'Τίποτα'
- msgid 'Edit'
- msgstr 'Διόρθωση'
- msgid 'Remove'
- msgstr 'Αφαίρεση'
- msgid 'Yes'
- msgstr 'Ναι'
- msgid 'No'
- msgstr 'Όχι'
- msgid 'cancel'
- msgstr 'ακύρωση'
- msgid 'or'
- msgstr 'ή'
- msgid 'Yellow'
- msgstr 'Κίτρινο'
- msgid 'Blue'
- msgstr 'Μπλέ'
- msgid 'Green'
- msgstr 'Πράσινο'
- msgid 'Purple'
- msgstr 'Βιολετί'
- msgid 'Red'
- msgstr 'Κόκκινο'
- msgid 'Orange'
- msgstr 'Πορτοκαλί'
- msgid 'Grey'
- msgstr 'Γκρίζο'
- msgid 'Brown'
- msgstr 'Καφέ'
- msgid 'Deep Orange'
- msgstr 'Βαθύ πορτοκαλί'
- msgid 'Dark Grey'
- msgstr 'Βαθύ γκρί'
- msgid 'Pink'
- msgstr 'Ρόζ'
- msgid 'Teal'
- msgstr 'Τυρκουάζ'
- msgid 'Cyan'
- msgstr 'Γαλάζιο'
- msgid 'Lime'
- msgstr 'Λεμονί'
- msgid 'Light Green'
- msgstr 'Ανοιχτό πράσινο'
- msgid 'Amber'
- msgstr 'Κεχριμπαρί'
- msgid 'Save'
- msgstr 'Αποθήκευση'
- msgid 'Login'
- msgstr 'Είσοδος'
- msgid 'Official website:'
- msgstr 'Επίσημο web site:'
- msgid 'Unassigned'
- msgstr 'Μη εκχωρημένο'
- msgid 'View this task'
- msgstr 'Προβολή της εργασίας'
- msgid 'Remove user'
- msgstr 'Αφαίρεση χρήστη'
- msgid 'Do you really want to remove this user: "%s"?'
- msgstr 'Θέλετε σίγουρα να αφαιρέσετε αυτό τον χρήστη: « %s » ?'
- msgid 'All users'
- msgstr 'Όλοι οι χρήστες'
- msgid 'Username'
- msgstr 'Όνομα χρήστη'
- msgid 'Password'
- msgstr 'Κωδικός'
- msgid 'Administrator'
- msgstr 'Διαχειριστής'
- msgid 'Sign in'
- msgstr 'Είσοδος'
- msgid 'Users'
- msgstr 'Χρήστες'
- msgid 'Forbidden'
- msgstr 'Δεν επιτρέπεται η πρόσβαση'
- msgid 'Access Forbidden'
- msgstr 'Δεν επιτρέπεται η πρόσβαση'
- msgid 'Edit user'
- msgstr 'Διόρθωση χρήστη'
- msgid 'Logout'
- msgstr 'Αποσύνδεση'
- msgid 'Bad username or password'
- msgstr 'Λάθος όνομα χρήστη ή κωδικού πρόσβασης'
- msgid 'Edit project'
- msgstr 'Διόρθωση έργου'
- msgid 'Name'
- msgstr 'Όνομα'
- msgid 'Projects'
- msgstr 'Έργα'
- msgid 'No project'
- msgstr 'Δεν υπάρχουν μέλη για το έργο'
- msgid 'Project'
- msgstr 'Έργο'
- msgid 'Status'
- msgstr 'Κατάσταση'
- msgid 'Tasks'
- msgstr 'Εργασίες'
- msgid 'Board'
- msgstr 'Κεντρικός πίνακας έργου'
- msgid 'Actions'
- msgstr 'Ενέργειες'
- msgid 'Inactive'
- msgstr 'Ανενεργός'
- msgid 'Active'
- msgstr 'Ενεργός'
- msgid 'Unable to update this board.'
- msgstr 'Αδύνατη η ενημέρωση αυτού του πίνακα'
- msgid 'Disable'
- msgstr 'Απενεργοποίηση'
- msgid 'Enable'
- msgstr 'Ενεργοποίηση'
- msgid 'New project'
- msgstr 'Νέο έργο'
- msgid 'Do you really want to remove this project: "%s"?'
- msgstr 'Αφαίρεση του έργου: « %s » ?'
- msgid 'Remove project'
- msgstr 'Αφαίρεση του έργου'
- msgid 'Edit the board for "%s"'
- msgstr 'Διόρθωση πίνακα από « %s »'
- msgid 'Add a new column'
- msgstr 'Πρόσθήκη στήλης'
- msgid 'Title'
- msgstr 'Τίτλος'
- msgid 'Assigned to %s'
- msgstr 'Ανατιθεμένο στον %s'
- msgid 'Remove a column'
- msgstr 'Αφαίρεση στήλης'
- msgid 'Unable to remove this column.'
- msgstr 'Αδύνατη η αφαίρεση της στήλης'
- msgid 'Do you really want to remove this column: "%s"?'
- msgstr 'Θέλετε να αφαιρέσετε τη στήλη: « %s » ?'
- msgid 'Settings'
- msgstr 'Προτιμήσεις'
- msgid 'Application settings'
- msgstr 'Παραμετροποίηση εφαρμογής'
- msgid 'Language'
- msgstr 'Γλώσσα'
- msgid 'Webhook token:'
- msgstr 'Διακριτικό ασφαλείας (token) webhooks:'
- msgid 'API token:'
- msgstr 'Διακριτικό ασφαλείας (token) API:'
- msgid 'Database size:'
- msgstr 'Μέγεθος βάσης δεδομένων :'
- msgid 'Download the database'
- msgstr 'Κατεβάστε τη βάση δεδομένων'
- msgid 'Optimize the database'
- msgstr 'Βελτιστοποίηση της βάσης δεδομένων'
- msgid '(VACUUM command)'
- msgstr '(VACUUM command)'
- msgid '(Gzip compressed Sqlite file)'
- msgstr '(Gzip compressed Sqlite file)'
- msgid 'Close a task'
- msgstr 'Κλείσιμο εργασίας'
- msgid 'Column'
- msgstr 'Στήλη'
- msgid 'Color'
- msgstr 'Χρώμα'
- msgid 'Assignee'
- msgstr 'Ανατεθιμένο στον χρήστη'
- msgid 'Create another task'
- msgstr 'Δημιουργία και άλλης εργασίας'
- msgid 'New task'
- msgstr 'Νέα εργασία'
- msgid 'Open a task'
- msgstr 'Άνοιγμα εργασίας'
- msgid 'Do you really want to open this task: "%s"?'
- msgstr 'Άνοιγμα της εργασίας : « %s » ?'
- msgid 'Back to the board'
- msgstr 'Επιστροφή στον κεντρικό πίνακα έργου'
- msgid 'There is nobody assigned'
- msgstr 'Δεν έχει ανατεθεί σε κανένα'
- msgid 'Column on the board:'
- msgstr 'Στήλη στον κεντρικό πίνακα : '
- msgid 'Close this task'
- msgstr 'Κλείσιμο εργασίας'
- msgid 'Open this task'
- msgstr 'Άνοιγμα εργασίας'
- msgid 'There is no description.'
- msgstr 'Δεν υπάρχει περιγραφή.'
- msgid 'Add a new task'
- msgstr 'Προσθήκη νέας εργασίας'
- msgid 'The username is required'
- msgstr 'Το όνομα χρήστη απαιτείται'
- msgid 'The maximum length is %d characters'
- msgstr 'Ο μέγιστος αριθμός χαρακτήρων είναι %d χαρακτήρες'
- msgid 'The minimum length is %d characters'
- msgstr 'Ο ελάχιστος αριθμός χαρακτήρων είναι %d χαρακτήρες'
- msgid 'The password is required'
- msgstr 'Ο κωδικός απαιτείται'
- msgid 'This value must be an integer'
- msgstr 'Η τιμή πρέπει να είναι ακέραιος'
- msgid 'The username must be unique'
- msgstr 'Το όνομα χρήστη πρέπει να είναι μοναδικό'
- msgid 'The user id is required'
- msgstr 'το αναγνωριστικό  χρήστη απαιτείται'
- msgid 'Passwords don\'t match'
- msgstr 'Οι κωδικοί πρόσβασης δεν ταιριάζουν'
- msgid 'The confirmation is required'
- msgstr 'Η επειβεβαίωση απαιτείται'
- msgid 'The project is required'
- msgstr 'Το έργο απαιτείται'
- msgid 'The id is required'
- msgstr 'το αναγνωριστικό απαιτείται'
- msgid 'The project id is required'
- msgstr 'το αναγνωριστικό έργου απαιτείται'
- msgid 'The project name is required'
- msgstr 'Η ονομασία έργου απαιτείται'
- msgid 'The title is required'
- msgstr 'Ο τίτλος απαιτείται'
- msgid 'Settings saved successfully.'
- msgstr 'Οι προτιμήσεις αποθηκεύθηκαν με επιτυχία.'
- msgid 'Unable to save your settings.'
- msgstr 'Αδυναμία αποθήκευσης προτιμήσεων.'
- msgid 'Database optimization done.'
- msgstr 'Η βελτιστοποίηση της βάσης δεδομένων έγινε με επιτυχία.'
- msgid 'Your project has been created successfully.'
- msgstr 'Το έργο δημιουργήθηκε.'
- msgid 'Unable to create your project.'
- msgstr 'Δεν είναι δυνατή η δημιουργία του έργου'
- msgid 'Project updated successfully.'
- msgstr 'Το έργο ενημερώθηκε με επιτυχία.'
- msgid 'Unable to update this project.'
- msgstr 'Δεν είναι δυνατή η ενημέρωση του έργου.'
- msgid 'Unable to remove this project.'
- msgstr 'Δεν είναι δυνατή η διαγραφή του έργου'
- msgid 'Project removed successfully.'
- msgstr 'Το έργο αφαιρέθηκε επιτυχώς.'
- msgid 'Project activated successfully.'
- msgstr 'Το έργο ενεργοποιήθηκε με επιτυχία'
- msgid 'Unable to activate this project.'
- msgstr 'Δεν είναι δυνατή η ενεργοποίηση του έργου'
- msgid 'Project disabled successfully.'
- msgstr 'Το έργο ενεργοποιήθηκε με επιτυχία'
- msgid 'Unable to disable this project.'
- msgstr 'Δεν είναι δυνατή η επενεργοποίηση του έργου.'
- msgid 'Unable to open this task.'
- msgstr 'Δεν είναι δυνατό το άνοιγμα της εργασίας'
- msgid 'Task opened successfully.'
- msgstr 'Η εργασία άνοιξε με επιτυχία'
- msgid 'Unable to close this task.'
- msgstr 'Δεν είναι δυνατό το κλείσιμο της εργασίας'
- msgid 'Task closed successfully.'
- msgstr 'Η εργασία έκλεισε επιτυχώς'
- msgid 'Unable to update your task.'
- msgstr 'Δεν είναι δυνατή η ενημέρωση της εργασίας'
- msgid 'Task updated successfully.'
- msgstr 'Η εργασία ενημερώθηκε επιτυχώς'
- msgid 'Unable to create your task.'
- msgstr 'Δεν είναι δυνατή η δημιουργία της εργασίας'
- msgid 'Task created successfully.'
- msgstr 'Η εργασία δημιουργήθηκε επιτυχώς'
- msgid 'User created successfully.'
- msgstr 'Ο χρήστης δημιουργήθηκε με επιτυχία'
- msgid 'Unable to create your user.'
- msgstr 'Δεν είναι δυνατή η δημιουργία χρήστη'
- msgid 'User updated successfully.'
- msgstr 'Ο χρήστης ενημερωθηκε με επιτυχία'
- msgid 'User removed successfully.'
- msgstr 'Ο χρήστης αφαιρέθηκε με επιτυχία.'
- msgid 'Unable to remove this user.'
- msgstr 'Δεν είναι δυνατή η αφαίρεση χρήστη.'
- msgid 'Board updated successfully.'
- msgstr 'Ο πίνακας ενημερώθηκε με επιτυχία.'
- msgid 'Ready'
- msgstr 'Έτοιμο'
- msgid 'Backlog'
- msgstr 'Πρέπει να'
- msgid 'Work in progress'
- msgstr 'Σε πρόοδο'
- msgid 'Done'
- msgstr 'Ολοκληρωμένα'
- msgid 'Application version:'
- msgstr 'Version εφαρμογής :'
- msgid 'Id'
- msgstr 'Αναγνωριστικό.'
- msgid 'Public link'
- msgstr 'Δημόσιος σύνδεσμος'
- msgid 'Timezone'
- msgstr 'Timezone'
- msgid 'Sorry, I didn\'t find this information in my database!'
- msgstr 'Δυστυχώς δεν βρέθηκε αυτή η πληροφορία στη βάση δεδομένων'
- msgid 'Page not found'
- msgstr 'Η σελίδα δεν βρέθηκε'
- msgid 'Complexity'
- msgstr 'Πολυπλοκότητα'
- msgid 'Task limit'
- msgstr 'Όριο εργασιών.'
- msgid 'Task count'
- msgstr 'Αρίθμηση εργασιών'
- msgid 'User'
- msgstr 'Χρήστης'
- msgid 'Comments'
- msgstr 'Σχόλια'
- msgid 'Comment is required'
- msgstr 'Το σχόλιο απαιτείται'
- msgid 'Comment added successfully.'
- msgstr 'Το σχόλιο σας προστέθηκε με επιτυχία.'
- msgid 'Unable to create your comment.'
- msgstr 'Δεν είναι δυνατή η προσθήκη του σχολίου σας.'
- msgid 'Due Date'
- msgstr 'Μέχρι την ημερομηνία'
- msgid 'Invalid date'
- msgstr 'Μη ορθή ημερομηνία'
- msgid 'Automatic actions'
- msgstr 'Αυτόματες ενέργειες'
- msgid 'Your automatic action has been created successfully.'
- msgstr 'Η αυτόματη ενέργεια δημιουργήθηκε με επιτυχία.'
- msgid 'Unable to create your automatic action.'
- msgstr 'Impossible de créer votre action automatisée.'
- msgid 'Remove an action'
- msgstr 'Αφαίρεση ενέργειας'
- msgid 'Unable to remove this action.'
- msgstr 'Δεν είναι δυνατή η αφαίρεση αυτής της ενέργειας'
- msgid 'Action removed successfully.'
- msgstr 'Η ενέργεια αφαιρέθηκε με επιτυχία.'
- msgid 'Automatic actions for the project "%s"'
- msgstr 'Αυτόματες ενέργειες για το έργο « %s »'
- msgid 'Add an action'
- msgstr 'Προσθήκη ενέργειας'
- msgid 'Event name'
- msgstr 'Ονομασία συμβάντος'
- msgid 'Action'
- msgstr 'Ενέργεια'
- msgid 'Event'
- msgstr 'Συμβάν'
- msgid 'When the selected event occurs execute the corresponding action.'
- msgstr 'Όταν εμφανίζεται το επιλεγμένο συμβάν εκτελέστε την αντίστοιχη ενέργεια.'
- msgid 'Next step'
- msgstr 'Επόμενο βήμα'
- msgid 'Define action parameters'
- msgstr 'Ορισμός παραμέτρων ενέργειας'
- msgid 'Do you really want to remove this action: "%s"?'
- msgstr 'Αφαίρεση της ενέργειας: « %s » ?'
- msgid 'Remove an automatic action'
- msgstr 'Αφαίρεση  της αυτόματης ενέργειας'
- msgid 'Assign the task to a specific user'
- msgstr 'Ανάθεση της εργασίας σε συγκεκριμένο χρήστη'
- msgid 'Assign the task to the person who does the action'
- msgstr 'Ανάθεση της εργασίας στο άτομο που κάνει την ενέργεια'
- msgid 'Duplicate the task to another project'
- msgstr 'Αντιγραφή εργασίας σε άλλο έργο'
- msgid 'Move a task to another column'
- msgstr 'Μεταφορά εργασίας σε άλλη στήλη'
- msgid 'Task modification'
- msgstr 'Διόρθωση εργασίας'
- msgid 'Task creation'
- msgstr 'Δημιουργία εργασίας'
- msgid 'Closing a task'
- msgstr 'Κλείσιμο εργασίας'
- msgid 'Assign a color to a specific user'
- msgstr 'Ανάθεση χρώματος σε συγκεκριμένο χρήστη'
- msgid 'Position'
- msgstr 'Θέση'
- msgid 'Duplicate to project'
- msgstr 'Αντιγραφή σε άλλο έργο'
- msgid 'Duplicate'
- msgstr 'Αντιγραφή'
- msgid 'Link'
- msgstr 'σύνδεσμος'
- msgid 'Comment updated successfully.'
- msgstr 'Το σχόλιο ενημερώθηκε με επιτυχία.'
- msgid 'Unable to update your comment.'
- msgstr 'Αδυναμία ενημέρωσης σχολίου.'
- msgid 'Remove a comment'
- msgstr 'Διαγραφή σχολίου'
- msgid 'Comment removed successfully.'
- msgstr 'Το σχόλιο διαγράφτηκε με επιτυχία.'
- msgid 'Unable to remove this comment.'
- msgstr 'Αδυναμία διαγραφής σχολίου.'
- msgid 'Do you really want to remove this comment?'
- msgstr 'Θέλετε να αφαιρέσετε το σχόλιο ?'
- msgid 'Current password for the user "%s"'
- msgstr 'Ο τρέχοντας κωδικός για τον χρήστη  « %s »'
- msgid 'The current password is required'
- msgstr 'Ο τρέχοντας κωδικός πρόσβασης απαιτείται'
- msgid 'Wrong password'
- msgstr 'Λάθος κωδικός πρόσβασης'
- msgid 'Unknown'
- msgstr 'Άγνωστο'
- msgid 'Last logins'
- msgstr 'Τελευταίες συνδέσεις'
- msgid 'Login date'
- msgstr 'Ημερομηνία σύνδεσης'
- msgid 'Authentication method'
- msgstr 'Μέθοδος ελέγχου ταυτότητας'
- msgid 'IP address'
- msgstr 'Διεύθυνση IP'
- msgid 'User agent'
- msgstr 'User agent'
- msgid 'Persistent connections'
- msgstr 'Μόνιμες συνδέσεις'
- msgid 'No session.'
- msgstr 'Καμμία συνεδρία'
- msgid 'Expiration date'
- msgstr 'Ημερομηνία λήξης'
- msgid 'Remember Me'
- msgstr 'Να με θυμάσαι'
- msgid 'Creation date'
- msgstr 'Ημερομηνία δημιουργίας'
- msgid 'Everybody'
- msgstr 'Όλα'
- msgid 'Open'
- msgstr 'Ανοικτά'
- msgid 'Closed'
- msgstr 'Κλειστά'
- msgid 'Search'
- msgstr 'Αναζήτηση'
- msgid 'Nothing found.'
- msgstr 'Δεν βρέθηκε.'
- msgid 'Due date'
- msgstr 'Μέχρι την ημερομηνία'
- msgid 'Description'
- msgstr 'Περιγραφή'
- msgid '%d comments'
- msgstr '%d σχόλια'
- msgid '%d comment'
- msgstr '%d σχόλιο'
- msgid 'Email address invalid'
- msgstr 'Μη αποδεκτή διεύθυνση email'
- msgid 'Your external account is not linked anymore to your profile.'
- msgstr 'Ο λογαριασμός σας δεν συνδέεται πλέον με το προφίλ σας.'
- msgid 'Unable to unlink your external account.'
- msgstr 'Αδυναμία αποσύνδεσης του εξωτερικού σας λογαριασμού.'
- msgid 'External authentication failed'
- msgstr 'Αποτυχία εξωτερικής σύνδεσης'
- msgid 'Your external account is linked to your profile successfully.'
- msgstr 'Ο λογαριασμός σας συνδέθηκε με το προφίλ σας με επιτυχία.'
- msgid 'Email'
- msgstr 'Email'
- msgid 'Task removed successfully.'
- msgstr 'Η εργασία αφαιρέθηκε με επιτυχία.'
- msgid 'Unable to remove this task.'
- msgstr 'Δεν είναι δυνατή η αφαίρεση της εργασίας.'
- msgid 'Remove a task'
- msgstr 'Αφαίρεση εργασίας'
- msgid 'Do you really want to remove this task: "%s"?'
- msgstr 'Αφαίρεση της εργασίας « %s » ?'
- msgid 'Assign automatically a color based on a category'
- msgstr 'Αυτόματη εκχώρηση ενός χρώματος με βάση την κατηγορία'
- msgid 'Assign automatically a category based on a color'
- msgstr 'Αυτόματη εκχώρηση μιας κατηγορίας με βάση το χρώμα'
- msgid 'Task creation or modification'
- msgstr 'Δημιουργία ή τροποποίηση εργασιών'
- msgid 'Category'
- msgstr 'Κατηγορία'
- msgid 'Category:'
- msgstr 'Κατηγορία:'
- msgid 'Categories'
- msgstr 'Κατηγορίες'
- msgid 'Your category has been created successfully.'
- msgstr 'Η κατηγορία δημιουργήθηκε.'
- msgid 'This category has been updated successfully.'
- msgstr 'Η ενημέρωση της κατηγορίας καταχωρήθηκε με επιτυχία.'
- msgid 'Unable to update this category.'
- msgstr 'Δεν είναι δυνατή η ενημέρωση της κατηγορίας.'
- msgid 'Remove a category'
- msgstr 'Διαγραφή κατηγορίας'
- msgid 'Category removed successfully.'
- msgstr 'Η κατηγορία διεγράφει επιτυχώς.'
- msgid 'Unable to remove this category.'
- msgstr 'Δεν είναι δυνατή η διαγραφή της κατηγορίας.'
- msgid 'Category modification for the project "%s"'
- msgstr 'Τροποποίηση κατηγορίας για το έργο « %s »'
- msgid 'Category Name'
- msgstr 'Ονομασία κατηγορίας'
- msgid 'Add a new category'
- msgstr 'Προσθήκη νέας κατηγορίας'
- msgid 'Do you really want to remove this category: "%s"?'
- msgstr 'Διαγραφή της κατηγορίας « %s » ?'
- msgid 'All categories'
- msgstr 'Όλες οι κατηγορίες'
- msgid 'No category'
- msgstr 'Χωρίς κατηγορία'
- msgid 'The name is required'
- msgstr 'Η ονομασία απαιτείται'
- msgid 'Remove a file'
- msgstr 'Αφαίρεση αρχείου'
- msgid 'Unable to remove this file.'
- msgstr 'Αδυναμία αφαίρεσης αρχείου.'
- msgid 'File removed successfully.'
- msgstr 'Το αρχείο αφαιρέθηκε επιτυχώς.'
- msgid 'Attach a document'
- msgstr 'Προσθήκη Συνημμένου'
- msgid 'Do you really want to remove this file: "%s"?'
- msgstr 'Αφαίρεση του αρχείου: « %s » ?'
- msgid 'Attachments'
- msgstr 'Συνημμένα'
- msgid 'Edit the task'
- msgstr 'Διόρθωση εργασίας'
- msgid 'Add a comment'
- msgstr 'Προσθήκη σχολίου'
- msgid 'Edit a comment'
- msgstr 'Διόρθωση σχολίου'
- msgid 'Summary'
- msgstr 'Περίληψη'
- msgid 'Time tracking'
- msgstr 'Παρακολούθηση χρόνου'
- msgid 'Estimate:'
- msgstr 'Κατ\' εκτίμηση:'
- msgid 'Spent:'
- msgstr 'Ξοδεύτηκε :'
- msgid 'Do you really want to remove this sub-task?'
- msgstr 'Διαγραφή της υπο-εργασίας ?'
- msgid 'Remaining:'
- msgstr 'Απομένει :'
- msgid 'hours'
- msgstr 'ώρες'
- msgid 'estimated'
- msgstr 'κατ\' εκτίμηση'
- msgid 'Sub-Tasks'
- msgstr 'Υπο-Εργασίες'
- msgid 'Add a sub-task'
- msgstr 'Προσθήκη υπο-εργασίας'
- msgid 'Original estimate'
- msgstr 'Αρχική πρόβλεψη χρόνου'
- msgid 'Create another sub-task'
- msgstr 'Δημιουργία κι άλλης υπο-εργασίας'
- msgid 'Time spent'
- msgstr 'Χρόνος που ξοδεύτηκε'
- msgid 'Edit a sub-task'
- msgstr 'Διόρθωση υπο-εργασίας'
- msgid 'Remove a sub-task'
- msgstr 'Διαγραφή υπο-εργασίας'
- msgid 'The time must be a numeric value'
- msgstr 'Ο χρόνος πρέπει να είναι αριθμός'
- msgid 'Todo'
- msgstr 'Πρέπει να γίνουν'
- msgid 'In progress'
- msgstr 'Σε πρόοδο'
- msgid 'Sub-task removed successfully.'
- msgstr 'Η υπο-εργασία αφαιρέθηκε με επιτυχία.'
- msgid 'Unable to remove this sub-task.'
- msgstr 'Αδυναμία αφαίρεσης υπο-εργασίας.'
- msgid 'Sub-task updated successfully.'
- msgstr 'Η υπο-εργασία ενημερώθηκε με επιτυχία.'
- msgid 'Unable to update your sub-task.'
- msgstr 'Αδύνατο να ενημερωθεί η υπο-εργασία.'
- msgid 'Unable to create your sub-task.'
- msgstr 'Αδύνατο να δημιουργηθεί η υπο-εργασία.'
- msgid 'Maximum size: '
- msgstr 'Μέγιστο μέγεθος : '
- msgid 'Display another project'
- msgstr 'Εμφάνιση άλλου έργου'
- msgid 'Created by %s'
- msgstr 'Δημιουργήθηκε από %s'
- msgid 'Tasks Export'
- msgstr 'Εξαγωγή εργασιών'
- msgid 'Start Date'
- msgstr 'Ημερομηνία έναρξης'
- msgid 'Execute'
- msgstr 'Εκτέλεση'
- msgid 'Task Id'
- msgstr 'Task Id'
- msgid 'Creator'
- msgstr 'Δημιουργός'
- msgid 'Modification date'
- msgstr 'Ημερομηνία τροποποίησης'
- msgid 'Completion date'
- msgstr 'Ημερομηνία ολοκλήρωσης'
- msgid 'Clone'
- msgstr 'Clone'
- msgid 'Project cloned successfully.'
- msgstr 'Το έργο κλωνοποιήθηκε με επιτυχία.'
- msgid 'Unable to clone this project.'
- msgstr 'Αδύνατο να κλωνοποιηθεί το έργο.'
- msgid 'Enable email notifications'
- msgstr 'Ενεργοποίηση ειδοποιήσεων ηλεκτρονικού ταχυδρομείου'
- msgid 'Task position:'
- msgstr 'Θέση έργου:'
- msgid 'The task #%d has been opened.'
- msgstr 'Η εργασία #%d έχει ανοίξει.'
- msgid 'The task #%d has been closed.'
- msgstr 'Η εργασία #%d έχει κλείσει.'
- msgid 'Sub-task updated'
- msgstr 'Η υπο-εργασία ενημερώθηκε'
- msgid 'Title:'
- msgstr 'Τίτλος:'
- msgid 'Status:'
- msgstr 'Κατάσταση:'
- msgid 'Assignee:'
- msgstr 'Εντολοδόχος:'
- msgid 'Time tracking:'
- msgstr 'Παρακολούθηση του χρόνου:'
- msgid 'New sub-task'
- msgstr 'Νέα υπο-εργασία'
- msgid 'New attachment added "%s"'
- msgstr 'Νέα επικόλληση προστέθηκε « %s »'
- msgid 'New comment posted by %s'
- msgstr 'Νέο σχόλιο από τον χρήστη « %s »'
- msgid 'New comment'
- msgstr 'Νέο σχόλιο'
- msgid 'Comment updated'
- msgstr 'Το σχόλιο ενημερώθηκε'
- msgid 'New subtask'
- msgstr 'Νέα υπο-εργασία'
- msgid 'I only want to receive notifications for these projects:'
- msgstr 'Θέλω να ενημερώνομαι αποκλειστικά για:'
- msgid 'view the task on Kanboard'
- msgstr 'Προβολή της εργασίας στο Kanboard'
- msgid 'Public access'
- msgstr 'Ανοιχτή πρόσβαση'
- msgid 'Disable public access'
- msgstr 'Απενεργοποίηση δημόσιας πρόσβασης'
- msgid 'Enable public access'
- msgstr 'Ενεργοποίηση δημόσιας πρόσβασης'
- msgid 'Public access disabled'
- msgstr 'Δημόσια πρόσβαση απενεργοποιήθηκε'
- msgid 'Move the task to another project'
- msgstr 'Μεταφορά της εργασίας σε άλλο έργο'
- msgid 'Move to project'
- msgstr 'Μεταφορά σε άλλο έργο'
- msgid 'Do you really want to duplicate this task?'
- msgstr 'Θέλετε πραγματικά να επαναλάβετε αυτή την εργασία;?'
- msgid 'Duplicate a task'
- msgstr 'Επανάληψη εργασίας'
- msgid 'External accounts'
- msgstr 'Εξωτερικοί λογαριασμοί'
- msgid 'Account type'
- msgstr 'Τύπος λογαριασμού'
- msgid 'Local'
- msgstr 'Τοπική'
- msgid 'Remote'
- msgstr 'Απομακρυσμένη'
- msgid 'Enabled'
- msgstr 'Ενεργή'
- msgid 'Disabled'
- msgstr 'Απενεργοποιημένη'
- msgid 'Login:'
- msgstr 'Login:'
- msgid 'Full Name:'
- msgstr 'Όνομα:'
- msgid 'Email:'
- msgstr 'Email:'
- msgid 'Notifications:'
- msgstr 'Ειδοποιήσεις:'
- msgid 'Notifications'
- msgstr 'Ειδοποιήσεις'
- msgid 'Account type:'
- msgstr 'Τύπος λογαριασμού:'
- msgid 'Edit profile'
- msgstr 'Επεξεργασία προφίλ'
- msgid 'Change password'
- msgstr 'Αλλαγή password'
- msgid 'Password modification'
- msgstr 'Τροποποίηση password '
- msgid 'External authentications'
- msgstr 'Εξωτερικές πιστοποιήσεις'
- msgid 'Never connected.'
- msgstr 'Ποτέ δεν συνδέθηκε.'
- msgid 'No external authentication enabled.'
- msgstr 'Καμία εξωτερική πιστοποιήση ενεργοποιημένη.'
- msgid 'Password modified successfully.'
- msgstr 'Το password τροποποιήθηκε με επιτυχία.'
- msgid 'Unable to change the password.'
- msgstr 'Αδύνατο να αλλάξει το password.'
- msgid 'Change category'
- msgstr 'Αλλαγή κατηγορίας'
- msgid '%s updated the task %s'
- msgstr '%s ενημέρωσε την εργασία %s'
- msgid '%s opened the task %s'
- msgstr '%s άνοιξε την εργασία %s'
- msgid '%s moved the task %s to the position #%d in the column "%s"'
- msgstr '%s άλλαξε την εργασία %s στη θέση n°%d στη στήλη « %s »'
- msgid '%s moved the task %s to the column "%s"'
- msgstr '%s άλλαξε την εργασία %s στη στήλη « %s »'
- msgid '%s created the task %s'
- msgstr '%s δημιούργησε την εργασία %s'
- msgid '%s closed the task %s'
- msgstr '%s έκλεισε την εργασία %s'
- msgid '%s created a subtask for the task %s'
- msgstr '%s δημιούργησε την υπο-εργασία στην εργασία %s'
- msgid '%s updated a subtask for the task %s'
- msgstr '%s ενημέρωση την υπο-εργασία στην εργασία %s'
- msgid 'Assigned to %s with an estimate of %s/%sh'
- msgstr 'Ανατέθηκε στον %s με μια εκτίμηση του %s/%sh'
- msgid 'Not assigned, estimate of %sh'
- msgstr 'Δεν έχει εκχωρηθεί, εκτίμηση %sh'
- msgid '%s updated a comment on the task %s'
- msgstr '%s ενημερώθηκε ένα σχόλιο στην εργασία %s'
- msgid '%s commented the task %s'
- msgstr '%s σχολίασε την εργασία %s'
- msgid '%s\'s activity'
- msgstr 'δραστηριότητα του έργου %s'
- msgid 'RSS feed'
- msgstr 'RSS feed'
- msgid '%s updated a comment on the task #%d'
- msgstr '%s ενημέρωσε ένα σχόλιο στην εργασία n°%d'
- msgid '%s commented on the task #%d'
- msgstr '%s σχολίασε την εργασία n°%d'
- msgid '%s updated a subtask for the task #%d'
- msgstr '%s ενημερώθηκε μια υπο-εργασία στην εργασία n °%d'
- msgid '%s created a subtask for the task #%d'
- msgstr '%s δημιουργήθηκε μια υπο-εργασία στην εργασία n°%d'
- msgid '%s updated the task #%d'
- msgstr '%s ενημέρωσε την εργασία n°%d'
- msgid '%s created the task #%d'
- msgstr '%s δημιούργησε την εργασία n°%d'
- msgid '%s closed the task #%d'
- msgstr '%s έκλεισε την εργασία n°%d'
- msgid '%s opened the task #%d'
- msgstr '%s άνοιξε την εργασία n°%d'
- msgid 'Activity'
- msgstr 'Δραστηριότητα'
- msgid 'Default values are "%s"'
- msgstr 'Οι προεπιλεγμένες τιμές είναι « %s »'
- msgid 'Default columns for new projects (Comma-separated)'
- msgstr 'Προεπιλεγμένες στήλες για νέα έργα (Comma-separated)'
- msgid 'Task assignee change'
- msgstr 'Αλλαγή εκδοχέα εργασίας'
- msgid '%s changed the assignee of the task #%d to %s'
- msgstr '%s άλλαξε τον εκδοχέα της εργασίας n˚%d σε %s'
- msgid '%s changed the assignee of the task %s to %s'
- msgstr '%s ενημέρωσε τον εκδοχέα της εργασίας %s σε %s'
- msgid 'New password for the user "%s"'
- msgstr 'Νέο password του χρήστη « %s »'
- msgid 'Choose an event'
- msgstr 'Επιλογή event'
- msgid 'Create a task from an external provider'
- msgstr 'Δημιουργήστε μια εργασία από ένα εξωτερικό πάροχο'
- msgid 'Change the assignee based on an external username'
- msgstr 'Αλλάξτε τον εκδοχέα βάση ενός εξωτερικού username'
- msgid 'Change the category based on an external label'
- msgstr 'Αλλάξτε τον εκδοχέα βάση ενός εξωτερικού label'
- msgid 'Reference'
- msgstr 'Reference'
- msgid 'Label'
- msgstr 'Label'
- msgid 'Database'
- msgstr 'Database'
- msgid 'About'
- msgstr 'About'
- msgid 'Database driver:'
- msgstr 'Database driver:'
- msgid 'Board settings'
- msgstr 'Board settings'
- msgid 'Webhook settings'
- msgstr 'Webhook settings'
- msgid 'Reset token'
- msgstr 'Reset token'
- msgid 'API endpoint:'
- msgstr 'URL API:'
- msgid 'Refresh interval for personal board'
- msgstr 'Ανανέωση interval στο personal board'
- msgid 'Refresh interval for public board'
- msgstr 'Ανανέωση interval στο public board'
- msgid 'Task highlight period'
- msgstr 'Περίοδος εργασίας'
- msgid 'Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)'
- msgstr 'Περίοδος (σε δευτερόλεπτα) για να εξετάσει ότι ένα έργο τροποποιήθηκε πρόσφατα (0 για να απενεργοποιήσετε, 2 ημέρες από προεπιλογή)'
- msgid 'Frequency in second (60 seconds by default)'
- msgstr 'Συχνότητα σε δευτερόλεπτα (60 δευτερόλεπτα από προεπιλογή)'
- msgid 'Frequency in second (0 to disable this feature, 10 seconds by default)'
- msgstr 'Συχνότητα σε δευτερόλεπτα (0 για να απενεργοποιήσετε αυτή τη λειτουργία, 10 δευτερόλεπτα από προεπιλογή)'
- msgid 'Application URL'
- msgstr 'Application URL'
- msgid 'Token regenerated.'
- msgstr 'Token regenerated.'
- msgid 'Date format'
- msgstr 'Μορφή ημερομηνίας'
- msgid 'ISO format is always accepted, example: "%s" and "%s"'
- msgstr 'ISO format είναι πάντα αποδεκτό, π.χ.: « %s » και « %s »'
- msgid 'New personal project'
- msgstr 'Νέο ιδιωτικό έργο'
- msgid 'This project is personal'
- msgstr 'Αυτό το έργο είναι ιδιωτικό'
- msgid 'Add'
- msgstr 'Προσθήκη'
- msgid 'Start date'
- msgstr 'Ημερομηνία έναρξης'
- msgid 'Time estimated'
- msgstr 'Εκτιμώμενος χρόνος'
- msgid 'There is nothing assigned to you.'
- msgstr 'Δεν σας έχει ανατεθεί τίποτα.'
- msgid 'My tasks'
- msgstr 'Οι εργασίες μου'
- msgid 'Activity stream'
- msgstr 'Ροή δραστηριότητας'
- msgid 'Dashboard'
- msgstr 'Κεντρικό ταμπλό'
- msgid 'Confirmation'
- msgstr 'Επιβεβαίωση'
- msgid 'Webhooks'
- msgstr 'Webhooks'
- msgid 'API'
- msgstr 'API'
- msgid 'Create a comment from an external provider'
- msgstr 'Δημιουργήστε ένα σχόλιο από έναν εξωτερικό πάροχο'
- msgid 'Project management'
- msgstr 'Διαχείριση έργων'
- msgid 'Columns'
- msgstr 'Στήλες'
- msgid 'Task'
- msgstr 'Εργασία'
- msgid 'Percentage'
- msgstr 'Ποσοστό'
- msgid 'Number of tasks'
- msgstr 'Αριθμός εργασιών'
- msgid 'Task distribution'
- msgstr 'Κατανομή εργασιών'
- msgid 'Analytics'
- msgstr 'Αναλύσεις'
- msgid 'Subtask'
- msgstr 'Υπο-Εργασία'
- msgid 'User repartition'
- msgstr 'Επαναλήψεις χρηστών'
- msgid 'Clone this project'
- msgstr 'Κλωνοποίηση έργου'
- msgid 'Column removed successfully.'
- msgstr 'Η στήλη αφαιρέθηκε με επιτυχία.'
- msgid 'Not enough data to show the graph.'
- msgstr 'Ελλειπή δεδομένα για να εμφανιστεί το γράφημα.'
- msgid 'Previous'
- msgstr 'Προηγούμενο'
- msgid 'The id must be an integer'
- msgstr 'Το id δεν πρέπει να είναι ακέραιος'
- msgid 'The project id must be an integer'
- msgstr 'Το αναγνωριστικό έργου πρέπει να είναι ακέραιος'
- msgid 'The status must be an integer'
- msgstr 'Το status πρέπει να είναι ακέραιος'
- msgid 'The subtask id is required'
- msgstr 'Το id της υπο-εργασίας είναι υποχρεωτικό'
- msgid 'The subtask id must be an integer'
- msgstr 'Το id της υπο-εργασίας πρέπει να είναι ακέραιος'
- msgid 'The task id is required'
- msgstr 'Το id της εργασίας είναι υποχρεωτικό'
- msgid 'The task id must be an integer'
- msgstr 'Το id της εργασίας πρέπει να είναι ακέραιος'
- msgid 'The user id must be an integer'
- msgstr 'Το user id πρέπει να είναι ακέραιος'
- msgid 'This value is required'
- msgstr 'Η τιμή είναι υποχρεωτική'
- msgid 'This value must be numeric'
- msgstr 'Η τιμή πρέπει να είναι αριθμός'
- msgid 'Unable to create this task.'
- msgstr 'Αδύνατο να δημιουργηθεί αυτή η εργασία.'
- msgid 'Cumulative flow diagram'
- msgstr 'Συγκεντρωτικό διάγραμμα ροής'
- msgid 'Daily project summary'
- msgstr 'Καθημερινή περίληψη του έργου'
- msgid 'Daily project summary export'
- msgstr 'Εξαγωγή της καθημερινής περίληψης του έργου'
- msgid 'Exports'
- msgstr 'Εξαγωγές'
- msgid 'This export contains the number of tasks per column grouped per day.'
- msgstr 'Αυτή η κατάσταση περιέχει τον αριθμό των εργασιών ανά στήλη ομαδοποιημένα ανά ημέρα.'
- msgid 'Active swimlanes'
- msgstr 'Ενεργές λωρίδες'
- msgid 'Add a new swimlane'
- msgstr 'Προσθήκη λωρίδας'
- msgid 'Default swimlane'
- msgstr 'Εξ\' ορισμού λωρίδα'
- msgid 'Do you really want to remove this swimlane: "%s"?'
- msgstr 'Σίγουρα θέλετε να αφαιρέσετε τη λωρίδα : « %s » ?'
- msgid 'Inactive swimlanes'
- msgstr 'Ανενεργές Λωρίδες'
- msgid 'Remove a swimlane'
- msgstr 'Αφαίρεση λωρίδας'
- msgid 'Swimlane modification for the project "%s"'
- msgstr 'Τροποποίηση λωρίδας για το έργο « %s »'
- msgid 'Swimlane removed successfully.'
- msgstr 'Η λωρίδα αφαιρέθηκε με επιτυχία.'
- msgid 'Swimlanes'
- msgstr 'Λωρίδες'
- msgid 'Swimlane updated successfully.'
- msgstr 'Η λωρίδα ενημερώθηκε με επιτυχία.'
- msgid 'Unable to remove this swimlane.'
- msgstr 'Αδύνατο να αφαιρεθεί η λωρίδα.'
- msgid 'Unable to update this swimlane.'
- msgstr 'Αδύνατο να ενημερωθεί η λωρίδα.'
- msgid 'Your swimlane has been created successfully.'
- msgstr 'Η λωρίδα δημιουργήθηκε με επιτυχία.'
- msgid 'Example: "Bug, Feature Request, Improvement"'
- msgstr 'Παράδειγμα: "Bug, Feature Request, Improvement »'
- msgid 'Default categories for new projects (Comma-separated)'
- msgstr 'Προεπιλεγμένες κατηγορίες για νέα έργα (Διαχωρισμένων με κόμμα)'
- msgid 'Integrations'
- msgstr 'Ενσωματώσεις'
- msgid 'Integration with third-party services'
- msgstr 'Ενοποίηση με υπηρεσίες τρίτων'
- msgid 'Subtask Id'
- msgstr 'Id υπο-εργασίας'
- msgid 'Subtasks'
- msgstr 'Υπο-Εργασίες'
- msgid 'Subtasks Export'
- msgstr 'Εξαγωγή υπο-εργασίων'
- msgid 'Task Title'
- msgstr 'Τίτλος εργασίας'
- msgid 'Untitled'
- msgstr 'Χωρίς τίτλο'
- msgid 'Application default'
- msgstr 'Προεπιλογή από την εφαρμογή'
- msgid 'Language:'
- msgstr 'Γλώσσα:'
- msgid 'Timezone:'
- msgstr 'Timezone:'
- msgid 'All columns'
- msgstr 'Όλες οι στήλες'
- msgid 'Next'
- msgstr 'Επόμενο'
- msgid '#%d'
- msgstr 'n˚%d'
- msgid 'All swimlanes'
- msgstr 'Όλες οι λωρίδες'
- msgid 'All colors'
- msgstr 'Όλα τα χρώματα'
- msgid 'Moved to column %s'
- msgstr 'Μεταφορά στη στήλη %s'
- msgid 'User dashboard'
- msgstr 'Κεντρικό ταμπλό χρήστη'
- msgid 'Allow only one subtask in progress at the same time for a user'
- msgstr 'Αφήστε μόνο μία υπο-εργασία σε εξέλιξη ταυτόχρονα για έναν χρήστη'
- msgid 'Edit column "%s"'
- msgstr 'Επεξεργασία στήλης « %s »'
- msgid 'Select the new status of the subtask: "%s"'
- msgstr 'Επιλογή νέας κατάστασης της υπο-εργασίας : « %s »'
- msgid 'Subtask timesheet'
- msgstr 'Πρόγραμμα υπο-εργασίας'
- msgid 'There is nothing to show.'
- msgstr 'Δεν υπάρχει κάτι.'
- msgid 'Time Tracking'
- msgstr 'Παρακολούθηση χρονοδιαγράμματος'
- msgid 'You already have one subtask in progress'
- msgstr 'Έχετε ήδη μια υπο-εργασία σε εξέλιξη'
- msgid 'Which parts of the project do you want to duplicate?'
- msgstr 'Ποιά κομμάτια του έργου θέλετε να αντιγράψετε ?'
- msgid 'Disallow login form'
- msgstr 'Απαγόρευση φόρμας σύνδεσης'
- msgid 'Start'
- msgstr 'Εκκίνηση'
- msgid 'End'
- msgstr 'Τέλος'
- msgid 'Task age in days'
- msgstr 'Χρόνος εργασίας σε μέρες'
- msgid 'Days in this column'
- msgstr 'Μέρες σε αυτή την στήλη'
- msgid '%dd'
- msgstr '%dημ'
- msgid 'Add a new link'
- msgstr 'Προσθήκη ενός νέου link'
- msgid 'Do you really want to remove this link: "%s"?'
- msgstr 'Θέλετε σίγουρα να αφαιρέσετε αυτό το link : « %s » ?'
- msgid 'Do you really want to remove this link with task #%d?'
- msgstr 'Θέλετε σίγουρα να αφαιρέσετε αυτό το link του έργου n°%d ?'
- msgid 'Field required'
- msgstr 'Υποχρεωτικό πεδίο'
- msgid 'Link added successfully.'
- msgstr 'Το link προστέθηκε με επιτυχία.'
- msgid 'Link updated successfully.'
- msgstr 'Το link ενημερώθηκε με επιτυχία.'
- msgid 'Link removed successfully.'
- msgstr 'Το link αφαιρέθηκε με επιτυχία.'
- msgid 'Link labels'
- msgstr 'Link labels'
- msgid 'Link modification'
- msgstr 'Τροποποίηση Link '
- msgid 'Opposite label'
- msgstr 'Αντίθετο label'
- msgid 'Remove a link'
- msgstr 'Αφαίρεση ενός link'
- msgid 'The labels must be different'
- msgstr 'Τα label πρέπει να είναι διαφορετικά'
- msgid 'There is no link.'
- msgstr 'Δεν υπάρχει σύνδεσμος.'
- msgid 'This label must be unique'
- msgstr 'Το label πρέπει να είναι μοναδικό'
- msgid 'Unable to create your link.'
- msgstr 'Αδύνατο να δημιουργήσετε σύνδεσμο.'
- msgid 'Unable to update your link.'
- msgstr 'Αδύνατο να ενημερώσετε τον σύνδεσμο.'
- msgid 'Unable to remove this link.'
- msgstr 'Αδύνατο να αφαιρέσετε τον σύνδεσμο.'
- msgid 'relates to'
- msgstr 'συνδέεται με'
- msgid 'blocks'
- msgstr 'blocks'
- msgid 'is blocked by'
- msgstr 'μπλοκάρεται από'
- msgid 'duplicates'
- msgstr 'διπλότυπα'
- msgid 'is duplicated by'
- msgstr 'αντιγράφεται από'
- msgid 'is a child of'
- msgstr 'είναι ένα παιδί του'
- msgid 'is a parent of'
- msgstr 'είναι ο πατέρας του'
- msgid 'targets milestone'
- msgstr 'στόχοι οροσήμου'
- msgid 'is a milestone of'
- msgstr 'είναι ένα ορόσημο της'
- msgid 'fixes'
- msgstr 'διορθώσεις'
- msgid 'is fixed by'
- msgstr 'διορθώθηκε από'
- msgid 'This task'
- msgstr 'Αυτή η εργασία'
- msgid '<1h'
- msgstr '<1ωρ'
- msgid '%dh'
- msgstr '%dωρ'
- msgid 'Expand tasks'
- msgstr 'Ανάπτυξη εργασιών'
- msgid 'Collapse tasks'
- msgstr 'Σύμπτυξη εργασιών'
- msgid 'Expand/collapse tasks'
- msgstr 'Ανάπτυξη/σύμπτυξη εργασιών'
- msgid 'Close dialog box'
- msgstr 'Κλείστε το παράθυρο διαλόγου'
- msgid 'Submit a form'
- msgstr 'Αποστολή φόρμας'
- msgid 'Board view'
- msgstr 'Προβολή κεντρικού πίνακα'
- msgid 'Keyboard shortcuts'
- msgstr 'Συντομεύσεις πληκτρολογίου'
- msgid 'Open board switcher'
- msgstr 'Άνοιγμα μεταγωγέα κεντρικού πίνακα'
- msgid 'Application'
- msgstr 'Εφαρμογή'
- msgid 'Compact view'
- msgstr 'Συμπυκνωμένη προβολή'
- msgid 'Horizontal scrolling'
- msgstr 'Οριζόντια ολίσθηση'
- msgid 'Compact/wide view'
- msgstr 'Συμπυκνωμένη/Ευρεία Προβολή'
- msgid 'Currency'
- msgstr 'Νόμισμα'
- msgid 'Personal project'
- msgstr 'Ιδιωτικό έργο'
- msgid 'AUD - Australian Dollar'
- msgstr 'AUD - Australian Dollar'
- msgid 'CAD - Canadian Dollar'
- msgstr 'CAD - Canadian Dollar'
- msgid 'CHF - Swiss Francs'
- msgstr 'CHF - Swiss Francs'
- msgid 'Custom Stylesheet'
- msgstr 'Custom Stylesheet'
- msgid 'EUR - Euro'
- msgstr 'EUR - Euro'
- msgid 'GBP - British Pound'
- msgstr 'GBP - British Pound'
- msgid 'INR - Indian Rupee'
- msgstr 'INR - Indian Rupee'
- msgid 'JPY - Japanese Yen'
- msgstr 'JPY - Japanese Yen'
- msgid 'NZD - New Zealand Dollar'
- msgstr 'NZD - New Zealand Dollar'
- msgid 'RSD - Serbian dinar'
- msgstr 'RSD - Serbian dinar'
- msgid 'CNY - Chinese Yuan'
- msgstr ''
- msgid 'USD - US Dollar'
- msgstr 'USD - US Dollar'
- msgid 'VES - Venezuelan Bolívar'
- msgstr ''
- msgid 'Destination column'
- msgstr 'Στήλη προορισμού'
- msgid 'Move the task to another column when assigned to a user'
- msgstr 'Μετακινήστε την εργασία σε άλλη στήλη όταν ανατεθεί σε ένα χρήστη'
- msgid 'Move the task to another column when assignee is cleared'
- msgstr 'Μετακινήστε την εργασία σε άλλη στήλη όταν ο εκδοχέας είναι ελεύθερος'
- msgid 'Source column'
- msgstr 'Πηγή στήλης'
- msgid 'Transitions'
- msgstr 'Μεταβάσεις'
- msgid 'Executer'
- msgstr 'Εκτέλεση'
- msgid 'Time spent in the column'
- msgstr 'Χρόνος που αφιερώθηκε στη στήλη'
- msgid 'Task transitions'
- msgstr 'Μεταβίβαση εργασίας'
- msgid 'Task transitions export'
- msgstr 'Εξαγωγή μεταβιβάσεων εργασιών'
- msgid 'This report contains all column moves for each task with the date, the user and the time spent for each transition.'
- msgstr 'Η έκθεση αυτή περιέχει όλες τις κινήσεις της στήλης για κάθε εργασία με την ημερομηνία, το χρήστη και το χρόνο που δαπανάται για κάθε μετάβαση.'
- msgid 'Currency rates'
- msgstr 'Ισοτιμίες'
- msgid 'Rate'
- msgstr 'Τιμή'
- msgid 'Change reference currency'
- msgstr 'Αλλαγή ισοτιμίας'
- msgid 'Reference currency'
- msgstr 'Αναφορά ισοτιμίας'
- msgid 'The currency rate has been added successfully.'
- msgstr 'Η ισοτιμία προστέθηκε με επιτυχία.'
- msgid 'Unable to add this currency rate.'
- msgstr 'Αδύνατο να προστεθεί αυτή η ισοτιμία.'
- msgid 'Webhook URL'
- msgstr 'Webhook URL'
- msgid '%s removed the assignee of the task %s'
- msgstr '%s αφαίρεσε τον εκδοχέα της εργασίας %s'
- msgid 'Information'
- msgstr 'Πληροφορίες'
- msgid 'Check two factor authentication code'
- msgstr 'Ελέγξτε δύο παράγοντες ελέγχου ταυτότητας κωδικού'
- msgid 'The two factor authentication code is not valid.'
- msgstr 'Ο κωδικός ελέγχου ταυτότητας δύο παραγόντων δεν είναι σωστός.'
- msgid 'The two factor authentication code is valid.'
- msgstr 'Ο κωδικός ελέγχου ταυτότητας δύο παραγόντων είναι σωστός.'
- msgid 'Code'
- msgstr 'Κωδικός'
- msgid 'Two factor authentication'
- msgstr 'Κωδικός ελέγχου ταυτότητας δύο παραγόντων'
- msgid 'This QR code contains the key URI: '
- msgstr 'Αυτό το QR code περιέχει το url : '
- msgid 'Check my code'
- msgstr 'Έλεγχος του κωδικού μου'
- msgid 'Secret key: '
- msgstr 'Μυστικό κλειδί: '
- msgid 'Test your device'
- msgstr 'Ελέγξτε τη συσκευή σας'
- msgid 'Assign a color when the task is moved to a specific column'
- msgstr 'Αντιστοίχιση χρώματος όταν η εργασία κινείται σε μια συγκεκριμένη στήλη'
- msgid '%s via Kanboard'
- msgstr '%s via Kanboard'
- msgid 'Burndown chart'
- msgstr 'Δημιουργία διαγράμματος'
- msgid 'This chart show the task complexity over the time (Work Remaining).'
- msgstr 'Αυτό το γράφημα δείχνει την πολυπλοκότητα του έργου κατά την πάροδο του χρόνου (Εργασία που παραμένει).'
- msgid 'Screenshot taken %s'
- msgstr 'Το screenshot αποθηκεύτηκε από %s'
- msgid 'Add a screenshot'
- msgstr 'Προσθήκη ενός screenshot'
- msgid 'Take a screenshot and press CTRL+V or ⌘+V to paste here.'
- msgstr 'Πάρτε ένα screenshot και πατήστε CTRL+V or ⌘+V για να το επικολλήσετε εδώ.'
- msgid 'Screenshot uploaded successfully.'
- msgstr 'Το screenshot ανέβηκε με επιτυχία.'
- msgid 'SEK - Swedish Krona'
- msgstr 'SEK - Swedish Krona'
- msgid 'Identifier'
- msgstr 'Αναγνωριστικό'
- msgid 'Disable two factor authentication'
- msgstr 'Απενεργοποίηση κωδικού ελέγχου ταυτότητας δύο παραγόντων'
- msgid 'Do you really want to disable the two factor authentication for this user: "%s"?'
- msgstr 'Είστε σίγουροι ότι θέλετε να απενεργοποίησετε τον κωδικό ελέγχου ταυτότητας δύο παραγόντων : « %s » ?'
- msgid 'Edit link'
- msgstr 'Επεξεργασία συνδέσμου'
- msgid 'Start to type task title...'
- msgstr 'Ξεκινήστε να πληκτρολογείτε τον τίτλο της εργασίας...'
- msgid 'A task cannot be linked to itself'
- msgstr 'Μια εργασία δεν μπορεί να συνδεθεί με τον εαυτό της'
- msgid 'The exact same link already exists'
- msgstr 'Ο σύνδεσμος υπάρχει ήδη'
- msgid 'Recurrent task is scheduled to be generated'
- msgstr 'Επαναλαμβανόμενο έργο έχει προγραμματιστεί να δημιουργηθεί'
- msgid 'Score'
- msgstr 'Score'
- msgid 'The identifier must be unique'
- msgstr 'Το αναγνωριστικό πρέπει να είναι μοναδικό'
- msgid 'This linked task id doesn\'t exists'
- msgstr 'Αυτό το συνδεδεμένο id της εργασίας δεν υπάρχει'
- msgid 'This value must be alphanumeric'
- msgstr 'Η τιμή πρέπει να είναι αλφαριθμητική'
- msgid 'Edit recurrence'
- msgstr 'Επεξεργασία επανάληψης'
- msgid 'Generate recurrent task'
- msgstr 'Δημιουργία επαναλαμβανόμενου έργου'
- msgid 'Trigger to generate recurrent task'
- msgstr 'Έναυσμα για τη δημιουργία επαναλαμβανόμενης εργασίας'
- msgid 'Factor to calculate new due date'
- msgstr 'Συντελεστής για τον υπολογισμό νέας ημερομηνίας καθηκόντων'
- msgid 'Timeframe to calculate new due date'
- msgstr 'Χρονικό πλαίσιο για τον υπολογισμό νέας ημερομηνίας καθηκόντων'
- msgid 'Base date to calculate new due date'
- msgstr 'Ημερομηνία βάσης για τον υπολογισμό νέας ημερομηνίας καθηκόντων'
- msgid 'Action date'
- msgstr 'Ημέρα ενέργειας'
- msgid 'Base date to calculate new due date: '
- msgstr 'Ημερομηνία βάσης για τον υπολογισμό νέας ημερομηνίας καθηκόντων : '
- msgid 'This task has created this child task: '
- msgstr 'Το έργο αυτό έχει δημιουργήθει από το έργο παιδί του: '
- msgid 'Day(s)'
- msgstr 'Μέρα(ες)'
- msgid 'Existing due date'
- msgstr 'Υπάρχουσα ημερομηνία καθηκόντων'
- msgid 'Factor to calculate new due date: '
- msgstr 'Συντελεστής για τον υπολογισμό νέας ημερομηνίας καθηκόντων: '
- msgid 'Month(s)'
- msgstr 'Μήνες'
- msgid 'This task has been created by: '
- msgstr 'Αυτό το έργο δημιουργήθηκε από τον χρήστη :'
- msgid 'Recurrent task has been generated:'
- msgstr 'Το επαναλαμβανόμενο έργο έχει παραχθεί :'
- msgid 'Timeframe to calculate new due date: '
- msgstr 'Χρονοδιάγραμμα υπολογισμού νέας ημερομηνίας καθηκόντων : '
- msgid 'Trigger to generate recurrent task: '
- msgstr 'Έναυσμα για τη δημιουργία επαναλαμβανόμενη εργασίας : '
- msgid 'When task is closed'
- msgstr 'Όταν το έργο έχει τελειώσει'
- msgid 'When task is moved from first column'
- msgstr 'Όταν το έργο έχει μετακινηθεί στην 1η στήλη'
- msgid 'When task is moved to last column'
- msgstr 'Όταν το έργο έχει μετακινηθεί στην τελευταία στήλη'
- msgid 'Year(s)'
- msgstr 'Χρόνος(οι)'
- msgid 'Project settings'
- msgstr 'Ρυθμίσεις έργου'
- msgid 'Automatically update the start date'
- msgstr 'Αυτόματη ενημέρωση της ημερομηνίας έναρξης'
- msgid 'iCal feed'
- msgstr 'iCal feed'
- msgid 'Preferences'
- msgstr 'Προτιμήσεις'
- msgid 'Security'
- msgstr 'Ασφάλεια'
- msgid 'Two factor authentication disabled'
- msgstr 'Η πιστοποίηση δύο παραγόντων απενεργοποιήθηκε'
- msgid 'Two factor authentication enabled'
- msgstr 'Η πιστοποίηση δύο παραγόντων ενεργοποιήθηκε'
- msgid 'Unable to update this user.'
- msgstr 'Αδύνατο να ενημερωθεί αυτός ο χρήστης.'
- msgid 'There is no user management for personal projects.'
- msgstr 'Δεν υπάρχει διαχείριση χρηστών για ιδιωτικά έργα.'
- msgid 'User that will receive the email'
- msgstr 'Ο χρήστης που θα λάβει το μήνυμα ηλεκτρονικού ταχυδρομείου'
- msgid 'Email subject'
- msgstr 'Θέμα ηλεκτρονικού ταχυδρομείου'
- msgid 'Date'
- msgstr 'Ημέρα'
- msgid 'Add a comment log when moving the task between columns'
- msgstr 'Προσθέστε ένα σχόλιο καταγραφής κατά τη μετακίνηση του έργου μεταξύ των στηλών'
- msgid 'Move the task to another column when the category is changed'
- msgstr 'Μετακινήστε την εργασία σε άλλη στήλη, όταν η κατηγορία έχει αλλάξει'
- msgid 'Send a task by email to someone'
- msgstr 'Στείλτε μια εργασία μέσω ηλεκτρονικού ταχυδρομείου σε κάποιον'
- msgid 'Reopen a task'
- msgstr 'Ξανα-ανοίξτε μια εργασία'
- msgid 'Notification'
- msgstr 'Κοινοποίηση'
- msgid '%s moved the task #%d to the first swimlane'
- msgstr '%s μετέφερε την εργασία n°%d στην 1η λωρίδα'
- msgid 'Swimlane'
- msgstr 'Λωρίδα'
- msgid '%s moved the task %s to the first swimlane'
- msgstr '%s μετέφερε την εργασία %s στην 1η λωρίδα'
- msgid '%s moved the task %s to the swimlane "%s"'
- msgstr '%s μετέφερε την εργασία %s στη λωρίδα « %s »'
- msgid 'This report contains all subtasks information for the given date range.'
- msgstr 'Η έκθεση αυτή περιέχει όλες τις υπο-εργασίες για το συγκεκριμένο εύρος ημερομηνιών.'
- msgid 'This report contains all tasks information for the given date range.'
- msgstr 'Η έκθεση αυτή περιέχει όλες τις πληροφορίες για το συγκεκριμένο εύρος ημερομηνιών.'
- msgid 'Project activities for %s'
- msgstr 'Ενέργειες για το έργο « %s »'
- msgid 'view the board on Kanboard'
- msgstr 'δείτε τον πίνακα στο Kanboard'
- msgid 'The task has been moved to the first swimlane'
- msgstr 'Η εργασία αυτή έχει μετακινηθεί στην πρώτη λωρίδα'
- msgid 'The task has been moved to another swimlane:'
- msgstr 'Η εργασία αυτή έχει μετακινηθεί σε άλλη λωρίδα:'
- msgid 'New title: %s'
- msgstr 'Νέος τίτλος: %s'
- msgid 'The task is not assigned anymore'
- msgstr 'Η εργασία δεν έχει ανατεθεί πλέον'
- msgid 'New assignee: %s'
- msgstr 'Καινούργια ανάθεση: %s'
- msgid 'There is no category now'
- msgstr 'Δεν υπάρχει κατηγορία τώρα'
- msgid 'New category: %s'
- msgstr 'Νέα κατηγορία: %s'
- msgid 'New color: %s'
- msgstr 'Νέο χρώμα: %s'
- msgid 'New complexity: %d'
- msgstr 'Νέα πολυπλοκότητα: %d'
- msgid 'The due date has been removed'
- msgstr 'Η ημερομηνία καθηκόντων έχει αφαιρεθεί'
- msgid 'There is no description anymore'
- msgstr 'Δεν υπάρχει περιγραφή πλέον'
- msgid 'Recurrence settings has been modified'
- msgstr 'Οι ρυθμίσεις επανάληψης έχουν τροποποιηθεί'
- msgid 'Time spent changed: %sh'
- msgstr 'Ο χρόνος που πέρασε έχει αλλάξει: %sh'
- msgid 'Time estimated changed: %sh'
- msgstr 'Ο εκτιμώμενος χρόνος άλλαξε: %sh'
- msgid 'The field "%s" has been updated'
- msgstr 'Το πεδίο « %s » έχει ενημερωθεί'
- msgid 'The description has been modified:'
- msgstr 'Η περιγραφή έχει ενημερωθεί'
- msgid 'Do you really want to close the task "%s" as well as all subtasks?'
- msgstr 'Σίγουρα θέλετε να κλείσετε την εργασία « %s » και την υπο-εργασία ?'
- msgid 'I want to receive notifications for:'
- msgstr 'Επιθυμώ να λαμβάνω ενημερώσεις για :'
- msgid 'All tasks'
- msgstr 'Όλες οι εργασίες'
- msgid 'Only for tasks assigned to me'
- msgstr 'Μόνο σε εργασίες που μου έχουν ανατεθεί'
- msgid 'Only for tasks created by me'
- msgstr 'Μόνο σε εργασίες που έχουν δημιουργηθεί από εμένα'
- msgid 'Only for tasks created by me and tasks assigned to me'
- msgstr 'Μόνο σε εργασίες που έχουν δημιουργηθεί από εμένα και μου έχουν ανατεθεί'
- msgid '%%Y-%%m-%%d'
- msgstr '%%d/%%m/%%Y'
- msgid 'Total for all columns'
- msgstr 'Σύνολο για όλες τις στήλες'
- msgid 'You need at least 2 days of data to show the chart.'
- msgstr 'Έχετε τουλάχιστον 2 ημέρες δεδομένων για να εμφανιστούν στο διάγραμμα.'
- msgid '<15m'
- msgstr '<15m'
- msgid '<30m'
- msgstr '<30m'
- msgid 'Stop timer'
- msgstr 'Διακοπή ρολογιού'
- msgid 'Start timer'
- msgstr 'Έναρξη ρολογιού'
- msgid 'My activity stream'
- msgstr 'Η ροή δραστηριοτήτων μου'
- msgid 'Search tasks'
- msgstr 'Αναζήτηση εργασιών'
- msgid 'Reset filters'
- msgstr 'Επαναφορά φίλτρων'
- msgid 'My tasks due tomorrow'
- msgstr 'Οι εργασίες καθηκόντων μου αύριο'
- msgid 'Tasks due today'
- msgstr 'Οι εργασίες καθηκόντων μου αύριο'
- msgid 'Tasks due tomorrow'
- msgstr 'Εργασίες καθηκόντων αύριο'
- msgid 'Tasks due yesterday'
- msgstr 'Εργασίες καθηκόντων χτές'
- msgid 'Closed tasks'
- msgstr 'Κλειστές εργασίες'
- msgid 'Open tasks'
- msgstr 'Ανοιχτές εργασίες'
- msgid 'Not assigned'
- msgstr 'Δεν έχουν εκχωρηθεί'
- msgid 'View advanced search syntax'
- msgstr 'Δείτε τη σύνταξη "αναζήτησης για προχωρημένους"'
- msgid 'Overview'
- msgstr 'Επισκόπηση'
- msgid 'Board/Calendar/List view'
- msgstr 'Πίνακας / Ημερολόγιο / Προβολή λίστας'
- msgid 'Switch to the board view'
- msgstr 'Εναλλαγή στην προβολή του πίνακα'
- msgid 'Switch to the list view'
- msgstr 'Εναλλαγή στην προβολή λίστας'
- msgid 'Go to the search/filter box'
- msgstr 'Μετάβαση στο πλαίσιο αναζήτησης / φίλτρο'
- msgid 'There is no activity yet.'
- msgstr 'Δεν υπάρχει καμία δραστηριότητα ακόμα.'
- msgid 'No tasks found.'
- msgstr 'Δεν βρέθηκαν εργασίες.'
- msgid 'Keyboard shortcut: "%s"'
- msgstr 'Συντόμευση πληκτρολογίου: « %s »'
- msgid 'List'
- msgstr 'Λίστα'
- msgid 'Filter'
- msgstr 'Φίλτρο'
- msgid 'Advanced search'
- msgstr 'Προχωρημένη Αναζήτηση'
- msgid 'Example of query: '
- msgstr 'Παράδειγμα ερωτήματος: '
- msgid 'Search by project: '
- msgstr 'Αναζήτηση με βάση το έργο: '
- msgid 'Search by column: '
- msgstr 'Αναζήτηση με βάση την στήλη: '
- msgid 'Search by assignee: '
- msgstr 'Αναζήτηση με βάση τον δικαιοδόχο: '
- msgid 'Search by color: '
- msgstr 'Αναζήτηση βάση χρώματος: '
- msgid 'Search by category: '
- msgstr 'Αναζήτηση βάση κατηγορίας: '
- msgid 'Search by description: '
- msgstr 'Αναζήτηση βάση περιγραφής: '
- msgid 'Search by due date: '
- msgstr 'Αναζήτηση βάση ημέρας λήξης: '
- msgid 'Average time spent in each column'
- msgstr 'Μέσος χρόνος παραμονής σε κάθε στήλη'
- msgid 'Average time spent'
- msgstr 'Μέσος χρόνος που δαπανήθηκε'
- msgid 'This chart shows the average time spent in each column for the last %d tasks.'
- msgstr 'Αυτό το γράφημα δείχνει ότι ο μέσος χρόνος που δαπανάται σε κάθε στήλη για τις τελευταίες %d εργασίες'
- msgid 'Average Lead and Cycle time'
- msgstr 'Average Lead & Cycle time'
- msgid 'Average lead time: '
- msgstr 'Average lead time: '
- msgid 'Average cycle time: '
- msgstr 'Average cycle time: '
- msgid 'Cycle Time'
- msgstr 'Cycle time'
- msgid 'Lead Time'
- msgstr 'Lead time'
- msgid 'This chart shows the average lead and cycle time for the last %d tasks over the time.'
- msgstr 'Αυτό το γράφημα δείχνει το average lead and cycle time για τις τελευταίες %d εργασίες κατά τη διάρκεια του χρόνου.'
- msgid 'Average time into each column'
- msgstr 'Μέσος χρόνος σε κάθε στήλη'
- msgid 'Lead and cycle time'
- msgstr 'Lead et cycle time'
- msgid 'Lead time: '
- msgstr 'Lead time : '
- msgid 'Cycle time: '
- msgstr 'Cycle time : '
- msgid 'Time spent in each column'
- msgstr 'Ο χρόνος που δαπανήθηκε σε κάθε στήλη'
- msgid 'The lead time is the duration between the task creation and the completion.'
- msgstr 'Το <lead time> είναι η διάρκεια μεταξύ της δημιουργίας του έργου και της ολοκλήρωσης του.'
- msgid 'The cycle time is the duration between the start date and the completion.'
- msgstr 'Το <cycle time> είναι η διάρκεια μεταξύ της ημερομηνίας εκκίνησης και της ολοκλήρωσης του.'
- msgid 'If the task is not closed the current time is used instead of the completion date.'
- msgstr 'Εάν η εργασία δεν έχει κλείσει η τρέχουσα ώρα χρησιμοποιείται αντί της ημερομηνίας ολοκλήρωσης.'
- msgid 'Set the start date automatically'
- msgstr 'Ρυθμίστε αυτόματα την ημερομηνία έναρξης'
- msgid 'Edit Authentication'
- msgstr 'Επεξεργασία ταυτοποίησης'
- msgid 'Remote user'
- msgstr 'Απομακρυσμένος χρήστης'
- msgid 'Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts.'
- msgstr 'Στους απομακρυσμένους χρήστες δεν αποθηκεύονται οι κωδικοί πρόσβασης εντός της βάσης δεδομένων της τρέχουσας εφαρμογής, Παραδείγματα: LDAP, Google and Github accounts.'
- msgid 'If you check the box "Disallow login form", credentials entered in the login form will be ignored.'
- msgstr 'Αν ενεργοποιήσετε την επιλογή "Απαγόρευση φόρμας σύνδεσης", τα στοιχεία που εισάγονται στη φόρμα σύνδεσης αγνοούνται.'
- msgid 'Default task color'
- msgstr 'Προεπιλογή χρώματος εργασίας'
- msgid 'This feature does not work with all browsers.'
- msgstr 'Αυτή η δυνατότητα δεν δουλεύει σε όλους τους browsers'
- msgid 'There is no destination project available.'
- msgstr 'Δεν υπάρχει διαθέσιμο κανένα έργο προορισμού.'
- msgid 'Trigger automatically subtask time tracking'
- msgstr 'Αυτόματη ενεργοποίηση της παρακολούθησης χρόνου σε υπο-εργασίες'
- msgid 'Include closed tasks in the cumulative flow diagram'
- msgstr 'Να συμπεριλαμβάνονται οι κλειστές εργασίες στο συσσωρευτικό διάγραμμα ροής'
- msgid 'Current swimlane: %s'
- msgstr 'Τρέχουσα λωρίδα: %s'
- msgid 'Current column: %s'
- msgstr 'Τρέχουσα στήλη: %s'
- msgid 'Current category: %s'
- msgstr 'Τρέχουσα κατηγορία: %s'
- msgid 'no category'
- msgstr 'Καμμία κατηγορία'
- msgid 'Current assignee: %s'
- msgstr 'Τρέχον εκδοχέας: %s'
- msgid 'not assigned'
- msgstr 'δεν έχει εκχωρηθεί'
- msgid 'Author:'
- msgstr 'Συγγραφέας:'
- msgid 'contributors'
- msgstr 'συνεισφέροντες'
- msgid 'License:'
- msgstr 'Άδεια:'
- msgid 'License'
- msgstr 'Άδεια'
- msgid 'Enter the text below'
- msgstr 'Πληκτρολογήστε το παρακάτω κείμενο'
- msgid 'Start date:'
- msgstr 'Ημερομηνία εκκίνησης :'
- msgid 'Due date:'
- msgstr 'Ημερομηνία λήξης:'
- msgid 'People who are project managers'
- msgstr 'Οι άνθρωποι που είναι οι διευθυντές έργων'
- msgid 'People who are project members'
- msgstr 'Οι άνθρωποι που είναι μέλη των έργων'
- msgid 'NOK - Norwegian Krone'
- msgstr 'NOK - Norwegian Krone'
- msgid 'Show this column'
- msgstr 'Εμφάνιση αυτής της στήλης'
- msgid 'Hide this column'
- msgstr 'Απόκρυψη αυτής τη στήλη'
- msgid 'End date'
- msgstr 'Ημερομηνία λήξης'
- msgid 'Users overview'
- msgstr 'Επισκόπηση χρηστών'
- msgid 'Members'
- msgstr 'Μέλη'
- msgid 'Shared project'
- msgstr 'Κοινόχρηστο έργο'
- msgid 'Project managers'
- msgstr 'Διευθυντές έργου'
- msgid 'Projects list'
- msgstr 'Λίστα έργων'
- msgid 'End date:'
- msgstr 'Ημερομηνία λήξης :'
- msgid 'Change task color when using a specific task link'
- msgstr 'Αλλαγή χρώματος εργασίας χρησιμοποιώντας συγκεκριμένο σύνδεσμο εργασίας'
- msgid 'Task link creation or modification'
- msgstr 'Σύνδεσμος δημιουργίας ή τροποποίησης εργασίας'
- msgid 'Milestone'
- msgstr 'Ορόσημο'
- msgid 'Reset the search/filter box'
- msgstr 'Αρχικοποίηση του πεδίου αναζήτησης/φιλτραρίσματος'
- msgid 'Documentation'
- msgstr 'Τεκμηρίωση'
- msgid 'Author'
- msgstr 'Δημιουργός'
- msgid 'Version'
- msgstr 'Έκδοση'
- msgid 'Plugins'
- msgstr 'Πρόσθετα'
- msgid 'There is no plugin loaded.'
- msgstr 'Δεν έχει φορτωθεί plugin'
- msgid 'My notifications'
- msgstr 'Οι ειδοποιήσεις μου'
- msgid 'Custom filters'
- msgstr 'Φίλτρα ορισμένα από τον χρήστη'
- msgid 'Your custom filter has been created successfully.'
- msgstr 'Το παρεμετροποιημένο από τον χρήστη φίλτρο δημιουργήθηκε με επιτυχία'
- msgid 'Unable to create your custom filter.'
- msgstr 'Δεν είναι δυνατή η δημιουργία του φίλτρου ορισμένου από τον χρήστη.'
- msgid 'Custom filter removed successfully.'
- msgstr 'Το παρεμετροποιημένο από τον χρήστη φίλτρο αφαιρέθηκε με επιτυχία.'
- msgid 'Unable to remove this custom filter.'
- msgstr 'Δεν είναι δυνατή η αφαίρεση του παρεμετροποιημένου από τον χρήστη φίλτρου.'
- msgid 'Edit custom filter'
- msgstr 'Διόρθωση παρεμετροποιημένου από τον χρήστη φίλτρου'
- msgid 'Your custom filter has been updated successfully.'
- msgstr 'Το παρεμετροποιημένο από τον χρήστη φίλτρο, διορθώθηκε με επιτυχία.'
- msgid 'Unable to update custom filter.'
- msgstr 'Δεν είναι δυνατή η ενημέρωση του παρεμετροποιημένου από τον χρήστη φίλτρου.'
- msgid 'Web'
- msgstr 'Web'
- msgid 'New attachment on task #%d: %s'
- msgstr 'Νέο συνημμένο για την εργασία n°%d: %s'
- msgid 'New comment on task #%d'
- msgstr 'Νέο σχόλιο για την εργασία n°%d'
- msgid 'Comment updated on task #%d'
- msgstr 'Ενημέρωση σχολίου για την εργασία n°%d'
- msgid 'New subtask on task #%d'
- msgstr 'Νέα υπο-εργασία για την εργασία n°%d'
- msgid 'Subtask updated on task #%d'
- msgstr 'Ενημέρωση υπό-εργασίας για την εργασία n°%d'
- msgid 'New task #%d: %s'
- msgstr 'Νέα εργασία n°%d: %s'
- msgid 'Task updated #%d'
- msgstr 'Η εργασία n°%d ενημερώθηκε με επιτυχία'
- msgid 'Task #%d closed'
- msgstr 'Η εργασία n°%d έκλεισε'
- msgid 'Task #%d opened'
- msgstr 'Η εργασία n°%d άνοιξε'
- msgid 'Column changed for task #%d'
- msgstr 'Η στήλη άλλαξε για την εργασία n°%d'
- msgid 'New position for task #%d'
- msgstr 'Νέα θέση για την εργασία n°%d'
- msgid 'Swimlane changed for task #%d'
- msgstr 'Η λωρίδα άλλαξε για την εργασία n°%d'
- msgid 'Assignee changed on task #%d'
- msgstr 'Η ανάθεση άλλαξε για την εργασία n°%d'
- msgid '%d overdue tasks'
- msgstr '%d εκπρόθεσμες εργασίες'
- msgid 'Task #%d is overdue'
- msgstr 'Η εργασία n°%d είναι εκπρόθεσμη'
- msgid 'No notification.'
- msgstr 'Χωρίς νέες ειδοποιήσεις.'
- msgid 'Mark all as read'
- msgstr 'Μαρκάρισμα όλων ως διαβασμένα'
- msgid 'Mark as read'
- msgstr 'Μαρκάρισμα ως διαβασμένο'
- msgid 'Total number of tasks in this column across all swimlanes'
- msgstr 'Συνολικός αριθμός εργασιών σε αυτήν τη στήλη σε όλες τις λωρίδες'
- msgid 'Collapse swimlane'
- msgstr 'Συρίκνωση λωρίδας'
- msgid 'Expand swimlane'
- msgstr 'Ανάπτυξη λωρίδας'
- msgid 'Add a new filter'
- msgstr 'Προσθήκη νέου φίλτρου'
- msgid 'Share with all project members'
- msgstr 'Διαμοίραση με όλους τους χρήστες του έργου'
- msgid 'Shared'
- msgstr 'Διαμοιρασμένα'
- msgid 'Owner'
- msgstr 'Ιδιοκτήτης'
- msgid 'Unread notifications'
- msgstr 'Αδιάβαστες ειδοποιήσεις'
- msgid 'Notification methods:'
- msgstr 'Μέθοδοι ειδοποίησης:'
- msgid 'Unable to read your file'
- msgstr 'Δεν είναι δυνατή η ανάγνωση του αρχείου'
- msgid '%d task(s) have been imported successfully.'
- msgstr '%d η(οι) εργασία(ες) εισήχθησαν με επιτυχία.'
- msgid 'Nothing has been imported!'
- msgstr 'Τίποτα δεν εισήχθη'
- msgid 'Import users from CSV file'
- msgstr 'Εισαγωγή χρηστών μέσω αρχείου CSV'
- msgid '%d user(s) have been imported successfully.'
- msgstr '%d ο(οι) χρήστης(ες) εισήχθησαν με επιτυχία.'
- msgid 'Comma'
- msgstr 'Κόμμα'
- msgid 'Semi-colon'
- msgstr 'Ερωτηματικό'
- msgid 'Tab'
- msgstr 'Tab'
- msgid 'Vertical bar'
- msgstr 'Κατακόρυφη μπάρα'
- msgid 'Double Quote'
- msgstr 'Διπλά εισαγωγικά'
- msgid 'Single Quote'
- msgstr 'Μονά εισαγωγικά'
- msgid '%s attached a file to the task #%d'
- msgstr '%s συνημμένο αρχείο στην εργασία n°%d'
- msgid 'There is no column or swimlane activated in your project!'
- msgstr 'Δεν υπάρχει στήλη ή λωρίδα ενεργοποιημένη στο έργο !'
- msgid 'Append filter (instead of replacement)'
- msgstr 'Προσθήκη φίλτρου (αντί αντικατάσταση)'
- msgid 'Append/Replace'
- msgstr 'Προσθήκη/Αντικατάσταση'
- msgid 'Append'
- msgstr 'Προσθήκη'
- msgid 'Replace'
- msgstr 'Αντικατάσταση'
- msgid 'Import'
- msgstr 'Εισαγωγή'
- msgid 'Change sorting'
- msgstr 'Αλλαγή ταξινόμησης'
- msgid 'Tasks Importation'
- msgstr 'Εισαγωγή εργασιών'
- msgid 'Delimiter'
- msgstr 'Delimiter'
- msgid 'Enclosure'
- msgstr 'Enclosure'
- msgid 'CSV File'
- msgstr 'Αρχείο CSV'
- msgid 'Instructions'
- msgstr 'Οδηγίες'
- msgid 'Your file must use the predefined CSV format'
- msgstr 'Το αρχείο σας πρέπει να χρησιμοποιεί προκαθορισμένη μορφοποίηση CSV'
- msgid 'Your file must be encoded in UTF-8'
- msgstr 'Το αρχείο σας πρέπει να έχει κωδικοποίηση χαρακτήρων UTF-8'
- msgid 'The first row must be the header'
- msgstr 'Η πρώτη γραμμή πρέπει να είναι η κεφαλίδα'
- msgid 'Duplicates are not verified for you'
- msgstr 'Οι Διπλοεγγραφές δεν ελέγχονται'
- msgid 'The due date must use the ISO format: YYYY-MM-DD'
- msgstr 'Η ημερομηνία λήξης πρέπει να χρησιμοποιεί τη μορφοποίηση ISO: EEEE-MM-HH  ή στα αγγλικά YYYY-MM-DD'
- msgid 'Download CSV template'
- msgstr 'Κατέβασμα πρότυπου αρχείου CSV'
- msgid 'No external integration registered.'
- msgstr 'No external integration registered.'
- msgid 'Duplicates are not imported'
- msgstr 'Διπλοεγγραφές δεν εισήχθησαν'
- msgid 'Usernames must be lowercase and unique'
- msgstr 'Οι ονομασίες χρηστών πρέπει να είναι σε μικρά γράμματα (lowercase) και μοναδικά'
- msgid 'Passwords will be encrypted if present'
- msgstr 'Οι κωδικοί πρόσβασης κρυπτογραφούνται, αν υπάρχουν'
- msgid '%s attached a new file to the task %s'
- msgstr '%s νέο συνημμένο αρχείο της εργασίας  %s'
- msgid 'Link type'
- msgstr 'Τύπος συνδέσμου'
- msgid 'Assign automatically a category based on a link'
- msgstr 'Ανατίθεται αυτόματα κατηγορία, βασισμένη στον σύνδεσμο'
- msgid 'BAM - Konvertible Mark'
- msgstr 'BAM - Konvertible Mark'
- msgid 'Assignee Username'
- msgstr 'Δικαιοδόχο όνομα χρήστη'
- msgid 'Assignee Name'
- msgstr 'Δικαιοδόχο όνομα'
- msgid 'Groups'
- msgstr 'Ομάδες'
- msgid 'Members of %s'
- msgstr 'Μέλη του %s'
- msgid 'New group'
- msgstr 'Νέα ομάδα'
- msgid 'Group created successfully.'
- msgstr 'Η ομάδα δημιουργήθηκε με επιτυχία.'
- msgid 'Unable to create your group.'
- msgstr 'Δεν είναι δυνατή η δημιουργία της ομάδας.'
- msgid 'Edit group'
- msgstr 'Διόρθωση ομάδας'
- msgid 'Group updated successfully.'
- msgstr 'Η ομάδα ενημερώθηκε με επιτυχία.'
- msgid 'Unable to update your group.'
- msgstr 'Δεν είναι δυνατή η ενημέρωση της ομάδας.'
- msgid 'Add group member to "%s"'
- msgstr 'Προσθήκη του μέλους της ομάδας στην « %s »'
- msgid 'Group member added successfully.'
- msgstr 'Το μέλος της ομ΄δας προστέθηκε με επιτυχία.'
- msgid 'Unable to add group member.'
- msgstr 'Δεν είναι δυνατή η προσθήκη μέλους ομάδας.'
- msgid 'Remove user from group "%s"'
- msgstr 'Αφαίρεση μέλους από την ομάδα « %s »'
- msgid 'User removed successfully from this group.'
- msgstr 'Ο χρήστης αφαιρέθηκε με επιτυχία από την ομάδα.'
- msgid 'Unable to remove this user from the group.'
- msgstr 'Δεν είναι δυνατή η αφαίρεση του χρήστη από την ομάδα.'
- msgid 'Remove group'
- msgstr 'Αφαίρεση ομάδας'
- msgid 'Group removed successfully.'
- msgstr 'Η ομάδα αφαιρέθηκε με επιτυχία.'
- msgid 'Unable to remove this group.'
- msgstr 'Δεν είναι δυνατή η αφαίρεση της ομάδας.'
- msgid 'Project Permissions'
- msgstr 'Επιτρέψεις έργου'
- msgid 'Manager'
- msgstr 'Διευθυντής'
- msgid 'Project Manager'
- msgstr 'Διευθυντής έργου'
- msgid 'Project Member'
- msgstr 'Μέλος σε έργο'
- msgid 'Project Viewer'
- msgstr 'Μέλος μόνο για προβολή έργου'
- msgid 'Your account is locked for %d minutes'
- msgstr 'Ο λογαριασμός σας κλειδώθηκε για %d λεπτά'
- msgid 'Invalid captcha'
- msgstr 'Μη αποδεκτό Captcha'
- msgid 'The name must be unique'
- msgstr 'Το όνομα πρέπει να είναι μοναδικό'
- msgid 'View all groups'
- msgstr 'Προβολή όλων των ομάδων'
- msgid 'There is no user available.'
- msgstr 'Δεν υπάρχει διαθέσιμος χρήστης'
- msgid 'Do you really want to remove the user "%s" from the group "%s"?'
- msgstr 'Αφαίρεση του χρήστη « %s » από την ομάδα « %s » ?'
- msgid 'There is no group.'
- msgstr 'Δεν υπάρχει ομάδα.'
- msgid 'Add group member'
- msgstr 'Προσθήκη μέλους ομάδας'
- msgid 'Do you really want to remove this group: "%s"?'
- msgstr 'Αφαίρεση της ομάδας: « %s » ?'
- msgid 'There is no user in this group.'
- msgstr 'Δεν υπάρχει χρήστης σε αυτήν την ομάδα'
- msgid 'Permissions'
- msgstr 'Επιτρέψεις'
- msgid 'Allowed Users'
- msgstr 'Χρήστες που επιτρέπονται'
- msgid 'No specific user has been allowed.'
- msgstr 'Δεν υπάρχει χρήστης που να επιτρέπεται συγκεκριμένα.'
- msgid 'Role'
- msgstr 'Ρόλος'
- msgid 'Enter user name...'
- msgstr 'Εισαγωγή ονόματος χρήστη...'
- msgid 'Allowed Groups'
- msgstr 'Ομάδες που επιτρέπονται'
- msgid 'No group has been allowed.'
- msgstr 'Δεν υπάρχει ομάδα που να επιτρέπεται συγκεκριμένα.'
- msgid 'Group'
- msgstr 'Ομάδα'
- msgid 'Group Name'
- msgstr 'Ονομασία ομάδας'
- msgid 'Enter group name...'
- msgstr 'Εισαγωγή ονομασίας ομάδας...'
- msgid 'Role:'
- msgstr 'Ρόλος:'
- msgid 'Project members'
- msgstr 'Μέλη έργου'
- msgid '%s mentioned you in the task #%d'
- msgstr '%s αναφέρονται σε εσάς, στη εργασία n°%d'
- msgid '%s mentioned you in a comment on the task #%d'
- msgstr '%s αναφέρονται σε εσάς σε σχόλιο, στη εργασίας n°%d'
- msgid 'You were mentioned in the task #%d'
- msgstr 'Αναφέρεστε στην εργασία n°%d'
- msgid 'You were mentioned in a comment on the task #%d'
- msgstr 'Αναφέρεστε σε σχόλιο, στην εργασία n°%d'
- msgid 'Estimated hours: '
- msgstr 'Προβλεπόμενες ώρες: '
- msgid 'Actual hours: '
- msgstr 'Πραγματικές ώρες: '
- msgid 'Hours Spent'
- msgstr 'Δαπανόμενες ώρες'
- msgid 'Hours Estimated'
- msgstr 'Προβλεπόμενες ώρες'
- msgid 'Estimated Time'
- msgstr 'Προβλεπόμενος χρόνος'
- msgid 'Actual Time'
- msgstr 'Πραγματικός χρόνος'
- msgid 'Estimated vs actual time'
- msgstr 'Προβλεπόμενος vs πραγματικός χρόνος'
- msgid 'RUB - Russian Ruble'
- msgstr 'RUB - Russian Ruble'
- msgid 'Assign the task to the person who does the action when the column is changed'
- msgstr 'Ανάθεση της εργασίας στο άτομο κάνει την ενέργεια όταν η στήλη αλλάζει'
- msgid 'Close a task in a specific column'
- msgstr 'Κλείσιμο εργασίας σε συγκεκριμένη στήλη'
- msgid 'Time-based One-time Password Algorithm'
- msgstr 'Time-based One-time Password Algorithm'
- msgid 'Two-Factor Provider: '
- msgstr 'Two-Factor Provider: '
- msgid 'Disable two-factor authentication'
- msgstr 'Απενεργοποίηση two-factor authentication'
- msgid 'Enable two-factor authentication'
- msgstr 'Ενεργοποίηση two-factor authentication'
- msgid 'There is no integration registered at the moment.'
- msgstr 'There is no integration registered at the moment.'
- msgid 'Password Reset for Kanboard'
- msgstr 'Αρχικοποίηση κωδικών πρόσβασης για την εφαρμογή Kanboard'
- msgid 'Forgot password?'
- msgstr 'Ξεχάσατε τον κωδικό πρόσβασης ?'
- msgid 'Enable "Forget Password"'
- msgstr 'Ενεργοποίηση « Ξέχασα τον κωδικό πρόσβασης »'
- msgid 'Password Reset'
- msgstr 'Αρχικοποίηση κωδικού πρόσβασης'
- msgid 'New password'
- msgstr 'Νέος κωδικός πρόσβασης'
- msgid 'Change Password'
- msgstr 'Αλλαγή κωδικού πρόσβασης'
- msgid 'To reset your password click on this link:'
- msgstr 'Για να αρχικοποιηθεί ο κωδικός πρόσβασης σας πατήστε σε αυτόν τον σύνδεσμο:'
- msgid 'Last Password Reset'
- msgstr 'Αρχικοποίηση τελευταίου κωδικού πρόσβασης'
- msgid 'The password has never been reinitialized.'
- msgstr 'Ο κωδικός πρόσβασης δεν μπορεί να αρχικοποιηθεί για δεύτερη φορά.'
- msgid 'Creation'
- msgstr 'Δημιουργία'
- msgid 'Expiration'
- msgstr 'Λήξη'
- msgid 'Password reset history'
- msgstr 'Ιστορικό αρχικοποίησης κωδικών πρόσβασης'
- msgid 'All tasks of the column "%s" and the swimlane "%s" have been closed successfully.'
- msgstr 'Όλες οι εργασίας της στήλης « %s » και η λωρίδα « %s » έκλεισαν με επιτυχία.'
- msgid 'Do you really want to close all tasks of this column?'
- msgstr 'Να κλείσουν όλες οι εργασίες αυτής της στήλης ?'
- msgid '%d task(s) in the column "%s" and the swimlane "%s" will be closed.'
- msgstr '%d εργασία(ες) στη στήλη « %s » και στη λωρίδα « %s » θα κλείσουν.'
- msgid 'Close all tasks in this column and this swimlane'
- msgstr 'Κλείσιμο όλων των εργασιών αυτής της στήλης'
- msgid 'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.'
- msgstr 'Κανένα plugin δεν έχει καταχωρηθεί με τη μέθοδο της κοινοποίησης του έργου. Μπορείτε ακόμα να διαμορφώσετε τις μεμονωμένες κοινοποιήσεις στο προφίλ χρήστη σας.'
- msgid 'My dashboard'
- msgstr 'Το κεντρικό ταμπλό μου'
- msgid 'My profile'
- msgstr 'Το προφίλ μου'
- msgid 'Project owner: '
- msgstr 'Ιδιοκτήτης έργου: '
- msgid 'The project identifier is optional and must be alphanumeric, example: MYPROJECT.'
- msgstr 'Το αναγνωριστικό έργου είναι προαιρετικό και πρέπει να είναι αλφαριθμητικό, για παράδειγμα: MYPROJECT'
- msgid 'Project owner'
- msgstr 'Ιδιοκτήτης έργου'
- msgid 'Personal projects do not have users and groups management.'
- msgstr 'Τα ιδιωτικά έργα δεν έχουν χρήστες και διαχείριση ομάδων'
- msgid 'There is no project member.'
- msgstr 'Δεν υπάρχει μέλος στο έργο'
- msgid 'Priority'
- msgstr 'Προτεραιότητα'
- msgid 'Task priority'
- msgstr 'Προτεραιότητα εργασίας'
- msgid 'General'
- msgstr 'Γενικά'
- msgid 'Dates'
- msgstr 'Ημερομηνίες'
- msgid 'Default priority'
- msgstr 'Εξ ορισμού προτεραιότητα'
- msgid 'Lowest priority'
- msgstr 'η χαμηλότερη προτεραιότητα'
- msgid 'Highest priority'
- msgstr 'η υψηλότερη προτεραιότητα'
- msgid 'Close a task when there is no activity'
- msgstr 'Κλείσιμο εργασίας όταν δεν υπάρχει δραστηριότητα'
- msgid 'Duration in days'
- msgstr 'Διάρκεια σε ημέρες'
- msgid 'Send email when there is no activity on a task'
- msgstr 'Αποστολή email όταν δεν υπάρχει δραστηριότητα σε εργασία'
- msgid 'Unable to fetch link information.'
- msgstr 'Δεν είναι δυνατή η ανάλυση της πληροφορίας συνδεσμου'
- msgid 'Daily background job for tasks'
- msgstr 'Ημερήσια παρασκηνιακή δουλειά για τις εργασίες'
- msgid 'Auto'
- msgstr 'Αυτόματο'
- msgid 'Related'
- msgstr 'Σχετίζεται'
- msgid 'Attachment'
- msgstr 'Συνημμένο'
- msgid 'Title not found'
- msgstr 'Ο τίτλος δεν βρέθηκε'
- msgid 'Web Link'
- msgstr 'Σύνδεσμος web'
- msgid 'External links'
- msgstr 'Εξωτερικοί σύνδεσμοι'
- msgid 'Add external link'
- msgstr 'Προσθήκη εξωτερικού συνδέσμου'
- msgid 'Type'
- msgstr 'Τύπος'
- msgid 'Dependency'
- msgstr 'Εξάρτηση'
- msgid 'Add internal link'
- msgstr 'Προσθήκη εσωτερικού συνδέσμου'
- msgid 'Add a new external link'
- msgstr 'Προσθήκη νέου εξωτερικού συνδέσμου'
- msgid 'Edit external link'
- msgstr 'Διόρθωση εξωτερικού συνδέσμου'
- msgid 'External link'
- msgstr 'Εξωτερικός σύνδεσμος'
- msgid 'Copy and paste your link here...'
- msgstr 'Κάντε αντιγραφή και επικόλληση εδώ'
- msgid 'URL'
- msgstr 'URL'
- msgid 'Internal links'
- msgstr 'Εσωτερικοί σύνδεσμοι'
- msgid 'Assign to me'
- msgstr 'Αναττίθεται σε εμένα'
- msgid 'Me'
- msgstr 'Σε μένα'
- msgid 'Do not duplicate anything'
- msgstr 'Να μην γίνει κλωνοποίηση από άλλο έργο'
- msgid 'Projects management'
- msgstr 'Διαχείριση έργων'
- msgid 'Users management'
- msgstr 'Διαχείριση χρηστών'
- msgid 'Groups management'
- msgstr 'Διαχείριση ομάδων'
- msgid 'Create from another project'
- msgstr 'Δημιουργία από άλλο έργο'
- msgid 'open'
- msgstr 'Ανοικτό'
- msgid 'closed'
- msgstr 'Κλειστό'
- msgid 'Priority:'
- msgstr 'Προτεραιότητα:'
- msgid 'Reference:'
- msgstr 'Αναφορά:'
- msgid 'Complexity:'
- msgstr 'Πολυπλοκότητα:'
- msgid 'Swimlane:'
- msgstr 'Λωρίδα:'
- msgid 'Column:'
- msgstr 'Στήλη:'
- msgid 'Position:'
- msgstr 'Θέση:'
- msgid 'Creator:'
- msgstr 'Δημιουργός:'
- msgid 'Time estimated:'
- msgstr 'Προβλεπόμενη ώρα:'
- msgid '%s hours'
- msgstr '%s ώρες'
- msgid 'Time spent:'
- msgstr 'χρόνος που καταναλώθηκε:'
- msgid 'Created:'
- msgstr 'Δημιουργήθηκε:'
- msgid 'Modified:'
- msgstr 'Διορθώθηκε:'
- msgid 'Completed:'
- msgstr 'Ολοκληρώθηκε:'
- msgid 'Started:'
- msgstr 'Ξεκίνησε:'
- msgid 'Moved:'
- msgstr 'Μετακινήθηκε:'
- msgid 'Task #%d'
- msgstr 'Εργασία #%d'
- msgid 'Time format'
- msgstr 'Μορφή ώρας'
- msgid 'Start date: '
- msgstr 'Ημερομηνία έναρξης: '
- msgid 'End date: '
- msgstr 'Ημερομηνία λήξης: '
- msgid 'New due date: '
- msgstr 'Νέα ημερομηνία λήξης: '
- msgid 'Start date changed: '
- msgstr 'Αλλαγμένη ημερομηνία έναρξης: '
- msgid 'Disable personal projects'
- msgstr 'Απενεργοποίηση ιδιωτικών έργων'
- msgid 'Do you really want to remove this custom filter: "%s"?'
- msgstr 'Αφαίρεση αυτού του οριζόμενου από το χρήστη φίλτρου %s ?'
- msgid 'Remove a custom filter'
- msgstr 'Αφαίρεση του οριζόμενου από το χρήστη φίλτρου'
- msgid 'User activated successfully.'
- msgstr 'Ο χρήστης ενεργοποιήθηκε με επιτυχία'
- msgid 'Unable to enable this user.'
- msgstr 'Δεν είναι δυνατή η ενεργοποίηση του χρήστη'
- msgid 'User disabled successfully.'
- msgstr 'Η απενεργοποίηση του χρήστη έγινε με επιτυχία'
- msgid 'Unable to disable this user.'
- msgstr 'Δεν είναι δυνατή η απενεργοποίηση του χρήστη'
- msgid 'All files have been uploaded successfully.'
- msgstr 'Όλα τα αρχεία ανέβηκαν με επιτυχία'
- msgid 'The maximum allowed file size is %sB.'
- msgstr 'Το μέγιστο μέγεθος αρχείου που επιτρέπεται είναι %sB.'
- msgid 'Drag and drop your files here'
- msgstr 'Σύρετε τα αρχεία σας εδώ'
- msgid 'choose files'
- msgstr 'Επιλογή αρχείων'
- msgid 'View profile'
- msgstr 'Προβολή προφίλ'
- msgid 'Two Factor'
- msgstr 'Δύο παραγόντων'
- msgid 'Disable user'
- msgstr 'Απενεργοποίηση χρήστη'
- msgid 'Do you really want to disable this user: "%s"?'
- msgstr 'Απενεργοποίηση του χρήστη: "%s";'
- msgid 'Enable user'
- msgstr 'Ενεργοποίηση χρήστη'
- msgid 'Do you really want to enable this user: "%s"?'
- msgstr 'Ενεργοποίηση του χρήστη "%s";'
- msgid 'Download'
- msgstr 'Κατέβασμα'
- msgid 'Uploaded: %s'
- msgstr 'Ανέβηκε το αρχείο: %s'
- msgid 'Size: %s'
- msgstr 'Μέγεθος: %s'
- msgid 'Uploaded by %s'
- msgstr 'Ανέβασμα από τον χρήστη: %s'
- msgid 'Filename'
- msgstr 'Όνομα αρχείου'
- msgid 'Size'
- msgstr 'Μέγεθος'
- msgid 'Column created successfully.'
- msgstr 'Η στήλη δημιουργήθηκε με επιτυχία.'
- msgid 'Another column with the same name exists in the project'
- msgstr 'Μια άλλη στήλη με το ίδιο όνομα υπάρχει στο έργο'
- msgid 'Default filters'
- msgstr 'Εξ\' ορισμού φίλτρα'
- msgid 'Your board doesn\'t have any columns!'
- msgstr 'Το ταμπλό δεν έχει καμία στήλη!!='
- msgid 'Change column position'
- msgstr 'Αλλαγή θέσης στήλης'
- msgid 'Switch to the project overview'
- msgstr 'Αλλαγή προβολής σε επισκόπηση έργου'
- msgid 'User filters'
- msgstr 'Φίλτρα οριζόμενα από τον χρήστη'
- msgid 'Category filters'
- msgstr 'Κατηγορία φίλτρων'
- msgid 'Upload a file'
- msgstr 'Ανέβασμα αρχείου'
- msgid 'View file'
- msgstr 'Προβολή αρχείου'
- msgid 'Last activity'
- msgstr 'Τελευταία δραστηριότητα'
- msgid 'Change subtask position'
- msgstr 'Αλλαγή θέσης υπο-εργασίας'
- msgid 'This value must be greater than %d'
- msgstr 'Η τιμή πρέπει να είναι μεγαλύτερη από %d'
- msgid 'Another swimlane with the same name exists in the project'
- msgstr 'Μια άλλη λωρίδα, με το ίδιο όνομα υπάρχει στο έργο'
- msgid 'Example: https://example.kanboard.org/ (used to generate absolute URLs)'
- msgstr 'Παράδειγμα: https://example.kanboard.org/ (χρησιμοποιείται για τη δημιουργία απόλυτων URLs)'
- msgid 'Actions duplicated successfully.'
- msgstr ''
- msgid 'Unable to duplicate actions.'
- msgstr ''
- msgid 'Add a new action'
- msgstr ''
- msgid 'Import from another project'
- msgstr ''
- msgid 'There is no action at the moment.'
- msgstr ''
- msgid 'Import actions from another project'
- msgstr ''
- msgid 'There is no available project.'
- msgstr ''
- msgid 'Local File'
- msgstr ''
- msgid 'Configuration'
- msgstr ''
- msgid 'PHP version:'
- msgstr ''
- msgid 'PHP SAPI:'
- msgstr ''
- msgid 'OS version:'
- msgstr ''
- msgid 'Database version:'
- msgstr ''
- msgid 'Browser:'
- msgstr ''
- msgid 'Task view'
- msgstr ''
- msgid 'Edit task'
- msgstr ''
- msgid 'Edit description'
- msgstr ''
- msgid 'New internal link'
- msgstr ''
- msgid 'Display list of keyboard shortcuts'
- msgstr ''
- msgid 'Avatar'
- msgstr ''
- msgid 'Upload my avatar image'
- msgstr ''
- msgid 'Remove my image'
- msgstr ''
- msgid 'The OAuth2 state parameter is invalid'
- msgstr ''
- msgid 'User not found.'
- msgstr ''
- msgid 'Search in activity stream'
- msgstr ''
- msgid 'My activities'
- msgstr ''
- msgid 'Activity until yesterday'
- msgstr ''
- msgid 'Activity until today'
- msgstr ''
- msgid 'Search by creator: '
- msgstr ''
- msgid 'Search by creation date: '
- msgstr ''
- msgid 'Search by task status: '
- msgstr ''
- msgid 'Search by task title: '
- msgstr ''
- msgid 'Activity stream search'
- msgstr ''
- msgid 'Projects where "%s" is manager'
- msgstr ''
- msgid 'Projects where "%s" is member'
- msgstr ''
- msgid 'Open tasks assigned to "%s"'
- msgstr ''
- msgid 'Closed tasks assigned to "%s"'
- msgstr ''
- msgid 'Assign automatically a color based on a priority'
- msgstr ''
- msgid 'Overdue tasks for the project(s) "%s"'
- msgstr ''
- msgid 'Upload files'
- msgstr ''
- msgid 'Installed Plugins'
- msgstr ''
- msgid 'Plugin Directory'
- msgstr ''
- msgid 'Plugin installed successfully.'
- msgstr ''
- msgid 'Plugin updated successfully.'
- msgstr ''
- msgid 'Plugin removed successfully.'
- msgstr ''
- msgid 'Subtask converted to task successfully.'
- msgstr ''
- msgid 'Unable to convert the subtask.'
- msgstr ''
- msgid 'Unable to extract plugin archive.'
- msgstr ''
- msgid 'Plugin not found.'
- msgstr ''
- msgid 'You don\'t have the permission to remove this plugin.'
- msgstr ''
- msgid 'Unable to download plugin archive.'
- msgstr ''
- msgid 'Unable to write temporary file for plugin.'
- msgstr ''
- msgid 'Unable to open plugin archive.'
- msgstr ''
- msgid 'There is no file in the plugin archive.'
- msgstr ''
- msgid 'Create tasks in bulk'
- msgstr ''
- msgid 'Your Kanboard instance is not configured to install plugins from the user interface.'
- msgstr ''
- msgid 'There is no plugin available.'
- msgstr ''
- msgid 'Install'
- msgstr ''
- msgid 'Update'
- msgstr ''
- msgid 'Up to date'
- msgstr ''
- msgid 'Not available'
- msgstr ''
- msgid 'Remove plugin'
- msgstr ''
- msgid 'Do you really want to remove this plugin: "%s"?'
- msgstr ''
- msgid 'Uninstall'
- msgstr ''
- msgid 'Listing'
- msgstr ''
- msgid 'Metadata'
- msgstr ''
- msgid 'Manage projects'
- msgstr ''
- msgid 'Convert to task'
- msgstr ''
- msgid 'Convert sub-task to task'
- msgstr ''
- msgid 'Do you really want to convert this sub-task to a task?'
- msgstr ''
- msgid 'My task title'
- msgstr ''
- msgid 'Enter one task by line.'
- msgstr ''
- msgid 'Number of failed login:'
- msgstr ''
- msgid 'Account locked until:'
- msgstr ''
- msgid 'Email settings'
- msgstr ''
- msgid 'Email sender address'
- msgstr ''
- msgid 'Email transport'
- msgstr ''
- msgid 'Webhook token'
- msgstr ''
- msgid 'Project tags management'
- msgstr ''
- msgid 'Tag created successfully.'
- msgstr ''
- msgid 'Unable to create this tag.'
- msgstr ''
- msgid 'Tag updated successfully.'
- msgstr ''
- msgid 'Unable to update this tag.'
- msgstr ''
- msgid 'Tag removed successfully.'
- msgstr ''
- msgid 'Unable to remove this tag.'
- msgstr ''
- msgid 'Global tags management'
- msgstr ''
- msgid 'Tags'
- msgstr ''
- msgid 'Tags management'
- msgstr ''
- msgid 'Add new tag'
- msgstr ''
- msgid 'Edit a tag'
- msgstr ''
- msgid 'Project tags'
- msgstr ''
- msgid 'There is no specific tag for this project at the moment.'
- msgstr ''
- msgid 'Tag'
- msgstr ''
- msgid 'Remove a tag'
- msgstr ''
- msgid 'Do you really want to remove this tag: "%s"?'
- msgstr ''
- msgid 'Global tags'
- msgstr ''
- msgid 'There is no global tag at the moment.'
- msgstr ''
- msgid 'This field cannot be empty'
- msgstr ''
- msgid 'Close a task when there is no activity in a specific column'
- msgstr ''
- msgid '%s removed a subtask for the task #%d'
- msgstr ''
- msgid '%s removed a comment on the task #%d'
- msgstr ''
- msgid 'Comment removed on task #%d'
- msgstr ''
- msgid 'Subtask removed on task #%d'
- msgstr ''
- msgid 'Hide tasks in this column in the dashboard'
- msgstr ''
- msgid '%s removed a comment on the task %s'
- msgstr ''
- msgid '%s removed a subtask for the task %s'
- msgstr ''
- msgid 'Comment removed'
- msgstr ''
- msgid 'Subtask removed'
- msgstr ''
- msgid '%s set a new internal link for the task #%d'
- msgstr ''
- msgid '%s removed an internal link for the task #%d'
- msgstr ''
- msgid 'A new internal link for the task #%d has been defined'
- msgstr ''
- msgid 'Internal link removed for the task #%d'
- msgstr ''
- msgid '%s set a new internal link for the task %s'
- msgstr ''
- msgid '%s removed an internal link for the task %s'
- msgstr ''
- msgid 'Automatically set the due date on task creation'
- msgstr ''
- msgid 'Move the task to another column when closed'
- msgstr ''
- msgid 'Move the task to another column when not moved during a given period'
- msgstr ''
- msgid 'Dashboard for %s'
- msgstr ''
- msgid 'Tasks overview for %s'
- msgstr ''
- msgid 'Subtasks overview for %s'
- msgstr ''
- msgid 'Projects overview for %s'
- msgstr ''
- msgid 'Activity stream for %s'
- msgstr ''
- msgid 'Assign a color when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Assign a priority when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'User unlocked successfully.'
- msgstr ''
- msgid 'Unable to unlock the user.'
- msgstr ''
- msgid 'Move a task to another swimlane'
- msgstr ''
- msgid 'Creator Name'
- msgstr ''
- msgid 'Time spent and estimated'
- msgstr ''
- msgid 'Move position'
- msgstr ''
- msgid 'Move task to another position on the board'
- msgstr ''
- msgid 'Insert before this task'
- msgstr ''
- msgid 'Insert after this task'
- msgstr ''
- msgid 'Unlock this user'
- msgstr ''
- msgid 'Custom Project Roles'
- msgstr ''
- msgid 'Add a new custom role'
- msgstr ''
- msgid 'Restrictions for the role "%s"'
- msgstr ''
- msgid 'Add a new project restriction'
- msgstr ''
- msgid 'Add a new drag and drop restriction'
- msgstr ''
- msgid 'Add a new column restriction'
- msgstr ''
- msgid 'Edit this role'
- msgstr ''
- msgid 'Remove this role'
- msgstr ''
- msgid 'There is no restriction for this role.'
- msgstr ''
- msgid 'Only moving task between those columns is permitted'
- msgstr ''
- msgid 'Close a task in a specific column when not moved during a given period'
- msgstr ''
- msgid 'Edit columns'
- msgstr ''
- msgid 'The column restriction has been created successfully.'
- msgstr ''
- msgid 'Unable to create this column restriction.'
- msgstr ''
- msgid 'Column restriction removed successfully.'
- msgstr ''
- msgid 'Unable to remove this restriction.'
- msgstr ''
- msgid 'Your custom project role has been created successfully.'
- msgstr ''
- msgid 'Unable to create custom project role.'
- msgstr ''
- msgid 'Your custom project role has been updated successfully.'
- msgstr ''
- msgid 'Unable to update custom project role.'
- msgstr ''
- msgid 'Custom project role removed successfully.'
- msgstr ''
- msgid 'Unable to remove this project role.'
- msgstr ''
- msgid 'The project restriction has been created successfully.'
- msgstr ''
- msgid 'Unable to create this project restriction.'
- msgstr ''
- msgid 'Project restriction removed successfully.'
- msgstr ''
- msgid 'You cannot create tasks in this column.'
- msgstr ''
- msgid 'Task creation is permitted for this column'
- msgstr ''
- msgid 'Closing or opening a task is permitted for this column'
- msgstr ''
- msgid 'Task creation is blocked for this column'
- msgstr ''
- msgid 'Closing or opening a task is blocked for this column'
- msgstr ''
- msgid 'Task creation is not permitted'
- msgstr ''
- msgid 'Closing or opening a task is not permitted'
- msgstr ''
- msgid 'New drag and drop restriction for the role "%s"'
- msgstr ''
- msgid 'People belonging to this role will be able to move tasks only between the source and the destination column.'
- msgstr ''
- msgid 'Remove a column restriction'
- msgstr ''
- msgid 'Do you really want to remove this column restriction: "%s" to "%s"?'
- msgstr ''
- msgid 'New column restriction for the role "%s"'
- msgstr ''
- msgid 'Rule'
- msgstr ''
- msgid 'Do you really want to remove this column restriction?'
- msgstr ''
- msgid 'Custom roles'
- msgstr ''
- msgid 'New custom project role'
- msgstr ''
- msgid 'Edit custom project role'
- msgstr ''
- msgid 'Remove a custom role'
- msgstr ''
- msgid 'Do you really want to remove this custom role: "%s"? All people assigned to this role will become project member.'
- msgstr ''
- msgid 'There is no custom role for this project.'
- msgstr ''
- msgid 'New project restriction for the role "%s"'
- msgstr ''
- msgid 'Restriction'
- msgstr ''
- msgid 'Remove a project restriction'
- msgstr ''
- msgid 'Do you really want to remove this project restriction: "%s"?'
- msgstr ''
- msgid 'Duplicate to multiple projects'
- msgstr ''
- msgid 'This field is required'
- msgstr ''
- msgid 'Moving a task is not permitted'
- msgstr ''
- msgid 'This value must be in the range %d to %d'
- msgstr ''
- msgid 'You are not allowed to move this task.'
- msgstr ''
- msgid 'API User Access'
- msgstr ''
- msgid 'Preview'
- msgstr ''
- msgid 'Write'
- msgstr ''
- msgid 'Write your text in Markdown'
- msgstr ''
- msgid 'No personal API access token registered.'
- msgstr ''
- msgid 'Your personal API access token is "%s"'
- msgstr ''
- msgid 'Remove your token'
- msgstr ''
- msgid 'Generate a new token'
- msgstr ''
- msgid 'Showing %d-%d of %d'
- msgstr ''
- msgid 'Outgoing Emails'
- msgstr ''
- msgid 'Add or change currency rate'
- msgstr ''
- msgid 'Reference currency: %s'
- msgstr ''
- msgid 'Add custom filters'
- msgstr ''
- msgid 'Export'
- msgstr ''
- msgid 'Add link label'
- msgstr ''
- msgid 'Incompatible Plugins'
- msgstr ''
- msgid 'Compatibility'
- msgstr ''
- msgid 'Permissions and ownership'
- msgstr ''
- msgid 'Priorities'
- msgstr ''
- msgid 'Close this window'
- msgstr ''
- msgid 'Unable to upload this file.'
- msgstr ''
- msgid 'Import tasks'
- msgstr ''
- msgid 'Choose a project'
- msgstr ''
- msgid 'Profile'
- msgstr ''
- msgid 'Application role'
- msgstr ''
- msgid '%d invitations were sent.'
- msgstr ''
- msgid '%d invitation was sent.'
- msgstr ''
- msgid 'Unable to create this user.'
- msgstr ''
- msgid 'Kanboard Invitation'
- msgstr ''
- msgid 'Visible on dashboard'
- msgstr ''
- msgid 'Created at:'
- msgstr ''
- msgid 'Updated at:'
- msgstr ''
- msgid 'There is no custom filter.'
- msgstr ''
- msgid 'New User'
- msgstr ''
- msgid 'Authentication'
- msgstr ''
- msgid 'If checked, this user will use a third-party system for authentication.'
- msgstr ''
- msgid 'The password is necessary only for local users.'
- msgstr ''
- msgid 'You have been invited to register on Kanboard.'
- msgstr ''
- msgid 'Click here to join your team'
- msgstr ''
- msgid 'Invite people'
- msgstr ''
- msgid 'Emails'
- msgstr ''
- msgid 'Enter one email address by line.'
- msgstr ''
- msgid 'Add these people to this project'
- msgstr ''
- msgid 'Add this person to this project'
- msgstr ''
- msgid 'Sign-up'
- msgstr ''
- msgid 'Credentials'
- msgstr ''
- msgid 'New user'
- msgstr ''
- msgid 'This username is already taken'
- msgstr ''
- msgid 'Your profile must have a valid email address.'
- msgstr ''
- msgid 'TRL - Turkish Lira'
- msgstr ''
- msgid 'The project email is optional and could be used by several plugins.'
- msgstr ''
- msgid 'The project email must be unique across all projects'
- msgstr ''
- msgid 'The email configuration has been disabled by the administrator.'
- msgstr ''
- msgid 'Close this project'
- msgstr ''
- msgid 'Open this project'
- msgstr ''
- msgid 'Close a project'
- msgstr ''
- msgid 'Do you really want to close this project: "%s"?'
- msgstr ''
- msgid 'Reopen a project'
- msgstr ''
- msgid 'Do you really want to reopen this project: "%s"?'
- msgstr ''
- msgid 'This project is open'
- msgstr ''
- msgid 'This project is closed'
- msgstr ''
- msgid 'Unable to upload files, check the permissions of your data folder.'
- msgstr ''
- msgid 'Another category with the same name exists in this project'
- msgstr ''
- msgid 'Comment sent by email successfully.'
- msgstr ''
- msgid 'Sent by email to "%s" (%s)'
- msgstr ''
- msgid 'Unable to read uploaded file.'
- msgstr ''
- msgid 'Database uploaded successfully.'
- msgstr ''
- msgid 'Task sent by email successfully.'
- msgstr ''
- msgid 'There is no category in this project.'
- msgstr ''
- msgid 'Send by email'
- msgstr ''
- msgid 'Create and send a comment by email'
- msgstr ''
- msgid 'Subject'
- msgstr ''
- msgid 'Upload the database'
- msgstr ''
- msgid 'You could upload the previously downloaded Sqlite database (Gzip format).'
- msgstr ''
- msgid 'Database file'
- msgstr ''
- msgid 'Upload'
- msgstr ''
- msgid 'Your project must have at least one active swimlane.'
- msgstr ''
- msgid 'Project: %s'
- msgstr ''
- msgid 'Automatic action not found: "%s"'
- msgstr ''
- msgid '%d projects'
- msgstr ''
- msgid '%d project'
- msgstr ''
- msgid 'There is no project.'
- msgstr ''
- msgid 'Sort'
- msgstr ''
- msgid 'Project ID'
- msgstr ''
- msgid 'Project name'
- msgstr ''
- msgid 'Public'
- msgstr ''
- msgid 'Personal'
- msgstr ''
- msgid '%d tasks'
- msgstr ''
- msgid '%d task'
- msgstr ''
- msgid 'Task ID'
- msgstr ''
- msgid 'Assign automatically a color when due date is expired'
- msgstr ''
- msgid 'Total score in this column across all swimlanes'
- msgstr ''
- msgid 'HRK - Kuna'
- msgstr ''
- msgid 'ARS - Argentine Peso'
- msgstr ''
- msgid 'COP - Colombian Peso'
- msgstr ''
- msgid '%d groups'
- msgstr ''
- msgid '%d group'
- msgstr ''
- msgid 'Group ID'
- msgstr ''
- msgid 'External ID'
- msgstr ''
- msgid '%d users'
- msgstr ''
- msgid '%d user'
- msgstr ''
- msgid 'Hide subtasks'
- msgstr ''
- msgid 'Show subtasks'
- msgstr ''
- msgid 'Authentication Parameters'
- msgstr ''
- msgid 'API Access'
- msgstr ''
- msgid 'No users found.'
- msgstr ''
- msgid 'User ID'
- msgstr ''
- msgid 'Notifications are activated'
- msgstr ''
- msgid 'Notifications are disabled'
- msgstr ''
- msgid 'User disabled'
- msgstr ''
- msgid '%d notifications'
- msgstr ''
- msgid '%d notification'
- msgstr ''
- msgid 'There is no external integration installed.'
- msgstr ''
- msgid 'You are not allowed to update tasks assigned to someone else.'
- msgstr ''
- msgid 'You are not allowed to change the assignee.'
- msgstr ''
- msgid 'Task suppression is not permitted'
- msgstr ''
- msgid 'Changing assignee is not permitted'
- msgstr ''
- msgid 'Update only assigned tasks is permitted'
- msgstr ''
- msgid 'Only for tasks assigned to the current user'
- msgstr ''
- msgid 'My projects'
- msgstr ''
- msgid 'You are not a member of any project.'
- msgstr ''
- msgid 'My subtasks'
- msgstr ''
- msgid '%d subtasks'
- msgstr ''
- msgid '%d subtask'
- msgstr ''
- msgid 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgstr ''
- msgid '[DUPLICATE]'
- msgstr ''
- msgid 'DKK - Danish Krona'
- msgstr ''
- msgid 'Remove user from group'
- msgstr ''
- msgid 'Assign the task to its creator'
- msgstr ''
- msgid 'This task was sent by email to "%s" with subject "%s".'
- msgstr ''
- msgid 'Predefined Email Subjects'
- msgstr ''
- msgid 'Write one subject by line.'
- msgstr ''
- msgid 'Create another link'
- msgstr ''
- msgid 'BRL - Brazilian Real'
- msgstr ''
- msgid 'Add a new Kanboard task'
- msgstr ''
- msgid 'Subtask not started'
- msgstr ''
- msgid 'Subtask currently in progress'
- msgstr ''
- msgid 'Subtask completed'
- msgstr ''
- msgid 'Subtask added successfully.'
- msgstr ''
- msgid '%d subtasks added successfully.'
- msgstr ''
- msgid 'Enter one subtask by line.'
- msgstr ''
- msgid 'Predefined Contents'
- msgstr ''
- msgid 'Predefined contents'
- msgstr ''
- msgid 'Predefined Task Description'
- msgstr ''
- msgid 'Do you really want to remove this template? "%s"'
- msgstr ''
- msgid 'Add predefined task description'
- msgstr ''
- msgid 'Predefined Task Descriptions'
- msgstr ''
- msgid 'Template created successfully.'
- msgstr ''
- msgid 'Unable to create this template.'
- msgstr ''
- msgid 'Template updated successfully.'
- msgstr ''
- msgid 'Unable to update this template.'
- msgstr ''
- msgid 'Template removed successfully.'
- msgstr ''
- msgid 'Unable to remove this template.'
- msgstr ''
- msgid 'Template for the task description'
- msgstr ''
- msgid 'The start date is greater than the end date'
- msgstr ''
- msgid 'Tags must be separated by a comma'
- msgstr ''
- msgid 'Only the task title is required'
- msgstr ''
- msgid 'Creator Username'
- msgstr ''
- msgid 'Color Name'
- msgstr ''
- msgid 'Column Name'
- msgstr ''
- msgid 'Swimlane Name'
- msgstr ''
- msgid 'Time Estimated'
- msgstr ''
- msgid 'Time Spent'
- msgstr ''
- msgid 'External Link'
- msgstr ''
- msgid 'This feature enables the iCal feed, RSS feed and the public board view.'
- msgstr ''
- msgid 'Stop the timer of all subtasks when moving a task to another column'
- msgstr ''
- msgid 'Subtask Title'
- msgstr ''
- msgid 'Add a subtask and activate the timer when moving a task to another column'
- msgstr ''
- msgid 'days'
- msgstr ''
- msgid 'minutes'
- msgstr ''
- msgid 'seconds'
- msgstr ''
- msgid 'Assign automatically a color when preset start date is reached'
- msgstr ''
- msgid 'Move the task to another column once a predefined start date is reached'
- msgstr ''
- msgid 'This task is now linked to the task %s with the relation "%s"'
- msgstr ''
- msgid 'The link with the relation "%s" to the task %s has been removed'
- msgstr ''
- msgid 'Custom Filter:'
- msgstr ''
- msgid 'Unable to find this group.'
- msgstr ''
- msgid '%s moved the task #%d to the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the position %d in the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the swimlane "%s"'
- msgstr ''
- msgid '%sh spent'
- msgstr ''
- msgid '%sh estimated'
- msgstr ''
- msgid 'Select All'
- msgstr ''
- msgid 'Unselect All'
- msgstr ''
- msgid 'Apply action'
- msgstr ''
- msgid 'Move selected tasks to another column or swimlane'
- msgstr ''
- msgid 'Edit tasks in bulk'
- msgstr ''
- msgid 'Choose the properties that you would like to change for the selected tasks.'
- msgstr ''
- msgid 'Configure this project'
- msgstr ''
- msgid 'Start now'
- msgstr ''
- msgid '%s removed a file from the task #%d'
- msgstr ''
- msgid 'Attachment removed from task #%d: %s'
- msgstr ''
- msgid 'No color'
- msgstr ''
- msgid 'Attachment removed "%s"'
- msgstr ''
- msgid '%s removed a file from the task %s'
- msgstr ''
- msgid 'Move the task to another swimlane when assigned to a user'
- msgstr ''
- msgid 'Destination swimlane'
- msgstr ''
- msgid 'Assign a category when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Move the task to another swimlane when the category is changed'
- msgstr ''
- msgid 'Reorder this column by priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee (A-Z)'
- msgstr ''
- msgid 'Reorder this column by assignee (Z-A)'
- msgstr ''
- msgid 'Reorder this column by due date (ASC)'
- msgstr ''
- msgid 'Reorder this column by due date (DESC)'
- msgstr ''
- msgid '%s moved the task #%d "%s" to the project "%s"'
- msgstr ''
- msgid 'Task #%d "%s" has been moved to the project "%s"'
- msgstr ''
- msgid 'Move the task to another column when the due date is less than a certain number of days'
- msgstr ''
- msgid 'Automatically update the start date when the task is moved away from a specific column'
- msgstr ''
- msgid 'HTTP Client:'
- msgstr ''
- msgid 'Assigned'
- msgstr ''
- msgid 'Task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied across swimlanes'
- msgstr ''
- msgid 'Task limit: '
- msgstr ''
- msgid 'Change to global tag'
- msgstr ''
- msgid 'Do you really want to make the tag "%s" global?'
- msgstr ''
- msgid 'Enable global tags for this project'
- msgstr ''
- msgid 'Group membership(s):'
- msgstr ''
- msgid '%s is a member of the following group(s): %s'
- msgstr ''
- msgid '%d/%d group(s) shown'
- msgstr ''
- msgid 'Subtask creation or modification'
- msgstr ''
- msgid 'Assign the task to a specific user when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Comment'
- msgstr ''
- msgid 'Collapse vertically'
- msgstr ''
- msgid 'Expand vertically'
- msgstr ''
- msgid 'MXN - Mexican Peso'
- msgstr ''
- msgid 'Estimated vs actual time per column'
- msgstr ''
- msgid 'HUF - Hungarian Forint'
- msgstr ''
- msgid 'XBT - Bitcoin'
- msgstr ''
- msgid 'You must select a file to upload as your avatar!'
- msgstr ''
- msgid 'The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)'
- msgstr ''
- msgid 'Automatically set the due date when the task is moved away from a specific column'
- msgstr ''
- msgid 'No other projects found.'
- msgstr ''
- msgid 'Please choose a project you want to copy the tasks from.'
- msgstr ''
- msgid 'Import Tasks'
- msgstr ''
- msgid 'Copy'
- msgstr ''
- msgid 'Tasks copied successfully.'
- msgstr ''
- msgid 'Unable to copy tasks.'
- msgstr ''
+msgid "number.decimals_separator"
+msgstr ","
+msgid "number.thousands_separator"
+msgstr "."
+msgid "None"
+msgstr "Τίποτα"
+msgid "Edit"
+msgstr "Διόρθωση"
+msgid "Remove"
+msgstr "Αφαίρεση"
+msgid "Yes"
+msgstr "Ναι"
+msgid "No"
+msgstr "Όχι"
+msgid "cancel"
+msgstr "ακύρωση"
+msgid "or"
+msgstr "ή"
+msgid "Yellow"
+msgstr "Κίτρινο"
+msgid "Blue"
+msgstr "Μπλέ"
+msgid "Green"
+msgstr "Πράσινο"
+msgid "Purple"
+msgstr "Βιολετί"
+msgid "Red"
+msgstr "Κόκκινο"
+msgid "Orange"
+msgstr "Πορτοκαλί"
+msgid "Grey"
+msgstr "Γκρίζο"
+msgid "Brown"
+msgstr "Καφέ"
+msgid "Deep Orange"
+msgstr "Βαθύ πορτοκαλί"
+msgid "Dark Grey"
+msgstr "Βαθύ γκρί"
+msgid "Pink"
+msgstr "Ρόζ"
+msgid "Teal"
+msgstr "Τυρκουάζ"
+msgid "Cyan"
+msgstr "Γαλάζιο"
+msgid "Lime"
+msgstr "Λεμονί"
+msgid "Light Green"
+msgstr "Ανοιχτό πράσινο"
+msgid "Amber"
+msgstr "Κεχριμπαρί"
+msgid "Save"
+msgstr "Αποθήκευση"
+msgid "Login"
+msgstr "Είσοδος"
+msgid "Official website:"
+msgstr "Επίσημο web site:"
+msgid "Unassigned"
+msgstr "Μη εκχωρημένο"
+msgid "View this task"
+msgstr "Προβολή της εργασίας"
+msgid "Remove user"
+msgstr "Αφαίρεση χρήστη"
+msgid "Do you really want to remove this user: \"%s\"?"
+msgstr "Θέλετε σίγουρα να αφαιρέσετε αυτό τον χρήστη: « %s » ?"
+msgid "All users"
+msgstr "Όλοι οι χρήστες"
+msgid "Username"
+msgstr "Όνομα χρήστη"
+msgid "Password"
+msgstr "Κωδικός"
+msgid "Administrator"
+msgstr "Διαχειριστής"
+msgid "Sign in"
+msgstr "Είσοδος"
+msgid "Users"
+msgstr "Χρήστες"
+msgid "Forbidden"
+msgstr "Δεν επιτρέπεται η πρόσβαση"
+msgid "Access Forbidden"
+msgstr "Δεν επιτρέπεται η πρόσβαση"
+msgid "Edit user"
+msgstr "Διόρθωση χρήστη"
+msgid "Logout"
+msgstr "Αποσύνδεση"
+msgid "Bad username or password"
+msgstr "Λάθος όνομα χρήστη ή κωδικού πρόσβασης"
+msgid "Edit project"
+msgstr "Διόρθωση έργου"
+msgid "Name"
+msgstr "Όνομα"
+msgid "Projects"
+msgstr "Έργα"
+msgid "No project"
+msgstr "Δεν υπάρχουν μέλη για το έργο"
+msgid "Project"
+msgstr "Έργο"
+msgid "Status"
+msgstr "Κατάσταση"
+msgid "Tasks"
+msgstr "Εργασίες"
+msgid "Board"
+msgstr "Κεντρικός πίνακας έργου"
+msgid "Actions"
+msgstr "Ενέργειες"
+msgid "Inactive"
+msgstr "Ανενεργός"
+msgid "Active"
+msgstr "Ενεργός"
+msgid "Unable to update this board."
+msgstr "Αδύνατη η ενημέρωση αυτού του πίνακα"
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+msgid "New project"
+msgstr "Νέο έργο"
+msgid "Do you really want to remove this project: \"%s\"?"
+msgstr "Αφαίρεση του έργου: « %s » ?"
+msgid "Remove project"
+msgstr "Αφαίρεση του έργου"
+msgid "Edit the board for \"%s\""
+msgstr "Διόρθωση πίνακα από « %s »"
+msgid "Add a new column"
+msgstr "Πρόσθήκη στήλης"
+msgid "Title"
+msgstr "Τίτλος"
+msgid "Assigned to %s"
+msgstr "Ανατιθεμένο στον %s"
+msgid "Remove a column"
+msgstr "Αφαίρεση στήλης"
+msgid "Unable to remove this column."
+msgstr "Αδύνατη η αφαίρεση της στήλης"
+msgid "Do you really want to remove this column: \"%s\"?"
+msgstr "Θέλετε να αφαιρέσετε τη στήλη: « %s » ?"
+msgid "Settings"
+msgstr "Προτιμήσεις"
+msgid "Application settings"
+msgstr "Παραμετροποίηση εφαρμογής"
+msgid "Language"
+msgstr "Γλώσσα"
+msgid "Webhook token:"
+msgstr "Διακριτικό ασφαλείας (token) webhooks:"
+msgid "API token:"
+msgstr "Διακριτικό ασφαλείας (token) API:"
+msgid "Database size:"
+msgstr "Μέγεθος βάσης δεδομένων :"
+msgid "Download the database"
+msgstr "Κατεβάστε τη βάση δεδομένων"
+msgid "Optimize the database"
+msgstr "Βελτιστοποίηση της βάσης δεδομένων"
+msgid "(VACUUM command)"
+msgstr "(VACUUM command)"
+msgid "(Gzip compressed Sqlite file)"
+msgstr "(Gzip compressed Sqlite file)"
+msgid "Close a task"
+msgstr "Κλείσιμο εργασίας"
+msgid "Column"
+msgstr "Στήλη"
+msgid "Color"
+msgstr "Χρώμα"
+msgid "Assignee"
+msgstr "Ανατεθιμένο στον χρήστη"
+msgid "Create another task"
+msgstr "Δημιουργία και άλλης εργασίας"
+msgid "New task"
+msgstr "Νέα εργασία"
+msgid "Open a task"
+msgstr "Άνοιγμα εργασίας"
+msgid "Do you really want to open this task: \"%s\"?"
+msgstr "Άνοιγμα της εργασίας : « %s » ?"
+msgid "Back to the board"
+msgstr "Επιστροφή στον κεντρικό πίνακα έργου"
+msgid "There is nobody assigned"
+msgstr "Δεν έχει ανατεθεί σε κανένα"
+msgid "Column on the board:"
+msgstr "Στήλη στον κεντρικό πίνακα : "
+msgid "Close this task"
+msgstr "Κλείσιμο εργασίας"
+msgid "Open this task"
+msgstr "Άνοιγμα εργασίας"
+msgid "There is no description."
+msgstr "Δεν υπάρχει περιγραφή."
+msgid "Add a new task"
+msgstr "Προσθήκη νέας εργασίας"
+msgid "The username is required"
+msgstr "Το όνομα χρήστη απαιτείται"
+msgid "The maximum length is %d characters"
+msgstr "Ο μέγιστος αριθμός χαρακτήρων είναι %d χαρακτήρες"
+msgid "The minimum length is %d characters"
+msgstr "Ο ελάχιστος αριθμός χαρακτήρων είναι %d χαρακτήρες"
+msgid "The password is required"
+msgstr "Ο κωδικός απαιτείται"
+msgid "This value must be an integer"
+msgstr "Η τιμή πρέπει να είναι ακέραιος"
+msgid "The username must be unique"
+msgstr "Το όνομα χρήστη πρέπει να είναι μοναδικό"
+msgid "The user id is required"
+msgstr "το αναγνωριστικό  χρήστη απαιτείται"
+msgid "Passwords don't match"
+msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν"
+msgid "The confirmation is required"
+msgstr "Η επειβεβαίωση απαιτείται"
+msgid "The project is required"
+msgstr "Το έργο απαιτείται"
+msgid "The id is required"
+msgstr "το αναγνωριστικό απαιτείται"
+msgid "The project id is required"
+msgstr "το αναγνωριστικό έργου απαιτείται"
+msgid "The project name is required"
+msgstr "Η ονομασία έργου απαιτείται"
+msgid "The title is required"
+msgstr "Ο τίτλος απαιτείται"
+msgid "Settings saved successfully."
+msgstr "Οι προτιμήσεις αποθηκεύθηκαν με επιτυχία."
+msgid "Unable to save your settings."
+msgstr "Αδυναμία αποθήκευσης προτιμήσεων."
+msgid "Database optimization done."
+msgstr "Η βελτιστοποίηση της βάσης δεδομένων έγινε με επιτυχία."
+msgid "Your project has been created successfully."
+msgstr "Το έργο δημιουργήθηκε."
+msgid "Unable to create your project."
+msgstr "Δεν είναι δυνατή η δημιουργία του έργου"
+msgid "Project updated successfully."
+msgstr "Το έργο ενημερώθηκε με επιτυχία."
+msgid "Unable to update this project."
+msgstr "Δεν είναι δυνατή η ενημέρωση του έργου."
+msgid "Unable to remove this project."
+msgstr "Δεν είναι δυνατή η διαγραφή του έργου"
+msgid "Project removed successfully."
+msgstr "Το έργο αφαιρέθηκε επιτυχώς."
+msgid "Project activated successfully."
+msgstr "Το έργο ενεργοποιήθηκε με επιτυχία"
+msgid "Unable to activate this project."
+msgstr "Δεν είναι δυνατή η ενεργοποίηση του έργου"
+msgid "Project disabled successfully."
+msgstr "Το έργο ενεργοποιήθηκε με επιτυχία"
+msgid "Unable to disable this project."
+msgstr "Δεν είναι δυνατή η επενεργοποίηση του έργου."
+msgid "Unable to open this task."
+msgstr "Δεν είναι δυνατό το άνοιγμα της εργασίας"
+msgid "Task opened successfully."
+msgstr "Η εργασία άνοιξε με επιτυχία"
+msgid "Unable to close this task."
+msgstr "Δεν είναι δυνατό το κλείσιμο της εργασίας"
+msgid "Task closed successfully."
+msgstr "Η εργασία έκλεισε επιτυχώς"
+msgid "Unable to update your task."
+msgstr "Δεν είναι δυνατή η ενημέρωση της εργασίας"
+msgid "Task updated successfully."
+msgstr "Η εργασία ενημερώθηκε επιτυχώς"
+msgid "Unable to create your task."
+msgstr "Δεν είναι δυνατή η δημιουργία της εργασίας"
+msgid "Task created successfully."
+msgstr "Η εργασία δημιουργήθηκε επιτυχώς"
+msgid "User created successfully."
+msgstr "Ο χρήστης δημιουργήθηκε με επιτυχία"
+msgid "Unable to create your user."
+msgstr "Δεν είναι δυνατή η δημιουργία χρήστη"
+msgid "User updated successfully."
+msgstr "Ο χρήστης ενημερωθηκε με επιτυχία"
+msgid "User removed successfully."
+msgstr "Ο χρήστης αφαιρέθηκε με επιτυχία."
+msgid "Unable to remove this user."
+msgstr "Δεν είναι δυνατή η αφαίρεση χρήστη."
+msgid "Board updated successfully."
+msgstr "Ο πίνακας ενημερώθηκε με επιτυχία."
+msgid "Ready"
+msgstr "Έτοιμο"
+msgid "Backlog"
+msgstr "Πρέπει να"
+msgid "Work in progress"
+msgstr "Σε πρόοδο"
+msgid "Done"
+msgstr "Ολοκληρωμένα"
+msgid "Application version:"
+msgstr "Version εφαρμογής :"
+msgid "Id"
+msgstr "Αναγνωριστικό."
+msgid "Public link"
+msgstr "Δημόσιος σύνδεσμος"
+msgid "Timezone"
+msgstr "Timezone"
+msgid "Sorry, I didn't find this information in my database!"
+msgstr "Δυστυχώς δεν βρέθηκε αυτή η πληροφορία στη βάση δεδομένων"
+msgid "Page not found"
+msgstr "Η σελίδα δεν βρέθηκε"
+msgid "Complexity"
+msgstr "Πολυπλοκότητα"
+msgid "Task limit"
+msgstr "Όριο εργασιών."
+msgid "Task count"
+msgstr "Αρίθμηση εργασιών"
+msgid "User"
+msgstr "Χρήστης"
+msgid "Comments"
+msgstr "Σχόλια"
+msgid "Comment is required"
+msgstr "Το σχόλιο απαιτείται"
+msgid "Comment added successfully."
+msgstr "Το σχόλιο σας προστέθηκε με επιτυχία."
+msgid "Unable to create your comment."
+msgstr "Δεν είναι δυνατή η προσθήκη του σχολίου σας."
+msgid "Due Date"
+msgstr "Μέχρι την ημερομηνία"
+msgid "Invalid date"
+msgstr "Μη ορθή ημερομηνία"
+msgid "Automatic actions"
+msgstr "Αυτόματες ενέργειες"
+msgid "Your automatic action has been created successfully."
+msgstr "Η αυτόματη ενέργεια δημιουργήθηκε με επιτυχία."
+msgid "Unable to create your automatic action."
+msgstr "Impossible de créer votre action automatisée."
+msgid "Remove an action"
+msgstr "Αφαίρεση ενέργειας"
+msgid "Unable to remove this action."
+msgstr "Δεν είναι δυνατή η αφαίρεση αυτής της ενέργειας"
+msgid "Action removed successfully."
+msgstr "Η ενέργεια αφαιρέθηκε με επιτυχία."
+msgid "Automatic actions for the project \"%s\""
+msgstr "Αυτόματες ενέργειες για το έργο « %s »"
+msgid "Add an action"
+msgstr "Προσθήκη ενέργειας"
+msgid "Event name"
+msgstr "Ονομασία συμβάντος"
+msgid "Action"
+msgstr "Ενέργεια"
+msgid "Event"
+msgstr "Συμβάν"
+msgid "When the selected event occurs execute the corresponding action."
+msgstr "Όταν εμφανίζεται το επιλεγμένο συμβάν εκτελέστε την αντίστοιχη ενέργεια."
+msgid "Next step"
+msgstr "Επόμενο βήμα"
+msgid "Define action parameters"
+msgstr "Ορισμός παραμέτρων ενέργειας"
+msgid "Do you really want to remove this action: \"%s\"?"
+msgstr "Αφαίρεση της ενέργειας: « %s » ?"
+msgid "Remove an automatic action"
+msgstr "Αφαίρεση  της αυτόματης ενέργειας"
+msgid "Assign the task to a specific user"
+msgstr "Ανάθεση της εργασίας σε συγκεκριμένο χρήστη"
+msgid "Assign the task to the person who does the action"
+msgstr "Ανάθεση της εργασίας στο άτομο που κάνει την ενέργεια"
+msgid "Duplicate the task to another project"
+msgstr "Αντιγραφή εργασίας σε άλλο έργο"
+msgid "Move a task to another column"
+msgstr "Μεταφορά εργασίας σε άλλη στήλη"
+msgid "Task modification"
+msgstr "Διόρθωση εργασίας"
+msgid "Task creation"
+msgstr "Δημιουργία εργασίας"
+msgid "Closing a task"
+msgstr "Κλείσιμο εργασίας"
+msgid "Assign a color to a specific user"
+msgstr "Ανάθεση χρώματος σε συγκεκριμένο χρήστη"
+msgid "Position"
+msgstr "Θέση"
+msgid "Duplicate to project"
+msgstr "Αντιγραφή σε άλλο έργο"
+msgid "Duplicate"
+msgstr "Αντιγραφή"
+msgid "Link"
+msgstr "σύνδεσμος"
+msgid "Comment updated successfully."
+msgstr "Το σχόλιο ενημερώθηκε με επιτυχία."
+msgid "Unable to update your comment."
+msgstr "Αδυναμία ενημέρωσης σχολίου."
+msgid "Remove a comment"
+msgstr "Διαγραφή σχολίου"
+msgid "Comment removed successfully."
+msgstr "Το σχόλιο διαγράφτηκε με επιτυχία."
+msgid "Unable to remove this comment."
+msgstr "Αδυναμία διαγραφής σχολίου."
+msgid "Do you really want to remove this comment?"
+msgstr "Θέλετε να αφαιρέσετε το σχόλιο ?"
+msgid "Current password for the user \"%s\""
+msgstr "Ο τρέχοντας κωδικός για τον χρήστη  « %s »"
+msgid "The current password is required"
+msgstr "Ο τρέχοντας κωδικός πρόσβασης απαιτείται"
+msgid "Wrong password"
+msgstr "Λάθος κωδικός πρόσβασης"
+msgid "Unknown"
+msgstr "Άγνωστο"
+msgid "Last logins"
+msgstr "Τελευταίες συνδέσεις"
+msgid "Login date"
+msgstr "Ημερομηνία σύνδεσης"
+msgid "Authentication method"
+msgstr "Μέθοδος ελέγχου ταυτότητας"
+msgid "IP address"
+msgstr "Διεύθυνση IP"
+msgid "User agent"
+msgstr "User agent"
+msgid "Persistent connections"
+msgstr "Μόνιμες συνδέσεις"
+msgid "No session."
+msgstr "Καμμία συνεδρία"
+msgid "Expiration date"
+msgstr "Ημερομηνία λήξης"
+msgid "Remember Me"
+msgstr "Να με θυμάσαι"
+msgid "Creation date"
+msgstr "Ημερομηνία δημιουργίας"
+msgid "Everybody"
+msgstr "Όλα"
+msgid "Open"
+msgstr "Ανοικτά"
+msgid "Closed"
+msgstr "Κλειστά"
+msgid "Search"
+msgstr "Αναζήτηση"
+msgid "Nothing found."
+msgstr "Δεν βρέθηκε."
+msgid "Due date"
+msgstr "Μέχρι την ημερομηνία"
+msgid "Description"
+msgstr "Περιγραφή"
+msgid "%d comments"
+msgstr "%d σχόλια"
+msgid "%d comment"
+msgstr "%d σχόλιο"
+msgid "Email address invalid"
+msgstr "Μη αποδεκτή διεύθυνση email"
+msgid "Your external account is not linked anymore to your profile."
+msgstr "Ο λογαριασμός σας δεν συνδέεται πλέον με το προφίλ σας."
+msgid "Unable to unlink your external account."
+msgstr "Αδυναμία αποσύνδεσης του εξωτερικού σας λογαριασμού."
+msgid "External authentication failed"
+msgstr "Αποτυχία εξωτερικής σύνδεσης"
+msgid "Your external account is linked to your profile successfully."
+msgstr "Ο λογαριασμός σας συνδέθηκε με το προφίλ σας με επιτυχία."
+msgid "Email"
+msgstr "Email"
+msgid "Task removed successfully."
+msgstr "Η εργασία αφαιρέθηκε με επιτυχία."
+msgid "Unable to remove this task."
+msgstr "Δεν είναι δυνατή η αφαίρεση της εργασίας."
+msgid "Remove a task"
+msgstr "Αφαίρεση εργασίας"
+msgid "Do you really want to remove this task: \"%s\"?"
+msgstr "Αφαίρεση της εργασίας « %s » ?"
+msgid "Assign automatically a color based on a category"
+msgstr "Αυτόματη εκχώρηση ενός χρώματος με βάση την κατηγορία"
+msgid "Assign automatically a category based on a color"
+msgstr "Αυτόματη εκχώρηση μιας κατηγορίας με βάση το χρώμα"
+msgid "Task creation or modification"
+msgstr "Δημιουργία ή τροποποίηση εργασιών"
+msgid "Category"
+msgstr "Κατηγορία"
+msgid "Category:"
+msgstr "Κατηγορία:"
+msgid "Categories"
+msgstr "Κατηγορίες"
+msgid "Your category has been created successfully."
+msgstr "Η κατηγορία δημιουργήθηκε."
+msgid "This category has been updated successfully."
+msgstr "Η ενημέρωση της κατηγορίας καταχωρήθηκε με επιτυχία."
+msgid "Unable to update this category."
+msgstr "Δεν είναι δυνατή η ενημέρωση της κατηγορίας."
+msgid "Remove a category"
+msgstr "Διαγραφή κατηγορίας"
+msgid "Category removed successfully."
+msgstr "Η κατηγορία διεγράφει επιτυχώς."
+msgid "Unable to remove this category."
+msgstr "Δεν είναι δυνατή η διαγραφή της κατηγορίας."
+msgid "Category modification for the project \"%s\""
+msgstr "Τροποποίηση κατηγορίας για το έργο « %s »"
+msgid "Category Name"
+msgstr "Ονομασία κατηγορίας"
+msgid "Add a new category"
+msgstr "Προσθήκη νέας κατηγορίας"
+msgid "Do you really want to remove this category: \"%s\"?"
+msgstr "Διαγραφή της κατηγορίας « %s » ?"
+msgid "All categories"
+msgstr "Όλες οι κατηγορίες"
+msgid "No category"
+msgstr "Χωρίς κατηγορία"
+msgid "The name is required"
+msgstr "Η ονομασία απαιτείται"
+msgid "Remove a file"
+msgstr "Αφαίρεση αρχείου"
+msgid "Unable to remove this file."
+msgstr "Αδυναμία αφαίρεσης αρχείου."
+msgid "File removed successfully."
+msgstr "Το αρχείο αφαιρέθηκε επιτυχώς."
+msgid "Attach a document"
+msgstr "Προσθήκη Συνημμένου"
+msgid "Do you really want to remove this file: \"%s\"?"
+msgstr "Αφαίρεση του αρχείου: « %s » ?"
+msgid "Attachments"
+msgstr "Συνημμένα"
+msgid "Edit the task"
+msgstr "Διόρθωση εργασίας"
+msgid "Add a comment"
+msgstr "Προσθήκη σχολίου"
+msgid "Edit a comment"
+msgstr "Διόρθωση σχολίου"
+msgid "Summary"
+msgstr "Περίληψη"
+msgid "Time tracking"
+msgstr "Παρακολούθηση χρόνου"
+msgid "Estimate:"
+msgstr "Κατ' εκτίμηση:"
+msgid "Spent:"
+msgstr "Ξοδεύτηκε :"
+msgid "Do you really want to remove this sub-task?"
+msgstr "Διαγραφή της υπο-εργασίας ?"
+msgid "Remaining:"
+msgstr "Απομένει :"
+msgid "hours"
+msgstr "ώρες"
+msgid "estimated"
+msgstr "κατ' εκτίμηση"
+msgid "Sub-Tasks"
+msgstr "Υπο-Εργασίες"
+msgid "Add a sub-task"
+msgstr "Προσθήκη υπο-εργασίας"
+msgid "Original estimate"
+msgstr "Αρχική πρόβλεψη χρόνου"
+msgid "Create another sub-task"
+msgstr "Δημιουργία κι άλλης υπο-εργασίας"
+msgid "Time spent"
+msgstr "Χρόνος που ξοδεύτηκε"
+msgid "Edit a sub-task"
+msgstr "Διόρθωση υπο-εργασίας"
+msgid "Remove a sub-task"
+msgstr "Διαγραφή υπο-εργασίας"
+msgid "The time must be a numeric value"
+msgstr "Ο χρόνος πρέπει να είναι αριθμός"
+msgid "Todo"
+msgstr "Πρέπει να γίνουν"
+msgid "In progress"
+msgstr "Σε πρόοδο"
+msgid "Sub-task removed successfully."
+msgstr "Η υπο-εργασία αφαιρέθηκε με επιτυχία."
+msgid "Unable to remove this sub-task."
+msgstr "Αδυναμία αφαίρεσης υπο-εργασίας."
+msgid "Sub-task updated successfully."
+msgstr "Η υπο-εργασία ενημερώθηκε με επιτυχία."
+msgid "Unable to update your sub-task."
+msgstr "Αδύνατο να ενημερωθεί η υπο-εργασία."
+msgid "Unable to create your sub-task."
+msgstr "Αδύνατο να δημιουργηθεί η υπο-εργασία."
+msgid "Maximum size: "
+msgstr "Μέγιστο μέγεθος : "
+msgid "Display another project"
+msgstr "Εμφάνιση άλλου έργου"
+msgid "Created by %s"
+msgstr "Δημιουργήθηκε από %s"
+msgid "Tasks Export"
+msgstr "Εξαγωγή εργασιών"
+msgid "Start Date"
+msgstr "Ημερομηνία έναρξης"
+msgid "Execute"
+msgstr "Εκτέλεση"
+msgid "Task Id"
+msgstr "Task Id"
+msgid "Creator"
+msgstr "Δημιουργός"
+msgid "Modification date"
+msgstr "Ημερομηνία τροποποίησης"
+msgid "Completion date"
+msgstr "Ημερομηνία ολοκλήρωσης"
+msgid "Clone"
+msgstr "Clone"
+msgid "Project cloned successfully."
+msgstr "Το έργο κλωνοποιήθηκε με επιτυχία."
+msgid "Unable to clone this project."
+msgstr "Αδύνατο να κλωνοποιηθεί το έργο."
+msgid "Enable email notifications"
+msgstr "Ενεργοποίηση ειδοποιήσεων ηλεκτρονικού ταχυδρομείου"
+msgid "Task position:"
+msgstr "Θέση έργου:"
+msgid "The task #%d has been opened."
+msgstr "Η εργασία #%d έχει ανοίξει."
+msgid "The task #%d has been closed."
+msgstr "Η εργασία #%d έχει κλείσει."
+msgid "Sub-task updated"
+msgstr "Η υπο-εργασία ενημερώθηκε"
+msgid "Title:"
+msgstr "Τίτλος:"
+msgid "Status:"
+msgstr "Κατάσταση:"
+msgid "Assignee:"
+msgstr "Εντολοδόχος:"
+msgid "Time tracking:"
+msgstr "Παρακολούθηση του χρόνου:"
+msgid "New sub-task"
+msgstr "Νέα υπο-εργασία"
+msgid "New attachment added \"%s\""
+msgstr "Νέα επικόλληση προστέθηκε « %s »"
+msgid "New comment posted by %s"
+msgstr "Νέο σχόλιο από τον χρήστη « %s »"
+msgid "New comment"
+msgstr "Νέο σχόλιο"
+msgid "Comment updated"
+msgstr "Το σχόλιο ενημερώθηκε"
+msgid "New subtask"
+msgstr "Νέα υπο-εργασία"
+msgid "I only want to receive notifications for these projects:"
+msgstr "Θέλω να ενημερώνομαι αποκλειστικά για:"
+msgid "view the task on Kanboard"
+msgstr "Προβολή της εργασίας στο Kanboard"
+msgid "Public access"
+msgstr "Ανοιχτή πρόσβαση"
+msgid "Disable public access"
+msgstr "Απενεργοποίηση δημόσιας πρόσβασης"
+msgid "Enable public access"
+msgstr "Ενεργοποίηση δημόσιας πρόσβασης"
+msgid "Public access disabled"
+msgstr "Δημόσια πρόσβαση απενεργοποιήθηκε"
+msgid "Move the task to another project"
+msgstr "Μεταφορά της εργασίας σε άλλο έργο"
+msgid "Move to project"
+msgstr "Μεταφορά σε άλλο έργο"
+msgid "Do you really want to duplicate this task?"
+msgstr "Θέλετε πραγματικά να επαναλάβετε αυτή την εργασία;?"
+msgid "Duplicate a task"
+msgstr "Επανάληψη εργασίας"
+msgid "External accounts"
+msgstr "Εξωτερικοί λογαριασμοί"
+msgid "Account type"
+msgstr "Τύπος λογαριασμού"
+msgid "Local"
+msgstr "Τοπική"
+msgid "Remote"
+msgstr "Απομακρυσμένη"
+msgid "Enabled"
+msgstr "Ενεργή"
+msgid "Disabled"
+msgstr "Απενεργοποιημένη"
+msgid "Login:"
+msgstr "Login:"
+msgid "Full Name:"
+msgstr "Όνομα:"
+msgid "Email:"
+msgstr "Email:"
+msgid "Notifications:"
+msgstr "Ειδοποιήσεις:"
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+msgid "Account type:"
+msgstr "Τύπος λογαριασμού:"
+msgid "Edit profile"
+msgstr "Επεξεργασία προφίλ"
+msgid "Change password"
+msgstr "Αλλαγή password"
+msgid "Password modification"
+msgstr "Τροποποίηση password "
+msgid "External authentications"
+msgstr "Εξωτερικές πιστοποιήσεις"
+msgid "Never connected."
+msgstr "Ποτέ δεν συνδέθηκε."
+msgid "No external authentication enabled."
+msgstr "Καμία εξωτερική πιστοποιήση ενεργοποιημένη."
+msgid "Password modified successfully."
+msgstr "Το password τροποποιήθηκε με επιτυχία."
+msgid "Unable to change the password."
+msgstr "Αδύνατο να αλλάξει το password."
+msgid "Change category"
+msgstr "Αλλαγή κατηγορίας"
+msgid "%s updated the task %s"
+msgstr "%s ενημέρωσε την εργασία %s"
+msgid "%s opened the task %s"
+msgstr "%s άνοιξε την εργασία %s"
+msgid "%s moved the task %s to the position #%d in the column \"%s\""
+msgstr "%s άλλαξε την εργασία %s στη θέση n°%d στη στήλη « %s »"
+msgid "%s moved the task %s to the column \"%s\""
+msgstr "%s άλλαξε την εργασία %s στη στήλη « %s »"
+msgid "%s created the task %s"
+msgstr "%s δημιούργησε την εργασία %s"
+msgid "%s closed the task %s"
+msgstr "%s έκλεισε την εργασία %s"
+msgid "%s created a subtask for the task %s"
+msgstr "%s δημιούργησε την υπο-εργασία στην εργασία %s"
+msgid "%s updated a subtask for the task %s"
+msgstr "%s ενημέρωση την υπο-εργασία στην εργασία %s"
+msgid "Assigned to %s with an estimate of %s/%sh"
+msgstr "Ανατέθηκε στον %s με μια εκτίμηση του %s/%sh"
+msgid "Not assigned, estimate of %sh"
+msgstr "Δεν έχει εκχωρηθεί, εκτίμηση %sh"
+msgid "%s updated a comment on the task %s"
+msgstr "%s ενημερώθηκε ένα σχόλιο στην εργασία %s"
+msgid "%s commented the task %s"
+msgstr "%s σχολίασε την εργασία %s"
+msgid "%s's activity"
+msgstr "δραστηριότητα του έργου %s"
+msgid "RSS feed"
+msgstr "RSS feed"
+msgid "%s updated a comment on the task #%d"
+msgstr "%s ενημέρωσε ένα σχόλιο στην εργασία n°%d"
+msgid "%s commented on the task #%d"
+msgstr "%s σχολίασε την εργασία n°%d"
+msgid "%s updated a subtask for the task #%d"
+msgstr "%s ενημερώθηκε μια υπο-εργασία στην εργασία n °%d"
+msgid "%s created a subtask for the task #%d"
+msgstr "%s δημιουργήθηκε μια υπο-εργασία στην εργασία n°%d"
+msgid "%s updated the task #%d"
+msgstr "%s ενημέρωσε την εργασία n°%d"
+msgid "%s created the task #%d"
+msgstr "%s δημιούργησε την εργασία n°%d"
+msgid "%s closed the task #%d"
+msgstr "%s έκλεισε την εργασία n°%d"
+msgid "%s opened the task #%d"
+msgstr "%s άνοιξε την εργασία n°%d"
+msgid "Activity"
+msgstr "Δραστηριότητα"
+msgid "Default values are \"%s\""
+msgstr "Οι προεπιλεγμένες τιμές είναι « %s »"
+msgid "Default columns for new projects (Comma-separated)"
+msgstr "Προεπιλεγμένες στήλες για νέα έργα (Comma-separated)"
+msgid "Task assignee change"
+msgstr "Αλλαγή εκδοχέα εργασίας"
+msgid "%s changed the assignee of the task #%d to %s"
+msgstr "%s άλλαξε τον εκδοχέα της εργασίας n˚%d σε %s"
+msgid "%s changed the assignee of the task %s to %s"
+msgstr "%s ενημέρωσε τον εκδοχέα της εργασίας %s σε %s"
+msgid "New password for the user \"%s\""
+msgstr "Νέο password του χρήστη « %s »"
+msgid "Choose an event"
+msgstr "Επιλογή event"
+msgid "Create a task from an external provider"
+msgstr "Δημιουργήστε μια εργασία από ένα εξωτερικό πάροχο"
+msgid "Change the assignee based on an external username"
+msgstr "Αλλάξτε τον εκδοχέα βάση ενός εξωτερικού username"
+msgid "Change the category based on an external label"
+msgstr "Αλλάξτε τον εκδοχέα βάση ενός εξωτερικού label"
+msgid "Reference"
+msgstr "Reference"
+msgid "Label"
+msgstr "Label"
+msgid "Database"
+msgstr "Database"
+msgid "About"
+msgstr "About"
+msgid "Database driver:"
+msgstr "Database driver:"
+msgid "Board settings"
+msgstr "Board settings"
+msgid "Webhook settings"
+msgstr "Webhook settings"
+msgid "Reset token"
+msgstr "Reset token"
+msgid "API endpoint:"
+msgstr "URL API:"
+msgid "Refresh interval for personal board"
+msgstr "Ανανέωση interval στο personal board"
+msgid "Refresh interval for public board"
+msgstr "Ανανέωση interval στο public board"
+msgid "Task highlight period"
+msgstr "Περίοδος εργασίας"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Περίοδος (σε δευτερόλεπτα) για να εξετάσει ότι ένα έργο τροποποιήθηκε πρόσφατα (0 για να απενεργοποιήσετε, 2 ημέρες από προεπιλογή)"
+msgid "Frequency in second (60 seconds by default)"
+msgstr "Συχνότητα σε δευτερόλεπτα (60 δευτερόλεπτα από προεπιλογή)"
+msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
+msgstr "Συχνότητα σε δευτερόλεπτα (0 για να απενεργοποιήσετε αυτή τη λειτουργία, 10 δευτερόλεπτα από προεπιλογή)"
+msgid "Application URL"
+msgstr "Application URL"
+msgid "Token regenerated."
+msgstr "Token regenerated."
+msgid "Date format"
+msgstr "Μορφή ημερομηνίας"
+msgid "ISO format is always accepted, example: \"%s\" and \"%s\""
+msgstr "ISO format είναι πάντα αποδεκτό, π.χ.: « %s » και « %s »"
+msgid "New personal project"
+msgstr "Νέο ιδιωτικό έργο"
+msgid "This project is personal"
+msgstr "Αυτό το έργο είναι ιδιωτικό"
+msgid "Add"
+msgstr "Προσθήκη"
+msgid "Start date"
+msgstr "Ημερομηνία έναρξης"
+msgid "Time estimated"
+msgstr "Εκτιμώμενος χρόνος"
+msgid "There is nothing assigned to you."
+msgstr "Δεν σας έχει ανατεθεί τίποτα."
+msgid "My tasks"
+msgstr "Οι εργασίες μου"
+msgid "Activity stream"
+msgstr "Ροή δραστηριότητας"
+msgid "Dashboard"
+msgstr "Κεντρικό ταμπλό"
+msgid "Confirmation"
+msgstr "Επιβεβαίωση"
+msgid "Webhooks"
+msgstr "Webhooks"
+msgid "API"
+msgstr "API"
+msgid "Create a comment from an external provider"
+msgstr "Δημιουργήστε ένα σχόλιο από έναν εξωτερικό πάροχο"
+msgid "Project management"
+msgstr "Διαχείριση έργων"
+msgid "Columns"
+msgstr "Στήλες"
+msgid "Task"
+msgstr "Εργασία"
+msgid "Percentage"
+msgstr "Ποσοστό"
+msgid "Number of tasks"
+msgstr "Αριθμός εργασιών"
+msgid "Task distribution"
+msgstr "Κατανομή εργασιών"
+msgid "Analytics"
+msgstr "Αναλύσεις"
+msgid "Subtask"
+msgstr "Υπο-Εργασία"
+msgid "User repartition"
+msgstr "Επαναλήψεις χρηστών"
+msgid "Clone this project"
+msgstr "Κλωνοποίηση έργου"
+msgid "Column removed successfully."
+msgstr "Η στήλη αφαιρέθηκε με επιτυχία."
+msgid "Not enough data to show the graph."
+msgstr "Ελλειπή δεδομένα για να εμφανιστεί το γράφημα."
+msgid "Previous"
+msgstr "Προηγούμενο"
+msgid "The id must be an integer"
+msgstr "Το id δεν πρέπει να είναι ακέραιος"
+msgid "The project id must be an integer"
+msgstr "Το αναγνωριστικό έργου πρέπει να είναι ακέραιος"
+msgid "The status must be an integer"
+msgstr "Το status πρέπει να είναι ακέραιος"
+msgid "The subtask id is required"
+msgstr "Το id της υπο-εργασίας είναι υποχρεωτικό"
+msgid "The subtask id must be an integer"
+msgstr "Το id της υπο-εργασίας πρέπει να είναι ακέραιος"
+msgid "The task id is required"
+msgstr "Το id της εργασίας είναι υποχρεωτικό"
+msgid "The task id must be an integer"
+msgstr "Το id της εργασίας πρέπει να είναι ακέραιος"
+msgid "The user id must be an integer"
+msgstr "Το user id πρέπει να είναι ακέραιος"
+msgid "This value is required"
+msgstr "Η τιμή είναι υποχρεωτική"
+msgid "This value must be numeric"
+msgstr "Η τιμή πρέπει να είναι αριθμός"
+msgid "Unable to create this task."
+msgstr "Αδύνατο να δημιουργηθεί αυτή η εργασία."
+msgid "Cumulative flow diagram"
+msgstr "Συγκεντρωτικό διάγραμμα ροής"
+msgid "Daily project summary"
+msgstr "Καθημερινή περίληψη του έργου"
+msgid "Daily project summary export"
+msgstr "Εξαγωγή της καθημερινής περίληψης του έργου"
+msgid "Exports"
+msgstr "Εξαγωγές"
+msgid "This export contains the number of tasks per column grouped per day."
+msgstr "Αυτή η κατάσταση περιέχει τον αριθμό των εργασιών ανά στήλη ομαδοποιημένα ανά ημέρα."
+msgid "Active swimlanes"
+msgstr "Ενεργές λωρίδες"
+msgid "Add a new swimlane"
+msgstr "Προσθήκη λωρίδας"
+msgid "Default swimlane"
+msgstr "Εξ' ορισμού λωρίδα"
+msgid "Do you really want to remove this swimlane: \"%s\"?"
+msgstr "Σίγουρα θέλετε να αφαιρέσετε τη λωρίδα : « %s » ?"
+msgid "Inactive swimlanes"
+msgstr "Ανενεργές Λωρίδες"
+msgid "Remove a swimlane"
+msgstr "Αφαίρεση λωρίδας"
+msgid "Swimlane modification for the project \"%s\""
+msgstr "Τροποποίηση λωρίδας για το έργο « %s »"
+msgid "Swimlane removed successfully."
+msgstr "Η λωρίδα αφαιρέθηκε με επιτυχία."
+msgid "Swimlanes"
+msgstr "Λωρίδες"
+msgid "Swimlane updated successfully."
+msgstr "Η λωρίδα ενημερώθηκε με επιτυχία."
+msgid "Unable to remove this swimlane."
+msgstr "Αδύνατο να αφαιρεθεί η λωρίδα."
+msgid "Unable to update this swimlane."
+msgstr "Αδύνατο να ενημερωθεί η λωρίδα."
+msgid "Your swimlane has been created successfully."
+msgstr "Η λωρίδα δημιουργήθηκε με επιτυχία."
+msgid "Example: \"Bug, Feature Request, Improvement\""
+msgstr "Παράδειγμα: "Bug, Feature Request, Improvement »"
+msgid "Default categories for new projects (Comma-separated)"
+msgstr "Προεπιλεγμένες κατηγορίες για νέα έργα (Διαχωρισμένων με κόμμα)"
+msgid "Integrations"
+msgstr "Ενσωματώσεις"
+msgid "Integration with third-party services"
+msgstr "Ενοποίηση με υπηρεσίες τρίτων"
+msgid "Subtask Id"
+msgstr "Id υπο-εργασίας"
+msgid "Subtasks"
+msgstr "Υπο-Εργασίες"
+msgid "Subtasks Export"
+msgstr "Εξαγωγή υπο-εργασίων"
+msgid "Task Title"
+msgstr "Τίτλος εργασίας"
+msgid "Untitled"
+msgstr "Χωρίς τίτλο"
+msgid "Application default"
+msgstr "Προεπιλογή από την εφαρμογή"
+msgid "Language:"
+msgstr "Γλώσσα:"
+msgid "Timezone:"
+msgstr "Timezone:"
+msgid "All columns"
+msgstr "Όλες οι στήλες"
+msgid "Next"
+msgstr "Επόμενο"
+msgid "#%d"
+msgstr "n˚%d"
+msgid "All swimlanes"
+msgstr "Όλες οι λωρίδες"
+msgid "All colors"
+msgstr "Όλα τα χρώματα"
+msgid "Moved to column %s"
+msgstr "Μεταφορά στη στήλη %s"
+msgid "User dashboard"
+msgstr "Κεντρικό ταμπλό χρήστη"
+msgid "Allow only one subtask in progress at the same time for a user"
+msgstr "Αφήστε μόνο μία υπο-εργασία σε εξέλιξη ταυτόχρονα για έναν χρήστη"
+msgid "Edit column \"%s\""
+msgstr "Επεξεργασία στήλης « %s »"
+msgid "Select the new status of the subtask: \"%s\""
+msgstr "Επιλογή νέας κατάστασης της υπο-εργασίας : « %s »"
+msgid "Subtask timesheet"
+msgstr "Πρόγραμμα υπο-εργασίας"
+msgid "There is nothing to show."
+msgstr "Δεν υπάρχει κάτι."
+msgid "Time Tracking"
+msgstr "Παρακολούθηση χρονοδιαγράμματος"
+msgid "You already have one subtask in progress"
+msgstr "Έχετε ήδη μια υπο-εργασία σε εξέλιξη"
+msgid "Which parts of the project do you want to duplicate?"
+msgstr "Ποιά κομμάτια του έργου θέλετε να αντιγράψετε ?"
+msgid "Disallow login form"
+msgstr "Απαγόρευση φόρμας σύνδεσης"
+msgid "Start"
+msgstr "Εκκίνηση"
+msgid "End"
+msgstr "Τέλος"
+msgid "Task age in days"
+msgstr "Χρόνος εργασίας σε μέρες"
+msgid "Days in this column"
+msgstr "Μέρες σε αυτή την στήλη"
+msgid "%dd"
+msgstr "%dημ"
+msgid "Add a new link"
+msgstr "Προσθήκη ενός νέου link"
+msgid "Do you really want to remove this link: \"%s\"?"
+msgstr "Θέλετε σίγουρα να αφαιρέσετε αυτό το link : « %s » ?"
+msgid "Do you really want to remove this link with task #%d?"
+msgstr "Θέλετε σίγουρα να αφαιρέσετε αυτό το link του έργου n°%d ?"
+msgid "Field required"
+msgstr "Υποχρεωτικό πεδίο"
+msgid "Link added successfully."
+msgstr "Το link προστέθηκε με επιτυχία."
+msgid "Link updated successfully."
+msgstr "Το link ενημερώθηκε με επιτυχία."
+msgid "Link removed successfully."
+msgstr "Το link αφαιρέθηκε με επιτυχία."
+msgid "Link labels"
+msgstr "Link labels"
+msgid "Link modification"
+msgstr "Τροποποίηση Link "
+msgid "Opposite label"
+msgstr "Αντίθετο label"
+msgid "Remove a link"
+msgstr "Αφαίρεση ενός link"
+msgid "The labels must be different"
+msgstr "Τα label πρέπει να είναι διαφορετικά"
+msgid "There is no link."
+msgstr "Δεν υπάρχει σύνδεσμος."
+msgid "This label must be unique"
+msgstr "Το label πρέπει να είναι μοναδικό"
+msgid "Unable to create your link."
+msgstr "Αδύνατο να δημιουργήσετε σύνδεσμο."
+msgid "Unable to update your link."
+msgstr "Αδύνατο να ενημερώσετε τον σύνδεσμο."
+msgid "Unable to remove this link."
+msgstr "Αδύνατο να αφαιρέσετε τον σύνδεσμο."
+msgid "relates to"
+msgstr "συνδέεται με"
+msgid "blocks"
+msgstr "blocks"
+msgid "is blocked by"
+msgstr "μπλοκάρεται από"
+msgid "duplicates"
+msgstr "διπλότυπα"
+msgid "is duplicated by"
+msgstr "αντιγράφεται από"
+msgid "is a child of"
+msgstr "είναι ένα παιδί του"
+msgid "is a parent of"
+msgstr "είναι ο πατέρας του"
+msgid "targets milestone"
+msgstr "στόχοι οροσήμου"
+msgid "is a milestone of"
+msgstr "είναι ένα ορόσημο της"
+msgid "fixes"
+msgstr "διορθώσεις"
+msgid "is fixed by"
+msgstr "διορθώθηκε από"
+msgid "This task"
+msgstr "Αυτή η εργασία"
+msgid "<1h"
+msgstr "<1ωρ"
+msgid "%dh"
+msgstr "%dωρ"
+msgid "Expand tasks"
+msgstr "Ανάπτυξη εργασιών"
+msgid "Collapse tasks"
+msgstr "Σύμπτυξη εργασιών"
+msgid "Expand/collapse tasks"
+msgstr "Ανάπτυξη/σύμπτυξη εργασιών"
+msgid "Close dialog box"
+msgstr "Κλείστε το παράθυρο διαλόγου"
+msgid "Submit a form"
+msgstr "Αποστολή φόρμας"
+msgid "Board view"
+msgstr "Προβολή κεντρικού πίνακα"
+msgid "Keyboard shortcuts"
+msgstr "Συντομεύσεις πληκτρολογίου"
+msgid "Open board switcher"
+msgstr "Άνοιγμα μεταγωγέα κεντρικού πίνακα"
+msgid "Application"
+msgstr "Εφαρμογή"
+msgid "Compact view"
+msgstr "Συμπυκνωμένη προβολή"
+msgid "Horizontal scrolling"
+msgstr "Οριζόντια ολίσθηση"
+msgid "Compact/wide view"
+msgstr "Συμπυκνωμένη/Ευρεία Προβολή"
+msgid "Currency"
+msgstr "Νόμισμα"
+msgid "Personal project"
+msgstr "Ιδιωτικό έργο"
+msgid "AUD - Australian Dollar"
+msgstr "AUD - Australian Dollar"
+msgid "CAD - Canadian Dollar"
+msgstr "CAD - Canadian Dollar"
+msgid "CHF - Swiss Francs"
+msgstr "CHF - Swiss Francs"
+msgid "Custom Stylesheet"
+msgstr "Custom Stylesheet"
+msgid "EUR - Euro"
+msgstr "EUR - Euro"
+msgid "GBP - British Pound"
+msgstr "GBP - British Pound"
+msgid "INR - Indian Rupee"
+msgstr "INR - Indian Rupee"
+msgid "JPY - Japanese Yen"
+msgstr "JPY - Japanese Yen"
+msgid "NZD - New Zealand Dollar"
+msgstr "NZD - New Zealand Dollar"
+msgid "RSD - Serbian dinar"
+msgstr "RSD - Serbian dinar"
+msgid "CNY - Chinese Yuan"
+msgstr ""
+msgid "USD - US Dollar"
+msgstr "USD - US Dollar"
+msgid "VES - Venezuelan Bolívar"
+msgstr ""
+msgid "Destination column"
+msgstr "Στήλη προορισμού"
+msgid "Move the task to another column when assigned to a user"
+msgstr "Μετακινήστε την εργασία σε άλλη στήλη όταν ανατεθεί σε ένα χρήστη"
+msgid "Move the task to another column when assignee is cleared"
+msgstr "Μετακινήστε την εργασία σε άλλη στήλη όταν ο εκδοχέας είναι ελεύθερος"
+msgid "Source column"
+msgstr "Πηγή στήλης"
+msgid "Transitions"
+msgstr "Μεταβάσεις"
+msgid "Executer"
+msgstr "Εκτέλεση"
+msgid "Time spent in the column"
+msgstr "Χρόνος που αφιερώθηκε στη στήλη"
+msgid "Task transitions"
+msgstr "Μεταβίβαση εργασίας"
+msgid "Task transitions export"
+msgstr "Εξαγωγή μεταβιβάσεων εργασιών"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Η έκθεση αυτή περιέχει όλες τις κινήσεις της στήλης για κάθε εργασία με την ημερομηνία, το χρήστη και το χρόνο που δαπανάται για κάθε μετάβαση."
+msgid "Currency rates"
+msgstr "Ισοτιμίες"
+msgid "Rate"
+msgstr "Τιμή"
+msgid "Change reference currency"
+msgstr "Αλλαγή ισοτιμίας"
+msgid "Reference currency"
+msgstr "Αναφορά ισοτιμίας"
+msgid "The currency rate has been added successfully."
+msgstr "Η ισοτιμία προστέθηκε με επιτυχία."
+msgid "Unable to add this currency rate."
+msgstr "Αδύνατο να προστεθεί αυτή η ισοτιμία."
+msgid "Webhook URL"
+msgstr "Webhook URL"
+msgid "%s removed the assignee of the task %s"
+msgstr "%s αφαίρεσε τον εκδοχέα της εργασίας %s"
+msgid "Information"
+msgstr "Πληροφορίες"
+msgid "Check two factor authentication code"
+msgstr "Ελέγξτε δύο παράγοντες ελέγχου ταυτότητας κωδικού"
+msgid "The two factor authentication code is not valid."
+msgstr "Ο κωδικός ελέγχου ταυτότητας δύο παραγόντων δεν είναι σωστός."
+msgid "The two factor authentication code is valid."
+msgstr "Ο κωδικός ελέγχου ταυτότητας δύο παραγόντων είναι σωστός."
+msgid "Code"
+msgstr "Κωδικός"
+msgid "Two factor authentication"
+msgstr "Κωδικός ελέγχου ταυτότητας δύο παραγόντων"
+msgid "This QR code contains the key URI: "
+msgstr "Αυτό το QR code περιέχει το url : "
+msgid "Check my code"
+msgstr "Έλεγχος του κωδικού μου"
+msgid "Secret key: "
+msgstr "Μυστικό κλειδί: "
+msgid "Test your device"
+msgstr "Ελέγξτε τη συσκευή σας"
+msgid "Assign a color when the task is moved to a specific column"
+msgstr "Αντιστοίχιση χρώματος όταν η εργασία κινείται σε μια συγκεκριμένη στήλη"
+msgid "%s via Kanboard"
+msgstr "%s via Kanboard"
+msgid "Burndown chart"
+msgstr "Δημιουργία διαγράμματος"
+msgid "This chart show the task complexity over the time (Work Remaining)."
+msgstr "Αυτό το γράφημα δείχνει την πολυπλοκότητα του έργου κατά την πάροδο του χρόνου (Εργασία που παραμένει)."
+msgid "Screenshot taken %s"
+msgstr "Το screenshot αποθηκεύτηκε από %s"
+msgid "Add a screenshot"
+msgstr "Προσθήκη ενός screenshot"
+msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
+msgstr "Πάρτε ένα screenshot και πατήστε CTRL+V or ⌘+V για να το επικολλήσετε εδώ."
+msgid "Screenshot uploaded successfully."
+msgstr "Το screenshot ανέβηκε με επιτυχία."
+msgid "SEK - Swedish Krona"
+msgstr "SEK - Swedish Krona"
+msgid "Identifier"
+msgstr "Αναγνωριστικό"
+msgid "Disable two factor authentication"
+msgstr "Απενεργοποίηση κωδικού ελέγχου ταυτότητας δύο παραγόντων"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Είστε σίγουροι ότι θέλετε να απενεργοποίησετε τον κωδικό ελέγχου ταυτότητας δύο παραγόντων : « %s » ?"
+msgid "Edit link"
+msgstr "Επεξεργασία συνδέσμου"
+msgid "Start to type task title..."
+msgstr "Ξεκινήστε να πληκτρολογείτε τον τίτλο της εργασίας..."
+msgid "A task cannot be linked to itself"
+msgstr "Μια εργασία δεν μπορεί να συνδεθεί με τον εαυτό της"
+msgid "The exact same link already exists"
+msgstr "Ο σύνδεσμος υπάρχει ήδη"
+msgid "Recurrent task is scheduled to be generated"
+msgstr "Επαναλαμβανόμενο έργο έχει προγραμματιστεί να δημιουργηθεί"
+msgid "Score"
+msgstr "Score"
+msgid "The identifier must be unique"
+msgstr "Το αναγνωριστικό πρέπει να είναι μοναδικό"
+msgid "This linked task id doesn't exists"
+msgstr "Αυτό το συνδεδεμένο id της εργασίας δεν υπάρχει"
+msgid "This value must be alphanumeric"
+msgstr "Η τιμή πρέπει να είναι αλφαριθμητική"
+msgid "Edit recurrence"
+msgstr "Επεξεργασία επανάληψης"
+msgid "Generate recurrent task"
+msgstr "Δημιουργία επαναλαμβανόμενου έργου"
+msgid "Trigger to generate recurrent task"
+msgstr "Έναυσμα για τη δημιουργία επαναλαμβανόμενης εργασίας"
+msgid "Factor to calculate new due date"
+msgstr "Συντελεστής για τον υπολογισμό νέας ημερομηνίας καθηκόντων"
+msgid "Timeframe to calculate new due date"
+msgstr "Χρονικό πλαίσιο για τον υπολογισμό νέας ημερομηνίας καθηκόντων"
+msgid "Base date to calculate new due date"
+msgstr "Ημερομηνία βάσης για τον υπολογισμό νέας ημερομηνίας καθηκόντων"
+msgid "Action date"
+msgstr "Ημέρα ενέργειας"
+msgid "Base date to calculate new due date: "
+msgstr "Ημερομηνία βάσης για τον υπολογισμό νέας ημερομηνίας καθηκόντων : "
+msgid "This task has created this child task: "
+msgstr "Το έργο αυτό έχει δημιουργήθει από το έργο παιδί του: "
+msgid "Day(s)"
+msgstr "Μέρα(ες)"
+msgid "Existing due date"
+msgstr "Υπάρχουσα ημερομηνία καθηκόντων"
+msgid "Factor to calculate new due date: "
+msgstr "Συντελεστής για τον υπολογισμό νέας ημερομηνίας καθηκόντων: "
+msgid "Month(s)"
+msgstr "Μήνες"
+msgid "This task has been created by: "
+msgstr "Αυτό το έργο δημιουργήθηκε από τον χρήστη :"
+msgid "Recurrent task has been generated:"
+msgstr "Το επαναλαμβανόμενο έργο έχει παραχθεί :"
+msgid "Timeframe to calculate new due date: "
+msgstr "Χρονοδιάγραμμα υπολογισμού νέας ημερομηνίας καθηκόντων : "
+msgid "Trigger to generate recurrent task: "
+msgstr "Έναυσμα για τη δημιουργία επαναλαμβανόμενη εργασίας : "
+msgid "When task is closed"
+msgstr "Όταν το έργο έχει τελειώσει"
+msgid "When task is moved from first column"
+msgstr "Όταν το έργο έχει μετακινηθεί στην 1η στήλη"
+msgid "When task is moved to last column"
+msgstr "Όταν το έργο έχει μετακινηθεί στην τελευταία στήλη"
+msgid "Year(s)"
+msgstr "Χρόνος(οι)"
+msgid "Project settings"
+msgstr "Ρυθμίσεις έργου"
+msgid "Automatically update the start date"
+msgstr "Αυτόματη ενημέρωση της ημερομηνίας έναρξης"
+msgid "iCal feed"
+msgstr "iCal feed"
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+msgid "Security"
+msgstr "Ασφάλεια"
+msgid "Two factor authentication disabled"
+msgstr "Η πιστοποίηση δύο παραγόντων απενεργοποιήθηκε"
+msgid "Two factor authentication enabled"
+msgstr "Η πιστοποίηση δύο παραγόντων ενεργοποιήθηκε"
+msgid "Unable to update this user."
+msgstr "Αδύνατο να ενημερωθεί αυτός ο χρήστης."
+msgid "There is no user management for personal projects."
+msgstr "Δεν υπάρχει διαχείριση χρηστών για ιδιωτικά έργα."
+msgid "User that will receive the email"
+msgstr "Ο χρήστης που θα λάβει το μήνυμα ηλεκτρονικού ταχυδρομείου"
+msgid "Email subject"
+msgstr "Θέμα ηλεκτρονικού ταχυδρομείου"
+msgid "Date"
+msgstr "Ημέρα"
+msgid "Add a comment log when moving the task between columns"
+msgstr "Προσθέστε ένα σχόλιο καταγραφής κατά τη μετακίνηση του έργου μεταξύ των στηλών"
+msgid "Move the task to another column when the category is changed"
+msgstr "Μετακινήστε την εργασία σε άλλη στήλη, όταν η κατηγορία έχει αλλάξει"
+msgid "Send a task by email to someone"
+msgstr "Στείλτε μια εργασία μέσω ηλεκτρονικού ταχυδρομείου σε κάποιον"
+msgid "Reopen a task"
+msgstr "Ξανα-ανοίξτε μια εργασία"
+msgid "Notification"
+msgstr "Κοινοποίηση"
+msgid "%s moved the task #%d to the first swimlane"
+msgstr "%s μετέφερε την εργασία n°%d στην 1η λωρίδα"
+msgid "Swimlane"
+msgstr "Λωρίδα"
+msgid "%s moved the task %s to the first swimlane"
+msgstr "%s μετέφερε την εργασία %s στην 1η λωρίδα"
+msgid "%s moved the task %s to the swimlane \"%s\""
+msgstr "%s μετέφερε την εργασία %s στη λωρίδα « %s »"
+msgid "This report contains all subtasks information for the given date range."
+msgstr "Η έκθεση αυτή περιέχει όλες τις υπο-εργασίες για το συγκεκριμένο εύρος ημερομηνιών."
+msgid "This report contains all tasks information for the given date range."
+msgstr "Η έκθεση αυτή περιέχει όλες τις πληροφορίες για το συγκεκριμένο εύρος ημερομηνιών."
+msgid "Project activities for %s"
+msgstr "Ενέργειες για το έργο « %s »"
+msgid "view the board on Kanboard"
+msgstr "δείτε τον πίνακα στο Kanboard"
+msgid "The task has been moved to the first swimlane"
+msgstr "Η εργασία αυτή έχει μετακινηθεί στην πρώτη λωρίδα"
+msgid "The task has been moved to another swimlane:"
+msgstr "Η εργασία αυτή έχει μετακινηθεί σε άλλη λωρίδα:"
+msgid "New title: %s"
+msgstr "Νέος τίτλος: %s"
+msgid "The task is not assigned anymore"
+msgstr "Η εργασία δεν έχει ανατεθεί πλέον"
+msgid "New assignee: %s"
+msgstr "Καινούργια ανάθεση: %s"
+msgid "There is no category now"
+msgstr "Δεν υπάρχει κατηγορία τώρα"
+msgid "New category: %s"
+msgstr "Νέα κατηγορία: %s"
+msgid "New color: %s"
+msgstr "Νέο χρώμα: %s"
+msgid "New complexity: %d"
+msgstr "Νέα πολυπλοκότητα: %d"
+msgid "The due date has been removed"
+msgstr "Η ημερομηνία καθηκόντων έχει αφαιρεθεί"
+msgid "There is no description anymore"
+msgstr "Δεν υπάρχει περιγραφή πλέον"
+msgid "Recurrence settings has been modified"
+msgstr "Οι ρυθμίσεις επανάληψης έχουν τροποποιηθεί"
+msgid "Time spent changed: %sh"
+msgstr "Ο χρόνος που πέρασε έχει αλλάξει: %sh"
+msgid "Time estimated changed: %sh"
+msgstr "Ο εκτιμώμενος χρόνος άλλαξε: %sh"
+msgid "The field \"%s\" has been updated"
+msgstr "Το πεδίο « %s » έχει ενημερωθεί"
+msgid "The description has been modified:"
+msgstr "Η περιγραφή έχει ενημερωθεί"
+msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
+msgstr "Σίγουρα θέλετε να κλείσετε την εργασία « %s » και την υπο-εργασία ?"
+msgid "I want to receive notifications for:"
+msgstr "Επιθυμώ να λαμβάνω ενημερώσεις για :"
+msgid "All tasks"
+msgstr "Όλες οι εργασίες"
+msgid "Only for tasks assigned to me"
+msgstr "Μόνο σε εργασίες που μου έχουν ανατεθεί"
+msgid "Only for tasks created by me"
+msgstr "Μόνο σε εργασίες που έχουν δημιουργηθεί από εμένα"
+msgid "Only for tasks created by me and tasks assigned to me"
+msgstr "Μόνο σε εργασίες που έχουν δημιουργηθεί από εμένα και μου έχουν ανατεθεί"
+msgid "%%Y-%%m-%%d"
+msgstr "%%d/%%m/%%Y"
+msgid "Total for all columns"
+msgstr "Σύνολο για όλες τις στήλες"
+msgid "You need at least 2 days of data to show the chart."
+msgstr "Έχετε τουλάχιστον 2 ημέρες δεδομένων για να εμφανιστούν στο διάγραμμα."
+msgid "<15m"
+msgstr "<15m"
+msgid "<30m"
+msgstr "<30m"
+msgid "Stop timer"
+msgstr "Διακοπή ρολογιού"
+msgid "Start timer"
+msgstr "Έναρξη ρολογιού"
+msgid "My activity stream"
+msgstr "Η ροή δραστηριοτήτων μου"
+msgid "Search tasks"
+msgstr "Αναζήτηση εργασιών"
+msgid "Reset filters"
+msgstr "Επαναφορά φίλτρων"
+msgid "My tasks due tomorrow"
+msgstr "Οι εργασίες καθηκόντων μου αύριο"
+msgid "Tasks due today"
+msgstr "Οι εργασίες καθηκόντων μου αύριο"
+msgid "Tasks due tomorrow"
+msgstr "Εργασίες καθηκόντων αύριο"
+msgid "Tasks due yesterday"
+msgstr "Εργασίες καθηκόντων χτές"
+msgid "Closed tasks"
+msgstr "Κλειστές εργασίες"
+msgid "Open tasks"
+msgstr "Ανοιχτές εργασίες"
+msgid "Not assigned"
+msgstr "Δεν έχουν εκχωρηθεί"
+msgid "View advanced search syntax"
+msgstr "Δείτε τη σύνταξη "αναζήτησης για προχωρημένους""
+msgid "Overview"
+msgstr "Επισκόπηση"
+msgid "Board/Calendar/List view"
+msgstr "Πίνακας / Ημερολόγιο / Προβολή λίστας"
+msgid "Switch to the board view"
+msgstr "Εναλλαγή στην προβολή του πίνακα"
+msgid "Switch to the list view"
+msgstr "Εναλλαγή στην προβολή λίστας"
+msgid "Go to the search/filter box"
+msgstr "Μετάβαση στο πλαίσιο αναζήτησης / φίλτρο"
+msgid "There is no activity yet."
+msgstr "Δεν υπάρχει καμία δραστηριότητα ακόμα."
+msgid "No tasks found."
+msgstr "Δεν βρέθηκαν εργασίες."
+msgid "Keyboard shortcut: \"%s\""
+msgstr "Συντόμευση πληκτρολογίου: « %s »"
+msgid "List"
+msgstr "Λίστα"
+msgid "Filter"
+msgstr "Φίλτρο"
+msgid "Advanced search"
+msgstr "Προχωρημένη Αναζήτηση"
+msgid "Example of query: "
+msgstr "Παράδειγμα ερωτήματος: "
+msgid "Search by project: "
+msgstr "Αναζήτηση με βάση το έργο: "
+msgid "Search by column: "
+msgstr "Αναζήτηση με βάση την στήλη: "
+msgid "Search by assignee: "
+msgstr "Αναζήτηση με βάση τον δικαιοδόχο: "
+msgid "Search by color: "
+msgstr "Αναζήτηση βάση χρώματος: "
+msgid "Search by category: "
+msgstr "Αναζήτηση βάση κατηγορίας: "
+msgid "Search by description: "
+msgstr "Αναζήτηση βάση περιγραφής: "
+msgid "Search by due date: "
+msgstr "Αναζήτηση βάση ημέρας λήξης: "
+msgid "Average time spent in each column"
+msgstr "Μέσος χρόνος παραμονής σε κάθε στήλη"
+msgid "Average time spent"
+msgstr "Μέσος χρόνος που δαπανήθηκε"
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Αυτό το γράφημα δείχνει ότι ο μέσος χρόνος που δαπανάται σε κάθε στήλη για τις τελευταίες %d εργασίες"
+msgid "Average Lead and Cycle time"
+msgstr "Average Lead & Cycle time"
+msgid "Average lead time: "
+msgstr "Average lead time: "
+msgid "Average cycle time: "
+msgstr "Average cycle time: "
+msgid "Cycle Time"
+msgstr "Cycle time"
+msgid "Lead Time"
+msgstr "Lead time"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Αυτό το γράφημα δείχνει το average lead and cycle time για τις τελευταίες %d εργασίες κατά τη διάρκεια του χρόνου."
+msgid "Average time into each column"
+msgstr "Μέσος χρόνος σε κάθε στήλη"
+msgid "Lead and cycle time"
+msgstr "Lead et cycle time"
+msgid "Lead time: "
+msgstr "Lead time : "
+msgid "Cycle time: "
+msgstr "Cycle time : "
+msgid "Time spent in each column"
+msgstr "Ο χρόνος που δαπανήθηκε σε κάθε στήλη"
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "Το <lead time> είναι η διάρκεια μεταξύ της δημιουργίας του έργου και της ολοκλήρωσης του."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "Το <cycle time> είναι η διάρκεια μεταξύ της ημερομηνίας εκκίνησης και της ολοκλήρωσης του."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Εάν η εργασία δεν έχει κλείσει η τρέχουσα ώρα χρησιμοποιείται αντί της ημερομηνίας ολοκλήρωσης."
+msgid "Set the start date automatically"
+msgstr "Ρυθμίστε αυτόματα την ημερομηνία έναρξης"
+msgid "Edit Authentication"
+msgstr "Επεξεργασία ταυτοποίησης"
+msgid "Remote user"
+msgstr "Απομακρυσμένος χρήστης"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Στους απομακρυσμένους χρήστες δεν αποθηκεύονται οι κωδικοί πρόσβασης εντός της βάσης δεδομένων της τρέχουσας εφαρμογής, Παραδείγματα: LDAP, Google and Github accounts."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Αν ενεργοποιήσετε την επιλογή \"Απαγόρευση φόρμας σύνδεσης\", τα στοιχεία που εισάγονται στη φόρμα σύνδεσης αγνοούνται."
+msgid "Default task color"
+msgstr "Προεπιλογή χρώματος εργασίας"
+msgid "This feature does not work with all browsers."
+msgstr "Αυτή η δυνατότητα δεν δουλεύει σε όλους τους browsers"
+msgid "There is no destination project available."
+msgstr "Δεν υπάρχει διαθέσιμο κανένα έργο προορισμού."
+msgid "Trigger automatically subtask time tracking"
+msgstr "Αυτόματη ενεργοποίηση της παρακολούθησης χρόνου σε υπο-εργασίες"
+msgid "Include closed tasks in the cumulative flow diagram"
+msgstr "Να συμπεριλαμβάνονται οι κλειστές εργασίες στο συσσωρευτικό διάγραμμα ροής"
+msgid "Current swimlane: %s"
+msgstr "Τρέχουσα λωρίδα: %s"
+msgid "Current column: %s"
+msgstr "Τρέχουσα στήλη: %s"
+msgid "Current category: %s"
+msgstr "Τρέχουσα κατηγορία: %s"
+msgid "no category"
+msgstr "Καμμία κατηγορία"
+msgid "Current assignee: %s"
+msgstr "Τρέχον εκδοχέας: %s"
+msgid "not assigned"
+msgstr "δεν έχει εκχωρηθεί"
+msgid "Author:"
+msgstr "Συγγραφέας:"
+msgid "contributors"
+msgstr "συνεισφέροντες"
+msgid "License:"
+msgstr "Άδεια:"
+msgid "License"
+msgstr "Άδεια"
+msgid "Enter the text below"
+msgstr "Πληκτρολογήστε το παρακάτω κείμενο"
+msgid "Start date:"
+msgstr "Ημερομηνία εκκίνησης :"
+msgid "Due date:"
+msgstr "Ημερομηνία λήξης:"
+msgid "People who are project managers"
+msgstr "Οι άνθρωποι που είναι οι διευθυντές έργων"
+msgid "People who are project members"
+msgstr "Οι άνθρωποι που είναι μέλη των έργων"
+msgid "NOK - Norwegian Krone"
+msgstr "NOK - Norwegian Krone"
+msgid "Show this column"
+msgstr "Εμφάνιση αυτής της στήλης"
+msgid "Hide this column"
+msgstr "Απόκρυψη αυτής τη στήλη"
+msgid "End date"
+msgstr "Ημερομηνία λήξης"
+msgid "Users overview"
+msgstr "Επισκόπηση χρηστών"
+msgid "Members"
+msgstr "Μέλη"
+msgid "Shared project"
+msgstr "Κοινόχρηστο έργο"
+msgid "Project managers"
+msgstr "Διευθυντές έργου"
+msgid "Projects list"
+msgstr "Λίστα έργων"
+msgid "End date:"
+msgstr "Ημερομηνία λήξης :"
+msgid "Change task color when using a specific task link"
+msgstr "Αλλαγή χρώματος εργασίας χρησιμοποιώντας συγκεκριμένο σύνδεσμο εργασίας"
+msgid "Task link creation or modification"
+msgstr "Σύνδεσμος δημιουργίας ή τροποποίησης εργασίας"
+msgid "Milestone"
+msgstr "Ορόσημο"
+msgid "Reset the search/filter box"
+msgstr "Αρχικοποίηση του πεδίου αναζήτησης/φιλτραρίσματος"
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+msgid "Author"
+msgstr "Δημιουργός"
+msgid "Version"
+msgstr "Έκδοση"
+msgid "Plugins"
+msgstr "Πρόσθετα"
+msgid "There is no plugin loaded."
+msgstr "Δεν έχει φορτωθεί plugin"
+msgid "My notifications"
+msgstr "Οι ειδοποιήσεις μου"
+msgid "Custom filters"
+msgstr "Φίλτρα ορισμένα από τον χρήστη"
+msgid "Your custom filter has been created successfully."
+msgstr "Το παρεμετροποιημένο από τον χρήστη φίλτρο δημιουργήθηκε με επιτυχία"
+msgid "Unable to create your custom filter."
+msgstr "Δεν είναι δυνατή η δημιουργία του φίλτρου ορισμένου από τον χρήστη."
+msgid "Custom filter removed successfully."
+msgstr "Το παρεμετροποιημένο από τον χρήστη φίλτρο αφαιρέθηκε με επιτυχία."
+msgid "Unable to remove this custom filter."
+msgstr "Δεν είναι δυνατή η αφαίρεση του παρεμετροποιημένου από τον χρήστη φίλτρου."
+msgid "Edit custom filter"
+msgstr "Διόρθωση παρεμετροποιημένου από τον χρήστη φίλτρου"
+msgid "Your custom filter has been updated successfully."
+msgstr "Το παρεμετροποιημένο από τον χρήστη φίλτρο, διορθώθηκε με επιτυχία."
+msgid "Unable to update custom filter."
+msgstr "Δεν είναι δυνατή η ενημέρωση του παρεμετροποιημένου από τον χρήστη φίλτρου."
+msgid "Web"
+msgstr "Web"
+msgid "New attachment on task #%d: %s"
+msgstr "Νέο συνημμένο για την εργασία n°%d: %s"
+msgid "New comment on task #%d"
+msgstr "Νέο σχόλιο για την εργασία n°%d"
+msgid "Comment updated on task #%d"
+msgstr "Ενημέρωση σχολίου για την εργασία n°%d"
+msgid "New subtask on task #%d"
+msgstr "Νέα υπο-εργασία για την εργασία n°%d"
+msgid "Subtask updated on task #%d"
+msgstr "Ενημέρωση υπό-εργασίας για την εργασία n°%d"
+msgid "New task #%d: %s"
+msgstr "Νέα εργασία n°%d: %s"
+msgid "Task updated #%d"
+msgstr "Η εργασία n°%d ενημερώθηκε με επιτυχία"
+msgid "Task #%d closed"
+msgstr "Η εργασία n°%d έκλεισε"
+msgid "Task #%d opened"
+msgstr "Η εργασία n°%d άνοιξε"
+msgid "Column changed for task #%d"
+msgstr "Η στήλη άλλαξε για την εργασία n°%d"
+msgid "New position for task #%d"
+msgstr "Νέα θέση για την εργασία n°%d"
+msgid "Swimlane changed for task #%d"
+msgstr "Η λωρίδα άλλαξε για την εργασία n°%d"
+msgid "Assignee changed on task #%d"
+msgstr "Η ανάθεση άλλαξε για την εργασία n°%d"
+msgid "%d overdue tasks"
+msgstr "%d εκπρόθεσμες εργασίες"
+msgid "Task #%d is overdue"
+msgstr "Η εργασία n°%d είναι εκπρόθεσμη"
+msgid "No notification."
+msgstr "Χωρίς νέες ειδοποιήσεις."
+msgid "Mark all as read"
+msgstr "Μαρκάρισμα όλων ως διαβασμένα"
+msgid "Mark as read"
+msgstr "Μαρκάρισμα ως διαβασμένο"
+msgid "Total number of tasks in this column across all swimlanes"
+msgstr "Συνολικός αριθμός εργασιών σε αυτήν τη στήλη σε όλες τις λωρίδες"
+msgid "Collapse swimlane"
+msgstr "Συρίκνωση λωρίδας"
+msgid "Expand swimlane"
+msgstr "Ανάπτυξη λωρίδας"
+msgid "Add a new filter"
+msgstr "Προσθήκη νέου φίλτρου"
+msgid "Share with all project members"
+msgstr "Διαμοίραση με όλους τους χρήστες του έργου"
+msgid "Shared"
+msgstr "Διαμοιρασμένα"
+msgid "Owner"
+msgstr "Ιδιοκτήτης"
+msgid "Unread notifications"
+msgstr "Αδιάβαστες ειδοποιήσεις"
+msgid "Notification methods:"
+msgstr "Μέθοδοι ειδοποίησης:"
+msgid "Unable to read your file"
+msgstr "Δεν είναι δυνατή η ανάγνωση του αρχείου"
+msgid "%d task(s) have been imported successfully."
+msgstr "%d η(οι) εργασία(ες) εισήχθησαν με επιτυχία."
+msgid "Nothing has been imported!"
+msgstr "Τίποτα δεν εισήχθη"
+msgid "Import users from CSV file"
+msgstr "Εισαγωγή χρηστών μέσω αρχείου CSV"
+msgid "%d user(s) have been imported successfully."
+msgstr "%d ο(οι) χρήστης(ες) εισήχθησαν με επιτυχία."
+msgid "Comma"
+msgstr "Κόμμα"
+msgid "Semi-colon"
+msgstr "Ερωτηματικό"
+msgid "Tab"
+msgstr "Tab"
+msgid "Vertical bar"
+msgstr "Κατακόρυφη μπάρα"
+msgid "Double Quote"
+msgstr "Διπλά εισαγωγικά"
+msgid "Single Quote"
+msgstr "Μονά εισαγωγικά"
+msgid "%s attached a file to the task #%d"
+msgstr "%s συνημμένο αρχείο στην εργασία n°%d"
+msgid "There is no column or swimlane activated in your project!"
+msgstr "Δεν υπάρχει στήλη ή λωρίδα ενεργοποιημένη στο έργο !"
+msgid "Append filter (instead of replacement)"
+msgstr "Προσθήκη φίλτρου (αντί αντικατάσταση)"
+msgid "Append/Replace"
+msgstr "Προσθήκη/Αντικατάσταση"
+msgid "Append"
+msgstr "Προσθήκη"
+msgid "Replace"
+msgstr "Αντικατάσταση"
+msgid "Import"
+msgstr "Εισαγωγή"
+msgid "Change sorting"
+msgstr "Αλλαγή ταξινόμησης"
+msgid "Tasks Importation"
+msgstr "Εισαγωγή εργασιών"
+msgid "Delimiter"
+msgstr "Delimiter"
+msgid "Enclosure"
+msgstr "Enclosure"
+msgid "CSV File"
+msgstr "Αρχείο CSV"
+msgid "Instructions"
+msgstr "Οδηγίες"
+msgid "Your file must use the predefined CSV format"
+msgstr "Το αρχείο σας πρέπει να χρησιμοποιεί προκαθορισμένη μορφοποίηση CSV"
+msgid "Your file must be encoded in UTF-8"
+msgstr "Το αρχείο σας πρέπει να έχει κωδικοποίηση χαρακτήρων UTF-8"
+msgid "The first row must be the header"
+msgstr "Η πρώτη γραμμή πρέπει να είναι η κεφαλίδα"
+msgid "Duplicates are not verified for you"
+msgstr "Οι Διπλοεγγραφές δεν ελέγχονται"
+msgid "The due date must use the ISO format: YYYY-MM-DD"
+msgstr "Η ημερομηνία λήξης πρέπει να χρησιμοποιεί τη μορφοποίηση ISO: EEEE-MM-HH  ή στα αγγλικά YYYY-MM-DD"
+msgid "Download CSV template"
+msgstr "Κατέβασμα πρότυπου αρχείου CSV"
+msgid "No external integration registered."
+msgstr "No external integration registered."
+msgid "Duplicates are not imported"
+msgstr "Διπλοεγγραφές δεν εισήχθησαν"
+msgid "Usernames must be lowercase and unique"
+msgstr "Οι ονομασίες χρηστών πρέπει να είναι σε μικρά γράμματα (lowercase) και μοναδικά"
+msgid "Passwords will be encrypted if present"
+msgstr "Οι κωδικοί πρόσβασης κρυπτογραφούνται, αν υπάρχουν"
+msgid "%s attached a new file to the task %s"
+msgstr "%s νέο συνημμένο αρχείο της εργασίας  %s"
+msgid "Link type"
+msgstr "Τύπος συνδέσμου"
+msgid "Assign automatically a category based on a link"
+msgstr "Ανατίθεται αυτόματα κατηγορία, βασισμένη στον σύνδεσμο"
+msgid "BAM - Konvertible Mark"
+msgstr "BAM - Konvertible Mark"
+msgid "Assignee Username"
+msgstr "Δικαιοδόχο όνομα χρήστη"
+msgid "Assignee Name"
+msgstr "Δικαιοδόχο όνομα"
+msgid "Groups"
+msgstr "Ομάδες"
+msgid "Members of %s"
+msgstr "Μέλη του %s"
+msgid "New group"
+msgstr "Νέα ομάδα"
+msgid "Group created successfully."
+msgstr "Η ομάδα δημιουργήθηκε με επιτυχία."
+msgid "Unable to create your group."
+msgstr "Δεν είναι δυνατή η δημιουργία της ομάδας."
+msgid "Edit group"
+msgstr "Διόρθωση ομάδας"
+msgid "Group updated successfully."
+msgstr "Η ομάδα ενημερώθηκε με επιτυχία."
+msgid "Unable to update your group."
+msgstr "Δεν είναι δυνατή η ενημέρωση της ομάδας."
+msgid "Add group member to \"%s\""
+msgstr "Προσθήκη του μέλους της ομάδας στην « %s »"
+msgid "Group member added successfully."
+msgstr "Το μέλος της ομ΄δας προστέθηκε με επιτυχία."
+msgid "Unable to add group member."
+msgstr "Δεν είναι δυνατή η προσθήκη μέλους ομάδας."
+msgid "Remove user from group \"%s\""
+msgstr "Αφαίρεση μέλους από την ομάδα « %s »"
+msgid "User removed successfully from this group."
+msgstr "Ο χρήστης αφαιρέθηκε με επιτυχία από την ομάδα."
+msgid "Unable to remove this user from the group."
+msgstr "Δεν είναι δυνατή η αφαίρεση του χρήστη από την ομάδα."
+msgid "Remove group"
+msgstr "Αφαίρεση ομάδας"
+msgid "Group removed successfully."
+msgstr "Η ομάδα αφαιρέθηκε με επιτυχία."
+msgid "Unable to remove this group."
+msgstr "Δεν είναι δυνατή η αφαίρεση της ομάδας."
+msgid "Project Permissions"
+msgstr "Επιτρέψεις έργου"
+msgid "Manager"
+msgstr "Διευθυντής"
+msgid "Project Manager"
+msgstr "Διευθυντής έργου"
+msgid "Project Member"
+msgstr "Μέλος σε έργο"
+msgid "Project Viewer"
+msgstr "Μέλος μόνο για προβολή έργου"
+msgid "Your account is locked for %d minutes"
+msgstr "Ο λογαριασμός σας κλειδώθηκε για %d λεπτά"
+msgid "Invalid captcha"
+msgstr "Μη αποδεκτό Captcha"
+msgid "The name must be unique"
+msgstr "Το όνομα πρέπει να είναι μοναδικό"
+msgid "View all groups"
+msgstr "Προβολή όλων των ομάδων"
+msgid "There is no user available."
+msgstr "Δεν υπάρχει διαθέσιμος χρήστης"
+msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
+msgstr "Αφαίρεση του χρήστη « %s » από την ομάδα « %s » ?"
+msgid "There is no group."
+msgstr "Δεν υπάρχει ομάδα."
+msgid "Add group member"
+msgstr "Προσθήκη μέλους ομάδας"
+msgid "Do you really want to remove this group: \"%s\"?"
+msgstr "Αφαίρεση της ομάδας: « %s » ?"
+msgid "There is no user in this group."
+msgstr "Δεν υπάρχει χρήστης σε αυτήν την ομάδα"
+msgid "Permissions"
+msgstr "Επιτρέψεις"
+msgid "Allowed Users"
+msgstr "Χρήστες που επιτρέπονται"
+msgid "No specific user has been allowed."
+msgstr "Δεν υπάρχει χρήστης που να επιτρέπεται συγκεκριμένα."
+msgid "Role"
+msgstr "Ρόλος"
+msgid "Enter user name..."
+msgstr "Εισαγωγή ονόματος χρήστη..."
+msgid "Allowed Groups"
+msgstr "Ομάδες που επιτρέπονται"
+msgid "No group has been allowed."
+msgstr "Δεν υπάρχει ομάδα που να επιτρέπεται συγκεκριμένα."
+msgid "Group"
+msgstr "Ομάδα"
+msgid "Group Name"
+msgstr "Ονομασία ομάδας"
+msgid "Enter group name..."
+msgstr "Εισαγωγή ονομασίας ομάδας..."
+msgid "Role:"
+msgstr "Ρόλος:"
+msgid "Project members"
+msgstr "Μέλη έργου"
+msgid "%s mentioned you in the task #%d"
+msgstr "%s αναφέρονται σε εσάς, στη εργασία n°%d"
+msgid "%s mentioned you in a comment on the task #%d"
+msgstr "%s αναφέρονται σε εσάς σε σχόλιο, στη εργασίας n°%d"
+msgid "You were mentioned in the task #%d"
+msgstr "Αναφέρεστε στην εργασία n°%d"
+msgid "You were mentioned in a comment on the task #%d"
+msgstr "Αναφέρεστε σε σχόλιο, στην εργασία n°%d"
+msgid "Estimated hours: "
+msgstr "Προβλεπόμενες ώρες: "
+msgid "Actual hours: "
+msgstr "Πραγματικές ώρες: "
+msgid "Hours Spent"
+msgstr "Δαπανόμενες ώρες"
+msgid "Hours Estimated"
+msgstr "Προβλεπόμενες ώρες"
+msgid "Estimated Time"
+msgstr "Προβλεπόμενος χρόνος"
+msgid "Actual Time"
+msgstr "Πραγματικός χρόνος"
+msgid "Estimated vs actual time"
+msgstr "Προβλεπόμενος vs πραγματικός χρόνος"
+msgid "RUB - Russian Ruble"
+msgstr "RUB - Russian Ruble"
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "Ανάθεση της εργασίας στο άτομο κάνει την ενέργεια όταν η στήλη αλλάζει"
+msgid "Close a task in a specific column"
+msgstr "Κλείσιμο εργασίας σε συγκεκριμένη στήλη"
+msgid "Time-based One-time Password Algorithm"
+msgstr "Time-based One-time Password Algorithm"
+msgid "Two-Factor Provider: "
+msgstr "Two-Factor Provider: "
+msgid "Disable two-factor authentication"
+msgstr "Απενεργοποίηση two-factor authentication"
+msgid "Enable two-factor authentication"
+msgstr "Ενεργοποίηση two-factor authentication"
+msgid "There is no integration registered at the moment."
+msgstr "There is no integration registered at the moment."
+msgid "Password Reset for Kanboard"
+msgstr "Αρχικοποίηση κωδικών πρόσβασης για την εφαρμογή Kanboard"
+msgid "Forgot password?"
+msgstr "Ξεχάσατε τον κωδικό πρόσβασης ?"
+msgid "Enable \"Forget Password\""
+msgstr "Ενεργοποίηση « Ξέχασα τον κωδικό πρόσβασης »"
+msgid "Password Reset"
+msgstr "Αρχικοποίηση κωδικού πρόσβασης"
+msgid "New password"
+msgstr "Νέος κωδικός πρόσβασης"
+msgid "Change Password"
+msgstr "Αλλαγή κωδικού πρόσβασης"
+msgid "To reset your password click on this link:"
+msgstr "Για να αρχικοποιηθεί ο κωδικός πρόσβασης σας πατήστε σε αυτόν τον σύνδεσμο:"
+msgid "Last Password Reset"
+msgstr "Αρχικοποίηση τελευταίου κωδικού πρόσβασης"
+msgid "The password has never been reinitialized."
+msgstr "Ο κωδικός πρόσβασης δεν μπορεί να αρχικοποιηθεί για δεύτερη φορά."
+msgid "Creation"
+msgstr "Δημιουργία"
+msgid "Expiration"
+msgstr "Λήξη"
+msgid "Password reset history"
+msgstr "Ιστορικό αρχικοποίησης κωδικών πρόσβασης"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "Όλες οι εργασίας της στήλης « %s » και η λωρίδα « %s » έκλεισαν με επιτυχία."
+msgid "Do you really want to close all tasks of this column?"
+msgstr "Να κλείσουν όλες οι εργασίες αυτής της στήλης ?"
+msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+msgstr "%d εργασία(ες) στη στήλη « %s » και στη λωρίδα « %s » θα κλείσουν."
+msgid "Close all tasks in this column and this swimlane"
+msgstr "Κλείσιμο όλων των εργασιών αυτής της στήλης"
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Κανένα plugin δεν έχει καταχωρηθεί με τη μέθοδο της κοινοποίησης του έργου. Μπορείτε ακόμα να διαμορφώσετε τις μεμονωμένες κοινοποιήσεις στο προφίλ χρήστη σας."
+msgid "My dashboard"
+msgstr "Το κεντρικό ταμπλό μου"
+msgid "My profile"
+msgstr "Το προφίλ μου"
+msgid "Project owner: "
+msgstr "Ιδιοκτήτης έργου: "
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Το αναγνωριστικό έργου είναι προαιρετικό και πρέπει να είναι αλφαριθμητικό, για παράδειγμα: MYPROJECT"
+msgid "Project owner"
+msgstr "Ιδιοκτήτης έργου"
+msgid "Personal projects do not have users and groups management."
+msgstr "Τα ιδιωτικά έργα δεν έχουν χρήστες και διαχείριση ομάδων"
+msgid "There is no project member."
+msgstr "Δεν υπάρχει μέλος στο έργο"
+msgid "Priority"
+msgstr "Προτεραιότητα"
+msgid "Task priority"
+msgstr "Προτεραιότητα εργασίας"
+msgid "General"
+msgstr "Γενικά"
+msgid "Dates"
+msgstr "Ημερομηνίες"
+msgid "Default priority"
+msgstr "Εξ ορισμού προτεραιότητα"
+msgid "Lowest priority"
+msgstr "η χαμηλότερη προτεραιότητα"
+msgid "Highest priority"
+msgstr "η υψηλότερη προτεραιότητα"
+msgid "Close a task when there is no activity"
+msgstr "Κλείσιμο εργασίας όταν δεν υπάρχει δραστηριότητα"
+msgid "Duration in days"
+msgstr "Διάρκεια σε ημέρες"
+msgid "Send email when there is no activity on a task"
+msgstr "Αποστολή email όταν δεν υπάρχει δραστηριότητα σε εργασία"
+msgid "Unable to fetch link information."
+msgstr "Δεν είναι δυνατή η ανάλυση της πληροφορίας συνδεσμου"
+msgid "Daily background job for tasks"
+msgstr "Ημερήσια παρασκηνιακή δουλειά για τις εργασίες"
+msgid "Auto"
+msgstr "Αυτόματο"
+msgid "Related"
+msgstr "Σχετίζεται"
+msgid "Attachment"
+msgstr "Συνημμένο"
+msgid "Title not found"
+msgstr "Ο τίτλος δεν βρέθηκε"
+msgid "Web Link"
+msgstr "Σύνδεσμος web"
+msgid "External links"
+msgstr "Εξωτερικοί σύνδεσμοι"
+msgid "Add external link"
+msgstr "Προσθήκη εξωτερικού συνδέσμου"
+msgid "Type"
+msgstr "Τύπος"
+msgid "Dependency"
+msgstr "Εξάρτηση"
+msgid "Add internal link"
+msgstr "Προσθήκη εσωτερικού συνδέσμου"
+msgid "Add a new external link"
+msgstr "Προσθήκη νέου εξωτερικού συνδέσμου"
+msgid "Edit external link"
+msgstr "Διόρθωση εξωτερικού συνδέσμου"
+msgid "External link"
+msgstr "Εξωτερικός σύνδεσμος"
+msgid "Copy and paste your link here..."
+msgstr "Κάντε αντιγραφή και επικόλληση εδώ"
+msgid "URL"
+msgstr "URL"
+msgid "Internal links"
+msgstr "Εσωτερικοί σύνδεσμοι"
+msgid "Assign to me"
+msgstr "Αναττίθεται σε εμένα"
+msgid "Me"
+msgstr "Σε μένα"
+msgid "Do not duplicate anything"
+msgstr "Να μην γίνει κλωνοποίηση από άλλο έργο"
+msgid "Projects management"
+msgstr "Διαχείριση έργων"
+msgid "Users management"
+msgstr "Διαχείριση χρηστών"
+msgid "Groups management"
+msgstr "Διαχείριση ομάδων"
+msgid "Create from another project"
+msgstr "Δημιουργία από άλλο έργο"
+msgid "open"
+msgstr "Ανοικτό"
+msgid "closed"
+msgstr "Κλειστό"
+msgid "Priority:"
+msgstr "Προτεραιότητα:"
+msgid "Reference:"
+msgstr "Αναφορά:"
+msgid "Complexity:"
+msgstr "Πολυπλοκότητα:"
+msgid "Swimlane:"
+msgstr "Λωρίδα:"
+msgid "Column:"
+msgstr "Στήλη:"
+msgid "Position:"
+msgstr "Θέση:"
+msgid "Creator:"
+msgstr "Δημιουργός:"
+msgid "Time estimated:"
+msgstr "Προβλεπόμενη ώρα:"
+msgid "%s hours"
+msgstr "%s ώρες"
+msgid "Time spent:"
+msgstr "χρόνος που καταναλώθηκε:"
+msgid "Created:"
+msgstr "Δημιουργήθηκε:"
+msgid "Modified:"
+msgstr "Διορθώθηκε:"
+msgid "Completed:"
+msgstr "Ολοκληρώθηκε:"
+msgid "Started:"
+msgstr "Ξεκίνησε:"
+msgid "Moved:"
+msgstr "Μετακινήθηκε:"
+msgid "Task #%d"
+msgstr "Εργασία #%d"
+msgid "Time format"
+msgstr "Μορφή ώρας"
+msgid "Start date: "
+msgstr "Ημερομηνία έναρξης: "
+msgid "End date: "
+msgstr "Ημερομηνία λήξης: "
+msgid "New due date: "
+msgstr "Νέα ημερομηνία λήξης: "
+msgid "Start date changed: "
+msgstr "Αλλαγμένη ημερομηνία έναρξης: "
+msgid "Disable personal projects"
+msgstr "Απενεργοποίηση ιδιωτικών έργων"
+msgid "Do you really want to remove this custom filter: \"%s\"?"
+msgstr "Αφαίρεση αυτού του οριζόμενου από το χρήστη φίλτρου %s ?"
+msgid "Remove a custom filter"
+msgstr "Αφαίρεση του οριζόμενου από το χρήστη φίλτρου"
+msgid "User activated successfully."
+msgstr "Ο χρήστης ενεργοποιήθηκε με επιτυχία"
+msgid "Unable to enable this user."
+msgstr "Δεν είναι δυνατή η ενεργοποίηση του χρήστη"
+msgid "User disabled successfully."
+msgstr "Η απενεργοποίηση του χρήστη έγινε με επιτυχία"
+msgid "Unable to disable this user."
+msgstr "Δεν είναι δυνατή η απενεργοποίηση του χρήστη"
+msgid "All files have been uploaded successfully."
+msgstr "Όλα τα αρχεία ανέβηκαν με επιτυχία"
+msgid "The maximum allowed file size is %sB."
+msgstr "Το μέγιστο μέγεθος αρχείου που επιτρέπεται είναι %sB."
+msgid "Drag and drop your files here"
+msgstr "Σύρετε τα αρχεία σας εδώ"
+msgid "choose files"
+msgstr "Επιλογή αρχείων"
+msgid "View profile"
+msgstr "Προβολή προφίλ"
+msgid "Two Factor"
+msgstr "Δύο παραγόντων"
+msgid "Disable user"
+msgstr "Απενεργοποίηση χρήστη"
+msgid "Do you really want to disable this user: \"%s\"?"
+msgstr "Απενεργοποίηση του χρήστη: \"%s\";"
+msgid "Enable user"
+msgstr "Ενεργοποίηση χρήστη"
+msgid "Do you really want to enable this user: \"%s\"?"
+msgstr "Ενεργοποίηση του χρήστη \"%s\";"
+msgid "Download"
+msgstr "Κατέβασμα"
+msgid "Uploaded: %s"
+msgstr "Ανέβηκε το αρχείο: %s"
+msgid "Size: %s"
+msgstr "Μέγεθος: %s"
+msgid "Uploaded by %s"
+msgstr "Ανέβασμα από τον χρήστη: %s"
+msgid "Filename"
+msgstr "Όνομα αρχείου"
+msgid "Size"
+msgstr "Μέγεθος"
+msgid "Column created successfully."
+msgstr "Η στήλη δημιουργήθηκε με επιτυχία."
+msgid "Another column with the same name exists in the project"
+msgstr "Μια άλλη στήλη με το ίδιο όνομα υπάρχει στο έργο"
+msgid "Default filters"
+msgstr "Εξ' ορισμού φίλτρα"
+msgid "Your board doesn't have any columns!"
+msgstr "Το ταμπλό δεν έχει καμία στήλη!!="
+msgid "Change column position"
+msgstr "Αλλαγή θέσης στήλης"
+msgid "Switch to the project overview"
+msgstr "Αλλαγή προβολής σε επισκόπηση έργου"
+msgid "User filters"
+msgstr "Φίλτρα οριζόμενα από τον χρήστη"
+msgid "Category filters"
+msgstr "Κατηγορία φίλτρων"
+msgid "Upload a file"
+msgstr "Ανέβασμα αρχείου"
+msgid "View file"
+msgstr "Προβολή αρχείου"
+msgid "Last activity"
+msgstr "Τελευταία δραστηριότητα"
+msgid "Change subtask position"
+msgstr "Αλλαγή θέσης υπο-εργασίας"
+msgid "This value must be greater than %d"
+msgstr "Η τιμή πρέπει να είναι μεγαλύτερη από %d"
+msgid "Another swimlane with the same name exists in the project"
+msgstr "Μια άλλη λωρίδα, με το ίδιο όνομα υπάρχει στο έργο"
+msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
+msgstr "Παράδειγμα: https://example.kanboard.org/ (χρησιμοποιείται για τη δημιουργία απόλυτων URLs)"
+msgid "Actions duplicated successfully."
+msgstr ""
+msgid "Unable to duplicate actions."
+msgstr ""
+msgid "Add a new action"
+msgstr ""
+msgid "Import from another project"
+msgstr ""
+msgid "There is no action at the moment."
+msgstr ""
+msgid "Import actions from another project"
+msgstr ""
+msgid "There is no available project."
+msgstr ""
+msgid "Local File"
+msgstr ""
+msgid "Configuration"
+msgstr ""
+msgid "PHP version:"
+msgstr ""
+msgid "PHP SAPI:"
+msgstr ""
+msgid "OS version:"
+msgstr ""
+msgid "Database version:"
+msgstr ""
+msgid "Browser:"
+msgstr ""
+msgid "Task view"
+msgstr ""
+msgid "Edit task"
+msgstr ""
+msgid "Edit description"
+msgstr ""
+msgid "New internal link"
+msgstr ""
+msgid "Display list of keyboard shortcuts"
+msgstr ""
+msgid "Avatar"
+msgstr ""
+msgid "Upload my avatar image"
+msgstr ""
+msgid "Remove my image"
+msgstr ""
+msgid "The OAuth2 state parameter is invalid"
+msgstr ""
+msgid "User not found."
+msgstr ""
+msgid "Search in activity stream"
+msgstr ""
+msgid "My activities"
+msgstr ""
+msgid "Activity until yesterday"
+msgstr ""
+msgid "Activity until today"
+msgstr ""
+msgid "Search by creator: "
+msgstr ""
+msgid "Search by creation date: "
+msgstr ""
+msgid "Search by task status: "
+msgstr ""
+msgid "Search by task title: "
+msgstr ""
+msgid "Activity stream search"
+msgstr ""
+msgid "Projects where \"%s\" is manager"
+msgstr ""
+msgid "Projects where \"%s\" is member"
+msgstr ""
+msgid "Open tasks assigned to \"%s\""
+msgstr ""
+msgid "Closed tasks assigned to \"%s\""
+msgstr ""
+msgid "Assign automatically a color based on a priority"
+msgstr ""
+msgid "Overdue tasks for the project(s) \"%s\""
+msgstr ""
+msgid "Upload files"
+msgstr ""
+msgid "Installed Plugins"
+msgstr ""
+msgid "Plugin Directory"
+msgstr ""
+msgid "Plugin installed successfully."
+msgstr ""
+msgid "Plugin updated successfully."
+msgstr ""
+msgid "Plugin removed successfully."
+msgstr ""
+msgid "Subtask converted to task successfully."
+msgstr ""
+msgid "Unable to convert the subtask."
+msgstr ""
+msgid "Unable to extract plugin archive."
+msgstr ""
+msgid "Plugin not found."
+msgstr ""
+msgid "You don't have the permission to remove this plugin."
+msgstr ""
+msgid "Unable to download plugin archive."
+msgstr ""
+msgid "Unable to write temporary file for plugin."
+msgstr ""
+msgid "Unable to open plugin archive."
+msgstr ""
+msgid "There is no file in the plugin archive."
+msgstr ""
+msgid "Create tasks in bulk"
+msgstr ""
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr ""
+msgid "There is no plugin available."
+msgstr ""
+msgid "Install"
+msgstr ""
+msgid "Update"
+msgstr ""
+msgid "Up to date"
+msgstr ""
+msgid "Not available"
+msgstr ""
+msgid "Remove plugin"
+msgstr ""
+msgid "Do you really want to remove this plugin: \"%s\"?"
+msgstr ""
+msgid "Uninstall"
+msgstr ""
+msgid "Listing"
+msgstr ""
+msgid "Metadata"
+msgstr ""
+msgid "Manage projects"
+msgstr ""
+msgid "Convert to task"
+msgstr ""
+msgid "Convert sub-task to task"
+msgstr ""
+msgid "Do you really want to convert this sub-task to a task?"
+msgstr ""
+msgid "My task title"
+msgstr ""
+msgid "Enter one task by line."
+msgstr ""
+msgid "Number of failed login:"
+msgstr ""
+msgid "Account locked until:"
+msgstr ""
+msgid "Email settings"
+msgstr ""
+msgid "Email sender address"
+msgstr ""
+msgid "Email transport"
+msgstr ""
+msgid "Webhook token"
+msgstr ""
+msgid "Project tags management"
+msgstr ""
+msgid "Tag created successfully."
+msgstr ""
+msgid "Unable to create this tag."
+msgstr ""
+msgid "Tag updated successfully."
+msgstr ""
+msgid "Unable to update this tag."
+msgstr ""
+msgid "Tag removed successfully."
+msgstr ""
+msgid "Unable to remove this tag."
+msgstr ""
+msgid "Global tags management"
+msgstr ""
+msgid "Tags"
+msgstr ""
+msgid "Tags management"
+msgstr ""
+msgid "Add new tag"
+msgstr ""
+msgid "Edit a tag"
+msgstr ""
+msgid "Project tags"
+msgstr ""
+msgid "There is no specific tag for this project at the moment."
+msgstr ""
+msgid "Tag"
+msgstr ""
+msgid "Remove a tag"
+msgstr ""
+msgid "Do you really want to remove this tag: \"%s\"?"
+msgstr ""
+msgid "Global tags"
+msgstr ""
+msgid "There is no global tag at the moment."
+msgstr ""
+msgid "This field cannot be empty"
+msgstr ""
+msgid "Close a task when there is no activity in a specific column"
+msgstr ""
+msgid "%s removed a subtask for the task #%d"
+msgstr ""
+msgid "%s removed a comment on the task #%d"
+msgstr ""
+msgid "Comment removed on task #%d"
+msgstr ""
+msgid "Subtask removed on task #%d"
+msgstr ""
+msgid "Hide tasks in this column in the dashboard"
+msgstr ""
+msgid "%s removed a comment on the task %s"
+msgstr ""
+msgid "%s removed a subtask for the task %s"
+msgstr ""
+msgid "Comment removed"
+msgstr ""
+msgid "Subtask removed"
+msgstr ""
+msgid "%s set a new internal link for the task #%d"
+msgstr ""
+msgid "%s removed an internal link for the task #%d"
+msgstr ""
+msgid "A new internal link for the task #%d has been defined"
+msgstr ""
+msgid "Internal link removed for the task #%d"
+msgstr ""
+msgid "%s set a new internal link for the task %s"
+msgstr ""
+msgid "%s removed an internal link for the task %s"
+msgstr ""
+msgid "Automatically set the due date on task creation"
+msgstr ""
+msgid "Move the task to another column when closed"
+msgstr ""
+msgid "Move the task to another column when not moved during a given period"
+msgstr ""
+msgid "Dashboard for %s"
+msgstr ""
+msgid "Tasks overview for %s"
+msgstr ""
+msgid "Subtasks overview for %s"
+msgstr ""
+msgid "Projects overview for %s"
+msgstr ""
+msgid "Activity stream for %s"
+msgstr ""
+msgid "Assign a color when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Assign a priority when the task is moved to a specific swimlane"
+msgstr ""
+msgid "User unlocked successfully."
+msgstr ""
+msgid "Unable to unlock the user."
+msgstr ""
+msgid "Move a task to another swimlane"
+msgstr ""
+msgid "Creator Name"
+msgstr ""
+msgid "Time spent and estimated"
+msgstr ""
+msgid "Move position"
+msgstr ""
+msgid "Move task to another position on the board"
+msgstr ""
+msgid "Insert before this task"
+msgstr ""
+msgid "Insert after this task"
+msgstr ""
+msgid "Unlock this user"
+msgstr ""
+msgid "Custom Project Roles"
+msgstr ""
+msgid "Add a new custom role"
+msgstr ""
+msgid "Restrictions for the role \"%s\""
+msgstr ""
+msgid "Add a new project restriction"
+msgstr ""
+msgid "Add a new drag and drop restriction"
+msgstr ""
+msgid "Add a new column restriction"
+msgstr ""
+msgid "Edit this role"
+msgstr ""
+msgid "Remove this role"
+msgstr ""
+msgid "There is no restriction for this role."
+msgstr ""
+msgid "Only moving task between those columns is permitted"
+msgstr ""
+msgid "Close a task in a specific column when not moved during a given period"
+msgstr ""
+msgid "Edit columns"
+msgstr ""
+msgid "The column restriction has been created successfully."
+msgstr ""
+msgid "Unable to create this column restriction."
+msgstr ""
+msgid "Column restriction removed successfully."
+msgstr ""
+msgid "Unable to remove this restriction."
+msgstr ""
+msgid "Your custom project role has been created successfully."
+msgstr ""
+msgid "Unable to create custom project role."
+msgstr ""
+msgid "Your custom project role has been updated successfully."
+msgstr ""
+msgid "Unable to update custom project role."
+msgstr ""
+msgid "Custom project role removed successfully."
+msgstr ""
+msgid "Unable to remove this project role."
+msgstr ""
+msgid "The project restriction has been created successfully."
+msgstr ""
+msgid "Unable to create this project restriction."
+msgstr ""
+msgid "Project restriction removed successfully."
+msgstr ""
+msgid "You cannot create tasks in this column."
+msgstr ""
+msgid "Task creation is permitted for this column"
+msgstr ""
+msgid "Closing or opening a task is permitted for this column"
+msgstr ""
+msgid "Task creation is blocked for this column"
+msgstr ""
+msgid "Closing or opening a task is blocked for this column"
+msgstr ""
+msgid "Task creation is not permitted"
+msgstr ""
+msgid "Closing or opening a task is not permitted"
+msgstr ""
+msgid "New drag and drop restriction for the role \"%s\""
+msgstr ""
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr ""
+msgid "Remove a column restriction"
+msgstr ""
+msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
+msgstr ""
+msgid "New column restriction for the role \"%s\""
+msgstr ""
+msgid "Rule"
+msgstr ""
+msgid "Do you really want to remove this column restriction?"
+msgstr ""
+msgid "Custom roles"
+msgstr ""
+msgid "New custom project role"
+msgstr ""
+msgid "Edit custom project role"
+msgstr ""
+msgid "Remove a custom role"
+msgstr ""
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr ""
+msgid "There is no custom role for this project."
+msgstr ""
+msgid "New project restriction for the role \"%s\""
+msgstr ""
+msgid "Restriction"
+msgstr ""
+msgid "Remove a project restriction"
+msgstr ""
+msgid "Do you really want to remove this project restriction: \"%s\"?"
+msgstr ""
+msgid "Duplicate to multiple projects"
+msgstr ""
+msgid "This field is required"
+msgstr ""
+msgid "Moving a task is not permitted"
+msgstr ""
+msgid "This value must be in the range %d to %d"
+msgstr ""
+msgid "You are not allowed to move this task."
+msgstr ""
+msgid "API User Access"
+msgstr ""
+msgid "Preview"
+msgstr ""
+msgid "Write"
+msgstr ""
+msgid "Write your text in Markdown"
+msgstr ""
+msgid "No personal API access token registered."
+msgstr ""
+msgid "Your personal API access token is \"%s\""
+msgstr ""
+msgid "Remove your token"
+msgstr ""
+msgid "Generate a new token"
+msgstr ""
+msgid "Showing %d-%d of %d"
+msgstr ""
+msgid "Outgoing Emails"
+msgstr ""
+msgid "Add or change currency rate"
+msgstr ""
+msgid "Reference currency: %s"
+msgstr ""
+msgid "Add custom filters"
+msgstr ""
+msgid "Export"
+msgstr ""
+msgid "Add link label"
+msgstr ""
+msgid "Incompatible Plugins"
+msgstr ""
+msgid "Compatibility"
+msgstr ""
+msgid "Permissions and ownership"
+msgstr ""
+msgid "Priorities"
+msgstr ""
+msgid "Close this window"
+msgstr ""
+msgid "Unable to upload this file."
+msgstr ""
+msgid "Import tasks"
+msgstr ""
+msgid "Choose a project"
+msgstr ""
+msgid "Profile"
+msgstr ""
+msgid "Application role"
+msgstr ""
+msgid "%d invitations were sent."
+msgstr ""
+msgid "%d invitation was sent."
+msgstr ""
+msgid "Unable to create this user."
+msgstr ""
+msgid "Kanboard Invitation"
+msgstr ""
+msgid "Visible on dashboard"
+msgstr ""
+msgid "Created at:"
+msgstr ""
+msgid "Updated at:"
+msgstr ""
+msgid "There is no custom filter."
+msgstr ""
+msgid "New User"
+msgstr ""
+msgid "Authentication"
+msgstr ""
+msgid "If checked, this user will use a third-party system for authentication."
+msgstr ""
+msgid "The password is necessary only for local users."
+msgstr ""
+msgid "You have been invited to register on Kanboard."
+msgstr ""
+msgid "Click here to join your team"
+msgstr ""
+msgid "Invite people"
+msgstr ""
+msgid "Emails"
+msgstr ""
+msgid "Enter one email address by line."
+msgstr ""
+msgid "Add these people to this project"
+msgstr ""
+msgid "Add this person to this project"
+msgstr ""
+msgid "Sign-up"
+msgstr ""
+msgid "Credentials"
+msgstr ""
+msgid "New user"
+msgstr ""
+msgid "This username is already taken"
+msgstr ""
+msgid "Your profile must have a valid email address."
+msgstr ""
+msgid "TRL - Turkish Lira"
+msgstr ""
+msgid "The project email is optional and could be used by several plugins."
+msgstr ""
+msgid "The project email must be unique across all projects"
+msgstr ""
+msgid "The email configuration has been disabled by the administrator."
+msgstr ""
+msgid "Close this project"
+msgstr ""
+msgid "Open this project"
+msgstr ""
+msgid "Close a project"
+msgstr ""
+msgid "Do you really want to close this project: \"%s\"?"
+msgstr ""
+msgid "Reopen a project"
+msgstr ""
+msgid "Do you really want to reopen this project: \"%s\"?"
+msgstr ""
+msgid "This project is open"
+msgstr ""
+msgid "This project is closed"
+msgstr ""
+msgid "Unable to upload files, check the permissions of your data folder."
+msgstr ""
+msgid "Another category with the same name exists in this project"
+msgstr ""
+msgid "Comment sent by email successfully."
+msgstr ""
+msgid "Sent by email to \"%s\" (%s)"
+msgstr ""
+msgid "Unable to read uploaded file."
+msgstr ""
+msgid "Database uploaded successfully."
+msgstr ""
+msgid "Task sent by email successfully."
+msgstr ""
+msgid "There is no category in this project."
+msgstr ""
+msgid "Send by email"
+msgstr ""
+msgid "Create and send a comment by email"
+msgstr ""
+msgid "Subject"
+msgstr ""
+msgid "Upload the database"
+msgstr ""
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr ""
+msgid "Database file"
+msgstr ""
+msgid "Upload"
+msgstr ""
+msgid "Your project must have at least one active swimlane."
+msgstr ""
+msgid "Project: %s"
+msgstr ""
+msgid "Automatic action not found: \"%s\""
+msgstr ""
+msgid "%d projects"
+msgstr ""
+msgid "%d project"
+msgstr ""
+msgid "There is no project."
+msgstr ""
+msgid "Sort"
+msgstr ""
+msgid "Project ID"
+msgstr ""
+msgid "Project name"
+msgstr ""
+msgid "Public"
+msgstr ""
+msgid "Personal"
+msgstr ""
+msgid "%d tasks"
+msgstr ""
+msgid "%d task"
+msgstr ""
+msgid "Task ID"
+msgstr ""
+msgid "Assign automatically a color when due date is expired"
+msgstr ""
+msgid "Total score in this column across all swimlanes"
+msgstr ""
+msgid "HRK - Kuna"
+msgstr ""
+msgid "ARS - Argentine Peso"
+msgstr ""
+msgid "COP - Colombian Peso"
+msgstr ""
+msgid "%d groups"
+msgstr ""
+msgid "%d group"
+msgstr ""
+msgid "Group ID"
+msgstr ""
+msgid "External ID"
+msgstr ""
+msgid "%d users"
+msgstr ""
+msgid "%d user"
+msgstr ""
+msgid "Hide subtasks"
+msgstr ""
+msgid "Show subtasks"
+msgstr ""
+msgid "Authentication Parameters"
+msgstr ""
+msgid "API Access"
+msgstr ""
+msgid "No users found."
+msgstr ""
+msgid "User ID"
+msgstr ""
+msgid "Notifications are activated"
+msgstr ""
+msgid "Notifications are disabled"
+msgstr ""
+msgid "User disabled"
+msgstr ""
+msgid "%d notifications"
+msgstr ""
+msgid "%d notification"
+msgstr ""
+msgid "There is no external integration installed."
+msgstr ""
+msgid "You are not allowed to update tasks assigned to someone else."
+msgstr ""
+msgid "You are not allowed to change the assignee."
+msgstr ""
+msgid "Task suppression is not permitted"
+msgstr ""
+msgid "Changing assignee is not permitted"
+msgstr ""
+msgid "Update only assigned tasks is permitted"
+msgstr ""
+msgid "Only for tasks assigned to the current user"
+msgstr ""
+msgid "My projects"
+msgstr ""
+msgid "You are not a member of any project."
+msgstr ""
+msgid "My subtasks"
+msgstr ""
+msgid "%d subtasks"
+msgstr ""
+msgid "%d subtask"
+msgstr ""
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr ""
+msgid "[DUPLICATE]"
+msgstr ""
+msgid "DKK - Danish Krona"
+msgstr ""
+msgid "Remove user from group"
+msgstr ""
+msgid "Assign the task to its creator"
+msgstr ""
+msgid "This task was sent by email to \"%s\" with subject \"%s\"."
+msgstr ""
+msgid "Predefined Email Subjects"
+msgstr ""
+msgid "Write one subject by line."
+msgstr ""
+msgid "Create another link"
+msgstr ""
+msgid "BRL - Brazilian Real"
+msgstr ""
+msgid "Add a new Kanboard task"
+msgstr ""
+msgid "Subtask not started"
+msgstr ""
+msgid "Subtask currently in progress"
+msgstr ""
+msgid "Subtask completed"
+msgstr ""
+msgid "Subtask added successfully."
+msgstr ""
+msgid "%d subtasks added successfully."
+msgstr ""
+msgid "Enter one subtask by line."
+msgstr ""
+msgid "Predefined Contents"
+msgstr ""
+msgid "Predefined contents"
+msgstr ""
+msgid "Predefined Task Description"
+msgstr ""
+msgid "Do you really want to remove this template? \"%s\""
+msgstr ""
+msgid "Add predefined task description"
+msgstr ""
+msgid "Predefined Task Descriptions"
+msgstr ""
+msgid "Template created successfully."
+msgstr ""
+msgid "Unable to create this template."
+msgstr ""
+msgid "Template updated successfully."
+msgstr ""
+msgid "Unable to update this template."
+msgstr ""
+msgid "Template removed successfully."
+msgstr ""
+msgid "Unable to remove this template."
+msgstr ""
+msgid "Template for the task description"
+msgstr ""
+msgid "The start date is greater than the end date"
+msgstr ""
+msgid "Tags must be separated by a comma"
+msgstr ""
+msgid "Only the task title is required"
+msgstr ""
+msgid "Creator Username"
+msgstr ""
+msgid "Color Name"
+msgstr ""
+msgid "Column Name"
+msgstr ""
+msgid "Swimlane Name"
+msgstr ""
+msgid "Time Estimated"
+msgstr ""
+msgid "Time Spent"
+msgstr ""
+msgid "External Link"
+msgstr ""
+msgid "This feature enables the iCal feed, RSS feed and the public board view."
+msgstr ""
+msgid "Stop the timer of all subtasks when moving a task to another column"
+msgstr ""
+msgid "Subtask Title"
+msgstr ""
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr ""
+msgid "days"
+msgstr ""
+msgid "minutes"
+msgstr ""
+msgid "seconds"
+msgstr ""
+msgid "Assign automatically a color when preset start date is reached"
+msgstr ""
+msgid "Move the task to another column once a predefined start date is reached"
+msgstr ""
+msgid "This task is now linked to the task %s with the relation \"%s\""
+msgstr ""
+msgid "The link with the relation \"%s\" to the task %s has been removed"
+msgstr ""
+msgid "Custom Filter:"
+msgstr ""
+msgid "Unable to find this group."
+msgstr ""
+msgid "%s moved the task #%d to the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the position %d in the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the swimlane \"%s\""
+msgstr ""
+msgid "%sh spent"
+msgstr ""
+msgid "%sh estimated"
+msgstr ""
+msgid "Select All"
+msgstr ""
+msgid "Unselect All"
+msgstr ""
+msgid "Apply action"
+msgstr ""
+msgid "Move selected tasks to another column or swimlane"
+msgstr ""
+msgid "Edit tasks in bulk"
+msgstr ""
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr ""
+msgid "Configure this project"
+msgstr ""
+msgid "Start now"
+msgstr ""
+msgid "%s removed a file from the task #%d"
+msgstr ""
+msgid "Attachment removed from task #%d: %s"
+msgstr ""
+msgid "No color"
+msgstr ""
+msgid "Attachment removed \"%s\""
+msgstr ""
+msgid "%s removed a file from the task %s"
+msgstr ""
+msgid "Move the task to another swimlane when assigned to a user"
+msgstr ""
+msgid "Destination swimlane"
+msgstr ""
+msgid "Assign a category when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Move the task to another swimlane when the category is changed"
+msgstr ""
+msgid "Reorder this column by priority (ASC)"
+msgstr ""
+msgid "Reorder this column by priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (ASC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee (A-Z)"
+msgstr ""
+msgid "Reorder this column by assignee (Z-A)"
+msgstr ""
+msgid "Reorder this column by due date (ASC)"
+msgstr ""
+msgid "Reorder this column by due date (DESC)"
+msgstr ""
+msgid "%s moved the task #%d \"%s\" to the project \"%s\""
+msgstr ""
+msgid "Task #%d \"%s\" has been moved to the project \"%s\""
+msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr ""
+msgid "HTTP Client:"
+msgstr ""
+msgid "Assigned"
+msgstr ""
+msgid "Task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied across swimlanes"
+msgstr ""
+msgid "Task limit: "
+msgstr ""
+msgid "Change to global tag"
+msgstr ""
+msgid "Do you really want to make the tag \"%s\" global?"
+msgstr ""
+msgid "Enable global tags for this project"
+msgstr ""
+msgid "Group membership(s):"
+msgstr ""
+msgid "%s is a member of the following group(s): %s"
+msgstr ""
+msgid "%d/%d group(s) shown"
+msgstr ""
+msgid "Subtask creation or modification"
+msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Comment"
+msgstr ""
+msgid "Collapse vertically"
+msgstr ""
+msgid "Expand vertically"
+msgstr ""
+msgid "MXN - Mexican Peso"
+msgstr ""
+msgid "Estimated vs actual time per column"
+msgstr ""
+msgid "HUF - Hungarian Forint"
+msgstr ""
+msgid "XBT - Bitcoin"
+msgstr ""
+msgid "You must select a file to upload as your avatar!"
+msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr ""
+msgid "No other projects found."
+msgstr ""
+msgid "Please choose a project you want to copy the tasks from."
+msgstr ""
+msgid "Import Tasks"
+msgstr ""
+msgid "Copy"
+msgstr ""
+msgid "Tasks copied successfully."
+msgstr ""
+msgid "Unable to copy tasks."
+msgstr ""
 

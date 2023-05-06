@@ -1,2868 +1,2868 @@
 
- msgid 'number.decimals_separator'
- msgstr ''
- msgid 'number.thousands_separator'
- msgstr ''
- msgid 'None'
- msgstr 'Ei mikään'
- msgid 'Edit'
- msgstr 'Muokkaa'
- msgid 'Remove'
- msgstr 'Poista'
- msgid 'Yes'
- msgstr 'Kyllä'
- msgid 'No'
- msgstr 'Ei'
- msgid 'cancel'
- msgstr 'peruuta'
- msgid 'or'
- msgstr 'tai'
- msgid 'Yellow'
- msgstr 'Keltainen'
- msgid 'Blue'
- msgstr 'Sininen'
- msgid 'Green'
- msgstr 'Vihreä'
- msgid 'Purple'
- msgstr 'Violetti'
- msgid 'Red'
- msgstr 'Punainen'
- msgid 'Orange'
- msgstr 'Oranssi'
- msgid 'Grey'
- msgstr 'Harmaa'
- msgid 'Brown'
- msgstr ''
- msgid 'Deep Orange'
- msgstr ''
- msgid 'Dark Grey'
- msgstr ''
- msgid 'Pink'
- msgstr ''
- msgid 'Teal'
- msgstr ''
- msgid 'Cyan'
- msgstr ''
- msgid 'Lime'
- msgstr ''
- msgid 'Light Green'
- msgstr ''
- msgid 'Amber'
- msgstr ''
- msgid 'Save'
- msgstr 'Tallenna'
- msgid 'Login'
- msgstr 'Sisäänkirjautuminen'
- msgid 'Official website:'
- msgstr 'Virallinen verkkosivu:'
- msgid 'Unassigned'
- msgstr 'Ei suorittajaa'
- msgid 'View this task'
- msgstr 'Näytä tämä tehtävä'
- msgid 'Remove user'
- msgstr 'Poista käyttäjä'
- msgid 'Do you really want to remove this user: "%s"?'
- msgstr 'Oletko varma että haluat poistaa käyttäjän "%s"?'
- msgid 'All users'
- msgstr 'Kaikki käyttäjät'
- msgid 'Username'
- msgstr 'Käyttäjänimi'
- msgid 'Password'
- msgstr 'Salasana'
- msgid 'Administrator'
- msgstr 'Ylläpitäjä'
- msgid 'Sign in'
- msgstr 'Kirjaudu sisään'
- msgid 'Users'
- msgstr 'Käyttäjät'
- msgid 'Forbidden'
- msgstr 'Estetty'
- msgid 'Access Forbidden'
- msgstr 'Pääsy estetty'
- msgid 'Edit user'
- msgstr 'Muokkaa käyttäjää'
- msgid 'Logout'
- msgstr 'Kirjaudu ulos'
- msgid 'Bad username or password'
- msgstr 'Väärä käyttäjätunnus tai salasana'
- msgid 'Edit project'
- msgstr 'Muokkaa projektia'
- msgid 'Name'
- msgstr 'Nimi'
- msgid 'Projects'
- msgstr 'Projektit'
- msgid 'No project'
- msgstr 'Ei projektia'
- msgid 'Project'
- msgstr 'Projekti'
- msgid 'Status'
- msgstr 'Status'
- msgid 'Tasks'
- msgstr 'Tehtävät'
- msgid 'Board'
- msgstr 'Taulu'
- msgid 'Actions'
- msgstr 'Toiminnot'
- msgid 'Inactive'
- msgstr 'Ei aktiivinen'
- msgid 'Active'
- msgstr 'Aktiivinen'
- msgid 'Unable to update this board.'
- msgstr 'Taulun muuttaminen ei onnistunut.'
- msgid 'Disable'
- msgstr 'Disabloi'
- msgid 'Enable'
- msgstr 'Aktivoi'
- msgid 'New project'
- msgstr 'Uusi projekti'
- msgid 'Do you really want to remove this project: "%s"?'
- msgstr 'Haluatko varmasti poistaa projektin: "%s"?'
- msgid 'Remove project'
- msgstr 'Poista projekti'
- msgid 'Edit the board for "%s"'
- msgstr 'Muokkaa taulua projektille "%s"'
- msgid 'Add a new column'
- msgstr 'Lisää uusi sarake'
- msgid 'Title'
- msgstr 'Nimi'
- msgid 'Assigned to %s'
- msgstr 'Tekijä: %s'
- msgid 'Remove a column'
- msgstr 'Poista sarake'
- msgid 'Unable to remove this column.'
- msgstr 'Sarakkeen poistaminen ei onnistunut.'
- msgid 'Do you really want to remove this column: "%s"?'
- msgstr 'Haluatko varmasti poistaa sarakkeen "%s"?'
- msgid 'Settings'
- msgstr 'Asetukset'
- msgid 'Application settings'
- msgstr 'Ohjelman asetukset'
- msgid 'Language'
- msgstr 'Kieli'
- msgid 'Webhook token:'
- msgstr 'Webhooks avain:'
- msgid 'API token:'
- msgstr ''
- msgid 'Database size:'
- msgstr 'Tietokannan koko:'
- msgid 'Download the database'
- msgstr 'Lataa tietokanta'
- msgid 'Optimize the database'
- msgstr 'Optimoi tietokanta'
- msgid '(VACUUM command)'
- msgstr '(VACUUM-komento)'
- msgid '(Gzip compressed Sqlite file)'
- msgstr '(Gzip-pakattu Sqlite-tiedosto)'
- msgid 'Close a task'
- msgstr 'Sulje tehtävä'
- msgid 'Column'
- msgstr 'Sarake'
- msgid 'Color'
- msgstr 'Väri'
- msgid 'Assignee'
- msgstr 'Suorittaja'
- msgid 'Create another task'
- msgstr 'Luo toinen tehtävä'
- msgid 'New task'
- msgstr 'Uusi tehtävä'
- msgid 'Open a task'
- msgstr 'Avaa tehtävä'
- msgid 'Do you really want to open this task: "%s"?'
- msgstr 'Haluatko varmasti avata tehtävän: "%s"?'
- msgid 'Back to the board'
- msgstr 'Takaisin tauluun'
- msgid 'There is nobody assigned'
- msgstr 'Ei suorittajaa'
- msgid 'Column on the board:'
- msgstr 'Sarake taululla: '
- msgid 'Close this task'
- msgstr 'Sulje tämä tehtävä'
- msgid 'Open this task'
- msgstr 'Avaa tämä tehtävä'
- msgid 'There is no description.'
- msgstr 'Ei kuvausta.'
- msgid 'Add a new task'
- msgstr 'Lisää uusi tehtävä'
- msgid 'The username is required'
- msgstr 'Käyttäjätunnut vaaditaan'
- msgid 'The maximum length is %d characters'
- msgstr 'Maksimipituus on %d merkkiä'
- msgid 'The minimum length is %d characters'
- msgstr 'Vähimmäispituus on %d merkkiä'
- msgid 'The password is required'
- msgstr 'Salasana vaaditaan'
- msgid 'This value must be an integer'
- msgstr 'Tämän arvon täytyy olla numero'
- msgid 'The username must be unique'
- msgstr 'Käyttäjänimi täytyy olla uniikki'
- msgid 'The user id is required'
- msgstr 'Käyttäjän id on pakollinen'
- msgid 'Passwords don\'t match'
- msgstr ''
- msgid 'The confirmation is required'
- msgstr 'Varmistus vaaditaan'
- msgid 'The project is required'
- msgstr 'Projekti on pakollinen'
- msgid 'The id is required'
- msgstr 'ID vaaditaan'
- msgid 'The project id is required'
- msgstr 'Projektin ID on pakollinen'
- msgid 'The project name is required'
- msgstr 'Projektin nimi on pakollinen'
- msgid 'The title is required'
- msgstr 'Otsikko vaaditaan'
- msgid 'Settings saved successfully.'
- msgstr 'Asetukset tallennettu onnistuneesti.'
- msgid 'Unable to save your settings.'
- msgstr 'Asetusten tallentaminen epäonnistui.'
- msgid 'Database optimization done.'
- msgstr 'Tietokannan optimointi suoritettu.'
- msgid 'Your project has been created successfully.'
- msgstr 'Projekti luotiin onnistuneesti.'
- msgid 'Unable to create your project.'
- msgstr 'Projektin luominen epäonnistui.'
- msgid 'Project updated successfully.'
- msgstr 'Projekti päivitettiin onnistuneesti.'
- msgid 'Unable to update this project.'
- msgstr 'Projektin muuttaminen epäonnistui.'
- msgid 'Unable to remove this project.'
- msgstr 'Projektin poistaminen epäonnistui.'
- msgid 'Project removed successfully.'
- msgstr 'Projekti poistettiin onnistuneesti.'
- msgid 'Project activated successfully.'
- msgstr 'Projekti aktivoitiin onnistuneesti.'
- msgid 'Unable to activate this project.'
- msgstr 'Projektin aktivoiminen epäonnistui.'
- msgid 'Project disabled successfully.'
- msgstr 'Projektin disabloiminen onnistui.'
- msgid 'Unable to disable this project.'
- msgstr 'Projektin disabloiminen epäonnistui.'
- msgid 'Unable to open this task.'
- msgstr 'Tehtävän avaus epäonnistui.'
- msgid 'Task opened successfully.'
- msgstr 'Tehtävä avattiin onnistuneesti.'
- msgid 'Unable to close this task.'
- msgstr 'Tehtävän sulkeminen epäonnistui.'
- msgid 'Task closed successfully.'
- msgstr 'Tehtävä suljettiin onnistuneesti.'
- msgid 'Unable to update your task.'
- msgstr 'Tehtävän muokkaaminen epäonnistui.'
- msgid 'Task updated successfully.'
- msgstr 'Tehtävä päivitettiin onnistuneesti.'
- msgid 'Unable to create your task.'
- msgstr 'Tehtävän luominen epäonnistui.'
- msgid 'Task created successfully.'
- msgstr 'Tehtävä luotiin onnistuneesti.'
- msgid 'User created successfully.'
- msgstr 'Käyttäjä lisättiin onnistuneesti.'
- msgid 'Unable to create your user.'
- msgstr 'Käyttäjän lisäys epäonnistui.'
- msgid 'User updated successfully.'
- msgstr 'Käyttäjätietojen päivitys onnistui.'
- msgid 'User removed successfully.'
- msgstr 'Käyttäjä poistettiin onnistuneesti.'
- msgid 'Unable to remove this user.'
- msgstr 'Käyttäjän poistaminen epäonnistui.'
- msgid 'Board updated successfully.'
- msgstr 'Taulu päivitettiin onnistuneesti.'
- msgid 'Ready'
- msgstr 'Valmis'
- msgid 'Backlog'
- msgstr 'Tehtäväjono'
- msgid 'Work in progress'
- msgstr 'Työnalla'
- msgid 'Done'
- msgstr 'Tehty'
- msgid 'Application version:'
- msgstr 'Ohjelman versio:'
- msgid 'Id'
- msgstr 'Id'
- msgid 'Public link'
- msgstr 'Julkinen linkki'
- msgid 'Timezone'
- msgstr 'Aikavyöhyke'
- msgid 'Sorry, I didn\'t find this information in my database!'
- msgstr 'Anteeksi, en löytänyt tätä tietoa tietokannastani'
- msgid 'Page not found'
- msgstr 'Sivua ei löydy'
- msgid 'Complexity'
- msgstr 'Monimutkaisuus'
- msgid 'Task limit'
- msgstr 'Tehtävien maksimimäärä'
- msgid 'Task count'
- msgstr 'Tehtävien määrä'
- msgid 'User'
- msgstr 'Käyttäjät'
- msgid 'Comments'
- msgstr 'Kommentit'
- msgid 'Comment is required'
- msgstr 'Kommentti vaaditaan'
- msgid 'Comment added successfully.'
- msgstr 'Kommentti lisättiin onnistuneesti.'
- msgid 'Unable to create your comment.'
- msgstr 'Kommentin lisäys epäonnistui.'
- msgid 'Due Date'
- msgstr 'Deadline'
- msgid 'Invalid date'
- msgstr 'Virheellinen päiväys'
- msgid 'Automatic actions'
- msgstr 'Automaattiset toiminnot'
- msgid 'Your automatic action has been created successfully.'
- msgstr 'Toiminto suoritettiin onnistuneesti.'
- msgid 'Unable to create your automatic action.'
- msgstr 'Automaattisen toiminnon luominen epäonnistui.'
- msgid 'Remove an action'
- msgstr 'Poista toiminto'
- msgid 'Unable to remove this action.'
- msgstr 'Toiminnon poistaminen epäonnistui.'
- msgid 'Action removed successfully.'
- msgstr 'Toiminto poistettiin onnistuneesti.'
- msgid 'Automatic actions for the project "%s"'
- msgstr 'Automaattiset toiminnot projektille "%s"'
- msgid 'Add an action'
- msgstr ''
- msgid 'Event name'
- msgstr 'Tapahtuman nimi'
- msgid 'Action'
- msgstr 'Toiminto'
- msgid 'Event'
- msgstr 'Tapahtuma'
- msgid 'When the selected event occurs execute the corresponding action.'
- msgstr 'Kun valittu tapahtuma tapahtuu, suorita vastaava toiminto.'
- msgid 'Next step'
- msgstr 'Seuraava vaihe'
- msgid 'Define action parameters'
- msgstr 'Määrittele toiminnon parametrit'
- msgid 'Do you really want to remove this action: "%s"?'
- msgstr 'Oletko varma että haluat poistaa toiminnon "%s"?'
- msgid 'Remove an automatic action'
- msgstr 'Poista automaattintn toiminto'
- msgid 'Assign the task to a specific user'
- msgstr 'Osoita tehtävä käyttäjälle'
- msgid 'Assign the task to the person who does the action'
- msgstr 'Määritä suorittaja tehtävälle'
- msgid 'Duplicate the task to another project'
- msgstr 'Monista tehtävä toiselle projektille'
- msgid 'Move a task to another column'
- msgstr 'Siirrä tehtävä toiseen sarakkeeseen'
- msgid 'Task modification'
- msgstr 'Tehtävän muokkaus'
- msgid 'Task creation'
- msgstr 'Tehtävän luominen'
- msgid 'Closing a task'
- msgstr 'Tehtävää suljetaan'
- msgid 'Assign a color to a specific user'
- msgstr 'Valitse väri käyttäjälle'
- msgid 'Position'
- msgstr 'Positio'
- msgid 'Duplicate to project'
- msgstr 'Kopioi toiseen projektiin'
- msgid 'Duplicate'
- msgstr 'Monista'
- msgid 'Link'
- msgstr 'Linkki'
- msgid 'Comment updated successfully.'
- msgstr 'Kommentti päivitettiin onnistuneesti.'
- msgid 'Unable to update your comment.'
- msgstr 'Kommentin päivitys epäonnistui.'
- msgid 'Remove a comment'
- msgstr 'Poista kommentti'
- msgid 'Comment removed successfully.'
- msgstr 'Kommentti poistettiin onnistuneesti.'
- msgid 'Unable to remove this comment.'
- msgstr 'Kommentin poistaminen epäonnistui.'
- msgid 'Do you really want to remove this comment?'
- msgstr 'Haluatko varmasti poistaa tämän kommentin?'
- msgid 'Current password for the user "%s"'
- msgstr 'Käyttäjän "%s" salasana'
- msgid 'The current password is required'
- msgstr 'Salasana vaaditaan'
- msgid 'Wrong password'
- msgstr 'Väärä salasana'
- msgid 'Unknown'
- msgstr 'Tuntematon'
- msgid 'Last logins'
- msgstr 'Viimeisimmät kirjautumiset'
- msgid 'Login date'
- msgstr 'Kirjautumispäivä'
- msgid 'Authentication method'
- msgstr 'Autentikointimenetelmä'
- msgid 'IP address'
- msgstr 'IP-Osoite'
- msgid 'User agent'
- msgstr 'Selain'
- msgid 'Persistent connections'
- msgstr 'Voimassa olevat yhteydet'
- msgid 'No session.'
- msgstr 'Ei sessioita.'
- msgid 'Expiration date'
- msgstr 'Vanhentumispäivä'
- msgid 'Remember Me'
- msgstr 'Muista minut'
- msgid 'Creation date'
- msgstr 'Luomispäivä'
- msgid 'Everybody'
- msgstr 'Kaikki'
- msgid 'Open'
- msgstr 'Avoin'
- msgid 'Closed'
- msgstr 'Suljettu'
- msgid 'Search'
- msgstr 'Etsi'
- msgid 'Nothing found.'
- msgstr 'Ei löytynyt.'
- msgid 'Due date'
- msgstr 'Deadline'
- msgid 'Description'
- msgstr 'Kuvaus'
- msgid '%d comments'
- msgstr '%d kommenttia'
- msgid '%d comment'
- msgstr '%d kommentti'
- msgid 'Email address invalid'
- msgstr 'Email ei kelpaa'
- msgid 'Your external account is not linked anymore to your profile.'
- msgstr ''
- msgid 'Unable to unlink your external account.'
- msgstr ''
- msgid 'External authentication failed'
- msgstr ''
- msgid 'Your external account is linked to your profile successfully.'
- msgstr ''
- msgid 'Email'
- msgstr 'Sähköposti'
- msgid 'Task removed successfully.'
- msgstr 'Tehtävä poistettiin onnistuneesti.'
- msgid 'Unable to remove this task.'
- msgstr 'Tehtävän poistaminen epäonnistui.'
- msgid 'Remove a task'
- msgstr 'Poista tehtävä'
- msgid 'Do you really want to remove this task: "%s"?'
- msgstr 'Haluatko varmasti poistaa tehtävän: "%s"?'
- msgid 'Assign automatically a color based on a category'
- msgstr 'Aseta väri automaattisesti kategorian mukaan'
- msgid 'Assign automatically a category based on a color'
- msgstr 'Aseta kategoria automaattisesti värin mukaan'
- msgid 'Task creation or modification'
- msgstr 'Tehtävän luonti tai muuttaminen'
- msgid 'Category'
- msgstr 'Kategoria'
- msgid 'Category:'
- msgstr 'Kategoria:'
- msgid 'Categories'
- msgstr 'Kategoriat'
- msgid 'Your category has been created successfully.'
- msgstr 'Kategoria luotiin onnistuneesti.'
- msgid 'This category has been updated successfully.'
- msgstr 'Kategoriaa muokattiin onnistuneesti.'
- msgid 'Unable to update this category.'
- msgstr 'Kategorian muokkaaminen epäonnistui.'
- msgid 'Remove a category'
- msgstr 'Poista kategoria'
- msgid 'Category removed successfully.'
- msgstr 'Kategoria poistettu onnistuneesti.'
- msgid 'Unable to remove this category.'
- msgstr 'Kategorian poisto epäonnistui.'
- msgid 'Category modification for the project "%s"'
- msgstr 'Kategorian muutos projektissa "%s"'
- msgid 'Category Name'
- msgstr 'Kategorian nimi'
- msgid 'Add a new category'
- msgstr 'Lisää uusi kategoria'
- msgid 'Do you really want to remove this category: "%s"?'
- msgstr 'Haluatko varmasti poistaa kategorian: "%s"?'
- msgid 'All categories'
- msgstr 'Kaikki kategoriat'
- msgid 'No category'
- msgstr 'Kategoriaa ei löydy'
- msgid 'The name is required'
- msgstr 'Nimi vaaditaan'
- msgid 'Remove a file'
- msgstr 'Poista tiedosto'
- msgid 'Unable to remove this file.'
- msgstr 'Tiedoston poistaminen epäonnistui.'
- msgid 'File removed successfully.'
- msgstr 'Tiedosto poistettiin onnistuneesti.'
- msgid 'Attach a document'
- msgstr 'Liitä dokumentti'
- msgid 'Do you really want to remove this file: "%s"?'
- msgstr 'Haluatko varmasti poistaa tiedoston: "%s"?'
- msgid 'Attachments'
- msgstr 'Liitteet'
- msgid 'Edit the task'
- msgstr 'Muokkaa tehtävää'
- msgid 'Add a comment'
- msgstr 'Lisää kommentti'
- msgid 'Edit a comment'
- msgstr 'Muokkaa kommenttia'
- msgid 'Summary'
- msgstr 'Yhteenveto'
- msgid 'Time tracking'
- msgstr 'Ajan seuranta'
- msgid 'Estimate:'
- msgstr 'Arvio:'
- msgid 'Spent:'
- msgstr 'Käytetty:'
- msgid 'Do you really want to remove this sub-task?'
- msgstr 'Haluatko varmasti poistaa tämän alitehtävän?'
- msgid 'Remaining:'
- msgstr 'Jäljellä'
- msgid 'hours'
- msgstr 'tuntia'
- msgid 'estimated'
- msgstr 'estimoitu'
- msgid 'Sub-Tasks'
- msgstr 'Alitehtävät'
- msgid 'Add a sub-task'
- msgstr 'Lisää alitehtävä'
- msgid 'Original estimate'
- msgstr 'Alkuperäinen estimaatti'
- msgid 'Create another sub-task'
- msgstr 'Lisää toinen alitehtävä'
- msgid 'Time spent'
- msgstr 'Käytetty aika'
- msgid 'Edit a sub-task'
- msgstr 'Muokkaa alitehtävää'
- msgid 'Remove a sub-task'
- msgstr 'Poista alitehtävä'
- msgid 'The time must be a numeric value'
- msgstr 'Ajan pitää olla numero'
- msgid 'Todo'
- msgstr 'Todo'
- msgid 'In progress'
- msgstr 'Työnalla'
- msgid 'Sub-task removed successfully.'
- msgstr 'Alitehtävä poistettu onnistuneesti.'
- msgid 'Unable to remove this sub-task.'
- msgstr 'Alitehtävän poistaminen epäonnistui.'
- msgid 'Sub-task updated successfully.'
- msgstr 'Alitehtävä päivitettiin onnistuneesti.'
- msgid 'Unable to update your sub-task.'
- msgstr 'Alitehtävän päivitys epäonnistui.'
- msgid 'Unable to create your sub-task.'
- msgstr 'Alitehtävän luonti epäonnistui.'
- msgid 'Maximum size: '
- msgstr 'Maksimikoko: '
- msgid 'Display another project'
- msgstr 'Näytä toinen projekti'
- msgid 'Created by %s'
- msgstr 'Luonut: %s'
- msgid 'Tasks Export'
- msgstr 'Tehtävien vienti'
- msgid 'Start Date'
- msgstr 'Aloituspäivä'
- msgid 'Execute'
- msgstr 'Suorita'
- msgid 'Task Id'
- msgstr 'Tehtävän ID'
- msgid 'Creator'
- msgstr 'Luonut'
- msgid 'Modification date'
- msgstr 'Muokkauspäivä'
- msgid 'Completion date'
- msgstr 'Valmistumispäivä'
- msgid 'Clone'
- msgstr 'Kahdenna'
- msgid 'Project cloned successfully.'
- msgstr 'Projekti kahdennettu onnistuneesti'
- msgid 'Unable to clone this project.'
- msgstr 'Projektin kahdennus epäonnistui'
- msgid 'Enable email notifications'
- msgstr 'Ota käyttöön sähköposti-ilmoitukset'
- msgid 'Task position:'
- msgstr 'Tehtävän sijainti'
- msgid 'The task #%d has been opened.'
- msgstr 'Tehtävä #%d on avattu'
- msgid 'The task #%d has been closed.'
- msgstr 'Tehtävä #%d on suljettu'
- msgid 'Sub-task updated'
- msgstr 'Alitehtävä päivitetty'
- msgid 'Title:'
- msgstr 'Otsikko:'
- msgid 'Status:'
- msgstr 'Tila:'
- msgid 'Assignee:'
- msgstr 'Vastaanottaja:'
- msgid 'Time tracking:'
- msgstr 'Ajan seuranta:'
- msgid 'New sub-task'
- msgstr 'Uusi alitehtävä'
- msgid 'New attachment added "%s"'
- msgstr 'Uusi liite lisätty "%s"'
- msgid 'New comment posted by %s'
- msgstr '%s lisäsi uuden kommentin'
- msgid 'New comment'
- msgstr ''
- msgid 'Comment updated'
- msgstr 'Kommentti päivitetty'
- msgid 'New subtask'
- msgstr ''
- msgid 'I only want to receive notifications for these projects:'
- msgstr 'Haluan vastaanottaa ilmoituksia ainoastaan näistä projekteista:'
- msgid 'view the task on Kanboard'
- msgstr 'katso tehtävää Kanboardissa'
- msgid 'Public access'
- msgstr 'Julkinen käyttöoikeus'
- msgid 'Disable public access'
- msgstr 'Poista käytöstä julkinen käyttöoikeus'
- msgid 'Enable public access'
- msgstr 'Ota käyttöön '
- msgid 'Public access disabled'
- msgstr 'Julkinen käyttöoikeus ei ole käytössä'
- msgid 'Move the task to another project'
- msgstr 'Siirrä tehtävä toiseen projektiin'
- msgid 'Move to project'
- msgstr 'Siirrä toiseen projektiin'
- msgid 'Do you really want to duplicate this task?'
- msgstr 'Haluatko varmasti kahdentaa tämän tehtävän?'
- msgid 'Duplicate a task'
- msgstr 'Kahdenna tehtävä'
- msgid 'External accounts'
- msgstr 'Muut tilit'
- msgid 'Account type'
- msgstr 'Tilin tyyppi'
- msgid 'Local'
- msgstr 'Paikallinen'
- msgid 'Remote'
- msgstr 'Etä'
- msgid 'Enabled'
- msgstr 'Käytössä'
- msgid 'Disabled'
- msgstr 'Pois käytöstä'
- msgid 'Login:'
- msgstr 'Käyttäjänimi:'
- msgid 'Full Name:'
- msgstr 'Nimi:'
- msgid 'Email:'
- msgstr 'Sähköpostiosoite:'
- msgid 'Notifications:'
- msgstr 'Ilmoitukset:'
- msgid 'Notifications'
- msgstr 'Ilmoitukset'
- msgid 'Account type:'
- msgstr 'Tilin tyyppi:'
- msgid 'Edit profile'
- msgstr 'Muokkaa profiilia'
- msgid 'Change password'
- msgstr 'Vaihda salasana'
- msgid 'Password modification'
- msgstr 'Salasanan vaihto'
- msgid 'External authentications'
- msgstr 'Muut tunnistautumistavat'
- msgid 'Never connected.'
- msgstr 'Ei koskaan liitetty.'
- msgid 'No external authentication enabled.'
- msgstr 'Muita tunnistautumistapoja ei ole otettu käyttöön.'
- msgid 'Password modified successfully.'
- msgstr 'Salasana vaihdettu onnistuneesti.'
- msgid 'Unable to change the password.'
- msgstr 'Salasanan vaihto epäonnistui.'
- msgid 'Change category'
- msgstr 'Vaihda kategoria'
- msgid '%s updated the task %s'
- msgstr '%s päivitti tehtävän %s'
- msgid '%s opened the task %s'
- msgstr '%s avasi tehtävän %s'
- msgid '%s moved the task %s to the position #%d in the column "%s"'
- msgstr '%s siirsi tehtävän %s %d. sarakkeessa "%s"'
- msgid '%s moved the task %s to the column "%s"'
- msgstr '%s siirsi tehtävän %s sarakkeeseen "%s"'
- msgid '%s created the task %s'
- msgstr '%s loi tehtävän %s'
- msgid '%s closed the task %s'
- msgstr '%s sulki tehtävän %s'
- msgid '%s created a subtask for the task %s'
- msgstr '%s loi alitehtävän tehtävälle %s'
- msgid '%s updated a subtask for the task %s'
- msgstr '%s päivitti tehtävän %s alitehtävää'
- msgid 'Assigned to %s with an estimate of %s/%sh'
- msgstr 'Annettu henkilölle %s arviolla %s/%sh'
- msgid 'Not assigned, estimate of %sh'
- msgstr 'Ei annettu kenellekään, arvio %sh'
- msgid '%s updated a comment on the task %s'
- msgstr '%s päivitti kommentia tehtävässä %s'
- msgid '%s commented the task %s'
- msgstr '%s kommentoi tehtävää %s'
- msgid '%s\'s activity'
- msgstr 'Henkilön %s toiminta'
- msgid 'RSS feed'
- msgstr 'RSS-syöte'
- msgid '%s updated a comment on the task #%d'
- msgstr '%s päivitti kommenttia tehtävässä #%d'
- msgid '%s commented on the task #%d'
- msgstr '%s kommentoi tehtävää #%d'
- msgid '%s updated a subtask for the task #%d'
- msgstr '%s päivitti tehtävän #%d alitehtävää'
- msgid '%s created a subtask for the task #%d'
- msgstr '%s loi alitehtävän tehtävälle #%d'
- msgid '%s updated the task #%d'
- msgstr '%s päivitti tehtävää #%d'
- msgid '%s created the task #%d'
- msgstr '%s loi tehtävän #%d'
- msgid '%s closed the task #%d'
- msgstr '%s sulki tehtävän #%d'
- msgid '%s opened the task #%d'
- msgstr '%s avasi tehtävän #%d'
- msgid 'Activity'
- msgstr 'Toiminta'
- msgid 'Default values are "%s"'
- msgstr 'Oletusarvot ovat "%s"'
- msgid 'Default columns for new projects (Comma-separated)'
- msgstr 'Oletussarakkeet uusille projekteille'
- msgid 'Task assignee change'
- msgstr 'Tehtävän saajan vaihto'
- msgid '%s changed the assignee of the task #%d to %s'
- msgstr '%s vaihtoi tehtävän #%d saajaksi %s'
- msgid '%s changed the assignee of the task %s to %s'
- msgstr '%s vaihtoi tehtävän %s saajaksi %s'
- msgid 'New password for the user "%s"'
- msgstr 'Uusi salasana käyttäjälle "%s"'
- msgid 'Choose an event'
- msgstr 'Valitse toiminta'
- msgid 'Create a task from an external provider'
- msgstr 'Luo tehtävä ulkoiselta tarjoajalta'
- msgid 'Change the assignee based on an external username'
- msgstr 'Vaihda tehtävän saajaa perustuen ulkoiseen käyttäjänimeen'
- msgid 'Change the category based on an external label'
- msgstr 'Vaihda kategoriaa perustuen ulkoiseen labeliin'
- msgid 'Reference'
- msgstr 'Viite'
- msgid 'Label'
- msgstr 'Label'
- msgid 'Database'
- msgstr 'Tietokanta'
- msgid 'About'
- msgstr 'Tietoja'
- msgid 'Database driver:'
- msgstr 'Tietokantaohjelmisto:'
- msgid 'Board settings'
- msgstr 'Taulun asetukset'
- msgid 'Webhook settings'
- msgstr 'Webhookin asetukset'
- msgid 'Reset token'
- msgstr 'Vaihda token'
- msgid 'API endpoint:'
- msgstr 'API päätepiste:'
- msgid 'Refresh interval for personal board'
- msgstr 'Päivitystiheys yksityisille tauluille'
- msgid 'Refresh interval for public board'
- msgstr 'Päivitystiheys julkisille tauluille'
- msgid 'Task highlight period'
- msgstr 'Tehtävän korostusaika'
- msgid 'Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)'
- msgstr 'Aika (sekunteina) kuinka kauan tehtävä voidaan katsoa äskettäin muokatuksi (0 poistaa toiminnon käytöstä, oletuksena 2 päivää)'
- msgid 'Frequency in second (60 seconds by default)'
- msgstr 'Päivitystiheys sekunteina (60 sekuntia oletuksena)'
- msgid 'Frequency in second (0 to disable this feature, 10 seconds by default)'
- msgstr 'Päivitystiheys sekunteina (0 poistaa toiminnon käytöstä, oletuksena 10 sekuntia)'
- msgid 'Application URL'
- msgstr 'Sovelluksen URL'
- msgid 'Token regenerated.'
- msgstr 'Token uudelleenluotu.'
- msgid 'Date format'
- msgstr 'Päiväyksen muoto'
- msgid 'ISO format is always accepted, example: "%s" and "%s"'
- msgstr 'ISO-muoto on aina hyväksytty, esimerkiksi %s ja %s'
- msgid 'New personal project'
- msgstr 'Uusi henkilökohtainen projekti'
- msgid 'This project is personal'
- msgstr 'Tämä projekti on henkilökohtainen'
- msgid 'Add'
- msgstr 'Lisää'
- msgid 'Start date'
- msgstr 'Aloituspäivä'
- msgid 'Time estimated'
- msgstr 'Arvioitu aika'
- msgid 'There is nothing assigned to you.'
- msgstr 'Ei tehtäviä, joihin sinut olisi merkitty tekijäksi.'
- msgid 'My tasks'
- msgstr 'Minun tehtävät'
- msgid 'Activity stream'
- msgstr 'Toiminta'
- msgid 'Dashboard'
- msgstr 'Työpöytä'
- msgid 'Confirmation'
- msgstr 'Vahvistus'
- msgid 'Webhooks'
- msgstr ''
- msgid 'API'
- msgstr ''
- msgid 'Create a comment from an external provider'
- msgstr ''
- msgid 'Project management'
- msgstr 'Projektin hallinta'
- msgid 'Columns'
- msgstr 'Sarakkeet'
- msgid 'Task'
- msgstr 'Tehtävät'
- msgid 'Percentage'
- msgstr 'Prosentti'
- msgid 'Number of tasks'
- msgstr 'Tehtävien määrä'
- msgid 'Task distribution'
- msgstr 'Tehtävien jakauma'
- msgid 'Analytics'
- msgstr 'Analytiikka'
- msgid 'Subtask'
- msgstr 'Alitehtävä'
- msgid 'User repartition'
- msgstr ''
- msgid 'Clone this project'
- msgstr 'Kahdenna projekti'
- msgid 'Column removed successfully.'
- msgstr 'Sarake poistettu onnstuneesti.'
- msgid 'Not enough data to show the graph.'
- msgstr 'Ei riittävästi dataa graafin näyttämiseksi.'
- msgid 'Previous'
- msgstr 'Edellinen'
- msgid 'The id must be an integer'
- msgstr 'ID:n on oltava kokonaisluku'
- msgid 'The project id must be an integer'
- msgstr 'Projektin ID:n on oltava kokonaisluku'
- msgid 'The status must be an integer'
- msgstr 'Tilan on oltava kokonaisluku'
- msgid 'The subtask id is required'
- msgstr 'Alitehtävän ID vaaditaan'
- msgid 'The subtask id must be an integer'
- msgstr 'Alitehtävän ID:ntulee olla kokonaisluku'
- msgid 'The task id is required'
- msgstr 'Tehtävän ID vaaditaan'
- msgid 'The task id must be an integer'
- msgstr 'Tehtävän ID on oltava kokonaisluku'
- msgid 'The user id must be an integer'
- msgstr 'Käyttäjän ID on oltava kokonaisluku'
- msgid 'This value is required'
- msgstr 'Tämä arvo on pakollinen'
- msgid 'This value must be numeric'
- msgstr 'Tämän arvon tulee olla numeerinen'
- msgid 'Unable to create this task.'
- msgstr 'Tehtävän luonti epäonnistui'
- msgid 'Cumulative flow diagram'
- msgstr 'Kumulatiivinen vuokaavio'
- msgid 'Daily project summary'
- msgstr 'Päivittäinen yhteenveto'
- msgid 'Daily project summary export'
- msgstr 'Päivittäisen yhteenvedon vienti'
- msgid 'Exports'
- msgstr 'Viennit'
- msgid 'This export contains the number of tasks per column grouped per day.'
- msgstr 'Tämä tiedosto sisältää tehtäviä sarakkeisiin päiväkohtaisesti ryhmilteltyinä'
- msgid 'Active swimlanes'
- msgstr 'Aktiiviset kaistat'
- msgid 'Add a new swimlane'
- msgstr 'Lisää uusi kaista'
- msgid 'Default swimlane'
- msgstr 'Oletuskaista'
- msgid 'Do you really want to remove this swimlane: "%s"?'
- msgstr 'Haluatko varmasti poistaa tämän kaistan: "%s"?'
- msgid 'Inactive swimlanes'
- msgstr 'Passiiviset kaistat'
- msgid 'Remove a swimlane'
- msgstr 'Poista kaista'
- msgid 'Swimlane modification for the project "%s"'
- msgstr 'Kaistamuutos projektille "%s"'
- msgid 'Swimlane removed successfully.'
- msgstr 'Kaista poistettu onnistuneesti.'
- msgid 'Swimlanes'
- msgstr 'Kaistat'
- msgid 'Swimlane updated successfully.'
- msgstr 'Kaista päivitetty onnistuneesti.'
- msgid 'Unable to remove this swimlane.'
- msgstr 'Kaistan poisto epäonnistui.'
- msgid 'Unable to update this swimlane.'
- msgstr 'Kaistan päivittäminen epäonnistui.'
- msgid 'Your swimlane has been created successfully.'
- msgstr 'Kaista luotu onnistuneesti.'
- msgid 'Example: "Bug, Feature Request, Improvement"'
- msgstr 'Esimerkiksi: "Bugit, Ominaisuuspyynnöt, Parannukset"'
- msgid 'Default categories for new projects (Comma-separated)'
- msgstr 'Oletuskategoriat uusille projekteille (pilkuin eroteltu)'
- msgid 'Integrations'
- msgstr ''
- msgid 'Integration with third-party services'
- msgstr ''
- msgid 'Subtask Id'
- msgstr ''
- msgid 'Subtasks'
- msgstr ''
- msgid 'Subtasks Export'
- msgstr ''
- msgid 'Task Title'
- msgstr ''
- msgid 'Untitled'
- msgstr ''
- msgid 'Application default'
- msgstr ''
- msgid 'Language:'
- msgstr ''
- msgid 'Timezone:'
- msgstr ''
- msgid 'All columns'
- msgstr ''
- msgid 'Next'
- msgstr ''
- msgid '#%d'
- msgstr ''
- msgid 'All swimlanes'
- msgstr ''
- msgid 'All colors'
- msgstr ''
- msgid 'Moved to column %s'
- msgstr ''
- msgid 'User dashboard'
- msgstr ''
- msgid 'Allow only one subtask in progress at the same time for a user'
- msgstr ''
- msgid 'Edit column "%s"'
- msgstr ''
- msgid 'Select the new status of the subtask: "%s"'
- msgstr ''
- msgid 'Subtask timesheet'
- msgstr ''
- msgid 'There is nothing to show.'
- msgstr ''
- msgid 'Time Tracking'
- msgstr ''
- msgid 'You already have one subtask in progress'
- msgstr ''
- msgid 'Which parts of the project do you want to duplicate?'
- msgstr ''
- msgid 'Disallow login form'
- msgstr ''
- msgid 'Start'
- msgstr ''
- msgid 'End'
- msgstr ''
- msgid 'Task age in days'
- msgstr ''
- msgid 'Days in this column'
- msgstr ''
- msgid '%dd'
- msgstr ''
- msgid 'Add a new link'
- msgstr ''
- msgid 'Do you really want to remove this link: "%s"?'
- msgstr ''
- msgid 'Do you really want to remove this link with task #%d?'
- msgstr ''
- msgid 'Field required'
- msgstr ''
- msgid 'Link added successfully.'
- msgstr ''
- msgid 'Link updated successfully.'
- msgstr ''
- msgid 'Link removed successfully.'
- msgstr ''
- msgid 'Link labels'
- msgstr ''
- msgid 'Link modification'
- msgstr ''
- msgid 'Opposite label'
- msgstr ''
- msgid 'Remove a link'
- msgstr ''
- msgid 'The labels must be different'
- msgstr ''
- msgid 'There is no link.'
- msgstr ''
- msgid 'This label must be unique'
- msgstr ''
- msgid 'Unable to create your link.'
- msgstr ''
- msgid 'Unable to update your link.'
- msgstr ''
- msgid 'Unable to remove this link.'
- msgstr ''
- msgid 'relates to'
- msgstr ''
- msgid 'blocks'
- msgstr ''
- msgid 'is blocked by'
- msgstr ''
- msgid 'duplicates'
- msgstr ''
- msgid 'is duplicated by'
- msgstr ''
- msgid 'is a child of'
- msgstr ''
- msgid 'is a parent of'
- msgstr ''
- msgid 'targets milestone'
- msgstr ''
- msgid 'is a milestone of'
- msgstr ''
- msgid 'fixes'
- msgstr ''
- msgid 'is fixed by'
- msgstr ''
- msgid 'This task'
- msgstr ''
- msgid '<1h'
- msgstr ''
- msgid '%dh'
- msgstr ''
- msgid 'Expand tasks'
- msgstr ''
- msgid 'Collapse tasks'
- msgstr ''
- msgid 'Expand/collapse tasks'
- msgstr ''
- msgid 'Close dialog box'
- msgstr ''
- msgid 'Submit a form'
- msgstr ''
- msgid 'Board view'
- msgstr ''
- msgid 'Keyboard shortcuts'
- msgstr ''
- msgid 'Open board switcher'
- msgstr ''
- msgid 'Application'
- msgstr ''
- msgid 'Compact view'
- msgstr ''
- msgid 'Horizontal scrolling'
- msgstr ''
- msgid 'Compact/wide view'
- msgstr ''
- msgid 'Currency'
- msgstr ''
- msgid 'Personal project'
- msgstr ''
- msgid 'AUD - Australian Dollar'
- msgstr ''
- msgid 'CAD - Canadian Dollar'
- msgstr ''
- msgid 'CHF - Swiss Francs'
- msgstr ''
- msgid 'Custom Stylesheet'
- msgstr ''
- msgid 'EUR - Euro'
- msgstr ''
- msgid 'GBP - British Pound'
- msgstr ''
- msgid 'INR - Indian Rupee'
- msgstr ''
- msgid 'JPY - Japanese Yen'
- msgstr ''
- msgid 'NZD - New Zealand Dollar'
- msgstr ''
- msgid 'RSD - Serbian dinar'
- msgstr ''
- msgid 'CNY - Chinese Yuan'
- msgstr ''
- msgid 'USD - US Dollar'
- msgstr ''
- msgid 'VES - Venezuelan Bolívar'
- msgstr ''
- msgid 'Destination column'
- msgstr ''
- msgid 'Move the task to another column when assigned to a user'
- msgstr ''
- msgid 'Move the task to another column when assignee is cleared'
- msgstr ''
- msgid 'Source column'
- msgstr ''
- msgid 'Transitions'
- msgstr ''
- msgid 'Executer'
- msgstr ''
- msgid 'Time spent in the column'
- msgstr ''
- msgid 'Task transitions'
- msgstr ''
- msgid 'Task transitions export'
- msgstr ''
- msgid 'This report contains all column moves for each task with the date, the user and the time spent for each transition.'
- msgstr ''
- msgid 'Currency rates'
- msgstr ''
- msgid 'Rate'
- msgstr ''
- msgid 'Change reference currency'
- msgstr ''
- msgid 'Reference currency'
- msgstr ''
- msgid 'The currency rate has been added successfully.'
- msgstr ''
- msgid 'Unable to add this currency rate.'
- msgstr ''
- msgid 'Webhook URL'
- msgstr ''
- msgid '%s removed the assignee of the task %s'
- msgstr ''
- msgid 'Information'
- msgstr ''
- msgid 'Check two factor authentication code'
- msgstr ''
- msgid 'The two factor authentication code is not valid.'
- msgstr ''
- msgid 'The two factor authentication code is valid.'
- msgstr ''
- msgid 'Code'
- msgstr ''
- msgid 'Two factor authentication'
- msgstr ''
- msgid 'This QR code contains the key URI: '
- msgstr ''
- msgid 'Check my code'
- msgstr ''
- msgid 'Secret key: '
- msgstr ''
- msgid 'Test your device'
- msgstr ''
- msgid 'Assign a color when the task is moved to a specific column'
- msgstr ''
- msgid '%s via Kanboard'
- msgstr ''
- msgid 'Burndown chart'
- msgstr ''
- msgid 'This chart show the task complexity over the time (Work Remaining).'
- msgstr ''
- msgid 'Screenshot taken %s'
- msgstr ''
- msgid 'Add a screenshot'
- msgstr ''
- msgid 'Take a screenshot and press CTRL+V or ⌘+V to paste here.'
- msgstr ''
- msgid 'Screenshot uploaded successfully.'
- msgstr ''
- msgid 'SEK - Swedish Krona'
- msgstr ''
- msgid 'Identifier'
- msgstr ''
- msgid 'Disable two factor authentication'
- msgstr ''
- msgid 'Do you really want to disable the two factor authentication for this user: "%s"?'
- msgstr ''
- msgid 'Edit link'
- msgstr ''
- msgid 'Start to type task title...'
- msgstr ''
- msgid 'A task cannot be linked to itself'
- msgstr ''
- msgid 'The exact same link already exists'
- msgstr ''
- msgid 'Recurrent task is scheduled to be generated'
- msgstr ''
- msgid 'Score'
- msgstr ''
- msgid 'The identifier must be unique'
- msgstr ''
- msgid 'This linked task id doesn\'t exists'
- msgstr ''
- msgid 'This value must be alphanumeric'
- msgstr ''
- msgid 'Edit recurrence'
- msgstr ''
- msgid 'Generate recurrent task'
- msgstr ''
- msgid 'Trigger to generate recurrent task'
- msgstr ''
- msgid 'Factor to calculate new due date'
- msgstr ''
- msgid 'Timeframe to calculate new due date'
- msgstr ''
- msgid 'Base date to calculate new due date'
- msgstr ''
- msgid 'Action date'
- msgstr ''
- msgid 'Base date to calculate new due date: '
- msgstr ''
- msgid 'This task has created this child task: '
- msgstr ''
- msgid 'Day(s)'
- msgstr ''
- msgid 'Existing due date'
- msgstr ''
- msgid 'Factor to calculate new due date: '
- msgstr ''
- msgid 'Month(s)'
- msgstr ''
- msgid 'This task has been created by: '
- msgstr ''
- msgid 'Recurrent task has been generated:'
- msgstr ''
- msgid 'Timeframe to calculate new due date: '
- msgstr ''
- msgid 'Trigger to generate recurrent task: '
- msgstr ''
- msgid 'When task is closed'
- msgstr ''
- msgid 'When task is moved from first column'
- msgstr ''
- msgid 'When task is moved to last column'
- msgstr ''
- msgid 'Year(s)'
- msgstr ''
- msgid 'Project settings'
- msgstr ''
- msgid 'Automatically update the start date'
- msgstr ''
- msgid 'iCal feed'
- msgstr ''
- msgid 'Preferences'
- msgstr ''
- msgid 'Security'
- msgstr ''
- msgid 'Two factor authentication disabled'
- msgstr ''
- msgid 'Two factor authentication enabled'
- msgstr ''
- msgid 'Unable to update this user.'
- msgstr ''
- msgid 'There is no user management for personal projects.'
- msgstr ''
- msgid 'User that will receive the email'
- msgstr ''
- msgid 'Email subject'
- msgstr ''
- msgid 'Date'
- msgstr ''
- msgid 'Add a comment log when moving the task between columns'
- msgstr ''
- msgid 'Move the task to another column when the category is changed'
- msgstr ''
- msgid 'Send a task by email to someone'
- msgstr ''
- msgid 'Reopen a task'
- msgstr ''
- msgid 'Notification'
- msgstr ''
- msgid '%s moved the task #%d to the first swimlane'
- msgstr ''
- msgid 'Swimlane'
- msgstr ''
- msgid '%s moved the task %s to the first swimlane'
- msgstr ''
- msgid '%s moved the task %s to the swimlane "%s"'
- msgstr ''
- msgid 'This report contains all subtasks information for the given date range.'
- msgstr ''
- msgid 'This report contains all tasks information for the given date range.'
- msgstr ''
- msgid 'Project activities for %s'
- msgstr ''
- msgid 'view the board on Kanboard'
- msgstr ''
- msgid 'The task has been moved to the first swimlane'
- msgstr ''
- msgid 'The task has been moved to another swimlane:'
- msgstr ''
- msgid 'New title: %s'
- msgstr ''
- msgid 'The task is not assigned anymore'
- msgstr ''
- msgid 'New assignee: %s'
- msgstr ''
- msgid 'There is no category now'
- msgstr ''
- msgid 'New category: %s'
- msgstr ''
- msgid 'New color: %s'
- msgstr ''
- msgid 'New complexity: %d'
- msgstr ''
- msgid 'The due date has been removed'
- msgstr ''
- msgid 'There is no description anymore'
- msgstr ''
- msgid 'Recurrence settings has been modified'
- msgstr ''
- msgid 'Time spent changed: %sh'
- msgstr ''
- msgid 'Time estimated changed: %sh'
- msgstr ''
- msgid 'The field "%s" has been updated'
- msgstr ''
- msgid 'The description has been modified:'
- msgstr ''
- msgid 'Do you really want to close the task "%s" as well as all subtasks?'
- msgstr ''
- msgid 'I want to receive notifications for:'
- msgstr ''
- msgid 'All tasks'
- msgstr ''
- msgid 'Only for tasks assigned to me'
- msgstr ''
- msgid 'Only for tasks created by me'
- msgstr ''
- msgid 'Only for tasks created by me and tasks assigned to me'
- msgstr ''
- msgid '%%Y-%%m-%%d'
- msgstr ''
- msgid 'Total for all columns'
- msgstr ''
- msgid 'You need at least 2 days of data to show the chart.'
- msgstr ''
- msgid '<15m'
- msgstr ''
- msgid '<30m'
- msgstr ''
- msgid 'Stop timer'
- msgstr ''
- msgid 'Start timer'
- msgstr ''
- msgid 'My activity stream'
- msgstr ''
- msgid 'Search tasks'
- msgstr ''
- msgid 'Reset filters'
- msgstr ''
- msgid 'My tasks due tomorrow'
- msgstr ''
- msgid 'Tasks due today'
- msgstr ''
- msgid 'Tasks due tomorrow'
- msgstr ''
- msgid 'Tasks due yesterday'
- msgstr ''
- msgid 'Closed tasks'
- msgstr ''
- msgid 'Open tasks'
- msgstr ''
- msgid 'Not assigned'
- msgstr ''
- msgid 'View advanced search syntax'
- msgstr ''
- msgid 'Overview'
- msgstr ''
- msgid 'Board/Calendar/List view'
- msgstr ''
- msgid 'Switch to the board view'
- msgstr ''
- msgid 'Switch to the list view'
- msgstr ''
- msgid 'Go to the search/filter box'
- msgstr ''
- msgid 'There is no activity yet.'
- msgstr ''
- msgid 'No tasks found.'
- msgstr ''
- msgid 'Keyboard shortcut: "%s"'
- msgstr ''
- msgid 'List'
- msgstr ''
- msgid 'Filter'
- msgstr ''
- msgid 'Advanced search'
- msgstr ''
- msgid 'Example of query: '
- msgstr ''
- msgid 'Search by project: '
- msgstr ''
- msgid 'Search by column: '
- msgstr ''
- msgid 'Search by assignee: '
- msgstr ''
- msgid 'Search by color: '
- msgstr ''
- msgid 'Search by category: '
- msgstr ''
- msgid 'Search by description: '
- msgstr ''
- msgid 'Search by due date: '
- msgstr ''
- msgid 'Average time spent in each column'
- msgstr ''
- msgid 'Average time spent'
- msgstr ''
- msgid 'This chart shows the average time spent in each column for the last %d tasks.'
- msgstr ''
- msgid 'Average Lead and Cycle time'
- msgstr ''
- msgid 'Average lead time: '
- msgstr ''
- msgid 'Average cycle time: '
- msgstr ''
- msgid 'Cycle Time'
- msgstr ''
- msgid 'Lead Time'
- msgstr ''
- msgid 'This chart shows the average lead and cycle time for the last %d tasks over the time.'
- msgstr ''
- msgid 'Average time into each column'
- msgstr ''
- msgid 'Lead and cycle time'
- msgstr ''
- msgid 'Lead time: '
- msgstr ''
- msgid 'Cycle time: '
- msgstr ''
- msgid 'Time spent in each column'
- msgstr ''
- msgid 'The lead time is the duration between the task creation and the completion.'
- msgstr ''
- msgid 'The cycle time is the duration between the start date and the completion.'
- msgstr ''
- msgid 'If the task is not closed the current time is used instead of the completion date.'
- msgstr ''
- msgid 'Set the start date automatically'
- msgstr ''
- msgid 'Edit Authentication'
- msgstr ''
- msgid 'Remote user'
- msgstr ''
- msgid 'Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts.'
- msgstr ''
- msgid 'If you check the box "Disallow login form", credentials entered in the login form will be ignored.'
- msgstr ''
- msgid 'Default task color'
- msgstr ''
- msgid 'This feature does not work with all browsers.'
- msgstr ''
- msgid 'There is no destination project available.'
- msgstr ''
- msgid 'Trigger automatically subtask time tracking'
- msgstr ''
- msgid 'Include closed tasks in the cumulative flow diagram'
- msgstr ''
- msgid 'Current swimlane: %s'
- msgstr ''
- msgid 'Current column: %s'
- msgstr ''
- msgid 'Current category: %s'
- msgstr ''
- msgid 'no category'
- msgstr ''
- msgid 'Current assignee: %s'
- msgstr ''
- msgid 'not assigned'
- msgstr ''
- msgid 'Author:'
- msgstr ''
- msgid 'contributors'
- msgstr ''
- msgid 'License:'
- msgstr ''
- msgid 'License'
- msgstr ''
- msgid 'Enter the text below'
- msgstr ''
- msgid 'Start date:'
- msgstr ''
- msgid 'Due date:'
- msgstr ''
- msgid 'People who are project managers'
- msgstr ''
- msgid 'People who are project members'
- msgstr ''
- msgid 'NOK - Norwegian Krone'
- msgstr ''
- msgid 'Show this column'
- msgstr ''
- msgid 'Hide this column'
- msgstr ''
- msgid 'End date'
- msgstr ''
- msgid 'Users overview'
- msgstr ''
- msgid 'Members'
- msgstr ''
- msgid 'Shared project'
- msgstr ''
- msgid 'Project managers'
- msgstr ''
- msgid 'Projects list'
- msgstr ''
- msgid 'End date:'
- msgstr ''
- msgid 'Change task color when using a specific task link'
- msgstr ''
- msgid 'Task link creation or modification'
- msgstr ''
- msgid 'Milestone'
- msgstr ''
- msgid 'Reset the search/filter box'
- msgstr ''
- msgid 'Documentation'
- msgstr ''
- msgid 'Author'
- msgstr ''
- msgid 'Version'
- msgstr ''
- msgid 'Plugins'
- msgstr ''
- msgid 'There is no plugin loaded.'
- msgstr ''
- msgid 'My notifications'
- msgstr ''
- msgid 'Custom filters'
- msgstr ''
- msgid 'Your custom filter has been created successfully.'
- msgstr ''
- msgid 'Unable to create your custom filter.'
- msgstr ''
- msgid 'Custom filter removed successfully.'
- msgstr ''
- msgid 'Unable to remove this custom filter.'
- msgstr ''
- msgid 'Edit custom filter'
- msgstr ''
- msgid 'Your custom filter has been updated successfully.'
- msgstr ''
- msgid 'Unable to update custom filter.'
- msgstr ''
- msgid 'Web'
- msgstr ''
- msgid 'New attachment on task #%d: %s'
- msgstr ''
- msgid 'New comment on task #%d'
- msgstr ''
- msgid 'Comment updated on task #%d'
- msgstr ''
- msgid 'New subtask on task #%d'
- msgstr ''
- msgid 'Subtask updated on task #%d'
- msgstr ''
- msgid 'New task #%d: %s'
- msgstr ''
- msgid 'Task updated #%d'
- msgstr ''
- msgid 'Task #%d closed'
- msgstr ''
- msgid 'Task #%d opened'
- msgstr ''
- msgid 'Column changed for task #%d'
- msgstr ''
- msgid 'New position for task #%d'
- msgstr ''
- msgid 'Swimlane changed for task #%d'
- msgstr ''
- msgid 'Assignee changed on task #%d'
- msgstr ''
- msgid '%d overdue tasks'
- msgstr ''
- msgid 'Task #%d is overdue'
- msgstr ''
- msgid 'No notification.'
- msgstr ''
- msgid 'Mark all as read'
- msgstr ''
- msgid 'Mark as read'
- msgstr ''
- msgid 'Total number of tasks in this column across all swimlanes'
- msgstr ''
- msgid 'Collapse swimlane'
- msgstr ''
- msgid 'Expand swimlane'
- msgstr ''
- msgid 'Add a new filter'
- msgstr ''
- msgid 'Share with all project members'
- msgstr ''
- msgid 'Shared'
- msgstr ''
- msgid 'Owner'
- msgstr ''
- msgid 'Unread notifications'
- msgstr ''
- msgid 'Notification methods:'
- msgstr ''
- msgid 'Unable to read your file'
- msgstr ''
- msgid '%d task(s) have been imported successfully.'
- msgstr ''
- msgid 'Nothing has been imported!'
- msgstr ''
- msgid 'Import users from CSV file'
- msgstr ''
- msgid '%d user(s) have been imported successfully.'
- msgstr ''
- msgid 'Comma'
- msgstr ''
- msgid 'Semi-colon'
- msgstr ''
- msgid 'Tab'
- msgstr ''
- msgid 'Vertical bar'
- msgstr ''
- msgid 'Double Quote'
- msgstr ''
- msgid 'Single Quote'
- msgstr ''
- msgid '%s attached a file to the task #%d'
- msgstr ''
- msgid 'There is no column or swimlane activated in your project!'
- msgstr ''
- msgid 'Append filter (instead of replacement)'
- msgstr ''
- msgid 'Append/Replace'
- msgstr ''
- msgid 'Append'
- msgstr ''
- msgid 'Replace'
- msgstr ''
- msgid 'Import'
- msgstr ''
- msgid 'Change sorting'
- msgstr ''
- msgid 'Tasks Importation'
- msgstr ''
- msgid 'Delimiter'
- msgstr ''
- msgid 'Enclosure'
- msgstr ''
- msgid 'CSV File'
- msgstr ''
- msgid 'Instructions'
- msgstr ''
- msgid 'Your file must use the predefined CSV format'
- msgstr ''
- msgid 'Your file must be encoded in UTF-8'
- msgstr ''
- msgid 'The first row must be the header'
- msgstr ''
- msgid 'Duplicates are not verified for you'
- msgstr ''
- msgid 'The due date must use the ISO format: YYYY-MM-DD'
- msgstr ''
- msgid 'Download CSV template'
- msgstr ''
- msgid 'No external integration registered.'
- msgstr ''
- msgid 'Duplicates are not imported'
- msgstr ''
- msgid 'Usernames must be lowercase and unique'
- msgstr ''
- msgid 'Passwords will be encrypted if present'
- msgstr ''
- msgid '%s attached a new file to the task %s'
- msgstr ''
- msgid 'Link type'
- msgstr ''
- msgid 'Assign automatically a category based on a link'
- msgstr ''
- msgid 'BAM - Konvertible Mark'
- msgstr ''
- msgid 'Assignee Username'
- msgstr ''
- msgid 'Assignee Name'
- msgstr ''
- msgid 'Groups'
- msgstr ''
- msgid 'Members of %s'
- msgstr ''
- msgid 'New group'
- msgstr ''
- msgid 'Group created successfully.'
- msgstr ''
- msgid 'Unable to create your group.'
- msgstr ''
- msgid 'Edit group'
- msgstr ''
- msgid 'Group updated successfully.'
- msgstr ''
- msgid 'Unable to update your group.'
- msgstr ''
- msgid 'Add group member to "%s"'
- msgstr ''
- msgid 'Group member added successfully.'
- msgstr ''
- msgid 'Unable to add group member.'
- msgstr ''
- msgid 'Remove user from group "%s"'
- msgstr ''
- msgid 'User removed successfully from this group.'
- msgstr ''
- msgid 'Unable to remove this user from the group.'
- msgstr ''
- msgid 'Remove group'
- msgstr ''
- msgid 'Group removed successfully.'
- msgstr ''
- msgid 'Unable to remove this group.'
- msgstr ''
- msgid 'Project Permissions'
- msgstr ''
- msgid 'Manager'
- msgstr ''
- msgid 'Project Manager'
- msgstr ''
- msgid 'Project Member'
- msgstr ''
- msgid 'Project Viewer'
- msgstr ''
- msgid 'Your account is locked for %d minutes'
- msgstr ''
- msgid 'Invalid captcha'
- msgstr ''
- msgid 'The name must be unique'
- msgstr ''
- msgid 'View all groups'
- msgstr ''
- msgid 'There is no user available.'
- msgstr ''
- msgid 'Do you really want to remove the user "%s" from the group "%s"?'
- msgstr ''
- msgid 'There is no group.'
- msgstr ''
- msgid 'Add group member'
- msgstr ''
- msgid 'Do you really want to remove this group: "%s"?'
- msgstr ''
- msgid 'There is no user in this group.'
- msgstr ''
- msgid 'Permissions'
- msgstr ''
- msgid 'Allowed Users'
- msgstr ''
- msgid 'No specific user has been allowed.'
- msgstr ''
- msgid 'Role'
- msgstr ''
- msgid 'Enter user name...'
- msgstr ''
- msgid 'Allowed Groups'
- msgstr ''
- msgid 'No group has been allowed.'
- msgstr ''
- msgid 'Group'
- msgstr ''
- msgid 'Group Name'
- msgstr ''
- msgid 'Enter group name...'
- msgstr ''
- msgid 'Role:'
- msgstr ''
- msgid 'Project members'
- msgstr ''
- msgid '%s mentioned you in the task #%d'
- msgstr ''
- msgid '%s mentioned you in a comment on the task #%d'
- msgstr ''
- msgid 'You were mentioned in the task #%d'
- msgstr ''
- msgid 'You were mentioned in a comment on the task #%d'
- msgstr ''
- msgid 'Estimated hours: '
- msgstr ''
- msgid 'Actual hours: '
- msgstr ''
- msgid 'Hours Spent'
- msgstr ''
- msgid 'Hours Estimated'
- msgstr ''
- msgid 'Estimated Time'
- msgstr ''
- msgid 'Actual Time'
- msgstr ''
- msgid 'Estimated vs actual time'
- msgstr ''
- msgid 'RUB - Russian Ruble'
- msgstr ''
- msgid 'Assign the task to the person who does the action when the column is changed'
- msgstr ''
- msgid 'Close a task in a specific column'
- msgstr ''
- msgid 'Time-based One-time Password Algorithm'
- msgstr ''
- msgid 'Two-Factor Provider: '
- msgstr ''
- msgid 'Disable two-factor authentication'
- msgstr ''
- msgid 'Enable two-factor authentication'
- msgstr ''
- msgid 'There is no integration registered at the moment.'
- msgstr ''
- msgid 'Password Reset for Kanboard'
- msgstr ''
- msgid 'Forgot password?'
- msgstr ''
- msgid 'Enable "Forget Password"'
- msgstr ''
- msgid 'Password Reset'
- msgstr ''
- msgid 'New password'
- msgstr ''
- msgid 'Change Password'
- msgstr ''
- msgid 'To reset your password click on this link:'
- msgstr ''
- msgid 'Last Password Reset'
- msgstr ''
- msgid 'The password has never been reinitialized.'
- msgstr ''
- msgid 'Creation'
- msgstr ''
- msgid 'Expiration'
- msgstr ''
- msgid 'Password reset history'
- msgstr ''
- msgid 'All tasks of the column "%s" and the swimlane "%s" have been closed successfully.'
- msgstr ''
- msgid 'Do you really want to close all tasks of this column?'
- msgstr ''
- msgid '%d task(s) in the column "%s" and the swimlane "%s" will be closed.'
- msgstr ''
- msgid 'Close all tasks in this column and this swimlane'
- msgstr ''
- msgid 'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.'
- msgstr ''
- msgid 'My dashboard'
- msgstr ''
- msgid 'My profile'
- msgstr ''
- msgid 'Project owner: '
- msgstr ''
- msgid 'The project identifier is optional and must be alphanumeric, example: MYPROJECT.'
- msgstr ''
- msgid 'Project owner'
- msgstr ''
- msgid 'Personal projects do not have users and groups management.'
- msgstr ''
- msgid 'There is no project member.'
- msgstr ''
- msgid 'Priority'
- msgstr ''
- msgid 'Task priority'
- msgstr ''
- msgid 'General'
- msgstr ''
- msgid 'Dates'
- msgstr ''
- msgid 'Default priority'
- msgstr ''
- msgid 'Lowest priority'
- msgstr ''
- msgid 'Highest priority'
- msgstr ''
- msgid 'Close a task when there is no activity'
- msgstr ''
- msgid 'Duration in days'
- msgstr ''
- msgid 'Send email when there is no activity on a task'
- msgstr ''
- msgid 'Unable to fetch link information.'
- msgstr ''
- msgid 'Daily background job for tasks'
- msgstr ''
- msgid 'Auto'
- msgstr ''
- msgid 'Related'
- msgstr ''
- msgid 'Attachment'
- msgstr ''
- msgid 'Title not found'
- msgstr ''
- msgid 'Web Link'
- msgstr ''
- msgid 'External links'
- msgstr ''
- msgid 'Add external link'
- msgstr ''
- msgid 'Type'
- msgstr ''
- msgid 'Dependency'
- msgstr ''
- msgid 'Add internal link'
- msgstr ''
- msgid 'Add a new external link'
- msgstr ''
- msgid 'Edit external link'
- msgstr ''
- msgid 'External link'
- msgstr ''
- msgid 'Copy and paste your link here...'
- msgstr ''
- msgid 'URL'
- msgstr ''
- msgid 'Internal links'
- msgstr ''
- msgid 'Assign to me'
- msgstr ''
- msgid 'Me'
- msgstr ''
- msgid 'Do not duplicate anything'
- msgstr ''
- msgid 'Projects management'
- msgstr ''
- msgid 'Users management'
- msgstr ''
- msgid 'Groups management'
- msgstr ''
- msgid 'Create from another project'
- msgstr ''
- msgid 'open'
- msgstr ''
- msgid 'closed'
- msgstr ''
- msgid 'Priority:'
- msgstr ''
- msgid 'Reference:'
- msgstr ''
- msgid 'Complexity:'
- msgstr ''
- msgid 'Swimlane:'
- msgstr ''
- msgid 'Column:'
- msgstr ''
- msgid 'Position:'
- msgstr ''
- msgid 'Creator:'
- msgstr ''
- msgid 'Time estimated:'
- msgstr ''
- msgid '%s hours'
- msgstr ''
- msgid 'Time spent:'
- msgstr ''
- msgid 'Created:'
- msgstr ''
- msgid 'Modified:'
- msgstr ''
- msgid 'Completed:'
- msgstr ''
- msgid 'Started:'
- msgstr ''
- msgid 'Moved:'
- msgstr ''
- msgid 'Task #%d'
- msgstr ''
- msgid 'Time format'
- msgstr ''
- msgid 'Start date: '
- msgstr ''
- msgid 'End date: '
- msgstr ''
- msgid 'New due date: '
- msgstr ''
- msgid 'Start date changed: '
- msgstr ''
- msgid 'Disable personal projects'
- msgstr ''
- msgid 'Do you really want to remove this custom filter: "%s"?'
- msgstr ''
- msgid 'Remove a custom filter'
- msgstr ''
- msgid 'User activated successfully.'
- msgstr ''
- msgid 'Unable to enable this user.'
- msgstr ''
- msgid 'User disabled successfully.'
- msgstr ''
- msgid 'Unable to disable this user.'
- msgstr ''
- msgid 'All files have been uploaded successfully.'
- msgstr ''
- msgid 'The maximum allowed file size is %sB.'
- msgstr ''
- msgid 'Drag and drop your files here'
- msgstr ''
- msgid 'choose files'
- msgstr ''
- msgid 'View profile'
- msgstr ''
- msgid 'Two Factor'
- msgstr ''
- msgid 'Disable user'
- msgstr ''
- msgid 'Do you really want to disable this user: "%s"?'
- msgstr ''
- msgid 'Enable user'
- msgstr ''
- msgid 'Do you really want to enable this user: "%s"?'
- msgstr ''
- msgid 'Download'
- msgstr ''
- msgid 'Uploaded: %s'
- msgstr ''
- msgid 'Size: %s'
- msgstr ''
- msgid 'Uploaded by %s'
- msgstr ''
- msgid 'Filename'
- msgstr ''
- msgid 'Size'
- msgstr ''
- msgid 'Column created successfully.'
- msgstr ''
- msgid 'Another column with the same name exists in the project'
- msgstr ''
- msgid 'Default filters'
- msgstr ''
- msgid 'Your board doesn\'t have any columns!'
- msgstr ''
- msgid 'Change column position'
- msgstr ''
- msgid 'Switch to the project overview'
- msgstr ''
- msgid 'User filters'
- msgstr ''
- msgid 'Category filters'
- msgstr ''
- msgid 'Upload a file'
- msgstr ''
- msgid 'View file'
- msgstr ''
- msgid 'Last activity'
- msgstr ''
- msgid 'Change subtask position'
- msgstr ''
- msgid 'This value must be greater than %d'
- msgstr ''
- msgid 'Another swimlane with the same name exists in the project'
- msgstr ''
- msgid 'Example: https://example.kanboard.org/ (used to generate absolute URLs)'
- msgstr ''
- msgid 'Actions duplicated successfully.'
- msgstr ''
- msgid 'Unable to duplicate actions.'
- msgstr ''
- msgid 'Add a new action'
- msgstr ''
- msgid 'Import from another project'
- msgstr ''
- msgid 'There is no action at the moment.'
- msgstr ''
- msgid 'Import actions from another project'
- msgstr ''
- msgid 'There is no available project.'
- msgstr ''
- msgid 'Local File'
- msgstr ''
- msgid 'Configuration'
- msgstr ''
- msgid 'PHP version:'
- msgstr ''
- msgid 'PHP SAPI:'
- msgstr ''
- msgid 'OS version:'
- msgstr ''
- msgid 'Database version:'
- msgstr ''
- msgid 'Browser:'
- msgstr ''
- msgid 'Task view'
- msgstr ''
- msgid 'Edit task'
- msgstr ''
- msgid 'Edit description'
- msgstr ''
- msgid 'New internal link'
- msgstr ''
- msgid 'Display list of keyboard shortcuts'
- msgstr ''
- msgid 'Avatar'
- msgstr ''
- msgid 'Upload my avatar image'
- msgstr ''
- msgid 'Remove my image'
- msgstr ''
- msgid 'The OAuth2 state parameter is invalid'
- msgstr ''
- msgid 'User not found.'
- msgstr ''
- msgid 'Search in activity stream'
- msgstr ''
- msgid 'My activities'
- msgstr ''
- msgid 'Activity until yesterday'
- msgstr ''
- msgid 'Activity until today'
- msgstr ''
- msgid 'Search by creator: '
- msgstr ''
- msgid 'Search by creation date: '
- msgstr ''
- msgid 'Search by task status: '
- msgstr ''
- msgid 'Search by task title: '
- msgstr ''
- msgid 'Activity stream search'
- msgstr ''
- msgid 'Projects where "%s" is manager'
- msgstr ''
- msgid 'Projects where "%s" is member'
- msgstr ''
- msgid 'Open tasks assigned to "%s"'
- msgstr ''
- msgid 'Closed tasks assigned to "%s"'
- msgstr ''
- msgid 'Assign automatically a color based on a priority'
- msgstr ''
- msgid 'Overdue tasks for the project(s) "%s"'
- msgstr ''
- msgid 'Upload files'
- msgstr ''
- msgid 'Installed Plugins'
- msgstr ''
- msgid 'Plugin Directory'
- msgstr ''
- msgid 'Plugin installed successfully.'
- msgstr ''
- msgid 'Plugin updated successfully.'
- msgstr ''
- msgid 'Plugin removed successfully.'
- msgstr ''
- msgid 'Subtask converted to task successfully.'
- msgstr ''
- msgid 'Unable to convert the subtask.'
- msgstr ''
- msgid 'Unable to extract plugin archive.'
- msgstr ''
- msgid 'Plugin not found.'
- msgstr ''
- msgid 'You don\'t have the permission to remove this plugin.'
- msgstr ''
- msgid 'Unable to download plugin archive.'
- msgstr ''
- msgid 'Unable to write temporary file for plugin.'
- msgstr ''
- msgid 'Unable to open plugin archive.'
- msgstr ''
- msgid 'There is no file in the plugin archive.'
- msgstr ''
- msgid 'Create tasks in bulk'
- msgstr ''
- msgid 'Your Kanboard instance is not configured to install plugins from the user interface.'
- msgstr ''
- msgid 'There is no plugin available.'
- msgstr ''
- msgid 'Install'
- msgstr ''
- msgid 'Update'
- msgstr ''
- msgid 'Up to date'
- msgstr ''
- msgid 'Not available'
- msgstr ''
- msgid 'Remove plugin'
- msgstr ''
- msgid 'Do you really want to remove this plugin: "%s"?'
- msgstr ''
- msgid 'Uninstall'
- msgstr ''
- msgid 'Listing'
- msgstr ''
- msgid 'Metadata'
- msgstr ''
- msgid 'Manage projects'
- msgstr ''
- msgid 'Convert to task'
- msgstr ''
- msgid 'Convert sub-task to task'
- msgstr ''
- msgid 'Do you really want to convert this sub-task to a task?'
- msgstr ''
- msgid 'My task title'
- msgstr ''
- msgid 'Enter one task by line.'
- msgstr ''
- msgid 'Number of failed login:'
- msgstr ''
- msgid 'Account locked until:'
- msgstr ''
- msgid 'Email settings'
- msgstr ''
- msgid 'Email sender address'
- msgstr ''
- msgid 'Email transport'
- msgstr ''
- msgid 'Webhook token'
- msgstr ''
- msgid 'Project tags management'
- msgstr ''
- msgid 'Tag created successfully.'
- msgstr ''
- msgid 'Unable to create this tag.'
- msgstr ''
- msgid 'Tag updated successfully.'
- msgstr ''
- msgid 'Unable to update this tag.'
- msgstr ''
- msgid 'Tag removed successfully.'
- msgstr ''
- msgid 'Unable to remove this tag.'
- msgstr ''
- msgid 'Global tags management'
- msgstr ''
- msgid 'Tags'
- msgstr ''
- msgid 'Tags management'
- msgstr ''
- msgid 'Add new tag'
- msgstr ''
- msgid 'Edit a tag'
- msgstr ''
- msgid 'Project tags'
- msgstr ''
- msgid 'There is no specific tag for this project at the moment.'
- msgstr ''
- msgid 'Tag'
- msgstr ''
- msgid 'Remove a tag'
- msgstr ''
- msgid 'Do you really want to remove this tag: "%s"?'
- msgstr ''
- msgid 'Global tags'
- msgstr ''
- msgid 'There is no global tag at the moment.'
- msgstr ''
- msgid 'This field cannot be empty'
- msgstr ''
- msgid 'Close a task when there is no activity in a specific column'
- msgstr ''
- msgid '%s removed a subtask for the task #%d'
- msgstr ''
- msgid '%s removed a comment on the task #%d'
- msgstr ''
- msgid 'Comment removed on task #%d'
- msgstr ''
- msgid 'Subtask removed on task #%d'
- msgstr ''
- msgid 'Hide tasks in this column in the dashboard'
- msgstr ''
- msgid '%s removed a comment on the task %s'
- msgstr ''
- msgid '%s removed a subtask for the task %s'
- msgstr ''
- msgid 'Comment removed'
- msgstr ''
- msgid 'Subtask removed'
- msgstr ''
- msgid '%s set a new internal link for the task #%d'
- msgstr ''
- msgid '%s removed an internal link for the task #%d'
- msgstr ''
- msgid 'A new internal link for the task #%d has been defined'
- msgstr ''
- msgid 'Internal link removed for the task #%d'
- msgstr ''
- msgid '%s set a new internal link for the task %s'
- msgstr ''
- msgid '%s removed an internal link for the task %s'
- msgstr ''
- msgid 'Automatically set the due date on task creation'
- msgstr ''
- msgid 'Move the task to another column when closed'
- msgstr ''
- msgid 'Move the task to another column when not moved during a given period'
- msgstr ''
- msgid 'Dashboard for %s'
- msgstr ''
- msgid 'Tasks overview for %s'
- msgstr ''
- msgid 'Subtasks overview for %s'
- msgstr ''
- msgid 'Projects overview for %s'
- msgstr ''
- msgid 'Activity stream for %s'
- msgstr ''
- msgid 'Assign a color when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Assign a priority when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'User unlocked successfully.'
- msgstr ''
- msgid 'Unable to unlock the user.'
- msgstr ''
- msgid 'Move a task to another swimlane'
- msgstr ''
- msgid 'Creator Name'
- msgstr ''
- msgid 'Time spent and estimated'
- msgstr ''
- msgid 'Move position'
- msgstr ''
- msgid 'Move task to another position on the board'
- msgstr ''
- msgid 'Insert before this task'
- msgstr ''
- msgid 'Insert after this task'
- msgstr ''
- msgid 'Unlock this user'
- msgstr ''
- msgid 'Custom Project Roles'
- msgstr ''
- msgid 'Add a new custom role'
- msgstr ''
- msgid 'Restrictions for the role "%s"'
- msgstr ''
- msgid 'Add a new project restriction'
- msgstr ''
- msgid 'Add a new drag and drop restriction'
- msgstr ''
- msgid 'Add a new column restriction'
- msgstr ''
- msgid 'Edit this role'
- msgstr ''
- msgid 'Remove this role'
- msgstr ''
- msgid 'There is no restriction for this role.'
- msgstr ''
- msgid 'Only moving task between those columns is permitted'
- msgstr ''
- msgid 'Close a task in a specific column when not moved during a given period'
- msgstr ''
- msgid 'Edit columns'
- msgstr ''
- msgid 'The column restriction has been created successfully.'
- msgstr ''
- msgid 'Unable to create this column restriction.'
- msgstr ''
- msgid 'Column restriction removed successfully.'
- msgstr ''
- msgid 'Unable to remove this restriction.'
- msgstr ''
- msgid 'Your custom project role has been created successfully.'
- msgstr ''
- msgid 'Unable to create custom project role.'
- msgstr ''
- msgid 'Your custom project role has been updated successfully.'
- msgstr ''
- msgid 'Unable to update custom project role.'
- msgstr ''
- msgid 'Custom project role removed successfully.'
- msgstr ''
- msgid 'Unable to remove this project role.'
- msgstr ''
- msgid 'The project restriction has been created successfully.'
- msgstr ''
- msgid 'Unable to create this project restriction.'
- msgstr ''
- msgid 'Project restriction removed successfully.'
- msgstr ''
- msgid 'You cannot create tasks in this column.'
- msgstr ''
- msgid 'Task creation is permitted for this column'
- msgstr ''
- msgid 'Closing or opening a task is permitted for this column'
- msgstr ''
- msgid 'Task creation is blocked for this column'
- msgstr ''
- msgid 'Closing or opening a task is blocked for this column'
- msgstr ''
- msgid 'Task creation is not permitted'
- msgstr ''
- msgid 'Closing or opening a task is not permitted'
- msgstr ''
- msgid 'New drag and drop restriction for the role "%s"'
- msgstr ''
- msgid 'People belonging to this role will be able to move tasks only between the source and the destination column.'
- msgstr ''
- msgid 'Remove a column restriction'
- msgstr ''
- msgid 'Do you really want to remove this column restriction: "%s" to "%s"?'
- msgstr ''
- msgid 'New column restriction for the role "%s"'
- msgstr ''
- msgid 'Rule'
- msgstr ''
- msgid 'Do you really want to remove this column restriction?'
- msgstr ''
- msgid 'Custom roles'
- msgstr ''
- msgid 'New custom project role'
- msgstr ''
- msgid 'Edit custom project role'
- msgstr ''
- msgid 'Remove a custom role'
- msgstr ''
- msgid 'Do you really want to remove this custom role: "%s"? All people assigned to this role will become project member.'
- msgstr ''
- msgid 'There is no custom role for this project.'
- msgstr ''
- msgid 'New project restriction for the role "%s"'
- msgstr ''
- msgid 'Restriction'
- msgstr ''
- msgid 'Remove a project restriction'
- msgstr ''
- msgid 'Do you really want to remove this project restriction: "%s"?'
- msgstr ''
- msgid 'Duplicate to multiple projects'
- msgstr ''
- msgid 'This field is required'
- msgstr ''
- msgid 'Moving a task is not permitted'
- msgstr ''
- msgid 'This value must be in the range %d to %d'
- msgstr ''
- msgid 'You are not allowed to move this task.'
- msgstr ''
- msgid 'API User Access'
- msgstr ''
- msgid 'Preview'
- msgstr ''
- msgid 'Write'
- msgstr ''
- msgid 'Write your text in Markdown'
- msgstr ''
- msgid 'No personal API access token registered.'
- msgstr ''
- msgid 'Your personal API access token is "%s"'
- msgstr ''
- msgid 'Remove your token'
- msgstr ''
- msgid 'Generate a new token'
- msgstr ''
- msgid 'Showing %d-%d of %d'
- msgstr ''
- msgid 'Outgoing Emails'
- msgstr ''
- msgid 'Add or change currency rate'
- msgstr ''
- msgid 'Reference currency: %s'
- msgstr ''
- msgid 'Add custom filters'
- msgstr ''
- msgid 'Export'
- msgstr ''
- msgid 'Add link label'
- msgstr ''
- msgid 'Incompatible Plugins'
- msgstr ''
- msgid 'Compatibility'
- msgstr ''
- msgid 'Permissions and ownership'
- msgstr ''
- msgid 'Priorities'
- msgstr ''
- msgid 'Close this window'
- msgstr ''
- msgid 'Unable to upload this file.'
- msgstr ''
- msgid 'Import tasks'
- msgstr ''
- msgid 'Choose a project'
- msgstr ''
- msgid 'Profile'
- msgstr ''
- msgid 'Application role'
- msgstr ''
- msgid '%d invitations were sent.'
- msgstr ''
- msgid '%d invitation was sent.'
- msgstr ''
- msgid 'Unable to create this user.'
- msgstr ''
- msgid 'Kanboard Invitation'
- msgstr ''
- msgid 'Visible on dashboard'
- msgstr ''
- msgid 'Created at:'
- msgstr ''
- msgid 'Updated at:'
- msgstr ''
- msgid 'There is no custom filter.'
- msgstr ''
- msgid 'New User'
- msgstr ''
- msgid 'Authentication'
- msgstr ''
- msgid 'If checked, this user will use a third-party system for authentication.'
- msgstr ''
- msgid 'The password is necessary only for local users.'
- msgstr ''
- msgid 'You have been invited to register on Kanboard.'
- msgstr ''
- msgid 'Click here to join your team'
- msgstr ''
- msgid 'Invite people'
- msgstr ''
- msgid 'Emails'
- msgstr ''
- msgid 'Enter one email address by line.'
- msgstr ''
- msgid 'Add these people to this project'
- msgstr ''
- msgid 'Add this person to this project'
- msgstr ''
- msgid 'Sign-up'
- msgstr ''
- msgid 'Credentials'
- msgstr ''
- msgid 'New user'
- msgstr ''
- msgid 'This username is already taken'
- msgstr ''
- msgid 'Your profile must have a valid email address.'
- msgstr ''
- msgid 'TRL - Turkish Lira'
- msgstr ''
- msgid 'The project email is optional and could be used by several plugins.'
- msgstr ''
- msgid 'The project email must be unique across all projects'
- msgstr ''
- msgid 'The email configuration has been disabled by the administrator.'
- msgstr ''
- msgid 'Close this project'
- msgstr ''
- msgid 'Open this project'
- msgstr ''
- msgid 'Close a project'
- msgstr ''
- msgid 'Do you really want to close this project: "%s"?'
- msgstr ''
- msgid 'Reopen a project'
- msgstr ''
- msgid 'Do you really want to reopen this project: "%s"?'
- msgstr ''
- msgid 'This project is open'
- msgstr ''
- msgid 'This project is closed'
- msgstr ''
- msgid 'Unable to upload files, check the permissions of your data folder.'
- msgstr ''
- msgid 'Another category with the same name exists in this project'
- msgstr ''
- msgid 'Comment sent by email successfully.'
- msgstr ''
- msgid 'Sent by email to "%s" (%s)'
- msgstr ''
- msgid 'Unable to read uploaded file.'
- msgstr ''
- msgid 'Database uploaded successfully.'
- msgstr ''
- msgid 'Task sent by email successfully.'
- msgstr ''
- msgid 'There is no category in this project.'
- msgstr ''
- msgid 'Send by email'
- msgstr ''
- msgid 'Create and send a comment by email'
- msgstr ''
- msgid 'Subject'
- msgstr ''
- msgid 'Upload the database'
- msgstr ''
- msgid 'You could upload the previously downloaded Sqlite database (Gzip format).'
- msgstr ''
- msgid 'Database file'
- msgstr ''
- msgid 'Upload'
- msgstr ''
- msgid 'Your project must have at least one active swimlane.'
- msgstr ''
- msgid 'Project: %s'
- msgstr ''
- msgid 'Automatic action not found: "%s"'
- msgstr ''
- msgid '%d projects'
- msgstr ''
- msgid '%d project'
- msgstr ''
- msgid 'There is no project.'
- msgstr ''
- msgid 'Sort'
- msgstr ''
- msgid 'Project ID'
- msgstr ''
- msgid 'Project name'
- msgstr ''
- msgid 'Public'
- msgstr ''
- msgid 'Personal'
- msgstr ''
- msgid '%d tasks'
- msgstr ''
- msgid '%d task'
- msgstr ''
- msgid 'Task ID'
- msgstr ''
- msgid 'Assign automatically a color when due date is expired'
- msgstr ''
- msgid 'Total score in this column across all swimlanes'
- msgstr ''
- msgid 'HRK - Kuna'
- msgstr ''
- msgid 'ARS - Argentine Peso'
- msgstr ''
- msgid 'COP - Colombian Peso'
- msgstr ''
- msgid '%d groups'
- msgstr ''
- msgid '%d group'
- msgstr ''
- msgid 'Group ID'
- msgstr ''
- msgid 'External ID'
- msgstr ''
- msgid '%d users'
- msgstr ''
- msgid '%d user'
- msgstr ''
- msgid 'Hide subtasks'
- msgstr ''
- msgid 'Show subtasks'
- msgstr ''
- msgid 'Authentication Parameters'
- msgstr ''
- msgid 'API Access'
- msgstr ''
- msgid 'No users found.'
- msgstr ''
- msgid 'User ID'
- msgstr ''
- msgid 'Notifications are activated'
- msgstr ''
- msgid 'Notifications are disabled'
- msgstr ''
- msgid 'User disabled'
- msgstr ''
- msgid '%d notifications'
- msgstr ''
- msgid '%d notification'
- msgstr ''
- msgid 'There is no external integration installed.'
- msgstr ''
- msgid 'You are not allowed to update tasks assigned to someone else.'
- msgstr ''
- msgid 'You are not allowed to change the assignee.'
- msgstr ''
- msgid 'Task suppression is not permitted'
- msgstr ''
- msgid 'Changing assignee is not permitted'
- msgstr ''
- msgid 'Update only assigned tasks is permitted'
- msgstr ''
- msgid 'Only for tasks assigned to the current user'
- msgstr ''
- msgid 'My projects'
- msgstr ''
- msgid 'You are not a member of any project.'
- msgstr ''
- msgid 'My subtasks'
- msgstr ''
- msgid '%d subtasks'
- msgstr ''
- msgid '%d subtask'
- msgstr ''
- msgid 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgstr ''
- msgid '[DUPLICATE]'
- msgstr ''
- msgid 'DKK - Danish Krona'
- msgstr ''
- msgid 'Remove user from group'
- msgstr ''
- msgid 'Assign the task to its creator'
- msgstr ''
- msgid 'This task was sent by email to "%s" with subject "%s".'
- msgstr ''
- msgid 'Predefined Email Subjects'
- msgstr ''
- msgid 'Write one subject by line.'
- msgstr ''
- msgid 'Create another link'
- msgstr ''
- msgid 'BRL - Brazilian Real'
- msgstr ''
- msgid 'Add a new Kanboard task'
- msgstr ''
- msgid 'Subtask not started'
- msgstr ''
- msgid 'Subtask currently in progress'
- msgstr ''
- msgid 'Subtask completed'
- msgstr ''
- msgid 'Subtask added successfully.'
- msgstr ''
- msgid '%d subtasks added successfully.'
- msgstr ''
- msgid 'Enter one subtask by line.'
- msgstr ''
- msgid 'Predefined Contents'
- msgstr ''
- msgid 'Predefined contents'
- msgstr ''
- msgid 'Predefined Task Description'
- msgstr ''
- msgid 'Do you really want to remove this template? "%s"'
- msgstr ''
- msgid 'Add predefined task description'
- msgstr ''
- msgid 'Predefined Task Descriptions'
- msgstr ''
- msgid 'Template created successfully.'
- msgstr ''
- msgid 'Unable to create this template.'
- msgstr ''
- msgid 'Template updated successfully.'
- msgstr ''
- msgid 'Unable to update this template.'
- msgstr ''
- msgid 'Template removed successfully.'
- msgstr ''
- msgid 'Unable to remove this template.'
- msgstr ''
- msgid 'Template for the task description'
- msgstr ''
- msgid 'The start date is greater than the end date'
- msgstr ''
- msgid 'Tags must be separated by a comma'
- msgstr ''
- msgid 'Only the task title is required'
- msgstr ''
- msgid 'Creator Username'
- msgstr ''
- msgid 'Color Name'
- msgstr ''
- msgid 'Column Name'
- msgstr ''
- msgid 'Swimlane Name'
- msgstr ''
- msgid 'Time Estimated'
- msgstr ''
- msgid 'Time Spent'
- msgstr ''
- msgid 'External Link'
- msgstr ''
- msgid 'This feature enables the iCal feed, RSS feed and the public board view.'
- msgstr ''
- msgid 'Stop the timer of all subtasks when moving a task to another column'
- msgstr ''
- msgid 'Subtask Title'
- msgstr ''
- msgid 'Add a subtask and activate the timer when moving a task to another column'
- msgstr ''
- msgid 'days'
- msgstr ''
- msgid 'minutes'
- msgstr ''
- msgid 'seconds'
- msgstr ''
- msgid 'Assign automatically a color when preset start date is reached'
- msgstr ''
- msgid 'Move the task to another column once a predefined start date is reached'
- msgstr ''
- msgid 'This task is now linked to the task %s with the relation "%s"'
- msgstr ''
- msgid 'The link with the relation "%s" to the task %s has been removed'
- msgstr ''
- msgid 'Custom Filter:'
- msgstr ''
- msgid 'Unable to find this group.'
- msgstr ''
- msgid '%s moved the task #%d to the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the position %d in the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the swimlane "%s"'
- msgstr ''
- msgid '%sh spent'
- msgstr ''
- msgid '%sh estimated'
- msgstr ''
- msgid 'Select All'
- msgstr ''
- msgid 'Unselect All'
- msgstr ''
- msgid 'Apply action'
- msgstr ''
- msgid 'Move selected tasks to another column or swimlane'
- msgstr ''
- msgid 'Edit tasks in bulk'
- msgstr ''
- msgid 'Choose the properties that you would like to change for the selected tasks.'
- msgstr ''
- msgid 'Configure this project'
- msgstr ''
- msgid 'Start now'
- msgstr ''
- msgid '%s removed a file from the task #%d'
- msgstr ''
- msgid 'Attachment removed from task #%d: %s'
- msgstr ''
- msgid 'No color'
- msgstr ''
- msgid 'Attachment removed "%s"'
- msgstr ''
- msgid '%s removed a file from the task %s'
- msgstr ''
- msgid 'Move the task to another swimlane when assigned to a user'
- msgstr ''
- msgid 'Destination swimlane'
- msgstr ''
- msgid 'Assign a category when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Move the task to another swimlane when the category is changed'
- msgstr ''
- msgid 'Reorder this column by priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee (A-Z)'
- msgstr ''
- msgid 'Reorder this column by assignee (Z-A)'
- msgstr ''
- msgid 'Reorder this column by due date (ASC)'
- msgstr ''
- msgid 'Reorder this column by due date (DESC)'
- msgstr ''
- msgid '%s moved the task #%d "%s" to the project "%s"'
- msgstr ''
- msgid 'Task #%d "%s" has been moved to the project "%s"'
- msgstr ''
- msgid 'Move the task to another column when the due date is less than a certain number of days'
- msgstr ''
- msgid 'Automatically update the start date when the task is moved away from a specific column'
- msgstr ''
- msgid 'HTTP Client:'
- msgstr ''
- msgid 'Assigned'
- msgstr ''
- msgid 'Task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied across swimlanes'
- msgstr ''
- msgid 'Task limit: '
- msgstr ''
- msgid 'Change to global tag'
- msgstr ''
- msgid 'Do you really want to make the tag "%s" global?'
- msgstr ''
- msgid 'Enable global tags for this project'
- msgstr ''
- msgid 'Group membership(s):'
- msgstr ''
- msgid '%s is a member of the following group(s): %s'
- msgstr ''
- msgid '%d/%d group(s) shown'
- msgstr ''
- msgid 'Subtask creation or modification'
- msgstr ''
- msgid 'Assign the task to a specific user when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Comment'
- msgstr ''
- msgid 'Collapse vertically'
- msgstr ''
- msgid 'Expand vertically'
- msgstr ''
- msgid 'MXN - Mexican Peso'
- msgstr ''
- msgid 'Estimated vs actual time per column'
- msgstr ''
- msgid 'HUF - Hungarian Forint'
- msgstr ''
- msgid 'XBT - Bitcoin'
- msgstr ''
- msgid 'You must select a file to upload as your avatar!'
- msgstr ''
- msgid 'The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)'
- msgstr ''
- msgid 'Automatically set the due date when the task is moved away from a specific column'
- msgstr ''
- msgid 'No other projects found.'
- msgstr ''
- msgid 'Please choose a project you want to copy the tasks from.'
- msgstr ''
- msgid 'Import Tasks'
- msgstr ''
- msgid 'Copy'
- msgstr ''
- msgid 'Tasks copied successfully.'
- msgstr ''
- msgid 'Unable to copy tasks.'
- msgstr ''
+msgid "number.decimals_separator"
+msgstr ""
+msgid "number.thousands_separator"
+msgstr ""
+msgid "None"
+msgstr "Ei mikään"
+msgid "Edit"
+msgstr "Muokkaa"
+msgid "Remove"
+msgstr "Poista"
+msgid "Yes"
+msgstr "Kyllä"
+msgid "No"
+msgstr "Ei"
+msgid "cancel"
+msgstr "peruuta"
+msgid "or"
+msgstr "tai"
+msgid "Yellow"
+msgstr "Keltainen"
+msgid "Blue"
+msgstr "Sininen"
+msgid "Green"
+msgstr "Vihreä"
+msgid "Purple"
+msgstr "Violetti"
+msgid "Red"
+msgstr "Punainen"
+msgid "Orange"
+msgstr "Oranssi"
+msgid "Grey"
+msgstr "Harmaa"
+msgid "Brown"
+msgstr ""
+msgid "Deep Orange"
+msgstr ""
+msgid "Dark Grey"
+msgstr ""
+msgid "Pink"
+msgstr ""
+msgid "Teal"
+msgstr ""
+msgid "Cyan"
+msgstr ""
+msgid "Lime"
+msgstr ""
+msgid "Light Green"
+msgstr ""
+msgid "Amber"
+msgstr ""
+msgid "Save"
+msgstr "Tallenna"
+msgid "Login"
+msgstr "Sisäänkirjautuminen"
+msgid "Official website:"
+msgstr "Virallinen verkkosivu:"
+msgid "Unassigned"
+msgstr "Ei suorittajaa"
+msgid "View this task"
+msgstr "Näytä tämä tehtävä"
+msgid "Remove user"
+msgstr "Poista käyttäjä"
+msgid "Do you really want to remove this user: \"%s\"?"
+msgstr "Oletko varma että haluat poistaa käyttäjän \"%s\"?"
+msgid "All users"
+msgstr "Kaikki käyttäjät"
+msgid "Username"
+msgstr "Käyttäjänimi"
+msgid "Password"
+msgstr "Salasana"
+msgid "Administrator"
+msgstr "Ylläpitäjä"
+msgid "Sign in"
+msgstr "Kirjaudu sisään"
+msgid "Users"
+msgstr "Käyttäjät"
+msgid "Forbidden"
+msgstr "Estetty"
+msgid "Access Forbidden"
+msgstr "Pääsy estetty"
+msgid "Edit user"
+msgstr "Muokkaa käyttäjää"
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+msgid "Bad username or password"
+msgstr "Väärä käyttäjätunnus tai salasana"
+msgid "Edit project"
+msgstr "Muokkaa projektia"
+msgid "Name"
+msgstr "Nimi"
+msgid "Projects"
+msgstr "Projektit"
+msgid "No project"
+msgstr "Ei projektia"
+msgid "Project"
+msgstr "Projekti"
+msgid "Status"
+msgstr "Status"
+msgid "Tasks"
+msgstr "Tehtävät"
+msgid "Board"
+msgstr "Taulu"
+msgid "Actions"
+msgstr "Toiminnot"
+msgid "Inactive"
+msgstr "Ei aktiivinen"
+msgid "Active"
+msgstr "Aktiivinen"
+msgid "Unable to update this board."
+msgstr "Taulun muuttaminen ei onnistunut."
+msgid "Disable"
+msgstr "Disabloi"
+msgid "Enable"
+msgstr "Aktivoi"
+msgid "New project"
+msgstr "Uusi projekti"
+msgid "Do you really want to remove this project: \"%s\"?"
+msgstr "Haluatko varmasti poistaa projektin: \"%s\"?"
+msgid "Remove project"
+msgstr "Poista projekti"
+msgid "Edit the board for \"%s\""
+msgstr "Muokkaa taulua projektille \"%s\""
+msgid "Add a new column"
+msgstr "Lisää uusi sarake"
+msgid "Title"
+msgstr "Nimi"
+msgid "Assigned to %s"
+msgstr "Tekijä: %s"
+msgid "Remove a column"
+msgstr "Poista sarake"
+msgid "Unable to remove this column."
+msgstr "Sarakkeen poistaminen ei onnistunut."
+msgid "Do you really want to remove this column: \"%s\"?"
+msgstr "Haluatko varmasti poistaa sarakkeen \"%s\"?"
+msgid "Settings"
+msgstr "Asetukset"
+msgid "Application settings"
+msgstr "Ohjelman asetukset"
+msgid "Language"
+msgstr "Kieli"
+msgid "Webhook token:"
+msgstr "Webhooks avain:"
+msgid "API token:"
+msgstr ""
+msgid "Database size:"
+msgstr "Tietokannan koko:"
+msgid "Download the database"
+msgstr "Lataa tietokanta"
+msgid "Optimize the database"
+msgstr "Optimoi tietokanta"
+msgid "(VACUUM command)"
+msgstr "(VACUUM-komento)"
+msgid "(Gzip compressed Sqlite file)"
+msgstr "(Gzip-pakattu Sqlite-tiedosto)"
+msgid "Close a task"
+msgstr "Sulje tehtävä"
+msgid "Column"
+msgstr "Sarake"
+msgid "Color"
+msgstr "Väri"
+msgid "Assignee"
+msgstr "Suorittaja"
+msgid "Create another task"
+msgstr "Luo toinen tehtävä"
+msgid "New task"
+msgstr "Uusi tehtävä"
+msgid "Open a task"
+msgstr "Avaa tehtävä"
+msgid "Do you really want to open this task: \"%s\"?"
+msgstr "Haluatko varmasti avata tehtävän: \"%s\"?"
+msgid "Back to the board"
+msgstr "Takaisin tauluun"
+msgid "There is nobody assigned"
+msgstr "Ei suorittajaa"
+msgid "Column on the board:"
+msgstr "Sarake taululla: "
+msgid "Close this task"
+msgstr "Sulje tämä tehtävä"
+msgid "Open this task"
+msgstr "Avaa tämä tehtävä"
+msgid "There is no description."
+msgstr "Ei kuvausta."
+msgid "Add a new task"
+msgstr "Lisää uusi tehtävä"
+msgid "The username is required"
+msgstr "Käyttäjätunnut vaaditaan"
+msgid "The maximum length is %d characters"
+msgstr "Maksimipituus on %d merkkiä"
+msgid "The minimum length is %d characters"
+msgstr "Vähimmäispituus on %d merkkiä"
+msgid "The password is required"
+msgstr "Salasana vaaditaan"
+msgid "This value must be an integer"
+msgstr "Tämän arvon täytyy olla numero"
+msgid "The username must be unique"
+msgstr "Käyttäjänimi täytyy olla uniikki"
+msgid "The user id is required"
+msgstr "Käyttäjän id on pakollinen"
+msgid "Passwords don't match"
+msgstr ""
+msgid "The confirmation is required"
+msgstr "Varmistus vaaditaan"
+msgid "The project is required"
+msgstr "Projekti on pakollinen"
+msgid "The id is required"
+msgstr "ID vaaditaan"
+msgid "The project id is required"
+msgstr "Projektin ID on pakollinen"
+msgid "The project name is required"
+msgstr "Projektin nimi on pakollinen"
+msgid "The title is required"
+msgstr "Otsikko vaaditaan"
+msgid "Settings saved successfully."
+msgstr "Asetukset tallennettu onnistuneesti."
+msgid "Unable to save your settings."
+msgstr "Asetusten tallentaminen epäonnistui."
+msgid "Database optimization done."
+msgstr "Tietokannan optimointi suoritettu."
+msgid "Your project has been created successfully."
+msgstr "Projekti luotiin onnistuneesti."
+msgid "Unable to create your project."
+msgstr "Projektin luominen epäonnistui."
+msgid "Project updated successfully."
+msgstr "Projekti päivitettiin onnistuneesti."
+msgid "Unable to update this project."
+msgstr "Projektin muuttaminen epäonnistui."
+msgid "Unable to remove this project."
+msgstr "Projektin poistaminen epäonnistui."
+msgid "Project removed successfully."
+msgstr "Projekti poistettiin onnistuneesti."
+msgid "Project activated successfully."
+msgstr "Projekti aktivoitiin onnistuneesti."
+msgid "Unable to activate this project."
+msgstr "Projektin aktivoiminen epäonnistui."
+msgid "Project disabled successfully."
+msgstr "Projektin disabloiminen onnistui."
+msgid "Unable to disable this project."
+msgstr "Projektin disabloiminen epäonnistui."
+msgid "Unable to open this task."
+msgstr "Tehtävän avaus epäonnistui."
+msgid "Task opened successfully."
+msgstr "Tehtävä avattiin onnistuneesti."
+msgid "Unable to close this task."
+msgstr "Tehtävän sulkeminen epäonnistui."
+msgid "Task closed successfully."
+msgstr "Tehtävä suljettiin onnistuneesti."
+msgid "Unable to update your task."
+msgstr "Tehtävän muokkaaminen epäonnistui."
+msgid "Task updated successfully."
+msgstr "Tehtävä päivitettiin onnistuneesti."
+msgid "Unable to create your task."
+msgstr "Tehtävän luominen epäonnistui."
+msgid "Task created successfully."
+msgstr "Tehtävä luotiin onnistuneesti."
+msgid "User created successfully."
+msgstr "Käyttäjä lisättiin onnistuneesti."
+msgid "Unable to create your user."
+msgstr "Käyttäjän lisäys epäonnistui."
+msgid "User updated successfully."
+msgstr "Käyttäjätietojen päivitys onnistui."
+msgid "User removed successfully."
+msgstr "Käyttäjä poistettiin onnistuneesti."
+msgid "Unable to remove this user."
+msgstr "Käyttäjän poistaminen epäonnistui."
+msgid "Board updated successfully."
+msgstr "Taulu päivitettiin onnistuneesti."
+msgid "Ready"
+msgstr "Valmis"
+msgid "Backlog"
+msgstr "Tehtäväjono"
+msgid "Work in progress"
+msgstr "Työnalla"
+msgid "Done"
+msgstr "Tehty"
+msgid "Application version:"
+msgstr "Ohjelman versio:"
+msgid "Id"
+msgstr "Id"
+msgid "Public link"
+msgstr "Julkinen linkki"
+msgid "Timezone"
+msgstr "Aikavyöhyke"
+msgid "Sorry, I didn't find this information in my database!"
+msgstr "Anteeksi, en löytänyt tätä tietoa tietokannastani"
+msgid "Page not found"
+msgstr "Sivua ei löydy"
+msgid "Complexity"
+msgstr "Monimutkaisuus"
+msgid "Task limit"
+msgstr "Tehtävien maksimimäärä"
+msgid "Task count"
+msgstr "Tehtävien määrä"
+msgid "User"
+msgstr "Käyttäjät"
+msgid "Comments"
+msgstr "Kommentit"
+msgid "Comment is required"
+msgstr "Kommentti vaaditaan"
+msgid "Comment added successfully."
+msgstr "Kommentti lisättiin onnistuneesti."
+msgid "Unable to create your comment."
+msgstr "Kommentin lisäys epäonnistui."
+msgid "Due Date"
+msgstr "Deadline"
+msgid "Invalid date"
+msgstr "Virheellinen päiväys"
+msgid "Automatic actions"
+msgstr "Automaattiset toiminnot"
+msgid "Your automatic action has been created successfully."
+msgstr "Toiminto suoritettiin onnistuneesti."
+msgid "Unable to create your automatic action."
+msgstr "Automaattisen toiminnon luominen epäonnistui."
+msgid "Remove an action"
+msgstr "Poista toiminto"
+msgid "Unable to remove this action."
+msgstr "Toiminnon poistaminen epäonnistui."
+msgid "Action removed successfully."
+msgstr "Toiminto poistettiin onnistuneesti."
+msgid "Automatic actions for the project \"%s\""
+msgstr "Automaattiset toiminnot projektille \"%s\""
+msgid "Add an action"
+msgstr ""
+msgid "Event name"
+msgstr "Tapahtuman nimi"
+msgid "Action"
+msgstr "Toiminto"
+msgid "Event"
+msgstr "Tapahtuma"
+msgid "When the selected event occurs execute the corresponding action."
+msgstr "Kun valittu tapahtuma tapahtuu, suorita vastaava toiminto."
+msgid "Next step"
+msgstr "Seuraava vaihe"
+msgid "Define action parameters"
+msgstr "Määrittele toiminnon parametrit"
+msgid "Do you really want to remove this action: \"%s\"?"
+msgstr "Oletko varma että haluat poistaa toiminnon \"%s\"?"
+msgid "Remove an automatic action"
+msgstr "Poista automaattintn toiminto"
+msgid "Assign the task to a specific user"
+msgstr "Osoita tehtävä käyttäjälle"
+msgid "Assign the task to the person who does the action"
+msgstr "Määritä suorittaja tehtävälle"
+msgid "Duplicate the task to another project"
+msgstr "Monista tehtävä toiselle projektille"
+msgid "Move a task to another column"
+msgstr "Siirrä tehtävä toiseen sarakkeeseen"
+msgid "Task modification"
+msgstr "Tehtävän muokkaus"
+msgid "Task creation"
+msgstr "Tehtävän luominen"
+msgid "Closing a task"
+msgstr "Tehtävää suljetaan"
+msgid "Assign a color to a specific user"
+msgstr "Valitse väri käyttäjälle"
+msgid "Position"
+msgstr "Positio"
+msgid "Duplicate to project"
+msgstr "Kopioi toiseen projektiin"
+msgid "Duplicate"
+msgstr "Monista"
+msgid "Link"
+msgstr "Linkki"
+msgid "Comment updated successfully."
+msgstr "Kommentti päivitettiin onnistuneesti."
+msgid "Unable to update your comment."
+msgstr "Kommentin päivitys epäonnistui."
+msgid "Remove a comment"
+msgstr "Poista kommentti"
+msgid "Comment removed successfully."
+msgstr "Kommentti poistettiin onnistuneesti."
+msgid "Unable to remove this comment."
+msgstr "Kommentin poistaminen epäonnistui."
+msgid "Do you really want to remove this comment?"
+msgstr "Haluatko varmasti poistaa tämän kommentin?"
+msgid "Current password for the user \"%s\""
+msgstr "Käyttäjän \"%s\" salasana"
+msgid "The current password is required"
+msgstr "Salasana vaaditaan"
+msgid "Wrong password"
+msgstr "Väärä salasana"
+msgid "Unknown"
+msgstr "Tuntematon"
+msgid "Last logins"
+msgstr "Viimeisimmät kirjautumiset"
+msgid "Login date"
+msgstr "Kirjautumispäivä"
+msgid "Authentication method"
+msgstr "Autentikointimenetelmä"
+msgid "IP address"
+msgstr "IP-Osoite"
+msgid "User agent"
+msgstr "Selain"
+msgid "Persistent connections"
+msgstr "Voimassa olevat yhteydet"
+msgid "No session."
+msgstr "Ei sessioita."
+msgid "Expiration date"
+msgstr "Vanhentumispäivä"
+msgid "Remember Me"
+msgstr "Muista minut"
+msgid "Creation date"
+msgstr "Luomispäivä"
+msgid "Everybody"
+msgstr "Kaikki"
+msgid "Open"
+msgstr "Avoin"
+msgid "Closed"
+msgstr "Suljettu"
+msgid "Search"
+msgstr "Etsi"
+msgid "Nothing found."
+msgstr "Ei löytynyt."
+msgid "Due date"
+msgstr "Deadline"
+msgid "Description"
+msgstr "Kuvaus"
+msgid "%d comments"
+msgstr "%d kommenttia"
+msgid "%d comment"
+msgstr "%d kommentti"
+msgid "Email address invalid"
+msgstr "Email ei kelpaa"
+msgid "Your external account is not linked anymore to your profile."
+msgstr ""
+msgid "Unable to unlink your external account."
+msgstr ""
+msgid "External authentication failed"
+msgstr ""
+msgid "Your external account is linked to your profile successfully."
+msgstr ""
+msgid "Email"
+msgstr "Sähköposti"
+msgid "Task removed successfully."
+msgstr "Tehtävä poistettiin onnistuneesti."
+msgid "Unable to remove this task."
+msgstr "Tehtävän poistaminen epäonnistui."
+msgid "Remove a task"
+msgstr "Poista tehtävä"
+msgid "Do you really want to remove this task: \"%s\"?"
+msgstr "Haluatko varmasti poistaa tehtävän: \"%s\"?"
+msgid "Assign automatically a color based on a category"
+msgstr "Aseta väri automaattisesti kategorian mukaan"
+msgid "Assign automatically a category based on a color"
+msgstr "Aseta kategoria automaattisesti värin mukaan"
+msgid "Task creation or modification"
+msgstr "Tehtävän luonti tai muuttaminen"
+msgid "Category"
+msgstr "Kategoria"
+msgid "Category:"
+msgstr "Kategoria:"
+msgid "Categories"
+msgstr "Kategoriat"
+msgid "Your category has been created successfully."
+msgstr "Kategoria luotiin onnistuneesti."
+msgid "This category has been updated successfully."
+msgstr "Kategoriaa muokattiin onnistuneesti."
+msgid "Unable to update this category."
+msgstr "Kategorian muokkaaminen epäonnistui."
+msgid "Remove a category"
+msgstr "Poista kategoria"
+msgid "Category removed successfully."
+msgstr "Kategoria poistettu onnistuneesti."
+msgid "Unable to remove this category."
+msgstr "Kategorian poisto epäonnistui."
+msgid "Category modification for the project \"%s\""
+msgstr "Kategorian muutos projektissa \"%s\""
+msgid "Category Name"
+msgstr "Kategorian nimi"
+msgid "Add a new category"
+msgstr "Lisää uusi kategoria"
+msgid "Do you really want to remove this category: \"%s\"?"
+msgstr "Haluatko varmasti poistaa kategorian: \"%s\"?"
+msgid "All categories"
+msgstr "Kaikki kategoriat"
+msgid "No category"
+msgstr "Kategoriaa ei löydy"
+msgid "The name is required"
+msgstr "Nimi vaaditaan"
+msgid "Remove a file"
+msgstr "Poista tiedosto"
+msgid "Unable to remove this file."
+msgstr "Tiedoston poistaminen epäonnistui."
+msgid "File removed successfully."
+msgstr "Tiedosto poistettiin onnistuneesti."
+msgid "Attach a document"
+msgstr "Liitä dokumentti"
+msgid "Do you really want to remove this file: \"%s\"?"
+msgstr "Haluatko varmasti poistaa tiedoston: \"%s\"?"
+msgid "Attachments"
+msgstr "Liitteet"
+msgid "Edit the task"
+msgstr "Muokkaa tehtävää"
+msgid "Add a comment"
+msgstr "Lisää kommentti"
+msgid "Edit a comment"
+msgstr "Muokkaa kommenttia"
+msgid "Summary"
+msgstr "Yhteenveto"
+msgid "Time tracking"
+msgstr "Ajan seuranta"
+msgid "Estimate:"
+msgstr "Arvio:"
+msgid "Spent:"
+msgstr "Käytetty:"
+msgid "Do you really want to remove this sub-task?"
+msgstr "Haluatko varmasti poistaa tämän alitehtävän?"
+msgid "Remaining:"
+msgstr "Jäljellä"
+msgid "hours"
+msgstr "tuntia"
+msgid "estimated"
+msgstr "estimoitu"
+msgid "Sub-Tasks"
+msgstr "Alitehtävät"
+msgid "Add a sub-task"
+msgstr "Lisää alitehtävä"
+msgid "Original estimate"
+msgstr "Alkuperäinen estimaatti"
+msgid "Create another sub-task"
+msgstr "Lisää toinen alitehtävä"
+msgid "Time spent"
+msgstr "Käytetty aika"
+msgid "Edit a sub-task"
+msgstr "Muokkaa alitehtävää"
+msgid "Remove a sub-task"
+msgstr "Poista alitehtävä"
+msgid "The time must be a numeric value"
+msgstr "Ajan pitää olla numero"
+msgid "Todo"
+msgstr "Todo"
+msgid "In progress"
+msgstr "Työnalla"
+msgid "Sub-task removed successfully."
+msgstr "Alitehtävä poistettu onnistuneesti."
+msgid "Unable to remove this sub-task."
+msgstr "Alitehtävän poistaminen epäonnistui."
+msgid "Sub-task updated successfully."
+msgstr "Alitehtävä päivitettiin onnistuneesti."
+msgid "Unable to update your sub-task."
+msgstr "Alitehtävän päivitys epäonnistui."
+msgid "Unable to create your sub-task."
+msgstr "Alitehtävän luonti epäonnistui."
+msgid "Maximum size: "
+msgstr "Maksimikoko: "
+msgid "Display another project"
+msgstr "Näytä toinen projekti"
+msgid "Created by %s"
+msgstr "Luonut: %s"
+msgid "Tasks Export"
+msgstr "Tehtävien vienti"
+msgid "Start Date"
+msgstr "Aloituspäivä"
+msgid "Execute"
+msgstr "Suorita"
+msgid "Task Id"
+msgstr "Tehtävän ID"
+msgid "Creator"
+msgstr "Luonut"
+msgid "Modification date"
+msgstr "Muokkauspäivä"
+msgid "Completion date"
+msgstr "Valmistumispäivä"
+msgid "Clone"
+msgstr "Kahdenna"
+msgid "Project cloned successfully."
+msgstr "Projekti kahdennettu onnistuneesti"
+msgid "Unable to clone this project."
+msgstr "Projektin kahdennus epäonnistui"
+msgid "Enable email notifications"
+msgstr "Ota käyttöön sähköposti-ilmoitukset"
+msgid "Task position:"
+msgstr "Tehtävän sijainti"
+msgid "The task #%d has been opened."
+msgstr "Tehtävä #%d on avattu"
+msgid "The task #%d has been closed."
+msgstr "Tehtävä #%d on suljettu"
+msgid "Sub-task updated"
+msgstr "Alitehtävä päivitetty"
+msgid "Title:"
+msgstr "Otsikko:"
+msgid "Status:"
+msgstr "Tila:"
+msgid "Assignee:"
+msgstr "Vastaanottaja:"
+msgid "Time tracking:"
+msgstr "Ajan seuranta:"
+msgid "New sub-task"
+msgstr "Uusi alitehtävä"
+msgid "New attachment added \"%s\""
+msgstr "Uusi liite lisätty \"%s\""
+msgid "New comment posted by %s"
+msgstr "%s lisäsi uuden kommentin"
+msgid "New comment"
+msgstr ""
+msgid "Comment updated"
+msgstr "Kommentti päivitetty"
+msgid "New subtask"
+msgstr ""
+msgid "I only want to receive notifications for these projects:"
+msgstr "Haluan vastaanottaa ilmoituksia ainoastaan näistä projekteista:"
+msgid "view the task on Kanboard"
+msgstr "katso tehtävää Kanboardissa"
+msgid "Public access"
+msgstr "Julkinen käyttöoikeus"
+msgid "Disable public access"
+msgstr "Poista käytöstä julkinen käyttöoikeus"
+msgid "Enable public access"
+msgstr "Ota käyttöön "
+msgid "Public access disabled"
+msgstr "Julkinen käyttöoikeus ei ole käytössä"
+msgid "Move the task to another project"
+msgstr "Siirrä tehtävä toiseen projektiin"
+msgid "Move to project"
+msgstr "Siirrä toiseen projektiin"
+msgid "Do you really want to duplicate this task?"
+msgstr "Haluatko varmasti kahdentaa tämän tehtävän?"
+msgid "Duplicate a task"
+msgstr "Kahdenna tehtävä"
+msgid "External accounts"
+msgstr "Muut tilit"
+msgid "Account type"
+msgstr "Tilin tyyppi"
+msgid "Local"
+msgstr "Paikallinen"
+msgid "Remote"
+msgstr "Etä"
+msgid "Enabled"
+msgstr "Käytössä"
+msgid "Disabled"
+msgstr "Pois käytöstä"
+msgid "Login:"
+msgstr "Käyttäjänimi:"
+msgid "Full Name:"
+msgstr "Nimi:"
+msgid "Email:"
+msgstr "Sähköpostiosoite:"
+msgid "Notifications:"
+msgstr "Ilmoitukset:"
+msgid "Notifications"
+msgstr "Ilmoitukset"
+msgid "Account type:"
+msgstr "Tilin tyyppi:"
+msgid "Edit profile"
+msgstr "Muokkaa profiilia"
+msgid "Change password"
+msgstr "Vaihda salasana"
+msgid "Password modification"
+msgstr "Salasanan vaihto"
+msgid "External authentications"
+msgstr "Muut tunnistautumistavat"
+msgid "Never connected."
+msgstr "Ei koskaan liitetty."
+msgid "No external authentication enabled."
+msgstr "Muita tunnistautumistapoja ei ole otettu käyttöön."
+msgid "Password modified successfully."
+msgstr "Salasana vaihdettu onnistuneesti."
+msgid "Unable to change the password."
+msgstr "Salasanan vaihto epäonnistui."
+msgid "Change category"
+msgstr "Vaihda kategoria"
+msgid "%s updated the task %s"
+msgstr "%s päivitti tehtävän %s"
+msgid "%s opened the task %s"
+msgstr "%s avasi tehtävän %s"
+msgid "%s moved the task %s to the position #%d in the column \"%s\""
+msgstr "%s siirsi tehtävän %s %d. sarakkeessa \"%s\""
+msgid "%s moved the task %s to the column \"%s\""
+msgstr "%s siirsi tehtävän %s sarakkeeseen \"%s\""
+msgid "%s created the task %s"
+msgstr "%s loi tehtävän %s"
+msgid "%s closed the task %s"
+msgstr "%s sulki tehtävän %s"
+msgid "%s created a subtask for the task %s"
+msgstr "%s loi alitehtävän tehtävälle %s"
+msgid "%s updated a subtask for the task %s"
+msgstr "%s päivitti tehtävän %s alitehtävää"
+msgid "Assigned to %s with an estimate of %s/%sh"
+msgstr "Annettu henkilölle %s arviolla %s/%sh"
+msgid "Not assigned, estimate of %sh"
+msgstr "Ei annettu kenellekään, arvio %sh"
+msgid "%s updated a comment on the task %s"
+msgstr "%s päivitti kommentia tehtävässä %s"
+msgid "%s commented the task %s"
+msgstr "%s kommentoi tehtävää %s"
+msgid "%s's activity"
+msgstr "Henkilön %s toiminta"
+msgid "RSS feed"
+msgstr "RSS-syöte"
+msgid "%s updated a comment on the task #%d"
+msgstr "%s päivitti kommenttia tehtävässä #%d"
+msgid "%s commented on the task #%d"
+msgstr "%s kommentoi tehtävää #%d"
+msgid "%s updated a subtask for the task #%d"
+msgstr "%s päivitti tehtävän #%d alitehtävää"
+msgid "%s created a subtask for the task #%d"
+msgstr "%s loi alitehtävän tehtävälle #%d"
+msgid "%s updated the task #%d"
+msgstr "%s päivitti tehtävää #%d"
+msgid "%s created the task #%d"
+msgstr "%s loi tehtävän #%d"
+msgid "%s closed the task #%d"
+msgstr "%s sulki tehtävän #%d"
+msgid "%s opened the task #%d"
+msgstr "%s avasi tehtävän #%d"
+msgid "Activity"
+msgstr "Toiminta"
+msgid "Default values are \"%s\""
+msgstr "Oletusarvot ovat \"%s\""
+msgid "Default columns for new projects (Comma-separated)"
+msgstr "Oletussarakkeet uusille projekteille"
+msgid "Task assignee change"
+msgstr "Tehtävän saajan vaihto"
+msgid "%s changed the assignee of the task #%d to %s"
+msgstr "%s vaihtoi tehtävän #%d saajaksi %s"
+msgid "%s changed the assignee of the task %s to %s"
+msgstr "%s vaihtoi tehtävän %s saajaksi %s"
+msgid "New password for the user \"%s\""
+msgstr "Uusi salasana käyttäjälle \"%s\""
+msgid "Choose an event"
+msgstr "Valitse toiminta"
+msgid "Create a task from an external provider"
+msgstr "Luo tehtävä ulkoiselta tarjoajalta"
+msgid "Change the assignee based on an external username"
+msgstr "Vaihda tehtävän saajaa perustuen ulkoiseen käyttäjänimeen"
+msgid "Change the category based on an external label"
+msgstr "Vaihda kategoriaa perustuen ulkoiseen labeliin"
+msgid "Reference"
+msgstr "Viite"
+msgid "Label"
+msgstr "Label"
+msgid "Database"
+msgstr "Tietokanta"
+msgid "About"
+msgstr "Tietoja"
+msgid "Database driver:"
+msgstr "Tietokantaohjelmisto:"
+msgid "Board settings"
+msgstr "Taulun asetukset"
+msgid "Webhook settings"
+msgstr "Webhookin asetukset"
+msgid "Reset token"
+msgstr "Vaihda token"
+msgid "API endpoint:"
+msgstr "API päätepiste:"
+msgid "Refresh interval for personal board"
+msgstr "Päivitystiheys yksityisille tauluille"
+msgid "Refresh interval for public board"
+msgstr "Päivitystiheys julkisille tauluille"
+msgid "Task highlight period"
+msgstr "Tehtävän korostusaika"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Aika (sekunteina) kuinka kauan tehtävä voidaan katsoa äskettäin muokatuksi (0 poistaa toiminnon käytöstä, oletuksena 2 päivää)"
+msgid "Frequency in second (60 seconds by default)"
+msgstr "Päivitystiheys sekunteina (60 sekuntia oletuksena)"
+msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
+msgstr "Päivitystiheys sekunteina (0 poistaa toiminnon käytöstä, oletuksena 10 sekuntia)"
+msgid "Application URL"
+msgstr "Sovelluksen URL"
+msgid "Token regenerated."
+msgstr "Token uudelleenluotu."
+msgid "Date format"
+msgstr "Päiväyksen muoto"
+msgid "ISO format is always accepted, example: \"%s\" and \"%s\""
+msgstr "ISO-muoto on aina hyväksytty, esimerkiksi %s ja %s"
+msgid "New personal project"
+msgstr "Uusi henkilökohtainen projekti"
+msgid "This project is personal"
+msgstr "Tämä projekti on henkilökohtainen"
+msgid "Add"
+msgstr "Lisää"
+msgid "Start date"
+msgstr "Aloituspäivä"
+msgid "Time estimated"
+msgstr "Arvioitu aika"
+msgid "There is nothing assigned to you."
+msgstr "Ei tehtäviä, joihin sinut olisi merkitty tekijäksi."
+msgid "My tasks"
+msgstr "Minun tehtävät"
+msgid "Activity stream"
+msgstr "Toiminta"
+msgid "Dashboard"
+msgstr "Työpöytä"
+msgid "Confirmation"
+msgstr "Vahvistus"
+msgid "Webhooks"
+msgstr ""
+msgid "API"
+msgstr ""
+msgid "Create a comment from an external provider"
+msgstr ""
+msgid "Project management"
+msgstr "Projektin hallinta"
+msgid "Columns"
+msgstr "Sarakkeet"
+msgid "Task"
+msgstr "Tehtävät"
+msgid "Percentage"
+msgstr "Prosentti"
+msgid "Number of tasks"
+msgstr "Tehtävien määrä"
+msgid "Task distribution"
+msgstr "Tehtävien jakauma"
+msgid "Analytics"
+msgstr "Analytiikka"
+msgid "Subtask"
+msgstr "Alitehtävä"
+msgid "User repartition"
+msgstr ""
+msgid "Clone this project"
+msgstr "Kahdenna projekti"
+msgid "Column removed successfully."
+msgstr "Sarake poistettu onnstuneesti."
+msgid "Not enough data to show the graph."
+msgstr "Ei riittävästi dataa graafin näyttämiseksi."
+msgid "Previous"
+msgstr "Edellinen"
+msgid "The id must be an integer"
+msgstr "ID:n on oltava kokonaisluku"
+msgid "The project id must be an integer"
+msgstr "Projektin ID:n on oltava kokonaisluku"
+msgid "The status must be an integer"
+msgstr "Tilan on oltava kokonaisluku"
+msgid "The subtask id is required"
+msgstr "Alitehtävän ID vaaditaan"
+msgid "The subtask id must be an integer"
+msgstr "Alitehtävän ID:ntulee olla kokonaisluku"
+msgid "The task id is required"
+msgstr "Tehtävän ID vaaditaan"
+msgid "The task id must be an integer"
+msgstr "Tehtävän ID on oltava kokonaisluku"
+msgid "The user id must be an integer"
+msgstr "Käyttäjän ID on oltava kokonaisluku"
+msgid "This value is required"
+msgstr "Tämä arvo on pakollinen"
+msgid "This value must be numeric"
+msgstr "Tämän arvon tulee olla numeerinen"
+msgid "Unable to create this task."
+msgstr "Tehtävän luonti epäonnistui"
+msgid "Cumulative flow diagram"
+msgstr "Kumulatiivinen vuokaavio"
+msgid "Daily project summary"
+msgstr "Päivittäinen yhteenveto"
+msgid "Daily project summary export"
+msgstr "Päivittäisen yhteenvedon vienti"
+msgid "Exports"
+msgstr "Viennit"
+msgid "This export contains the number of tasks per column grouped per day."
+msgstr "Tämä tiedosto sisältää tehtäviä sarakkeisiin päiväkohtaisesti ryhmilteltyinä"
+msgid "Active swimlanes"
+msgstr "Aktiiviset kaistat"
+msgid "Add a new swimlane"
+msgstr "Lisää uusi kaista"
+msgid "Default swimlane"
+msgstr "Oletuskaista"
+msgid "Do you really want to remove this swimlane: \"%s\"?"
+msgstr "Haluatko varmasti poistaa tämän kaistan: \"%s\"?"
+msgid "Inactive swimlanes"
+msgstr "Passiiviset kaistat"
+msgid "Remove a swimlane"
+msgstr "Poista kaista"
+msgid "Swimlane modification for the project \"%s\""
+msgstr "Kaistamuutos projektille \"%s\""
+msgid "Swimlane removed successfully."
+msgstr "Kaista poistettu onnistuneesti."
+msgid "Swimlanes"
+msgstr "Kaistat"
+msgid "Swimlane updated successfully."
+msgstr "Kaista päivitetty onnistuneesti."
+msgid "Unable to remove this swimlane."
+msgstr "Kaistan poisto epäonnistui."
+msgid "Unable to update this swimlane."
+msgstr "Kaistan päivittäminen epäonnistui."
+msgid "Your swimlane has been created successfully."
+msgstr "Kaista luotu onnistuneesti."
+msgid "Example: \"Bug, Feature Request, Improvement\""
+msgstr "Esimerkiksi: "Bugit, Ominaisuuspyynnöt, Parannukset""
+msgid "Default categories for new projects (Comma-separated)"
+msgstr "Oletuskategoriat uusille projekteille (pilkuin eroteltu)"
+msgid "Integrations"
+msgstr ""
+msgid "Integration with third-party services"
+msgstr ""
+msgid "Subtask Id"
+msgstr ""
+msgid "Subtasks"
+msgstr ""
+msgid "Subtasks Export"
+msgstr ""
+msgid "Task Title"
+msgstr ""
+msgid "Untitled"
+msgstr ""
+msgid "Application default"
+msgstr ""
+msgid "Language:"
+msgstr ""
+msgid "Timezone:"
+msgstr ""
+msgid "All columns"
+msgstr ""
+msgid "Next"
+msgstr ""
+msgid "#%d"
+msgstr ""
+msgid "All swimlanes"
+msgstr ""
+msgid "All colors"
+msgstr ""
+msgid "Moved to column %s"
+msgstr ""
+msgid "User dashboard"
+msgstr ""
+msgid "Allow only one subtask in progress at the same time for a user"
+msgstr ""
+msgid "Edit column \"%s\""
+msgstr ""
+msgid "Select the new status of the subtask: \"%s\""
+msgstr ""
+msgid "Subtask timesheet"
+msgstr ""
+msgid "There is nothing to show."
+msgstr ""
+msgid "Time Tracking"
+msgstr ""
+msgid "You already have one subtask in progress"
+msgstr ""
+msgid "Which parts of the project do you want to duplicate?"
+msgstr ""
+msgid "Disallow login form"
+msgstr ""
+msgid "Start"
+msgstr ""
+msgid "End"
+msgstr ""
+msgid "Task age in days"
+msgstr ""
+msgid "Days in this column"
+msgstr ""
+msgid "%dd"
+msgstr ""
+msgid "Add a new link"
+msgstr ""
+msgid "Do you really want to remove this link: \"%s\"?"
+msgstr ""
+msgid "Do you really want to remove this link with task #%d?"
+msgstr ""
+msgid "Field required"
+msgstr ""
+msgid "Link added successfully."
+msgstr ""
+msgid "Link updated successfully."
+msgstr ""
+msgid "Link removed successfully."
+msgstr ""
+msgid "Link labels"
+msgstr ""
+msgid "Link modification"
+msgstr ""
+msgid "Opposite label"
+msgstr ""
+msgid "Remove a link"
+msgstr ""
+msgid "The labels must be different"
+msgstr ""
+msgid "There is no link."
+msgstr ""
+msgid "This label must be unique"
+msgstr ""
+msgid "Unable to create your link."
+msgstr ""
+msgid "Unable to update your link."
+msgstr ""
+msgid "Unable to remove this link."
+msgstr ""
+msgid "relates to"
+msgstr ""
+msgid "blocks"
+msgstr ""
+msgid "is blocked by"
+msgstr ""
+msgid "duplicates"
+msgstr ""
+msgid "is duplicated by"
+msgstr ""
+msgid "is a child of"
+msgstr ""
+msgid "is a parent of"
+msgstr ""
+msgid "targets milestone"
+msgstr ""
+msgid "is a milestone of"
+msgstr ""
+msgid "fixes"
+msgstr ""
+msgid "is fixed by"
+msgstr ""
+msgid "This task"
+msgstr ""
+msgid "<1h"
+msgstr ""
+msgid "%dh"
+msgstr ""
+msgid "Expand tasks"
+msgstr ""
+msgid "Collapse tasks"
+msgstr ""
+msgid "Expand/collapse tasks"
+msgstr ""
+msgid "Close dialog box"
+msgstr ""
+msgid "Submit a form"
+msgstr ""
+msgid "Board view"
+msgstr ""
+msgid "Keyboard shortcuts"
+msgstr ""
+msgid "Open board switcher"
+msgstr ""
+msgid "Application"
+msgstr ""
+msgid "Compact view"
+msgstr ""
+msgid "Horizontal scrolling"
+msgstr ""
+msgid "Compact/wide view"
+msgstr ""
+msgid "Currency"
+msgstr ""
+msgid "Personal project"
+msgstr ""
+msgid "AUD - Australian Dollar"
+msgstr ""
+msgid "CAD - Canadian Dollar"
+msgstr ""
+msgid "CHF - Swiss Francs"
+msgstr ""
+msgid "Custom Stylesheet"
+msgstr ""
+msgid "EUR - Euro"
+msgstr ""
+msgid "GBP - British Pound"
+msgstr ""
+msgid "INR - Indian Rupee"
+msgstr ""
+msgid "JPY - Japanese Yen"
+msgstr ""
+msgid "NZD - New Zealand Dollar"
+msgstr ""
+msgid "RSD - Serbian dinar"
+msgstr ""
+msgid "CNY - Chinese Yuan"
+msgstr ""
+msgid "USD - US Dollar"
+msgstr ""
+msgid "VES - Venezuelan Bolívar"
+msgstr ""
+msgid "Destination column"
+msgstr ""
+msgid "Move the task to another column when assigned to a user"
+msgstr ""
+msgid "Move the task to another column when assignee is cleared"
+msgstr ""
+msgid "Source column"
+msgstr ""
+msgid "Transitions"
+msgstr ""
+msgid "Executer"
+msgstr ""
+msgid "Time spent in the column"
+msgstr ""
+msgid "Task transitions"
+msgstr ""
+msgid "Task transitions export"
+msgstr ""
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr ""
+msgid "Currency rates"
+msgstr ""
+msgid "Rate"
+msgstr ""
+msgid "Change reference currency"
+msgstr ""
+msgid "Reference currency"
+msgstr ""
+msgid "The currency rate has been added successfully."
+msgstr ""
+msgid "Unable to add this currency rate."
+msgstr ""
+msgid "Webhook URL"
+msgstr ""
+msgid "%s removed the assignee of the task %s"
+msgstr ""
+msgid "Information"
+msgstr ""
+msgid "Check two factor authentication code"
+msgstr ""
+msgid "The two factor authentication code is not valid."
+msgstr ""
+msgid "The two factor authentication code is valid."
+msgstr ""
+msgid "Code"
+msgstr ""
+msgid "Two factor authentication"
+msgstr ""
+msgid "This QR code contains the key URI: "
+msgstr ""
+msgid "Check my code"
+msgstr ""
+msgid "Secret key: "
+msgstr ""
+msgid "Test your device"
+msgstr ""
+msgid "Assign a color when the task is moved to a specific column"
+msgstr ""
+msgid "%s via Kanboard"
+msgstr ""
+msgid "Burndown chart"
+msgstr ""
+msgid "This chart show the task complexity over the time (Work Remaining)."
+msgstr ""
+msgid "Screenshot taken %s"
+msgstr ""
+msgid "Add a screenshot"
+msgstr ""
+msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
+msgstr ""
+msgid "Screenshot uploaded successfully."
+msgstr ""
+msgid "SEK - Swedish Krona"
+msgstr ""
+msgid "Identifier"
+msgstr ""
+msgid "Disable two factor authentication"
+msgstr ""
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr ""
+msgid "Edit link"
+msgstr ""
+msgid "Start to type task title..."
+msgstr ""
+msgid "A task cannot be linked to itself"
+msgstr ""
+msgid "The exact same link already exists"
+msgstr ""
+msgid "Recurrent task is scheduled to be generated"
+msgstr ""
+msgid "Score"
+msgstr ""
+msgid "The identifier must be unique"
+msgstr ""
+msgid "This linked task id doesn't exists"
+msgstr ""
+msgid "This value must be alphanumeric"
+msgstr ""
+msgid "Edit recurrence"
+msgstr ""
+msgid "Generate recurrent task"
+msgstr ""
+msgid "Trigger to generate recurrent task"
+msgstr ""
+msgid "Factor to calculate new due date"
+msgstr ""
+msgid "Timeframe to calculate new due date"
+msgstr ""
+msgid "Base date to calculate new due date"
+msgstr ""
+msgid "Action date"
+msgstr ""
+msgid "Base date to calculate new due date: "
+msgstr ""
+msgid "This task has created this child task: "
+msgstr ""
+msgid "Day(s)"
+msgstr ""
+msgid "Existing due date"
+msgstr ""
+msgid "Factor to calculate new due date: "
+msgstr ""
+msgid "Month(s)"
+msgstr ""
+msgid "This task has been created by: "
+msgstr ""
+msgid "Recurrent task has been generated:"
+msgstr ""
+msgid "Timeframe to calculate new due date: "
+msgstr ""
+msgid "Trigger to generate recurrent task: "
+msgstr ""
+msgid "When task is closed"
+msgstr ""
+msgid "When task is moved from first column"
+msgstr ""
+msgid "When task is moved to last column"
+msgstr ""
+msgid "Year(s)"
+msgstr ""
+msgid "Project settings"
+msgstr ""
+msgid "Automatically update the start date"
+msgstr ""
+msgid "iCal feed"
+msgstr ""
+msgid "Preferences"
+msgstr ""
+msgid "Security"
+msgstr ""
+msgid "Two factor authentication disabled"
+msgstr ""
+msgid "Two factor authentication enabled"
+msgstr ""
+msgid "Unable to update this user."
+msgstr ""
+msgid "There is no user management for personal projects."
+msgstr ""
+msgid "User that will receive the email"
+msgstr ""
+msgid "Email subject"
+msgstr ""
+msgid "Date"
+msgstr ""
+msgid "Add a comment log when moving the task between columns"
+msgstr ""
+msgid "Move the task to another column when the category is changed"
+msgstr ""
+msgid "Send a task by email to someone"
+msgstr ""
+msgid "Reopen a task"
+msgstr ""
+msgid "Notification"
+msgstr ""
+msgid "%s moved the task #%d to the first swimlane"
+msgstr ""
+msgid "Swimlane"
+msgstr ""
+msgid "%s moved the task %s to the first swimlane"
+msgstr ""
+msgid "%s moved the task %s to the swimlane \"%s\""
+msgstr ""
+msgid "This report contains all subtasks information for the given date range."
+msgstr ""
+msgid "This report contains all tasks information for the given date range."
+msgstr ""
+msgid "Project activities for %s"
+msgstr ""
+msgid "view the board on Kanboard"
+msgstr ""
+msgid "The task has been moved to the first swimlane"
+msgstr ""
+msgid "The task has been moved to another swimlane:"
+msgstr ""
+msgid "New title: %s"
+msgstr ""
+msgid "The task is not assigned anymore"
+msgstr ""
+msgid "New assignee: %s"
+msgstr ""
+msgid "There is no category now"
+msgstr ""
+msgid "New category: %s"
+msgstr ""
+msgid "New color: %s"
+msgstr ""
+msgid "New complexity: %d"
+msgstr ""
+msgid "The due date has been removed"
+msgstr ""
+msgid "There is no description anymore"
+msgstr ""
+msgid "Recurrence settings has been modified"
+msgstr ""
+msgid "Time spent changed: %sh"
+msgstr ""
+msgid "Time estimated changed: %sh"
+msgstr ""
+msgid "The field \"%s\" has been updated"
+msgstr ""
+msgid "The description has been modified:"
+msgstr ""
+msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
+msgstr ""
+msgid "I want to receive notifications for:"
+msgstr ""
+msgid "All tasks"
+msgstr ""
+msgid "Only for tasks assigned to me"
+msgstr ""
+msgid "Only for tasks created by me"
+msgstr ""
+msgid "Only for tasks created by me and tasks assigned to me"
+msgstr ""
+msgid "%%Y-%%m-%%d"
+msgstr ""
+msgid "Total for all columns"
+msgstr ""
+msgid "You need at least 2 days of data to show the chart."
+msgstr ""
+msgid "<15m"
+msgstr ""
+msgid "<30m"
+msgstr ""
+msgid "Stop timer"
+msgstr ""
+msgid "Start timer"
+msgstr ""
+msgid "My activity stream"
+msgstr ""
+msgid "Search tasks"
+msgstr ""
+msgid "Reset filters"
+msgstr ""
+msgid "My tasks due tomorrow"
+msgstr ""
+msgid "Tasks due today"
+msgstr ""
+msgid "Tasks due tomorrow"
+msgstr ""
+msgid "Tasks due yesterday"
+msgstr ""
+msgid "Closed tasks"
+msgstr ""
+msgid "Open tasks"
+msgstr ""
+msgid "Not assigned"
+msgstr ""
+msgid "View advanced search syntax"
+msgstr ""
+msgid "Overview"
+msgstr ""
+msgid "Board/Calendar/List view"
+msgstr ""
+msgid "Switch to the board view"
+msgstr ""
+msgid "Switch to the list view"
+msgstr ""
+msgid "Go to the search/filter box"
+msgstr ""
+msgid "There is no activity yet."
+msgstr ""
+msgid "No tasks found."
+msgstr ""
+msgid "Keyboard shortcut: \"%s\""
+msgstr ""
+msgid "List"
+msgstr ""
+msgid "Filter"
+msgstr ""
+msgid "Advanced search"
+msgstr ""
+msgid "Example of query: "
+msgstr ""
+msgid "Search by project: "
+msgstr ""
+msgid "Search by column: "
+msgstr ""
+msgid "Search by assignee: "
+msgstr ""
+msgid "Search by color: "
+msgstr ""
+msgid "Search by category: "
+msgstr ""
+msgid "Search by description: "
+msgstr ""
+msgid "Search by due date: "
+msgstr ""
+msgid "Average time spent in each column"
+msgstr ""
+msgid "Average time spent"
+msgstr ""
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr ""
+msgid "Average Lead and Cycle time"
+msgstr ""
+msgid "Average lead time: "
+msgstr ""
+msgid "Average cycle time: "
+msgstr ""
+msgid "Cycle Time"
+msgstr ""
+msgid "Lead Time"
+msgstr ""
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr ""
+msgid "Average time into each column"
+msgstr ""
+msgid "Lead and cycle time"
+msgstr ""
+msgid "Lead time: "
+msgstr ""
+msgid "Cycle time: "
+msgstr ""
+msgid "Time spent in each column"
+msgstr ""
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr ""
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr ""
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr ""
+msgid "Set the start date automatically"
+msgstr ""
+msgid "Edit Authentication"
+msgstr ""
+msgid "Remote user"
+msgstr ""
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr ""
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr ""
+msgid "Default task color"
+msgstr ""
+msgid "This feature does not work with all browsers."
+msgstr ""
+msgid "There is no destination project available."
+msgstr ""
+msgid "Trigger automatically subtask time tracking"
+msgstr ""
+msgid "Include closed tasks in the cumulative flow diagram"
+msgstr ""
+msgid "Current swimlane: %s"
+msgstr ""
+msgid "Current column: %s"
+msgstr ""
+msgid "Current category: %s"
+msgstr ""
+msgid "no category"
+msgstr ""
+msgid "Current assignee: %s"
+msgstr ""
+msgid "not assigned"
+msgstr ""
+msgid "Author:"
+msgstr ""
+msgid "contributors"
+msgstr ""
+msgid "License:"
+msgstr ""
+msgid "License"
+msgstr ""
+msgid "Enter the text below"
+msgstr ""
+msgid "Start date:"
+msgstr ""
+msgid "Due date:"
+msgstr ""
+msgid "People who are project managers"
+msgstr ""
+msgid "People who are project members"
+msgstr ""
+msgid "NOK - Norwegian Krone"
+msgstr ""
+msgid "Show this column"
+msgstr ""
+msgid "Hide this column"
+msgstr ""
+msgid "End date"
+msgstr ""
+msgid "Users overview"
+msgstr ""
+msgid "Members"
+msgstr ""
+msgid "Shared project"
+msgstr ""
+msgid "Project managers"
+msgstr ""
+msgid "Projects list"
+msgstr ""
+msgid "End date:"
+msgstr ""
+msgid "Change task color when using a specific task link"
+msgstr ""
+msgid "Task link creation or modification"
+msgstr ""
+msgid "Milestone"
+msgstr ""
+msgid "Reset the search/filter box"
+msgstr ""
+msgid "Documentation"
+msgstr ""
+msgid "Author"
+msgstr ""
+msgid "Version"
+msgstr ""
+msgid "Plugins"
+msgstr ""
+msgid "There is no plugin loaded."
+msgstr ""
+msgid "My notifications"
+msgstr ""
+msgid "Custom filters"
+msgstr ""
+msgid "Your custom filter has been created successfully."
+msgstr ""
+msgid "Unable to create your custom filter."
+msgstr ""
+msgid "Custom filter removed successfully."
+msgstr ""
+msgid "Unable to remove this custom filter."
+msgstr ""
+msgid "Edit custom filter"
+msgstr ""
+msgid "Your custom filter has been updated successfully."
+msgstr ""
+msgid "Unable to update custom filter."
+msgstr ""
+msgid "Web"
+msgstr ""
+msgid "New attachment on task #%d: %s"
+msgstr ""
+msgid "New comment on task #%d"
+msgstr ""
+msgid "Comment updated on task #%d"
+msgstr ""
+msgid "New subtask on task #%d"
+msgstr ""
+msgid "Subtask updated on task #%d"
+msgstr ""
+msgid "New task #%d: %s"
+msgstr ""
+msgid "Task updated #%d"
+msgstr ""
+msgid "Task #%d closed"
+msgstr ""
+msgid "Task #%d opened"
+msgstr ""
+msgid "Column changed for task #%d"
+msgstr ""
+msgid "New position for task #%d"
+msgstr ""
+msgid "Swimlane changed for task #%d"
+msgstr ""
+msgid "Assignee changed on task #%d"
+msgstr ""
+msgid "%d overdue tasks"
+msgstr ""
+msgid "Task #%d is overdue"
+msgstr ""
+msgid "No notification."
+msgstr ""
+msgid "Mark all as read"
+msgstr ""
+msgid "Mark as read"
+msgstr ""
+msgid "Total number of tasks in this column across all swimlanes"
+msgstr ""
+msgid "Collapse swimlane"
+msgstr ""
+msgid "Expand swimlane"
+msgstr ""
+msgid "Add a new filter"
+msgstr ""
+msgid "Share with all project members"
+msgstr ""
+msgid "Shared"
+msgstr ""
+msgid "Owner"
+msgstr ""
+msgid "Unread notifications"
+msgstr ""
+msgid "Notification methods:"
+msgstr ""
+msgid "Unable to read your file"
+msgstr ""
+msgid "%d task(s) have been imported successfully."
+msgstr ""
+msgid "Nothing has been imported!"
+msgstr ""
+msgid "Import users from CSV file"
+msgstr ""
+msgid "%d user(s) have been imported successfully."
+msgstr ""
+msgid "Comma"
+msgstr ""
+msgid "Semi-colon"
+msgstr ""
+msgid "Tab"
+msgstr ""
+msgid "Vertical bar"
+msgstr ""
+msgid "Double Quote"
+msgstr ""
+msgid "Single Quote"
+msgstr ""
+msgid "%s attached a file to the task #%d"
+msgstr ""
+msgid "There is no column or swimlane activated in your project!"
+msgstr ""
+msgid "Append filter (instead of replacement)"
+msgstr ""
+msgid "Append/Replace"
+msgstr ""
+msgid "Append"
+msgstr ""
+msgid "Replace"
+msgstr ""
+msgid "Import"
+msgstr ""
+msgid "Change sorting"
+msgstr ""
+msgid "Tasks Importation"
+msgstr ""
+msgid "Delimiter"
+msgstr ""
+msgid "Enclosure"
+msgstr ""
+msgid "CSV File"
+msgstr ""
+msgid "Instructions"
+msgstr ""
+msgid "Your file must use the predefined CSV format"
+msgstr ""
+msgid "Your file must be encoded in UTF-8"
+msgstr ""
+msgid "The first row must be the header"
+msgstr ""
+msgid "Duplicates are not verified for you"
+msgstr ""
+msgid "The due date must use the ISO format: YYYY-MM-DD"
+msgstr ""
+msgid "Download CSV template"
+msgstr ""
+msgid "No external integration registered."
+msgstr ""
+msgid "Duplicates are not imported"
+msgstr ""
+msgid "Usernames must be lowercase and unique"
+msgstr ""
+msgid "Passwords will be encrypted if present"
+msgstr ""
+msgid "%s attached a new file to the task %s"
+msgstr ""
+msgid "Link type"
+msgstr ""
+msgid "Assign automatically a category based on a link"
+msgstr ""
+msgid "BAM - Konvertible Mark"
+msgstr ""
+msgid "Assignee Username"
+msgstr ""
+msgid "Assignee Name"
+msgstr ""
+msgid "Groups"
+msgstr ""
+msgid "Members of %s"
+msgstr ""
+msgid "New group"
+msgstr ""
+msgid "Group created successfully."
+msgstr ""
+msgid "Unable to create your group."
+msgstr ""
+msgid "Edit group"
+msgstr ""
+msgid "Group updated successfully."
+msgstr ""
+msgid "Unable to update your group."
+msgstr ""
+msgid "Add group member to \"%s\""
+msgstr ""
+msgid "Group member added successfully."
+msgstr ""
+msgid "Unable to add group member."
+msgstr ""
+msgid "Remove user from group \"%s\""
+msgstr ""
+msgid "User removed successfully from this group."
+msgstr ""
+msgid "Unable to remove this user from the group."
+msgstr ""
+msgid "Remove group"
+msgstr ""
+msgid "Group removed successfully."
+msgstr ""
+msgid "Unable to remove this group."
+msgstr ""
+msgid "Project Permissions"
+msgstr ""
+msgid "Manager"
+msgstr ""
+msgid "Project Manager"
+msgstr ""
+msgid "Project Member"
+msgstr ""
+msgid "Project Viewer"
+msgstr ""
+msgid "Your account is locked for %d minutes"
+msgstr ""
+msgid "Invalid captcha"
+msgstr ""
+msgid "The name must be unique"
+msgstr ""
+msgid "View all groups"
+msgstr ""
+msgid "There is no user available."
+msgstr ""
+msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
+msgstr ""
+msgid "There is no group."
+msgstr ""
+msgid "Add group member"
+msgstr ""
+msgid "Do you really want to remove this group: \"%s\"?"
+msgstr ""
+msgid "There is no user in this group."
+msgstr ""
+msgid "Permissions"
+msgstr ""
+msgid "Allowed Users"
+msgstr ""
+msgid "No specific user has been allowed."
+msgstr ""
+msgid "Role"
+msgstr ""
+msgid "Enter user name..."
+msgstr ""
+msgid "Allowed Groups"
+msgstr ""
+msgid "No group has been allowed."
+msgstr ""
+msgid "Group"
+msgstr ""
+msgid "Group Name"
+msgstr ""
+msgid "Enter group name..."
+msgstr ""
+msgid "Role:"
+msgstr ""
+msgid "Project members"
+msgstr ""
+msgid "%s mentioned you in the task #%d"
+msgstr ""
+msgid "%s mentioned you in a comment on the task #%d"
+msgstr ""
+msgid "You were mentioned in the task #%d"
+msgstr ""
+msgid "You were mentioned in a comment on the task #%d"
+msgstr ""
+msgid "Estimated hours: "
+msgstr ""
+msgid "Actual hours: "
+msgstr ""
+msgid "Hours Spent"
+msgstr ""
+msgid "Hours Estimated"
+msgstr ""
+msgid "Estimated Time"
+msgstr ""
+msgid "Actual Time"
+msgstr ""
+msgid "Estimated vs actual time"
+msgstr ""
+msgid "RUB - Russian Ruble"
+msgstr ""
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr ""
+msgid "Close a task in a specific column"
+msgstr ""
+msgid "Time-based One-time Password Algorithm"
+msgstr ""
+msgid "Two-Factor Provider: "
+msgstr ""
+msgid "Disable two-factor authentication"
+msgstr ""
+msgid "Enable two-factor authentication"
+msgstr ""
+msgid "There is no integration registered at the moment."
+msgstr ""
+msgid "Password Reset for Kanboard"
+msgstr ""
+msgid "Forgot password?"
+msgstr ""
+msgid "Enable \"Forget Password\""
+msgstr ""
+msgid "Password Reset"
+msgstr ""
+msgid "New password"
+msgstr ""
+msgid "Change Password"
+msgstr ""
+msgid "To reset your password click on this link:"
+msgstr ""
+msgid "Last Password Reset"
+msgstr ""
+msgid "The password has never been reinitialized."
+msgstr ""
+msgid "Creation"
+msgstr ""
+msgid "Expiration"
+msgstr ""
+msgid "Password reset history"
+msgstr ""
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr ""
+msgid "Do you really want to close all tasks of this column?"
+msgstr ""
+msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+msgstr ""
+msgid "Close all tasks in this column and this swimlane"
+msgstr ""
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr ""
+msgid "My dashboard"
+msgstr ""
+msgid "My profile"
+msgstr ""
+msgid "Project owner: "
+msgstr ""
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr ""
+msgid "Project owner"
+msgstr ""
+msgid "Personal projects do not have users and groups management."
+msgstr ""
+msgid "There is no project member."
+msgstr ""
+msgid "Priority"
+msgstr ""
+msgid "Task priority"
+msgstr ""
+msgid "General"
+msgstr ""
+msgid "Dates"
+msgstr ""
+msgid "Default priority"
+msgstr ""
+msgid "Lowest priority"
+msgstr ""
+msgid "Highest priority"
+msgstr ""
+msgid "Close a task when there is no activity"
+msgstr ""
+msgid "Duration in days"
+msgstr ""
+msgid "Send email when there is no activity on a task"
+msgstr ""
+msgid "Unable to fetch link information."
+msgstr ""
+msgid "Daily background job for tasks"
+msgstr ""
+msgid "Auto"
+msgstr ""
+msgid "Related"
+msgstr ""
+msgid "Attachment"
+msgstr ""
+msgid "Title not found"
+msgstr ""
+msgid "Web Link"
+msgstr ""
+msgid "External links"
+msgstr ""
+msgid "Add external link"
+msgstr ""
+msgid "Type"
+msgstr ""
+msgid "Dependency"
+msgstr ""
+msgid "Add internal link"
+msgstr ""
+msgid "Add a new external link"
+msgstr ""
+msgid "Edit external link"
+msgstr ""
+msgid "External link"
+msgstr ""
+msgid "Copy and paste your link here..."
+msgstr ""
+msgid "URL"
+msgstr ""
+msgid "Internal links"
+msgstr ""
+msgid "Assign to me"
+msgstr ""
+msgid "Me"
+msgstr ""
+msgid "Do not duplicate anything"
+msgstr ""
+msgid "Projects management"
+msgstr ""
+msgid "Users management"
+msgstr ""
+msgid "Groups management"
+msgstr ""
+msgid "Create from another project"
+msgstr ""
+msgid "open"
+msgstr ""
+msgid "closed"
+msgstr ""
+msgid "Priority:"
+msgstr ""
+msgid "Reference:"
+msgstr ""
+msgid "Complexity:"
+msgstr ""
+msgid "Swimlane:"
+msgstr ""
+msgid "Column:"
+msgstr ""
+msgid "Position:"
+msgstr ""
+msgid "Creator:"
+msgstr ""
+msgid "Time estimated:"
+msgstr ""
+msgid "%s hours"
+msgstr ""
+msgid "Time spent:"
+msgstr ""
+msgid "Created:"
+msgstr ""
+msgid "Modified:"
+msgstr ""
+msgid "Completed:"
+msgstr ""
+msgid "Started:"
+msgstr ""
+msgid "Moved:"
+msgstr ""
+msgid "Task #%d"
+msgstr ""
+msgid "Time format"
+msgstr ""
+msgid "Start date: "
+msgstr ""
+msgid "End date: "
+msgstr ""
+msgid "New due date: "
+msgstr ""
+msgid "Start date changed: "
+msgstr ""
+msgid "Disable personal projects"
+msgstr ""
+msgid "Do you really want to remove this custom filter: \"%s\"?"
+msgstr ""
+msgid "Remove a custom filter"
+msgstr ""
+msgid "User activated successfully."
+msgstr ""
+msgid "Unable to enable this user."
+msgstr ""
+msgid "User disabled successfully."
+msgstr ""
+msgid "Unable to disable this user."
+msgstr ""
+msgid "All files have been uploaded successfully."
+msgstr ""
+msgid "The maximum allowed file size is %sB."
+msgstr ""
+msgid "Drag and drop your files here"
+msgstr ""
+msgid "choose files"
+msgstr ""
+msgid "View profile"
+msgstr ""
+msgid "Two Factor"
+msgstr ""
+msgid "Disable user"
+msgstr ""
+msgid "Do you really want to disable this user: \"%s\"?"
+msgstr ""
+msgid "Enable user"
+msgstr ""
+msgid "Do you really want to enable this user: \"%s\"?"
+msgstr ""
+msgid "Download"
+msgstr ""
+msgid "Uploaded: %s"
+msgstr ""
+msgid "Size: %s"
+msgstr ""
+msgid "Uploaded by %s"
+msgstr ""
+msgid "Filename"
+msgstr ""
+msgid "Size"
+msgstr ""
+msgid "Column created successfully."
+msgstr ""
+msgid "Another column with the same name exists in the project"
+msgstr ""
+msgid "Default filters"
+msgstr ""
+msgid "Your board doesn't have any columns!"
+msgstr ""
+msgid "Change column position"
+msgstr ""
+msgid "Switch to the project overview"
+msgstr ""
+msgid "User filters"
+msgstr ""
+msgid "Category filters"
+msgstr ""
+msgid "Upload a file"
+msgstr ""
+msgid "View file"
+msgstr ""
+msgid "Last activity"
+msgstr ""
+msgid "Change subtask position"
+msgstr ""
+msgid "This value must be greater than %d"
+msgstr ""
+msgid "Another swimlane with the same name exists in the project"
+msgstr ""
+msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
+msgstr ""
+msgid "Actions duplicated successfully."
+msgstr ""
+msgid "Unable to duplicate actions."
+msgstr ""
+msgid "Add a new action"
+msgstr ""
+msgid "Import from another project"
+msgstr ""
+msgid "There is no action at the moment."
+msgstr ""
+msgid "Import actions from another project"
+msgstr ""
+msgid "There is no available project."
+msgstr ""
+msgid "Local File"
+msgstr ""
+msgid "Configuration"
+msgstr ""
+msgid "PHP version:"
+msgstr ""
+msgid "PHP SAPI:"
+msgstr ""
+msgid "OS version:"
+msgstr ""
+msgid "Database version:"
+msgstr ""
+msgid "Browser:"
+msgstr ""
+msgid "Task view"
+msgstr ""
+msgid "Edit task"
+msgstr ""
+msgid "Edit description"
+msgstr ""
+msgid "New internal link"
+msgstr ""
+msgid "Display list of keyboard shortcuts"
+msgstr ""
+msgid "Avatar"
+msgstr ""
+msgid "Upload my avatar image"
+msgstr ""
+msgid "Remove my image"
+msgstr ""
+msgid "The OAuth2 state parameter is invalid"
+msgstr ""
+msgid "User not found."
+msgstr ""
+msgid "Search in activity stream"
+msgstr ""
+msgid "My activities"
+msgstr ""
+msgid "Activity until yesterday"
+msgstr ""
+msgid "Activity until today"
+msgstr ""
+msgid "Search by creator: "
+msgstr ""
+msgid "Search by creation date: "
+msgstr ""
+msgid "Search by task status: "
+msgstr ""
+msgid "Search by task title: "
+msgstr ""
+msgid "Activity stream search"
+msgstr ""
+msgid "Projects where \"%s\" is manager"
+msgstr ""
+msgid "Projects where \"%s\" is member"
+msgstr ""
+msgid "Open tasks assigned to \"%s\""
+msgstr ""
+msgid "Closed tasks assigned to \"%s\""
+msgstr ""
+msgid "Assign automatically a color based on a priority"
+msgstr ""
+msgid "Overdue tasks for the project(s) \"%s\""
+msgstr ""
+msgid "Upload files"
+msgstr ""
+msgid "Installed Plugins"
+msgstr ""
+msgid "Plugin Directory"
+msgstr ""
+msgid "Plugin installed successfully."
+msgstr ""
+msgid "Plugin updated successfully."
+msgstr ""
+msgid "Plugin removed successfully."
+msgstr ""
+msgid "Subtask converted to task successfully."
+msgstr ""
+msgid "Unable to convert the subtask."
+msgstr ""
+msgid "Unable to extract plugin archive."
+msgstr ""
+msgid "Plugin not found."
+msgstr ""
+msgid "You don't have the permission to remove this plugin."
+msgstr ""
+msgid "Unable to download plugin archive."
+msgstr ""
+msgid "Unable to write temporary file for plugin."
+msgstr ""
+msgid "Unable to open plugin archive."
+msgstr ""
+msgid "There is no file in the plugin archive."
+msgstr ""
+msgid "Create tasks in bulk"
+msgstr ""
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr ""
+msgid "There is no plugin available."
+msgstr ""
+msgid "Install"
+msgstr ""
+msgid "Update"
+msgstr ""
+msgid "Up to date"
+msgstr ""
+msgid "Not available"
+msgstr ""
+msgid "Remove plugin"
+msgstr ""
+msgid "Do you really want to remove this plugin: \"%s\"?"
+msgstr ""
+msgid "Uninstall"
+msgstr ""
+msgid "Listing"
+msgstr ""
+msgid "Metadata"
+msgstr ""
+msgid "Manage projects"
+msgstr ""
+msgid "Convert to task"
+msgstr ""
+msgid "Convert sub-task to task"
+msgstr ""
+msgid "Do you really want to convert this sub-task to a task?"
+msgstr ""
+msgid "My task title"
+msgstr ""
+msgid "Enter one task by line."
+msgstr ""
+msgid "Number of failed login:"
+msgstr ""
+msgid "Account locked until:"
+msgstr ""
+msgid "Email settings"
+msgstr ""
+msgid "Email sender address"
+msgstr ""
+msgid "Email transport"
+msgstr ""
+msgid "Webhook token"
+msgstr ""
+msgid "Project tags management"
+msgstr ""
+msgid "Tag created successfully."
+msgstr ""
+msgid "Unable to create this tag."
+msgstr ""
+msgid "Tag updated successfully."
+msgstr ""
+msgid "Unable to update this tag."
+msgstr ""
+msgid "Tag removed successfully."
+msgstr ""
+msgid "Unable to remove this tag."
+msgstr ""
+msgid "Global tags management"
+msgstr ""
+msgid "Tags"
+msgstr ""
+msgid "Tags management"
+msgstr ""
+msgid "Add new tag"
+msgstr ""
+msgid "Edit a tag"
+msgstr ""
+msgid "Project tags"
+msgstr ""
+msgid "There is no specific tag for this project at the moment."
+msgstr ""
+msgid "Tag"
+msgstr ""
+msgid "Remove a tag"
+msgstr ""
+msgid "Do you really want to remove this tag: \"%s\"?"
+msgstr ""
+msgid "Global tags"
+msgstr ""
+msgid "There is no global tag at the moment."
+msgstr ""
+msgid "This field cannot be empty"
+msgstr ""
+msgid "Close a task when there is no activity in a specific column"
+msgstr ""
+msgid "%s removed a subtask for the task #%d"
+msgstr ""
+msgid "%s removed a comment on the task #%d"
+msgstr ""
+msgid "Comment removed on task #%d"
+msgstr ""
+msgid "Subtask removed on task #%d"
+msgstr ""
+msgid "Hide tasks in this column in the dashboard"
+msgstr ""
+msgid "%s removed a comment on the task %s"
+msgstr ""
+msgid "%s removed a subtask for the task %s"
+msgstr ""
+msgid "Comment removed"
+msgstr ""
+msgid "Subtask removed"
+msgstr ""
+msgid "%s set a new internal link for the task #%d"
+msgstr ""
+msgid "%s removed an internal link for the task #%d"
+msgstr ""
+msgid "A new internal link for the task #%d has been defined"
+msgstr ""
+msgid "Internal link removed for the task #%d"
+msgstr ""
+msgid "%s set a new internal link for the task %s"
+msgstr ""
+msgid "%s removed an internal link for the task %s"
+msgstr ""
+msgid "Automatically set the due date on task creation"
+msgstr ""
+msgid "Move the task to another column when closed"
+msgstr ""
+msgid "Move the task to another column when not moved during a given period"
+msgstr ""
+msgid "Dashboard for %s"
+msgstr ""
+msgid "Tasks overview for %s"
+msgstr ""
+msgid "Subtasks overview for %s"
+msgstr ""
+msgid "Projects overview for %s"
+msgstr ""
+msgid "Activity stream for %s"
+msgstr ""
+msgid "Assign a color when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Assign a priority when the task is moved to a specific swimlane"
+msgstr ""
+msgid "User unlocked successfully."
+msgstr ""
+msgid "Unable to unlock the user."
+msgstr ""
+msgid "Move a task to another swimlane"
+msgstr ""
+msgid "Creator Name"
+msgstr ""
+msgid "Time spent and estimated"
+msgstr ""
+msgid "Move position"
+msgstr ""
+msgid "Move task to another position on the board"
+msgstr ""
+msgid "Insert before this task"
+msgstr ""
+msgid "Insert after this task"
+msgstr ""
+msgid "Unlock this user"
+msgstr ""
+msgid "Custom Project Roles"
+msgstr ""
+msgid "Add a new custom role"
+msgstr ""
+msgid "Restrictions for the role \"%s\""
+msgstr ""
+msgid "Add a new project restriction"
+msgstr ""
+msgid "Add a new drag and drop restriction"
+msgstr ""
+msgid "Add a new column restriction"
+msgstr ""
+msgid "Edit this role"
+msgstr ""
+msgid "Remove this role"
+msgstr ""
+msgid "There is no restriction for this role."
+msgstr ""
+msgid "Only moving task between those columns is permitted"
+msgstr ""
+msgid "Close a task in a specific column when not moved during a given period"
+msgstr ""
+msgid "Edit columns"
+msgstr ""
+msgid "The column restriction has been created successfully."
+msgstr ""
+msgid "Unable to create this column restriction."
+msgstr ""
+msgid "Column restriction removed successfully."
+msgstr ""
+msgid "Unable to remove this restriction."
+msgstr ""
+msgid "Your custom project role has been created successfully."
+msgstr ""
+msgid "Unable to create custom project role."
+msgstr ""
+msgid "Your custom project role has been updated successfully."
+msgstr ""
+msgid "Unable to update custom project role."
+msgstr ""
+msgid "Custom project role removed successfully."
+msgstr ""
+msgid "Unable to remove this project role."
+msgstr ""
+msgid "The project restriction has been created successfully."
+msgstr ""
+msgid "Unable to create this project restriction."
+msgstr ""
+msgid "Project restriction removed successfully."
+msgstr ""
+msgid "You cannot create tasks in this column."
+msgstr ""
+msgid "Task creation is permitted for this column"
+msgstr ""
+msgid "Closing or opening a task is permitted for this column"
+msgstr ""
+msgid "Task creation is blocked for this column"
+msgstr ""
+msgid "Closing or opening a task is blocked for this column"
+msgstr ""
+msgid "Task creation is not permitted"
+msgstr ""
+msgid "Closing or opening a task is not permitted"
+msgstr ""
+msgid "New drag and drop restriction for the role \"%s\""
+msgstr ""
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr ""
+msgid "Remove a column restriction"
+msgstr ""
+msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
+msgstr ""
+msgid "New column restriction for the role \"%s\""
+msgstr ""
+msgid "Rule"
+msgstr ""
+msgid "Do you really want to remove this column restriction?"
+msgstr ""
+msgid "Custom roles"
+msgstr ""
+msgid "New custom project role"
+msgstr ""
+msgid "Edit custom project role"
+msgstr ""
+msgid "Remove a custom role"
+msgstr ""
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr ""
+msgid "There is no custom role for this project."
+msgstr ""
+msgid "New project restriction for the role \"%s\""
+msgstr ""
+msgid "Restriction"
+msgstr ""
+msgid "Remove a project restriction"
+msgstr ""
+msgid "Do you really want to remove this project restriction: \"%s\"?"
+msgstr ""
+msgid "Duplicate to multiple projects"
+msgstr ""
+msgid "This field is required"
+msgstr ""
+msgid "Moving a task is not permitted"
+msgstr ""
+msgid "This value must be in the range %d to %d"
+msgstr ""
+msgid "You are not allowed to move this task."
+msgstr ""
+msgid "API User Access"
+msgstr ""
+msgid "Preview"
+msgstr ""
+msgid "Write"
+msgstr ""
+msgid "Write your text in Markdown"
+msgstr ""
+msgid "No personal API access token registered."
+msgstr ""
+msgid "Your personal API access token is \"%s\""
+msgstr ""
+msgid "Remove your token"
+msgstr ""
+msgid "Generate a new token"
+msgstr ""
+msgid "Showing %d-%d of %d"
+msgstr ""
+msgid "Outgoing Emails"
+msgstr ""
+msgid "Add or change currency rate"
+msgstr ""
+msgid "Reference currency: %s"
+msgstr ""
+msgid "Add custom filters"
+msgstr ""
+msgid "Export"
+msgstr ""
+msgid "Add link label"
+msgstr ""
+msgid "Incompatible Plugins"
+msgstr ""
+msgid "Compatibility"
+msgstr ""
+msgid "Permissions and ownership"
+msgstr ""
+msgid "Priorities"
+msgstr ""
+msgid "Close this window"
+msgstr ""
+msgid "Unable to upload this file."
+msgstr ""
+msgid "Import tasks"
+msgstr ""
+msgid "Choose a project"
+msgstr ""
+msgid "Profile"
+msgstr ""
+msgid "Application role"
+msgstr ""
+msgid "%d invitations were sent."
+msgstr ""
+msgid "%d invitation was sent."
+msgstr ""
+msgid "Unable to create this user."
+msgstr ""
+msgid "Kanboard Invitation"
+msgstr ""
+msgid "Visible on dashboard"
+msgstr ""
+msgid "Created at:"
+msgstr ""
+msgid "Updated at:"
+msgstr ""
+msgid "There is no custom filter."
+msgstr ""
+msgid "New User"
+msgstr ""
+msgid "Authentication"
+msgstr ""
+msgid "If checked, this user will use a third-party system for authentication."
+msgstr ""
+msgid "The password is necessary only for local users."
+msgstr ""
+msgid "You have been invited to register on Kanboard."
+msgstr ""
+msgid "Click here to join your team"
+msgstr ""
+msgid "Invite people"
+msgstr ""
+msgid "Emails"
+msgstr ""
+msgid "Enter one email address by line."
+msgstr ""
+msgid "Add these people to this project"
+msgstr ""
+msgid "Add this person to this project"
+msgstr ""
+msgid "Sign-up"
+msgstr ""
+msgid "Credentials"
+msgstr ""
+msgid "New user"
+msgstr ""
+msgid "This username is already taken"
+msgstr ""
+msgid "Your profile must have a valid email address."
+msgstr ""
+msgid "TRL - Turkish Lira"
+msgstr ""
+msgid "The project email is optional and could be used by several plugins."
+msgstr ""
+msgid "The project email must be unique across all projects"
+msgstr ""
+msgid "The email configuration has been disabled by the administrator."
+msgstr ""
+msgid "Close this project"
+msgstr ""
+msgid "Open this project"
+msgstr ""
+msgid "Close a project"
+msgstr ""
+msgid "Do you really want to close this project: \"%s\"?"
+msgstr ""
+msgid "Reopen a project"
+msgstr ""
+msgid "Do you really want to reopen this project: \"%s\"?"
+msgstr ""
+msgid "This project is open"
+msgstr ""
+msgid "This project is closed"
+msgstr ""
+msgid "Unable to upload files, check the permissions of your data folder."
+msgstr ""
+msgid "Another category with the same name exists in this project"
+msgstr ""
+msgid "Comment sent by email successfully."
+msgstr ""
+msgid "Sent by email to \"%s\" (%s)"
+msgstr ""
+msgid "Unable to read uploaded file."
+msgstr ""
+msgid "Database uploaded successfully."
+msgstr ""
+msgid "Task sent by email successfully."
+msgstr ""
+msgid "There is no category in this project."
+msgstr ""
+msgid "Send by email"
+msgstr ""
+msgid "Create and send a comment by email"
+msgstr ""
+msgid "Subject"
+msgstr ""
+msgid "Upload the database"
+msgstr ""
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr ""
+msgid "Database file"
+msgstr ""
+msgid "Upload"
+msgstr ""
+msgid "Your project must have at least one active swimlane."
+msgstr ""
+msgid "Project: %s"
+msgstr ""
+msgid "Automatic action not found: \"%s\""
+msgstr ""
+msgid "%d projects"
+msgstr ""
+msgid "%d project"
+msgstr ""
+msgid "There is no project."
+msgstr ""
+msgid "Sort"
+msgstr ""
+msgid "Project ID"
+msgstr ""
+msgid "Project name"
+msgstr ""
+msgid "Public"
+msgstr ""
+msgid "Personal"
+msgstr ""
+msgid "%d tasks"
+msgstr ""
+msgid "%d task"
+msgstr ""
+msgid "Task ID"
+msgstr ""
+msgid "Assign automatically a color when due date is expired"
+msgstr ""
+msgid "Total score in this column across all swimlanes"
+msgstr ""
+msgid "HRK - Kuna"
+msgstr ""
+msgid "ARS - Argentine Peso"
+msgstr ""
+msgid "COP - Colombian Peso"
+msgstr ""
+msgid "%d groups"
+msgstr ""
+msgid "%d group"
+msgstr ""
+msgid "Group ID"
+msgstr ""
+msgid "External ID"
+msgstr ""
+msgid "%d users"
+msgstr ""
+msgid "%d user"
+msgstr ""
+msgid "Hide subtasks"
+msgstr ""
+msgid "Show subtasks"
+msgstr ""
+msgid "Authentication Parameters"
+msgstr ""
+msgid "API Access"
+msgstr ""
+msgid "No users found."
+msgstr ""
+msgid "User ID"
+msgstr ""
+msgid "Notifications are activated"
+msgstr ""
+msgid "Notifications are disabled"
+msgstr ""
+msgid "User disabled"
+msgstr ""
+msgid "%d notifications"
+msgstr ""
+msgid "%d notification"
+msgstr ""
+msgid "There is no external integration installed."
+msgstr ""
+msgid "You are not allowed to update tasks assigned to someone else."
+msgstr ""
+msgid "You are not allowed to change the assignee."
+msgstr ""
+msgid "Task suppression is not permitted"
+msgstr ""
+msgid "Changing assignee is not permitted"
+msgstr ""
+msgid "Update only assigned tasks is permitted"
+msgstr ""
+msgid "Only for tasks assigned to the current user"
+msgstr ""
+msgid "My projects"
+msgstr ""
+msgid "You are not a member of any project."
+msgstr ""
+msgid "My subtasks"
+msgstr ""
+msgid "%d subtasks"
+msgstr ""
+msgid "%d subtask"
+msgstr ""
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr ""
+msgid "[DUPLICATE]"
+msgstr ""
+msgid "DKK - Danish Krona"
+msgstr ""
+msgid "Remove user from group"
+msgstr ""
+msgid "Assign the task to its creator"
+msgstr ""
+msgid "This task was sent by email to \"%s\" with subject \"%s\"."
+msgstr ""
+msgid "Predefined Email Subjects"
+msgstr ""
+msgid "Write one subject by line."
+msgstr ""
+msgid "Create another link"
+msgstr ""
+msgid "BRL - Brazilian Real"
+msgstr ""
+msgid "Add a new Kanboard task"
+msgstr ""
+msgid "Subtask not started"
+msgstr ""
+msgid "Subtask currently in progress"
+msgstr ""
+msgid "Subtask completed"
+msgstr ""
+msgid "Subtask added successfully."
+msgstr ""
+msgid "%d subtasks added successfully."
+msgstr ""
+msgid "Enter one subtask by line."
+msgstr ""
+msgid "Predefined Contents"
+msgstr ""
+msgid "Predefined contents"
+msgstr ""
+msgid "Predefined Task Description"
+msgstr ""
+msgid "Do you really want to remove this template? \"%s\""
+msgstr ""
+msgid "Add predefined task description"
+msgstr ""
+msgid "Predefined Task Descriptions"
+msgstr ""
+msgid "Template created successfully."
+msgstr ""
+msgid "Unable to create this template."
+msgstr ""
+msgid "Template updated successfully."
+msgstr ""
+msgid "Unable to update this template."
+msgstr ""
+msgid "Template removed successfully."
+msgstr ""
+msgid "Unable to remove this template."
+msgstr ""
+msgid "Template for the task description"
+msgstr ""
+msgid "The start date is greater than the end date"
+msgstr ""
+msgid "Tags must be separated by a comma"
+msgstr ""
+msgid "Only the task title is required"
+msgstr ""
+msgid "Creator Username"
+msgstr ""
+msgid "Color Name"
+msgstr ""
+msgid "Column Name"
+msgstr ""
+msgid "Swimlane Name"
+msgstr ""
+msgid "Time Estimated"
+msgstr ""
+msgid "Time Spent"
+msgstr ""
+msgid "External Link"
+msgstr ""
+msgid "This feature enables the iCal feed, RSS feed and the public board view."
+msgstr ""
+msgid "Stop the timer of all subtasks when moving a task to another column"
+msgstr ""
+msgid "Subtask Title"
+msgstr ""
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr ""
+msgid "days"
+msgstr ""
+msgid "minutes"
+msgstr ""
+msgid "seconds"
+msgstr ""
+msgid "Assign automatically a color when preset start date is reached"
+msgstr ""
+msgid "Move the task to another column once a predefined start date is reached"
+msgstr ""
+msgid "This task is now linked to the task %s with the relation \"%s\""
+msgstr ""
+msgid "The link with the relation \"%s\" to the task %s has been removed"
+msgstr ""
+msgid "Custom Filter:"
+msgstr ""
+msgid "Unable to find this group."
+msgstr ""
+msgid "%s moved the task #%d to the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the position %d in the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the swimlane \"%s\""
+msgstr ""
+msgid "%sh spent"
+msgstr ""
+msgid "%sh estimated"
+msgstr ""
+msgid "Select All"
+msgstr ""
+msgid "Unselect All"
+msgstr ""
+msgid "Apply action"
+msgstr ""
+msgid "Move selected tasks to another column or swimlane"
+msgstr ""
+msgid "Edit tasks in bulk"
+msgstr ""
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr ""
+msgid "Configure this project"
+msgstr ""
+msgid "Start now"
+msgstr ""
+msgid "%s removed a file from the task #%d"
+msgstr ""
+msgid "Attachment removed from task #%d: %s"
+msgstr ""
+msgid "No color"
+msgstr ""
+msgid "Attachment removed \"%s\""
+msgstr ""
+msgid "%s removed a file from the task %s"
+msgstr ""
+msgid "Move the task to another swimlane when assigned to a user"
+msgstr ""
+msgid "Destination swimlane"
+msgstr ""
+msgid "Assign a category when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Move the task to another swimlane when the category is changed"
+msgstr ""
+msgid "Reorder this column by priority (ASC)"
+msgstr ""
+msgid "Reorder this column by priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (ASC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee (A-Z)"
+msgstr ""
+msgid "Reorder this column by assignee (Z-A)"
+msgstr ""
+msgid "Reorder this column by due date (ASC)"
+msgstr ""
+msgid "Reorder this column by due date (DESC)"
+msgstr ""
+msgid "%s moved the task #%d \"%s\" to the project \"%s\""
+msgstr ""
+msgid "Task #%d \"%s\" has been moved to the project \"%s\""
+msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr ""
+msgid "HTTP Client:"
+msgstr ""
+msgid "Assigned"
+msgstr ""
+msgid "Task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied across swimlanes"
+msgstr ""
+msgid "Task limit: "
+msgstr ""
+msgid "Change to global tag"
+msgstr ""
+msgid "Do you really want to make the tag \"%s\" global?"
+msgstr ""
+msgid "Enable global tags for this project"
+msgstr ""
+msgid "Group membership(s):"
+msgstr ""
+msgid "%s is a member of the following group(s): %s"
+msgstr ""
+msgid "%d/%d group(s) shown"
+msgstr ""
+msgid "Subtask creation or modification"
+msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Comment"
+msgstr ""
+msgid "Collapse vertically"
+msgstr ""
+msgid "Expand vertically"
+msgstr ""
+msgid "MXN - Mexican Peso"
+msgstr ""
+msgid "Estimated vs actual time per column"
+msgstr ""
+msgid "HUF - Hungarian Forint"
+msgstr ""
+msgid "XBT - Bitcoin"
+msgstr ""
+msgid "You must select a file to upload as your avatar!"
+msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr ""
+msgid "No other projects found."
+msgstr ""
+msgid "Please choose a project you want to copy the tasks from."
+msgstr ""
+msgid "Import Tasks"
+msgstr ""
+msgid "Copy"
+msgstr ""
+msgid "Tasks copied successfully."
+msgstr ""
+msgid "Unable to copy tasks."
+msgstr ""
 

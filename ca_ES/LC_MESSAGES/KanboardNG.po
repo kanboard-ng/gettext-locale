@@ -1,2868 +1,2868 @@
 
- msgid 'number.decimals_separator'
- msgstr ','
- msgid 'number.thousands_separator'
- msgstr ' '
- msgid 'None'
- msgstr 'Cap'
- msgid 'Edit'
- msgstr 'Edita'
- msgid 'Remove'
- msgstr 'Elimina'
- msgid 'Yes'
- msgstr 'Si'
- msgid 'No'
- msgstr 'No'
- msgid 'cancel'
- msgstr 'cancel·la'
- msgid 'or'
- msgstr 'o'
- msgid 'Yellow'
- msgstr 'Groc'
- msgid 'Blue'
- msgstr 'Blau'
- msgid 'Green'
- msgstr 'Verd'
- msgid 'Purple'
- msgstr 'Lil·la'
- msgid 'Red'
- msgstr 'Vermell'
- msgid 'Orange'
- msgstr 'Taronja'
- msgid 'Grey'
- msgstr 'Gris'
- msgid 'Brown'
- msgstr 'Marró'
- msgid 'Deep Orange'
- msgstr 'Taronja fosc'
- msgid 'Dark Grey'
- msgstr 'Gris fosc'
- msgid 'Pink'
- msgstr 'Rosa'
- msgid 'Teal'
- msgstr 'Turquessa'
- msgid 'Cyan'
- msgstr 'Cian'
- msgid 'Lime'
- msgstr 'Lima'
- msgid 'Light Green'
- msgstr 'Verd clar'
- msgid 'Amber'
- msgstr 'Ambre'
- msgid 'Save'
- msgstr 'Desa'
- msgid 'Login'
- msgstr 'Inicia la sessió'
- msgid 'Official website:'
- msgstr 'Pàgina web oficial:'
- msgid 'Unassigned'
- msgstr 'Sense assignar'
- msgid 'View this task'
- msgstr 'Veure aquesta tasca'
- msgid 'Remove user'
- msgstr 'Eliminar usuari'
- msgid 'Do you really want to remove this user: "%s"?'
- msgstr 'Vols eliminar aquest usuari: "%s"?'
- msgid 'All users'
- msgstr 'Tots els usuaris'
- msgid 'Username'
- msgstr 'Nom d\'usuari'
- msgid 'Password'
- msgstr 'Contrasenya'
- msgid 'Administrator'
- msgstr 'Administrador'
- msgid 'Sign in'
- msgstr 'Accedeix'
- msgid 'Users'
- msgstr 'Usuaris'
- msgid 'Forbidden'
- msgstr 'Prohibit'
- msgid 'Access Forbidden'
- msgstr 'Accés prohibit'
- msgid 'Edit user'
- msgstr 'Edita usuaris'
- msgid 'Logout'
- msgstr 'Tanca sessió'
- msgid 'Bad username or password'
- msgstr 'Usuari o contrasenya no existeix'
- msgid 'Edit project'
- msgstr 'Edita el projecte'
- msgid 'Name'
- msgstr 'Nom'
- msgid 'Projects'
- msgstr 'Projectes'
- msgid 'No project'
- msgstr 'Cap projecte'
- msgid 'Project'
- msgstr 'Projecte'
- msgid 'Status'
- msgstr 'Estat'
- msgid 'Tasks'
- msgstr 'Tasques'
- msgid 'Board'
- msgstr 'Tauler'
- msgid 'Actions'
- msgstr 'Accions'
- msgid 'Inactive'
- msgstr 'Inactiu'
- msgid 'Active'
- msgstr 'Actiu'
- msgid 'Unable to update this board.'
- msgstr 'No es pot actualitzar aquest tauler.'
- msgid 'Disable'
- msgstr 'Desactivar'
- msgid 'Enable'
- msgstr 'Habilita'
- msgid 'New project'
- msgstr 'Nou projecte'
- msgid 'Do you really want to remove this project: "%s"?'
- msgstr 'Vols eliminar aquest projecte: "%s"?'
- msgid 'Remove project'
- msgstr 'Elimina projecte'
- msgid 'Edit the board for "%s"'
- msgstr 'Edita el tauler de "%s"'
- msgid 'Add a new column'
- msgstr 'Afegeix una nova columna'
- msgid 'Title'
- msgstr 'Títol'
- msgid 'Assigned to %s'
- msgstr 'Assignat a %s'
- msgid 'Remove a column'
- msgstr 'Eliminar una columna'
- msgid 'Unable to remove this column.'
- msgstr 'No es pot eliminar aquesta columna.'
- msgid 'Do you really want to remove this column: "%s"?'
- msgstr 'Vols eliminar aquesta columna: "%s"?'
- msgid 'Settings'
- msgstr 'Configuració'
- msgid 'Application settings'
- msgstr 'Configuració de l\'aplicació'
- msgid 'Language'
- msgstr 'Idioma'
- msgid 'Webhook token:'
- msgstr 'Web hook token:'
- msgid 'API token:'
- msgstr 'Token de l\'API:'
- msgid 'Database size:'
- msgstr 'Mida de la base de dades:'
- msgid 'Download the database'
- msgstr 'Descarregar la base de dades'
- msgid 'Optimize the database'
- msgstr 'Optimitzar la base de dades'
- msgid '(VACUUM command)'
- msgstr '(Comanda VACUUM)'
- msgid '(Gzip compressed Sqlite file)'
- msgstr '(Arxiu comprimit gzip SQLite)'
- msgid 'Close a task'
- msgstr 'Tancar una tasca'
- msgid 'Column'
- msgstr 'Columna'
- msgid 'Color'
- msgstr 'Color'
- msgid 'Assignee'
- msgstr 'Assignat a'
- msgid 'Create another task'
- msgstr 'Crear una altra tasca'
- msgid 'New task'
- msgstr 'Nova tasca'
- msgid 'Open a task'
- msgstr 'Obrir una tasca'
- msgid 'Do you really want to open this task: "%s"?'
- msgstr 'Vols obrir aquesta tasca: "%s"?'
- msgid 'Back to the board'
- msgstr 'Torna al tauler'
- msgid 'There is nobody assigned'
- msgstr 'No hi ha ningú assignat'
- msgid 'Column on the board:'
- msgstr 'Columna al tauler:'
- msgid 'Close this task'
- msgstr 'Tanca aquesta tasca'
- msgid 'Open this task'
- msgstr 'Obre aquesta tasca'
- msgid 'There is no description.'
- msgstr 'No hi ha cap descripció.'
- msgid 'Add a new task'
- msgstr 'Afegeix una nova tasca'
- msgid 'The username is required'
- msgstr 'Es requereix el nom d\'usuari'
- msgid 'The maximum length is %d characters'
- msgstr 'La longitud màxima és de %d caràcters'
- msgid 'The minimum length is %d characters'
- msgstr 'La longitud mínima és %d caràcters'
- msgid 'The password is required'
- msgstr 'La contrasenya és necessària'
- msgid 'This value must be an integer'
- msgstr 'Aquest valor ha de ser un nombre enter'
- msgid 'The username must be unique'
- msgstr 'El nom d\'usuari ha de ser únic'
- msgid 'The user id is required'
- msgstr 'Es requereix que l\'ID d\'usuari'
- msgid 'Passwords don\'t match'
- msgstr 'Les contrasenyes no coincideixen'
- msgid 'The confirmation is required'
- msgstr 'Es requereix la confirmació'
- msgid 'The project is required'
- msgstr 'Es requereix el projecte'
- msgid 'The id is required'
- msgstr 'Es requereix que l\'ID'
- msgid 'The project id is required'
- msgstr 'Es requereix que l\'identificador del projecte'
- msgid 'The project name is required'
- msgstr 'Es requereix el nom del projecte'
- msgid 'The title is required'
- msgstr 'Es requereix el títol'
- msgid 'Settings saved successfully.'
- msgstr 'La configuració es va guardar amb èxit.'
- msgid 'Unable to save your settings.'
- msgstr 'No es pot desar la configuració.'
- msgid 'Database optimization done.'
- msgstr 'Optimització de bases de dades realitza.'
- msgid 'Your project has been created successfully.'
- msgstr 'El seu projecte s\'han creat amb èxit.'
- msgid 'Unable to create your project.'
- msgstr 'No es pot crear el projecte.'
- msgid 'Project updated successfully.'
- msgstr 'Projecte actualitzat correctament.'
- msgid 'Unable to update this project.'
- msgstr 'No es pot actualitzar aquest projecte.'
- msgid 'Unable to remove this project.'
- msgstr 'No es pot eliminar aquest projecte.'
- msgid 'Project removed successfully.'
- msgstr 'Projecte eliminat correctament.'
- msgid 'Project activated successfully.'
- msgstr 'Projecte activat correctament.'
- msgid 'Unable to activate this project.'
- msgstr 'No es pot activar aquest projecte.'
- msgid 'Project disabled successfully.'
- msgstr 'Projecte deshabilitat amb èxit.'
- msgid 'Unable to disable this project.'
- msgstr 'No és possible desactivar aquest projecte.'
- msgid 'Unable to open this task.'
- msgstr 'No es pot obrir aquesta tasca.'
- msgid 'Task opened successfully.'
- msgstr 'Tasca oberta amb èxit.'
- msgid 'Unable to close this task.'
- msgstr 'No es pot tancar aquesta tasca.'
- msgid 'Task closed successfully.'
- msgstr 'Tasca tancada amb èxit.'
- msgid 'Unable to update your task.'
- msgstr 'No es pot actualitzar la seva tasca.'
- msgid 'Task updated successfully.'
- msgstr 'Tasca actualitzada correctament.'
- msgid 'Unable to create your task.'
- msgstr 'No es pot crear la tasca.'
- msgid 'Task created successfully.'
- msgstr 'Tasca creada correctament.'
- msgid 'User created successfully.'
- msgstr 'L\'usuari ha creat correctament.'
- msgid 'Unable to create your user.'
- msgstr 'No es pot crear l\'usuari.'
- msgid 'User updated successfully.'
- msgstr 'Usuari actualitzat correctament.'
- msgid 'User removed successfully.'
- msgstr 'Usuari eliminat correctament.'
- msgid 'Unable to remove this user.'
- msgstr 'No es pot eliminar aquest usuari.'
- msgid 'Board updated successfully.'
- msgstr 'Tauler actualitzat correctament.'
- msgid 'Ready'
- msgstr 'Preparat'
- msgid 'Backlog'
- msgstr 'Pendent'
- msgid 'Work in progress'
- msgstr 'En curs'
- msgid 'Done'
- msgstr 'Fet'
- msgid 'Application version:'
- msgstr 'Versió de l\'aplicació:'
- msgid 'Id'
- msgstr 'Identificació'
- msgid 'Public link'
- msgstr 'Enllaç públic'
- msgid 'Timezone'
- msgstr 'Zona horària'
- msgid 'Sorry, I didn\'t find this information in my database!'
- msgstr 'No s\'ha trobat la informació a la base de dades!'
- msgid 'Page not found'
- msgstr 'Pàgina no trobada'
- msgid 'Complexity'
- msgstr 'Dificultat'
- msgid 'Task limit'
- msgstr 'Límit de tasques'
- msgid 'Task count'
- msgstr 'Recompte de tasques'
- msgid 'User'
- msgstr 'Usuari'
- msgid 'Comments'
- msgstr 'Comentaris'
- msgid 'Comment is required'
- msgstr 'Es requereix comentari'
- msgid 'Comment added successfully.'
- msgstr 'Comentari afegit amb èxit.'
- msgid 'Unable to create your comment.'
- msgstr 'No es pot crear el seu comentari.'
- msgid 'Due Date'
- msgstr 'Data de venciment'
- msgid 'Invalid date'
- msgstr 'Data no vàlida'
- msgid 'Automatic actions'
- msgstr 'Accions automàtiques'
- msgid 'Your automatic action has been created successfully.'
- msgstr 'La seva acció automàtica s\'han creat amb èxit.'
- msgid 'Unable to create your automatic action.'
- msgstr 'No es pot crear la seva acció automàtica.'
- msgid 'Remove an action'
- msgstr 'Eliminar una acció'
- msgid 'Unable to remove this action.'
- msgstr 'No es pot eliminar aquesta acció.'
- msgid 'Action removed successfully.'
- msgstr 'Acció eliminat correctament.'
- msgid 'Automatic actions for the project "%s"'
- msgstr 'Accions automàtiques per al projecte "%s"'
- msgid 'Add an action'
- msgstr 'Afegeix una acció'
- msgid 'Event name'
- msgstr 'Nom de l\'esdeveniment'
- msgid 'Action'
- msgstr 'Acció'
- msgid 'Event'
- msgstr 'Esdeveniment'
- msgid 'When the selected event occurs execute the corresponding action.'
- msgstr 'Quan es produeix l\'esdeveniment seleccionat executar l\'acció corresponent.'
- msgid 'Next step'
- msgstr 'Següent pas'
- msgid 'Define action parameters'
- msgstr 'Definir paràmetres d\'acció'
- msgid 'Do you really want to remove this action: "%s"?'
- msgstr 'Vols eliminar aquesta acció: "%s"?'
- msgid 'Remove an automatic action'
- msgstr 'Eliminar una acció automàtica'
- msgid 'Assign the task to a specific user'
- msgstr 'Assignar la tasca a un usuari específic'
- msgid 'Assign the task to the person who does the action'
- msgstr 'Assignar la tasca a la persona que fa l\'acció'
- msgid 'Duplicate the task to another project'
- msgstr 'Duplica la tasca a un altre projecte'
- msgid 'Move a task to another column'
- msgstr 'Mou una tasca a una altra columna'
- msgid 'Task modification'
- msgstr 'Modificació de tasques'
- msgid 'Task creation'
- msgstr 'Creació de tasques'
- msgid 'Closing a task'
- msgstr 'El tancament d\'una tasca'
- msgid 'Assign a color to a specific user'
- msgstr 'Assignar un color a un usuari específic'
- msgid 'Position'
- msgstr 'Posició'
- msgid 'Duplicate to project'
- msgstr 'Duplica a un altre projecte'
- msgid 'Duplicate'
- msgstr 'Duplica'
- msgid 'Link'
- msgstr 'Enllaç'
- msgid 'Comment updated successfully.'
- msgstr 'Comentari actualitzat correctament.'
- msgid 'Unable to update your comment.'
- msgstr 'No es pot actualitzar el seu comentari.'
- msgid 'Remove a comment'
- msgstr 'Retirar un comentari'
- msgid 'Comment removed successfully.'
- msgstr 'Comentari eliminat correctament.'
- msgid 'Unable to remove this comment.'
- msgstr 'No es pot eliminar aquest comentari.'
- msgid 'Do you really want to remove this comment?'
- msgstr 'Vols eliminar aquest comentari?'
- msgid 'Current password for the user "%s"'
- msgstr 'Contrasenya actual per a l\'usuari "%s"'
- msgid 'The current password is required'
- msgstr 'Es requereix la contrasenya actual'
- msgid 'Wrong password'
- msgstr 'Contrasenya incorrecta'
- msgid 'Unknown'
- msgstr 'Desconegut'
- msgid 'Last logins'
- msgstr 'Últims inicis de sessió'
- msgid 'Login date'
- msgstr 'Data d\'inici de sessió'
- msgid 'Authentication method'
- msgstr 'Mètode d\'autenticació'
- msgid 'IP address'
- msgstr 'Adreça IP'
- msgid 'User agent'
- msgstr 'Agent d\'usuari'
- msgid 'Persistent connections'
- msgstr 'Les connexions persistents'
- msgid 'No session.'
- msgstr 'Cap sessió.'
- msgid 'Expiration date'
- msgstr 'Data de caducitat'
- msgid 'Remember Me'
- msgstr 'Recorda\'m'
- msgid 'Creation date'
- msgstr 'Data de creació'
- msgid 'Everybody'
- msgstr 'Tothom'
- msgid 'Open'
- msgstr 'Obert'
- msgid 'Closed'
- msgstr 'Tancat'
- msgid 'Search'
- msgstr 'Cerca'
- msgid 'Nothing found.'
- msgstr 'No s\'ha trobat res.'
- msgid 'Due date'
- msgstr 'Data de venciment'
- msgid 'Description'
- msgstr 'Descripció'
- msgid '%d comments'
- msgstr '%d comentaris'
- msgid '%d comment'
- msgstr '%d comentari'
- msgid 'Email address invalid'
- msgstr 'Adreça de correu electrònic no vàlida'
- msgid 'Your external account is not linked anymore to your profile.'
- msgstr 'El seu compte extern no està vinculada més al seu perfil.'
- msgid 'Unable to unlink your external account.'
- msgstr 'No és possible desvincular el compte extern.'
- msgid 'External authentication failed'
- msgstr 'L\'autenticació externa va fallar'
- msgid 'Your external account is linked to your profile successfully.'
- msgstr 'El seu compte extern està vinculada al seu perfil correctament.'
- msgid 'Email'
- msgstr 'E-mail'
- msgid 'Task removed successfully.'
- msgstr 'Tasca eliminat correctament.'
- msgid 'Unable to remove this task.'
- msgstr 'No es pot eliminar aquesta tasca.'
- msgid 'Remove a task'
- msgstr 'Treure una tasca'
- msgid 'Do you really want to remove this task: "%s"?'
- msgstr 'Vols eliminar aquesta tasca: "%s"?'
- msgid 'Assign automatically a color based on a category'
- msgstr 'Assignar automàticament un color basat en una categoria'
- msgid 'Assign automatically a category based on a color'
- msgstr 'Assignar automàticament una categoria basada en un color'
- msgid 'Task creation or modification'
- msgstr 'Creació o modificació de tasques'
- msgid 'Category'
- msgstr 'Categoria'
- msgid 'Category:'
- msgstr 'Categoria:'
- msgid 'Categories'
- msgstr 'Categories'
- msgid 'Your category has been created successfully.'
- msgstr 'La seva categoria s\'han creat amb èxit.'
- msgid 'This category has been updated successfully.'
- msgstr 'Aquesta categoria s\'ha actualitzat correctament.'
- msgid 'Unable to update this category.'
- msgstr 'No es pot actualitzar aquesta categoria.'
- msgid 'Remove a category'
- msgstr 'Eliminar una categoria'
- msgid 'Category removed successfully.'
- msgstr 'Categoria eliminat correctament.'
- msgid 'Unable to remove this category.'
- msgstr 'No es pot eliminar aquesta categoria.'
- msgid 'Category modification for the project "%s"'
- msgstr 'Modificació de la categoria pel projecte "%s"'
- msgid 'Category Name'
- msgstr 'Nom de categoria'
- msgid 'Add a new category'
- msgstr 'Afegeix una nova categoria'
- msgid 'Do you really want to remove this category: "%s"?'
- msgstr 'Vols eliminar aquesta categoria: "%s"?'
- msgid 'All categories'
- msgstr 'Totes les categories'
- msgid 'No category'
- msgstr 'sense categoria'
- msgid 'The name is required'
- msgstr 'Es requereix el nom'
- msgid 'Remove a file'
- msgstr 'Suprimir un fitxer'
- msgid 'Unable to remove this file.'
- msgstr 'No es pot eliminar aquest arxiu.'
- msgid 'File removed successfully.'
- msgstr 'Arxiu eliminat amb èxit.'
- msgid 'Attach a document'
- msgstr 'Adjunta un document'
- msgid 'Do you really want to remove this file: "%s"?'
- msgstr 'Vols eliminar aquesta imatge: "%s"?'
- msgid 'Attachments'
- msgstr 'Adjunts'
- msgid 'Edit the task'
- msgstr 'Edita la tasca'
- msgid 'Add a comment'
- msgstr 'Afegeix un comentari'
- msgid 'Edit a comment'
- msgstr 'Edita un comentari'
- msgid 'Summary'
- msgstr 'Resum'
- msgid 'Time tracking'
- msgstr 'Control d\'hores'
- msgid 'Estimate:'
- msgstr 'Estimació:'
- msgid 'Spent:'
- msgstr 'Utilitzat:'
- msgid 'Do you really want to remove this sub-task?'
- msgstr 'Realment voleu eliminar aquesta sub-tasca?'
- msgid 'Remaining:'
- msgstr 'Restant:'
- msgid 'hours'
- msgstr 'hores'
- msgid 'estimated'
- msgstr 'estimat'
- msgid 'Sub-Tasks'
- msgstr 'Subtasques'
- msgid 'Add a sub-task'
- msgstr 'Afegeix una subtasca'
- msgid 'Original estimate'
- msgstr 'Estimació original'
- msgid 'Create another sub-task'
- msgstr 'Crear una altra subtasca'
- msgid 'Time spent'
- msgstr 'El temps dedicat'
- msgid 'Edit a sub-task'
- msgstr 'Editar una subtasca'
- msgid 'Remove a sub-task'
- msgstr 'Suprimir una subtasca'
- msgid 'The time must be a numeric value'
- msgstr 'El temps ha de ser un valor numèric'
- msgid 'Todo'
- msgstr 'Fer'
- msgid 'In progress'
- msgstr 'En progrés'
- msgid 'Sub-task removed successfully.'
- msgstr 'Subtasca eliminat correctament.'
- msgid 'Unable to remove this sub-task.'
- msgstr 'No es pot eliminar aquesta sub-tasques.'
- msgid 'Sub-task updated successfully.'
- msgstr 'Subtasca actualitzat correctament.'
- msgid 'Unable to update your sub-task.'
- msgstr 'No es pot actualitzar el seu sub-tasques.'
- msgid 'Unable to create your sub-task.'
- msgstr 'No es pot crear el sub-tasques.'
- msgid 'Maximum size: '
- msgstr 'Mida màxima: '
- msgid 'Display another project'
- msgstr 'Mostra un altre projecte'
- msgid 'Created by %s'
- msgstr 'Creat per %s'
- msgid 'Tasks Export'
- msgstr 'Exportació de tasques'
- msgid 'Start Date'
- msgstr 'Data d\'inici'
- msgid 'Execute'
- msgstr 'Executar'
- msgid 'Task Id'
- msgstr 'ID de tasca'
- msgid 'Creator'
- msgstr 'Creador'
- msgid 'Modification date'
- msgstr 'Data de modificació'
- msgid 'Completion date'
- msgstr 'Data de finalització'
- msgid 'Clone'
- msgstr 'Clon'
- msgid 'Project cloned successfully.'
- msgstr 'Projecte clonat amb èxit.'
- msgid 'Unable to clone this project.'
- msgstr 'No és possible clonar aquest projecte.'
- msgid 'Enable email notifications'
- msgstr 'Activa notificacions per correu electrònic'
- msgid 'Task position:'
- msgstr 'Posició de la tasca:'
- msgid 'The task #%d has been opened.'
- msgstr 'La tasca #%d s\'ha obert.'
- msgid 'The task #%d has been closed.'
- msgstr 'La tasca #%d s\'ha tancat.'
- msgid 'Sub-task updated'
- msgstr 'Subtasca actualitza'
- msgid 'Title:'
- msgstr 'Títol:'
- msgid 'Status:'
- msgstr 'Estat:'
- msgid 'Assignee:'
- msgstr 'Assignat a:'
- msgid 'Time tracking:'
- msgstr 'Control d\'hores:'
- msgid 'New sub-task'
- msgstr 'Nova subtasca'
- msgid 'New attachment added "%s"'
- msgstr 'Nou adjunt afegit "%s"'
- msgid 'New comment posted by %s'
- msgstr 'Nou comentari Publicat per %s'
- msgid 'New comment'
- msgstr 'Nou comentari'
- msgid 'Comment updated'
- msgstr 'Comentari actualitzat'
- msgid 'New subtask'
- msgstr 'Nova subtasca'
- msgid 'I only want to receive notifications for these projects:'
- msgstr 'Vull rebre notificacions només per a aquells projectes:'
- msgid 'view the task on Kanboard'
- msgstr 'Veure la tasca en Kanboard'
- msgid 'Public access'
- msgstr 'Accés públic'
- msgid 'Disable public access'
- msgstr 'Deshabilitar l\'accés del públic'
- msgid 'Enable public access'
- msgstr 'Permetre l\'accés del públic'
- msgid 'Public access disabled'
- msgstr 'L\'accés públic deshabilitat'
- msgid 'Move the task to another project'
- msgstr 'Mou la tasca a un altre projecte'
- msgid 'Move to project'
- msgstr 'Mou a un altre projecte'
- msgid 'Do you really want to duplicate this task?'
- msgstr 'És el que realment desitja duplicar aquesta tasca?'
- msgid 'Duplicate a task'
- msgstr 'Duplica una tasca'
- msgid 'External accounts'
- msgstr 'Els comptes externes'
- msgid 'Account type'
- msgstr 'Tipus de compte'
- msgid 'Local'
- msgstr 'Local'
- msgid 'Remote'
- msgstr 'Remot'
- msgid 'Enabled'
- msgstr 'Habilitat'
- msgid 'Disabled'
- msgstr 'Inhabilitat'
- msgid 'Login:'
- msgstr 'Iniciar Sessió:'
- msgid 'Full Name:'
- msgstr 'Nom complet:'
- msgid 'Email:'
- msgstr 'E-mail:'
- msgid 'Notifications:'
- msgstr 'Notificacions:'
- msgid 'Notifications'
- msgstr 'Notificacions'
- msgid 'Account type:'
- msgstr 'Tipus de compte:'
- msgid 'Edit profile'
- msgstr 'Editar el perfil'
- msgid 'Change password'
- msgstr 'Canvia la contrasenya'
- msgid 'Password modification'
- msgstr 'Modificació de la contrasenya'
- msgid 'External authentications'
- msgstr 'Autenticacions externes'
- msgid 'Never connected.'
- msgstr 'Mai connectada.'
- msgid 'No external authentication enabled.'
- msgstr 'No s\'habilita l\'autenticació externa.'
- msgid 'Password modified successfully.'
- msgstr 'Contrasenya modificat correctament.'
- msgid 'Unable to change the password.'
- msgstr 'No es pot canviar la contrasenya.'
- msgid 'Change category'
- msgstr 'Canvia la categoria'
- msgid '%s updated the task %s'
- msgstr '%s ha actualitzat la tasca %s'
- msgid '%s opened the task %s'
- msgstr '%s ha obert la tasca %s'
- msgid '%s moved the task %s to the position #%d in the column "%s"'
- msgstr '%s ha mogut la tasca %s a la posició #%d de la columna "%s"'
- msgid '%s moved the task %s to the column "%s"'
- msgstr '%s ha mogut la tasca %s a la columna "%s"'
- msgid '%s created the task %s'
- msgstr '%s creat la tasca %s'
- msgid '%s closed the task %s'
- msgstr '%s tancada la tasca %s'
- msgid '%s created a subtask for the task %s'
- msgstr '%s creat una subtasca de la tasca %s'
- msgid '%s updated a subtask for the task %s'
- msgstr '%s actualitzada una subtasca de la tasca %s'
- msgid 'Assigned to %s with an estimate of %s/%sh'
- msgstr 'Assignat a %s amb un temps estimat de %s/%sh'
- msgid 'Not assigned, estimate of %sh'
- msgstr 'No assignat, estimat de %sh'
- msgid '%s updated a comment on the task %s'
- msgstr '%s ha actualitzat un comentari a la tasca %s'
- msgid '%s commented the task %s'
- msgstr '%s ha comentat la tasca %s'
- msgid '%s\'s activity'
- msgstr 'L\'activitat de %s'
- msgid 'RSS feed'
- msgstr 'RSS feed'
- msgid '%s updated a comment on the task #%d'
- msgstr '%s s\'actualitzen un comentari a la tasca #%d'
- msgid '%s commented on the task #%d'
- msgstr '%s comentat a la tasca #%d'
- msgid '%s updated a subtask for the task #%d'
- msgstr '%s s\'actualitzen un subtasca de la tasca #%d'
- msgid '%s created a subtask for the task #%d'
- msgstr '%s creat una subtasca de la tasca #%d'
- msgid '%s updated the task #%d'
- msgstr '%s actualitzada la tasca #%d'
- msgid '%s created the task #%d'
- msgstr '%s creat la tasca #%d'
- msgid '%s closed the task #%d'
- msgstr '%s van tancar la tasca #%d'
- msgid '%s opened the task #%d'
- msgstr '%s va obrir la tasca #%d'
- msgid 'Activity'
- msgstr 'Activitat'
- msgid 'Default values are "%s"'
- msgstr 'Els valors per defecte son "%s"'
- msgid 'Default columns for new projects (Comma-separated)'
- msgstr 'Columnes predeterminades per a nous projectes (separats per comes)'
- msgid 'Task assignee change'
- msgstr 'Tasca de canvi del assignat'
- msgid '%s changed the assignee of the task #%d to %s'
- msgstr '%s va canviar el assignat de la tasca #%d de %s'
- msgid '%s changed the assignee of the task %s to %s'
- msgstr '%s va canviar el assignat de la tasca %s %s'
- msgid 'New password for the user "%s"'
- msgstr 'Nova contrasenya per a l\'usuari "%s"'
- msgid 'Choose an event'
- msgstr 'Tria un esdeveniment'
- msgid 'Create a task from an external provider'
- msgstr 'Crear una tasca d\'un proveïdor extern'
- msgid 'Change the assignee based on an external username'
- msgstr 'Canviar el assignat basat en un nom d\'usuari extern'
- msgid 'Change the category based on an external label'
- msgstr 'Canviar la categoria en funció d\'una etiqueta externa'
- msgid 'Reference'
- msgstr 'Referència'
- msgid 'Label'
- msgstr 'Etiqueta'
- msgid 'Database'
- msgstr 'Base de dades'
- msgid 'About'
- msgstr 'Quant a'
- msgid 'Database driver:'
- msgstr 'Controlador de base de dades:'
- msgid 'Board settings'
- msgstr 'Paràmetres del tauler'
- msgid 'Webhook settings'
- msgstr 'Configuració web hook'
- msgid 'Reset token'
- msgstr 'Reinicia el token'
- msgid 'API endpoint:'
- msgstr 'API de punt final:'
- msgid 'Refresh interval for personal board'
- msgstr 'Interval d\'actualització per al tauler privada'
- msgid 'Refresh interval for public board'
- msgstr 'Interval d\'actualització per al tauler pública'
- msgid 'Task highlight period'
- msgstr 'Període culminant de tasques'
- msgid 'Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)'
- msgstr 'Període (en segons) per considerar una tasca es va modificar recentment (0 per desactivar, 2 dies de defecte)'
- msgid 'Frequency in second (60 seconds by default)'
- msgstr 'Freqüència en segons (60 segons per defecte)'
- msgid 'Frequency in second (0 to disable this feature, 10 seconds by default)'
- msgstr 'Freqüència en segons (0 per desactivar aquesta característica, 10 segons per defecte)'
- msgid 'Application URL'
- msgstr 'URL de l\'aplicació'
- msgid 'Token regenerated.'
- msgstr 'Token regenerat.'
- msgid 'Date format'
- msgstr 'Format de dates'
- msgid 'ISO format is always accepted, example: "%s" and "%s"'
- msgstr 'Sempre s\'accepta el format ISO, exemple "%s" i "%s"'
- msgid 'New personal project'
- msgstr 'Nou projecte privat'
- msgid 'This project is personal'
- msgstr 'Aquest projecte és privat'
- msgid 'Add'
- msgstr 'Afegeix'
- msgid 'Start date'
- msgstr 'Data d\'inici'
- msgid 'Time estimated'
- msgstr 'Temps estimat'
- msgid 'There is nothing assigned to you.'
- msgstr 'No tens res assignat.'
- msgid 'My tasks'
- msgstr 'Les meves tasques'
- msgid 'Activity stream'
- msgstr 'Fluxe d\'activitat'
- msgid 'Dashboard'
- msgstr 'Panell'
- msgid 'Confirmation'
- msgstr 'Confirmació'
- msgid 'Webhooks'
- msgstr 'WebHooks'
- msgid 'API'
- msgstr 'API'
- msgid 'Create a comment from an external provider'
- msgstr 'Crear un comentari d\'un proveïdor extern'
- msgid 'Project management'
- msgstr 'Gestió de projectes'
- msgid 'Columns'
- msgstr 'Columnes'
- msgid 'Task'
- msgstr 'Tasca'
- msgid 'Percentage'
- msgstr 'Percentatge'
- msgid 'Number of tasks'
- msgstr 'Nombre de tasques'
- msgid 'Task distribution'
- msgstr 'Distribució de tasques'
- msgid 'Analytics'
- msgstr 'Analítica'
- msgid 'Subtask'
- msgstr 'Subtasca'
- msgid 'User repartition'
- msgstr 'Repartiment d\'usuari'
- msgid 'Clone this project'
- msgstr 'Clonar aquest projecte'
- msgid 'Column removed successfully.'
- msgstr 'Columna eliminat correctament.'
- msgid 'Not enough data to show the graph.'
- msgstr 'No hi ha dades suficients per mostrar el gràfic.'
- msgid 'Previous'
- msgstr 'Anterior'
- msgid 'The id must be an integer'
- msgstr 'L\'identificador ha de ser un nombre enter'
- msgid 'The project id must be an integer'
- msgstr 'L\'identificador de projecte ha de ser un enter'
- msgid 'The status must be an integer'
- msgstr 'L\'estat ha de ser un enter'
- msgid 'The subtask id is required'
- msgstr 'Es requereix que l\'ID subtasca'
- msgid 'The subtask id must be an integer'
- msgstr 'L\'identificador de subtasca ha de ser un enter'
- msgid 'The task id is required'
- msgstr 'Es requereix que l\'ID de tasca'
- msgid 'The task id must be an integer'
- msgstr 'L\'identificador de tasca ha de ser un enter'
- msgid 'The user id must be an integer'
- msgstr 'L\'identificador d\'usuari ha de ser un nombre enter'
- msgid 'This value is required'
- msgstr 'Aquest valor és necessari'
- msgid 'This value must be numeric'
- msgstr 'Aquest valor ha de ser numèric'
- msgid 'Unable to create this task.'
- msgstr 'No es pot crear aquesta tasca.'
- msgid 'Cumulative flow diagram'
- msgstr 'Diagrama de flux acumulat'
- msgid 'Daily project summary'
- msgstr 'Resum diari projecte'
- msgid 'Daily project summary export'
- msgstr 'Exportació del resum diari del projecte'
- msgid 'Exports'
- msgstr 'Exportacions'
- msgid 'This export contains the number of tasks per column grouped per day.'
- msgstr 'Aquesta exportació conté el nombre de tasques per columna agrupada per dia.'
- msgid 'Active swimlanes'
- msgstr 'Swimlanes actius'
- msgid 'Add a new swimlane'
- msgstr 'Afegeix un nou swimlane'
- msgid 'Default swimlane'
- msgstr 'Swimlane per defecte'
- msgid 'Do you really want to remove this swimlane: "%s"?'
- msgstr 'Segur que vols eliminar la swimlane: "%s"'
- msgid 'Inactive swimlanes'
- msgstr 'Swimlanes inactius'
- msgid 'Remove a swimlane'
- msgstr 'Traieu un carril'
- msgid 'Swimlane modification for the project "%s"'
- msgstr 'Modificació del swimlane pel projecte "%s"'
- msgid 'Swimlane removed successfully.'
- msgstr 'Swimlane eliminat correctament.'
- msgid 'Swimlanes'
- msgstr 'Swimlanes'
- msgid 'Swimlane updated successfully.'
- msgstr 'Swimlane actualitzat correctament.'
- msgid 'Unable to remove this swimlane.'
- msgstr 'No es pot eliminar aquest swimlane.'
- msgid 'Unable to update this swimlane.'
- msgstr 'No es pot actualitzar aquest swimlane.'
- msgid 'Your swimlane has been created successfully.'
- msgstr 'La seva swimlane s\'han creat amb èxit.'
- msgid 'Example: "Bug, Feature Request, Improvement"'
- msgstr 'Exemple: "Bug, Comanda de funcions, Millora"'
- msgid 'Default categories for new projects (Comma-separated)'
- msgstr 'Categories per defecte per a nous projectes (separats per comes)'
- msgid 'Integrations'
- msgstr 'Integracions'
- msgid 'Integration with third-party services'
- msgstr 'Integració amb els serveis de tercers'
- msgid 'Subtask Id'
- msgstr 'ID de subtasca'
- msgid 'Subtasks'
- msgstr 'Subtasques'
- msgid 'Subtasks Export'
- msgstr 'Exportació de subtasques'
- msgid 'Task Title'
- msgstr 'Títol de la tasca'
- msgid 'Untitled'
- msgstr 'Sense títol'
- msgid 'Application default'
- msgstr 'Per defecte de l\'aplicació'
- msgid 'Language:'
- msgstr 'Llengua:'
- msgid 'Timezone:'
- msgstr 'Zona horària:'
- msgid 'All columns'
- msgstr 'Totes les columnes'
- msgid 'Next'
- msgstr 'Pròxim'
- msgid '#%d'
- msgstr '#%d'
- msgid 'All swimlanes'
- msgstr 'Tots swimlanes'
- msgid 'All colors'
- msgstr 'Tots els colors'
- msgid 'Moved to column %s'
- msgstr 'Traslladat a la columna %s'
- msgid 'User dashboard'
- msgstr 'Tauler d\'usuari'
- msgid 'Allow only one subtask in progress at the same time for a user'
- msgstr 'Permetre només una subtasca en curs al mateix temps per a un usuari'
- msgid 'Edit column "%s"'
- msgstr 'Modifica la columna "%s"'
- msgid 'Select the new status of the subtask: "%s"'
- msgstr 'Sel·lecciona el nou estat per la subtasca: "%s"'
- msgid 'Subtask timesheet'
- msgstr 'Part d\'hores de subtasca'
- msgid 'There is nothing to show.'
- msgstr 'Res per mostrar.'
- msgid 'Time Tracking'
- msgstr 'Control d\'hores'
- msgid 'You already have one subtask in progress'
- msgstr 'Ja tens una subtasca en curs'
- msgid 'Which parts of the project do you want to duplicate?'
- msgstr 'Quines parts del projecte vols duplicar?'
- msgid 'Disallow login form'
- msgstr 'No permetre formulari d\'accés'
- msgid 'Start'
- msgstr 'Començar'
- msgid 'End'
- msgstr 'Final'
- msgid 'Task age in days'
- msgstr 'L\'edat de tasques en dies'
- msgid 'Days in this column'
- msgstr 'Dies en aquesta columna'
- msgid '%dd'
- msgstr '%dd'
- msgid 'Add a new link'
- msgstr 'Afegeix un nou enllaç'
- msgid 'Do you really want to remove this link: "%s"?'
- msgstr 'Segur que vols eliminar aquest enllaç: "%s"?'
- msgid 'Do you really want to remove this link with task #%d?'
- msgstr 'Segur que vols eliminar aquest enllaç amb la tasca #%d?'
- msgid 'Field required'
- msgstr 'Camp requerit'
- msgid 'Link added successfully.'
- msgstr 'Enllaç afegit correctament.'
- msgid 'Link updated successfully.'
- msgstr 'Enllaç actualitzat correctament.'
- msgid 'Link removed successfully.'
- msgstr 'Enllaç eliminat amb èxit.'
- msgid 'Link labels'
- msgstr 'Etiquetes d\'enllaç'
- msgid 'Link modification'
- msgstr 'Modificació d\'enllaç'
- msgid 'Opposite label'
- msgstr 'Etiqueta oposada'
- msgid 'Remove a link'
- msgstr 'Suprimir un enllaç'
- msgid 'The labels must be different'
- msgstr 'Les etiquetes han de ser diferents'
- msgid 'There is no link.'
- msgstr 'No hi ha cap relació.'
- msgid 'This label must be unique'
- msgstr 'Aquest avís ha de ser únic'
- msgid 'Unable to create your link.'
- msgstr 'No es pot crear l\'enllaç.'
- msgid 'Unable to update your link.'
- msgstr 'No es pot actualitzar el seu enllaç.'
- msgid 'Unable to remove this link.'
- msgstr 'No es pot eliminar aquest enllaç.'
- msgid 'relates to'
- msgstr 'es refereix a'
- msgid 'blocks'
- msgstr 'bloqueja'
- msgid 'is blocked by'
- msgstr 'està bloquejada per'
- msgid 'duplicates'
- msgstr 'duplica'
- msgid 'is duplicated by'
- msgstr 'es duplica per'
- msgid 'is a child of'
- msgstr 'és fill de'
- msgid 'is a parent of'
- msgstr 'és pare de'
- msgid 'targets milestone'
- msgstr 'objectiu de la fita'
- msgid 'is a milestone of'
- msgstr 'és una fita de'
- msgid 'fixes'
- msgstr 'corregeix'
- msgid 'is fixed by'
- msgstr 'corregit per'
- msgid 'This task'
- msgstr 'Aquesta tasca'
- msgid '<1h'
- msgstr '<1h'
- msgid '%dh'
- msgstr ''
- msgid 'Expand tasks'
- msgstr 'Amplia les tasques'
- msgid 'Collapse tasks'
- msgstr 'Col·lapsa les tasques'
- msgid 'Expand/collapse tasks'
- msgstr 'Amplia les tasques / col·lapsa'
- msgid 'Close dialog box'
- msgstr 'Quadre de diàleg tancar'
- msgid 'Submit a form'
- msgstr 'Envia un formulari'
- msgid 'Board view'
- msgstr 'Mostra el tauler'
- msgid 'Keyboard shortcuts'
- msgstr 'Dreceres de teclat'
- msgid 'Open board switcher'
- msgstr 'Obre commutador de tauler'
- msgid 'Application'
- msgstr 'Aplicació'
- msgid 'Compact view'
- msgstr 'Vista compacta'
- msgid 'Horizontal scrolling'
- msgstr 'Desplaçament horitzontal'
- msgid 'Compact/wide view'
- msgstr 'Vista compacta / ample'
- msgid 'Currency'
- msgstr 'Moneda'
- msgid 'Personal project'
- msgstr 'Projecte privat'
- msgid 'AUD - Australian Dollar'
- msgstr 'MXN - Dòlar australià'
- msgid 'CAD - Canadian Dollar'
- msgstr 'CAD - Dòlar canadenc'
- msgid 'CHF - Swiss Francs'
- msgstr 'CHF - Franc suís'
- msgid 'Custom Stylesheet'
- msgstr 'Estil personalitzat'
- msgid 'EUR - Euro'
- msgstr 'EUR - Euro'
- msgid 'GBP - British Pound'
- msgstr 'GBP - Lliura britànica'
- msgid 'INR - Indian Rupee'
- msgstr 'INR - Rupia índia'
- msgid 'JPY - Japanese Yen'
- msgstr 'JPY - El ien japonès'
- msgid 'NZD - New Zealand Dollar'
- msgstr 'NZD - Dòlar de Nova Zelanda'
- msgid 'RSD - Serbian dinar'
- msgstr 'RSD - Dinar serbi'
- msgid 'CNY - Chinese Yuan'
- msgstr 'CNY - Yuan xinès'
- msgid 'USD - US Dollar'
- msgstr 'USD - El dòlar dels EUA'
- msgid 'VES - Venezuelan Bolívar'
- msgstr ''
- msgid 'Destination column'
- msgstr 'Columna de destinació'
- msgid 'Move the task to another column when assigned to a user'
- msgstr 'Mou la tasca a una altra columna quan s\'assigna a un usuari'
- msgid 'Move the task to another column when assignee is cleared'
- msgstr 'Mou la tasca a una altra columna quan s\'esborra assignat'
- msgid 'Source column'
- msgstr 'Columna d\'origen'
- msgid 'Transitions'
- msgstr 'Transicions'
- msgid 'Executer'
- msgstr 'Executor'
- msgid 'Time spent in the column'
- msgstr 'El temps emprat a la columna'
- msgid 'Task transitions'
- msgstr 'transicions de tasques'
- msgid 'Task transitions export'
- msgstr 'Tasca transicions d\'exportació'
- msgid 'This report contains all column moves for each task with the date, the user and the time spent for each transition.'
- msgstr 'Aquest informe conté tots els moviments de columna per a cada tasca amb la data, l\'usuari i el temps per a cada transició.'
- msgid 'Currency rates'
- msgstr 'Monedes'
- msgid 'Rate'
- msgstr 'Preu'
- msgid 'Change reference currency'
- msgstr 'Moneda de canvi de referència'
- msgid 'Reference currency'
- msgstr 'Moneda de referència'
- msgid 'The currency rate has been added successfully.'
- msgstr 'El tipus de canvi s\'ha afegit amb èxit.'
- msgid 'Unable to add this currency rate.'
- msgstr 'No es pot afegeix aquest tipus de moneda.'
- msgid 'Webhook URL'
- msgstr 'URL web hook'
- msgid '%s removed the assignee of the task %s'
- msgstr '%s ha eliminat l\'assignat de la tasca %s'
- msgid 'Information'
- msgstr 'Informació'
- msgid 'Check two factor authentication code'
- msgstr 'Comprovar el codi d\'autenticació de dos factors'
- msgid 'The two factor authentication code is not valid.'
- msgstr 'El codi d\'autenticació de dos factors no és vàlid.'
- msgid 'The two factor authentication code is valid.'
- msgstr 'El codi d\'autenticació de dos factors és vàlid.'
- msgid 'Code'
- msgstr 'Codi'
- msgid 'Two factor authentication'
- msgstr 'Autenticació de dos factors'
- msgid 'This QR code contains the key URI: '
- msgstr ''
- msgid 'Check my code'
- msgstr 'Comprovar el meu codi'
- msgid 'Secret key: '
- msgstr ''
- msgid 'Test your device'
- msgstr 'Prova el teu dispositiu'
- msgid 'Assign a color when the task is moved to a specific column'
- msgstr 'Assignar un color quan la tasca es mou a una columna específica'
- msgid '%s via Kanboard'
- msgstr '%s a través del Kanboard'
- msgid 'Burndown chart'
- msgstr 'Burndown chart'
- msgid 'This chart show the task complexity over the time (Work Remaining).'
- msgstr 'Aquesta gràfica mostra la dificultat de la tasca en el temps (Treball restant).'
- msgid 'Screenshot taken %s'
- msgstr 'Imatge presa %s'
- msgid 'Add a screenshot'
- msgstr 'Afegeix una captura de pantalla'
- msgid 'Take a screenshot and press CTRL+V or ⌘+V to paste here.'
- msgstr 'Prengui una captura de pantalla i premeu CTRL + V o ⌘ + V per enganxar aquí.'
- msgid 'Screenshot uploaded successfully.'
- msgstr 'Captura carregat correctament.'
- msgid 'SEK - Swedish Krona'
- msgstr 'SEK - Corona sueca'
- msgid 'Identifier'
- msgstr 'Identificador'
- msgid 'Disable two factor authentication'
- msgstr 'Desactiva l\'autenticació de dos factors'
- msgid 'Do you really want to disable the two factor authentication for this user: "%s"?'
- msgstr ''
- msgid 'Edit link'
- msgstr 'Edita enllaç'
- msgid 'Start to type task title...'
- msgstr 'Comenceu a títol de la tasca de tipus ...'
- msgid 'A task cannot be linked to itself'
- msgstr 'Una tasca no pot vincular-se a si mateix'
- msgid 'The exact same link already exists'
- msgstr 'La mateixa relació exacta ja existeix'
- msgid 'Recurrent task is scheduled to be generated'
- msgstr 'La tasca recurrent està programada per ser generada'
- msgid 'Score'
- msgstr 'Puntuació'
- msgid 'The identifier must be unique'
- msgstr 'L\'identificador ha de ser únic'
- msgid 'This linked task id doesn\'t exists'
- msgstr ''
- msgid 'This value must be alphanumeric'
- msgstr 'Aquest valor ha de ser alfanumèric'
- msgid 'Edit recurrence'
- msgstr 'Edita recurrència'
- msgid 'Generate recurrent task'
- msgstr 'Generar tasca recurrent'
- msgid 'Trigger to generate recurrent task'
- msgstr 'Desencadenar per generar tasca recurrent'
- msgid 'Factor to calculate new due date'
- msgstr 'Factor per calcular la nova data de venciment'
- msgid 'Timeframe to calculate new due date'
- msgstr 'Marc de temps per calcular la nova data de venciment'
- msgid 'Base date to calculate new due date'
- msgstr 'Data de referència per al càlcul de la nova data de venciment'
- msgid 'Action date'
- msgstr 'data d\'acció'
- msgid 'Base date to calculate new due date: '
- msgstr 'Data base per a calcular nova data de venciment: '
- msgid 'This task has created this child task: '
- msgstr 'Aquesta tasca ha creat aquesta tasca filla: '
- msgid 'Day(s)'
- msgstr 'Dia (Dies)'
- msgid 'Existing due date'
- msgstr 'Data de venciment existent'
- msgid 'Factor to calculate new due date: '
- msgstr ''
- msgid 'Month(s)'
- msgstr 'Mes (Mesos)'
- msgid 'This task has been created by: '
- msgstr 'Tasca creada per: '
- msgid 'Recurrent task has been generated:'
- msgstr 'La tasca recurrent s\'ha generat:'
- msgid 'Timeframe to calculate new due date: '
- msgstr ''
- msgid 'Trigger to generate recurrent task: '
- msgstr ''
- msgid 'When task is closed'
- msgstr 'Quan la tasca està tancada'
- msgid 'When task is moved from first column'
- msgstr 'Quan la tasca es mou de la primera columna'
- msgid 'When task is moved to last column'
- msgstr 'Quan la tasca es mou a última columna'
- msgid 'Year(s)'
- msgstr 'Any (s)'
- msgid 'Project settings'
- msgstr 'Configuració del projecte'
- msgid 'Automatically update the start date'
- msgstr 'Actualitzar automàticament la data d\'inici'
- msgid 'iCal feed'
- msgstr 'Origen iCal'
- msgid 'Preferences'
- msgstr 'Configuració'
- msgid 'Security'
- msgstr 'Seguretat'
- msgid 'Two factor authentication disabled'
- msgstr 'L\'autenticació de dos factors deshabilitat'
- msgid 'Two factor authentication enabled'
- msgstr 'Autenticació de dos factors activada'
- msgid 'Unable to update this user.'
- msgstr 'No es pot actualitzar aquest usuari.'
- msgid 'There is no user management for personal projects.'
- msgstr 'No hi ha una gestió d\'usuaris per a projectes privats.'
- msgid 'User that will receive the email'
- msgstr 'L\'usuari que rebrà el correu electrònic'
- msgid 'Email subject'
- msgstr 'assumpte del correu electrònic'
- msgid 'Date'
- msgstr 'Data'
- msgid 'Add a comment log when moving the task between columns'
- msgstr 'Afegeix un registre comentari en moure la tasca entre les columnes'
- msgid 'Move the task to another column when the category is changed'
- msgstr 'Mou la tasca a una altra columna quan es canvia la categoria'
- msgid 'Send a task by email to someone'
- msgstr 'Envia una tasca per correu electrònic a algú'
- msgid 'Reopen a task'
- msgstr 'Torneu a obrir una tasca'
- msgid 'Notification'
- msgstr 'Notificació'
- msgid '%s moved the task #%d to the first swimlane'
- msgstr '%s van moure la tasca #%d per al primer swimlane'
- msgid 'Swimlane'
- msgstr 'Swimlane'
- msgid '%s moved the task %s to the first swimlane'
- msgstr '%s es va traslladar la tasca %s per al primer swimlane'
- msgid '%s moved the task %s to the swimlane "%s"'
- msgstr ''
- msgid 'This report contains all subtasks information for the given date range.'
- msgstr 'Aquest informe conté tota la informació subtasques per al període de temps.'
- msgid 'This report contains all tasks information for the given date range.'
- msgstr 'Aquest informe conté tota la informació de tasques per al període de temps.'
- msgid 'Project activities for %s'
- msgstr 'Les activitats del projecte per a %s'
- msgid 'view the board on Kanboard'
- msgstr 'Veure el tauler en Kanboard'
- msgid 'The task has been moved to the first swimlane'
- msgstr 'La tasca ha estat mogut a la primera swimlane'
- msgid 'The task has been moved to another swimlane:'
- msgstr 'La tasca s\'han traslladat a un altre swimlane:'
- msgid 'New title: %s'
- msgstr 'Nou títol: %s'
- msgid 'The task is not assigned anymore'
- msgstr 'La tasca no s\'ha assignat més'
- msgid 'New assignee: %s'
- msgstr 'Nova assignat:%s'
- msgid 'There is no category now'
- msgstr 'No hi ha una categoria ara'
- msgid 'New category: %s'
- msgstr 'Nova categoria:%s'
- msgid 'New color: %s'
- msgstr 'Nou color: %s'
- msgid 'New complexity: %d'
- msgstr 'Nova dificultat: %d'
- msgid 'The due date has been removed'
- msgstr 'La data de venciment s\'han eliminat'
- msgid 'There is no description anymore'
- msgstr 'No hi ha una descripció més'
- msgid 'Recurrence settings has been modified'
- msgstr 'ajustos de recurrència s\'han modificat'
- msgid 'Time spent changed: %sh'
- msgstr ''
- msgid 'Time estimated changed: %sh'
- msgstr ''
- msgid 'The field "%s" has been updated'
- msgstr ''
- msgid 'The description has been modified:'
- msgstr 'La descripció s\'ha modificat:'
- msgid 'Do you really want to close the task "%s" as well as all subtasks?'
- msgstr 'Vols tancar la tasca "%s", així com totes les subtasques?'
- msgid 'I want to receive notifications for:'
- msgstr 'Vull rebre notificacions per:'
- msgid 'All tasks'
- msgstr 'totes les tasques'
- msgid 'Only for tasks assigned to me'
- msgstr 'Només per a les tasques que se m\'ha s\'assignin'
- msgid 'Only for tasks created by me'
- msgstr 'Només per a les tasques creades per mi'
- msgid 'Only for tasks created by me and tasks assigned to me'
- msgstr 'Només per a tasques creades per mi i em assignin'
- msgid '%%Y-%%m-%%d'
- msgstr ''
- msgid 'Total for all columns'
- msgstr 'Total per a totes les columnes'
- msgid 'You need at least 2 days of data to show the chart.'
- msgstr 'Es necessita com a mínim 2 dies de dades per mostrar el gràfic.'
- msgid '<15m'
- msgstr '<15m'
- msgid '<30m'
- msgstr '<30m'
- msgid 'Stop timer'
- msgstr 'Atura el temporitzador'
- msgid 'Start timer'
- msgstr 'Inicia el temporitzador'
- msgid 'My activity stream'
- msgstr 'El meu fluxe d\'activitat'
- msgid 'Search tasks'
- msgstr 'Cerca de tasques'
- msgid 'Reset filters'
- msgstr 'Restableix filtres'
- msgid 'My tasks due tomorrow'
- msgstr 'Les meves tasques per demà'
- msgid 'Tasks due today'
- msgstr 'Tasques que vencen avui'
- msgid 'Tasks due tomorrow'
- msgstr 'Tasques per demà'
- msgid 'Tasks due yesterday'
- msgstr 'Tasques a causa ahir'
- msgid 'Closed tasks'
- msgstr 'Tasques tancades'
- msgid 'Open tasks'
- msgstr 'Tasques obertes'
- msgid 'Not assigned'
- msgstr 'No assignat'
- msgid 'View advanced search syntax'
- msgstr 'Veure sintaxi de cerca avançada'
- msgid 'Overview'
- msgstr 'Visió de conjunt'
- msgid 'Board/Calendar/List view'
- msgstr 'Tauler / Calendari / Vista de llista'
- msgid 'Switch to the board view'
- msgstr 'Canviar a la vista de tauler'
- msgid 'Switch to the list view'
- msgstr 'Canviar a la vista de llista'
- msgid 'Go to the search/filter box'
- msgstr 'Anar al quadre de cerca / filtre'
- msgid 'There is no activity yet.'
- msgstr 'No hi ha cap activitat encara.'
- msgid 'No tasks found.'
- msgstr 'No s\'han trobat tasques.'
- msgid 'Keyboard shortcut: "%s"'
- msgstr 'Drecera de teclat: "%s"'
- msgid 'List'
- msgstr 'Llista'
- msgid 'Filter'
- msgstr 'Filtre'
- msgid 'Advanced search'
- msgstr 'Cerca avançada'
- msgid 'Example of query: '
- msgstr 'Exemple de consulta: '
- msgid 'Search by project: '
- msgstr 'Cerca per projecte: '
- msgid 'Search by column: '
- msgstr 'Cerca per columna: '
- msgid 'Search by assignee: '
- msgstr 'Cerca per assignat: '
- msgid 'Search by color: '
- msgstr 'Cerca per color: '
- msgid 'Search by category: '
- msgstr 'Cerca per categoria: '
- msgid 'Search by description: '
- msgstr 'Cerca per descripció: '
- msgid 'Search by due date: '
- msgstr 'Cerca per data de venciment: '
- msgid 'Average time spent in each column'
- msgstr 'Temps mitjà de permanència en cada columna'
- msgid 'Average time spent'
- msgstr 'Temps mitjà de permanència'
- msgid 'This chart shows the average time spent in each column for the last %d tasks.'
- msgstr 'Aquest gràfic mostra el temps mitjà de permanència en cada columna per a les últimes %d tasques.'
- msgid 'Average Lead and Cycle time'
- msgstr 'El plom i la mitjana del temps de cicle'
- msgid 'Average lead time: '
- msgstr 'Mitjana de temps de lliurament: '
- msgid 'Average cycle time: '
- msgstr 'Mitjana de temps de cicle: '
- msgid 'Cycle Time'
- msgstr 'Temps de cicle'
- msgid 'Lead Time'
- msgstr 'Temps de lliurament'
- msgid 'This chart shows the average lead and cycle time for the last %d tasks over the time.'
- msgstr 'Aquesta taula mostra la mitjana de plom i el temps de cicle per a les últimes tasques %d respecte al temps.'
- msgid 'Average time into each column'
- msgstr 'Temps mitjà en cada columna'
- msgid 'Lead and cycle time'
- msgstr 'Temps de lliurament i cicle'
- msgid 'Lead time: '
- msgstr 'Temps de lliurament: '
- msgid 'Cycle time: '
- msgstr 'Temps del cicle: '
- msgid 'Time spent in each column'
- msgstr 'El temps invertit en cada columna'
- msgid 'The lead time is the duration between the task creation and the completion.'
- msgstr 'El termini d\'execució és la durada entre la creació de la tasca i la finalització.'
- msgid 'The cycle time is the duration between the start date and the completion.'
- msgstr 'El temps de cicle és la durada entre la data d\'inici i la finalització.'
- msgid 'If the task is not closed the current time is used instead of the completion date.'
- msgstr 'Si la tasca no està tancat el moment actual s\'utilitza en lloc de la data de finalització.'
- msgid 'Set the start date automatically'
- msgstr 'S\'ajusta automàticament la data d\'inici'
- msgid 'Edit Authentication'
- msgstr 'Edita autenticació'
- msgid 'Remote user'
- msgstr 'Usuari remot'
- msgid 'Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts.'
- msgstr 'Els usuaris remots no emmagatzemen la contrasenya a la base de dades Kanboard, exemples: els comptes LDAP, Google i Github.'
- msgid 'If you check the box "Disallow login form", credentials entered in the login form will be ignored.'
- msgstr 'Si marca la casella "No permetre formulari d\'accés", s\'ignoraran les credencials introduïdes al formulari d\'inici de sessió.'
- msgid 'Default task color'
- msgstr 'Color per defecte de les tasques'
- msgid 'This feature does not work with all browsers.'
- msgstr 'Aquesta característica no funciona amb tots els navegadors.'
- msgid 'There is no destination project available.'
- msgstr 'No hi ha cap projecte de destinació disponibles.'
- msgid 'Trigger automatically subtask time tracking'
- msgstr 'Desencadenar automàticament control d\'hores de subtasca'
- msgid 'Include closed tasks in the cumulative flow diagram'
- msgstr 'Incloure tasques tancades en el diagrama de flux acumulat'
- msgid 'Current swimlane: %s'
- msgstr 'Swimlane actual: %s'
- msgid 'Current column: %s'
- msgstr 'Columna actual: %s'
- msgid 'Current category: %s'
- msgstr 'Categoria actual: %s'
- msgid 'no category'
- msgstr 'cap categoria'
- msgid 'Current assignee: %s'
- msgstr 'Assignat actual: %s'
- msgid 'not assigned'
- msgstr 'no assignat'
- msgid 'Author:'
- msgstr 'Autor:'
- msgid 'contributors'
- msgstr 'contribuents'
- msgid 'License:'
- msgstr 'Llicència:'
- msgid 'License'
- msgstr 'Llicència'
- msgid 'Enter the text below'
- msgstr 'Introduïu el text a continuació'
- msgid 'Start date:'
- msgstr 'Data d\'inici:'
- msgid 'Due date:'
- msgstr 'Data de venciment:'
- msgid 'People who are project managers'
- msgstr 'Les persones que són caps de projecte'
- msgid 'People who are project members'
- msgstr 'Les persones que són membres del projecte'
- msgid 'NOK - Norwegian Krone'
- msgstr 'NOK - Corona noruega'
- msgid 'Show this column'
- msgstr 'Mostra aquesta columna'
- msgid 'Hide this column'
- msgstr 'Amaga aquesta columna'
- msgid 'End date'
- msgstr 'Data de finalització'
- msgid 'Users overview'
- msgstr 'Visió general dels usuaris'
- msgid 'Members'
- msgstr 'Membres'
- msgid 'Shared project'
- msgstr 'Projecte compartit'
- msgid 'Project managers'
- msgstr 'Els gerents de projecte'
- msgid 'Projects list'
- msgstr 'Llista de projectes'
- msgid 'End date:'
- msgstr 'Data de finalització:'
- msgid 'Change task color when using a specific task link'
- msgstr 'Canviar de color quan la tasca utilitzant un enllaç tasca específica'
- msgid 'Task link creation or modification'
- msgstr 'La creació o modificació de l\'enllaç de tasques'
- msgid 'Milestone'
- msgstr 'Fita'
- msgid 'Reset the search/filter box'
- msgstr 'Restablir el quadre de cerca / filtre'
- msgid 'Documentation'
- msgstr 'Documentació'
- msgid 'Author'
- msgstr 'Autor'
- msgid 'Version'
- msgstr 'Versió'
- msgid 'Plugins'
- msgstr 'Connectors'
- msgid 'There is no plugin loaded.'
- msgstr 'No hi ha cap complement carregat.'
- msgid 'My notifications'
- msgstr 'Les meves notificacions'
- msgid 'Custom filters'
- msgstr 'Filtres personalitzats'
- msgid 'Your custom filter has been created successfully.'
- msgstr 'El seu filtre a mida s\'han creat amb èxit.'
- msgid 'Unable to create your custom filter.'
- msgstr 'No es pot crear el filtre personalitzat.'
- msgid 'Custom filter removed successfully.'
- msgstr 'Filtre a mida eliminat correctament.'
- msgid 'Unable to remove this custom filter.'
- msgstr 'No es pot eliminar aquest filtre personalitzat.'
- msgid 'Edit custom filter'
- msgstr 'Edita filtre a mida'
- msgid 'Your custom filter has been updated successfully.'
- msgstr 'El seu filtre a mida s\'han actualitzat correctament.'
- msgid 'Unable to update custom filter.'
- msgstr 'No es pot actualitzar filtre a mida.'
- msgid 'Web'
- msgstr 'Web'
- msgid 'New attachment on task #%d: %s'
- msgstr 'Nou adjunt a la tasca #%d: %s'
- msgid 'New comment on task #%d'
- msgstr 'Nou comentari a la tasca #%d'
- msgid 'Comment updated on task #%d'
- msgstr 'Comentari actualitzat a la tasca #%d'
- msgid 'New subtask on task #%d'
- msgstr 'Nova subtasca a la tasca #%d'
- msgid 'Subtask updated on task #%d'
- msgstr 'Subtasca s\'actualitza a la tasca #%d'
- msgid 'New task #%d: %s'
- msgstr 'Nova tasca #%d: %s'
- msgid 'Task updated #%d'
- msgstr 'Tasca actualitzada #%d'
- msgid 'Task #%d closed'
- msgstr 'Tasca #%d tancada'
- msgid 'Task #%d opened'
- msgstr 'Tasca #%d obrir'
- msgid 'Column changed for task #%d'
- msgstr 'Columna canviada per la tasca #%d'
- msgid 'New position for task #%d'
- msgstr 'Nova posició per la tasca #%d'
- msgid 'Swimlane changed for task #%d'
- msgstr 'El swimlane va canviat per  la tasca #%d'
- msgid 'Assignee changed on task #%d'
- msgstr 'L\'assignat va canviar a la tasca #%d'
- msgid '%d overdue tasks'
- msgstr '%d tasques endarrerides'
- msgid 'Task #%d is overdue'
- msgstr 'La tasca #%d està vençuda'
- msgid 'No notification.'
- msgstr 'Sense notificacions.'
- msgid 'Mark all as read'
- msgstr 'Marca totes com llegides'
- msgid 'Mark as read'
- msgstr 'Marca com llegida'
- msgid 'Total number of tasks in this column across all swimlanes'
- msgstr 'Nombre total de tasques en aquesta columna a través de tots swimlanes'
- msgid 'Collapse swimlane'
- msgstr 'Col·lapsa swimlane'
- msgid 'Expand swimlane'
- msgstr 'Ampliar swimlane'
- msgid 'Add a new filter'
- msgstr 'Afegeix un nou filtre'
- msgid 'Share with all project members'
- msgstr 'Compartir amb tots els membres del projecte'
- msgid 'Shared'
- msgstr 'Compartit'
- msgid 'Owner'
- msgstr 'Propietari'
- msgid 'Unread notifications'
- msgstr 'Notificacions no llegides'
- msgid 'Notification methods:'
- msgstr 'Els mètodes de notificació:'
- msgid 'Unable to read your file'
- msgstr 'No es pot llegir el fitxer'
- msgid '%d task(s) have been imported successfully.'
- msgstr '%d tasca(s) s\'han importat correctament.'
- msgid 'Nothing has been imported!'
- msgstr 'Res s\'han importat!'
- msgid 'Import users from CSV file'
- msgstr 'Importa usuaris des d\'arxiu CSV'
- msgid '%d user(s) have been imported successfully.'
- msgstr '%d usuari(s) s\'han importat correctament.'
- msgid 'Comma'
- msgstr 'Coma'
- msgid 'Semi-colon'
- msgstr 'Punt i coma'
- msgid 'Tab'
- msgstr 'Llengüeta'
- msgid 'Vertical bar'
- msgstr 'Barra vertical'
- msgid 'Double Quote'
- msgstr 'Cometes dobles'
- msgid 'Single Quote'
- msgstr 'Cometes simples'
- msgid '%s attached a file to the task #%d'
- msgstr '%s ha adjuntat un arxiu a la tasca #%d'
- msgid 'There is no column or swimlane activated in your project!'
- msgstr 'No hi ha cap columna o swimlane activat en el seu projecte!'
- msgid 'Append filter (instead of replacement)'
- msgstr 'Annexar filtre (en lloc de reemplaçament)'
- msgid 'Append/Replace'
- msgstr 'Annexar / Reemplaçar'
- msgid 'Append'
- msgstr 'Annexar'
- msgid 'Replace'
- msgstr 'Reemplaçar'
- msgid 'Import'
- msgstr 'Importació'
- msgid 'Change sorting'
- msgstr 'Canvia la ordenació'
- msgid 'Tasks Importation'
- msgstr 'Importació de tasques'
- msgid 'Delimiter'
- msgstr 'Delimitador'
- msgid 'Enclosure'
- msgstr 'Recinte'
- msgid 'CSV File'
- msgstr 'Fitxer CSV'
- msgid 'Instructions'
- msgstr 'Instruccions'
- msgid 'Your file must use the predefined CSV format'
- msgstr 'El seu arxiu ha d\'utilitzar el format CSV predefinit'
- msgid 'Your file must be encoded in UTF-8'
- msgstr 'El seu arxiu ha d\'estar codificat en UTF-8'
- msgid 'The first row must be the header'
- msgstr 'La primera fila ha de ser la capçalera'
- msgid 'Duplicates are not verified for you'
- msgstr 'Els duplicats no es verifiquen per a vostè'
- msgid 'The due date must use the ISO format: YYYY-MM-DD'
- msgstr 'La data de venciment ha d\'utilitzar el format ISO: AAAA-MM-DD'
- msgid 'Download CSV template'
- msgstr 'Descarregar plantilla CSV'
- msgid 'No external integration registered.'
- msgstr 'No es va registrar la integració externa.'
- msgid 'Duplicates are not imported'
- msgstr 'Els duplicats no s\'importen'
- msgid 'Usernames must be lowercase and unique'
- msgstr 'Els noms d\'usuari han d\'estar en minúscules i únic'
- msgid 'Passwords will be encrypted if present'
- msgstr 'Les contrasenyes es xifraran si està present'
- msgid '%s attached a new file to the task %s'
- msgstr '%s adjunta un arxiu nou a la tasca %s'
- msgid 'Link type'
- msgstr 'Tipus d\'enllaç'
- msgid 'Assign automatically a category based on a link'
- msgstr 'Assignar automàticament una categoria basada en un enllaç'
- msgid 'BAM - Konvertible Mark'
- msgstr 'BAM - Konvertible Mark'
- msgid 'Assignee Username'
- msgstr 'Nom d\'usuari assignat'
- msgid 'Assignee Name'
- msgstr 'Nom assignat'
- msgid 'Groups'
- msgstr 'Grups'
- msgid 'Members of %s'
- msgstr 'Els membres de %s'
- msgid 'New group'
- msgstr 'Nou grup'
- msgid 'Group created successfully.'
- msgstr 'Grup creat correctament.'
- msgid 'Unable to create your group.'
- msgstr 'No es pot crear el grup.'
- msgid 'Edit group'
- msgstr 'Edita grup'
- msgid 'Group updated successfully.'
- msgstr 'Grup actualitzat correctament.'
- msgid 'Unable to update your group.'
- msgstr 'No es pot actualitzar el seu grup.'
- msgid 'Add group member to "%s"'
- msgstr ''
- msgid 'Group member added successfully.'
- msgstr 'Membre del grup afegit correctament.'
- msgid 'Unable to add group member.'
- msgstr 'No es pot afegeix membre del grup.'
- msgid 'Remove user from group "%s"'
- msgstr ''
- msgid 'User removed successfully from this group.'
- msgstr 'Usuari eliminat amb èxit d\'aquest grup.'
- msgid 'Unable to remove this user from the group.'
- msgstr 'No es pot eliminar aquest usuari del grup.'
- msgid 'Remove group'
- msgstr 'Elimina el grup'
- msgid 'Group removed successfully.'
- msgstr 'Grup eliminat correctament.'
- msgid 'Unable to remove this group.'
- msgstr 'No es pot eliminar aquest grup.'
- msgid 'Project Permissions'
- msgstr 'Permisos de projectes'
- msgid 'Manager'
- msgstr 'Gerent'
- msgid 'Project Manager'
- msgstr 'Gerent de projectes'
- msgid 'Project Member'
- msgstr 'Membres del projecte'
- msgid 'Project Viewer'
- msgstr 'Visor de projectes'
- msgid 'Your account is locked for %d minutes'
- msgstr 'El seu compte està bloquejada per %d minuts'
- msgid 'Invalid captcha'
- msgstr 'codi d\'imatge no vàlida'
- msgid 'The name must be unique'
- msgstr 'El nom ha de ser únic'
- msgid 'View all groups'
- msgstr 'Veure tots els grups'
- msgid 'There is no user available.'
- msgstr 'No hi ha cap usuari disponible.'
- msgid 'Do you really want to remove the user "%s" from the group "%s"?'
- msgstr ''
- msgid 'There is no group.'
- msgstr 'No hi ha cap grup.'
- msgid 'Add group member'
- msgstr 'Afegeix membre del grup'
- msgid 'Do you really want to remove this group: "%s"?'
- msgstr ''
- msgid 'There is no user in this group.'
- msgstr 'No hi ha cap usuari en aquest grup.'
- msgid 'Permissions'
- msgstr 'Permisos'
- msgid 'Allowed Users'
- msgstr 'Els usuaris autoritzats'
- msgid 'No specific user has been allowed.'
- msgstr 'Cap usuari s\'hagi establert.'
- msgid 'Role'
- msgstr 'Rol'
- msgid 'Enter user name...'
- msgstr 'Introdueix el nom d\'usuari ...'
- msgid 'Allowed Groups'
- msgstr 'Grups permesos'
- msgid 'No group has been allowed.'
- msgstr 'Cap grup s\'hagi establert.'
- msgid 'Group'
- msgstr 'Grup'
- msgid 'Group Name'
- msgstr 'Nom del grup'
- msgid 'Enter group name...'
- msgstr 'Introduïu el nom del grup ...'
- msgid 'Role:'
- msgstr 'Rol:'
- msgid 'Project members'
- msgstr 'Els membres del projecte'
- msgid '%s mentioned you in the task #%d'
- msgstr '%s t\'ha esmentat a la tasca #%d'
- msgid '%s mentioned you in a comment on the task #%d'
- msgstr '%s t\'ha mencionat en un comentari a la tasca #%d'
- msgid 'You were mentioned in the task #%d'
- msgstr 'Se t\'ha esmentat a la tasca #%d'
- msgid 'You were mentioned in a comment on the task #%d'
- msgstr 'Se t\'ha mencionat en un comentari sobre la tasca #%d'
- msgid 'Estimated hours: '
- msgstr ''
- msgid 'Actual hours: '
- msgstr ''
- msgid 'Hours Spent'
- msgstr 'Les hores invertides'
- msgid 'Hours Estimated'
- msgstr 'hores estimat'
- msgid 'Estimated Time'
- msgstr 'Temps estimat'
- msgid 'Actual Time'
- msgstr 'temps real'
- msgid 'Estimated vs actual time'
- msgstr 'Estimat en funció del temps real'
- msgid 'RUB - Russian Ruble'
- msgstr 'RUB - Russia rus'
- msgid 'Assign the task to the person who does the action when the column is changed'
- msgstr 'Assignar la tasca a la persona que fa l\'acció quan es canvia la columna'
- msgid 'Close a task in a specific column'
- msgstr 'Tancar una tasca en una columna específica'
- msgid 'Time-based One-time Password Algorithm'
- msgstr 'Algoritme de contrasenya basat en el temps d\'una sola vegada'
- msgid 'Two-Factor Provider: '
- msgstr ''
- msgid 'Disable two-factor authentication'
- msgstr 'Deshabilita l\'autenticació de dos factors'
- msgid 'Enable two-factor authentication'
- msgstr 'Habilitar l\'autenticació de dos factors'
- msgid 'There is no integration registered at the moment.'
- msgstr 'No hi ha integració registrada en el moment.'
- msgid 'Password Reset for Kanboard'
- msgstr 'Restableix contrasenya per Kanboard'
- msgid 'Forgot password?'
- msgstr 'Has oblidat la contrasenya?'
- msgid 'Enable "Forget Password"'
- msgstr 'Habilita "he oblidat la contrasenya"'
- msgid 'Password Reset'
- msgstr 'Restablir contrasenya'
- msgid 'New password'
- msgstr 'Nova contrasenya'
- msgid 'Change Password'
- msgstr 'Canvia la contrasenya'
- msgid 'To reset your password click on this link:'
- msgstr 'Per restablir la contrasenya, feu clic en aquest enllaç:'
- msgid 'Last Password Reset'
- msgstr 'Darrer restabliment de contrasenya'
- msgid 'The password has never been reinitialized.'
- msgstr 'La contrasenya mai ha estat reiniciada.'
- msgid 'Creation'
- msgstr 'Creació'
- msgid 'Expiration'
- msgstr 'Caducitat'
- msgid 'Password reset history'
- msgstr 'Històric de restabliment de contrasenya'
- msgid 'All tasks of the column "%s" and the swimlane "%s" have been closed successfully.'
- msgstr ''
- msgid 'Do you really want to close all tasks of this column?'
- msgstr 'Vols tancar totes les tasques d\'aquesta columna?'
- msgid '%d task(s) in the column "%s" and the swimlane "%s" will be closed.'
- msgstr ''
- msgid 'Close all tasks in this column and this swimlane'
- msgstr 'Tanqueu totes les tasques d\'aquesta columna'
- msgid 'No plugin has registered a project notification method. You can still configure individual notifications in your user profile.'
- msgstr 'No s\'ha registrat plugin d\'un mètode de notificació del projecte. Encara es pot configurar les notificacions individuals en el seu perfil d\'usuari.'
- msgid 'My dashboard'
- msgstr 'El meu tauler'
- msgid 'My profile'
- msgstr 'El meu perfil'
- msgid 'Project owner: '
- msgstr 'Propietari del projecte: '
- msgid 'The project identifier is optional and must be alphanumeric, example: MYPROJECT.'
- msgstr 'L\'identificador de projecte és opcional i ha de ser alfanumèric, exemple: MYPROJECT.'
- msgid 'Project owner'
- msgstr 'Propietari del projecte'
- msgid 'Personal projects do not have users and groups management.'
- msgstr 'projectes privats no tenen els usuaris i grups de gestió.'
- msgid 'There is no project member.'
- msgstr 'No hi ha cap membre del projecte.'
- msgid 'Priority'
- msgstr 'Prioritat'
- msgid 'Task priority'
- msgstr 'Prioritat de la tasca'
- msgid 'General'
- msgstr 'General'
- msgid 'Dates'
- msgstr 'Dates'
- msgid 'Default priority'
- msgstr 'Prioritat per defecte'
- msgid 'Lowest priority'
- msgstr 'La prioritat més baixa'
- msgid 'Highest priority'
- msgstr 'La prioritat més alta'
- msgid 'Close a task when there is no activity'
- msgstr 'Tancar una tasca quan no hi ha activitat'
- msgid 'Duration in days'
- msgstr 'Durada en dies'
- msgid 'Send email when there is no activity on a task'
- msgstr 'Envia correu electrònic quan no hi ha activitat en una tasca'
- msgid 'Unable to fetch link information.'
- msgstr 'No és possible obtenir informació d\'enllaç.'
- msgid 'Daily background job for tasks'
- msgstr 'Feina en segon pla diaria per a les tasques'
- msgid 'Auto'
- msgstr 'Auto'
- msgid 'Related'
- msgstr 'Relacionat'
- msgid 'Attachment'
- msgstr 'Adjunt'
- msgid 'Title not found'
- msgstr 'Títol no trobat'
- msgid 'Web Link'
- msgstr 'Enllaç web'
- msgid 'External links'
- msgstr 'Enllaços externs'
- msgid 'Add external link'
- msgstr 'Afegeix un enllaç extern'
- msgid 'Type'
- msgstr 'Tipus'
- msgid 'Dependency'
- msgstr 'Dependència'
- msgid 'Add internal link'
- msgstr 'Afegeix un enllaç intern'
- msgid 'Add a new external link'
- msgstr 'Afegeix un nou enllaç extern'
- msgid 'Edit external link'
- msgstr 'Edita enllaç extern'
- msgid 'External link'
- msgstr 'URL'
- msgid 'Copy and paste your link here...'
- msgstr 'Copia i enganxa l\'enllaç aquí ...'
- msgid 'URL'
- msgstr 'URL'
- msgid 'Internal links'
- msgstr 'Els enllaços interns'
- msgid 'Assign to me'
- msgstr 'Assignar a mi'
- msgid 'Me'
- msgstr 'jo'
- msgid 'Do not duplicate anything'
- msgstr 'No dupliquis res'
- msgid 'Projects management'
- msgstr 'Gestió de projectes'
- msgid 'Users management'
- msgstr 'Gestió d\'usuaris'
- msgid 'Groups management'
- msgstr 'Gestió de grups'
- msgid 'Create from another project'
- msgstr 'Crea a partir d\'un altre projecte'
- msgid 'open'
- msgstr 'obert'
- msgid 'closed'
- msgstr 'tancat'
- msgid 'Priority:'
- msgstr 'Prioritat:'
- msgid 'Reference:'
- msgstr 'Referència:'
- msgid 'Complexity:'
- msgstr 'Dificultat:'
- msgid 'Swimlane:'
- msgstr 'Swimlane:'
- msgid 'Column:'
- msgstr 'Columna:'
- msgid 'Position:'
- msgstr 'Posició:'
- msgid 'Creator:'
- msgstr 'Creador:'
- msgid 'Time estimated:'
- msgstr 'Temps estimat:'
- msgid '%s hours'
- msgstr '%s hora'
- msgid 'Time spent:'
- msgstr 'El temps passat:'
- msgid 'Created:'
- msgstr 'Creat:'
- msgid 'Modified:'
- msgstr 'Modificat:'
- msgid 'Completed:'
- msgstr 'Completat:'
- msgid 'Started:'
- msgstr 'Començat:'
- msgid 'Moved:'
- msgstr 'Mogut:'
- msgid 'Task #%d'
- msgstr 'Tasca #%d'
- msgid 'Time format'
- msgstr 'Format d\'hora'
- msgid 'Start date: '
- msgstr 'Data d\'inici: '
- msgid 'End date: '
- msgstr 'Data de fi: '
- msgid 'New due date: '
- msgstr 'Nova data de venciment: '
- msgid 'Start date changed: '
- msgstr 'Data d\'inici canviada: '
- msgid 'Disable personal projects'
- msgstr 'Desactivar els projectes privats'
- msgid 'Do you really want to remove this custom filter: "%s"?'
- msgstr ''
- msgid 'Remove a custom filter'
- msgstr 'Treure un filtre a mida'
- msgid 'User activated successfully.'
- msgstr 'L\'usuari ha activat correctament.'
- msgid 'Unable to enable this user.'
- msgstr 'No és possible permetre que aquest usuari.'
- msgid 'User disabled successfully.'
- msgstr 'L\'usuari deshabilitat amb èxit.'
- msgid 'Unable to disable this user.'
- msgstr 'No és possible desactivar aquest usuari.'
- msgid 'All files have been uploaded successfully.'
- msgstr 'Tots els arxius s\'hagin carregat correctament.'
- msgid 'The maximum allowed file size is %sB.'
- msgstr ''
- msgid 'Drag and drop your files here'
- msgstr 'Arrossegar i deixar anar els arxius aquí'
- msgid 'choose files'
- msgstr 'triar els arxius'
- msgid 'View profile'
- msgstr 'Veure el perfil'
- msgid 'Two Factor'
- msgstr 'dos factors'
- msgid 'Disable user'
- msgstr 'desactivar usuari'
- msgid 'Do you really want to disable this user: "%s"?'
- msgstr ''
- msgid 'Enable user'
- msgstr 'Permetre a l\'usuari'
- msgid 'Do you really want to enable this user: "%s"?'
- msgstr ''
- msgid 'Download'
- msgstr 'Descarregar'
- msgid 'Uploaded: %s'
- msgstr 'Pujat: %s'
- msgid 'Size: %s'
- msgstr 'Mida: %s'
- msgid 'Uploaded by %s'
- msgstr 'Pujada per %s'
- msgid 'Filename'
- msgstr 'Nom de l\'arxiu'
- msgid 'Size'
- msgstr 'Mida'
- msgid 'Column created successfully.'
- msgstr 'Columna creat correctament.'
- msgid 'Another column with the same name exists in the project'
- msgstr 'Una altra columna amb el mateix nom existeix en el projecte'
- msgid 'Default filters'
- msgstr 'filtres predeterminats'
- msgid 'Your board doesn\'t have any columns!'
- msgstr ''
- msgid 'Change column position'
- msgstr 'Canvi de posició de columna'
- msgid 'Switch to the project overview'
- msgstr 'Canviar a la visió general del projecte'
- msgid 'User filters'
- msgstr 'Els filtres d\'usuari'
- msgid 'Category filters'
- msgstr 'filtres de categories'
- msgid 'Upload a file'
- msgstr 'Pujar un arxiu'
- msgid 'View file'
- msgstr 'Veure arxiu'
- msgid 'Last activity'
- msgstr 'Última activitat'
- msgid 'Change subtask position'
- msgstr 'Subtasca posició de canvi'
- msgid 'This value must be greater than %d'
- msgstr 'Aquest valor ha de ser més gran que %d'
- msgid 'Another swimlane with the same name exists in the project'
- msgstr 'Una altra swimlane amb el mateix nom existeix en el projecte'
- msgid 'Example: https://example.kanboard.org/ (used to generate absolute URLs)'
- msgstr 'Exemple: https://example.kanboard.org/ (utilitzat per generar URL absoluta)'
- msgid 'Actions duplicated successfully.'
- msgstr 'Accions dupliquen amb èxit.'
- msgid 'Unable to duplicate actions.'
- msgstr 'No s\'ha pogut duplicar accions.'
- msgid 'Add a new action'
- msgstr 'Afegeix una nova acció'
- msgid 'Import from another project'
- msgstr 'Importa d\'un altre projecte'
- msgid 'There is no action at the moment.'
- msgstr 'No hi ha cap acció en aquest moment.'
- msgid 'Import actions from another project'
- msgstr 'accions d\'importació d\'un altre projecte'
- msgid 'There is no available project.'
- msgstr 'No hi ha un projecte disponible.'
- msgid 'Local File'
- msgstr 'Fitxer local'
- msgid 'Configuration'
- msgstr 'Configuració'
- msgid 'PHP version:'
- msgstr 'Versió de PHP:'
- msgid 'PHP SAPI:'
- msgstr 'PHP SAPI:'
- msgid 'OS version:'
- msgstr 'Versió del sistema operatiu:'
- msgid 'Database version:'
- msgstr 'Versió de la base de dades:'
- msgid 'Browser:'
- msgstr 'Navegador:'
- msgid 'Task view'
- msgstr 'Vista de tasques'
- msgid 'Edit task'
- msgstr 'Edició de tasques'
- msgid 'Edit description'
- msgstr 'Modifica la descripció'
- msgid 'New internal link'
- msgstr 'Nou enllaç intern'
- msgid 'Display list of keyboard shortcuts'
- msgstr 'Visualització de la llista de dreceres de teclat'
- msgid 'Avatar'
- msgstr 'Avatar'
- msgid 'Upload my avatar image'
- msgstr 'Puja la imatge meu avatar'
- msgid 'Remove my image'
- msgstr 'Traieu la meva imatge'
- msgid 'The OAuth2 state parameter is invalid'
- msgstr 'El paràmetre d\'estat OAuth2 no és vàlid'
- msgid 'User not found.'
- msgstr 'Usuari no trobat.'
- msgid 'Search in activity stream'
- msgstr 'Buscar en el Tràfic d\'activitat'
- msgid 'My activities'
- msgstr 'Les meves activitats'
- msgid 'Activity until yesterday'
- msgstr 'Activitat fins ahir'
- msgid 'Activity until today'
- msgstr 'Activitat fins avui'
- msgid 'Search by creator: '
- msgstr ''
- msgid 'Search by creation date: '
- msgstr ''
- msgid 'Search by task status: '
- msgstr ''
- msgid 'Search by task title: '
- msgstr ''
- msgid 'Activity stream search'
- msgstr 'Cerca al fluxe d\'activitat'
- msgid 'Projects where "%s" is manager'
- msgstr ''
- msgid 'Projects where "%s" is member'
- msgstr ''
- msgid 'Open tasks assigned to "%s"'
- msgstr ''
- msgid 'Closed tasks assigned to "%s"'
- msgstr ''
- msgid 'Assign automatically a color based on a priority'
- msgstr 'Assignar automàticament un color basat en una prioritat'
- msgid 'Overdue tasks for the project(s) "%s"'
- msgstr ''
- msgid 'Upload files'
- msgstr 'Pujar arxius'
- msgid 'Installed Plugins'
- msgstr 'Els connectors instal·lats'
- msgid 'Plugin Directory'
- msgstr 'Directori de complements'
- msgid 'Plugin installed successfully.'
- msgstr 'Plug-in instal·lat correctament.'
- msgid 'Plugin updated successfully.'
- msgstr 'Plugin actualitzat correctament.'
- msgid 'Plugin removed successfully.'
- msgstr 'Plugin eliminat correctament.'
- msgid 'Subtask converted to task successfully.'
- msgstr 'Subtasca converteix en tasca amb èxit.'
- msgid 'Unable to convert the subtask.'
- msgstr 'No es pot convertir la subtasca.'
- msgid 'Unable to extract plugin archive.'
- msgstr 'No es pot extreure arxiu connector.'
- msgid 'Plugin not found.'
- msgstr 'Plugin no trobat.'
- msgid 'You don\'t have the permission to remove this plugin.'
- msgstr ''
- msgid 'Unable to download plugin archive.'
- msgstr 'No es pot descarregar arxiu connector.'
- msgid 'Unable to write temporary file for plugin.'
- msgstr 'No es pot escriure el fitxer temporal per al connector.'
- msgid 'Unable to open plugin archive.'
- msgstr 'No es pot obrir arxiu de plugin.'
- msgid 'There is no file in the plugin archive.'
- msgstr 'No hi ha cap arxiu a l\'arxiu connector.'
- msgid 'Create tasks in bulk'
- msgstr 'Crear tasques a granel'
- msgid 'Your Kanboard instance is not configured to install plugins from the user interface.'
- msgstr 'La instància Kanboard no està configurat per a instal·lar plugins des de la interfície d\'usuari.'
- msgid 'There is no plugin available.'
- msgstr 'No hi ha cap complement disponible.'
- msgid 'Install'
- msgstr 'Instal·la'
- msgid 'Update'
- msgstr 'Actualitza'
- msgid 'Up to date'
- msgstr 'Actualitzat'
- msgid 'Not available'
- msgstr 'No disponible'
- msgid 'Remove plugin'
- msgstr 'Eliminar connector'
- msgid 'Do you really want to remove this plugin: "%s"?'
- msgstr ''
- msgid 'Uninstall'
- msgstr 'Suprimeix'
- msgid 'Listing'
- msgstr 'Llistat'
- msgid 'Metadata'
- msgstr 'Metadades'
- msgid 'Manage projects'
- msgstr 'Gestió de projectes'
- msgid 'Convert to task'
- msgstr 'Convertir la tasca'
- msgid 'Convert sub-task to task'
- msgstr 'Converteix sub-tasca a una altra'
- msgid 'Do you really want to convert this sub-task to a task?'
- msgstr 'Vols convertir aquesta sub-tasca a una tasca?'
- msgid 'My task title'
- msgstr 'Títol de la tasca'
- msgid 'Enter one task by line.'
- msgstr 'Introduïu una tasca per línia.'
- msgid 'Number of failed login:'
- msgstr 'Nombre d\'inici de sessió fallit:'
- msgid 'Account locked until:'
- msgstr 'Compte bloquejada fins que:'
- msgid 'Email settings'
- msgstr 'Configuració de correu electrònic'
- msgid 'Email sender address'
- msgstr 'Adreça de correu electrònic del remitent'
- msgid 'Email transport'
- msgstr 'Transport de correu electrònic'
- msgid 'Webhook token'
- msgstr 'Símbol web hook'
- msgid 'Project tags management'
- msgstr 'Gestió de projectes etiquetes'
- msgid 'Tag created successfully.'
- msgstr 'Tag creat correctament.'
- msgid 'Unable to create this tag.'
- msgstr 'No es pot crear aquesta etiqueta.'
- msgid 'Tag updated successfully.'
- msgstr 'Tag actualitzat correctament.'
- msgid 'Unable to update this tag.'
- msgstr 'No es pot actualitzar aquesta etiqueta.'
- msgid 'Tag removed successfully.'
- msgstr 'Tag eliminat correctament.'
- msgid 'Unable to remove this tag.'
- msgstr 'No es pot eliminar aquesta etiqueta.'
- msgid 'Global tags management'
- msgstr 'Gestió global d\'etiquetes'
- msgid 'Tags'
- msgstr 'Etiquetes'
- msgid 'Tags management'
- msgstr 'Gestió d\'etiquetes'
- msgid 'Add new tag'
- msgstr 'Afegeix nova etiqueta'
- msgid 'Edit a tag'
- msgstr 'Edita una etiqueta'
- msgid 'Project tags'
- msgstr 'Variables del projecte'
- msgid 'There is no specific tag for this project at the moment.'
- msgstr 'No hi ha una etiqueta específica per a aquest projecte en aquest moment.'
- msgid 'Tag'
- msgstr 'Etiqueta'
- msgid 'Remove a tag'
- msgstr 'Elimina una etiqueta'
- msgid 'Do you really want to remove this tag: "%s"?'
- msgstr ''
- msgid 'Global tags'
- msgstr 'etiquetes globals'
- msgid 'There is no global tag at the moment.'
- msgstr 'No hi ha cap variable global en el moment.'
- msgid 'This field cannot be empty'
- msgstr 'Aquest camp no pot estar buit'
- msgid 'Close a task when there is no activity in a specific column'
- msgstr 'Tancar una tasca quan no hi ha activitat en una columna específica'
- msgid '%s removed a subtask for the task #%d'
- msgstr '%s extret una subtasca per a la tasca #%d'
- msgid '%s removed a comment on the task #%d'
- msgstr '%s remogut un comentari a la tasca #%d'
- msgid 'Comment removed on task #%d'
- msgstr 'Comentari eliminat a la tasca #%d'
- msgid 'Subtask removed on task #%d'
- msgstr 'Subtasca eliminat a la tasca #%d'
- msgid 'Hide tasks in this column in the dashboard'
- msgstr 'Amaga tasques en aquesta columna al tauler d\'instruments'
- msgid '%s removed a comment on the task %s'
- msgstr '%s remogut un comentari a la tasca %s'
- msgid '%s removed a subtask for the task %s'
- msgstr '%s extret una subtasca per a la tasca %s'
- msgid 'Comment removed'
- msgstr 'Es va eliminar el comentari'
- msgid 'Subtask removed'
- msgstr 'subtasca retira'
- msgid '%s set a new internal link for the task #%d'
- msgstr '%s va establir un nou enllaç intern per a la tasca #%d'
- msgid '%s removed an internal link for the task #%d'
- msgstr '%s eliminat un enllaç intern per a la tasca #%d'
- msgid 'A new internal link for the task #%d has been defined'
- msgstr 'Un nou enllaç intern per a la tasca #%d s\'han definit'
- msgid 'Internal link removed for the task #%d'
- msgstr 'Enllaç intern eliminat la tasca #%d'
- msgid '%s set a new internal link for the task %s'
- msgstr '%s va establir un nou enllaç intern per a la tasca %s'
- msgid '%s removed an internal link for the task %s'
- msgstr '%s eliminat un enllaç intern per a la tasca %s'
- msgid 'Automatically set the due date on task creation'
- msgstr 'S\'ajusta automàticament la data de venciment a la creació de tasques'
- msgid 'Move the task to another column when closed'
- msgstr 'Mou la tasca a una altra columna quan es tanca'
- msgid 'Move the task to another column when not moved during a given period'
- msgstr 'Mou la tasca a una altra columna quan no es va moure durant un període determinat'
- msgid 'Dashboard for %s'
- msgstr 'Tauler de %s'
- msgid 'Tasks overview for %s'
- msgstr 'Resum de tasques de %s'
- msgid 'Subtasks overview for %s'
- msgstr 'Visió general de subtasques de %s'
- msgid 'Projects overview for %s'
- msgstr 'Visió general del projecte de %s'
- msgid 'Activity stream for %s'
- msgstr 'Fluxe d\'activitat per a %s'
- msgid 'Assign a color when the task is moved to a specific swimlane'
- msgstr 'Assignar un color quan la tasca es mou a un carril específic'
- msgid 'Assign a priority when the task is moved to a specific swimlane'
- msgstr 'Assignar una prioritat quan la tasca es mou a un carril específic'
- msgid 'User unlocked successfully.'
- msgstr 'Usuari desbloquejat amb èxit.'
- msgid 'Unable to unlock the user.'
- msgstr 'No és possible desbloquejar l\'usuari.'
- msgid 'Move a task to another swimlane'
- msgstr 'Mou una tasca a una altra swimlane'
- msgid 'Creator Name'
- msgstr 'nom creador'
- msgid 'Time spent and estimated'
- msgstr 'El temps dedicat i estima'
- msgid 'Move position'
- msgstr 'Mou la posició'
- msgid 'Move task to another position on the board'
- msgstr 'Mou tasca a una altra posició al tauler'
- msgid 'Insert before this task'
- msgstr 'Insereix abans aquesta tasca'
- msgid 'Insert after this task'
- msgstr 'Inserir, després d\'aquesta tasca'
- msgid 'Unlock this user'
- msgstr 'Desbloquejar aquest usuari'
- msgid 'Custom Project Roles'
- msgstr 'Rols d\'encàrrec del projecte'
- msgid 'Add a new custom role'
- msgstr 'Afegeix un nou rol'
- msgid 'Restrictions for the role "%s"'
- msgstr ''
- msgid 'Add a new project restriction'
- msgstr 'Afegeix una nova restricció projecte'
- msgid 'Add a new drag and drop restriction'
- msgstr 'Afegeix un nou arrossegar i deixar anar restricció'
- msgid 'Add a new column restriction'
- msgstr 'Afegeix una nova restricció de columna'
- msgid 'Edit this role'
- msgstr 'Edita aquest rol'
- msgid 'Remove this role'
- msgstr 'Elimina aquest rol'
- msgid 'There is no restriction for this role.'
- msgstr 'No hi ha cap restricció per a aquest rol.'
- msgid 'Only moving task between those columns is permitted'
- msgstr 'Només es mou tasques entre aquestes columnes es permet'
- msgid 'Close a task in a specific column when not moved during a given period'
- msgstr 'Tancar una tasca en una columna específica quan no es va moure durant un període determinat'
- msgid 'Edit columns'
- msgstr 'Edita columnes'
- msgid 'The column restriction has been created successfully.'
- msgstr 'La restricció de la columna s\'ha creat correctament.'
- msgid 'Unable to create this column restriction.'
- msgstr 'No es pot crear aquesta restricció columna.'
- msgid 'Column restriction removed successfully.'
- msgstr 'restricció Columna eliminat correctament.'
- msgid 'Unable to remove this restriction.'
- msgstr 'No es pot eliminar aquesta restricció.'
- msgid 'Your custom project role has been created successfully.'
- msgstr 'El seu rol projecte personalitzat s\'ha creat correctament.'
- msgid 'Unable to create custom project role.'
- msgstr 'No es pot crear el rol de projecte personalitzat.'
- msgid 'Your custom project role has been updated successfully.'
- msgstr 'El seu rol projecte personalitzat s\'ha actualitzat correctament.'
- msgid 'Unable to update custom project role.'
- msgstr 'No es pot actualitzar rol projecte personalitzat.'
- msgid 'Custom project role removed successfully.'
- msgstr 'rol projecte personalitzat eliminat correctament.'
- msgid 'Unable to remove this project role.'
- msgstr 'No es pot treure aquest rol projecte.'
- msgid 'The project restriction has been created successfully.'
- msgstr 'La restricció projecte ha estat creat amb èxit.'
- msgid 'Unable to create this project restriction.'
- msgstr 'No es pot crear aquesta restricció projecte.'
- msgid 'Project restriction removed successfully.'
- msgstr 'Projecte restricció eliminat correctament.'
- msgid 'You cannot create tasks in this column.'
- msgstr 'No es poden crear tasques en aquesta columna.'
- msgid 'Task creation is permitted for this column'
- msgstr 'Es permet la creació de tasques per a aquesta columna'
- msgid 'Closing or opening a task is permitted for this column'
- msgstr 'Tancant o obrint una tasca està permesa per a aquesta columna'
- msgid 'Task creation is blocked for this column'
- msgstr 'creació de la tasca està bloquejat per a aquesta columna'
- msgid 'Closing or opening a task is blocked for this column'
- msgstr 'Tancant o obrint una tasca està bloquejat per a aquesta columna'
- msgid 'Task creation is not permitted'
- msgstr 'No es permet la creació de tasques'
- msgid 'Closing or opening a task is not permitted'
- msgstr 'No es permet tancar o obrir una tasca'
- msgid 'New drag and drop restriction for the role "%s"'
- msgstr ''
- msgid 'People belonging to this role will be able to move tasks only between the source and the destination column.'
- msgstr 'Les persones que pertanyen a aquest rol seran capaços de moure les tasques només entre la font i la columna de destinació.'
- msgid 'Remove a column restriction'
- msgstr 'Eliminar una restricció columna'
- msgid 'Do you really want to remove this column restriction: "%s" to "%s"?'
- msgstr ''
- msgid 'New column restriction for the role "%s"'
- msgstr ''
- msgid 'Rule'
- msgstr 'regla'
- msgid 'Do you really want to remove this column restriction?'
- msgstr 'Vols eliminar aquest criteri de la columna?'
- msgid 'Custom roles'
- msgstr 'Rols personalitzats'
- msgid 'New custom project role'
- msgstr 'Nou rol projecte personalitzat'
- msgid 'Edit custom project role'
- msgstr 'Edita rol projecte personalitzat'
- msgid 'Remove a custom role'
- msgstr 'Eliminar una funció personalitzada'
- msgid 'Do you really want to remove this custom role: "%s"? All people assigned to this role will become project member.'
- msgstr ''
- msgid 'There is no custom role for this project.'
- msgstr 'No hi ha una funció personalitzada per a aquest projecte.'
- msgid 'New project restriction for the role "%s"'
- msgstr ''
- msgid 'Restriction'
- msgstr 'Restricció'
- msgid 'Remove a project restriction'
- msgstr 'Eliminar una restricció projecte'
- msgid 'Do you really want to remove this project restriction: "%s"?'
- msgstr ''
- msgid 'Duplicate to multiple projects'
- msgstr 'Duplica a múltiples projectes'
- msgid 'This field is required'
- msgstr 'Aquest camp és obligatori'
- msgid 'Moving a task is not permitted'
- msgstr 'No està permès moure una tasca'
- msgid 'This value must be in the range %d to %d'
- msgstr 'Aquest valor ha d\'estar en el rang %d a %d'
- msgid 'You are not allowed to move this task.'
- msgstr 'No se li permet moure a aquesta tasca.'
- msgid 'API User Access'
- msgstr 'L\'accés d\'usuari d\'API'
- msgid 'Preview'
- msgstr 'Vista prèvia'
- msgid 'Write'
- msgstr 'escriure'
- msgid 'Write your text in Markdown'
- msgstr 'Escriure el text en Markdown'
- msgid 'No personal API access token registered.'
- msgstr 'Sense accés a l\'API personals símbol registrat.'
- msgid 'Your personal API access token is "%s"'
- msgstr ''
- msgid 'Remove your token'
- msgstr 'Traieu el testimoni'
- msgid 'Generate a new token'
- msgstr 'Generar un nou token'
- msgid 'Showing %d-%d of %d'
- msgstr ''
- msgid 'Outgoing Emails'
- msgstr 'Els correus electrònics sortints'
- msgid 'Add or change currency rate'
- msgstr 'Afegeix o canviar el valor de moneda'
- msgid 'Reference currency: %s'
- msgstr 'moneda de referència: %s'
- msgid 'Add custom filters'
- msgstr 'Afegeix filtres personalitzats'
- msgid 'Export'
- msgstr 'exportació'
- msgid 'Add link label'
- msgstr 'Afegeix etiqueta d\'enllaç'
- msgid 'Incompatible Plugins'
- msgstr 'Connectors incompatibles'
- msgid 'Compatibility'
- msgstr 'Compatibilitat'
- msgid 'Permissions and ownership'
- msgstr 'Permisos i propietat'
- msgid 'Priorities'
- msgstr 'Prioritats'
- msgid 'Close this window'
- msgstr 'Tanca aquesta finestra'
- msgid 'Unable to upload this file.'
- msgstr 'No es pot carregar aquest arxiu.'
- msgid 'Import tasks'
- msgstr 'Importació de tasques'
- msgid 'Choose a project'
- msgstr 'Tria un projecte'
- msgid 'Profile'
- msgstr 'Perfil'
- msgid 'Application role'
- msgstr 'Rol d\'aplicació'
- msgid '%d invitations were sent.'
- msgstr 'S\'han enviat %d invitacions.'
- msgid '%d invitation was sent.'
- msgstr 'S\'han enviat %d invitacions.'
- msgid 'Unable to create this user.'
- msgstr 'No es pot crear aquest usuari.'
- msgid 'Kanboard Invitation'
- msgstr 'Invitació Kanboard'
- msgid 'Visible on dashboard'
- msgstr 'Visible al tauler'
- msgid 'Created at:'
- msgstr 'Creat el:'
- msgid 'Updated at:'
- msgstr 'Actualitzat a:'
- msgid 'There is no custom filter.'
- msgstr 'No hi ha cap filtre personal.'
- msgid 'New User'
- msgstr 'Nou usuari'
- msgid 'Authentication'
- msgstr 'Autenticació'
- msgid 'If checked, this user will use a third-party system for authentication.'
- msgstr 'Si s\'activa, aquest usuari utilitzarà un sistema de tercers per a l\'autenticació.'
- msgid 'The password is necessary only for local users.'
- msgstr 'La contrasenya és necessària només per als usuaris locals.'
- msgid 'You have been invited to register on Kanboard.'
- msgstr 'T\'han convidat a inscriure\'t al Kanboard.'
- msgid 'Click here to join your team'
- msgstr 'Fes clic aquí per unir-te a l\'equip'
- msgid 'Invite people'
- msgstr 'Convidar a més gent'
- msgid 'Emails'
- msgstr 'Correus electrònics'
- msgid 'Enter one email address by line.'
- msgstr 'Introdueix una adreça de correu electrònic per línia.'
- msgid 'Add these people to this project'
- msgstr 'Afegeix a aquestes persones a aquest projecte'
- msgid 'Add this person to this project'
- msgstr 'Afegeix aquesta persona a aquest projecte'
- msgid 'Sign-up'
- msgstr 'Registra\'t'
- msgid 'Credentials'
- msgstr 'Credencials'
- msgid 'New user'
- msgstr 'Nou usuari'
- msgid 'This username is already taken'
- msgstr 'Aquest nom d\'usuari ja està en ús'
- msgid 'Your profile must have a valid email address.'
- msgstr 'El teu perfil ha de tenir una adreça de correu electrònic vàlida.'
- msgid 'TRL - Turkish Lira'
- msgstr 'TRL - Lira turca'
- msgid 'The project email is optional and could be used by several plugins.'
- msgstr 'El correu electrònic del projecte és opcional i pot ser utilitzat per diversos connectors.'
- msgid 'The project email must be unique across all projects'
- msgstr 'El correu electrònic del projecte ha de ser únic en tots els projectes'
- msgid 'The email configuration has been disabled by the administrator.'
- msgstr 'La configuració de correu electrònic ha estat desactivat per l\'administrador.'
- msgid 'Close this project'
- msgstr 'Tanca aquest projecte'
- msgid 'Open this project'
- msgstr 'Obre aquest projecte'
- msgid 'Close a project'
- msgstr 'Tanca un projecte'
- msgid 'Do you really want to close this project: "%s"?'
- msgstr ''
- msgid 'Reopen a project'
- msgstr 'Torna a obrir un projecte'
- msgid 'Do you really want to reopen this project: "%s"?'
- msgstr ''
- msgid 'This project is open'
- msgstr 'Aquest projecte està obert'
- msgid 'This project is closed'
- msgstr 'Aquest projecte està tancat'
- msgid 'Unable to upload files, check the permissions of your data folder.'
- msgstr 'No es pot pujar arxius, comprovar els permisos de la carpeta de dades.'
- msgid 'Another category with the same name exists in this project'
- msgstr 'Una altra categoria amb el mateix nom existeix en aquest projecte'
- msgid 'Comment sent by email successfully.'
- msgstr 'Comentar enviat per correu electrònic amb èxit.'
- msgid 'Sent by email to "%s" (%s)'
- msgstr ''
- msgid 'Unable to read uploaded file.'
- msgstr 'No es pot llegir el fitxer pujat.'
- msgid 'Database uploaded successfully.'
- msgstr 'Base de dades carregat correctament.'
- msgid 'Task sent by email successfully.'
- msgstr 'Tasca enviat per correu electrònic amb èxit.'
- msgid 'There is no category in this project.'
- msgstr 'No hi ha una categoria en aquest projecte.'
- msgid 'Send by email'
- msgstr 'Envia per correu electrònic'
- msgid 'Create and send a comment by email'
- msgstr 'Per crear i enviar un comentari per correu electrònic'
- msgid 'Subject'
- msgstr 'Tema'
- msgid 'Upload the database'
- msgstr 'Puja la base de dades'
- msgid 'You could upload the previously downloaded Sqlite database (Gzip format).'
- msgstr 'Es podia pujar la base de dades SQLite prèviament descarregat (format gzip).'
- msgid 'Database file'
- msgstr 'arxiu de base'
- msgid 'Upload'
- msgstr 'Pujar'
- msgid 'Your project must have at least one active swimlane.'
- msgstr 'El seu projecte ha de tenir com a mínim un swimlane actiu.'
- msgid 'Project: %s'
- msgstr 'Projecte: %s'
- msgid 'Automatic action not found: "%s"'
- msgstr ''
- msgid '%d projects'
- msgstr '%d projectes'
- msgid '%d project'
- msgstr '%d projecte'
- msgid 'There is no project.'
- msgstr 'No hi ha cap projecte.'
- msgid 'Sort'
- msgstr 'Ordena'
- msgid 'Project ID'
- msgstr 'identificació del projecte'
- msgid 'Project name'
- msgstr 'Nom del projecte'
- msgid 'Public'
- msgstr 'Públic'
- msgid 'Personal'
- msgstr 'Privat'
- msgid '%d tasks'
- msgstr '%d tasques'
- msgid '%d task'
- msgstr '%d tasca'
- msgid 'Task ID'
- msgstr 'ID de tasca'
- msgid 'Assign automatically a color when due date is expired'
- msgstr 'Assignar automàticament un color quan ha caducat la data de venciment'
- msgid 'Total score in this column across all swimlanes'
- msgstr 'Puntuació total d\'aquesta columna a través de tots swimlanes'
- msgid 'HRK - Kuna'
- msgstr 'HRK - Kuna'
- msgid 'ARS - Argentine Peso'
- msgstr 'ARS - Pes Argentí'
- msgid 'COP - Colombian Peso'
- msgstr 'COP - Pes colombià'
- msgid '%d groups'
- msgstr '%d grups'
- msgid '%d group'
- msgstr '%d grup'
- msgid 'Group ID'
- msgstr 'ID de grup'
- msgid 'External ID'
- msgstr 'Identificació externa'
- msgid '%d users'
- msgstr '%d usuaris'
- msgid '%d user'
- msgstr '%d usuari'
- msgid 'Hide subtasks'
- msgstr 'Amaga subtasques'
- msgid 'Show subtasks'
- msgstr 'Mostra subtasques'
- msgid 'Authentication Parameters'
- msgstr 'Paràmetres d\'autenticació'
- msgid 'API Access'
- msgstr 'Accés API'
- msgid 'No users found.'
- msgstr 'No es van trobar usuaris.'
- msgid 'User ID'
- msgstr 'ID d\'usuari'
- msgid 'Notifications are activated'
- msgstr 'Notificacions habilitades'
- msgid 'Notifications are disabled'
- msgstr 'Notificacions inhabilitades'
- msgid 'User disabled'
- msgstr 'Usuari deshabilitat'
- msgid '%d notifications'
- msgstr '%d notificacions'
- msgid '%d notification'
- msgstr '%d notificació'
- msgid 'There is no external integration installed.'
- msgstr 'No hi ha integració externa instal·lada.'
- msgid 'You are not allowed to update tasks assigned to someone else.'
- msgstr 'No se li permet posar al dia les tasques assignades a una altra persona.'
- msgid 'You are not allowed to change the assignee.'
- msgstr 'No se li permet canviar el assignat.'
- msgid 'Task suppression is not permitted'
- msgstr 'No es permet la supressió de tasques'
- msgid 'Changing assignee is not permitted'
- msgstr 'No es permet el canvi de assignatari'
- msgid 'Update only assigned tasks is permitted'
- msgstr 'Actualitzar les tasques assignades només es permet'
- msgid 'Only for tasks assigned to the current user'
- msgstr 'Només per a les tasques assignades a l\'usuari actual'
- msgid 'My projects'
- msgstr 'Els meus projectes'
- msgid 'You are not a member of any project.'
- msgstr 'No és membre de cap projecte.'
- msgid 'My subtasks'
- msgstr 'Les meves subtasques'
- msgid '%d subtasks'
- msgstr '%d subtasques'
- msgid '%d subtask'
- msgstr '%d subtasca'
- msgid 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgstr 'Only moving task between those columns is permitted for tasks assigned to the current user'
- msgid '[DUPLICATE]'
- msgstr '[DUPLICATE]'
- msgid 'DKK - Danish Krona'
- msgstr ''
- msgid 'Remove user from group'
- msgstr ''
- msgid 'Assign the task to its creator'
- msgstr ''
- msgid 'This task was sent by email to "%s" with subject "%s".'
- msgstr ''
- msgid 'Predefined Email Subjects'
- msgstr ''
- msgid 'Write one subject by line.'
- msgstr ''
- msgid 'Create another link'
- msgstr ''
- msgid 'BRL - Brazilian Real'
- msgstr ''
- msgid 'Add a new Kanboard task'
- msgstr ''
- msgid 'Subtask not started'
- msgstr ''
- msgid 'Subtask currently in progress'
- msgstr ''
- msgid 'Subtask completed'
- msgstr ''
- msgid 'Subtask added successfully.'
- msgstr ''
- msgid '%d subtasks added successfully.'
- msgstr ''
- msgid 'Enter one subtask by line.'
- msgstr ''
- msgid 'Predefined Contents'
- msgstr ''
- msgid 'Predefined contents'
- msgstr ''
- msgid 'Predefined Task Description'
- msgstr ''
- msgid 'Do you really want to remove this template? "%s"'
- msgstr ''
- msgid 'Add predefined task description'
- msgstr ''
- msgid 'Predefined Task Descriptions'
- msgstr ''
- msgid 'Template created successfully.'
- msgstr ''
- msgid 'Unable to create this template.'
- msgstr ''
- msgid 'Template updated successfully.'
- msgstr ''
- msgid 'Unable to update this template.'
- msgstr ''
- msgid 'Template removed successfully.'
- msgstr ''
- msgid 'Unable to remove this template.'
- msgstr ''
- msgid 'Template for the task description'
- msgstr ''
- msgid 'The start date is greater than the end date'
- msgstr ''
- msgid 'Tags must be separated by a comma'
- msgstr ''
- msgid 'Only the task title is required'
- msgstr ''
- msgid 'Creator Username'
- msgstr ''
- msgid 'Color Name'
- msgstr ''
- msgid 'Column Name'
- msgstr ''
- msgid 'Swimlane Name'
- msgstr ''
- msgid 'Time Estimated'
- msgstr ''
- msgid 'Time Spent'
- msgstr ''
- msgid 'External Link'
- msgstr ''
- msgid 'This feature enables the iCal feed, RSS feed and the public board view.'
- msgstr ''
- msgid 'Stop the timer of all subtasks when moving a task to another column'
- msgstr ''
- msgid 'Subtask Title'
- msgstr ''
- msgid 'Add a subtask and activate the timer when moving a task to another column'
- msgstr ''
- msgid 'days'
- msgstr ''
- msgid 'minutes'
- msgstr ''
- msgid 'seconds'
- msgstr ''
- msgid 'Assign automatically a color when preset start date is reached'
- msgstr ''
- msgid 'Move the task to another column once a predefined start date is reached'
- msgstr ''
- msgid 'This task is now linked to the task %s with the relation "%s"'
- msgstr ''
- msgid 'The link with the relation "%s" to the task %s has been removed'
- msgstr ''
- msgid 'Custom Filter:'
- msgstr ''
- msgid 'Unable to find this group.'
- msgstr ''
- msgid '%s moved the task #%d to the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the position %d in the column "%s"'
- msgstr ''
- msgid '%s moved the task #%d to the swimlane "%s"'
- msgstr ''
- msgid '%sh spent'
- msgstr ''
- msgid '%sh estimated'
- msgstr ''
- msgid 'Select All'
- msgstr ''
- msgid 'Unselect All'
- msgstr ''
- msgid 'Apply action'
- msgstr ''
- msgid 'Move selected tasks to another column or swimlane'
- msgstr ''
- msgid 'Edit tasks in bulk'
- msgstr ''
- msgid 'Choose the properties that you would like to change for the selected tasks.'
- msgstr ''
- msgid 'Configure this project'
- msgstr ''
- msgid 'Start now'
- msgstr ''
- msgid '%s removed a file from the task #%d'
- msgstr ''
- msgid 'Attachment removed from task #%d: %s'
- msgstr ''
- msgid 'No color'
- msgstr ''
- msgid 'Attachment removed "%s"'
- msgstr ''
- msgid '%s removed a file from the task %s'
- msgstr ''
- msgid 'Move the task to another swimlane when assigned to a user'
- msgstr ''
- msgid 'Destination swimlane'
- msgstr ''
- msgid 'Assign a category when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Move the task to another swimlane when the category is changed'
- msgstr ''
- msgid 'Reorder this column by priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (ASC)'
- msgstr ''
- msgid 'Reorder this column by assignee and priority (DESC)'
- msgstr ''
- msgid 'Reorder this column by assignee (A-Z)'
- msgstr ''
- msgid 'Reorder this column by assignee (Z-A)'
- msgstr ''
- msgid 'Reorder this column by due date (ASC)'
- msgstr ''
- msgid 'Reorder this column by due date (DESC)'
- msgstr ''
- msgid '%s moved the task #%d "%s" to the project "%s"'
- msgstr ''
- msgid 'Task #%d "%s" has been moved to the project "%s"'
- msgstr ''
- msgid 'Move the task to another column when the due date is less than a certain number of days'
- msgstr ''
- msgid 'Automatically update the start date when the task is moved away from a specific column'
- msgstr ''
- msgid 'HTTP Client:'
- msgstr ''
- msgid 'Assigned'
- msgstr ''
- msgid 'Task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits apply to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied to each swimlane individually'
- msgstr ''
- msgid 'Column task limits are applied across swimlanes'
- msgstr ''
- msgid 'Task limit: '
- msgstr ''
- msgid 'Change to global tag'
- msgstr ''
- msgid 'Do you really want to make the tag "%s" global?'
- msgstr ''
- msgid 'Enable global tags for this project'
- msgstr ''
- msgid 'Group membership(s):'
- msgstr ''
- msgid '%s is a member of the following group(s): %s'
- msgstr ''
- msgid '%d/%d group(s) shown'
- msgstr ''
- msgid 'Subtask creation or modification'
- msgstr ''
- msgid 'Assign the task to a specific user when the task is moved to a specific swimlane'
- msgstr ''
- msgid 'Comment'
- msgstr ''
- msgid 'Collapse vertically'
- msgstr ''
- msgid 'Expand vertically'
- msgstr ''
- msgid 'MXN - Mexican Peso'
- msgstr ''
- msgid 'Estimated vs actual time per column'
- msgstr ''
- msgid 'HUF - Hungarian Forint'
- msgstr ''
- msgid 'XBT - Bitcoin'
- msgstr ''
- msgid 'You must select a file to upload as your avatar!'
- msgstr ''
- msgid 'The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)'
- msgstr ''
- msgid 'Automatically set the due date when the task is moved away from a specific column'
- msgstr ''
- msgid 'No other projects found.'
- msgstr ''
- msgid 'Please choose a project you want to copy the tasks from.'
- msgstr ''
- msgid 'Import Tasks'
- msgstr ''
- msgid 'Copy'
- msgstr ''
- msgid 'Tasks copied successfully.'
- msgstr ''
- msgid 'Unable to copy tasks.'
- msgstr ''
+msgid "number.decimals_separator"
+msgstr ","
+msgid "number.thousands_separator"
+msgstr " "
+msgid "None"
+msgstr "Cap"
+msgid "Edit"
+msgstr "Edita"
+msgid "Remove"
+msgstr "Elimina"
+msgid "Yes"
+msgstr "Si"
+msgid "No"
+msgstr "No"
+msgid "cancel"
+msgstr "cancel·la"
+msgid "or"
+msgstr "o"
+msgid "Yellow"
+msgstr "Groc"
+msgid "Blue"
+msgstr "Blau"
+msgid "Green"
+msgstr "Verd"
+msgid "Purple"
+msgstr "Lil·la"
+msgid "Red"
+msgstr "Vermell"
+msgid "Orange"
+msgstr "Taronja"
+msgid "Grey"
+msgstr "Gris"
+msgid "Brown"
+msgstr "Marró"
+msgid "Deep Orange"
+msgstr "Taronja fosc"
+msgid "Dark Grey"
+msgstr "Gris fosc"
+msgid "Pink"
+msgstr "Rosa"
+msgid "Teal"
+msgstr "Turquessa"
+msgid "Cyan"
+msgstr "Cian"
+msgid "Lime"
+msgstr "Lima"
+msgid "Light Green"
+msgstr "Verd clar"
+msgid "Amber"
+msgstr "Ambre"
+msgid "Save"
+msgstr "Desa"
+msgid "Login"
+msgstr "Inicia la sessió"
+msgid "Official website:"
+msgstr "Pàgina web oficial:"
+msgid "Unassigned"
+msgstr "Sense assignar"
+msgid "View this task"
+msgstr "Veure aquesta tasca"
+msgid "Remove user"
+msgstr "Eliminar usuari"
+msgid "Do you really want to remove this user: \"%s\"?"
+msgstr "Vols eliminar aquest usuari: \"%s\"?"
+msgid "All users"
+msgstr "Tots els usuaris"
+msgid "Username"
+msgstr "Nom d'usuari"
+msgid "Password"
+msgstr "Contrasenya"
+msgid "Administrator"
+msgstr "Administrador"
+msgid "Sign in"
+msgstr "Accedeix"
+msgid "Users"
+msgstr "Usuaris"
+msgid "Forbidden"
+msgstr "Prohibit"
+msgid "Access Forbidden"
+msgstr "Accés prohibit"
+msgid "Edit user"
+msgstr "Edita usuaris"
+msgid "Logout"
+msgstr "Tanca sessió"
+msgid "Bad username or password"
+msgstr "Usuari o contrasenya no existeix"
+msgid "Edit project"
+msgstr "Edita el projecte"
+msgid "Name"
+msgstr "Nom"
+msgid "Projects"
+msgstr "Projectes"
+msgid "No project"
+msgstr "Cap projecte"
+msgid "Project"
+msgstr "Projecte"
+msgid "Status"
+msgstr "Estat"
+msgid "Tasks"
+msgstr "Tasques"
+msgid "Board"
+msgstr "Tauler"
+msgid "Actions"
+msgstr "Accions"
+msgid "Inactive"
+msgstr "Inactiu"
+msgid "Active"
+msgstr "Actiu"
+msgid "Unable to update this board."
+msgstr "No es pot actualitzar aquest tauler."
+msgid "Disable"
+msgstr "Desactivar"
+msgid "Enable"
+msgstr "Habilita"
+msgid "New project"
+msgstr "Nou projecte"
+msgid "Do you really want to remove this project: \"%s\"?"
+msgstr "Vols eliminar aquest projecte: \"%s\"?"
+msgid "Remove project"
+msgstr "Elimina projecte"
+msgid "Edit the board for \"%s\""
+msgstr "Edita el tauler de \"%s\""
+msgid "Add a new column"
+msgstr "Afegeix una nova columna"
+msgid "Title"
+msgstr "Títol"
+msgid "Assigned to %s"
+msgstr "Assignat a %s"
+msgid "Remove a column"
+msgstr "Eliminar una columna"
+msgid "Unable to remove this column."
+msgstr "No es pot eliminar aquesta columna."
+msgid "Do you really want to remove this column: \"%s\"?"
+msgstr "Vols eliminar aquesta columna: \"%s\"?"
+msgid "Settings"
+msgstr "Configuració"
+msgid "Application settings"
+msgstr "Configuració de l'aplicació"
+msgid "Language"
+msgstr "Idioma"
+msgid "Webhook token:"
+msgstr "Web hook token:"
+msgid "API token:"
+msgstr "Token de l'API:"
+msgid "Database size:"
+msgstr "Mida de la base de dades:"
+msgid "Download the database"
+msgstr "Descarregar la base de dades"
+msgid "Optimize the database"
+msgstr "Optimitzar la base de dades"
+msgid "(VACUUM command)"
+msgstr "(Comanda VACUUM)"
+msgid "(Gzip compressed Sqlite file)"
+msgstr "(Arxiu comprimit gzip SQLite)"
+msgid "Close a task"
+msgstr "Tancar una tasca"
+msgid "Column"
+msgstr "Columna"
+msgid "Color"
+msgstr "Color"
+msgid "Assignee"
+msgstr "Assignat a"
+msgid "Create another task"
+msgstr "Crear una altra tasca"
+msgid "New task"
+msgstr "Nova tasca"
+msgid "Open a task"
+msgstr "Obrir una tasca"
+msgid "Do you really want to open this task: \"%s\"?"
+msgstr "Vols obrir aquesta tasca: \"%s\"?"
+msgid "Back to the board"
+msgstr "Torna al tauler"
+msgid "There is nobody assigned"
+msgstr "No hi ha ningú assignat"
+msgid "Column on the board:"
+msgstr "Columna al tauler:"
+msgid "Close this task"
+msgstr "Tanca aquesta tasca"
+msgid "Open this task"
+msgstr "Obre aquesta tasca"
+msgid "There is no description."
+msgstr "No hi ha cap descripció."
+msgid "Add a new task"
+msgstr "Afegeix una nova tasca"
+msgid "The username is required"
+msgstr "Es requereix el nom d'usuari"
+msgid "The maximum length is %d characters"
+msgstr "La longitud màxima és de %d caràcters"
+msgid "The minimum length is %d characters"
+msgstr "La longitud mínima és %d caràcters"
+msgid "The password is required"
+msgstr "La contrasenya és necessària"
+msgid "This value must be an integer"
+msgstr "Aquest valor ha de ser un nombre enter"
+msgid "The username must be unique"
+msgstr "El nom d'usuari ha de ser únic"
+msgid "The user id is required"
+msgstr "Es requereix que l'ID d'usuari"
+msgid "Passwords don't match"
+msgstr "Les contrasenyes no coincideixen"
+msgid "The confirmation is required"
+msgstr "Es requereix la confirmació"
+msgid "The project is required"
+msgstr "Es requereix el projecte"
+msgid "The id is required"
+msgstr "Es requereix que l'ID"
+msgid "The project id is required"
+msgstr "Es requereix que l'identificador del projecte"
+msgid "The project name is required"
+msgstr "Es requereix el nom del projecte"
+msgid "The title is required"
+msgstr "Es requereix el títol"
+msgid "Settings saved successfully."
+msgstr "La configuració es va guardar amb èxit."
+msgid "Unable to save your settings."
+msgstr "No es pot desar la configuració."
+msgid "Database optimization done."
+msgstr "Optimització de bases de dades realitza."
+msgid "Your project has been created successfully."
+msgstr "El seu projecte s'han creat amb èxit."
+msgid "Unable to create your project."
+msgstr "No es pot crear el projecte."
+msgid "Project updated successfully."
+msgstr "Projecte actualitzat correctament."
+msgid "Unable to update this project."
+msgstr "No es pot actualitzar aquest projecte."
+msgid "Unable to remove this project."
+msgstr "No es pot eliminar aquest projecte."
+msgid "Project removed successfully."
+msgstr "Projecte eliminat correctament."
+msgid "Project activated successfully."
+msgstr "Projecte activat correctament."
+msgid "Unable to activate this project."
+msgstr "No es pot activar aquest projecte."
+msgid "Project disabled successfully."
+msgstr "Projecte deshabilitat amb èxit."
+msgid "Unable to disable this project."
+msgstr "No és possible desactivar aquest projecte."
+msgid "Unable to open this task."
+msgstr "No es pot obrir aquesta tasca."
+msgid "Task opened successfully."
+msgstr "Tasca oberta amb èxit."
+msgid "Unable to close this task."
+msgstr "No es pot tancar aquesta tasca."
+msgid "Task closed successfully."
+msgstr "Tasca tancada amb èxit."
+msgid "Unable to update your task."
+msgstr "No es pot actualitzar la seva tasca."
+msgid "Task updated successfully."
+msgstr "Tasca actualitzada correctament."
+msgid "Unable to create your task."
+msgstr "No es pot crear la tasca."
+msgid "Task created successfully."
+msgstr "Tasca creada correctament."
+msgid "User created successfully."
+msgstr "L'usuari ha creat correctament."
+msgid "Unable to create your user."
+msgstr "No es pot crear l'usuari."
+msgid "User updated successfully."
+msgstr "Usuari actualitzat correctament."
+msgid "User removed successfully."
+msgstr "Usuari eliminat correctament."
+msgid "Unable to remove this user."
+msgstr "No es pot eliminar aquest usuari."
+msgid "Board updated successfully."
+msgstr "Tauler actualitzat correctament."
+msgid "Ready"
+msgstr "Preparat"
+msgid "Backlog"
+msgstr "Pendent"
+msgid "Work in progress"
+msgstr "En curs"
+msgid "Done"
+msgstr "Fet"
+msgid "Application version:"
+msgstr "Versió de l'aplicació:"
+msgid "Id"
+msgstr "Identificació"
+msgid "Public link"
+msgstr "Enllaç públic"
+msgid "Timezone"
+msgstr "Zona horària"
+msgid "Sorry, I didn't find this information in my database!"
+msgstr "No s'ha trobat la informació a la base de dades!"
+msgid "Page not found"
+msgstr "Pàgina no trobada"
+msgid "Complexity"
+msgstr "Dificultat"
+msgid "Task limit"
+msgstr "Límit de tasques"
+msgid "Task count"
+msgstr "Recompte de tasques"
+msgid "User"
+msgstr "Usuari"
+msgid "Comments"
+msgstr "Comentaris"
+msgid "Comment is required"
+msgstr "Es requereix comentari"
+msgid "Comment added successfully."
+msgstr "Comentari afegit amb èxit."
+msgid "Unable to create your comment."
+msgstr "No es pot crear el seu comentari."
+msgid "Due Date"
+msgstr "Data de venciment"
+msgid "Invalid date"
+msgstr "Data no vàlida"
+msgid "Automatic actions"
+msgstr "Accions automàtiques"
+msgid "Your automatic action has been created successfully."
+msgstr "La seva acció automàtica s'han creat amb èxit."
+msgid "Unable to create your automatic action."
+msgstr "No es pot crear la seva acció automàtica."
+msgid "Remove an action"
+msgstr "Eliminar una acció"
+msgid "Unable to remove this action."
+msgstr "No es pot eliminar aquesta acció."
+msgid "Action removed successfully."
+msgstr "Acció eliminat correctament."
+msgid "Automatic actions for the project \"%s\""
+msgstr "Accions automàtiques per al projecte \"%s\""
+msgid "Add an action"
+msgstr "Afegeix una acció"
+msgid "Event name"
+msgstr "Nom de l'esdeveniment"
+msgid "Action"
+msgstr "Acció"
+msgid "Event"
+msgstr "Esdeveniment"
+msgid "When the selected event occurs execute the corresponding action."
+msgstr "Quan es produeix l'esdeveniment seleccionat executar l'acció corresponent."
+msgid "Next step"
+msgstr "Següent pas"
+msgid "Define action parameters"
+msgstr "Definir paràmetres d'acció"
+msgid "Do you really want to remove this action: \"%s\"?"
+msgstr "Vols eliminar aquesta acció: \"%s\"?"
+msgid "Remove an automatic action"
+msgstr "Eliminar una acció automàtica"
+msgid "Assign the task to a specific user"
+msgstr "Assignar la tasca a un usuari específic"
+msgid "Assign the task to the person who does the action"
+msgstr "Assignar la tasca a la persona que fa l'acció"
+msgid "Duplicate the task to another project"
+msgstr "Duplica la tasca a un altre projecte"
+msgid "Move a task to another column"
+msgstr "Mou una tasca a una altra columna"
+msgid "Task modification"
+msgstr "Modificació de tasques"
+msgid "Task creation"
+msgstr "Creació de tasques"
+msgid "Closing a task"
+msgstr "El tancament d'una tasca"
+msgid "Assign a color to a specific user"
+msgstr "Assignar un color a un usuari específic"
+msgid "Position"
+msgstr "Posició"
+msgid "Duplicate to project"
+msgstr "Duplica a un altre projecte"
+msgid "Duplicate"
+msgstr "Duplica"
+msgid "Link"
+msgstr "Enllaç"
+msgid "Comment updated successfully."
+msgstr "Comentari actualitzat correctament."
+msgid "Unable to update your comment."
+msgstr "No es pot actualitzar el seu comentari."
+msgid "Remove a comment"
+msgstr "Retirar un comentari"
+msgid "Comment removed successfully."
+msgstr "Comentari eliminat correctament."
+msgid "Unable to remove this comment."
+msgstr "No es pot eliminar aquest comentari."
+msgid "Do you really want to remove this comment?"
+msgstr "Vols eliminar aquest comentari?"
+msgid "Current password for the user \"%s\""
+msgstr "Contrasenya actual per a l'usuari \"%s\""
+msgid "The current password is required"
+msgstr "Es requereix la contrasenya actual"
+msgid "Wrong password"
+msgstr "Contrasenya incorrecta"
+msgid "Unknown"
+msgstr "Desconegut"
+msgid "Last logins"
+msgstr "Últims inicis de sessió"
+msgid "Login date"
+msgstr "Data d'inici de sessió"
+msgid "Authentication method"
+msgstr "Mètode d'autenticació"
+msgid "IP address"
+msgstr "Adreça IP"
+msgid "User agent"
+msgstr "Agent d'usuari"
+msgid "Persistent connections"
+msgstr "Les connexions persistents"
+msgid "No session."
+msgstr "Cap sessió."
+msgid "Expiration date"
+msgstr "Data de caducitat"
+msgid "Remember Me"
+msgstr "Recorda'm"
+msgid "Creation date"
+msgstr "Data de creació"
+msgid "Everybody"
+msgstr "Tothom"
+msgid "Open"
+msgstr "Obert"
+msgid "Closed"
+msgstr "Tancat"
+msgid "Search"
+msgstr "Cerca"
+msgid "Nothing found."
+msgstr "No s'ha trobat res."
+msgid "Due date"
+msgstr "Data de venciment"
+msgid "Description"
+msgstr "Descripció"
+msgid "%d comments"
+msgstr "%d comentaris"
+msgid "%d comment"
+msgstr "%d comentari"
+msgid "Email address invalid"
+msgstr "Adreça de correu electrònic no vàlida"
+msgid "Your external account is not linked anymore to your profile."
+msgstr "El seu compte extern no està vinculada més al seu perfil."
+msgid "Unable to unlink your external account."
+msgstr "No és possible desvincular el compte extern."
+msgid "External authentication failed"
+msgstr "L'autenticació externa va fallar"
+msgid "Your external account is linked to your profile successfully."
+msgstr "El seu compte extern està vinculada al seu perfil correctament."
+msgid "Email"
+msgstr "E-mail"
+msgid "Task removed successfully."
+msgstr "Tasca eliminat correctament."
+msgid "Unable to remove this task."
+msgstr "No es pot eliminar aquesta tasca."
+msgid "Remove a task"
+msgstr "Treure una tasca"
+msgid "Do you really want to remove this task: \"%s\"?"
+msgstr "Vols eliminar aquesta tasca: \"%s\"?"
+msgid "Assign automatically a color based on a category"
+msgstr "Assignar automàticament un color basat en una categoria"
+msgid "Assign automatically a category based on a color"
+msgstr "Assignar automàticament una categoria basada en un color"
+msgid "Task creation or modification"
+msgstr "Creació o modificació de tasques"
+msgid "Category"
+msgstr "Categoria"
+msgid "Category:"
+msgstr "Categoria:"
+msgid "Categories"
+msgstr "Categories"
+msgid "Your category has been created successfully."
+msgstr "La seva categoria s'han creat amb èxit."
+msgid "This category has been updated successfully."
+msgstr "Aquesta categoria s'ha actualitzat correctament."
+msgid "Unable to update this category."
+msgstr "No es pot actualitzar aquesta categoria."
+msgid "Remove a category"
+msgstr "Eliminar una categoria"
+msgid "Category removed successfully."
+msgstr "Categoria eliminat correctament."
+msgid "Unable to remove this category."
+msgstr "No es pot eliminar aquesta categoria."
+msgid "Category modification for the project \"%s\""
+msgstr "Modificació de la categoria pel projecte \"%s\""
+msgid "Category Name"
+msgstr "Nom de categoria"
+msgid "Add a new category"
+msgstr "Afegeix una nova categoria"
+msgid "Do you really want to remove this category: \"%s\"?"
+msgstr "Vols eliminar aquesta categoria: \"%s\"?"
+msgid "All categories"
+msgstr "Totes les categories"
+msgid "No category"
+msgstr "sense categoria"
+msgid "The name is required"
+msgstr "Es requereix el nom"
+msgid "Remove a file"
+msgstr "Suprimir un fitxer"
+msgid "Unable to remove this file."
+msgstr "No es pot eliminar aquest arxiu."
+msgid "File removed successfully."
+msgstr "Arxiu eliminat amb èxit."
+msgid "Attach a document"
+msgstr "Adjunta un document"
+msgid "Do you really want to remove this file: \"%s\"?"
+msgstr "Vols eliminar aquesta imatge: \"%s\"?"
+msgid "Attachments"
+msgstr "Adjunts"
+msgid "Edit the task"
+msgstr "Edita la tasca"
+msgid "Add a comment"
+msgstr "Afegeix un comentari"
+msgid "Edit a comment"
+msgstr "Edita un comentari"
+msgid "Summary"
+msgstr "Resum"
+msgid "Time tracking"
+msgstr "Control d'hores"
+msgid "Estimate:"
+msgstr "Estimació:"
+msgid "Spent:"
+msgstr "Utilitzat:"
+msgid "Do you really want to remove this sub-task?"
+msgstr "Realment voleu eliminar aquesta sub-tasca?"
+msgid "Remaining:"
+msgstr "Restant:"
+msgid "hours"
+msgstr "hores"
+msgid "estimated"
+msgstr "estimat"
+msgid "Sub-Tasks"
+msgstr "Subtasques"
+msgid "Add a sub-task"
+msgstr "Afegeix una subtasca"
+msgid "Original estimate"
+msgstr "Estimació original"
+msgid "Create another sub-task"
+msgstr "Crear una altra subtasca"
+msgid "Time spent"
+msgstr "El temps dedicat"
+msgid "Edit a sub-task"
+msgstr "Editar una subtasca"
+msgid "Remove a sub-task"
+msgstr "Suprimir una subtasca"
+msgid "The time must be a numeric value"
+msgstr "El temps ha de ser un valor numèric"
+msgid "Todo"
+msgstr "Fer"
+msgid "In progress"
+msgstr "En progrés"
+msgid "Sub-task removed successfully."
+msgstr "Subtasca eliminat correctament."
+msgid "Unable to remove this sub-task."
+msgstr "No es pot eliminar aquesta sub-tasques."
+msgid "Sub-task updated successfully."
+msgstr "Subtasca actualitzat correctament."
+msgid "Unable to update your sub-task."
+msgstr "No es pot actualitzar el seu sub-tasques."
+msgid "Unable to create your sub-task."
+msgstr "No es pot crear el sub-tasques."
+msgid "Maximum size: "
+msgstr "Mida màxima: "
+msgid "Display another project"
+msgstr "Mostra un altre projecte"
+msgid "Created by %s"
+msgstr "Creat per %s"
+msgid "Tasks Export"
+msgstr "Exportació de tasques"
+msgid "Start Date"
+msgstr "Data d'inici"
+msgid "Execute"
+msgstr "Executar"
+msgid "Task Id"
+msgstr "ID de tasca"
+msgid "Creator"
+msgstr "Creador"
+msgid "Modification date"
+msgstr "Data de modificació"
+msgid "Completion date"
+msgstr "Data de finalització"
+msgid "Clone"
+msgstr "Clon"
+msgid "Project cloned successfully."
+msgstr "Projecte clonat amb èxit."
+msgid "Unable to clone this project."
+msgstr "No és possible clonar aquest projecte."
+msgid "Enable email notifications"
+msgstr "Activa notificacions per correu electrònic"
+msgid "Task position:"
+msgstr "Posició de la tasca:"
+msgid "The task #%d has been opened."
+msgstr "La tasca #%d s'ha obert."
+msgid "The task #%d has been closed."
+msgstr "La tasca #%d s'ha tancat."
+msgid "Sub-task updated"
+msgstr "Subtasca actualitza"
+msgid "Title:"
+msgstr "Títol:"
+msgid "Status:"
+msgstr "Estat:"
+msgid "Assignee:"
+msgstr "Assignat a:"
+msgid "Time tracking:"
+msgstr "Control d'hores:"
+msgid "New sub-task"
+msgstr "Nova subtasca"
+msgid "New attachment added \"%s\""
+msgstr "Nou adjunt afegit \"%s\""
+msgid "New comment posted by %s"
+msgstr "Nou comentari Publicat per %s"
+msgid "New comment"
+msgstr "Nou comentari"
+msgid "Comment updated"
+msgstr "Comentari actualitzat"
+msgid "New subtask"
+msgstr "Nova subtasca"
+msgid "I only want to receive notifications for these projects:"
+msgstr "Vull rebre notificacions només per a aquells projectes:"
+msgid "view the task on Kanboard"
+msgstr "Veure la tasca en Kanboard"
+msgid "Public access"
+msgstr "Accés públic"
+msgid "Disable public access"
+msgstr "Deshabilitar l'accés del públic"
+msgid "Enable public access"
+msgstr "Permetre l'accés del públic"
+msgid "Public access disabled"
+msgstr "L'accés públic deshabilitat"
+msgid "Move the task to another project"
+msgstr "Mou la tasca a un altre projecte"
+msgid "Move to project"
+msgstr "Mou a un altre projecte"
+msgid "Do you really want to duplicate this task?"
+msgstr "És el que realment desitja duplicar aquesta tasca?"
+msgid "Duplicate a task"
+msgstr "Duplica una tasca"
+msgid "External accounts"
+msgstr "Els comptes externes"
+msgid "Account type"
+msgstr "Tipus de compte"
+msgid "Local"
+msgstr "Local"
+msgid "Remote"
+msgstr "Remot"
+msgid "Enabled"
+msgstr "Habilitat"
+msgid "Disabled"
+msgstr "Inhabilitat"
+msgid "Login:"
+msgstr "Iniciar Sessió:"
+msgid "Full Name:"
+msgstr "Nom complet:"
+msgid "Email:"
+msgstr "E-mail:"
+msgid "Notifications:"
+msgstr "Notificacions:"
+msgid "Notifications"
+msgstr "Notificacions"
+msgid "Account type:"
+msgstr "Tipus de compte:"
+msgid "Edit profile"
+msgstr "Editar el perfil"
+msgid "Change password"
+msgstr "Canvia la contrasenya"
+msgid "Password modification"
+msgstr "Modificació de la contrasenya"
+msgid "External authentications"
+msgstr "Autenticacions externes"
+msgid "Never connected."
+msgstr "Mai connectada."
+msgid "No external authentication enabled."
+msgstr "No s'habilita l'autenticació externa."
+msgid "Password modified successfully."
+msgstr "Contrasenya modificat correctament."
+msgid "Unable to change the password."
+msgstr "No es pot canviar la contrasenya."
+msgid "Change category"
+msgstr "Canvia la categoria"
+msgid "%s updated the task %s"
+msgstr "%s ha actualitzat la tasca %s"
+msgid "%s opened the task %s"
+msgstr "%s ha obert la tasca %s"
+msgid "%s moved the task %s to the position #%d in the column \"%s\""
+msgstr "%s ha mogut la tasca %s a la posició #%d de la columna \"%s\""
+msgid "%s moved the task %s to the column \"%s\""
+msgstr "%s ha mogut la tasca %s a la columna \"%s\""
+msgid "%s created the task %s"
+msgstr "%s creat la tasca %s"
+msgid "%s closed the task %s"
+msgstr "%s tancada la tasca %s"
+msgid "%s created a subtask for the task %s"
+msgstr "%s creat una subtasca de la tasca %s"
+msgid "%s updated a subtask for the task %s"
+msgstr "%s actualitzada una subtasca de la tasca %s"
+msgid "Assigned to %s with an estimate of %s/%sh"
+msgstr "Assignat a %s amb un temps estimat de %s/%sh"
+msgid "Not assigned, estimate of %sh"
+msgstr "No assignat, estimat de %sh"
+msgid "%s updated a comment on the task %s"
+msgstr "%s ha actualitzat un comentari a la tasca %s"
+msgid "%s commented the task %s"
+msgstr "%s ha comentat la tasca %s"
+msgid "%s's activity"
+msgstr "L'activitat de %s"
+msgid "RSS feed"
+msgstr "RSS feed"
+msgid "%s updated a comment on the task #%d"
+msgstr "%s s'actualitzen un comentari a la tasca #%d"
+msgid "%s commented on the task #%d"
+msgstr "%s comentat a la tasca #%d"
+msgid "%s updated a subtask for the task #%d"
+msgstr "%s s'actualitzen un subtasca de la tasca #%d"
+msgid "%s created a subtask for the task #%d"
+msgstr "%s creat una subtasca de la tasca #%d"
+msgid "%s updated the task #%d"
+msgstr "%s actualitzada la tasca #%d"
+msgid "%s created the task #%d"
+msgstr "%s creat la tasca #%d"
+msgid "%s closed the task #%d"
+msgstr "%s van tancar la tasca #%d"
+msgid "%s opened the task #%d"
+msgstr "%s va obrir la tasca #%d"
+msgid "Activity"
+msgstr "Activitat"
+msgid "Default values are \"%s\""
+msgstr "Els valors per defecte son \"%s\""
+msgid "Default columns for new projects (Comma-separated)"
+msgstr "Columnes predeterminades per a nous projectes (separats per comes)"
+msgid "Task assignee change"
+msgstr "Tasca de canvi del assignat"
+msgid "%s changed the assignee of the task #%d to %s"
+msgstr "%s va canviar el assignat de la tasca #%d de %s"
+msgid "%s changed the assignee of the task %s to %s"
+msgstr "%s va canviar el assignat de la tasca %s %s"
+msgid "New password for the user \"%s\""
+msgstr "Nova contrasenya per a l'usuari \"%s\""
+msgid "Choose an event"
+msgstr "Tria un esdeveniment"
+msgid "Create a task from an external provider"
+msgstr "Crear una tasca d'un proveïdor extern"
+msgid "Change the assignee based on an external username"
+msgstr "Canviar el assignat basat en un nom d'usuari extern"
+msgid "Change the category based on an external label"
+msgstr "Canviar la categoria en funció d'una etiqueta externa"
+msgid "Reference"
+msgstr "Referència"
+msgid "Label"
+msgstr "Etiqueta"
+msgid "Database"
+msgstr "Base de dades"
+msgid "About"
+msgstr "Quant a"
+msgid "Database driver:"
+msgstr "Controlador de base de dades:"
+msgid "Board settings"
+msgstr "Paràmetres del tauler"
+msgid "Webhook settings"
+msgstr "Configuració web hook"
+msgid "Reset token"
+msgstr "Reinicia el token"
+msgid "API endpoint:"
+msgstr "API de punt final:"
+msgid "Refresh interval for personal board"
+msgstr "Interval d'actualització per al tauler privada"
+msgid "Refresh interval for public board"
+msgstr "Interval d'actualització per al tauler pública"
+msgid "Task highlight period"
+msgstr "Període culminant de tasques"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Període (en segons) per considerar una tasca es va modificar recentment (0 per desactivar, 2 dies de defecte)"
+msgid "Frequency in second (60 seconds by default)"
+msgstr "Freqüència en segons (60 segons per defecte)"
+msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
+msgstr "Freqüència en segons (0 per desactivar aquesta característica, 10 segons per defecte)"
+msgid "Application URL"
+msgstr "URL de l'aplicació"
+msgid "Token regenerated."
+msgstr "Token regenerat."
+msgid "Date format"
+msgstr "Format de dates"
+msgid "ISO format is always accepted, example: \"%s\" and \"%s\""
+msgstr "Sempre s'accepta el format ISO, exemple \"%s\" i \"%s\""
+msgid "New personal project"
+msgstr "Nou projecte privat"
+msgid "This project is personal"
+msgstr "Aquest projecte és privat"
+msgid "Add"
+msgstr "Afegeix"
+msgid "Start date"
+msgstr "Data d'inici"
+msgid "Time estimated"
+msgstr "Temps estimat"
+msgid "There is nothing assigned to you."
+msgstr "No tens res assignat."
+msgid "My tasks"
+msgstr "Les meves tasques"
+msgid "Activity stream"
+msgstr "Fluxe d'activitat"
+msgid "Dashboard"
+msgstr "Panell"
+msgid "Confirmation"
+msgstr "Confirmació"
+msgid "Webhooks"
+msgstr "WebHooks"
+msgid "API"
+msgstr "API"
+msgid "Create a comment from an external provider"
+msgstr "Crear un comentari d'un proveïdor extern"
+msgid "Project management"
+msgstr "Gestió de projectes"
+msgid "Columns"
+msgstr "Columnes"
+msgid "Task"
+msgstr "Tasca"
+msgid "Percentage"
+msgstr "Percentatge"
+msgid "Number of tasks"
+msgstr "Nombre de tasques"
+msgid "Task distribution"
+msgstr "Distribució de tasques"
+msgid "Analytics"
+msgstr "Analítica"
+msgid "Subtask"
+msgstr "Subtasca"
+msgid "User repartition"
+msgstr "Repartiment d'usuari"
+msgid "Clone this project"
+msgstr "Clonar aquest projecte"
+msgid "Column removed successfully."
+msgstr "Columna eliminat correctament."
+msgid "Not enough data to show the graph."
+msgstr "No hi ha dades suficients per mostrar el gràfic."
+msgid "Previous"
+msgstr "Anterior"
+msgid "The id must be an integer"
+msgstr "L'identificador ha de ser un nombre enter"
+msgid "The project id must be an integer"
+msgstr "L'identificador de projecte ha de ser un enter"
+msgid "The status must be an integer"
+msgstr "L'estat ha de ser un enter"
+msgid "The subtask id is required"
+msgstr "Es requereix que l'ID subtasca"
+msgid "The subtask id must be an integer"
+msgstr "L'identificador de subtasca ha de ser un enter"
+msgid "The task id is required"
+msgstr "Es requereix que l'ID de tasca"
+msgid "The task id must be an integer"
+msgstr "L'identificador de tasca ha de ser un enter"
+msgid "The user id must be an integer"
+msgstr "L'identificador d'usuari ha de ser un nombre enter"
+msgid "This value is required"
+msgstr "Aquest valor és necessari"
+msgid "This value must be numeric"
+msgstr "Aquest valor ha de ser numèric"
+msgid "Unable to create this task."
+msgstr "No es pot crear aquesta tasca."
+msgid "Cumulative flow diagram"
+msgstr "Diagrama de flux acumulat"
+msgid "Daily project summary"
+msgstr "Resum diari projecte"
+msgid "Daily project summary export"
+msgstr "Exportació del resum diari del projecte"
+msgid "Exports"
+msgstr "Exportacions"
+msgid "This export contains the number of tasks per column grouped per day."
+msgstr "Aquesta exportació conté el nombre de tasques per columna agrupada per dia."
+msgid "Active swimlanes"
+msgstr "Swimlanes actius"
+msgid "Add a new swimlane"
+msgstr "Afegeix un nou swimlane"
+msgid "Default swimlane"
+msgstr "Swimlane per defecte"
+msgid "Do you really want to remove this swimlane: \"%s\"?"
+msgstr "Segur que vols eliminar la swimlane: \"%s\""
+msgid "Inactive swimlanes"
+msgstr "Swimlanes inactius"
+msgid "Remove a swimlane"
+msgstr "Traieu un carril"
+msgid "Swimlane modification for the project \"%s\""
+msgstr "Modificació del swimlane pel projecte \"%s\""
+msgid "Swimlane removed successfully."
+msgstr "Swimlane eliminat correctament."
+msgid "Swimlanes"
+msgstr "Swimlanes"
+msgid "Swimlane updated successfully."
+msgstr "Swimlane actualitzat correctament."
+msgid "Unable to remove this swimlane."
+msgstr "No es pot eliminar aquest swimlane."
+msgid "Unable to update this swimlane."
+msgstr "No es pot actualitzar aquest swimlane."
+msgid "Your swimlane has been created successfully."
+msgstr "La seva swimlane s'han creat amb èxit."
+msgid "Example: \"Bug, Feature Request, Improvement\""
+msgstr "Exemple: "Bug, Comanda de funcions, Millora""
+msgid "Default categories for new projects (Comma-separated)"
+msgstr "Categories per defecte per a nous projectes (separats per comes)"
+msgid "Integrations"
+msgstr "Integracions"
+msgid "Integration with third-party services"
+msgstr "Integració amb els serveis de tercers"
+msgid "Subtask Id"
+msgstr "ID de subtasca"
+msgid "Subtasks"
+msgstr "Subtasques"
+msgid "Subtasks Export"
+msgstr "Exportació de subtasques"
+msgid "Task Title"
+msgstr "Títol de la tasca"
+msgid "Untitled"
+msgstr "Sense títol"
+msgid "Application default"
+msgstr "Per defecte de l'aplicació"
+msgid "Language:"
+msgstr "Llengua:"
+msgid "Timezone:"
+msgstr "Zona horària:"
+msgid "All columns"
+msgstr "Totes les columnes"
+msgid "Next"
+msgstr "Pròxim"
+msgid "#%d"
+msgstr "#%d"
+msgid "All swimlanes"
+msgstr "Tots swimlanes"
+msgid "All colors"
+msgstr "Tots els colors"
+msgid "Moved to column %s"
+msgstr "Traslladat a la columna %s"
+msgid "User dashboard"
+msgstr "Tauler d'usuari"
+msgid "Allow only one subtask in progress at the same time for a user"
+msgstr "Permetre només una subtasca en curs al mateix temps per a un usuari"
+msgid "Edit column \"%s\""
+msgstr "Modifica la columna \"%s\""
+msgid "Select the new status of the subtask: \"%s\""
+msgstr "Sel·lecciona el nou estat per la subtasca: \"%s\""
+msgid "Subtask timesheet"
+msgstr "Part d'hores de subtasca"
+msgid "There is nothing to show."
+msgstr "Res per mostrar."
+msgid "Time Tracking"
+msgstr "Control d'hores"
+msgid "You already have one subtask in progress"
+msgstr "Ja tens una subtasca en curs"
+msgid "Which parts of the project do you want to duplicate?"
+msgstr "Quines parts del projecte vols duplicar?"
+msgid "Disallow login form"
+msgstr "No permetre formulari d'accés"
+msgid "Start"
+msgstr "Començar"
+msgid "End"
+msgstr "Final"
+msgid "Task age in days"
+msgstr "L'edat de tasques en dies"
+msgid "Days in this column"
+msgstr "Dies en aquesta columna"
+msgid "%dd"
+msgstr "%dd"
+msgid "Add a new link"
+msgstr "Afegeix un nou enllaç"
+msgid "Do you really want to remove this link: \"%s\"?"
+msgstr "Segur que vols eliminar aquest enllaç: \"%s\"?"
+msgid "Do you really want to remove this link with task #%d?"
+msgstr "Segur que vols eliminar aquest enllaç amb la tasca #%d?"
+msgid "Field required"
+msgstr "Camp requerit"
+msgid "Link added successfully."
+msgstr "Enllaç afegit correctament."
+msgid "Link updated successfully."
+msgstr "Enllaç actualitzat correctament."
+msgid "Link removed successfully."
+msgstr "Enllaç eliminat amb èxit."
+msgid "Link labels"
+msgstr "Etiquetes d'enllaç"
+msgid "Link modification"
+msgstr "Modificació d'enllaç"
+msgid "Opposite label"
+msgstr "Etiqueta oposada"
+msgid "Remove a link"
+msgstr "Suprimir un enllaç"
+msgid "The labels must be different"
+msgstr "Les etiquetes han de ser diferents"
+msgid "There is no link."
+msgstr "No hi ha cap relació."
+msgid "This label must be unique"
+msgstr "Aquest avís ha de ser únic"
+msgid "Unable to create your link."
+msgstr "No es pot crear l'enllaç."
+msgid "Unable to update your link."
+msgstr "No es pot actualitzar el seu enllaç."
+msgid "Unable to remove this link."
+msgstr "No es pot eliminar aquest enllaç."
+msgid "relates to"
+msgstr "es refereix a"
+msgid "blocks"
+msgstr "bloqueja"
+msgid "is blocked by"
+msgstr "està bloquejada per"
+msgid "duplicates"
+msgstr "duplica"
+msgid "is duplicated by"
+msgstr "es duplica per"
+msgid "is a child of"
+msgstr "és fill de"
+msgid "is a parent of"
+msgstr "és pare de"
+msgid "targets milestone"
+msgstr "objectiu de la fita"
+msgid "is a milestone of"
+msgstr "és una fita de"
+msgid "fixes"
+msgstr "corregeix"
+msgid "is fixed by"
+msgstr "corregit per"
+msgid "This task"
+msgstr "Aquesta tasca"
+msgid "<1h"
+msgstr "<1h"
+msgid "%dh"
+msgstr ""
+msgid "Expand tasks"
+msgstr "Amplia les tasques"
+msgid "Collapse tasks"
+msgstr "Col·lapsa les tasques"
+msgid "Expand/collapse tasks"
+msgstr "Amplia les tasques / col·lapsa"
+msgid "Close dialog box"
+msgstr "Quadre de diàleg tancar"
+msgid "Submit a form"
+msgstr "Envia un formulari"
+msgid "Board view"
+msgstr "Mostra el tauler"
+msgid "Keyboard shortcuts"
+msgstr "Dreceres de teclat"
+msgid "Open board switcher"
+msgstr "Obre commutador de tauler"
+msgid "Application"
+msgstr "Aplicació"
+msgid "Compact view"
+msgstr "Vista compacta"
+msgid "Horizontal scrolling"
+msgstr "Desplaçament horitzontal"
+msgid "Compact/wide view"
+msgstr "Vista compacta / ample"
+msgid "Currency"
+msgstr "Moneda"
+msgid "Personal project"
+msgstr "Projecte privat"
+msgid "AUD - Australian Dollar"
+msgstr "MXN - Dòlar australià"
+msgid "CAD - Canadian Dollar"
+msgstr "CAD - Dòlar canadenc"
+msgid "CHF - Swiss Francs"
+msgstr "CHF - Franc suís"
+msgid "Custom Stylesheet"
+msgstr "Estil personalitzat"
+msgid "EUR - Euro"
+msgstr "EUR - Euro"
+msgid "GBP - British Pound"
+msgstr "GBP - Lliura britànica"
+msgid "INR - Indian Rupee"
+msgstr "INR - Rupia índia"
+msgid "JPY - Japanese Yen"
+msgstr "JPY - El ien japonès"
+msgid "NZD - New Zealand Dollar"
+msgstr "NZD - Dòlar de Nova Zelanda"
+msgid "RSD - Serbian dinar"
+msgstr "RSD - Dinar serbi"
+msgid "CNY - Chinese Yuan"
+msgstr "CNY - Yuan xinès"
+msgid "USD - US Dollar"
+msgstr "USD - El dòlar dels EUA"
+msgid "VES - Venezuelan Bolívar"
+msgstr ""
+msgid "Destination column"
+msgstr "Columna de destinació"
+msgid "Move the task to another column when assigned to a user"
+msgstr "Mou la tasca a una altra columna quan s'assigna a un usuari"
+msgid "Move the task to another column when assignee is cleared"
+msgstr "Mou la tasca a una altra columna quan s'esborra assignat"
+msgid "Source column"
+msgstr "Columna d'origen"
+msgid "Transitions"
+msgstr "Transicions"
+msgid "Executer"
+msgstr "Executor"
+msgid "Time spent in the column"
+msgstr "El temps emprat a la columna"
+msgid "Task transitions"
+msgstr "transicions de tasques"
+msgid "Task transitions export"
+msgstr "Tasca transicions d'exportació"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Aquest informe conté tots els moviments de columna per a cada tasca amb la data, l'usuari i el temps per a cada transició."
+msgid "Currency rates"
+msgstr "Monedes"
+msgid "Rate"
+msgstr "Preu"
+msgid "Change reference currency"
+msgstr "Moneda de canvi de referència"
+msgid "Reference currency"
+msgstr "Moneda de referència"
+msgid "The currency rate has been added successfully."
+msgstr "El tipus de canvi s'ha afegit amb èxit."
+msgid "Unable to add this currency rate."
+msgstr "No es pot afegeix aquest tipus de moneda."
+msgid "Webhook URL"
+msgstr "URL web hook"
+msgid "%s removed the assignee of the task %s"
+msgstr "%s ha eliminat l'assignat de la tasca %s"
+msgid "Information"
+msgstr "Informació"
+msgid "Check two factor authentication code"
+msgstr "Comprovar el codi d'autenticació de dos factors"
+msgid "The two factor authentication code is not valid."
+msgstr "El codi d'autenticació de dos factors no és vàlid."
+msgid "The two factor authentication code is valid."
+msgstr "El codi d'autenticació de dos factors és vàlid."
+msgid "Code"
+msgstr "Codi"
+msgid "Two factor authentication"
+msgstr "Autenticació de dos factors"
+msgid "This QR code contains the key URI: "
+msgstr ""
+msgid "Check my code"
+msgstr "Comprovar el meu codi"
+msgid "Secret key: "
+msgstr ""
+msgid "Test your device"
+msgstr "Prova el teu dispositiu"
+msgid "Assign a color when the task is moved to a specific column"
+msgstr "Assignar un color quan la tasca es mou a una columna específica"
+msgid "%s via Kanboard"
+msgstr "%s a través del Kanboard"
+msgid "Burndown chart"
+msgstr "Burndown chart"
+msgid "This chart show the task complexity over the time (Work Remaining)."
+msgstr "Aquesta gràfica mostra la dificultat de la tasca en el temps (Treball restant)."
+msgid "Screenshot taken %s"
+msgstr "Imatge presa %s"
+msgid "Add a screenshot"
+msgstr "Afegeix una captura de pantalla"
+msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
+msgstr "Prengui una captura de pantalla i premeu CTRL + V o ⌘ + V per enganxar aquí."
+msgid "Screenshot uploaded successfully."
+msgstr "Captura carregat correctament."
+msgid "SEK - Swedish Krona"
+msgstr "SEK - Corona sueca"
+msgid "Identifier"
+msgstr "Identificador"
+msgid "Disable two factor authentication"
+msgstr "Desactiva l'autenticació de dos factors"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr ""
+msgid "Edit link"
+msgstr "Edita enllaç"
+msgid "Start to type task title..."
+msgstr "Comenceu a títol de la tasca de tipus ..."
+msgid "A task cannot be linked to itself"
+msgstr "Una tasca no pot vincular-se a si mateix"
+msgid "The exact same link already exists"
+msgstr "La mateixa relació exacta ja existeix"
+msgid "Recurrent task is scheduled to be generated"
+msgstr "La tasca recurrent està programada per ser generada"
+msgid "Score"
+msgstr "Puntuació"
+msgid "The identifier must be unique"
+msgstr "L'identificador ha de ser únic"
+msgid "This linked task id doesn't exists"
+msgstr ""
+msgid "This value must be alphanumeric"
+msgstr "Aquest valor ha de ser alfanumèric"
+msgid "Edit recurrence"
+msgstr "Edita recurrència"
+msgid "Generate recurrent task"
+msgstr "Generar tasca recurrent"
+msgid "Trigger to generate recurrent task"
+msgstr "Desencadenar per generar tasca recurrent"
+msgid "Factor to calculate new due date"
+msgstr "Factor per calcular la nova data de venciment"
+msgid "Timeframe to calculate new due date"
+msgstr "Marc de temps per calcular la nova data de venciment"
+msgid "Base date to calculate new due date"
+msgstr "Data de referència per al càlcul de la nova data de venciment"
+msgid "Action date"
+msgstr "data d'acció"
+msgid "Base date to calculate new due date: "
+msgstr "Data base per a calcular nova data de venciment: "
+msgid "This task has created this child task: "
+msgstr "Aquesta tasca ha creat aquesta tasca filla: "
+msgid "Day(s)"
+msgstr "Dia (Dies)"
+msgid "Existing due date"
+msgstr "Data de venciment existent"
+msgid "Factor to calculate new due date: "
+msgstr ""
+msgid "Month(s)"
+msgstr "Mes (Mesos)"
+msgid "This task has been created by: "
+msgstr "Tasca creada per: "
+msgid "Recurrent task has been generated:"
+msgstr "La tasca recurrent s'ha generat:"
+msgid "Timeframe to calculate new due date: "
+msgstr ""
+msgid "Trigger to generate recurrent task: "
+msgstr ""
+msgid "When task is closed"
+msgstr "Quan la tasca està tancada"
+msgid "When task is moved from first column"
+msgstr "Quan la tasca es mou de la primera columna"
+msgid "When task is moved to last column"
+msgstr "Quan la tasca es mou a última columna"
+msgid "Year(s)"
+msgstr "Any (s)"
+msgid "Project settings"
+msgstr "Configuració del projecte"
+msgid "Automatically update the start date"
+msgstr "Actualitzar automàticament la data d'inici"
+msgid "iCal feed"
+msgstr "Origen iCal"
+msgid "Preferences"
+msgstr "Configuració"
+msgid "Security"
+msgstr "Seguretat"
+msgid "Two factor authentication disabled"
+msgstr "L'autenticació de dos factors deshabilitat"
+msgid "Two factor authentication enabled"
+msgstr "Autenticació de dos factors activada"
+msgid "Unable to update this user."
+msgstr "No es pot actualitzar aquest usuari."
+msgid "There is no user management for personal projects."
+msgstr "No hi ha una gestió d'usuaris per a projectes privats."
+msgid "User that will receive the email"
+msgstr "L'usuari que rebrà el correu electrònic"
+msgid "Email subject"
+msgstr "assumpte del correu electrònic"
+msgid "Date"
+msgstr "Data"
+msgid "Add a comment log when moving the task between columns"
+msgstr "Afegeix un registre comentari en moure la tasca entre les columnes"
+msgid "Move the task to another column when the category is changed"
+msgstr "Mou la tasca a una altra columna quan es canvia la categoria"
+msgid "Send a task by email to someone"
+msgstr "Envia una tasca per correu electrònic a algú"
+msgid "Reopen a task"
+msgstr "Torneu a obrir una tasca"
+msgid "Notification"
+msgstr "Notificació"
+msgid "%s moved the task #%d to the first swimlane"
+msgstr "%s van moure la tasca #%d per al primer swimlane"
+msgid "Swimlane"
+msgstr "Swimlane"
+msgid "%s moved the task %s to the first swimlane"
+msgstr "%s es va traslladar la tasca %s per al primer swimlane"
+msgid "%s moved the task %s to the swimlane \"%s\""
+msgstr ""
+msgid "This report contains all subtasks information for the given date range."
+msgstr "Aquest informe conté tota la informació subtasques per al període de temps."
+msgid "This report contains all tasks information for the given date range."
+msgstr "Aquest informe conté tota la informació de tasques per al període de temps."
+msgid "Project activities for %s"
+msgstr "Les activitats del projecte per a %s"
+msgid "view the board on Kanboard"
+msgstr "Veure el tauler en Kanboard"
+msgid "The task has been moved to the first swimlane"
+msgstr "La tasca ha estat mogut a la primera swimlane"
+msgid "The task has been moved to another swimlane:"
+msgstr "La tasca s'han traslladat a un altre swimlane:"
+msgid "New title: %s"
+msgstr "Nou títol: %s"
+msgid "The task is not assigned anymore"
+msgstr "La tasca no s'ha assignat més"
+msgid "New assignee: %s"
+msgstr "Nova assignat:%s"
+msgid "There is no category now"
+msgstr "No hi ha una categoria ara"
+msgid "New category: %s"
+msgstr "Nova categoria:%s"
+msgid "New color: %s"
+msgstr "Nou color: %s"
+msgid "New complexity: %d"
+msgstr "Nova dificultat: %d"
+msgid "The due date has been removed"
+msgstr "La data de venciment s'han eliminat"
+msgid "There is no description anymore"
+msgstr "No hi ha una descripció més"
+msgid "Recurrence settings has been modified"
+msgstr "ajustos de recurrència s'han modificat"
+msgid "Time spent changed: %sh"
+msgstr ""
+msgid "Time estimated changed: %sh"
+msgstr ""
+msgid "The field \"%s\" has been updated"
+msgstr ""
+msgid "The description has been modified:"
+msgstr "La descripció s'ha modificat:"
+msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
+msgstr "Vols tancar la tasca \"%s\", així com totes les subtasques?"
+msgid "I want to receive notifications for:"
+msgstr "Vull rebre notificacions per:"
+msgid "All tasks"
+msgstr "totes les tasques"
+msgid "Only for tasks assigned to me"
+msgstr "Només per a les tasques que se m'ha s'assignin"
+msgid "Only for tasks created by me"
+msgstr "Només per a les tasques creades per mi"
+msgid "Only for tasks created by me and tasks assigned to me"
+msgstr "Només per a tasques creades per mi i em assignin"
+msgid "%%Y-%%m-%%d"
+msgstr ""
+msgid "Total for all columns"
+msgstr "Total per a totes les columnes"
+msgid "You need at least 2 days of data to show the chart."
+msgstr "Es necessita com a mínim 2 dies de dades per mostrar el gràfic."
+msgid "<15m"
+msgstr "<15m"
+msgid "<30m"
+msgstr "<30m"
+msgid "Stop timer"
+msgstr "Atura el temporitzador"
+msgid "Start timer"
+msgstr "Inicia el temporitzador"
+msgid "My activity stream"
+msgstr "El meu fluxe d'activitat"
+msgid "Search tasks"
+msgstr "Cerca de tasques"
+msgid "Reset filters"
+msgstr "Restableix filtres"
+msgid "My tasks due tomorrow"
+msgstr "Les meves tasques per demà"
+msgid "Tasks due today"
+msgstr "Tasques que vencen avui"
+msgid "Tasks due tomorrow"
+msgstr "Tasques per demà"
+msgid "Tasks due yesterday"
+msgstr "Tasques a causa ahir"
+msgid "Closed tasks"
+msgstr "Tasques tancades"
+msgid "Open tasks"
+msgstr "Tasques obertes"
+msgid "Not assigned"
+msgstr "No assignat"
+msgid "View advanced search syntax"
+msgstr "Veure sintaxi de cerca avançada"
+msgid "Overview"
+msgstr "Visió de conjunt"
+msgid "Board/Calendar/List view"
+msgstr "Tauler / Calendari / Vista de llista"
+msgid "Switch to the board view"
+msgstr "Canviar a la vista de tauler"
+msgid "Switch to the list view"
+msgstr "Canviar a la vista de llista"
+msgid "Go to the search/filter box"
+msgstr "Anar al quadre de cerca / filtre"
+msgid "There is no activity yet."
+msgstr "No hi ha cap activitat encara."
+msgid "No tasks found."
+msgstr "No s'han trobat tasques."
+msgid "Keyboard shortcut: \"%s\""
+msgstr "Drecera de teclat: \"%s\""
+msgid "List"
+msgstr "Llista"
+msgid "Filter"
+msgstr "Filtre"
+msgid "Advanced search"
+msgstr "Cerca avançada"
+msgid "Example of query: "
+msgstr "Exemple de consulta: "
+msgid "Search by project: "
+msgstr "Cerca per projecte: "
+msgid "Search by column: "
+msgstr "Cerca per columna: "
+msgid "Search by assignee: "
+msgstr "Cerca per assignat: "
+msgid "Search by color: "
+msgstr "Cerca per color: "
+msgid "Search by category: "
+msgstr "Cerca per categoria: "
+msgid "Search by description: "
+msgstr "Cerca per descripció: "
+msgid "Search by due date: "
+msgstr "Cerca per data de venciment: "
+msgid "Average time spent in each column"
+msgstr "Temps mitjà de permanència en cada columna"
+msgid "Average time spent"
+msgstr "Temps mitjà de permanència"
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Aquest gràfic mostra el temps mitjà de permanència en cada columna per a les últimes %d tasques."
+msgid "Average Lead and Cycle time"
+msgstr "El plom i la mitjana del temps de cicle"
+msgid "Average lead time: "
+msgstr "Mitjana de temps de lliurament: "
+msgid "Average cycle time: "
+msgstr "Mitjana de temps de cicle: "
+msgid "Cycle Time"
+msgstr "Temps de cicle"
+msgid "Lead Time"
+msgstr "Temps de lliurament"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Aquesta taula mostra la mitjana de plom i el temps de cicle per a les últimes tasques %d respecte al temps."
+msgid "Average time into each column"
+msgstr "Temps mitjà en cada columna"
+msgid "Lead and cycle time"
+msgstr "Temps de lliurament i cicle"
+msgid "Lead time: "
+msgstr "Temps de lliurament: "
+msgid "Cycle time: "
+msgstr "Temps del cicle: "
+msgid "Time spent in each column"
+msgstr "El temps invertit en cada columna"
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "El termini d'execució és la durada entre la creació de la tasca i la finalització."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "El temps de cicle és la durada entre la data d'inici i la finalització."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Si la tasca no està tancat el moment actual s'utilitza en lloc de la data de finalització."
+msgid "Set the start date automatically"
+msgstr "S'ajusta automàticament la data d'inici"
+msgid "Edit Authentication"
+msgstr "Edita autenticació"
+msgid "Remote user"
+msgstr "Usuari remot"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Els usuaris remots no emmagatzemen la contrasenya a la base de dades Kanboard, exemples: els comptes LDAP, Google i Github."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Si marca la casella \"No permetre formulari d'accés\", s'ignoraran les credencials introduïdes al formulari d'inici de sessió."
+msgid "Default task color"
+msgstr "Color per defecte de les tasques"
+msgid "This feature does not work with all browsers."
+msgstr "Aquesta característica no funciona amb tots els navegadors."
+msgid "There is no destination project available."
+msgstr "No hi ha cap projecte de destinació disponibles."
+msgid "Trigger automatically subtask time tracking"
+msgstr "Desencadenar automàticament control d'hores de subtasca"
+msgid "Include closed tasks in the cumulative flow diagram"
+msgstr "Incloure tasques tancades en el diagrama de flux acumulat"
+msgid "Current swimlane: %s"
+msgstr "Swimlane actual: %s"
+msgid "Current column: %s"
+msgstr "Columna actual: %s"
+msgid "Current category: %s"
+msgstr "Categoria actual: %s"
+msgid "no category"
+msgstr "cap categoria"
+msgid "Current assignee: %s"
+msgstr "Assignat actual: %s"
+msgid "not assigned"
+msgstr "no assignat"
+msgid "Author:"
+msgstr "Autor:"
+msgid "contributors"
+msgstr "contribuents"
+msgid "License:"
+msgstr "Llicència:"
+msgid "License"
+msgstr "Llicència"
+msgid "Enter the text below"
+msgstr "Introduïu el text a continuació"
+msgid "Start date:"
+msgstr "Data d'inici:"
+msgid "Due date:"
+msgstr "Data de venciment:"
+msgid "People who are project managers"
+msgstr "Les persones que són caps de projecte"
+msgid "People who are project members"
+msgstr "Les persones que són membres del projecte"
+msgid "NOK - Norwegian Krone"
+msgstr "NOK - Corona noruega"
+msgid "Show this column"
+msgstr "Mostra aquesta columna"
+msgid "Hide this column"
+msgstr "Amaga aquesta columna"
+msgid "End date"
+msgstr "Data de finalització"
+msgid "Users overview"
+msgstr "Visió general dels usuaris"
+msgid "Members"
+msgstr "Membres"
+msgid "Shared project"
+msgstr "Projecte compartit"
+msgid "Project managers"
+msgstr "Els gerents de projecte"
+msgid "Projects list"
+msgstr "Llista de projectes"
+msgid "End date:"
+msgstr "Data de finalització:"
+msgid "Change task color when using a specific task link"
+msgstr "Canviar de color quan la tasca utilitzant un enllaç tasca específica"
+msgid "Task link creation or modification"
+msgstr "La creació o modificació de l'enllaç de tasques"
+msgid "Milestone"
+msgstr "Fita"
+msgid "Reset the search/filter box"
+msgstr "Restablir el quadre de cerca / filtre"
+msgid "Documentation"
+msgstr "Documentació"
+msgid "Author"
+msgstr "Autor"
+msgid "Version"
+msgstr "Versió"
+msgid "Plugins"
+msgstr "Connectors"
+msgid "There is no plugin loaded."
+msgstr "No hi ha cap complement carregat."
+msgid "My notifications"
+msgstr "Les meves notificacions"
+msgid "Custom filters"
+msgstr "Filtres personalitzats"
+msgid "Your custom filter has been created successfully."
+msgstr "El seu filtre a mida s'han creat amb èxit."
+msgid "Unable to create your custom filter."
+msgstr "No es pot crear el filtre personalitzat."
+msgid "Custom filter removed successfully."
+msgstr "Filtre a mida eliminat correctament."
+msgid "Unable to remove this custom filter."
+msgstr "No es pot eliminar aquest filtre personalitzat."
+msgid "Edit custom filter"
+msgstr "Edita filtre a mida"
+msgid "Your custom filter has been updated successfully."
+msgstr "El seu filtre a mida s'han actualitzat correctament."
+msgid "Unable to update custom filter."
+msgstr "No es pot actualitzar filtre a mida."
+msgid "Web"
+msgstr "Web"
+msgid "New attachment on task #%d: %s"
+msgstr "Nou adjunt a la tasca #%d: %s"
+msgid "New comment on task #%d"
+msgstr "Nou comentari a la tasca #%d"
+msgid "Comment updated on task #%d"
+msgstr "Comentari actualitzat a la tasca #%d"
+msgid "New subtask on task #%d"
+msgstr "Nova subtasca a la tasca #%d"
+msgid "Subtask updated on task #%d"
+msgstr "Subtasca s'actualitza a la tasca #%d"
+msgid "New task #%d: %s"
+msgstr "Nova tasca #%d: %s"
+msgid "Task updated #%d"
+msgstr "Tasca actualitzada #%d"
+msgid "Task #%d closed"
+msgstr "Tasca #%d tancada"
+msgid "Task #%d opened"
+msgstr "Tasca #%d obrir"
+msgid "Column changed for task #%d"
+msgstr "Columna canviada per la tasca #%d"
+msgid "New position for task #%d"
+msgstr "Nova posició per la tasca #%d"
+msgid "Swimlane changed for task #%d"
+msgstr "El swimlane va canviat per  la tasca #%d"
+msgid "Assignee changed on task #%d"
+msgstr "L'assignat va canviar a la tasca #%d"
+msgid "%d overdue tasks"
+msgstr "%d tasques endarrerides"
+msgid "Task #%d is overdue"
+msgstr "La tasca #%d està vençuda"
+msgid "No notification."
+msgstr "Sense notificacions."
+msgid "Mark all as read"
+msgstr "Marca totes com llegides"
+msgid "Mark as read"
+msgstr "Marca com llegida"
+msgid "Total number of tasks in this column across all swimlanes"
+msgstr "Nombre total de tasques en aquesta columna a través de tots swimlanes"
+msgid "Collapse swimlane"
+msgstr "Col·lapsa swimlane"
+msgid "Expand swimlane"
+msgstr "Ampliar swimlane"
+msgid "Add a new filter"
+msgstr "Afegeix un nou filtre"
+msgid "Share with all project members"
+msgstr "Compartir amb tots els membres del projecte"
+msgid "Shared"
+msgstr "Compartit"
+msgid "Owner"
+msgstr "Propietari"
+msgid "Unread notifications"
+msgstr "Notificacions no llegides"
+msgid "Notification methods:"
+msgstr "Els mètodes de notificació:"
+msgid "Unable to read your file"
+msgstr "No es pot llegir el fitxer"
+msgid "%d task(s) have been imported successfully."
+msgstr "%d tasca(s) s'han importat correctament."
+msgid "Nothing has been imported!"
+msgstr "Res s'han importat!"
+msgid "Import users from CSV file"
+msgstr "Importa usuaris des d'arxiu CSV"
+msgid "%d user(s) have been imported successfully."
+msgstr "%d usuari(s) s'han importat correctament."
+msgid "Comma"
+msgstr "Coma"
+msgid "Semi-colon"
+msgstr "Punt i coma"
+msgid "Tab"
+msgstr "Llengüeta"
+msgid "Vertical bar"
+msgstr "Barra vertical"
+msgid "Double Quote"
+msgstr "Cometes dobles"
+msgid "Single Quote"
+msgstr "Cometes simples"
+msgid "%s attached a file to the task #%d"
+msgstr "%s ha adjuntat un arxiu a la tasca #%d"
+msgid "There is no column or swimlane activated in your project!"
+msgstr "No hi ha cap columna o swimlane activat en el seu projecte!"
+msgid "Append filter (instead of replacement)"
+msgstr "Annexar filtre (en lloc de reemplaçament)"
+msgid "Append/Replace"
+msgstr "Annexar / Reemplaçar"
+msgid "Append"
+msgstr "Annexar"
+msgid "Replace"
+msgstr "Reemplaçar"
+msgid "Import"
+msgstr "Importació"
+msgid "Change sorting"
+msgstr "Canvia la ordenació"
+msgid "Tasks Importation"
+msgstr "Importació de tasques"
+msgid "Delimiter"
+msgstr "Delimitador"
+msgid "Enclosure"
+msgstr "Recinte"
+msgid "CSV File"
+msgstr "Fitxer CSV"
+msgid "Instructions"
+msgstr "Instruccions"
+msgid "Your file must use the predefined CSV format"
+msgstr "El seu arxiu ha d'utilitzar el format CSV predefinit"
+msgid "Your file must be encoded in UTF-8"
+msgstr "El seu arxiu ha d'estar codificat en UTF-8"
+msgid "The first row must be the header"
+msgstr "La primera fila ha de ser la capçalera"
+msgid "Duplicates are not verified for you"
+msgstr "Els duplicats no es verifiquen per a vostè"
+msgid "The due date must use the ISO format: YYYY-MM-DD"
+msgstr "La data de venciment ha d'utilitzar el format ISO: AAAA-MM-DD"
+msgid "Download CSV template"
+msgstr "Descarregar plantilla CSV"
+msgid "No external integration registered."
+msgstr "No es va registrar la integració externa."
+msgid "Duplicates are not imported"
+msgstr "Els duplicats no s'importen"
+msgid "Usernames must be lowercase and unique"
+msgstr "Els noms d'usuari han d'estar en minúscules i únic"
+msgid "Passwords will be encrypted if present"
+msgstr "Les contrasenyes es xifraran si està present"
+msgid "%s attached a new file to the task %s"
+msgstr "%s adjunta un arxiu nou a la tasca %s"
+msgid "Link type"
+msgstr "Tipus d'enllaç"
+msgid "Assign automatically a category based on a link"
+msgstr "Assignar automàticament una categoria basada en un enllaç"
+msgid "BAM - Konvertible Mark"
+msgstr "BAM - Konvertible Mark"
+msgid "Assignee Username"
+msgstr "Nom d'usuari assignat"
+msgid "Assignee Name"
+msgstr "Nom assignat"
+msgid "Groups"
+msgstr "Grups"
+msgid "Members of %s"
+msgstr "Els membres de %s"
+msgid "New group"
+msgstr "Nou grup"
+msgid "Group created successfully."
+msgstr "Grup creat correctament."
+msgid "Unable to create your group."
+msgstr "No es pot crear el grup."
+msgid "Edit group"
+msgstr "Edita grup"
+msgid "Group updated successfully."
+msgstr "Grup actualitzat correctament."
+msgid "Unable to update your group."
+msgstr "No es pot actualitzar el seu grup."
+msgid "Add group member to \"%s\""
+msgstr ""
+msgid "Group member added successfully."
+msgstr "Membre del grup afegit correctament."
+msgid "Unable to add group member."
+msgstr "No es pot afegeix membre del grup."
+msgid "Remove user from group \"%s\""
+msgstr ""
+msgid "User removed successfully from this group."
+msgstr "Usuari eliminat amb èxit d'aquest grup."
+msgid "Unable to remove this user from the group."
+msgstr "No es pot eliminar aquest usuari del grup."
+msgid "Remove group"
+msgstr "Elimina el grup"
+msgid "Group removed successfully."
+msgstr "Grup eliminat correctament."
+msgid "Unable to remove this group."
+msgstr "No es pot eliminar aquest grup."
+msgid "Project Permissions"
+msgstr "Permisos de projectes"
+msgid "Manager"
+msgstr "Gerent"
+msgid "Project Manager"
+msgstr "Gerent de projectes"
+msgid "Project Member"
+msgstr "Membres del projecte"
+msgid "Project Viewer"
+msgstr "Visor de projectes"
+msgid "Your account is locked for %d minutes"
+msgstr "El seu compte està bloquejada per %d minuts"
+msgid "Invalid captcha"
+msgstr "codi d'imatge no vàlida"
+msgid "The name must be unique"
+msgstr "El nom ha de ser únic"
+msgid "View all groups"
+msgstr "Veure tots els grups"
+msgid "There is no user available."
+msgstr "No hi ha cap usuari disponible."
+msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
+msgstr ""
+msgid "There is no group."
+msgstr "No hi ha cap grup."
+msgid "Add group member"
+msgstr "Afegeix membre del grup"
+msgid "Do you really want to remove this group: \"%s\"?"
+msgstr ""
+msgid "There is no user in this group."
+msgstr "No hi ha cap usuari en aquest grup."
+msgid "Permissions"
+msgstr "Permisos"
+msgid "Allowed Users"
+msgstr "Els usuaris autoritzats"
+msgid "No specific user has been allowed."
+msgstr "Cap usuari s'hagi establert."
+msgid "Role"
+msgstr "Rol"
+msgid "Enter user name..."
+msgstr "Introdueix el nom d'usuari ..."
+msgid "Allowed Groups"
+msgstr "Grups permesos"
+msgid "No group has been allowed."
+msgstr "Cap grup s'hagi establert."
+msgid "Group"
+msgstr "Grup"
+msgid "Group Name"
+msgstr "Nom del grup"
+msgid "Enter group name..."
+msgstr "Introduïu el nom del grup ..."
+msgid "Role:"
+msgstr "Rol:"
+msgid "Project members"
+msgstr "Els membres del projecte"
+msgid "%s mentioned you in the task #%d"
+msgstr "%s t'ha esmentat a la tasca #%d"
+msgid "%s mentioned you in a comment on the task #%d"
+msgstr "%s t'ha mencionat en un comentari a la tasca #%d"
+msgid "You were mentioned in the task #%d"
+msgstr "Se t'ha esmentat a la tasca #%d"
+msgid "You were mentioned in a comment on the task #%d"
+msgstr "Se t'ha mencionat en un comentari sobre la tasca #%d"
+msgid "Estimated hours: "
+msgstr ""
+msgid "Actual hours: "
+msgstr ""
+msgid "Hours Spent"
+msgstr "Les hores invertides"
+msgid "Hours Estimated"
+msgstr "hores estimat"
+msgid "Estimated Time"
+msgstr "Temps estimat"
+msgid "Actual Time"
+msgstr "temps real"
+msgid "Estimated vs actual time"
+msgstr "Estimat en funció del temps real"
+msgid "RUB - Russian Ruble"
+msgstr "RUB - Russia rus"
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "Assignar la tasca a la persona que fa l'acció quan es canvia la columna"
+msgid "Close a task in a specific column"
+msgstr "Tancar una tasca en una columna específica"
+msgid "Time-based One-time Password Algorithm"
+msgstr "Algoritme de contrasenya basat en el temps d'una sola vegada"
+msgid "Two-Factor Provider: "
+msgstr ""
+msgid "Disable two-factor authentication"
+msgstr "Deshabilita l'autenticació de dos factors"
+msgid "Enable two-factor authentication"
+msgstr "Habilitar l'autenticació de dos factors"
+msgid "There is no integration registered at the moment."
+msgstr "No hi ha integració registrada en el moment."
+msgid "Password Reset for Kanboard"
+msgstr "Restableix contrasenya per Kanboard"
+msgid "Forgot password?"
+msgstr "Has oblidat la contrasenya?"
+msgid "Enable \"Forget Password\""
+msgstr "Habilita "he oblidat la contrasenya""
+msgid "Password Reset"
+msgstr "Restablir contrasenya"
+msgid "New password"
+msgstr "Nova contrasenya"
+msgid "Change Password"
+msgstr "Canvia la contrasenya"
+msgid "To reset your password click on this link:"
+msgstr "Per restablir la contrasenya, feu clic en aquest enllaç:"
+msgid "Last Password Reset"
+msgstr "Darrer restabliment de contrasenya"
+msgid "The password has never been reinitialized."
+msgstr "La contrasenya mai ha estat reiniciada."
+msgid "Creation"
+msgstr "Creació"
+msgid "Expiration"
+msgstr "Caducitat"
+msgid "Password reset history"
+msgstr "Històric de restabliment de contrasenya"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr ""
+msgid "Do you really want to close all tasks of this column?"
+msgstr "Vols tancar totes les tasques d'aquesta columna?"
+msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+msgstr ""
+msgid "Close all tasks in this column and this swimlane"
+msgstr "Tanqueu totes les tasques d'aquesta columna"
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "No s'ha registrat plugin d'un mètode de notificació del projecte. Encara es pot configurar les notificacions individuals en el seu perfil d'usuari."
+msgid "My dashboard"
+msgstr "El meu tauler"
+msgid "My profile"
+msgstr "El meu perfil"
+msgid "Project owner: "
+msgstr "Propietari del projecte: "
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "L'identificador de projecte és opcional i ha de ser alfanumèric, exemple: MYPROJECT."
+msgid "Project owner"
+msgstr "Propietari del projecte"
+msgid "Personal projects do not have users and groups management."
+msgstr "projectes privats no tenen els usuaris i grups de gestió."
+msgid "There is no project member."
+msgstr "No hi ha cap membre del projecte."
+msgid "Priority"
+msgstr "Prioritat"
+msgid "Task priority"
+msgstr "Prioritat de la tasca"
+msgid "General"
+msgstr "General"
+msgid "Dates"
+msgstr "Dates"
+msgid "Default priority"
+msgstr "Prioritat per defecte"
+msgid "Lowest priority"
+msgstr "La prioritat més baixa"
+msgid "Highest priority"
+msgstr "La prioritat més alta"
+msgid "Close a task when there is no activity"
+msgstr "Tancar una tasca quan no hi ha activitat"
+msgid "Duration in days"
+msgstr "Durada en dies"
+msgid "Send email when there is no activity on a task"
+msgstr "Envia correu electrònic quan no hi ha activitat en una tasca"
+msgid "Unable to fetch link information."
+msgstr "No és possible obtenir informació d'enllaç."
+msgid "Daily background job for tasks"
+msgstr "Feina en segon pla diaria per a les tasques"
+msgid "Auto"
+msgstr "Auto"
+msgid "Related"
+msgstr "Relacionat"
+msgid "Attachment"
+msgstr "Adjunt"
+msgid "Title not found"
+msgstr "Títol no trobat"
+msgid "Web Link"
+msgstr "Enllaç web"
+msgid "External links"
+msgstr "Enllaços externs"
+msgid "Add external link"
+msgstr "Afegeix un enllaç extern"
+msgid "Type"
+msgstr "Tipus"
+msgid "Dependency"
+msgstr "Dependència"
+msgid "Add internal link"
+msgstr "Afegeix un enllaç intern"
+msgid "Add a new external link"
+msgstr "Afegeix un nou enllaç extern"
+msgid "Edit external link"
+msgstr "Edita enllaç extern"
+msgid "External link"
+msgstr "URL"
+msgid "Copy and paste your link here..."
+msgstr "Copia i enganxa l'enllaç aquí ..."
+msgid "URL"
+msgstr "URL"
+msgid "Internal links"
+msgstr "Els enllaços interns"
+msgid "Assign to me"
+msgstr "Assignar a mi"
+msgid "Me"
+msgstr "jo"
+msgid "Do not duplicate anything"
+msgstr "No dupliquis res"
+msgid "Projects management"
+msgstr "Gestió de projectes"
+msgid "Users management"
+msgstr "Gestió d'usuaris"
+msgid "Groups management"
+msgstr "Gestió de grups"
+msgid "Create from another project"
+msgstr "Crea a partir d'un altre projecte"
+msgid "open"
+msgstr "obert"
+msgid "closed"
+msgstr "tancat"
+msgid "Priority:"
+msgstr "Prioritat:"
+msgid "Reference:"
+msgstr "Referència:"
+msgid "Complexity:"
+msgstr "Dificultat:"
+msgid "Swimlane:"
+msgstr "Swimlane:"
+msgid "Column:"
+msgstr "Columna:"
+msgid "Position:"
+msgstr "Posició:"
+msgid "Creator:"
+msgstr "Creador:"
+msgid "Time estimated:"
+msgstr "Temps estimat:"
+msgid "%s hours"
+msgstr "%s hora"
+msgid "Time spent:"
+msgstr "El temps passat:"
+msgid "Created:"
+msgstr "Creat:"
+msgid "Modified:"
+msgstr "Modificat:"
+msgid "Completed:"
+msgstr "Completat:"
+msgid "Started:"
+msgstr "Començat:"
+msgid "Moved:"
+msgstr "Mogut:"
+msgid "Task #%d"
+msgstr "Tasca #%d"
+msgid "Time format"
+msgstr "Format d'hora"
+msgid "Start date: "
+msgstr "Data d'inici: "
+msgid "End date: "
+msgstr "Data de fi: "
+msgid "New due date: "
+msgstr "Nova data de venciment: "
+msgid "Start date changed: "
+msgstr "Data d'inici canviada: "
+msgid "Disable personal projects"
+msgstr "Desactivar els projectes privats"
+msgid "Do you really want to remove this custom filter: \"%s\"?"
+msgstr ""
+msgid "Remove a custom filter"
+msgstr "Treure un filtre a mida"
+msgid "User activated successfully."
+msgstr "L'usuari ha activat correctament."
+msgid "Unable to enable this user."
+msgstr "No és possible permetre que aquest usuari."
+msgid "User disabled successfully."
+msgstr "L'usuari deshabilitat amb èxit."
+msgid "Unable to disable this user."
+msgstr "No és possible desactivar aquest usuari."
+msgid "All files have been uploaded successfully."
+msgstr "Tots els arxius s'hagin carregat correctament."
+msgid "The maximum allowed file size is %sB."
+msgstr ""
+msgid "Drag and drop your files here"
+msgstr "Arrossegar i deixar anar els arxius aquí"
+msgid "choose files"
+msgstr "triar els arxius"
+msgid "View profile"
+msgstr "Veure el perfil"
+msgid "Two Factor"
+msgstr "dos factors"
+msgid "Disable user"
+msgstr "desactivar usuari"
+msgid "Do you really want to disable this user: \"%s\"?"
+msgstr ""
+msgid "Enable user"
+msgstr "Permetre a l'usuari"
+msgid "Do you really want to enable this user: \"%s\"?"
+msgstr ""
+msgid "Download"
+msgstr "Descarregar"
+msgid "Uploaded: %s"
+msgstr "Pujat: %s"
+msgid "Size: %s"
+msgstr "Mida: %s"
+msgid "Uploaded by %s"
+msgstr "Pujada per %s"
+msgid "Filename"
+msgstr "Nom de l'arxiu"
+msgid "Size"
+msgstr "Mida"
+msgid "Column created successfully."
+msgstr "Columna creat correctament."
+msgid "Another column with the same name exists in the project"
+msgstr "Una altra columna amb el mateix nom existeix en el projecte"
+msgid "Default filters"
+msgstr "filtres predeterminats"
+msgid "Your board doesn't have any columns!"
+msgstr ""
+msgid "Change column position"
+msgstr "Canvi de posició de columna"
+msgid "Switch to the project overview"
+msgstr "Canviar a la visió general del projecte"
+msgid "User filters"
+msgstr "Els filtres d'usuari"
+msgid "Category filters"
+msgstr "filtres de categories"
+msgid "Upload a file"
+msgstr "Pujar un arxiu"
+msgid "View file"
+msgstr "Veure arxiu"
+msgid "Last activity"
+msgstr "Última activitat"
+msgid "Change subtask position"
+msgstr "Subtasca posició de canvi"
+msgid "This value must be greater than %d"
+msgstr "Aquest valor ha de ser més gran que %d"
+msgid "Another swimlane with the same name exists in the project"
+msgstr "Una altra swimlane amb el mateix nom existeix en el projecte"
+msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
+msgstr "Exemple: https://example.kanboard.org/ (utilitzat per generar URL absoluta)"
+msgid "Actions duplicated successfully."
+msgstr "Accions dupliquen amb èxit."
+msgid "Unable to duplicate actions."
+msgstr "No s'ha pogut duplicar accions."
+msgid "Add a new action"
+msgstr "Afegeix una nova acció"
+msgid "Import from another project"
+msgstr "Importa d'un altre projecte"
+msgid "There is no action at the moment."
+msgstr "No hi ha cap acció en aquest moment."
+msgid "Import actions from another project"
+msgstr "accions d'importació d'un altre projecte"
+msgid "There is no available project."
+msgstr "No hi ha un projecte disponible."
+msgid "Local File"
+msgstr "Fitxer local"
+msgid "Configuration"
+msgstr "Configuració"
+msgid "PHP version:"
+msgstr "Versió de PHP:"
+msgid "PHP SAPI:"
+msgstr "PHP SAPI:"
+msgid "OS version:"
+msgstr "Versió del sistema operatiu:"
+msgid "Database version:"
+msgstr "Versió de la base de dades:"
+msgid "Browser:"
+msgstr "Navegador:"
+msgid "Task view"
+msgstr "Vista de tasques"
+msgid "Edit task"
+msgstr "Edició de tasques"
+msgid "Edit description"
+msgstr "Modifica la descripció"
+msgid "New internal link"
+msgstr "Nou enllaç intern"
+msgid "Display list of keyboard shortcuts"
+msgstr "Visualització de la llista de dreceres de teclat"
+msgid "Avatar"
+msgstr "Avatar"
+msgid "Upload my avatar image"
+msgstr "Puja la imatge meu avatar"
+msgid "Remove my image"
+msgstr "Traieu la meva imatge"
+msgid "The OAuth2 state parameter is invalid"
+msgstr "El paràmetre d'estat OAuth2 no és vàlid"
+msgid "User not found."
+msgstr "Usuari no trobat."
+msgid "Search in activity stream"
+msgstr "Buscar en el Tràfic d'activitat"
+msgid "My activities"
+msgstr "Les meves activitats"
+msgid "Activity until yesterday"
+msgstr "Activitat fins ahir"
+msgid "Activity until today"
+msgstr "Activitat fins avui"
+msgid "Search by creator: "
+msgstr ""
+msgid "Search by creation date: "
+msgstr ""
+msgid "Search by task status: "
+msgstr ""
+msgid "Search by task title: "
+msgstr ""
+msgid "Activity stream search"
+msgstr "Cerca al fluxe d'activitat"
+msgid "Projects where \"%s\" is manager"
+msgstr ""
+msgid "Projects where \"%s\" is member"
+msgstr ""
+msgid "Open tasks assigned to \"%s\""
+msgstr ""
+msgid "Closed tasks assigned to \"%s\""
+msgstr ""
+msgid "Assign automatically a color based on a priority"
+msgstr "Assignar automàticament un color basat en una prioritat"
+msgid "Overdue tasks for the project(s) \"%s\""
+msgstr ""
+msgid "Upload files"
+msgstr "Pujar arxius"
+msgid "Installed Plugins"
+msgstr "Els connectors instal·lats"
+msgid "Plugin Directory"
+msgstr "Directori de complements"
+msgid "Plugin installed successfully."
+msgstr "Plug-in instal·lat correctament."
+msgid "Plugin updated successfully."
+msgstr "Plugin actualitzat correctament."
+msgid "Plugin removed successfully."
+msgstr "Plugin eliminat correctament."
+msgid "Subtask converted to task successfully."
+msgstr "Subtasca converteix en tasca amb èxit."
+msgid "Unable to convert the subtask."
+msgstr "No es pot convertir la subtasca."
+msgid "Unable to extract plugin archive."
+msgstr "No es pot extreure arxiu connector."
+msgid "Plugin not found."
+msgstr "Plugin no trobat."
+msgid "You don't have the permission to remove this plugin."
+msgstr ""
+msgid "Unable to download plugin archive."
+msgstr "No es pot descarregar arxiu connector."
+msgid "Unable to write temporary file for plugin."
+msgstr "No es pot escriure el fitxer temporal per al connector."
+msgid "Unable to open plugin archive."
+msgstr "No es pot obrir arxiu de plugin."
+msgid "There is no file in the plugin archive."
+msgstr "No hi ha cap arxiu a l'arxiu connector."
+msgid "Create tasks in bulk"
+msgstr "Crear tasques a granel"
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "La instància Kanboard no està configurat per a instal·lar plugins des de la interfície d'usuari."
+msgid "There is no plugin available."
+msgstr "No hi ha cap complement disponible."
+msgid "Install"
+msgstr "Instal·la"
+msgid "Update"
+msgstr "Actualitza"
+msgid "Up to date"
+msgstr "Actualitzat"
+msgid "Not available"
+msgstr "No disponible"
+msgid "Remove plugin"
+msgstr "Eliminar connector"
+msgid "Do you really want to remove this plugin: \"%s\"?"
+msgstr ""
+msgid "Uninstall"
+msgstr "Suprimeix"
+msgid "Listing"
+msgstr "Llistat"
+msgid "Metadata"
+msgstr "Metadades"
+msgid "Manage projects"
+msgstr "Gestió de projectes"
+msgid "Convert to task"
+msgstr "Convertir la tasca"
+msgid "Convert sub-task to task"
+msgstr "Converteix sub-tasca a una altra"
+msgid "Do you really want to convert this sub-task to a task?"
+msgstr "Vols convertir aquesta sub-tasca a una tasca?"
+msgid "My task title"
+msgstr "Títol de la tasca"
+msgid "Enter one task by line."
+msgstr "Introduïu una tasca per línia."
+msgid "Number of failed login:"
+msgstr "Nombre d'inici de sessió fallit:"
+msgid "Account locked until:"
+msgstr "Compte bloquejada fins que:"
+msgid "Email settings"
+msgstr "Configuració de correu electrònic"
+msgid "Email sender address"
+msgstr "Adreça de correu electrònic del remitent"
+msgid "Email transport"
+msgstr "Transport de correu electrònic"
+msgid "Webhook token"
+msgstr "Símbol web hook"
+msgid "Project tags management"
+msgstr "Gestió de projectes etiquetes"
+msgid "Tag created successfully."
+msgstr "Tag creat correctament."
+msgid "Unable to create this tag."
+msgstr "No es pot crear aquesta etiqueta."
+msgid "Tag updated successfully."
+msgstr "Tag actualitzat correctament."
+msgid "Unable to update this tag."
+msgstr "No es pot actualitzar aquesta etiqueta."
+msgid "Tag removed successfully."
+msgstr "Tag eliminat correctament."
+msgid "Unable to remove this tag."
+msgstr "No es pot eliminar aquesta etiqueta."
+msgid "Global tags management"
+msgstr "Gestió global d'etiquetes"
+msgid "Tags"
+msgstr "Etiquetes"
+msgid "Tags management"
+msgstr "Gestió d'etiquetes"
+msgid "Add new tag"
+msgstr "Afegeix nova etiqueta"
+msgid "Edit a tag"
+msgstr "Edita una etiqueta"
+msgid "Project tags"
+msgstr "Variables del projecte"
+msgid "There is no specific tag for this project at the moment."
+msgstr "No hi ha una etiqueta específica per a aquest projecte en aquest moment."
+msgid "Tag"
+msgstr "Etiqueta"
+msgid "Remove a tag"
+msgstr "Elimina una etiqueta"
+msgid "Do you really want to remove this tag: \"%s\"?"
+msgstr ""
+msgid "Global tags"
+msgstr "etiquetes globals"
+msgid "There is no global tag at the moment."
+msgstr "No hi ha cap variable global en el moment."
+msgid "This field cannot be empty"
+msgstr "Aquest camp no pot estar buit"
+msgid "Close a task when there is no activity in a specific column"
+msgstr "Tancar una tasca quan no hi ha activitat en una columna específica"
+msgid "%s removed a subtask for the task #%d"
+msgstr "%s extret una subtasca per a la tasca #%d"
+msgid "%s removed a comment on the task #%d"
+msgstr "%s remogut un comentari a la tasca #%d"
+msgid "Comment removed on task #%d"
+msgstr "Comentari eliminat a la tasca #%d"
+msgid "Subtask removed on task #%d"
+msgstr "Subtasca eliminat a la tasca #%d"
+msgid "Hide tasks in this column in the dashboard"
+msgstr "Amaga tasques en aquesta columna al tauler d'instruments"
+msgid "%s removed a comment on the task %s"
+msgstr "%s remogut un comentari a la tasca %s"
+msgid "%s removed a subtask for the task %s"
+msgstr "%s extret una subtasca per a la tasca %s"
+msgid "Comment removed"
+msgstr "Es va eliminar el comentari"
+msgid "Subtask removed"
+msgstr "subtasca retira"
+msgid "%s set a new internal link for the task #%d"
+msgstr "%s va establir un nou enllaç intern per a la tasca #%d"
+msgid "%s removed an internal link for the task #%d"
+msgstr "%s eliminat un enllaç intern per a la tasca #%d"
+msgid "A new internal link for the task #%d has been defined"
+msgstr "Un nou enllaç intern per a la tasca #%d s'han definit"
+msgid "Internal link removed for the task #%d"
+msgstr "Enllaç intern eliminat la tasca #%d"
+msgid "%s set a new internal link for the task %s"
+msgstr "%s va establir un nou enllaç intern per a la tasca %s"
+msgid "%s removed an internal link for the task %s"
+msgstr "%s eliminat un enllaç intern per a la tasca %s"
+msgid "Automatically set the due date on task creation"
+msgstr "S'ajusta automàticament la data de venciment a la creació de tasques"
+msgid "Move the task to another column when closed"
+msgstr "Mou la tasca a una altra columna quan es tanca"
+msgid "Move the task to another column when not moved during a given period"
+msgstr "Mou la tasca a una altra columna quan no es va moure durant un període determinat"
+msgid "Dashboard for %s"
+msgstr "Tauler de %s"
+msgid "Tasks overview for %s"
+msgstr "Resum de tasques de %s"
+msgid "Subtasks overview for %s"
+msgstr "Visió general de subtasques de %s"
+msgid "Projects overview for %s"
+msgstr "Visió general del projecte de %s"
+msgid "Activity stream for %s"
+msgstr "Fluxe d'activitat per a %s"
+msgid "Assign a color when the task is moved to a specific swimlane"
+msgstr "Assignar un color quan la tasca es mou a un carril específic"
+msgid "Assign a priority when the task is moved to a specific swimlane"
+msgstr "Assignar una prioritat quan la tasca es mou a un carril específic"
+msgid "User unlocked successfully."
+msgstr "Usuari desbloquejat amb èxit."
+msgid "Unable to unlock the user."
+msgstr "No és possible desbloquejar l'usuari."
+msgid "Move a task to another swimlane"
+msgstr "Mou una tasca a una altra swimlane"
+msgid "Creator Name"
+msgstr "nom creador"
+msgid "Time spent and estimated"
+msgstr "El temps dedicat i estima"
+msgid "Move position"
+msgstr "Mou la posició"
+msgid "Move task to another position on the board"
+msgstr "Mou tasca a una altra posició al tauler"
+msgid "Insert before this task"
+msgstr "Insereix abans aquesta tasca"
+msgid "Insert after this task"
+msgstr "Inserir, després d'aquesta tasca"
+msgid "Unlock this user"
+msgstr "Desbloquejar aquest usuari"
+msgid "Custom Project Roles"
+msgstr "Rols d'encàrrec del projecte"
+msgid "Add a new custom role"
+msgstr "Afegeix un nou rol"
+msgid "Restrictions for the role \"%s\""
+msgstr ""
+msgid "Add a new project restriction"
+msgstr "Afegeix una nova restricció projecte"
+msgid "Add a new drag and drop restriction"
+msgstr "Afegeix un nou arrossegar i deixar anar restricció"
+msgid "Add a new column restriction"
+msgstr "Afegeix una nova restricció de columna"
+msgid "Edit this role"
+msgstr "Edita aquest rol"
+msgid "Remove this role"
+msgstr "Elimina aquest rol"
+msgid "There is no restriction for this role."
+msgstr "No hi ha cap restricció per a aquest rol."
+msgid "Only moving task between those columns is permitted"
+msgstr "Només es mou tasques entre aquestes columnes es permet"
+msgid "Close a task in a specific column when not moved during a given period"
+msgstr "Tancar una tasca en una columna específica quan no es va moure durant un període determinat"
+msgid "Edit columns"
+msgstr "Edita columnes"
+msgid "The column restriction has been created successfully."
+msgstr "La restricció de la columna s'ha creat correctament."
+msgid "Unable to create this column restriction."
+msgstr "No es pot crear aquesta restricció columna."
+msgid "Column restriction removed successfully."
+msgstr "restricció Columna eliminat correctament."
+msgid "Unable to remove this restriction."
+msgstr "No es pot eliminar aquesta restricció."
+msgid "Your custom project role has been created successfully."
+msgstr "El seu rol projecte personalitzat s'ha creat correctament."
+msgid "Unable to create custom project role."
+msgstr "No es pot crear el rol de projecte personalitzat."
+msgid "Your custom project role has been updated successfully."
+msgstr "El seu rol projecte personalitzat s'ha actualitzat correctament."
+msgid "Unable to update custom project role."
+msgstr "No es pot actualitzar rol projecte personalitzat."
+msgid "Custom project role removed successfully."
+msgstr "rol projecte personalitzat eliminat correctament."
+msgid "Unable to remove this project role."
+msgstr "No es pot treure aquest rol projecte."
+msgid "The project restriction has been created successfully."
+msgstr "La restricció projecte ha estat creat amb èxit."
+msgid "Unable to create this project restriction."
+msgstr "No es pot crear aquesta restricció projecte."
+msgid "Project restriction removed successfully."
+msgstr "Projecte restricció eliminat correctament."
+msgid "You cannot create tasks in this column."
+msgstr "No es poden crear tasques en aquesta columna."
+msgid "Task creation is permitted for this column"
+msgstr "Es permet la creació de tasques per a aquesta columna"
+msgid "Closing or opening a task is permitted for this column"
+msgstr "Tancant o obrint una tasca està permesa per a aquesta columna"
+msgid "Task creation is blocked for this column"
+msgstr "creació de la tasca està bloquejat per a aquesta columna"
+msgid "Closing or opening a task is blocked for this column"
+msgstr "Tancant o obrint una tasca està bloquejat per a aquesta columna"
+msgid "Task creation is not permitted"
+msgstr "No es permet la creació de tasques"
+msgid "Closing or opening a task is not permitted"
+msgstr "No es permet tancar o obrir una tasca"
+msgid "New drag and drop restriction for the role \"%s\""
+msgstr ""
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Les persones que pertanyen a aquest rol seran capaços de moure les tasques només entre la font i la columna de destinació."
+msgid "Remove a column restriction"
+msgstr "Eliminar una restricció columna"
+msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
+msgstr ""
+msgid "New column restriction for the role \"%s\""
+msgstr ""
+msgid "Rule"
+msgstr "regla"
+msgid "Do you really want to remove this column restriction?"
+msgstr "Vols eliminar aquest criteri de la columna?"
+msgid "Custom roles"
+msgstr "Rols personalitzats"
+msgid "New custom project role"
+msgstr "Nou rol projecte personalitzat"
+msgid "Edit custom project role"
+msgstr "Edita rol projecte personalitzat"
+msgid "Remove a custom role"
+msgstr "Eliminar una funció personalitzada"
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr ""
+msgid "There is no custom role for this project."
+msgstr "No hi ha una funció personalitzada per a aquest projecte."
+msgid "New project restriction for the role \"%s\""
+msgstr ""
+msgid "Restriction"
+msgstr "Restricció"
+msgid "Remove a project restriction"
+msgstr "Eliminar una restricció projecte"
+msgid "Do you really want to remove this project restriction: \"%s\"?"
+msgstr ""
+msgid "Duplicate to multiple projects"
+msgstr "Duplica a múltiples projectes"
+msgid "This field is required"
+msgstr "Aquest camp és obligatori"
+msgid "Moving a task is not permitted"
+msgstr "No està permès moure una tasca"
+msgid "This value must be in the range %d to %d"
+msgstr "Aquest valor ha d'estar en el rang %d a %d"
+msgid "You are not allowed to move this task."
+msgstr "No se li permet moure a aquesta tasca."
+msgid "API User Access"
+msgstr "L'accés d'usuari d'API"
+msgid "Preview"
+msgstr "Vista prèvia"
+msgid "Write"
+msgstr "escriure"
+msgid "Write your text in Markdown"
+msgstr "Escriure el text en Markdown"
+msgid "No personal API access token registered."
+msgstr "Sense accés a l'API personals símbol registrat."
+msgid "Your personal API access token is \"%s\""
+msgstr ""
+msgid "Remove your token"
+msgstr "Traieu el testimoni"
+msgid "Generate a new token"
+msgstr "Generar un nou token"
+msgid "Showing %d-%d of %d"
+msgstr ""
+msgid "Outgoing Emails"
+msgstr "Els correus electrònics sortints"
+msgid "Add or change currency rate"
+msgstr "Afegeix o canviar el valor de moneda"
+msgid "Reference currency: %s"
+msgstr "moneda de referència: %s"
+msgid "Add custom filters"
+msgstr "Afegeix filtres personalitzats"
+msgid "Export"
+msgstr "exportació"
+msgid "Add link label"
+msgstr "Afegeix etiqueta d'enllaç"
+msgid "Incompatible Plugins"
+msgstr "Connectors incompatibles"
+msgid "Compatibility"
+msgstr "Compatibilitat"
+msgid "Permissions and ownership"
+msgstr "Permisos i propietat"
+msgid "Priorities"
+msgstr "Prioritats"
+msgid "Close this window"
+msgstr "Tanca aquesta finestra"
+msgid "Unable to upload this file."
+msgstr "No es pot carregar aquest arxiu."
+msgid "Import tasks"
+msgstr "Importació de tasques"
+msgid "Choose a project"
+msgstr "Tria un projecte"
+msgid "Profile"
+msgstr "Perfil"
+msgid "Application role"
+msgstr "Rol d'aplicació"
+msgid "%d invitations were sent."
+msgstr "S'han enviat %d invitacions."
+msgid "%d invitation was sent."
+msgstr "S'han enviat %d invitacions."
+msgid "Unable to create this user."
+msgstr "No es pot crear aquest usuari."
+msgid "Kanboard Invitation"
+msgstr "Invitació Kanboard"
+msgid "Visible on dashboard"
+msgstr "Visible al tauler"
+msgid "Created at:"
+msgstr "Creat el:"
+msgid "Updated at:"
+msgstr "Actualitzat a:"
+msgid "There is no custom filter."
+msgstr "No hi ha cap filtre personal."
+msgid "New User"
+msgstr "Nou usuari"
+msgid "Authentication"
+msgstr "Autenticació"
+msgid "If checked, this user will use a third-party system for authentication."
+msgstr "Si s'activa, aquest usuari utilitzarà un sistema de tercers per a l'autenticació."
+msgid "The password is necessary only for local users."
+msgstr "La contrasenya és necessària només per als usuaris locals."
+msgid "You have been invited to register on Kanboard."
+msgstr "T'han convidat a inscriure't al Kanboard."
+msgid "Click here to join your team"
+msgstr "Fes clic aquí per unir-te a l'equip"
+msgid "Invite people"
+msgstr "Convidar a més gent"
+msgid "Emails"
+msgstr "Correus electrònics"
+msgid "Enter one email address by line."
+msgstr "Introdueix una adreça de correu electrònic per línia."
+msgid "Add these people to this project"
+msgstr "Afegeix a aquestes persones a aquest projecte"
+msgid "Add this person to this project"
+msgstr "Afegeix aquesta persona a aquest projecte"
+msgid "Sign-up"
+msgstr "Registra't"
+msgid "Credentials"
+msgstr "Credencials"
+msgid "New user"
+msgstr "Nou usuari"
+msgid "This username is already taken"
+msgstr "Aquest nom d'usuari ja està en ús"
+msgid "Your profile must have a valid email address."
+msgstr "El teu perfil ha de tenir una adreça de correu electrònic vàlida."
+msgid "TRL - Turkish Lira"
+msgstr "TRL - Lira turca"
+msgid "The project email is optional and could be used by several plugins."
+msgstr "El correu electrònic del projecte és opcional i pot ser utilitzat per diversos connectors."
+msgid "The project email must be unique across all projects"
+msgstr "El correu electrònic del projecte ha de ser únic en tots els projectes"
+msgid "The email configuration has been disabled by the administrator."
+msgstr "La configuració de correu electrònic ha estat desactivat per l'administrador."
+msgid "Close this project"
+msgstr "Tanca aquest projecte"
+msgid "Open this project"
+msgstr "Obre aquest projecte"
+msgid "Close a project"
+msgstr "Tanca un projecte"
+msgid "Do you really want to close this project: \"%s\"?"
+msgstr ""
+msgid "Reopen a project"
+msgstr "Torna a obrir un projecte"
+msgid "Do you really want to reopen this project: \"%s\"?"
+msgstr ""
+msgid "This project is open"
+msgstr "Aquest projecte està obert"
+msgid "This project is closed"
+msgstr "Aquest projecte està tancat"
+msgid "Unable to upload files, check the permissions of your data folder."
+msgstr "No es pot pujar arxius, comprovar els permisos de la carpeta de dades."
+msgid "Another category with the same name exists in this project"
+msgstr "Una altra categoria amb el mateix nom existeix en aquest projecte"
+msgid "Comment sent by email successfully."
+msgstr "Comentar enviat per correu electrònic amb èxit."
+msgid "Sent by email to \"%s\" (%s)"
+msgstr ""
+msgid "Unable to read uploaded file."
+msgstr "No es pot llegir el fitxer pujat."
+msgid "Database uploaded successfully."
+msgstr "Base de dades carregat correctament."
+msgid "Task sent by email successfully."
+msgstr "Tasca enviat per correu electrònic amb èxit."
+msgid "There is no category in this project."
+msgstr "No hi ha una categoria en aquest projecte."
+msgid "Send by email"
+msgstr "Envia per correu electrònic"
+msgid "Create and send a comment by email"
+msgstr "Per crear i enviar un comentari per correu electrònic"
+msgid "Subject"
+msgstr "Tema"
+msgid "Upload the database"
+msgstr "Puja la base de dades"
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Es podia pujar la base de dades SQLite prèviament descarregat (format gzip)."
+msgid "Database file"
+msgstr "arxiu de base"
+msgid "Upload"
+msgstr "Pujar"
+msgid "Your project must have at least one active swimlane."
+msgstr "El seu projecte ha de tenir com a mínim un swimlane actiu."
+msgid "Project: %s"
+msgstr "Projecte: %s"
+msgid "Automatic action not found: \"%s\""
+msgstr ""
+msgid "%d projects"
+msgstr "%d projectes"
+msgid "%d project"
+msgstr "%d projecte"
+msgid "There is no project."
+msgstr "No hi ha cap projecte."
+msgid "Sort"
+msgstr "Ordena"
+msgid "Project ID"
+msgstr "identificació del projecte"
+msgid "Project name"
+msgstr "Nom del projecte"
+msgid "Public"
+msgstr "Públic"
+msgid "Personal"
+msgstr "Privat"
+msgid "%d tasks"
+msgstr "%d tasques"
+msgid "%d task"
+msgstr "%d tasca"
+msgid "Task ID"
+msgstr "ID de tasca"
+msgid "Assign automatically a color when due date is expired"
+msgstr "Assignar automàticament un color quan ha caducat la data de venciment"
+msgid "Total score in this column across all swimlanes"
+msgstr "Puntuació total d'aquesta columna a través de tots swimlanes"
+msgid "HRK - Kuna"
+msgstr "HRK - Kuna"
+msgid "ARS - Argentine Peso"
+msgstr "ARS - Pes Argentí"
+msgid "COP - Colombian Peso"
+msgstr "COP - Pes colombià"
+msgid "%d groups"
+msgstr "%d grups"
+msgid "%d group"
+msgstr "%d grup"
+msgid "Group ID"
+msgstr "ID de grup"
+msgid "External ID"
+msgstr "Identificació externa"
+msgid "%d users"
+msgstr "%d usuaris"
+msgid "%d user"
+msgstr "%d usuari"
+msgid "Hide subtasks"
+msgstr "Amaga subtasques"
+msgid "Show subtasks"
+msgstr "Mostra subtasques"
+msgid "Authentication Parameters"
+msgstr "Paràmetres d'autenticació"
+msgid "API Access"
+msgstr "Accés API"
+msgid "No users found."
+msgstr "No es van trobar usuaris."
+msgid "User ID"
+msgstr "ID d'usuari"
+msgid "Notifications are activated"
+msgstr "Notificacions habilitades"
+msgid "Notifications are disabled"
+msgstr "Notificacions inhabilitades"
+msgid "User disabled"
+msgstr "Usuari deshabilitat"
+msgid "%d notifications"
+msgstr "%d notificacions"
+msgid "%d notification"
+msgstr "%d notificació"
+msgid "There is no external integration installed."
+msgstr "No hi ha integració externa instal·lada."
+msgid "You are not allowed to update tasks assigned to someone else."
+msgstr "No se li permet posar al dia les tasques assignades a una altra persona."
+msgid "You are not allowed to change the assignee."
+msgstr "No se li permet canviar el assignat."
+msgid "Task suppression is not permitted"
+msgstr "No es permet la supressió de tasques"
+msgid "Changing assignee is not permitted"
+msgstr "No es permet el canvi de assignatari"
+msgid "Update only assigned tasks is permitted"
+msgstr "Actualitzar les tasques assignades només es permet"
+msgid "Only for tasks assigned to the current user"
+msgstr "Només per a les tasques assignades a l'usuari actual"
+msgid "My projects"
+msgstr "Els meus projectes"
+msgid "You are not a member of any project."
+msgstr "No és membre de cap projecte."
+msgid "My subtasks"
+msgstr "Les meves subtasques"
+msgid "%d subtasks"
+msgstr "%d subtasques"
+msgid "%d subtask"
+msgstr "%d subtasca"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgid "[DUPLICATE]"
+msgstr "[DUPLICATE]"
+msgid "DKK - Danish Krona"
+msgstr ""
+msgid "Remove user from group"
+msgstr ""
+msgid "Assign the task to its creator"
+msgstr ""
+msgid "This task was sent by email to \"%s\" with subject \"%s\"."
+msgstr ""
+msgid "Predefined Email Subjects"
+msgstr ""
+msgid "Write one subject by line."
+msgstr ""
+msgid "Create another link"
+msgstr ""
+msgid "BRL - Brazilian Real"
+msgstr ""
+msgid "Add a new Kanboard task"
+msgstr ""
+msgid "Subtask not started"
+msgstr ""
+msgid "Subtask currently in progress"
+msgstr ""
+msgid "Subtask completed"
+msgstr ""
+msgid "Subtask added successfully."
+msgstr ""
+msgid "%d subtasks added successfully."
+msgstr ""
+msgid "Enter one subtask by line."
+msgstr ""
+msgid "Predefined Contents"
+msgstr ""
+msgid "Predefined contents"
+msgstr ""
+msgid "Predefined Task Description"
+msgstr ""
+msgid "Do you really want to remove this template? \"%s\""
+msgstr ""
+msgid "Add predefined task description"
+msgstr ""
+msgid "Predefined Task Descriptions"
+msgstr ""
+msgid "Template created successfully."
+msgstr ""
+msgid "Unable to create this template."
+msgstr ""
+msgid "Template updated successfully."
+msgstr ""
+msgid "Unable to update this template."
+msgstr ""
+msgid "Template removed successfully."
+msgstr ""
+msgid "Unable to remove this template."
+msgstr ""
+msgid "Template for the task description"
+msgstr ""
+msgid "The start date is greater than the end date"
+msgstr ""
+msgid "Tags must be separated by a comma"
+msgstr ""
+msgid "Only the task title is required"
+msgstr ""
+msgid "Creator Username"
+msgstr ""
+msgid "Color Name"
+msgstr ""
+msgid "Column Name"
+msgstr ""
+msgid "Swimlane Name"
+msgstr ""
+msgid "Time Estimated"
+msgstr ""
+msgid "Time Spent"
+msgstr ""
+msgid "External Link"
+msgstr ""
+msgid "This feature enables the iCal feed, RSS feed and the public board view."
+msgstr ""
+msgid "Stop the timer of all subtasks when moving a task to another column"
+msgstr ""
+msgid "Subtask Title"
+msgstr ""
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr ""
+msgid "days"
+msgstr ""
+msgid "minutes"
+msgstr ""
+msgid "seconds"
+msgstr ""
+msgid "Assign automatically a color when preset start date is reached"
+msgstr ""
+msgid "Move the task to another column once a predefined start date is reached"
+msgstr ""
+msgid "This task is now linked to the task %s with the relation \"%s\""
+msgstr ""
+msgid "The link with the relation \"%s\" to the task %s has been removed"
+msgstr ""
+msgid "Custom Filter:"
+msgstr ""
+msgid "Unable to find this group."
+msgstr ""
+msgid "%s moved the task #%d to the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the position %d in the column \"%s\""
+msgstr ""
+msgid "%s moved the task #%d to the swimlane \"%s\""
+msgstr ""
+msgid "%sh spent"
+msgstr ""
+msgid "%sh estimated"
+msgstr ""
+msgid "Select All"
+msgstr ""
+msgid "Unselect All"
+msgstr ""
+msgid "Apply action"
+msgstr ""
+msgid "Move selected tasks to another column or swimlane"
+msgstr ""
+msgid "Edit tasks in bulk"
+msgstr ""
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr ""
+msgid "Configure this project"
+msgstr ""
+msgid "Start now"
+msgstr ""
+msgid "%s removed a file from the task #%d"
+msgstr ""
+msgid "Attachment removed from task #%d: %s"
+msgstr ""
+msgid "No color"
+msgstr ""
+msgid "Attachment removed \"%s\""
+msgstr ""
+msgid "%s removed a file from the task %s"
+msgstr ""
+msgid "Move the task to another swimlane when assigned to a user"
+msgstr ""
+msgid "Destination swimlane"
+msgstr ""
+msgid "Assign a category when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Move the task to another swimlane when the category is changed"
+msgstr ""
+msgid "Reorder this column by priority (ASC)"
+msgstr ""
+msgid "Reorder this column by priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (ASC)"
+msgstr ""
+msgid "Reorder this column by assignee and priority (DESC)"
+msgstr ""
+msgid "Reorder this column by assignee (A-Z)"
+msgstr ""
+msgid "Reorder this column by assignee (Z-A)"
+msgstr ""
+msgid "Reorder this column by due date (ASC)"
+msgstr ""
+msgid "Reorder this column by due date (DESC)"
+msgstr ""
+msgid "%s moved the task #%d \"%s\" to the project \"%s\""
+msgstr ""
+msgid "Task #%d \"%s\" has been moved to the project \"%s\""
+msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr ""
+msgid "HTTP Client:"
+msgstr ""
+msgid "Assigned"
+msgstr ""
+msgid "Task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits apply to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied to each swimlane individually"
+msgstr ""
+msgid "Column task limits are applied across swimlanes"
+msgstr ""
+msgid "Task limit: "
+msgstr ""
+msgid "Change to global tag"
+msgstr ""
+msgid "Do you really want to make the tag \"%s\" global?"
+msgstr ""
+msgid "Enable global tags for this project"
+msgstr ""
+msgid "Group membership(s):"
+msgstr ""
+msgid "%s is a member of the following group(s): %s"
+msgstr ""
+msgid "%d/%d group(s) shown"
+msgstr ""
+msgid "Subtask creation or modification"
+msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr ""
+msgid "Comment"
+msgstr ""
+msgid "Collapse vertically"
+msgstr ""
+msgid "Expand vertically"
+msgstr ""
+msgid "MXN - Mexican Peso"
+msgstr ""
+msgid "Estimated vs actual time per column"
+msgstr ""
+msgid "HUF - Hungarian Forint"
+msgstr ""
+msgid "XBT - Bitcoin"
+msgstr ""
+msgid "You must select a file to upload as your avatar!"
+msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr ""
+msgid "No other projects found."
+msgstr ""
+msgid "Please choose a project you want to copy the tasks from."
+msgstr ""
+msgid "Import Tasks"
+msgstr ""
+msgid "Copy"
+msgstr ""
+msgid "Tasks copied successfully."
+msgstr ""
+msgid "Unable to copy tasks."
+msgstr ""
 
