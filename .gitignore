@@ -1,1 +1,4 @@
 /nbproject/private/
+
+# ignore binary gettext
+**.mo
