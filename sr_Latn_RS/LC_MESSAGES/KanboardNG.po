@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: sr\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Serbian (Latin)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: sr-CS\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: sr_CS\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -18,8 +32,7 @@ msgstr "Napravi komentar putem spoljnog posrednika"
 
 #: app/Action/CommentCreationMoveTaskColumn.php:23
 msgid "Add a comment log when moving the task between columns"
-msgstr ""
-"Dodaj komentar u dnevnik kada se zadatak premesti iz jedne kolonu u drugu"
+msgstr "Dodaj komentar u dnevnik kada se zadatak premesti iz jedne kolonu u drugu"
 
 #: app/Action/CommentCreationMoveTaskColumn.php:47
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:49
@@ -57,16 +70,11 @@ msgstr "Premešten u kolonu %s"
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
-"Zaustavi tajmer na svim podzadacima prilikom premeštanja zadatka u drugu "
-"kolonu"
+msgstr "Zaustavi tajmer na svim podzadacima prilikom premeštanja zadatka u drugu kolonu"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
-"Dodaj podzadatak i aktiviraj tajmer prilikom premeštanja zadatka u drugu "
-"kolonu"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Dodaj podzadatak i aktiviraj tajmer prilikom premeštanja zadatka u drugu kolonu"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
@@ -207,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "Dodeli zadatak korisniku koji je izvršio akciju"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "Dodeli zadatak osobi koja izvrši akciju promene kolone"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -227,9 +234,7 @@ msgid "Duration in days"
 msgstr "Dužina trajanja u danima"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
+msgid "Automatically set the due date when the task is moved away from a specific column"
 msgstr ""
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
@@ -245,11 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "Promeni izvršioca bazirano na spoljnom korisničkom imenu"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
-"Dodeli zadatak određenom korisnika kada je zadatak prebačen u određenu stazu"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "Dodeli zadatak određenom korisnika kada je zadatak prebačen u određenu stazu"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -269,8 +271,7 @@ msgstr "Zatvori zadatak kada nema aktivnosti u odabranoj koloni"
 
 #: app/Action/TaskCloseNotMovedColumn.php:23
 msgid "Close a task in a specific column when not moved during a given period"
-msgstr ""
-"Zatvori zadatak u odabranoj koloni kada nema pomeranja za zadati period"
+msgstr "Zatvori zadatak u odabranoj koloni kada nema pomeranja za zadati period"
 
 #: app/Action/TaskCreation.php:21
 msgid "Create a task from an external provider"
@@ -351,22 +352,15 @@ msgstr "Pomeri zadatak u drugu kolonu kada je zatvoren"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Pomeri zadatak u drugu kolonu kada nema pomeranja zadatka za zadati period"
+msgstr "Pomeri zadatak u drugu kolonu kada nema pomeranja zadatka za zadati period"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
-"Pomeri zadatak u neku drugu kolonu kada je datum roka završetka kraći od "
-"određenog broja dana"
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "Pomeri zadatak u neku drugu kolonu kada je datum roka završetka kraći od određenog broja dana"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
-msgstr ""
-"Premestite zadatak u drugu kolonu kada se dostigne unapred definisani datum "
-"početka"
+msgstr "Premestite zadatak u drugu kolonu kada se dostigne unapred definisani datum početka"
 
 #: app/Action/TaskMoveColumnUnAssigned.php:23
 msgid "Move the task to another column when assignee is cleared"
@@ -394,11 +388,8 @@ msgid "Automatically update the start date"
 msgstr "Automatski ažuriraj početni datum"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
-"Automatski ažuriraj datum početka kada se zadatak ukloni iz određene kolone"
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "Automatski ažuriraj datum početka kada se zadatak ukloni iz određene kolone"
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
@@ -500,9 +491,7 @@ msgid "You must select a file to upload as your avatar!"
 msgstr ""
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
 msgstr ""
 
 #: app/Controller/AvatarFileController.php:42
@@ -511,20 +500,15 @@ msgstr ""
 #: app/Controller/TaskFileController.php:60
 #: app/Controller/TaskFileController.php:66
 msgid "Unable to upload files, check the permissions of your data folder."
-msgstr ""
-"Nije moguće otpremiti datoteke, proverite prava na direktorijum servera."
+msgstr "Nije moguće otpremiti datoteke, proverite prava na direktorijum servera."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "Nemate dozvolu za uklanjanje ovog dodatka."
+msgstr ""
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr "Svi zadaci kolone \"%s\" i staze \"%s\" uspešno su zatvoreni."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -1374,7 +1358,7 @@ msgstr "Globalno upravljanje oznakama."
 #: app/Controller/TaskBulkMoveColumnController.php:36
 #: app/Controller/TaskMovePositionController.php:39
 msgid "You are not allowed to move this task."
-msgstr "Nemaš dozvolu za pomeranje ovog zadatka."
+msgstr ""
 
 #: app/Controller/TaskCreationController.php:57
 #: app/Controller/TaskDuplicationController.php:94
@@ -1664,7 +1648,7 @@ msgstr "Nepoznat"
 #: app/Core/Mail/Client.php:74
 #, php-format
 msgid "%s via Kanboard"
-msgstr "%s putem Kanboard-a"
+msgstr ""
 
 #: app/Core/Paginator.php:413 app/Core/Paginator.php:419
 #: app/Core/Paginator.php:424
@@ -1691,7 +1675,7 @@ msgstr "Dodatak nije pronađen."
 
 #: app/Core/Plugin/Installer.php:63
 msgid "You don't have the permission to remove this plugin."
-msgstr "Nemate dozvolu za uklanjanje ovog dodatka."
+msgstr ""
 
 #: app/Core/Plugin/Installer.php:107
 msgid "Unable to download plugin archive."
@@ -1740,37 +1724,37 @@ msgstr "Posmatrač projekta"
 #: app/EventBuilder/CommentEventBuilder.php:63
 #, php-format
 msgid "%s updated a comment on the task #%d"
-msgstr "%s ažurirao/la komentar za zadatka #%d"
+msgstr ""
 
 #: app/EventBuilder/CommentEventBuilder.php:65
 #, php-format
 msgid "%s commented on the task #%d"
-msgstr "%s komentarisao/la zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/CommentEventBuilder.php:67
 #, php-format
 msgid "%s removed a comment on the task #%d"
-msgstr "%s je uklonio/la komentar na zadatku #%d"
+msgstr ""
 
 #: app/EventBuilder/CommentEventBuilder.php:69
 #, php-format
 msgid "%s mentioned you in a comment on the task #%d"
-msgstr "%s Vas je spomenuo/la u komentaru zadatka #%d"
+msgstr ""
 
 #: app/EventBuilder/CommentEventBuilder.php:87
 #, php-format
 msgid "New comment on task #%d"
-msgstr "Novi komentar na zadatku #%d"
+msgstr ""
 
 #: app/EventBuilder/CommentEventBuilder.php:89
 #, php-format
 msgid "Comment updated on task #%d"
-msgstr "Ažuriran komentar na zadatku #%d"
+msgstr ""
 
 #: app/EventBuilder/CommentEventBuilder.php:91
 #, php-format
 msgid "Comment removed on task #%d"
-msgstr "Komentar ukloljen na zadatku #%d"
+msgstr ""
 
 #: app/EventBuilder/CommentEventBuilder.php:93
 #: app/Template/notification/comment_user_mention.php:3
@@ -1781,37 +1765,37 @@ msgstr "Spomenuti ste u komentaru zadatka #%d"
 #: app/EventBuilder/SubtaskEventBuilder.php:94
 #, php-format
 msgid "%s updated a subtask for the task #%d"
-msgstr "%s ažurirao/la podzadatak za zadatka #%d"
+msgstr ""
 
 #: app/EventBuilder/SubtaskEventBuilder.php:96
 #, php-format
 msgid "%s created a subtask for the task #%d"
-msgstr "%s kreirao/la podzadatak za zadatka #%d"
+msgstr ""
 
 #: app/EventBuilder/SubtaskEventBuilder.php:98
 #, php-format
 msgid "%s removed a subtask for the task #%d"
-msgstr "%s je uklonio/la podzadatak za zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/SubtaskEventBuilder.php:116
 #, php-format
 msgid "New subtask on task #%d"
-msgstr "Novi podzadatak na zadatku #%d"
+msgstr ""
 
 #: app/EventBuilder/SubtaskEventBuilder.php:118
 #, php-format
 msgid "Subtask updated on task #%d"
-msgstr "Podzadatak ažuriran na zadatku #%d"
+msgstr ""
 
 #: app/EventBuilder/SubtaskEventBuilder.php:120
 #, php-format
 msgid "Subtask removed on task #%d"
-msgstr "Podzadatak ukloljen na zadatku #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:141
 #, php-format
 msgid "%s changed the assignee of the task #%d to %s"
-msgstr "%s je promenio/la izvršioca zadataka #%d na %s"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:144
 #: app/Formatter/SubtaskTimeTrackingCalendarFormatter.php:25
@@ -1846,78 +1830,78 @@ msgstr "#%d"
 #: app/Template/event/task_assignee_change.php:11
 #, php-format
 msgid "%s removed the assignee of the task %s"
-msgstr "%s je uklonio/la izvršioca zadatka %s"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:146
 #, php-format
 msgid "%s updated the task #%d"
-msgstr "%s ažurirao/la zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:148
 #, php-format
 msgid "%s created the task #%d"
-msgstr "%s kreirao/la zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:150
 #, php-format
 msgid "%s closed the task #%d"
-msgstr "%s zatvorio/la zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:152
 #, php-format
 msgid "%s opened the task #%d"
-msgstr "%s otvorio/la zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:155
 #: app/Template/event/task_move_project.php:2
 #, php-format
 msgid "%s moved the task #%d \"%s\" to the project \"%s\""
-msgstr "%s je pomerio/la zadatak #%d \"%s\" u projekat \"%s\""
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:163
 #, php-format
 msgid "%s moved the task #%d to the column \"%s\""
-msgstr "%s je pomerio/la zadatak #%d u kolonu \"%s\""
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:170
 #, php-format
 msgid "%s moved the task #%d to the position %d in the column \"%s\""
-msgstr "%s je pomerio/la zadatakk #%d na poziciju %d u koloni \"%s\""
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:178
 #, php-format
 msgid "%s moved the task #%d to the first swimlane"
-msgstr "%s je premestio/la zadatak #%d u prvu stazu"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:182
 #, php-format
 msgid "%s moved the task #%d to the swimlane \"%s\""
-msgstr "%s je pomerio/la zadatak #%d u stazu \"%s\""
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:189
 #, php-format
 msgid "%s mentioned you in the task #%d"
-msgstr "%s Vas je spomenuo/la u zadatku #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:207
 #, php-format
 msgid "New task #%d: %s"
-msgstr "Novi zadatak #%d: %s"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:209
 #, php-format
 msgid "Task updated #%d"
-msgstr "Zadatak ažuriran #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:211
 #, php-format
 msgid "Task #%d closed"
-msgstr "Zadatak #%d zatvoren"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:213
 #, php-format
 msgid "Task #%d opened"
-msgstr "Zadatak #%d otvoren"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:215
 #: app/Template/notification/task_move_project.php:5
@@ -1928,32 +1912,32 @@ msgstr "Zadatak #%d \"%s\" je premešten u projekat \"%s\""
 #: app/EventBuilder/TaskEventBuilder.php:217
 #, php-format
 msgid "Column changed for task #%d"
-msgstr "Promenjena kolona za zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:219
 #, php-format
 msgid "New position for task #%d"
-msgstr "Nova pozicija za zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:221
 #, php-format
 msgid "Swimlane changed for task #%d"
-msgstr "Staza je promenjena za zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:223
 #, php-format
 msgid "Assignee changed on task #%d"
-msgstr "Izvršilac je promenjen na zadatku #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:226
 #, php-format
 msgid "%d overdue tasks"
-msgstr "%d zadataka kasni"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:226
 #, php-format
 msgid "Task #%d is overdue"
-msgstr "Zadatak #%d kasni"
+msgstr ""
 
 #: app/EventBuilder/TaskEventBuilder.php:228
 #: app/Template/notification/task_user_mention.php:3
@@ -1964,46 +1948,46 @@ msgstr "Spomenuti ste u zadatku #%d"
 #: app/EventBuilder/TaskFileEventBuilder.php:64
 #, php-format
 msgid "%s attached a file to the task #%d"
-msgstr "%s je dodao/la novu datoteku u zadatak %d"
+msgstr ""
 
 #: app/EventBuilder/TaskFileEventBuilder.php:68
 #, php-format
 msgid "%s removed a file from the task #%d"
-msgstr "%s je uklonio/la dataoteku iz zadatka #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskFileEventBuilder.php:85
 #, php-format
 msgid "New attachment on task #%d: %s"
-msgstr "Novi priložak na zadatku #%d: %s"
+msgstr ""
 
 #: app/EventBuilder/TaskFileEventBuilder.php:89
 #, php-format
 msgid "Attachment removed from task #%d: %s"
-msgstr "Dodatak je uklonjen iz zadatka #%d: %s"
+msgstr ""
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:63
 #, php-format
 msgid "%s set a new internal link for the task #%d"
-msgstr "%s je postavio/la novu unutrašnju vezu za zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:65
 #, php-format
 msgid "%s removed an internal link for the task #%d"
-msgstr "%s je uklonio/la unutrašnju vezu za zadatak #%d"
+msgstr ""
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:82
 #, php-format
 msgid "A new internal link for the task #%d has been defined"
-msgstr "Nova unutrašnja veza za zadatak #%d je definisana"
+msgstr ""
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:84
 #, php-format
 msgid "Internal link removed for the task #%d"
-msgstr "Unutrašnja veza je uklonjena za zadatak #%d"
+msgstr ""
 
 #: app/Export/SubtaskExport.php:57
 msgid "Subtask Id"
-msgstr "ID podzadatka"
+msgstr ""
 
 #: app/Export/SubtaskExport.php:58 app/Export/TaskExport.php:158
 #: app/Helper/FormHelper.php:238 app/Helper/SubtaskHelper.php:108
@@ -2033,7 +2017,7 @@ msgstr "Status"
 
 #: app/Export/SubtaskExport.php:61 app/Export/TaskExport.php:163
 msgid "Time estimated"
-msgstr "Procenjeno vreme"
+msgstr ""
 
 #: app/Export/SubtaskExport.php:62 app/Export/TaskExport.php:164
 #: app/Export/TransitionExport.php:51 app/Helper/SubtaskHelper.php:154
@@ -2046,11 +2030,11 @@ msgstr "Utrošeno vreme"
 
 #: app/Export/SubtaskExport.php:63 app/Export/TaskExport.php:143
 msgid "Task Id"
-msgstr "Identifikator zadatka"
+msgstr ""
 
 #: app/Export/SubtaskExport.php:64 app/Export/TransitionExport.php:46
 msgid "Task Title"
-msgstr "Naslov zadatka"
+msgstr ""
 
 #: app/Export/TaskExport.php:115 app/Template/analytic/time_comparison.php:25
 #: app/Template/analytic/time_comparison.php:46
@@ -2096,15 +2080,15 @@ msgstr "Autor"
 
 #: app/Export/TaskExport.php:154
 msgid "Creator Name"
-msgstr "Ime kreatora"
+msgstr ""
 
 #: app/Export/TaskExport.php:155 app/Import/TaskImport.php:40
 msgid "Assignee Username"
-msgstr "Korisničko ime izvršioca"
+msgstr ""
 
 #: app/Export/TaskExport.php:156
 msgid "Assignee Name"
-msgstr "Ime izvršioca"
+msgstr ""
 
 #: app/Export/TaskExport.php:157 app/Helper/TaskHelper.php:188
 #: app/Import/TaskImport.php:46 app/Template/board/task_footer.php:50
@@ -2120,11 +2104,11 @@ msgstr "Datum kreiranja"
 
 #: app/Export/TaskExport.php:160
 msgid "Modification date"
-msgstr "Datum izmene"
+msgstr ""
 
 #: app/Export/TaskExport.php:161
 msgid "Completion date"
-msgstr "Datum kompletiranja"
+msgstr ""
 
 #: app/Export/TaskExport.php:162 app/Template/analytic/burndown.php:21
 #: app/Template/analytic/cfd.php:20
@@ -2374,15 +2358,15 @@ msgstr "Dodajte novi Kanboard zadatak"
 
 #: app/Import/TaskImport.php:41
 msgid "Creator Username"
-msgstr "Korisničko ime kreatora"
+msgstr ""
 
 #: app/Import/TaskImport.php:42
 msgid "Color Name"
-msgstr "Boja kolone"
+msgstr ""
 
 #: app/Import/TaskImport.php:43
 msgid "Column Name"
-msgstr "Naziv kolone"
+msgstr ""
 
 #: app/Import/TaskImport.php:44 app/Template/category/create.php:7
 #: app/Template/category/edit.php:8 app/Template/category/index.php:14
@@ -2391,19 +2375,19 @@ msgstr "Naziv kategorije"
 
 #: app/Import/TaskImport.php:45
 msgid "Swimlane Name"
-msgstr "Naziv staze"
+msgstr ""
 
 #: app/Import/TaskImport.php:47
 msgid "Time Estimated"
-msgstr "Procenjeno vreme"
+msgstr ""
 
 #: app/Import/TaskImport.php:48
 msgid "Time Spent"
-msgstr "Utrošeno vreme"
+msgstr ""
 
 #: app/Import/TaskImport.php:54
 msgid "External Link"
-msgstr "Spoljna veza"
+msgstr ""
 
 #: app/Import/TaskImport.php:140 app/Import/UserImport.php:115
 #: app/Validator/ActionValidator.php:27
@@ -2639,7 +2623,7 @@ msgstr "XBT - Bitkoin"
 
 #: app/Model/InviteModel.php:55
 msgid "Kanboard Invitation"
-msgstr "Kanboard pozivnica"
+msgstr ""
 
 #: app/Model/LanguageModel.php:133 app/Model/TimezoneModel.php:28
 msgid "Application default"
@@ -2647,7 +2631,7 @@ msgstr "Aplikacijski podrazumevano"
 
 #: app/Model/NotificationModel.php:40 app/Model/NotificationModel.php:61
 msgid "Notification"
-msgstr "Obaveštenja"
+msgstr ""
 
 #: app/Model/ProjectDuplicationModel.php:70
 msgid "Clone"
@@ -2705,7 +2689,7 @@ msgstr "[DUPLIKAT]"
 #: app/Model/TaskFileModel.php:90
 #, php-format
 msgid "Screenshot taken %s"
-msgstr "Slika ekrana uzeta %s"
+msgstr ""
 
 #: app/Model/TaskRecurrenceModel.php:25 app/Template/column/index.php:52
 #: app/Template/custom_filter/index.php:39
@@ -2949,17 +2933,12 @@ msgstr "Prosek utrošenog vremena"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Ovaj grafikon pokazuje prosek utrošenog vremena u svakoj koloni za "
-"posljednjih %d zadataka."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Ovaj grafikon pokazuje prosek utrošenog vremena u svakoj koloni za posljednjih %d zadataka."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
-msgstr ""
-"Da bi se prikazao ovaj grafik neophodno je da postoje podaci barem dva dana "
-"unazad."
+msgstr "Da bi se prikazao ovaj grafik neophodno je da postoje podaci barem dva dana unazad."
 
 #: app/Template/analytic/burndown.php:12
 msgid "Total for all columns"
@@ -2968,7 +2947,7 @@ msgstr "Ukupno za sve kolone"
 #: app/Template/analytic/burndown.php:13 app/Template/analytic/cfd.php:12
 #, php-format
 msgid "%%Y-%%m-%%d"
-msgstr "%%Y-%%m-%%d"
+msgstr ""
 
 #: app/Template/analytic/burndown.php:22 app/Template/analytic/cfd.php:21
 #: app/Template/analytic/lead_cycle_time.php:26
@@ -2986,8 +2965,7 @@ msgstr "Izvrši"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
-"Ovaj grafikon pokazuje kompleksnost zadatka tokom vremena (Preostalo posla)"
+msgstr "Ovaj grafikon pokazuje kompleksnost zadatka tokom vremena (Preostalo posla)"
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
@@ -3023,12 +3001,8 @@ msgstr "Vreme realizacije"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Ovaj grafikon prikazuje prosečno vreme realizacije i ciklusa za posljednjih "
-"%d zadataka tokom vremena."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Ovaj grafikon prikazuje prosečno vreme realizacije i ciklusa za posljednjih %d zadataka tokom vremena."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3176,16 +3150,12 @@ msgid "Close all tasks in this column and this swimlane"
 msgstr "Zatvori sve zadatke ove kolone"
 
 #: app/Template/board/table_column.php:56
-#, fuzzy
-#| msgid "Reorder this column by priority (ASC)"
 msgid "Reorder this column by id (ASC)"
-msgstr "Promenite redosled ove kolone prema prioritetu (UZLAZNO)"
+msgstr ""
 
 #: app/Template/board/table_column.php:59
-#, fuzzy
-#| msgid "Reorder this column by priority (DESC)"
 msgid "Reorder this column by id (DESC)"
-msgstr "Promenite redosled ove kolone prema prioritetu (SILAZNO)"
+msgstr ""
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
@@ -3442,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Samo za zadatke dodeljene trenutnom korisniku"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Osobe kojima se dodeli ova uloga će biti u mogućnosti da pomeraju zadatke "
-"samo imeđu izvorne i odredišne kolone."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Osobe kojima se dodeli ova uloga će biti u mogućnosti da pomeraju zadatke samo imeđu izvorne i odredišne kolone."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3457,8 +3423,7 @@ msgstr "Ukloni ograničenje za kolonu"
 #: app/Template/column_move_restriction/remove.php:7
 #, php-format
 msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
-msgstr ""
-"Da li zaista želite da uklonite ovo ograničenje za kolonu: \"%s\" u \"%s\"?"
+msgstr "Da li zaista želite da uklonite ovo ograničenje za kolonu: \"%s\" u \"%s\"?"
 
 #: app/Template/column_restriction/create.php:2
 #, php-format
@@ -3555,11 +3520,11 @@ msgstr "Verzija aplikacije:"
 
 #: app/Template/config/about.php:31
 msgid "PHP version:"
-msgstr "Verzija PHP-a:"
+msgstr ""
 
 #: app/Template/config/about.php:35
 msgid "PHP SAPI:"
-msgstr "PHP SAPI:"
+msgstr ""
 
 #: app/Template/config/about.php:39
 msgid "HTTP Client:"
@@ -3631,9 +3596,7 @@ msgstr "URL adresa aplikacije"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
-"Na primer: https://example.kanboard.org/ (koristi se za generisanje "
-"apsolutnog URL-a)"
+msgstr "Na primer: https://example.kanboard.org/ (koristi se za generisanje apsolutnog URL-a)"
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3675,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Period naznačavanja zadatka"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Period (u sekundama) za koji se smatra da je bilo izmena na zadatku (0 je "
-"onemogućeno, 2 dana je podrazumevano)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Period (u sekundama) za koji se smatra da je bilo izmena na zadatku (0 je onemogućeno, 2 dana je podrazumevano)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3696,8 +3655,7 @@ msgstr "Interval osvežavanja ličnih tabli"
 
 #: app/Template/config/board.php:18
 msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
-msgstr ""
-"Učestalost u sekundama (0 gasi ovu funkecionalnost, 10 je podrazumevano)"
+msgstr "Učestalost u sekundama (0 gasi ovu funkecionalnost, 10 je podrazumevano)"
 
 #: app/Template/config/email.php:8
 msgid "Outgoing Emails"
@@ -3851,10 +3809,8 @@ msgid "Webhooks"
 msgstr "Webhook-ovi"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"Možete otpremiti prethodno preuzetu Sqlite bazu podataka (Gzip format)."
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Možete otpremiti prethodno preuzetu Sqlite bazu podataka (Gzip format)."
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4037,17 +3993,17 @@ msgstr "ID zadatka"
 #: app/Template/event/comment_create.php:2
 #, php-format
 msgid "%s commented the task %s"
-msgstr "%s je komentarisao/la zadatak %s"
+msgstr ""
 
 #: app/Template/event/comment_delete.php:2
 #, php-format
 msgid "%s removed a comment on the task %s"
-msgstr "%s je uklonio/la komentar za zadatak %s"
+msgstr ""
 
 #: app/Template/event/comment_update.php:2
 #, php-format
 msgid "%s updated a comment on the task %s"
-msgstr "%s je ažurirao/la komentar za zadatka %s"
+msgstr ""
 
 #: app/Template/event/events.php:2
 msgid "There is no activity yet."
@@ -4056,7 +4012,7 @@ msgstr "Nema aktivnosti još uvek."
 #: app/Template/event/subtask_create.php:2
 #, php-format
 msgid "%s created a subtask for the task %s"
-msgstr "%s je kreirao/la podzadatak za zadatka %s"
+msgstr ""
 
 #: app/Template/event/subtask_create.php:17
 #: app/Template/event/subtask_update.php:17
@@ -4073,89 +4029,89 @@ msgstr "Nedodeljen, procenjeno vreme %sh"
 #: app/Template/event/subtask_delete.php:2
 #, php-format
 msgid "%s removed a subtask for the task %s"
-msgstr "%s je uklonio/la podzadatak za zadatak %s"
+msgstr ""
 
 #: app/Template/event/subtask_update.php:2
 #, php-format
 msgid "%s updated a subtask for the task %s"
-msgstr "%s je izmenio/la podzadatak za zadatka %s"
+msgstr ""
 
 #: app/Template/event/task_assignee_change.php:5
 #, php-format
 msgid "%s changed the assignee of the task %s to %s"
-msgstr "%s je promenio/la izvršioca zadatak %s na %s"
+msgstr ""
 
 #: app/Template/event/task_close.php:2
 #, php-format
 msgid "%s closed the task %s"
-msgstr "%s je zatvorio/la zadatak %s"
+msgstr ""
 
 #: app/Template/event/task_create.php:2
 #, php-format
 msgid "%s created the task %s"
-msgstr "%s je kreirao/la zadatak %s"
+msgstr ""
 
 #: app/Template/event/task_file_create.php:2
 #, php-format
 msgid "%s attached a new file to the task %s"
-msgstr "%s je dodao/la novu datoteku u zadatak %s"
+msgstr ""
 
 #: app/Template/event/task_file_destroy.php:2
 #, php-format
 msgid "%s removed a file from the task %s"
-msgstr "%s je uklonio/la datoteku iz zadatka %s"
+msgstr ""
 
 #: app/Template/event/task_internal_link_create_update.php:2
 #, php-format
 msgid "%s set a new internal link for the task %s"
-msgstr "%s je dodao/la novu unutrašnju vezu za zadatak %s"
+msgstr ""
 
 #: app/Template/event/task_internal_link_create_update.php:10
 #: app/Template/notification/task_internal_link_create_update.php:6
 #, php-format
 msgid "This task is now linked to the task %s with the relation \"%s\""
-msgstr "Zadatak je sada povezan sa zadatkom %s sa relacijom \"%s\""
+msgstr ""
 
 #: app/Template/event/task_internal_link_delete.php:2
 #, php-format
 msgid "%s removed an internal link for the task %s"
-msgstr "%s je uklonio/la unutrašnju vezu za zadatak %s"
+msgstr ""
 
 #: app/Template/event/task_internal_link_delete.php:10
 #: app/Template/notification/task_internal_link_delete.php:6
 #, php-format
 msgid "The link with the relation \"%s\" to the task %s has been removed"
-msgstr "Veza sa relacijom \"%s\" sa zadatkom %s je uklonjena"
+msgstr ""
 
 #: app/Template/event/task_move_column.php:2
 #, php-format
 msgid "%s moved the task %s to the column \"%s\""
-msgstr "%s je premestio/la zadatak %s u kolonu \"%s\""
+msgstr ""
 
 #: app/Template/event/task_move_position.php:2
 #, php-format
 msgid "%s moved the task %s to the position #%d in the column \"%s\""
-msgstr "%s je premestio/la zadatak %s na poziciju #%d u koloni \"%s\""
+msgstr ""
 
 #: app/Template/event/task_move_swimlane.php:3
 #, php-format
 msgid "%s moved the task %s to the first swimlane"
-msgstr "%s je premestio/la zadatak %s u prvu stazu"
+msgstr ""
 
 #: app/Template/event/task_move_swimlane.php:8
 #, php-format
 msgid "%s moved the task %s to the swimlane \"%s\""
-msgstr "%s je premestio/la zadatak %s u stazu \"%s\""
+msgstr ""
 
 #: app/Template/event/task_open.php:2
 #, php-format
 msgid "%s opened the task %s"
-msgstr "%s je otvorio/la zadatak %s"
+msgstr ""
 
 #: app/Template/event/task_update.php:2
 #, php-format
 msgid "%s updated the task %s"
-msgstr "%s je ažurirao/la zadatak %s"
+msgstr ""
 
 #: app/Template/export/header.php:11
 msgid "Task transitions"
@@ -4183,12 +4139,8 @@ msgid "This report contains all tasks information for the given date range."
 msgstr "Ovaj izveštaj sadrži sve informacije o zadacima u datom periodu"
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Ovaj izveštaj sadrži sva premeštanja unutar kolona za svaki zadatak sa "
-"datumom, korisnika i utrošeno vreme za svaki premeštaj."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Ovaj izveštaj sadrži sva premeštanja unutar kolona za svaki zadatak sa datumom, korisnika i utrošeno vreme za svaki premeštaj."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4579,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "Da biste promenili lozinku kliknite na ovaj link:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"Ova Kanboard nije konfigurisan tako da podržava instalaciju dodataka kroz "
-"korisničko okruženje."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Ova Kanboard nije konfigurisan tako da podržava instalaciju dodataka kroz korisničko okruženje."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4732,12 +4680,8 @@ msgstr "Identifikator"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"Identifikator projekta je opcion, mora biti alfanumerički, na primer: "
-"MOJPROJEKAT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Identifikator projekta je opcion, mora biti alfanumerički, na primer: MOJPROJEKAT."
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
@@ -5082,12 +5026,8 @@ msgstr "Ukloni prilagođenu ulogu"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"Da li zaista želite da uklonite ovu prilagođenu ulogu: \"%s\"? Sve osobe "
-"kojima je dodeljena ova uloga će postati članovi projekta."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Da li zaista želite da uklonite ovu prilagođenu ulogu: \"%s\"? Sve osobe kojima je dodeljena ova uloga će postati članovi projekta."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5127,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "Nema ograničenja za ovu ulogu."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"Samo premeštanja zadatka između tih kolona je dozvoljeno za zadatke "
-"dodeljene trenutnom korisniku"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Samo premeštanja zadatka između tih kolona je dozvoljeno za zadatke dodeljene trenutnom korisniku"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5270,12 +5206,8 @@ msgid "There is no integration registered at the moment."
 msgstr "Trenutno nije registrovana nijedna integracija."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"Nijedan dodatak nije registrovao metodu obaveštavanja o projektu. U "
-"korisničkom profilu i dalje možete da konfigurišete pojedinačna obaveštenja."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Nijedan dodatak nije registrovao metodu obaveštavanja o projektu. U korisničkom profilu i dalje možete da konfigurišete pojedinačna obaveštenja."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5288,8 +5220,7 @@ msgstr "Zabrani javni pristup"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
-"Ova funckionalnost omogućava iCal kanal, RSS kanal i prikaz javne table."
+msgstr "Ova funckionalnost omogućava iCal kanal, RSS kanal i prikaz javne table."
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5317,8 +5248,7 @@ msgstr "Uređeno:"
 
 #: app/Template/project_view/show.php:36
 msgid "Column task limits are applied to each swimlane individually"
-msgstr ""
-"Ograničenje broja zadataka u koloni se primenjuje na svaku stazu zasebno"
+msgstr "Ograničenje broja zadataka u koloni se primenjuje na svaku stazu zasebno"
 
 #: app/Template/project_view/show.php:38
 msgid "Column task limits are applied across swimlanes"
@@ -5500,25 +5430,16 @@ msgid "Time spent in each column"
 msgstr "Utrošeno vreme u svakoj koloni"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
-msgstr ""
-"Vreme realizacije je vreme koje je proteklo između otvaranja i zatvaranja "
-"zadatka."
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "Vreme realizacije je vreme koje je proteklo između otvaranja i zatvaranja zadatka."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
-msgstr ""
-"Vreme ciklusa je vreme koje je proteklo između početka i završetka rada na "
-"zadatku."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "Vreme ciklusa je vreme koje je proteklo između početka i završetka rada na zadatku."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Ako zadatak nije zatvoren trenutno vreme se koristi umesto datuma završetka."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Ako zadatak nije zatvoren trenutno vreme se koristi umesto datuma završetka."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5766,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr "Masovno uređivanje zadataka"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr "Izaberite svojstva koja biste želeli da promenite za izabrane zadatke."
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -5809,7 +5729,7 @@ msgstr "Trenutna kolona: %s"
 #: app/Template/task_duplication/copy.php:38
 #: app/Template/task_duplication/move.php:39
 msgid "no category"
-msgstr "bez kategorije"
+msgstr ""
 
 #: app/Template/task_duplication/copy.php:38
 #: app/Template/task_duplication/move.php:39
@@ -6102,12 +6022,8 @@ msgstr "Onemogućite dvofaktorsku autnetifikaciju"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
-"Da li zaista želite da onemogućite dvofaktorsku autentifikaciju za ovog "
-"korisnika: \"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Da li zaista želite da onemogućite dvofaktorsku autentifikaciju za ovog korisnika: \"%s\"?"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
@@ -6172,9 +6088,7 @@ msgstr "Udaljeni korisnik"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"Ako je označeno, ovaj korisnik će koristiti nezavisni sistem za "
-"autentifikaciju."
+msgstr "Ako je označeno, ovaj korisnik će koristiti nezavisni sistem za autentifikaciju."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6212,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Parametri za atentifikaciju"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"Udaljeni korisnik ne čuva lozinku u Kanboard bazi, npr: LDAP, Google i "
-"Github korisnički nalozi."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Udaljeni korisnik ne čuva lozinku u Kanboard bazi, npr: LDAP, Google i Github korisnički nalozi."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Ako ste štiklirali polje \"Zabrani prijavnu formu\" unos pristupnih podataka "
-"u prijavnoj formi će biti ignorisan."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Ako ste štiklirali polje \"Zabrani prijavnu formu\" unos pristupnih podataka u prijavnoj formi će biti ignorisan."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6814,113 +6720,3 @@ msgstr "Trenutna lozinka je obavezna"
 msgid "Wrong password"
 msgstr "Pogrešna lozinka"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr ","
-
-#~ msgid "number.thousands_separator"
-#~ msgstr "."
-
-#~ msgid "Yellow"
-#~ msgstr "Žuta"
-
-#~ msgid "Blue"
-#~ msgstr "Plava"
-
-#~ msgid "Green"
-#~ msgstr "Zelena"
-
-#~ msgid "Purple"
-#~ msgstr "Ljubičasta"
-
-#~ msgid "Red"
-#~ msgstr "Crvena"
-
-#~ msgid "Orange"
-#~ msgstr "Narandžasta"
-
-#~ msgid "Grey"
-#~ msgstr "Siva"
-
-#~ msgid "Brown"
-#~ msgstr "Braon"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Tamno naradžasta"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Tamno siva"
-
-#~ msgid "Pink"
-#~ msgstr "Roze"
-
-#~ msgid "Teal"
-#~ msgstr "Tirkizna"
-
-#~ msgid "Cyan"
-#~ msgstr "Cijan"
-
-#~ msgid "Lime"
-#~ msgstr "Limeta"
-
-#~ msgid "Light Green"
-#~ msgstr "Svetlo zelena"
-
-#~ msgid "Amber"
-#~ msgstr "Ćilibar"
-
-#~ msgid "Forbidden"
-#~ msgstr "Zabranjeno"
-
-#~ msgid "estimated"
-#~ msgstr "procenjeno"
-
-#~ msgid "Todo"
-#~ msgstr "Uraditi"
-
-#~ msgid "In progress"
-#~ msgstr "U radu"
-
-#~ msgid "relates to"
-#~ msgstr "relacija sa"
-
-#~ msgid "blocks"
-#~ msgstr "blokira"
-
-#~ msgid "is blocked by"
-#~ msgstr "je blokiran od"
-
-#~ msgid "duplicates"
-#~ msgstr "duplira"
-
-#~ msgid "is duplicated by"
-#~ msgstr "je dupliran od"
-
-#~ msgid "is a child of"
-#~ msgstr "je dete od"
-
-#~ msgid "is a parent of"
-#~ msgstr "je roditelj od"
-
-#~ msgid "targets milestone"
-#~ msgstr "cilj prekretnice"
-
-#~ msgid "is a milestone of"
-#~ msgstr "je od prekretnice"
-
-#~ msgid "fixes"
-#~ msgstr "popravlja"
-
-#~ msgid "is fixed by"
-#~ msgstr "je popravljen od"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "Projekti gde je \"%s\" menadžer"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "Projekti gde je \"%s\" član"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "Otvoreni zadaci dodeljeni \"%s\""
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "Zatvoreni zadaci dodijeljeni \"%s\""

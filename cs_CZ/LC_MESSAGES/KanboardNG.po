@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: cs_CZ\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: cs_CZ\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -56,14 +70,11 @@ msgstr "Přesunuto do sloupce %s "
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
-"Zastavení časovače všech dílčích úkolů při přesunutí úkolu do jiného sloupce"
+msgstr "Zastavení časovače všech dílčích úkolů při přesunutí úkolu do jiného sloupce"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
-"Při přesunu úlohy do jiného sloupce přidat dílčí úkol a aktivovat časovač"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Při přesunu úlohy do jiného sloupce přidat dílčí úkol a aktivovat časovač"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
@@ -158,8 +169,7 @@ msgstr "Pokud datum splatnosti vyprší, přiřadit automaticky barvu"
 
 #: app/Action/TaskAssignColorOnStartDate.php:24
 msgid "Assign automatically a color when preset start date is reached"
-msgstr ""
-"Při dosažení přednastaveného počátečního data automaticky přiřadit barvu"
+msgstr "Při dosažení přednastaveného počátečního data automaticky přiřadit barvu"
 
 #: app/Action/TaskAssignColorPriority.php:23
 msgid "Assign automatically a color based on a priority"
@@ -205,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "Přiřadit úkol osobě, která akci provádí"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "Úkol přiřadit osobě, která provede akci při změně sloupce"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -225,10 +234,8 @@ msgid "Duration in days"
 msgstr "Trvání ve dnech"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
-msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr "Automatické nastavení data splatnosti při přesunutí úkolu z určitého sloupce"
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
@@ -243,9 +250,7 @@ msgid "Change the assignee based on an external username"
 msgstr "Změnit přiřazení uživatele závislé na externím uživateli"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
 msgstr "Přiřadit úkol určitému uživateli při přesunu úkolu na určitou dráhu"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
@@ -266,9 +271,7 @@ msgstr "Ukončit úlohu, pokud ve specifickém sloupci neexistuje žádná aktiv
 
 #: app/Action/TaskCloseNotMovedColumn.php:23
 msgid "Close a task in a specific column when not moved during a given period"
-msgstr ""
-"Pokud není úkol během určitého období přesunut, zavřete úlohu ve specifickém "
-"sloupci"
+msgstr "Pokud není úkol během určitého období přesunut, zavřete úlohu ve specifickém sloupci"
 
 #: app/Action/TaskCreation.php:21
 msgid "Create a task from an external provider"
@@ -349,21 +352,15 @@ msgstr "Při zavření přesunout úkol do jiného sloupce"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Přesunout úkol do jiného sloupce, pokud není přesunut během daného období"
+msgstr "Přesunout úkol do jiného sloupce, pokud není přesunut během daného období"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
-"Pokud je datum vypršení platnosti menší než určitý počet dní, přesuňte úlohu "
-"do jiného sloupce"
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "Pokud je datum vypršení platnosti menší než určitý počet dní, přesuňte úlohu do jiného sloupce"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
-msgstr ""
-"Po dosažení předdefinovaného data zahájení přesunout úkol do jiného sloupce"
+msgstr "Po dosažení předdefinovaného data zahájení přesunout úkol do jiného sloupce"
 
 #: app/Action/TaskMoveColumnUnAssigned.php:23
 msgid "Move the task to another column when assignee is cleared"
@@ -391,12 +388,8 @@ msgid "Automatically update the start date"
 msgstr "Automaticky aktualizovat počáteční datum"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
-"Automaticky aktualizuje datum zahájení, když je úkol přesunut z určitého "
-"sloupce"
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "Automaticky aktualizuje datum zahájení, když je úkol přesunut z určitého sloupce"
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
@@ -478,7 +471,7 @@ msgstr "Burndown-Chart"
 #: app/Template/analytic/estimated_actual_column.php:3
 #: app/Template/analytic/sidebar.php:25
 msgid "Estimated vs actual time per column"
-msgstr ""
+msgstr "Odhadovaný vs. skutečný čas na sloupec"
 
 #: app/Controller/AppController.php:25 app/Controller/AppController.php:28
 #: app/Template/app/forbidden.php:3
@@ -495,13 +488,11 @@ msgstr "Přihlásit se"
 
 #: app/Controller/AvatarFileController.php:37
 msgid "You must select a file to upload as your avatar!"
-msgstr ""
+msgstr "Musíte vybrat soubor, který chcete nahrát jako avatara!"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "Soubor, který jste nahráli, není platný obrázek! (Povoleny jsou pouze soubory *.gif, *.jpg, *.jpeg a *.png!)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -512,16 +503,12 @@ msgid "Unable to upload files, check the permissions of your data folder."
 msgstr "Nelze nahrát soubory, zkontrolujte oprávnění ke složce dat."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "Nemáte povolení odstranit tento plugin."
+msgstr "Nemáte oprávnění přesunout tento úkol."
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr "Všechny úkoly ve sloupci \"%s\" a dráze \"%s\" byly úspěšně uzavřeny."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -1276,15 +1263,15 @@ msgstr "Kopii projektu nelze vytvořit."
 #: app/Template/project/sidebar.php:55
 #: app/Template/project_view/importTasks.php:2
 msgid "Import Tasks"
-msgstr ""
+msgstr "Úlohy importu"
 
 #: app/Controller/ProjectViewController.php:216
 msgid "Tasks copied successfully."
-msgstr ""
+msgstr "Úlohy byly úspěšně zkopírovány."
 
 #: app/Controller/ProjectViewController.php:218
 msgid "Unable to copy tasks."
-msgstr ""
+msgstr "Nelze kopírovat úlohy."
 
 #: app/Controller/SearchController.php:48 app/Template/search/activity.php:4
 msgid "Search tasks"
@@ -1848,17 +1835,17 @@ msgstr "%s odstranil přiřazení úkolu %s "
 #: app/EventBuilder/TaskEventBuilder.php:146
 #, php-format
 msgid "%s updated the task #%d"
-msgstr "%s aktualizoval úkol #%d "
+msgstr "%s aktualizoval úkol #%d"
 
 #: app/EventBuilder/TaskEventBuilder.php:148
 #, php-format
 msgid "%s created the task #%d"
-msgstr "%s vytvořil úkol #%d "
+msgstr "%s vytvořil úkol #%d"
 
 #: app/EventBuilder/TaskEventBuilder.php:150
 #, php-format
 msgid "%s closed the task #%d"
-msgstr "%s uzavřel úkol #%d "
+msgstr "%s uzavřel úkol #%d"
 
 #: app/EventBuilder/TaskEventBuilder.php:152
 #, php-format
@@ -2359,7 +2346,7 @@ msgstr "Priorita úkolu"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2584,7 +2571,7 @@ msgstr "HRK - Kuna"
 
 #: app/Model/CurrencyModel.php:43
 msgid "HUF - Hungarian Forint"
-msgstr ""
+msgstr "HUF - maďarský forint"
 
 #: app/Model/CurrencyModel.php:44
 msgid "INR - Indian Rupee"
@@ -2596,7 +2583,7 @@ msgstr "JPY - Japonský jen"
 
 #: app/Model/CurrencyModel.php:46
 msgid "MXN - Mexican Peso"
-msgstr ""
+msgstr "MXN - mexické peso"
 
 #: app/Model/CurrencyModel.php:47
 msgid "NOK - Norwegian Krone"
@@ -2946,11 +2933,8 @@ msgstr "Průměrná strávená doba"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Tento graf ukazuje průměrný čas strávený v každém sloupci pro poslední úkoly "
-"%d."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Tento graf ukazuje průměrný čas strávený v každém sloupci pro poslední úkoly %d."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -3017,12 +3001,8 @@ msgstr "Dodací lhůta"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Graf ukazuje průměrnou dodací lhůtu a dobu cyklu pro posledních %d úkolů v "
-"průběhu času"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Graf ukazuje průměrnou dodací lhůtu a dobu cyklu pro posledních %d úkolů v průběhu času"
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3170,16 +3150,12 @@ msgid "Close all tasks in this column and this swimlane"
 msgstr "Uzavřít všechny úkoly v tomto sloupci"
 
 #: app/Template/board/table_column.php:56
-#, fuzzy
-#| msgid "Reorder this column by priority (ASC)"
 msgid "Reorder this column by id (ASC)"
-msgstr "Změnit pořadí tohoto sloupce podle priority (vzestupně)"
+msgstr "Změna pořadí tohoto sloupce podle id (ASC)"
 
 #: app/Template/board/table_column.php:59
-#, fuzzy
-#| msgid "Reorder this column by priority (DESC)"
 msgid "Reorder this column by id (DESC)"
-msgstr "Změnit pořadí tohoto sloupce podle priority (sestupně)"
+msgstr "Změna pořadí tohoto sloupce podle id (DESC)"
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
@@ -3336,7 +3312,7 @@ msgstr "Dílčí úkoly"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
@@ -3436,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Pouze pro úkoly přiřazené aktuálnímu uživateli"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Osoby patřící do této role budou moci přesouvat úkoly pouze mezi zdrojovým a "
-"cílovým sloupcem."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Osoby patřící do této role budou moci přesouvat úkoly pouze mezi zdrojovým a cílovým sloupcem."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3624,9 +3596,7 @@ msgstr "URL aplikace"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
-"Příklad: https://example.kanboard.org/ (slouží k generování absolutních "
-"adres URL)"
+msgstr "Příklad: https://example.kanboard.org/ (slouží k generování absolutních adres URL)"
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3668,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Úkol zvýrazněného období"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Interval (v sekundách), ve kterém je považovány úpravy úkolů za aktuální (0 "
-"pro zakázání, 2 dny ve výchozím nastavení)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Interval (v sekundách), ve kterém je považovány úpravy úkolů za aktuální (0 pro zakázání, 2 dny ve výchozím nastavení)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3689,9 +3655,7 @@ msgstr "Interval automatického obnovování pro osobní nástěnky"
 
 #: app/Template/config/board.php:18
 msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
-msgstr ""
-"Frekvence v sekundách (0 pro zákaz této vlastnosti, 10 sekund ve výchozím "
-"nastavení)"
+msgstr "Frekvence v sekundách (0 pro zákaz této vlastnosti, 10 sekund ve výchozím nastavení)"
 
 #: app/Template/config/email.php:8
 msgid "Outgoing Emails"
@@ -3845,8 +3809,7 @@ msgid "Webhooks"
 msgstr "Webhooks"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
 msgstr "Můžete nahrát dříve staženou databázi Sqlite (formát Gzip)."
 
 #: app/Template/config/upload_db.php:12
@@ -4040,7 +4003,7 @@ msgstr "%s odstranil komentář k úkolu %s"
 #: app/Template/event/comment_update.php:2
 #, php-format
 msgid "%s updated a comment on the task %s"
-msgstr "%s aktualizoval komentář k úkolu %s "
+msgstr "%s aktualizoval komentář k úkolu %s"
 
 #: app/Template/event/events.php:2
 msgid "There is no activity yet."
@@ -4086,7 +4049,7 @@ msgstr "%s uzavřel úkol %s "
 #: app/Template/event/task_create.php:2
 #, php-format
 msgid "%s created the task %s"
-msgstr "%s vytvořil úkol %s "
+msgstr "%s vytvořil úkol %s"
 
 #: app/Template/event/task_file_create.php:2
 #, php-format
@@ -4148,7 +4111,7 @@ msgstr "%s znovu otevřel úkol %s "
 #: app/Template/event/task_update.php:2
 #, php-format
 msgid "%s updated the task %s"
-msgstr "%s aktualizoval úkol %s "
+msgstr "%s aktualizoval úkol %s"
 
 #: app/Template/export/header.php:11
 msgid "Task transitions"
@@ -4160,8 +4123,7 @@ msgstr "Denní přehledy"
 
 #: app/Template/export/subtasks.php:3
 msgid "This report contains all subtasks information for the given date range."
-msgstr ""
-"Report obsahuje všechny informace o dílčích úkolech pro daný časový úsek"
+msgstr "Report obsahuje všechny informace o dílčích úkolech pro daný časový úsek"
 
 #: app/Template/export/subtasks.php:12 app/Template/export/summary.php:12
 #: app/Template/export/tasks.php:12 app/Template/export/transitions.php:12
@@ -4170,21 +4132,15 @@ msgstr "Export"
 
 #: app/Template/export/summary.php:3
 msgid "This export contains the number of tasks per column grouped per day."
-msgstr ""
-"Tento export obsahuje počet úkolů pro jednotlivé sloupce seskupených podle "
-"dní."
+msgstr "Tento export obsahuje počet úkolů pro jednotlivé sloupce seskupených podle dní."
 
 #: app/Template/export/tasks.php:3
 msgid "This report contains all tasks information for the given date range."
 msgstr "Report obsahuje informace o všech úkolech pro daný časový úsek."
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Tento seznam obsahuje všechny pohyby úkolů s daty, uživateli a časy "
-"strávenými na úkolu."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Tento seznam obsahuje všechny pohyby úkolů s daty, uživateli a časy strávenými na úkolu."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4428,7 +4384,7 @@ msgstr "Přiřazeno:"
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4575,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "Chcete-li heslo obnovit, klikněte na tento odkaz:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"Instance Kanboard není nakonfigurována pro instalaci pluginů z uživatelského "
-"rozhraní."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Instance Kanboard není nakonfigurována pro instalaci pluginů z uživatelského rozhraní."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4728,12 +4680,8 @@ msgstr "Identifikátor"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"Identifikátor projektu je nepovinný a musí být alfanumerický, například: "
-"MYPROJECT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Identifikátor projektu je nepovinný a musí být alfanumerický, například: MYPROJECT."
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
@@ -5078,12 +5026,8 @@ msgstr "Odebrat vlastní roli"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"Opravdu chcete tuto vlastní roli odebrat: \"%s\"? Všichni členové této role "
-"se stanou členem projektu."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Opravdu chcete tuto vlastní roli odebrat: \"%s\"? Všichni členové této role se stanou členem projektu."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5123,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "Pro tuto roli neexistuje žádné omezení."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"Pro úkoly přiřazené aktuálnímu uživateli je povoleno pouze přesunutí úlohy "
-"mezi těmito sloupci"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Pro úkoly přiřazené aktuálnímu uživateli je povoleno pouze přesunutí úlohy mezi těmito sloupci"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5245,7 +5185,7 @@ msgstr "Projekt nemá žádného člena"
 
 #: app/Template/project_view/importTasks.php:4
 msgid "Please choose a project you want to copy the tasks from."
-msgstr ""
+msgstr "Vyberte projekt, ze kterého chcete úkoly zkopírovat."
 
 #: app/Template/project_view/importTasks.php:9
 #: app/Template/task_duplication/copy.php:21
@@ -5255,23 +5195,19 @@ msgstr "Vybrat projekt"
 
 #: app/Template/project_view/importTasks.php:15
 msgid "Copy"
-msgstr ""
+msgstr "Kopírovat"
 
 #: app/Template/project_view/importTasks.php:20
 msgid "No other projects found."
-msgstr ""
+msgstr "Žádné další projekty nebyly nalezeny."
 
 #: app/Template/project_view/integrations.php:11
 msgid "There is no integration registered at the moment."
 msgstr "V tuto chvíli není registrována žádná integrace."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"Žádný plugin není registrován na metodu oznamování projektu. Stále můžete "
-"konfigurovat jednotlivá oznámení v profilu uživatele."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Žádný plugin není registrován na metodu oznamování projektu. Stále můžete konfigurovat jednotlivá oznámení v profilu uživatele."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5494,21 +5430,16 @@ msgid "Time spent in each column"
 msgstr "Čas strávený v každé fázi"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
+msgid "The lead time is the duration between the task creation and the completion."
 msgstr "Lead time (dodací lhůta) je čas od založení úkolu do jeho dokončení."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
+msgid "The cycle time is the duration between the start date and the completion."
 msgstr "Doba cyklu je doba trvání mezi zahájením a dokončením úkolu."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Jestliže není úkol uzavřen, místo termínu dokončení je použit aktuální čas."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Jestliže není úkol uzavřen, místo termínu dokončení je použit aktuální čas."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5756,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr "Úlohy lze upravovat hromadně"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr "Vyberte vlastnosti, které chcete změnit pro vybrané úkoly."
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -6055,8 +5985,7 @@ msgstr "Tento úkol vygeneroval následující dílčí úkol: "
 #: app/Template/task_status/close.php:7
 #, php-format
 msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
-msgstr ""
-"Opravdu si přejete úkol \"%s\" uzavřít? (stejně jako všechny dílčí úkoly)"
+msgstr "Opravdu si přejete úkol \"%s\" uzavřít? (stejně jako všechny dílčí úkoly)"
 
 #: app/Template/task_status/open.php:7
 #, php-format
@@ -6093,11 +6022,8 @@ msgstr "Zrušit dvouúrovňovou autorizaci"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
-"Opravdu chcete vypnout dvouúrovňovou autentifikaci pro uživatele: \"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Opravdu chcete vypnout dvouúrovňovou autentifikaci pro uživatele: \"%s\"?"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
@@ -6162,9 +6088,7 @@ msgstr "Vzdálený uživatel"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"Pokud je tato volba zaškrtnuta, bude tento uživatel používat pro ověřování "
-"systém třetích stran."
+msgstr "Pokud je tato volba zaškrtnuta, bude tento uživatel používat pro ověřování systém třetích stran."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6202,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Parametry ověřování"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"Hesla vzdáleným uživatelům se neukládají do databáze Kanboard. Naříklad: "
-"LDAP, Google a Github účty."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Hesla vzdáleným uživatelům se neukládají do databáze Kanboard. Naříklad: LDAP, Google a Github účty."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Pokud zaškrtnete políčko \"Zakázat přihlašovací formulář\", budou pověření "
-"zadané do přihlašovacího formuláře ignorovány."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Pokud zaškrtnete políčko \"Zakázat přihlašovací formulář\", budou pověření zadané do přihlašovacího formuláře ignorovány."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6804,113 +6720,3 @@ msgstr "Heslo je vyžadováno"
 msgid "Wrong password"
 msgstr "Neplatné heslo"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr ","
-
-#~ msgid "number.thousands_separator"
-#~ msgstr "."
-
-#~ msgid "Yellow"
-#~ msgstr "Žlutá"
-
-#~ msgid "Blue"
-#~ msgstr "Modrá"
-
-#~ msgid "Green"
-#~ msgstr "Zelená"
-
-#~ msgid "Purple"
-#~ msgstr "Fialová"
-
-#~ msgid "Red"
-#~ msgstr "Červená"
-
-#~ msgid "Orange"
-#~ msgstr "Oranžová"
-
-#~ msgid "Grey"
-#~ msgstr "Šedá"
-
-#~ msgid "Brown"
-#~ msgstr "Hnědá"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Tmavě oranžová"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Tmavě šedá"
-
-#~ msgid "Pink"
-#~ msgstr "Růžová"
-
-#~ msgid "Teal"
-#~ msgstr "Modrozelená"
-
-#~ msgid "Cyan"
-#~ msgstr "Tyrkysová"
-
-#~ msgid "Lime"
-#~ msgstr "Limetková"
-
-#~ msgid "Light Green"
-#~ msgstr "Světle zelená"
-
-#~ msgid "Amber"
-#~ msgstr "Jantarová"
-
-#~ msgid "Forbidden"
-#~ msgstr "Zakázáno"
-
-#~ msgid "estimated"
-#~ msgstr "odhadnuto"
-
-#~ msgid "Todo"
-#~ msgstr "Seznam úkolů"
-
-#~ msgid "In progress"
-#~ msgstr "Zpracováváme"
-
-#~ msgid "relates to"
-#~ msgstr "souvisí s"
-
-#~ msgid "blocks"
-#~ msgstr "blokuje"
-
-#~ msgid "is blocked by"
-#~ msgstr "je blokován"
-
-#~ msgid "duplicates"
-#~ msgstr "duplikuje"
-
-#~ msgid "is duplicated by"
-#~ msgstr "je duplikován"
-
-#~ msgid "is a child of"
-#~ msgstr "je podřízený"
-
-#~ msgid "is a parent of"
-#~ msgstr "je nadřízený"
-
-#~ msgid "targets milestone"
-#~ msgstr "patří k milníku"
-
-#~ msgid "is a milestone of"
-#~ msgstr "je milníkem"
-
-#~ msgid "fixes"
-#~ msgstr "nahrazuje"
-
-#~ msgid "is fixed by"
-#~ msgstr "je nahrazen"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "Projekty, kde \"%s\" je manažer"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "Projekty, kde \"%s\" je člen"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "Otevřít úkoly přiřazené k \"%s\""
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "Uzavřené úkoly přiřazené k \"%s\""

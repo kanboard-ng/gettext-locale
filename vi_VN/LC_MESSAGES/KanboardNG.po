@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: vi_VN\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: vi\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: vi_VN\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -59,8 +73,7 @@ msgid "Stop the timer of all subtasks when moving a task to another column"
 msgstr ""
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
+msgid "Add a subtask and activate the timer when moving a task to another column"
 msgstr ""
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
@@ -202,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "Chỉ định nhiệm vụ cho người thực hiện hành động"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "Chỉ định nhiệm vụ cho người thực hiện hành động khi cột được thay đổi"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -222,15 +234,12 @@ msgid "Duration in days"
 msgstr "Thời lượng theo ngày"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
+msgid "Automatically set the due date when the task is moved away from a specific column"
 msgstr ""
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
-msgstr ""
-"Chỉ định một ưu tiên khi nhiệm vụ được chuyển đến một con swimlane cụ thể"
+msgstr "Chỉ định một ưu tiên khi nhiệm vụ được chuyển đến một con swimlane cụ thể"
 
 #: app/Action/TaskAssignSpecificUser.php:23
 msgid "Assign the task to a specific user"
@@ -241,9 +250,7 @@ msgid "Change the assignee based on an external username"
 msgstr "Thay đổi người được chuyển nhượng dựa trên tên người dùng bên ngoài"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
 msgstr ""
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
@@ -264,9 +271,7 @@ msgstr "Đóng một nhiệm vụ khi không có hoạt động trong một cộ
 
 #: app/Action/TaskCloseNotMovedColumn.php:23
 msgid "Close a task in a specific column when not moved during a given period"
-msgstr ""
-"Đóng một nhiệm vụ trong một cột cụ thể khi không di chuyển trong một khoảng "
-"thời gian nhất định"
+msgstr "Đóng một nhiệm vụ trong một cột cụ thể khi không di chuyển trong một khoảng thời gian nhất định"
 
 #: app/Action/TaskCreation.php:21
 msgid "Create a task from an external provider"
@@ -347,14 +352,10 @@ msgstr "Di chuyển nhiệm vụ sang cột khác khi đóng"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Di chuyển công việc sang cột khác khi không di chuyển trong một khoảng thời "
-"gian nhất định"
+msgstr "Di chuyển công việc sang cột khác khi không di chuyển trong một khoảng thời gian nhất định"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
+msgid "Move the task to another column when the due date is less than a certain number of days"
 msgstr ""
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
@@ -387,9 +388,7 @@ msgid "Automatically update the start date"
 msgstr "Tự động cập nhật ngày bắt đầu"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
+msgid "Automatically update the start date when the task is moved away from a specific column"
 msgstr ""
 
 #: app/Auth/TotpAuth.php:43
@@ -492,9 +491,7 @@ msgid "You must select a file to upload as your avatar!"
 msgstr ""
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
 msgstr ""
 
 #: app/Controller/AvatarFileController.php:42
@@ -506,18 +503,13 @@ msgid "Unable to upload files, check the permissions of your data folder."
 msgstr "Không thể tải tệp lên, hãy kiểm tra quyền của thư mục dữ liệu của bạn."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "Bạn không có quyền xóa plugin này."
+msgstr ""
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
-msgstr ""
-"Tất cả nhiệm vụ của cột \"%s\" và swimlane \"%s\" đã được đóng thành công."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "Tất cả nhiệm vụ của cột \"%s\" và swimlane \"%s\" đã được đóng thành công."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
 #: app/Template/project/sidebar.php:35
@@ -949,8 +941,7 @@ msgstr "Xác thực bên ngoài không thành công"
 
 #: app/Controller/OAuthController.php:75
 msgid "Your external account is linked to your profile successfully."
-msgstr ""
-"Tài khoản bên ngoài của bạn được liên kết với hồ sơ của bạn thành công."
+msgstr "Tài khoản bên ngoài của bạn được liên kết với hồ sơ của bạn thành công."
 
 #: app/Controller/OAuthController.php:92
 msgid "Your external account is not linked anymore to your profile."
@@ -2942,11 +2933,8 @@ msgstr "Thời gian trung bình dành"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Biểu đồ này cho thấy thời gian trung bình dành cho mỗi cột cho các tác vụ %d "
-"cuối cùng."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Biểu đồ này cho thấy thời gian trung bình dành cho mỗi cột cho các tác vụ %d cuối cùng."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -2977,9 +2965,7 @@ msgstr "Thực hiện"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
-"Biểu đồ này cho thấy sự phức tạp của công việc qua thời gian (Work "
-"Remaining)."
+msgstr "Biểu đồ này cho thấy sự phức tạp của công việc qua thời gian (Work Remaining)."
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
@@ -3015,12 +3001,8 @@ msgstr "Chì Thời gian"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Biểu đồ này cho thấy thời gian dẫn và thời gian trung bình cho các tác vụ %d "
-"cuối cùng qua thời gian."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Biểu đồ này cho thấy thời gian dẫn và thời gian trung bình cho các tác vụ %d cuối cùng qua thời gian."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3430,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Chỉ cho các nhiệm vụ được gán cho người dùng hiện tại"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Những người thuộc vai trò này sẽ chỉ có thể di chuyển nhiệm vụ giữa cột "
-"nguồn và cột đích."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Những người thuộc vai trò này sẽ chỉ có thể di chuyển nhiệm vụ giữa cột nguồn và cột đích."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3660,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Nhiệm vụ thời gian nổi bật"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Thời gian (thứ hai) để xem xét một tác vụ đã được sửa đổi gần đây (0 để vô "
-"hiệu hoá, 2 ngày theo mặc định)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Thời gian (thứ hai) để xem xét một tác vụ đã được sửa đổi gần đây (0 để vô hiệu hoá, 2 ngày theo mặc định)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3816,8 +3790,7 @@ msgstr "Vô hiệu hoá các dự án riêng tư"
 
 #: app/Template/config/project.php:22
 msgid "Allow only one subtask in progress at the same time for a user"
-msgstr ""
-"Cho phép chỉ có một phụ đề đang được tiến hành đồng thời cho một người dùng"
+msgstr "Cho phép chỉ có một phụ đề đang được tiến hành đồng thời cho một người dùng"
 
 #: app/Template/config/project.php:23
 msgid "Trigger automatically subtask time tracking"
@@ -3836,11 +3809,8 @@ msgid "Webhooks"
 msgstr "Webhooks"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"Bạn có thể tải lên cơ sở dữ liệu Sqlite đã tải xuống trước đây (định dạng "
-"Gzip)"
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Bạn có thể tải lên cơ sở dữ liệu Sqlite đã tải xuống trước đây (định dạng Gzip)"
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4166,16 +4136,11 @@ msgstr "Xuất này có chứa số nhiệm vụ cho mỗi cột được nhóm 
 
 #: app/Template/export/tasks.php:3
 msgid "This report contains all tasks information for the given date range."
-msgstr ""
-"Báo cáo này chứa tất cả các nhiệm vụ thông tin cho phạm vi ngày nhất định."
+msgstr "Báo cáo này chứa tất cả các nhiệm vụ thông tin cho phạm vi ngày nhất định."
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Báo cáo này chứa tất cả các cột di chuyển cho mỗi nhiệm vụ với ngày, người "
-"sử dụng và thời gian dành cho mỗi quá trình chuyển đổi."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Báo cáo này chứa tất cả các cột di chuyển cho mỗi nhiệm vụ với ngày, người sử dụng và thời gian dành cho mỗi quá trình chuyển đổi."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4566,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "Để đặt lại mật khẩu của bạn bấm vào liên kết này:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"Trường hợp Kanboard của bạn không được định cấu hình để cài đặt plugin từ "
-"giao diện người dùng."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Trường hợp Kanboard của bạn không được định cấu hình để cài đặt plugin từ giao diện người dùng."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4719,9 +4680,7 @@ msgstr "Bộ nhận dạng"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
 msgstr "Định danh dự án là tùy chọn và phải là chữ số, ví dụ: MYPROJECT."
 
 #: app/Template/project_creation/create.php:17
@@ -5067,12 +5026,8 @@ msgstr "Loại bỏ một vai trò tùy chỉnh"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"Bạn có thực sự muốn loại bỏ vai trò tùy chỉnh này: \"%s\"? Tất cả mọi người "
-"được giao nhiệm vụ này sẽ trở thành thành viên của dự án."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Bạn có thực sự muốn loại bỏ vai trò tùy chỉnh này: \"%s\"? Tất cả mọi người được giao nhiệm vụ này sẽ trở thành thành viên của dự án."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5112,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "Không có sự hạn chế đối với vai trò này."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"Chỉ di chuyển nhiệm vụ giữa các cột được phép cho các nhiệm vụ được giao cho "
-"người sử dụng hiện tại"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Chỉ di chuyển nhiệm vụ giữa các cột được phép cho các nhiệm vụ được giao cho người sử dụng hiện tại"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5255,12 +5206,8 @@ msgid "There is no integration registered at the moment."
 msgstr "Hiện tại không có hội nhập nào được đăng ký."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"Không có plugin đã đăng ký một phương pháp thông báo dự án. Bạn vẫn có thể "
-"định cấu hình các thông báo riêng trong hồ sơ người dùng của bạn. "
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Không có plugin đã đăng ký một phương pháp thông báo dự án. Bạn vẫn có thể định cấu hình các thông báo riêng trong hồ sơ người dùng của bạn. "
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5309,7 +5256,7 @@ msgstr ""
 
 #: app/Template/project_view/show.php:41
 msgid "Task limit: "
-msgstr ""
+msgstr "Nhiệm vụ giới hạn: "
 
 #: app/Template/search/activity.php:25 app/Template/search/index.php:25
 msgid "Advanced search"
@@ -5483,24 +5430,16 @@ msgid "Time spent in each column"
 msgstr "Thời gian dành cho từng cột"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
-msgstr ""
-"Thời gian dẫn là khoảng thời gian giữa nhiệm vụ sáng tạo và hoàn thành."
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "Thời gian dẫn là khoảng thời gian giữa nhiệm vụ sáng tạo và hoàn thành."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
-msgstr ""
-"Thời gian chu kỳ là khoảng thời gian giữa ngày bắt đầu và ngày hoàn thành."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "Thời gian chu kỳ là khoảng thời gian giữa ngày bắt đầu và ngày hoàn thành."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Nếu nhiệm vụ không đóng thì thời gian hiện tại được sử dụng thay vì ngày "
-"hoàn thành."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Nếu nhiệm vụ không đóng thì thời gian hiện tại được sử dụng thay vì ngày hoàn thành."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5748,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr ""
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr ""
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -6047,8 +5985,7 @@ msgstr "Nhiệm vụ này đã tạo ra nhiệm vụ con này:"
 #: app/Template/task_status/close.php:7
 #, php-format
 msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
-msgstr ""
-"Bạn có thực sự muốn đóng nhiệm vụ \"%s\" cũng như tất cả các nhiệm vụ phụ?"
+msgstr "Bạn có thực sự muốn đóng nhiệm vụ \"%s\" cũng như tất cả các nhiệm vụ phụ?"
 
 #: app/Template/task_status/open.php:7
 #, php-format
@@ -6085,11 +6022,8 @@ msgstr "Vô hiệu hoá hai lớp xác thực"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
-"Bạn có thực sự muốn vô hiệu hóa xác thực hai lớp cho người dùng này: \"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Bạn có thực sự muốn vô hiệu hóa xác thực hai lớp cho người dùng này: \"%s\"?"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
@@ -6154,8 +6088,7 @@ msgstr "Người dùng từ xa"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"Nếu được chọn, người dùng này sẽ sử dụng hệ thống của bên thứ ba để xác thực."
+msgstr "Nếu được chọn, người dùng này sẽ sử dụng hệ thống của bên thứ ba để xác thực."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6193,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Thông số xác thực"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"Người dùng từ xa không lưu mật khẩu của họ trong cơ sở dữ liệu Kanboard, ví "
-"dụ: LDAP, Google và Github."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Người dùng từ xa không lưu mật khẩu của họ trong cơ sở dữ liệu Kanboard, ví dụ: LDAP, Google và Github."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Nếu bạn đánh dấu ô \"Disallow form đăng nhập\", các thông tin đăng nhập vào "
-"mẫu đăng nhập sẽ bị bỏ qua."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Nếu bạn đánh dấu ô \"Disallow form đăng nhập\", các thông tin đăng nhập vào mẫu đăng nhập sẽ bị bỏ qua."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6795,113 +6720,3 @@ msgstr "Mật khẩu hiện tại là bắt buộc"
 msgid "Wrong password"
 msgstr "Sai mật khẩu"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr ","
-
-#~ msgid "number.thousands_separator"
-#~ msgstr " "
-
-#~ msgid "Yellow"
-#~ msgstr "Màu vàng"
-
-#~ msgid "Blue"
-#~ msgstr "Màu xanh da trời"
-
-#~ msgid "Green"
-#~ msgstr "Màu xanh lá"
-
-#~ msgid "Purple"
-#~ msgstr "Màu tím"
-
-#~ msgid "Red"
-#~ msgstr "Đỏ"
-
-#~ msgid "Orange"
-#~ msgstr "Trái cam"
-
-#~ msgid "Grey"
-#~ msgstr "Xám"
-
-#~ msgid "Brown"
-#~ msgstr "Nâu"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Deep Orange"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Màu xám đen"
-
-#~ msgid "Pink"
-#~ msgstr "Hồng"
-
-#~ msgid "Teal"
-#~ msgstr "Teal"
-
-#~ msgid "Cyan"
-#~ msgstr " Cyan"
-
-#~ msgid "Lime"
-#~ msgstr "Vôi"
-
-#~ msgid "Light Green"
-#~ msgstr "Màu xanh lợt"
-
-#~ msgid "Amber"
-#~ msgstr "Amber"
-
-#~ msgid "Forbidden"
-#~ msgstr "Forbidden"
-
-#~ msgid "estimated"
-#~ msgstr "ước tính"
-
-#~ msgid "Todo"
-#~ msgstr "Làm"
-
-#~ msgid "In progress"
-#~ msgstr "Trong tiến trình"
-
-#~ msgid "relates to"
-#~ msgstr "liên quan tới"
-
-#~ msgid "blocks"
-#~ msgstr "khối"
-
-#~ msgid "is blocked by"
-#~ msgstr "bị chặn bởi"
-
-#~ msgid "duplicates"
-#~ msgstr "bản sao"
-
-#~ msgid "is duplicated by"
-#~ msgstr "được nhân đôi bởi"
-
-#~ msgid "is a child of"
-#~ msgstr "là một đứa trẻ"
-
-#~ msgid "is a parent of"
-#~ msgstr "là cha mẹ của"
-
-#~ msgid "targets milestone"
-#~ msgstr "mục tiêu cột mốc"
-
-#~ msgid "is a milestone of"
-#~ msgstr "là một mốc quan trọng của"
-
-#~ msgid "fixes"
-#~ msgstr "sửa lỗi"
-
-#~ msgid "is fixed by"
-#~ msgstr "được sửa bởi"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "Dự án nơi \"%s\" là người quản lý"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "Dự án nơi \"%s\" là thành viên"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "Mở nhiệm vụ được giao cho \"%s\""
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "Đã đóng nhiệm vụ được giao cho \"%s\""

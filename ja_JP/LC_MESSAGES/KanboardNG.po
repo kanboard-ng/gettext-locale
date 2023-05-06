@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: ja_JP\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: ja_JP\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -56,14 +70,11 @@ msgstr "カラム %s へ移動しました"
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
-"タスクを別のカラムに移動したときに、全てのサブタスクのタイマーを停止する"
+msgstr "タスクを別のカラムに移動したときに、全てのサブタスクのタイマーを停止する"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
-"サブタスクを追加し、タスクを別のカラムに移動したときにタイマーを有効化する"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "サブタスクを追加し、タスクを別のカラムに移動したときにタイマーを有効化する"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
@@ -204,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "アクションを起こしたユーザーを担当者にする"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "カラムが変更されたときにアクションを実行する人にタスクを割当てる"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -224,10 +234,8 @@ msgid "Duration in days"
 msgstr "期間（日）"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
-msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr "タスクが特定の列から離れた場合、自動的に期日を設定することができる"
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
@@ -242,11 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "担当者を外部サービスに基いて変更"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
-"特定のスイムレーンにタスクを移動した時に、特定のユーザーにタスクを割当てる"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "特定のスイムレーンにタスクを移動した時に、特定のユーザーにタスクを割当てる"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -350,9 +355,7 @@ msgid "Move the task to another column when not moved during a given period"
 msgstr "指定された期間中に移動しなかった場合、タスクを別のカラムに移動"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
+msgid "Move the task to another column when the due date is less than a certain number of days"
 msgstr "期限までの日数が規定値以下になったら、タスクを別のカラムに移動する"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
@@ -385,9 +388,7 @@ msgid "Automatically update the start date"
 msgstr "開始日を自動的に更新"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
+msgid "Automatically update the start date when the task is moved away from a specific column"
 msgstr "タスクが特定のカラムから移動された時、自動的に開始日を更新する"
 
 #: app/Auth/TotpAuth.php:43
@@ -470,7 +471,7 @@ msgstr "バーンダウンチャート"
 #: app/Template/analytic/estimated_actual_column.php:3
 #: app/Template/analytic/sidebar.php:25
 msgid "Estimated vs actual time per column"
-msgstr ""
+msgstr "カラムあたりの見積もり時間と実際の時間"
 
 #: app/Controller/AppController.php:25 app/Controller/AppController.php:28
 #: app/Template/app/forbidden.php:3
@@ -487,13 +488,11 @@ msgstr "ログイン"
 
 #: app/Controller/AvatarFileController.php:37
 msgid "You must select a file to upload as your avatar!"
-msgstr ""
+msgstr "アバターとしてアップロードするファイルを選択する必要があります！"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "アップロードされたファイルは有効な画像ではありません！(*.gif、*.jpg、*.jpeg、*.pngのみ使用可能です！)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -501,23 +500,16 @@ msgstr ""
 #: app/Controller/TaskFileController.php:60
 #: app/Controller/TaskFileController.php:66
 msgid "Unable to upload files, check the permissions of your data folder."
-msgstr ""
-"ファイルをアップロードできません。データフォルダのアクセス権を確認してくださ"
-"い。"
+msgstr "ファイルをアップロードできません。データフォルダのアクセス権を確認してください。"
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "このプラグインを削除する権限がありません"
+msgstr "このタスクを動かす権限がない"
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
-msgstr ""
-"カラム「%s」 かつ、スイムレーン「%s」の全てのタスクは正常に終了しました"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "カラム「%s」 かつ、スイムレーン「%s」の全てのタスクは正常に終了しました"
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
 #: app/Template/project/sidebar.php:35
@@ -1271,15 +1263,15 @@ msgstr "プロジェクトの複製に失敗しました"
 #: app/Template/project/sidebar.php:55
 #: app/Template/project_view/importTasks.php:2
 msgid "Import Tasks"
-msgstr ""
+msgstr "インポートタスク"
 
 #: app/Controller/ProjectViewController.php:216
 msgid "Tasks copied successfully."
-msgstr ""
+msgstr "タスクは正常にコピーされました。"
 
 #: app/Controller/ProjectViewController.php:218
 msgid "Unable to copy tasks."
-msgstr ""
+msgstr "タスクをコピーすることができない。"
 
 #: app/Controller/SearchController.php:48 app/Template/search/activity.php:4
 msgid "Search tasks"
@@ -1740,8 +1732,7 @@ msgid "%s commented on the task #%d"
 msgstr "%s がタスク #%d にコメントしました"
 
 #: app/EventBuilder/CommentEventBuilder.php:67
-#, fuzzy, php-format
-#| msgid "%s removed a comment on the task #%d"
+#, php-format
 msgid "%s removed a comment on the task #%d"
 msgstr "タスク＃%dからコメント%s件を削除しました"
 
@@ -1782,8 +1773,7 @@ msgid "%s created a subtask for the task #%d"
 msgstr "%s がタスク #%d のサブタスクを追加しました"
 
 #: app/EventBuilder/SubtaskEventBuilder.php:98
-#, fuzzy, php-format
-#| msgid "%s removed a subtask for the task #%d"
+#, php-format
 msgid "%s removed a subtask for the task #%d"
 msgstr "タスク＃%dからサブタスク%s件を削除しました"
 
@@ -2356,7 +2346,7 @@ msgstr "タスクの優先度"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2581,7 +2571,7 @@ msgstr "クロアチア クーナ"
 
 #: app/Model/CurrencyModel.php:43
 msgid "HUF - Hungarian Forint"
-msgstr ""
+msgstr "HUF - ハンガリーフォリント"
 
 #: app/Model/CurrencyModel.php:44
 msgid "INR - Indian Rupee"
@@ -2625,7 +2615,7 @@ msgstr "USD - 米ドル"
 
 #: app/Model/CurrencyModel.php:54
 msgid "VES - Venezuelan Bolívar"
-msgstr ""
+msgstr "VES - ベネズエラ・ボリーバル"
 
 #: app/Model/CurrencyModel.php:55
 msgid "XBT - Bitcoin"
@@ -2943,11 +2933,8 @@ msgstr "平均経過時間"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"このグラフは最後の%d個のタスクに対して各カラムで経過した平均時間を示していま"
-"す"
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "このグラフは最後の%d個のタスクに対して各カラムで経過した平均時間を示しています"
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -2978,8 +2965,7 @@ msgstr "実行"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
-"グラフは、時間の経過とともにタスクの複雑さを示しています（残っている作業）"
+msgstr "グラフは、時間の経過とともにタスクの複雑さを示しています（残っている作業）"
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
@@ -3015,12 +3001,8 @@ msgstr "リードタイム"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"このグラフは時間の経過に伴う最後の%d個のタスクの平均リードタイムとサイクルタ"
-"イムを示します"
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "このグラフは時間の経過に伴う最後の%d個のタスクの平均リードタイムとサイクルタイムを示します"
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3168,16 +3150,12 @@ msgid "Close all tasks in this column and this swimlane"
 msgstr "このカラムのすべてのタスクを終了"
 
 #: app/Template/board/table_column.php:56
-#, fuzzy
-#| msgid "Reorder this column by priority (ASC)"
 msgid "Reorder this column by id (ASC)"
-msgstr "優先度で並び替える(昇順)"
+msgstr "このカラムをid（ASC）で並べ替える。"
 
 #: app/Template/board/table_column.php:59
-#, fuzzy
-#| msgid "Reorder this column by priority (DESC)"
 msgid "Reorder this column by id (DESC)"
-msgstr "優先度で並び替える(降順)"
+msgstr "このカラムをid(DESC)で並べ替える。"
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
@@ -3334,7 +3312,7 @@ msgstr "サブタスク"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
@@ -3434,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "現在のユーザーに割当てられたタスクのみ"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"この役割に属するユーザーは、起点カラムと宛先カラムの間でのみタスクを移動でき"
-"ます"
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "この役割に属するユーザーは、起点カラムと宛先カラムの間でのみタスクを移動できます"
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3664,9 +3638,7 @@ msgid "Task highlight period"
 msgstr "タスクのハイライト期間"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
 msgstr "タスクが最近更新されたとみなす期間(0 はハイライト無効、既定 2 日)"
 
 #: app/Template/config/board.php:12
@@ -3837,10 +3809,8 @@ msgid "Webhooks"
 msgstr "Webhook"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"以前にダウンロードしたSqliteデータベース（Gzip形式）をアップロードできます"
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "以前にダウンロードしたSqliteデータベース（Gzip形式）をアップロードできます"
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4111,8 +4081,7 @@ msgstr "%sはタスク「%s」の内部リンクを削除しました"
 #: app/Template/notification/task_internal_link_delete.php:6
 #, php-format
 msgid "The link with the relation \"%s\" to the task %s has been removed"
-msgstr ""
-"このタスクと \"%s\" として関連付けていた、タスク %s とのリンクを削除しました"
+msgstr "このタスクと \"%s\" として関連付けていた、タスク %s とのリンクを削除しました"
 
 #: app/Template/event/task_move_column.php:2
 #, php-format
@@ -4170,12 +4139,8 @@ msgid "This report contains all tasks information for the given date range."
 msgstr "このレポートには、指定した期間のすべてのタスク情報が含まれます"
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"このレポートはタスクのカラム間における移動を時間、ユーザー、経過時間と共に記"
-"録した物です"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "このレポートはタスクのカラム間における移動を時間、ユーザー、経過時間と共に記録した物です"
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4419,7 +4384,7 @@ msgstr "担当："
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4566,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "このリンクをクリックするとパスワードをリセットします："
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"あなたのKanboardインスタンスは、ユーザーインターフェースからプラグインをイン"
-"ストールするように設定されていません"
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "あなたのKanboardインスタンスは、ユーザーインターフェースからプラグインをインストールするように設定されていません"
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4719,12 +4680,8 @@ msgstr "識別子"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"プロジェクト識別子はオプションです。設定する場合は英数字にしてください。　"
-"例：MYPROJECT"
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "プロジェクト識別子はオプションです。設定する場合は英数字にしてください。　例：MYPROJECT"
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
@@ -5069,12 +5026,8 @@ msgstr "プロジェクトでの独自の役割を削除"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"役割「%s」を削除しますか？この役割に割当てられたすべてのユーザーがプロジェク"
-"トメンバーになります"
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "役割「%s」を削除しますか？この役割に割当てられたすべてのユーザーがプロジェクトメンバーになります"
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5114,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "この役割には制限はありません"
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"現在のユーザーに割当てられたタスクは、これらのカラム間の移動のみが許可されま"
-"す"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "現在のユーザーに割当てられたタスクは、これらのカラム間の移動のみが許可されます"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5236,7 +5185,7 @@ msgstr "プロジェクトメンバーがいません"
 
 #: app/Template/project_view/importTasks.php:4
 msgid "Please choose a project you want to copy the tasks from."
-msgstr ""
+msgstr "タスクをコピーしたいプロジェクトを選択してください。"
 
 #: app/Template/project_view/importTasks.php:9
 #: app/Template/task_duplication/copy.php:21
@@ -5246,23 +5195,19 @@ msgstr "プロジェクトを選択"
 
 #: app/Template/project_view/importTasks.php:15
 msgid "Copy"
-msgstr ""
+msgstr "コピー"
 
 #: app/Template/project_view/importTasks.php:20
 msgid "No other projects found."
-msgstr ""
+msgstr "他のプロジェクトは見つかりませんでした。"
 
 #: app/Template/project_view/integrations.php:11
 msgid "There is no integration registered at the moment."
 msgstr "現在登録されている統合はありません"
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"プラグインはプロジェクト通知メソッドを登録していません。ユーザープロフィール"
-"で個別に通知を設定することができます"
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "プラグインはプロジェクト通知メソッドを登録していません。ユーザープロフィールで個別に通知を設定することができます"
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5275,8 +5220,7 @@ msgstr "公開アクセスを無効にする"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
-"この機能は、iCal フィードとRSSフィード、そしてボードビューを公開します。"
+msgstr "この機能は、iCal フィードとRSSフィード、そしてボードビューを公開します。"
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5486,19 +5430,15 @@ msgid "Time spent in each column"
 msgstr "各カラムの経過時間"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
+msgid "The lead time is the duration between the task creation and the completion."
 msgstr "リードタイムはタスクの作成〜完了まで時間です"
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
+msgid "The cycle time is the duration between the start date and the completion."
 msgstr "サイクルタイムは着手〜完了までの期間です"
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
+msgid "If the task is not closed the current time is used instead of the completion date."
 msgstr "タスクが終了していない場合は完了日の代わりに現在時刻を使用します"
 
 #: app/Template/task/changes.php:8
@@ -5747,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr "タスクを一括編集"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr "選択したタスクの、変更したいプロパティを選択してください。"
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -5839,8 +5778,7 @@ msgstr "外部リンク"
 
 #: app/Template/task_file/screenshot.php:6
 msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
-msgstr ""
-"スクリーンショットを撮りCTRL + Vまたは⌘+ Vを押してここに貼り付けてください"
+msgstr "スクリーンショットを撮りCTRL + Vまたは⌘+ Vを押してここに貼り付けてください"
 
 #: app/Template/task_file/screenshot.php:15
 msgid "This feature does not work with all browsers."
@@ -6084,9 +6022,7 @@ msgstr "二要素認証を無効にする"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
 msgstr "本当にユーザー「%s」の二要素認証を無効にしますか？"
 
 #: app/Template/twofactor/index.php:7
@@ -6190,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "認証パラメータ"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"リモートユーザーはパスワードをKanboardデータベースに保存しません（例：LDAP、"
-"Google、Githubのアカウント）"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "リモートユーザーはパスワードをKanboardデータベースに保存しません（例：LDAP、Google、Githubのアカウント）"
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"「ログインフォームを許可しない」チェックボックスをオンにすると、ログイン"
-"フォームに入力された認証情報は無視されます"
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "「ログインフォームを許可しない」チェックボックスをオンにすると、ログインフォームに入力された認証情報は無視されます"
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6715,8 +6643,7 @@ msgstr "識別子はユニークでなければなりません"
 
 #: app/Validator/ProjectValidator.php:38
 msgid "The project email must be unique across all projects"
-msgstr ""
-"プロジェクトのEメールはすべてのプロジェクトでユニークである必要があります"
+msgstr "プロジェクトのEメールはすべてのプロジェクトでユニークである必要があります"
 
 #: app/Validator/ProjectValidator.php:56
 msgid "The project name is required"
@@ -6793,113 +6720,3 @@ msgstr "現在のパスワードを入力してください"
 msgid "Wrong password"
 msgstr "パスワードが違います"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr "."
-
-#~ msgid "number.thousands_separator"
-#~ msgstr ","
-
-#~ msgid "Yellow"
-#~ msgstr "イエロー"
-
-#~ msgid "Blue"
-#~ msgstr "ブルー"
-
-#~ msgid "Green"
-#~ msgstr "グリーン"
-
-#~ msgid "Purple"
-#~ msgstr "パープル"
-
-#~ msgid "Red"
-#~ msgstr "レッド"
-
-#~ msgid "Orange"
-#~ msgstr "オレンジ"
-
-#~ msgid "Grey"
-#~ msgstr "グレー"
-
-#~ msgid "Brown"
-#~ msgstr "ブラウン"
-
-#~ msgid "Deep Orange"
-#~ msgstr "ディープオレンジ"
-
-#~ msgid "Dark Grey"
-#~ msgstr "ダークグレー"
-
-#~ msgid "Pink"
-#~ msgstr "ピンク"
-
-#~ msgid "Teal"
-#~ msgstr "ティール"
-
-#~ msgid "Cyan"
-#~ msgstr "シアン"
-
-#~ msgid "Lime"
-#~ msgstr "ライム"
-
-#~ msgid "Light Green"
-#~ msgstr "ライトグリーン"
-
-#~ msgid "Amber"
-#~ msgstr "アンバー"
-
-#~ msgid "Forbidden"
-#~ msgstr "アクセス拒否"
-
-#~ msgid "estimated"
-#~ msgstr "見積"
-
-#~ msgid "Todo"
-#~ msgstr "作業予定"
-
-#~ msgid "In progress"
-#~ msgstr "作業中"
-
-#~ msgid "relates to"
-#~ msgstr "次に関連します"
-
-#~ msgid "blocks"
-#~ msgstr "次をブロックしています"
-
-#~ msgid "is blocked by"
-#~ msgstr "次にブロックされています"
-
-#~ msgid "duplicates"
-#~ msgstr "次に重複しています"
-
-#~ msgid "is duplicated by"
-#~ msgstr "次に重複しています"
-
-#~ msgid "is a child of"
-#~ msgstr "次の子タスクです　"
-
-#~ msgid "is a parent of"
-#~ msgstr "次の親タスクです"
-
-#~ msgid "targets milestone"
-#~ msgstr "次のマイルストーンを目標とします"
-
-#~ msgid "is a milestone of"
-#~ msgstr "次のタスクのマイルストーンです"
-
-#~ msgid "fixes"
-#~ msgstr "次を修正します"
-
-#~ msgid "is fixed by"
-#~ msgstr "次に修正されます"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "「%s」が管理者のプロジェクト"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "「%s」がメンバーのプロジェクト"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "「%s」が担当のタスクを開く"
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "「%s」が担当した終了したタスク"

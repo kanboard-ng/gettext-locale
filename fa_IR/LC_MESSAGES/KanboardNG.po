@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: fa_IR\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: fa_IR\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -56,15 +70,11 @@ msgstr "منتقل شده به ستون %s"
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
-"زمان سنج همه کارهای فرعی را وقتی که کار به ستون دیگری منتقل می شود متوقف کن"
+msgstr "زمان سنج همه کارهای فرعی را وقتی که کار به ستون دیگری منتقل می شود متوقف کن"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
-"وقتی کار به ستون دیگری منتقل می شود، یک کار فرعی به آن افزوده و زمان سنج "
-"فعال شود"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "وقتی کار به ستون دیگری منتقل می شود، یک کار فرعی به آن افزوده و زمان سنج فعال شود"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
@@ -127,8 +137,7 @@ msgstr "نوع پیوند"
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:23
 msgid "Assign a category when the task is moved to a specific swimlane"
-msgstr ""
-"هنگامی که کار به یک مسیر شنای مشخص منتقل شد، یک دسته بندی به آن اختصاص یابد"
+msgstr "هنگامی که کار به یک مسیر شنای مشخص منتقل شد، یک دسته بندی به آن اختصاص یابد"
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:49
 #: app/Action/TaskAssignColorSwimlane.php:49
@@ -160,9 +169,7 @@ msgstr "وقتی تاریخ سررسید منقضی شد، بصورت خودکا
 
 #: app/Action/TaskAssignColorOnStartDate.php:24
 msgid "Assign automatically a color when preset start date is reached"
-msgstr ""
-"هنگامی که تاریخ شروع از قبل تنظیم شده فرا برسد، بصورت خودکار یک رنگ به آن "
-"اختصاص بده"
+msgstr "هنگامی که تاریخ شروع از قبل تنظیم شده فرا برسد، بصورت خودکار یک رنگ به آن اختصاص بده"
 
 #: app/Action/TaskAssignColorPriority.php:23
 msgid "Assign automatically a color based on a priority"
@@ -208,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "تخصیص کار به شخصی که عمل را انجام می دهد،"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "کار را به شخصی که عمل را وقتی ستون تغییر کرد انجام می دهد محول کن"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -228,9 +234,7 @@ msgid "Duration in days"
 msgstr "مدت به روز"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
+msgid "Automatically set the due date when the task is moved away from a specific column"
 msgstr ""
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
@@ -246,11 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "تغییر شخص محول شده بر اساس یک نام کاربری خارجی"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
-"وقتی که کار به یک مسیر شنای خاص منتقل شد، آن را به یک کاربر خاص اختصاص بده"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "وقتی که کار به یک مسیر شنای خاص منتقل شد، آن را به یک کاربر خاص اختصاص بده"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -351,22 +352,15 @@ msgstr "کار را وقتی بسته شد به ستونی دیگر منتقل �
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"کار را وقتی در طی یک دوره داده شده منتقل نشده باشد، به ستونی دیگر منتقل کن"
+msgstr "کار را وقتی در طی یک دوره داده شده منتقل نشده باشد، به ستونی دیگر منتقل کن"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
-"هنگامی که تاریخ سررسید کمتر از تعداد روز مشخصی شد، کار را به ستونی دیگر "
-"منتقل کن"
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "هنگامی که تاریخ سررسید کمتر از تعداد روز مشخصی شد، کار را به ستونی دیگر منتقل کن"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
-msgstr ""
-"هنگامی که تاریخ شروع از پیش تعریف شده ای فرا رسید، کار را به ستون دیگری "
-"منتقل کن"
+msgstr "هنگامی که تاریخ شروع از پیش تعریف شده ای فرا رسید، کار را به ستون دیگری منتقل کن"
 
 #: app/Action/TaskMoveColumnUnAssigned.php:23
 msgid "Move the task to another column when assignee is cleared"
@@ -374,8 +368,7 @@ msgstr "وقتی شخص محول شده حذف شد، کار را به ستون�
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:23
 msgid "Move the task to another swimlane when assigned to a user"
-msgstr ""
-"هنگامی که کاری به یک کاربر محول شد، آن کار را به مسیر شنای دیگر منتقل کن"
+msgstr "هنگامی که کاری به یک کاربر محول شد، آن کار را به مسیر شنای دیگر منتقل کن"
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:52
 #: app/Action/TaskMoveSwimlaneCategoryChange.php:48
@@ -395,12 +388,8 @@ msgid "Automatically update the start date"
 msgstr "بصورت خودکار تاریخ شروع بروز رسانی شود"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
-"هنگامی که کار از ستونی مشخص منتقل شد، تاریخ شروع کار را بصورت خودکار بروز "
-"رسانی کن"
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "هنگامی که کار از ستونی مشخص منتقل شد، تاریخ شروع کار را بصورت خودکار بروز رسانی کن"
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
@@ -502,12 +491,8 @@ msgid "You must select a file to upload as your avatar!"
 msgstr "برای بارگذاری تصویر نمایه تان باید فایلی انتخاب کنید!"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
-"فایلی که بارگذاری کردید یک تصویر معتبر نیست! (فقط *.gif, *.jpg, *.jpeg و *."
-"png مجاز هستند!)"
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "فایلی که بارگذاری کردید یک تصویر معتبر نیست! (فقط *.gif, *.jpg, *.jpeg و *.png مجاز هستند!)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -518,16 +503,12 @@ msgid "Unable to upload files, check the permissions of your data folder."
 msgstr "بارگذاری فایل امکان پذیر نیست، مجوزهای پوشه data را بررسی کنید."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "شما اجازه حذف این پلاگین را ندارید."
+msgstr ""
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr "تمامی کارهای ستون \"%s\" و مسیر شنای \"%s\" با موفقیت بسته شدند."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -2952,10 +2933,8 @@ msgstr "میانگین زمان صرف شده"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"این نمودار زمان صرف شده میانگین در هر ستون برای %d کار آخر را نشان می دهد."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "این نمودار زمان صرف شده میانگین در هر ستون برای %d کار آخر را نشان می دهد."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -3022,12 +3001,8 @@ msgstr "Lead Time&#x202B;"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"این نمودار میانگین زمان Lead و Cycle را برای %d کار آخر طی زمان را نشان می "
-"دهد."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "این نمودار میانگین زمان Lead و Cycle را برای %d کار آخر طی زمان را نشان می دهد."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3175,16 +3150,12 @@ msgid "Close all tasks in this column and this swimlane"
 msgstr "تمامی کارهای این ستون بسته شود"
 
 #: app/Template/board/table_column.php:56
-#, fuzzy
-#| msgid "Reorder this column by priority (ASC)"
 msgid "Reorder this column by id (ASC)"
-msgstr "مرتب سازی این ستون بر اساس اولویت (صعودی)"
+msgstr ""
 
 #: app/Template/board/table_column.php:59
-#, fuzzy
-#| msgid "Reorder this column by priority (DESC)"
 msgid "Reorder this column by id (DESC)"
-msgstr "مرتب سازی این ستون بر اساس اولویت (نزولی)"
+msgstr ""
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
@@ -3441,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "فقط برای کارهایی که به کاربر جاری محول شده"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"اشخاص متعلق به این نقش قادر خواهند بود کارها را فقط بین ستون مبدا و مقصد "
-"منتقل کنند."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "اشخاص متعلق به این نقش قادر خواهند بود کارها را فقط بین ستون مبدا و مقصد منتقل کنند."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3629,8 +3596,7 @@ msgstr "آدرس اپلیکیشن"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
-"مثال: https://example.kanboard.org/ (برای تولید نشانی های کامل استفاده شده)"
+msgstr "مثال: https://example.kanboard.org/ (برای تولید نشانی های کامل استفاده شده)"
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3672,13 +3638,8 @@ msgid "Task highlight period"
 msgstr "دوره اوج کار"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"دوره زمانی که در آن یک کار بعنوان تغییر یافته به تازگی قلمداد می شود - دوره "
-"را به ثانیه وارد کنید، برای غیر فعال کردن 0 وارد کنید، بصورت پیشفرض دو روز "
-"است."
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "دوره زمانی که در آن یک کار بعنوان تغییر یافته به تازگی قلمداد می شود - دوره را به ثانیه وارد کنید، برای غیر فعال کردن 0 وارد کنید، بصورت پیشفرض دو روز است."
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3848,11 +3809,8 @@ msgid "Webhooks"
 msgstr "Webhook ها"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"می توانید پایگاه داده Sqlite که قبلا بارگیری کردید را بارگذاری کنید (با فرمت "
-"Gzip)"
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "می توانید پایگاه داده Sqlite که قبلا بارگیری کردید را بارگذاری کنید (با فرمت Gzip)"
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4181,12 +4139,8 @@ msgid "This report contains all tasks information for the given date range."
 msgstr "این گزارش حاوی همه اطلاعات کارها برای بازه زمانی داده شده است."
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"این گزارش حاوی همه انتقال های ستون برای هر کار با تاریخ، کاربر و زمان صرف "
-"شده برای هر گذار است."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "این گزارش حاوی همه انتقال های ستون برای هر کار با تاریخ، کاربر و زمان صرف شده برای هر گذار است."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4577,11 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "برای بازنشانی گذرواژه خود روی پیوند زیر کلیک کنید:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"کان بُرد شما طوری تنظیم نشده که بتوان پلاگین ها را از رابط کاربری نصب کرد."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "کان بُرد شما طوری تنظیم نشده که بتوان پلاگین ها را از رابط کاربری نصب کرد."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4729,12 +4680,8 @@ msgstr "شناسه"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"شناسه پروژه اختیاری است و باید حتما از حروف انگلیسی یا عدد تشکیل شود. مثال "
-"MYPROJECT"
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "شناسه پروژه اختیاری است و باید حتما از حروف انگلیسی یا عدد تشکیل شود. مثال MYPROJECT"
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
@@ -4760,8 +4707,7 @@ msgstr "عمومی"
 
 #: app/Template/project_edit/show.php:21
 msgid "The project email is optional and could be used by several plugins."
-msgstr ""
-"ایمیل پروژه اختیاری است و می تواند توسط چندین پلاگین مورد استفاده قرار گیرد."
+msgstr "ایمیل پروژه اختیاری است و می تواند توسط چندین پلاگین مورد استفاده قرار گیرد."
 
 #: app/Template/project_edit/show.php:30
 msgid "Task limits apply to each swimlane individually"
@@ -5080,12 +5026,8 @@ msgstr "حذف یک نقش سفارشی"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"واقعاً می خواهید این نقش سفارشی را حذف کنید؟ : \"%s\" تمامی اشخاصی که به این "
-"نقش اختصاص یافته اند تبدیل به عضو پروژه می شوند."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "واقعاً می خواهید این نقش سفارشی را حذف کنید؟ : \"%s\" تمامی اشخاصی که به این نقش اختصاص یافته اند تبدیل به عضو پروژه می شوند."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5125,11 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "محدودیتی برای این نقش وجود ندارد."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"تنها انتقال کار بین ستون هایی مجاز است که آن کار به کاربر جاری محول شده باشد"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "تنها انتقال کار بین ستون هایی مجاز است که آن کار به کاربر جاری محول شده باشد"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5267,12 +5206,8 @@ msgid "There is no integration registered at the moment."
 msgstr "تلفیق ثبت شده در این لحظه وجود ندارد."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"هیچ پلاگینی یک روش آگاه سازی در پروژه را ثبت نکرده است. شما هنوز می توانید "
-"آگاه سازی های مجزا را در پروفایل کاربری خود تنظیم کنید."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "هیچ پلاگینی یک روش آگاه سازی در پروژه را ثبت نکرده است. شما هنوز می توانید آگاه سازی های مجزا را در پروفایل کاربری خود تنظیم کنید."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5495,20 +5430,15 @@ msgid "Time spent in each column"
 msgstr "زمان صرف شده در هر ستون"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
+msgid "The lead time is the duration between the task creation and the completion."
 msgstr "اصطلاح Lead time یعنی مدتی که بین ایجاد کار و اتمام کار سپری شده است."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
-msgstr ""
-"اصطلاح Cycle time یعنی مدتی که از تاریخ شروع تا تاریخ اتمام سپری شده است."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "اصطلاح Cycle time یعنی مدتی که از تاریخ شروع تا تاریخ اتمام سپری شده است."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
+msgid "If the task is not closed the current time is used instead of the completion date."
 msgstr "اگر کار بسته نشده باشد، زمان کنونی بجای زمان اتمام استفاده شده است."
 
 #: app/Template/task/changes.php:8
@@ -5757,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr "ویرایش کارها بصورت دسته ای"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr "مشخصاتی که می خواهید برای کارهای انتخاب شده تغییر کنند را انتخاب کنید."
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -5849,8 +5778,7 @@ msgstr "پیوند های خارجی"
 
 #: app/Template/task_file/screenshot.php:6
 msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
-msgstr ""
-"یک اسکرین شات بگیرید و با زدن دکمه های کنترل+وی یا کامند+وی اینجا بچسبانید."
+msgstr "یک اسکرین شات بگیرید و با زدن دکمه های کنترل+وی یا کامند+وی اینجا بچسبانید."
 
 #: app/Template/task_file/screenshot.php:15
 msgid "This feature does not work with all browsers."
@@ -6094,12 +6022,8 @@ msgstr "غیرفعال کردن تایید هویت دو مرحله ای"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
-"آیا واقعاً می خواهید تایید هویت دو مرحله ای برای کاربر \"%s\" را غیر فعال "
-"کنید؟"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "آیا واقعاً می خواهید تایید هویت دو مرحله ای برای کاربر \"%s\" را غیر فعال کنید؟"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
@@ -6164,9 +6088,7 @@ msgstr "کاربر راه دور"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"اگر انتخاب شده باشد، این کاربر از یک سیستم ثالث برای احراز هویت استفاده "
-"خواهد کرد."
+msgstr "اگر انتخاب شده باشد، این کاربر از یک سیستم ثالث برای احراز هویت استفاده خواهد کرد."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6204,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "پارامتر های احراز هویت"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"کاربران راه دور گذرواژه خود را در پایگاه داده کان بُرد ذخیره نمی کنند، بطور "
-"مثال: LDAP, حساب های گوگل و گیتهاب."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "کاربران راه دور گذرواژه خود را در پایگاه داده کان بُرد ذخیره نمی کنند، بطور مثال: LDAP, حساب های گوگل و گیتهاب."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"اگر گزینه \"غیرمجاز کردن فرم ورود\" را انتخاب کرده باشید، موارد وارد شده در "
-"فرم ورود نادیده گرفته خواهند شد."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "اگر گزینه \"غیرمجاز کردن فرم ورود\" را انتخاب کرده باشید، موارد وارد شده در فرم ورود نادیده گرفته خواهند شد."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6806,107 +6720,3 @@ msgstr "گذرواژه کنونی الزامی است"
 msgid "Wrong password"
 msgstr "گذرواژه اشتباه"
 
-#~ msgid "Yellow"
-#~ msgstr "زرد"
-
-#~ msgid "Blue"
-#~ msgstr "آبی"
-
-#~ msgid "Green"
-#~ msgstr "سبز"
-
-#~ msgid "Purple"
-#~ msgstr "ارغوانی"
-
-#~ msgid "Red"
-#~ msgstr "قرمز"
-
-#~ msgid "Orange"
-#~ msgstr "نارنجی"
-
-#~ msgid "Grey"
-#~ msgstr "خاکستری"
-
-#~ msgid "Brown"
-#~ msgstr "قهوه ای"
-
-#~ msgid "Deep Orange"
-#~ msgstr "نارنجی پررنگ"
-
-#~ msgid "Dark Grey"
-#~ msgstr "خاکستری تیره"
-
-#~ msgid "Pink"
-#~ msgstr "صورتی"
-
-#~ msgid "Teal"
-#~ msgstr "آبی سیر"
-
-#~ msgid "Cyan"
-#~ msgstr "یشمی"
-
-#~ msgid "Lime"
-#~ msgstr "لیمویی"
-
-#~ msgid "Light Green"
-#~ msgstr "سبز کمرنگ"
-
-#~ msgid "Amber"
-#~ msgstr "زرد کهربایی"
-
-#~ msgid "Forbidden"
-#~ msgstr "ممنوع شده"
-
-#~ msgid "estimated"
-#~ msgstr "تخمینی"
-
-#~ msgid "Todo"
-#~ msgstr "لیست جهت انجام کار"
-
-#~ msgid "In progress"
-#~ msgstr "در حال انجام"
-
-#~ msgid "relates to"
-#~ msgstr "مرتبط است با"
-
-#~ msgid "blocks"
-#~ msgstr "مسدود می کند"
-
-#~ msgid "is blocked by"
-#~ msgstr "مسدود شده توسط"
-
-#~ msgid "duplicates"
-#~ msgstr "کپی است"
-
-#~ msgid "is duplicated by"
-#~ msgstr "کپی شده توسط"
-
-#~ msgid "is a child of"
-#~ msgstr "فرزندی است از"
-
-#~ msgid "is a parent of"
-#~ msgstr "پدری است برای"
-
-#~ msgid "targets milestone"
-#~ msgstr "نقطه عطف را مورد هدف قرار می دهد"
-
-#~ msgid "is a milestone of"
-#~ msgstr "نقطه عطفی است از"
-
-#~ msgid "fixes"
-#~ msgstr "مشکل را رفع می کند"
-
-#~ msgid "is fixed by"
-#~ msgstr "مشکل حل شده توسط"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "پروژه هایی که در آن \"%s\" مدیر است"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "پروژه هایی که در آن \"%s\" عضو است"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "کارهای بازی که به \"%s\" محول شده است"
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "کارهای بسته ای که به \"%s\" محول شده است"

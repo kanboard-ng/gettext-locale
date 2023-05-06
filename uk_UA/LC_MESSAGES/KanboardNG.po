@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: uk_UA\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: uk_UA\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -59,10 +73,8 @@ msgid "Stop the timer of all subtasks when moving a task to another column"
 msgstr "Зупинити таймери всіх підзадач при переміщенні до іншої колонки"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
-"Додати підзадачу та увімкнути таймер при переміщенні задачі до іншої колонки"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Додати підзадачу та увімкнути таймер при переміщенні задачі до іншої колонки"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
@@ -203,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "Призначити виконавцем задачі користувача, що виконав дію"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "Призначити користувачу, який змінив колонку задачі"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -223,12 +234,8 @@ msgid "Duration in days"
 msgstr "Тривалість в годинах"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
-msgstr ""
-"Автоматично призначити дату завершення, якщо завдання переміщене із "
-"зазначеної колонки"
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr "Автоматично призначити дату завершення, якщо завдання переміщене із зазначеної колонки"
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
@@ -243,12 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "Змінити відповідального виходячи з зовнішнього логіна"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
-"Призначити виконавцем задачі заданого користувача, коли задачу переміщено до "
-"вказаної доріжки"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "Призначити виконавцем задачі заданого користувача, коли задачу переміщено до вказаної доріжки"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -268,8 +271,7 @@ msgstr "Закрити задачу, коли відсутня діяльніс�
 
 #: app/Action/TaskCloseNotMovedColumn.php:23
 msgid "Close a task in a specific column when not moved during a given period"
-msgstr ""
-"Закривати задачі в цій колонці, що не переміщувались протягом вказаного часу"
+msgstr "Закривати задачі в цій колонці, що не переміщувались протягом вказаного часу"
 
 #: app/Action/TaskCreation.php:21
 msgid "Create a task from an external provider"
@@ -350,17 +352,11 @@ msgstr "Перемістити задачу до іншої колонки пр�
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Перемістити задачу до іншої колонки, якщо її не переміщали протягом "
-"вказаного часу"
+msgstr "Перемістити задачу до іншої колонки, якщо її не переміщали протягом вказаного часу"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
-"Перемістити цю задачу до іншої колонки, коли до терміну виконання залишилося "
-"менше вказаного числа днів"
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "Перемістити цю задачу до іншої колонки, коли до терміну виконання залишилося менше вказаного числа днів"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
@@ -392,12 +388,8 @@ msgid "Automatically update the start date"
 msgstr "Автоматично оновити дату початку"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
-"Автоматично оновлювати дату початку, коли задачу переміщено із вказаної "
-"колонки"
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "Автоматично оновлювати дату початку, коли задачу переміщено із вказаної колонки"
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
@@ -499,12 +491,8 @@ msgid "You must select a file to upload as your avatar!"
 msgstr "Ви повинні вибрати файл для завантаження у якості вашого аватару!"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
-"Вибраний файл не є зображенням! (Допустимі розширення: *.gif, *.jpg, *.jpeg, "
-"*.png)"
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "Вибраний файл не є зображенням! (Допустимі розширення: *.gif, *.jpg, *.jpeg, *.png)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -512,21 +500,15 @@ msgstr ""
 #: app/Controller/TaskFileController.php:60
 #: app/Controller/TaskFileController.php:66
 msgid "Unable to upload files, check the permissions of your data folder."
-msgstr ""
-"Не вдалося завантажити файли, перевірте дозволи встановлені на директорію "
-"даних."
+msgstr "Не вдалося завантажити файли, перевірте дозволи встановлені на директорію даних."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "Вам не дозволено видалити це розширення."
+msgstr "У вас немає дозволу на переміщення цього завдання"
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr "Всі задачі в колонці \"%s\" на доріжці \"%s\" успішно закрито."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -2364,7 +2346,7 @@ msgstr "Пріорітет задачі"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2951,11 +2933,8 @@ msgstr "Середній витрачений час"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Графік показує середній витрачений час в кожній колонці для останніх %d "
-"задач."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Графік показує середній витрачений час в кожній колонці для останніх %d задач."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -2986,9 +2965,7 @@ msgstr "Виконати"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
-"Цей графік показує оцінку часу необхідного для завершення роботи над "
-"задачами, що залишилися."
+msgstr "Цей графік показує оцінку часу необхідного для завершення роботи над задачами, що залишилися."
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
@@ -3024,12 +3001,8 @@ msgstr "Час виконання"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Графік показує зміну з часом середнього часу виконання (з очікуванням) та "
-"циклу для останніх %d задач."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Графік показує зміну з часом середнього часу виконання (з очікуванням) та циклу для останніх %d задач."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3339,7 +3312,7 @@ msgstr "Підзадача"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
@@ -3439,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Лише задачі призначені поточному користувачу"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Користувачі з цією роллю зможуть переміщувати задачі лише між вказаними "
-"колонками."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Користувачі з цією роллю зможуть переміщувати задачі лише між вказаними колонками."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3627,9 +3596,7 @@ msgstr "URL додатку"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
-"Наприклад : https://example.kanboard.org/ (використовується для створення "
-"абсолютних URL)"
+msgstr "Наприклад : https://example.kanboard.org/ (використовується для створення абсолютних URL)"
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3671,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Час підсвічування задачі"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Тривалість в секундах, протягом якої задача вважається зміненою нещодавно (0 "
-"– вимкнути, стандартно – 2 дні)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Тривалість в секундах, протягом якої задача вважається зміненою нещодавно (0 – вимкнути, стандартно – 2 дні)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3827,8 +3790,7 @@ msgstr "Вимкнути персональні проєкти"
 
 #: app/Template/config/project.php:22
 msgid "Allow only one subtask in progress at the same time for a user"
-msgstr ""
-"Дозволяти кожному користувачу мати лише одну підзадачу в роботі одночасно"
+msgstr "Дозволяти кожному користувачу мати лише одну підзадачу в роботі одночасно"
 
 #: app/Template/config/project.php:23
 msgid "Trigger automatically subtask time tracking"
@@ -3847,10 +3809,8 @@ msgid "Webhooks"
 msgstr "Webhooks"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"Ви можете завантажити попередньо збережену базу даних SQLite (стиснуту Gzip)."
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Ви можете завантажити попередньо збережену базу даних SQLite (стиснуту Gzip)."
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4179,12 +4139,8 @@ msgid "This report contains all tasks information for the given date range."
 msgstr "Цей звіт надає інформацію по задачам для вказаного проміжку часу."
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Цей звіт містить всі переміщення між колонками для кожної задачі разом із "
-"датою, користувачем та часом витраченим на кожне з переміщень."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Цей звіт містить всі переміщення між колонками для кожної задачі разом із датою, користувачем та часом витраченим на кожне з переміщень."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4428,7 +4384,7 @@ msgstr "Відповідальний:"
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4575,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "Для скидання пароля перейдіть за посиланням:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"Ваш Kanboard не налаштований для встановлення розширень з користувацького "
-"інтерфейсу."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Ваш Kanboard не налаштований для встановлення розширень з користувацького інтерфейсу."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4728,12 +4680,8 @@ msgstr "Ідентифікатор"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"Ідентифікатор проєкта є необов'язковим і може складатися лише з латиниці та "
-"цифр: MIYPROEKT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Ідентифікатор проєкта є необов'язковим і може складатися лише з латиниці та цифр: MIYPROEKT."
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
@@ -4759,8 +4707,7 @@ msgstr "Основне"
 
 #: app/Template/project_edit/show.php:21
 msgid "The project email is optional and could be used by several plugins."
-msgstr ""
-"E-mail проєкту не є обов'язковим і може використовуватися розширеннями."
+msgstr "E-mail проєкту не є обов'язковим і може використовуватися розширеннями."
 
 #: app/Template/project_edit/show.php:30
 msgid "Task limits apply to each swimlane individually"
@@ -5079,12 +5026,8 @@ msgstr "Видалення додаткової ролі"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"Видалити додаткову роль \"%s\"? Всі користувачі з цією роллю отримають роль "
-"учасників проєкту."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Видалити додаткову роль \"%s\"? Всі користувачі з цією роллю отримають роль учасників проєкту."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5124,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "Обмеження для ролі відсутні."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"Переміщення задач обмежити до призначених поточному користувачу та між "
-"колоноками"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Переміщення задач обмежити до призначених поточному користувачу та між колоноками"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5267,12 +5206,8 @@ msgid "There is no integration registered at the moment."
 msgstr "Зареєстровані інтеграції відсутні."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"Відсутні розширення, що надають сповіщення для проєкта. Налаштувати окремі "
-"сповіщення можна у вашому профілі користувача."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Відсутні розширення, що надають сповіщення для проєкта. Налаштувати окремі сповіщення можна у вашому профілі користувача."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5285,9 +5220,7 @@ msgstr "Вимкнути публічний доступ"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
-"Ця функція вмикає для проєкта стрічки iCal та RSS, а також публічний "
-"перегляд дошки."
+msgstr "Ця функція вмикає для проєкта стрічки iCal та RSS, а також публічний перегляд дошки."
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5497,22 +5430,16 @@ msgid "Time spent in each column"
 msgstr "Час витрачений в кожній з колонок"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
-msgstr ""
-"Час виконання є проміжком часу між створенням задачі та її завершенням."
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "Час виконання є проміжком часу між створенням задачі та її завершенням."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
+msgid "The cycle time is the duration between the start date and the completion."
 msgstr "Час циклу є проміжком між датою початку та завершення задачі."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Якщо задача не закрита, замість дати завершення використовується поточна."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Якщо задача не закрита, замість дати завершення використовується поточна."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5760,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr "Відредагувати багато задач одразу"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr "Оберіть властивості, які ви бажаєте змінити в обраних задачах."
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -6096,9 +6022,7 @@ msgstr "Вимкнути двоетапну перевірку"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
 msgstr "Ви дійсно бажаєте вимкнути двоетапну перевірку для користувача \"%s\"?"
 
 #: app/Template/twofactor/index.php:7
@@ -6164,9 +6088,7 @@ msgstr "Віддалений користувач"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"Якщо позначено, користувач буде використовувати сторонню систему для "
-"автентифікації."
+msgstr "Якщо позначено, користувач буде використовувати сторонню систему для автентифікації."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6204,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Параметри автентифікації"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"Віддалені користувачі не зберігають свої паролі в базі даних Kanboard. "
-"Приклади: облікові записи LDAP, GitHub та Google."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Віддалені користувачі не зберігають свої паролі в базі даних Kanboard. Приклади: облікові записи LDAP, GitHub та Google."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Якщо ви позначите прапорець \"Вимкнути форму входу\", дані введені у формі "
-"входу будуть ігноруватися."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Якщо ви позначите прапорець \"Вимкнути форму входу\", дані введені у формі входу будуть ігноруватися."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6806,113 +6720,3 @@ msgstr "Слід вказати поточний пароль"
 msgid "Wrong password"
 msgstr "Пароль неправильний"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr ","
-
-#~ msgid "number.thousands_separator"
-#~ msgstr " "
-
-#~ msgid "Yellow"
-#~ msgstr "Жовтий"
-
-#~ msgid "Blue"
-#~ msgstr "Синій"
-
-#~ msgid "Green"
-#~ msgstr "Зелений"
-
-#~ msgid "Purple"
-#~ msgstr "Фіолетовий"
-
-#~ msgid "Red"
-#~ msgstr "Червоний"
-
-#~ msgid "Orange"
-#~ msgstr "Помаранчевий"
-
-#~ msgid "Grey"
-#~ msgstr "Сірий"
-
-#~ msgid "Brown"
-#~ msgstr "Коричневий"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Темно-помаранчевий"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Темно-сірий"
-
-#~ msgid "Pink"
-#~ msgstr "Рожевий"
-
-#~ msgid "Teal"
-#~ msgstr "Бірюзовий"
-
-#~ msgid "Cyan"
-#~ msgstr "Синьо-зелений"
-
-#~ msgid "Lime"
-#~ msgstr "Лайм"
-
-#~ msgid "Light Green"
-#~ msgstr "Світло-зелений"
-
-#~ msgid "Amber"
-#~ msgstr "Бурштиновий"
-
-#~ msgid "Forbidden"
-#~ msgstr "Заборонено"
-
-#~ msgid "estimated"
-#~ msgstr "оцінено"
-
-#~ msgid "Todo"
-#~ msgstr "Зробити"
-
-#~ msgid "In progress"
-#~ msgstr "Виконується"
-
-#~ msgid "relates to"
-#~ msgstr "пов'язана з"
-
-#~ msgid "blocks"
-#~ msgstr "блокує"
-
-#~ msgid "is blocked by"
-#~ msgstr "заблокована"
-
-#~ msgid "duplicates"
-#~ msgstr "дублює"
-
-#~ msgid "is duplicated by"
-#~ msgstr "дубльована"
-
-#~ msgid "is a child of"
-#~ msgstr "є дочірньою для"
-
-#~ msgid "is a parent of"
-#~ msgstr "є батьківською для"
-
-#~ msgid "targets milestone"
-#~ msgstr "належить до віхи"
-
-#~ msgid "is a milestone of"
-#~ msgstr "є віхою для"
-
-#~ msgid "fixes"
-#~ msgstr "виправляє"
-
-#~ msgid "is fixed by"
-#~ msgstr "виправляється"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "Проєкти, в яких \"%s\" є керівником"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "Проєкти, в яких \"%s\" є учасником"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "Відкриті задачі призначені \"%s\""
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "Закриті задачі призначені \"%s\""

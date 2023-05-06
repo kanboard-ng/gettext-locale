@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: tr_TR\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: tr_TR\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -56,16 +70,11 @@ msgstr "%s Sütununa taşındı"
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
-"Görev başka bir kolona taşındığında, tüm alt görevlerin zaman sayaçlarını "
-"durdur."
+msgstr "Görev başka bir kolona taşındığında, tüm alt görevlerin zaman sayaçlarını durdur."
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
-"Görev başka bir kolona taşındığında, bir alt görev ekle ve zaman sayacını "
-"başlat"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Görev başka bir kolona taşındığında, bir alt görev ekle ve zaman sayacını başlat"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
@@ -206,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "Görevi, işlemi gerçekleştiren kullanıcıya ata"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "Sütun değiştirildiği zaman görevi eylemi gerçekleştiren kişiye ata"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -226,10 +234,8 @@ msgid "Duration in days"
 msgstr "Süre (gün olarak)"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
-msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr "Görev belirli bir sütundan uzaklaştırıldığında son tarihi otomatik olarak ayarlayın"
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
@@ -244,10 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "Dış kaynaklı kullanıcı adı ile göreve atananı değiştir"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "Görev belirli bir swimlane'e taşındığında görevi belirli bir kullanıcıya atama"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -348,16 +352,11 @@ msgstr "Görev kapandığında başka bir kolona taşı"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Bir kolonda belirli bir süre hareketsiz kalırsa görevi başka bir kolona taşı"
+msgstr "Bir kolonda belirli bir süre hareketsiz kalırsa görevi başka bir kolona taşı"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
-"Hedef tarihe belirli bir gün sayısından az kaldığında görevi başka kolona "
-"taşı"
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "Hedef tarihe belirli bir gün sayısından az kaldığında görevi başka kolona taşı"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
@@ -389,11 +388,8 @@ msgid "Automatically update the start date"
 msgstr "Başlangıç tarihini otomatik olarak güncelle"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
-"Görev bir kolondan taşındığında başlangıç tarihini otomatik olarak güncelle"
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "Görev bir kolondan taşındığında başlangıç tarihini otomatik olarak güncelle"
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
@@ -475,7 +471,7 @@ msgstr "Kalan iş grafiği"
 #: app/Template/analytic/estimated_actual_column.php:3
 #: app/Template/analytic/sidebar.php:25
 msgid "Estimated vs actual time per column"
-msgstr ""
+msgstr "Sütun başına tahmini ve gerçek süre"
 
 #: app/Controller/AppController.php:25 app/Controller/AppController.php:28
 #: app/Template/app/forbidden.php:3
@@ -492,13 +488,11 @@ msgstr "Giriş"
 
 #: app/Controller/AvatarFileController.php:37
 msgid "You must select a file to upload as your avatar!"
-msgstr ""
+msgstr "Avatarınız olarak yüklemek için bir dosya seçmelisiniz!"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "Yüklediğiniz dosya geçerli bir resim değil! (Sadece *.gif, *.jpg, *.jpeg ve *.png'ye izin verilir!)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -506,20 +500,15 @@ msgstr ""
 #: app/Controller/TaskFileController.php:60
 #: app/Controller/TaskFileController.php:66
 msgid "Unable to upload files, check the permissions of your data folder."
-msgstr ""
-"Dosya yüklenemedi. Lütfen yükleme dizine yazma izninizi kontrol ediniz."
+msgstr "Dosya yüklenemedi. Lütfen yükleme dizine yazma izninizi kontrol ediniz."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "Bu plugin'i kaldırmak için yetkiniz yok."
+msgstr "Bu görevi taşımak için izniniz yok"
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr "\"%s\" sütunu ve \"%s\" kulvarındaki tüm görevler başarıyla kapatıldı."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -1274,15 +1263,15 @@ msgstr "Proje kopyası oluşturulamıyor."
 #: app/Template/project/sidebar.php:55
 #: app/Template/project_view/importTasks.php:2
 msgid "Import Tasks"
-msgstr ""
+msgstr "İçe Aktarma Görevleri"
 
 #: app/Controller/ProjectViewController.php:216
 msgid "Tasks copied successfully."
-msgstr ""
+msgstr "Görevler başarıyla kopyalandı."
 
 #: app/Controller/ProjectViewController.php:218
 msgid "Unable to copy tasks."
-msgstr ""
+msgstr "Görevler kopyalanamıyor."
 
 #: app/Controller/SearchController.php:48 app/Template/search/activity.php:4
 msgid "Search tasks"
@@ -1784,10 +1773,9 @@ msgid "%s created a subtask for the task #%d"
 msgstr "%s kullanıcısı #%d nolu göreve bir alt görev ekledi"
 
 #: app/EventBuilder/SubtaskEventBuilder.php:98
-#, fuzzy, php-format
-#| msgid "%s removed a subtask for the task #%d"
+#, php-format
 msgid "%s removed a subtask for the task #%d"
-msgstr "%d görevi için %s bir alt görevi kaldırdı"
+msgstr "%s görev için bir alt görev kaldırıldı #%d"
 
 #: app/EventBuilder/SubtaskEventBuilder.php:116
 #, php-format
@@ -1876,10 +1864,9 @@ msgid "%s moved the task #%d to the column \"%s\""
 msgstr "%s , #%d görevini \"%s\" kolonuna taşıdı"
 
 #: app/EventBuilder/TaskEventBuilder.php:170
-#, fuzzy, php-format
-#| msgid "%s moved the task #%d to the position %d in the column \"%s\""
+#, php-format
 msgid "%s moved the task #%d to the position %d in the column \"%s\""
-msgstr "%s , #%d görevini \"%s\" kolonundaki %d pozisyonuna taşıdı"
+msgstr "%s%d görev numarasını \"%s\" sütunundaki %d konumuna taşıdı"
 
 #: app/EventBuilder/TaskEventBuilder.php:178
 #, php-format
@@ -1974,22 +1961,19 @@ msgid "New attachment on task #%d: %s"
 msgstr "#%d görevinde yeni dosya: %s"
 
 #: app/EventBuilder/TaskFileEventBuilder.php:89
-#, fuzzy, php-format
-#| msgid "Attachment removed from task #%d: %s"
+#, php-format
 msgid "Attachment removed from task #%d: %s"
-msgstr "%s görevinden bir ek dosya çıkarıldı: %d"
+msgstr "Ek görevden kaldırıldı #%d: %s"
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:63
-#, fuzzy, php-format
-#| msgid "%s set a new internal link for the task #%d"
+#, php-format
 msgid "%s set a new internal link for the task #%d"
-msgstr "%d görevi için %s bir iç link oluşturdu"
+msgstr "%s görev için yeni bir dahili bağlantı ayarlayın #%d"
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:65
-#, fuzzy, php-format
-#| msgid "%s removed an internal link for the task #%d"
+#, php-format
 msgid "%s removed an internal link for the task #%d"
-msgstr "%d görevi için %s bir iç linki kaldırdı"
+msgstr "%s görev için bir iç bağlantı kaldırıldı #%d"
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:82
 #, php-format
@@ -2362,7 +2346,7 @@ msgstr "Görev önceliği"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2587,7 +2571,7 @@ msgstr "HRK - Kuna"
 
 #: app/Model/CurrencyModel.php:43
 msgid "HUF - Hungarian Forint"
-msgstr ""
+msgstr "HUF - Macar Forinti"
 
 #: app/Model/CurrencyModel.php:44
 msgid "INR - Indian Rupee"
@@ -2599,7 +2583,7 @@ msgstr "JPY - Japon Yeni"
 
 #: app/Model/CurrencyModel.php:46
 msgid "MXN - Mexican Peso"
-msgstr ""
+msgstr "MXN - Meksika Pezosu"
 
 #: app/Model/CurrencyModel.php:47
 msgid "NOK - Norwegian Krone"
@@ -2631,7 +2615,7 @@ msgstr "USD Amerikan Doları"
 
 #: app/Model/CurrencyModel.php:54
 msgid "VES - Venezuelan Bolívar"
-msgstr ""
+msgstr "VES - Venezuela Bolívar'ı"
 
 #: app/Model/CurrencyModel.php:55
 msgid "XBT - Bitcoin"
@@ -2949,11 +2933,8 @@ msgstr "Geçen ortalama süre"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Bu grafik son %d görev için  her bir sütunda geçirilen ortalama süreyi "
-"gösterir."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Bu grafik son %d görev için  her bir sütunda geçirilen ortalama süreyi gösterir."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -3020,12 +3001,8 @@ msgstr "Teslim süresi"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Bu grafik son %d görev için zaman içinde gerçekleşen ortalama teslim ve "
-"çevrim sürelerini gösterir."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Bu grafik son %d görev için zaman içinde gerçekleşen ortalama teslim ve çevrim sürelerini gösterir."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3173,16 +3150,12 @@ msgid "Close all tasks in this column and this swimlane"
 msgstr "Bu sütundaki tüm görevleri kapat"
 
 #: app/Template/board/table_column.php:56
-#, fuzzy
-#| msgid "Reorder this column by priority (ASC)"
 msgid "Reorder this column by id (ASC)"
-msgstr "Kolonu artan önceliğe göre sırala"
+msgstr "Bu sütunu kimliğe göre yeniden sıralayın (ASC)"
 
 #: app/Template/board/table_column.php:59
-#, fuzzy
-#| msgid "Reorder this column by priority (DESC)"
 msgid "Reorder this column by id (DESC)"
-msgstr "Kolonu azalan önceliğe göre sırala"
+msgstr "Bu sütunu kimliğe göre yeniden sıralayın (DESC)"
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
@@ -3339,18 +3312,16 @@ msgstr "Alt görev"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
 msgstr "Bu sütundaki tüm görevleri kapatmak istediğinize emin misiniz?"
 
 #: app/Template/board_popover/close_all_tasks_column.php:9
-#, fuzzy, php-format
-#| msgid ""
-#| "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+#, php-format
 msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
-msgstr "\"%s\" sütunu ve \"%s\" kulvarındaki %d görev kapatılacak."
+msgstr "%d \"%s\" sütunundaki görev(ler) ve \"%s\" yüzme şeridi kapatılacaktır."
 
 #: app/Template/category/create.php:2 app/Template/category/index.php:5
 msgid "Add a new category"
@@ -3441,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Yalnızca geçerli kullanıcıya atanan görevler için"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Bu roldeki kullanıcılar sadece kaynak ve hedef kolonlar arasında görevi "
-"hareket ettirebilir."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Bu roldeki kullanıcılar sadece kaynak ve hedef kolonlar arasında görevi hareket ettirebilir."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3456,8 +3423,7 @@ msgstr "Kolon kısıtlamasını kaldır"
 #: app/Template/column_move_restriction/remove.php:7
 #, php-format
 msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
-msgstr ""
-"Kolon kısıtlamasının \"%s\" den \"%s\" e değiştireceğinize emin misiniz?"
+msgstr "Kolon kısıtlamasının \"%s\" den \"%s\" e değiştireceğinize emin misiniz?"
 
 #: app/Template/column_restriction/create.php:2
 #, php-format
@@ -3498,7 +3464,7 @@ msgstr "Yorum değiştir"
 
 #: app/Template/comment/edit.php:8
 msgid "Comment"
-msgstr ""
+msgstr "Yorum"
 
 #: app/Template/comment/remove.php:7
 msgid "Do you really want to remove this comment?"
@@ -3672,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Görevi öne çıkarma süresi"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Bir görevin yeni değiştirilmiş sayılması için süre (saniye olarak) (Bu "
-"özelliği iptal etmek için 0, varsayılan değer 2 gün)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Bir görevin yeni değiştirilmiş sayılması için süre (saniye olarak) (Bu özelliği iptal etmek için 0, varsayılan değer 2 gün)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3693,9 +3655,7 @@ msgstr "Özel panolar için yenileme sıklığı"
 
 #: app/Template/config/board.php:18
 msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
-msgstr ""
-"Saniye olarak frekans (Bu özelliği iptal etmek için 0, varsayılan değer 10 "
-"saniye)"
+msgstr "Saniye olarak frekans (Bu özelliği iptal etmek için 0, varsayılan değer 10 saniye)"
 
 #: app/Template/config/email.php:8
 msgid "Outgoing Emails"
@@ -3849,11 +3809,8 @@ msgid "Webhooks"
 msgstr "Web Kancaları"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"Daha önce indirdiğiniz Sqlite Veritabanı dosyasını yükleyebilirsiniz (Gzip "
-"formatında)"
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Daha önce indirdiğiniz Sqlite Veritabanı dosyasını yükleyebilirsiniz (Gzip formatında)"
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4175,20 +4132,15 @@ msgstr "Dışa aktar"
 
 #: app/Template/export/summary.php:3
 msgid "This export contains the number of tasks per column grouped per day."
-msgstr ""
-"Bu dışa aktarım günlük gruplanmış olarak her sütundaki görev sayısını içerir."
+msgstr "Bu dışa aktarım günlük gruplanmış olarak her sütundaki görev sayısını içerir."
 
 #: app/Template/export/tasks.php:3
 msgid "This report contains all tasks information for the given date range."
 msgstr "Bu rapor belirtilen tarih aralığında tüm görev bilgilerini içerir."
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Bu rapor her bir görevin sütunlar arası geçişlerini tarih, kullanıcı ve "
-"sütunda harcanan zaman detaylarıyla içerir."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Bu rapor her bir görevin sütunlar arası geçişlerini tarih, kullanıcı ve sütunda harcanan zaman detaylarıyla içerir."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4217,8 +4169,7 @@ msgstr "\"%s\" grubundan kullanıcı çıkar"
 #: app/Template/group/dissociate.php:5
 #, php-format
 msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
-msgstr ""
-"\"%s\" kullanıcısını \"%s\" grubundan çıkarmak istediğinize emin misiniz?"
+msgstr "\"%s\" kullanıcısını \"%s\" grubundan çıkarmak istediğinize emin misiniz?"
 
 #: app/Template/group/dropdown.php:4 app/Template/group/users.php:6
 msgid "Add group member"
@@ -4433,7 +4384,7 @@ msgstr "Sorumlu:"
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4580,9 +4531,7 @@ msgid "To reset your password click on this link:"
 msgstr "Şifrenizi sıfırlamak için bu linke tıklayın:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
 msgstr "Kanbord sisteminiz arayüzden eklenti kurulacak şekilde ayarlanmamış."
 
 #: app/Template/plugin/directory.php:12
@@ -4731,9 +4680,7 @@ msgstr "Kimlik"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
 msgstr "Proje kodu opsiyoneldir ve alfanümerik olmalıdır, örneğin: PROJE1"
 
 #: app/Template/project_creation/create.php:17
@@ -4855,11 +4802,11 @@ msgstr "Geniş görünüm"
 
 #: app/Template/project_header/dropdown.php:23
 msgid "Collapse vertically"
-msgstr ""
+msgstr "Dikey olarak daraltın"
 
 #: app/Template/project_header/dropdown.php:26
 msgid "Expand vertically"
-msgstr ""
+msgstr "Dikey olarak genişletin"
 
 #: app/Template/project_header/dropdown.php:49
 #: app/Template/project_overview/information.php:30
@@ -5079,12 +5026,8 @@ msgstr "Ek rolü kaldır"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"\"%s\" ek rolünü kaldıracağınıza emin misiniz? Bu role ait tüm kullanıcılar "
-"proje kullanıcısı olacak."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "\"%s\" ek rolünü kaldıracağınıza emin misiniz? Bu role ait tüm kullanıcılar proje kullanıcısı olacak."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5124,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "Bu rol için bir kısıtlama yok"
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"Geçerli kullanıcıya atanan görevler için yalnızca o sütunlar arasında "
-"hareket eden bir göreve izin verilir."
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Geçerli kullanıcıya atanan görevler için yalnızca o sütunlar arasında hareket eden bir göreve izin verilir."
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5246,7 +5185,7 @@ msgstr "Proje ekibi yok."
 
 #: app/Template/project_view/importTasks.php:4
 msgid "Please choose a project you want to copy the tasks from."
-msgstr ""
+msgstr "Lütfen görevleri kopyalamak istediğiniz bir proje seçin."
 
 #: app/Template/project_view/importTasks.php:9
 #: app/Template/task_duplication/copy.php:21
@@ -5256,23 +5195,19 @@ msgstr "Proje seçin"
 
 #: app/Template/project_view/importTasks.php:15
 msgid "Copy"
-msgstr ""
+msgstr "Anlaşıldı"
 
 #: app/Template/project_view/importTasks.php:20
 msgid "No other projects found."
-msgstr ""
+msgstr "Başka proje bulunamadı."
 
 #: app/Template/project_view/integrations.php:11
 msgid "There is no integration registered at the moment."
 msgstr "Şu anda kayıtlı bir entegrasyon bulunmuyor."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"Proje bildirimleri için hiçbir plugin kaydedilmedi. Yine de profil "
-"sayfanızdan bildirim ayarları yapabilirsiniz."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Proje bildirimleri için hiçbir plugin kaydedilmedi. Yine de profil sayfanızdan bildirim ayarları yapabilirsiniz."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5285,9 +5220,7 @@ msgstr "Dışa açık erişimi kapat"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
-"Bu özellik iCal beslemesini, RSS beslemesini ve genel pano görünümünü "
-"aktifleştirir."
+msgstr "Bu özellik iCal beslemesini, RSS beslemesini ve genel pano görünümünü aktifleştirir."
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5497,25 +5430,16 @@ msgid "Time spent in each column"
 msgstr "Her sütunda geçen süre"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
-msgstr ""
-"Teslim süresi, görevin oluşturulması ile tamamlanması arasında geçen süredir."
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "Teslim süresi, görevin oluşturulması ile tamamlanması arasında geçen süredir."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
-msgstr ""
-"Çevrim süresi, görevin başlangıç tarihi ile tamamlanması arasında geçen "
-"süredir."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "Çevrim süresi, görevin başlangıç tarihi ile tamamlanması arasında geçen süredir."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Eğer görev henüz kapatılmamışsa, tamamlanma tarihi yerine şu anki tarih "
-"kullanılır."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Eğer görev henüz kapatılmamışsa, tamamlanma tarihi yerine şu anki tarih kullanılır."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5763,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr "Görevleri toplu olarak güncelle"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr "Seçili görevler için değiştirilecek özellikleri seç"
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -5855,9 +5778,7 @@ msgstr "Harici linkler"
 
 #: app/Template/task_file/screenshot.php:6
 msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
-msgstr ""
-"Bir ekran görüntüsü alın ve buraya yapıştırmak için CTRL+V veya  ⌘+V "
-"tuşlarına basın."
+msgstr "Bir ekran görüntüsü alın ve buraya yapıştırmak için CTRL+V veya  ⌘+V tuşlarına basın."
 
 #: app/Template/task_file/screenshot.php:15
 msgid "This feature does not work with all browsers."
@@ -6064,8 +5985,7 @@ msgstr "Bu görev şu alt görevi oluşturdu:"
 #: app/Template/task_status/close.php:7
 #, php-format
 msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
-msgstr ""
-"\"%s\" görevini ve tüm alt görevlerini kapatmak istediğinize emin misiniz?"
+msgstr "\"%s\" görevini ve tüm alt görevlerini kapatmak istediğinize emin misiniz?"
 
 #: app/Template/task_status/open.php:7
 #, php-format
@@ -6102,12 +6022,8 @@ msgstr "Çift-Kademeli doğrulamayı iptal et"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
-"Bu kullanıcı için Çift-Kademeli doğrulamayı iptal etmek istediğinize emin "
-"misiniz: \"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Bu kullanıcı için Çift-Kademeli doğrulamayı iptal etmek istediğinize emin misiniz: \"%s\"?"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
@@ -6172,9 +6088,7 @@ msgstr "Uzak kullanıcı"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"İşaretlenirse, bu kullanıcı kimlik doğrulama için üçüncü parti bir sistem "
-"kullanacaktır."
+msgstr "İşaretlenirse, bu kullanıcı kimlik doğrulama için üçüncü parti bir sistem kullanacaktır."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6212,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Yetkilendirme Parametreleri"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"Uzak kullanıcıların şifreleri Kanboard veritabanında saklanmaz, örnek: LDAP, "
-"Google ve Github hesapları"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Uzak kullanıcıların şifreleri Kanboard veritabanında saklanmaz, örnek: LDAP, Google ve Github hesapları"
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Eğer giriş formuna erişimi engelleyi seçerseniz, giriş formuna girilen "
-"bilgiler gözardı edilir."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Eğer giriş formuna erişimi engelleyi seçerseniz, giriş formuna girilen bilgiler gözardı edilir."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6814,113 +6720,3 @@ msgstr "Mevcut şifre gerekli"
 msgid "Wrong password"
 msgstr "Yanlış şifre"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr "."
-
-#~ msgid "number.thousands_separator"
-#~ msgstr ","
-
-#~ msgid "Yellow"
-#~ msgstr "Sarı"
-
-#~ msgid "Blue"
-#~ msgstr "Mavi"
-
-#~ msgid "Green"
-#~ msgstr "Yeşil"
-
-#~ msgid "Purple"
-#~ msgstr "Mor"
-
-#~ msgid "Red"
-#~ msgstr "Kırmızı"
-
-#~ msgid "Orange"
-#~ msgstr "Turuncu"
-
-#~ msgid "Grey"
-#~ msgstr "Gri"
-
-#~ msgid "Brown"
-#~ msgstr "K.rengi"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Kavuniçi"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Koyu Gri"
-
-#~ msgid "Pink"
-#~ msgstr "Pembe"
-
-#~ msgid "Teal"
-#~ msgstr "Turkuaz"
-
-#~ msgid "Cyan"
-#~ msgstr "Cam Göbeği"
-
-#~ msgid "Lime"
-#~ msgstr "Limoni"
-
-#~ msgid "Light Green"
-#~ msgstr "Açık Yeşil"
-
-#~ msgid "Amber"
-#~ msgstr "Koyu Sarı"
-
-#~ msgid "Forbidden"
-#~ msgstr "Yasak"
-
-#~ msgid "estimated"
-#~ msgstr "tahmini"
-
-#~ msgid "Todo"
-#~ msgstr "Yapılacaklar"
-
-#~ msgid "In progress"
-#~ msgstr "Devam etmekte"
-
-#~ msgid "relates to"
-#~ msgstr "şununla ilgili"
-
-#~ msgid "blocks"
-#~ msgstr "şunu engelliyor"
-
-#~ msgid "is blocked by"
-#~ msgstr "şunun tarafından engelleniyor"
-
-#~ msgid "duplicates"
-#~ msgstr "şunun kopyasını oluşturuyor"
-
-#~ msgid "is duplicated by"
-#~ msgstr "şunun tarafından kopyası oluşturuluyor"
-
-#~ msgid "is a child of"
-#~ msgstr "şunun astı"
-
-#~ msgid "is a parent of"
-#~ msgstr "şunun üstü"
-
-#~ msgid "targets milestone"
-#~ msgstr "şu kilometre taşını hedefliyor"
-
-#~ msgid "is a milestone of"
-#~ msgstr "şunun için bir kilometre taşı"
-
-#~ msgid "fixes"
-#~ msgstr "düzeltiyor"
-
-#~ msgid "is fixed by"
-#~ msgstr "şunun tarafından düzeltildi"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "%s in müdürü olduğu projeler"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "%s in ekip üyesi olduğu projeler"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "%s e atanan görevleri aç"
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "%s e atanan görevleri kapat"

@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: zh_CN\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: zh_CN\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -59,8 +73,7 @@ msgid "Stop the timer of all subtasks when moving a task to another column"
 msgstr "当移动任务到别的栏目组时停止所有子任务计时器"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
+msgid "Add a subtask and activate the timer when moving a task to another column"
 msgstr "当移动任务到别的栏目组时添加子任务并开始计时"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
@@ -202,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "将任务指派给产生该动作的用户"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "当任务所属任务栏改变时分配到指定用户"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -222,9 +234,7 @@ msgid "Duration in days"
 msgstr "持续天数"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
+msgid "Automatically set the due date when the task is moved away from a specific column"
 msgstr "当任务离开指定栏目时自动设置到期时间"
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
@@ -240,9 +250,7 @@ msgid "Change the assignee based on an external username"
 msgstr "根据外部用户名修改任务受理人"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
 msgstr "将任务移至特定泳道时，将任务分配给指定用户"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
@@ -347,9 +355,7 @@ msgid "Move the task to another column when not moved during a given period"
 msgstr "当任务在指定时间内未移动时，移动到另一栏"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
+msgid "Move the task to another column when the due date is less than a certain number of days"
 msgstr "当任务即将在指定天数内超期时移动到另一栏"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
@@ -382,9 +388,7 @@ msgid "Automatically update the start date"
 msgstr "自动更新开始日期"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
+msgid "Automatically update the start date when the task is moved away from a specific column"
 msgstr "当任务离开指定栏目时自动更新开始时间"
 
 #: app/Auth/TotpAuth.php:43
@@ -487,11 +491,8 @@ msgid "You must select a file to upload as your avatar!"
 msgstr "你必须选择一张图片作为你的头像"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
-"你所上传的文件不是有效图像！(只有*.gif, *.jpg, *.jpeg and *.png才被允许！)"
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "你所上传的文件不是有效图像！(只有*.gif, *.jpg, *.jpeg and *.png才被允许！)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -502,16 +503,12 @@ msgid "Unable to upload files, check the permissions of your data folder."
 msgstr "无法上传文件，请检查你的data目录权限。"
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "你没有权限移除此插件。"
+msgstr "你没有权限移动这项任务"
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr "任务栏 \"%s\" 和 泳道 \"%s\" 下的所有任务已关闭"
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -1867,8 +1864,7 @@ msgid "%s moved the task #%d to the column \"%s\""
 msgstr "%s将任务 #%d 移动到了 \"%s\""
 
 #: app/EventBuilder/TaskEventBuilder.php:170
-#, fuzzy, php-format
-#| msgid "%s moved the task #%d to the position %d in the column \"%s\""
+#, php-format
 msgid "%s moved the task #%d to the position %d in the column \"%s\""
 msgstr "%s将任务 #%d 移动到了 \"%s\" 的 %d"
 
@@ -2350,7 +2346,7 @@ msgstr "任务优先级"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2937,8 +2933,7 @@ msgstr "平均花费时间"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
 msgstr "当前柱状图表示最新%d条任务在每个任务栏下的平均花费时间"
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
@@ -3006,9 +3001,7 @@ msgstr "工作时间"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
 msgstr "该图表显示了过去 %d 个任务的平均和峰值耗时。"
 
 #: app/Template/analytic/task_distribution.php:17
@@ -3157,16 +3150,12 @@ msgid "Close all tasks in this column and this swimlane"
 msgstr "关闭此任务栏下的所有任务"
 
 #: app/Template/board/table_column.php:56
-#, fuzzy
-#| msgid "Reorder this column by priority (ASC)"
 msgid "Reorder this column by id (ASC)"
-msgstr "按优先级重排(升序)"
+msgstr "按id(ASC)重新排列此列"
 
 #: app/Template/board/table_column.php:59
-#, fuzzy
-#| msgid "Reorder this column by priority (DESC)"
 msgid "Reorder this column by id (DESC)"
-msgstr "按优先级重排(降序)"
+msgstr "按id重排此列（DESC）。"
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
@@ -3323,16 +3312,14 @@ msgstr "子任务"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
 msgstr "你确定要关闭此任务栏下的所有任务？"
 
 #: app/Template/board_popover/close_all_tasks_column.php:9
-#, fuzzy, php-format
-#| msgid ""
-#| "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+#, php-format
 msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
 msgstr "任务栏 \"%s\" 和 泳道 \"%s\" 下 %d 条任务将被关闭。"
 
@@ -3425,9 +3412,7 @@ msgid "Only for tasks assigned to the current user"
 msgstr "只作用于当前用户已受理任务"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
 msgstr "此角色下的用户将只能在源栏目和目标栏目间移动任务。"
 
 #: app/Template/column_move_restriction/remove.php:2
@@ -3653,9 +3638,7 @@ msgid "Task highlight period"
 msgstr "任务高亮时间"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
 msgstr "多久内的任务视作刚刚修改(单位：秒,设置为0停用，默认是2天"
 
 #: app/Template/config/board.php:12
@@ -3826,8 +3809,7 @@ msgid "Webhooks"
 msgstr "网络钩子"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
 msgstr "你可以上传先前下载的sqlite数据库(Gzip 格式)。"
 
 #: app/Template/config/upload_db.php:12
@@ -4107,8 +4089,7 @@ msgid "%s moved the task %s to the column \"%s\""
 msgstr "%s 移动任务 %s 到栏目 \"%s\""
 
 #: app/Template/event/task_move_position.php:2
-#, fuzzy, php-format
-#| msgid "%s moved the task %s to the position #%d in the column \"%s\""
+#, php-format
 msgid "%s moved the task %s to the position #%d in the column \"%s\""
 msgstr "%s 将任务 %s 移动到了\"%s\"的第#%d个位置"
 
@@ -4158,9 +4139,7 @@ msgid "This report contains all tasks information for the given date range."
 msgstr "该报告包含了指定日期范围内的所有任务信息。"
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
 msgstr "此报告记录任务的变更，包含日期、用户和时间消耗。"
 
 #: app/Template/feed/user.php:3
@@ -4405,7 +4384,7 @@ msgstr "指派给"
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4552,9 +4531,7 @@ msgid "To reset your password click on this link:"
 msgstr "点击此链接重置你的密码"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
 msgstr "你的Kanboard没有启用插件安装。"
 
 #: app/Template/plugin/directory.php:12
@@ -4703,9 +4680,7 @@ msgstr "标识符"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
 msgstr "项目标识符是可选的,且只能是数字或字母组成，例如：MYPROJECT。"
 
 #: app/Template/project_creation/create.php:17
@@ -5051,11 +5026,8 @@ msgstr "删除自定义角色"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"你真的要删除这个自定义橘色：\"%s\"？当前角色下的用户将转换成普通项目成员。"
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "你真的要删除这个自定义橘色：\"%s\"？当前角色下的用户将转换成普通项目成员。"
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5095,9 +5067,7 @@ msgid "There is no restriction for this role."
 msgstr "当前角色无限制。"
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
 msgstr "只允许在这些栏目间移动受理给当前用户的任务"
 
 #: app/Template/project_role/show.php:86
@@ -5236,9 +5206,7 @@ msgid "There is no integration registered at the moment."
 msgstr "当前没有注册关联"
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
 msgstr "没有插件注册到项目通知接口，你仍然可以在你个人设置里启用单独的通知"
 
 #: app/Template/project_view/notifications.php:11
@@ -5462,19 +5430,15 @@ msgid "Time spent in each column"
 msgstr "每个任务栏的花费时间"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
+msgid "The lead time is the duration between the task creation and the completion."
 msgstr "工作时间是任务创建和完成之间的持续时间。"
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
+msgid "The cycle time is the duration between the start date and the completion."
 msgstr "周期时间是开始日期和完成时间之间的持续时间。"
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
+msgid "If the task is not closed the current time is used instead of the completion date."
 msgstr "如果当前任务未关闭时用当前时间代替完成时间"
 
 #: app/Template/task/changes.php:8
@@ -5723,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr "批量编辑任务"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr "选择你想要批量编辑的任务属性。"
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -6059,9 +6022,7 @@ msgstr "禁用双重认证"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
 msgstr "你真的要禁用 \"%s\" 的双重认证吗？"
 
 #: app/Template/twofactor/index.php:7
@@ -6165,16 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "验证参数"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
 msgstr "远程用户不会在看板数据库保存密码，例如：LDAP,GOOGLE,GitHub。"
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr "如果选中\"禁止登陆来自\"，登陆表单内的验证信息将被忽略。"
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "如果选中“禁止登陆来自”，登陆表单内的验证信息将被忽略。"
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6763,113 +6720,3 @@ msgstr "需要输入当前密码"
 msgid "Wrong password"
 msgstr "密码错误"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr "."
-
-#~ msgid "number.thousands_separator"
-#~ msgstr ","
-
-#~ msgid "Yellow"
-#~ msgstr "黄色"
-
-#~ msgid "Blue"
-#~ msgstr "蓝色"
-
-#~ msgid "Green"
-#~ msgstr "绿色"
-
-#~ msgid "Purple"
-#~ msgstr "紫色"
-
-#~ msgid "Red"
-#~ msgstr "红色"
-
-#~ msgid "Orange"
-#~ msgstr "橘色"
-
-#~ msgid "Grey"
-#~ msgstr "灰色"
-
-#~ msgid "Brown"
-#~ msgstr "褐色"
-
-#~ msgid "Deep Orange"
-#~ msgstr "橘红色"
-
-#~ msgid "Dark Grey"
-#~ msgstr "深灰色"
-
-#~ msgid "Pink"
-#~ msgstr "粉红色"
-
-#~ msgid "Teal"
-#~ msgstr "蓝绿色"
-
-#~ msgid "Cyan"
-#~ msgstr "青色"
-
-#~ msgid "Lime"
-#~ msgstr "黄绿色"
-
-#~ msgid "Light Green"
-#~ msgstr "浅绿色"
-
-#~ msgid "Amber"
-#~ msgstr "黄褐色"
-
-#~ msgid "Forbidden"
-#~ msgstr "禁止"
-
-#~ msgid "estimated"
-#~ msgstr "评估"
-
-#~ msgid "Todo"
-#~ msgstr "待完成"
-
-#~ msgid "In progress"
-#~ msgstr "正在进行"
-
-#~ msgid "relates to"
-#~ msgstr "关联到"
-
-#~ msgid "blocks"
-#~ msgstr "阻塞"
-
-#~ msgid "is blocked by"
-#~ msgstr "阻塞于"
-
-#~ msgid "duplicates"
-#~ msgstr "重复"
-
-#~ msgid "is duplicated by"
-#~ msgstr "重复于"
-
-#~ msgid "is a child of"
-#~ msgstr "子任务自"
-
-#~ msgid "is a parent of"
-#~ msgstr "父任务于"
-
-#~ msgid "targets milestone"
-#~ msgstr "里程碑目标"
-
-#~ msgid "is a milestone of"
-#~ msgstr "属于里程碑"
-
-#~ msgid "fixes"
-#~ msgstr "修复"
-
-#~ msgid "is fixed by"
-#~ msgstr "修复于"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "\"%s\"　管理的项目"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "\"%s\"　参与的项目"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "指派给\"%s\"的开放任务"
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "指派给\"%s\"的已结束任务"

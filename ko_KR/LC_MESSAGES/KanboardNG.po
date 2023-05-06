@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: ko_KR\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: ko\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: ko_KR\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -56,16 +70,15 @@ msgstr "\"%s\" 컬럼으로 이동"
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
+msgstr "작업을 다른 열로 옮길 때 모든 하위 작업의 타이머를 중지합니다."
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "작업을 다른 열로 옮길 때 하위 작업을 추가하고 타이머를 활성화하세요."
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
-msgstr ""
+msgstr "하위 작업 제목"
 
 #: app/Action/TaskAssignCategoryColor.php:23
 msgid "Assign automatically a category based on a color"
@@ -124,7 +137,7 @@ msgstr "링크 형식"
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:23
 msgid "Assign a category when the task is moved to a specific swimlane"
-msgstr ""
+msgstr "작업이 특정 스윔레인으로 이동할 때 카테고리를 지정하세요."
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:49
 #: app/Action/TaskAssignColorSwimlane.php:49
@@ -152,11 +165,11 @@ msgstr "특정 할일 링크를 사용할때 할일의 색깔 변경"
 
 #: app/Action/TaskAssignColorOnDueDate.php:24
 msgid "Assign automatically a color when due date is expired"
-msgstr ""
+msgstr "마감일이 만료되면 자동으로 색상 지정하기"
 
 #: app/Action/TaskAssignColorOnStartDate.php:24
 msgid "Assign automatically a color when preset start date is reached"
-msgstr ""
+msgstr "사전 설정된 시작 날짜에 도달하면 자동으로 색상 할당"
 
 #: app/Action/TaskAssignColorPriority.php:23
 msgid "Assign automatically a color based on a priority"
@@ -195,15 +208,14 @@ msgstr "담당자"
 
 #: app/Action/TaskAssignCreator.php:23
 msgid "Assign the task to its creator"
-msgstr ""
+msgstr "작업 생성자에게 작업 할당"
 
 #: app/Action/TaskAssignCurrentUser.php:23
 msgid "Assign the task to the person who does the action"
 msgstr "액션을 일으킨 사용자를 담당자이자"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "컬럼이 변경되면 액션하지 않는 사람에게 할일을 할당합니다"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -222,10 +234,8 @@ msgid "Duration in days"
 msgstr "기간"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
-msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr "특정 열에서 작업이 이동되면 자동으로 마감일을 설정합니다."
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
@@ -240,10 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "담당자를 외부 서비스에 바탕을 두고 변경하는 "
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "특정 스윔레인으로 작업이 이동될 때 특정 사용자에게 작업 할당하기"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -347,14 +355,12 @@ msgid "Move the task to another column when not moved during a given period"
 msgstr "주어진 기간동안 이동하지 않으면 할일을 다른 컬럼으로 이동시키기"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "마감일이 특정 일수 미만인 경우 작업을 다른 열로 이동합니다."
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
-msgstr ""
+msgstr "미리 정의된 시작 날짜에 도달하면 작업을 다른 열로 이동합니다."
 
 #: app/Action/TaskMoveColumnUnAssigned.php:23
 msgid "Move the task to another column when assignee is cleared"
@@ -362,16 +368,16 @@ msgstr "사용자의 할당이 없어지면 할일을 다른 컬럼에 이동"
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:23
 msgid "Move the task to another swimlane when assigned to a user"
-msgstr ""
+msgstr "사용자에게 할당된 작업이 다른 스윔레인으로 이동합니다."
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:52
 #: app/Action/TaskMoveSwimlaneCategoryChange.php:48
 msgid "Destination swimlane"
-msgstr ""
+msgstr "목적지 스윔레인"
 
 #: app/Action/TaskMoveSwimlaneCategoryChange.php:23
 msgid "Move the task to another swimlane when the category is changed"
-msgstr ""
+msgstr "카테고리가 변경되면 작업을 다른 스윔레인으로 이동합니다."
 
 #: app/Action/TaskOpen.php:21 app/Template/task_status/open.php:2
 msgid "Open a task"
@@ -382,10 +388,8 @@ msgid "Automatically update the start date"
 msgstr "시작일에 자동 갱신"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "작업이 특정 열에서 멀어지면 자동으로 시작 날짜 업데이트"
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
@@ -467,7 +471,7 @@ msgstr "번다운 차트"
 #: app/Template/analytic/estimated_actual_column.php:3
 #: app/Template/analytic/sidebar.php:25
 msgid "Estimated vs actual time per column"
-msgstr ""
+msgstr "열당 예상 시간과 실제 시간 비교"
 
 #: app/Controller/AppController.php:25 app/Controller/AppController.php:28
 #: app/Template/app/forbidden.php:3
@@ -484,13 +488,11 @@ msgstr "로그인"
 
 #: app/Controller/AvatarFileController.php:37
 msgid "You must select a file to upload as your avatar!"
-msgstr ""
+msgstr "아바타로 업로드할 파일을 선택해야 합니다!"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "업로드한 파일이 올바른 이미지가 아닙니다! (*.gif, *.jpg, *.jpeg 및 *.png만 허용됩니다!)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -498,19 +500,15 @@ msgstr ""
 #: app/Controller/TaskFileController.php:60
 #: app/Controller/TaskFileController.php:66
 msgid "Unable to upload files, check the permissions of your data folder."
-msgstr ""
+msgstr "파일을 업로드할 수 없는 경우 데이터 폴더의 권한을 확인하세요."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "이 플러그인의 삭제 권한이 없습니다."
+msgstr "이 작업을 이동할 수 있는 권한이 없습니다."
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr "컬럼 \"%s\"와 스웜라인 \"%s\"의 모든 할일이 성공적으로 종료되었습니다"
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -526,7 +524,7 @@ msgstr "카테고리를 작성했습니다."
 
 #: app/Controller/CategoryController.php:70
 msgid "Another category with the same name exists in this project"
-msgstr ""
+msgstr "이 프로젝트에 같은 이름의 다른 카테고리가 있습니다."
 
 #: app/Controller/CategoryController.php:116
 msgid "This category has been updated successfully."
@@ -625,12 +623,12 @@ msgstr "댓글의 삭제에 실패했습니다."
 
 #: app/Controller/CommentMailController.php:39
 msgid "Comment sent by email successfully."
-msgstr ""
+msgstr "댓글을 이메일로 성공적으로 보냈습니다."
 
 #: app/Controller/CommentMailController.php:67
 #, php-format
 msgid "Sent by email to \"%s\" (%s)"
-msgstr ""
+msgstr "\"%s\" (%s) 으로 이메일 전송"
 
 #: app/Controller/ConfigController.php:24
 #: app/Controller/ConfigController.php:74
@@ -706,11 +704,11 @@ msgstr "데이터베이스 최적화가 끝났습니다."
 
 #: app/Controller/ConfigController.php:206
 msgid "Unable to read uploaded file."
-msgstr ""
+msgstr "업로드한 파일을 읽을 수 없습니다."
 
 #: app/Controller/ConfigController.php:208
 msgid "Database uploaded successfully."
-msgstr ""
+msgstr "데이터베이스가 성공적으로 업로드되었습니다."
 
 #: app/Controller/ConfigController.php:226
 msgid "Token regenerated."
@@ -981,27 +979,27 @@ msgstr "플러그인이 성공적으로 삭제 되었습니다."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:35
 msgid "Template created successfully."
-msgstr ""
+msgstr "템플릿이 성공적으로 생성되었습니다."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:37
 msgid "Unable to create this template."
-msgstr ""
+msgstr "이 템플릿을 만들 수 없습니다."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:69
 msgid "Template updated successfully."
-msgstr ""
+msgstr "템플릿이 성공적으로 업데이트되었습니다."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:71
 msgid "Unable to update this template."
-msgstr ""
+msgstr "이 템플릿을 업데이트할 수 없습니다."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:98
 msgid "Template removed successfully."
-msgstr ""
+msgstr "템플릿이 성공적으로 제거되었습니다."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:100
 msgid "Unable to remove this template."
-msgstr ""
+msgstr "이 템플릿을 제거할 수 없습니다."
 
 #: app/Controller/ProjectActionDuplicationController.php:31
 msgid "Actions duplicated successfully."
@@ -1094,12 +1092,12 @@ msgstr "사용자를 찾을 수 없습니다"
 
 #: app/Controller/ProjectPermissionController.php:155
 msgid "Unable to find this group."
-msgstr ""
+msgstr "이 그룹을 찾을 수 없습니다."
 
 #: app/Controller/ProjectPredefinedContentController.php:22
 #: app/Template/project_predefined_content/show.php:2
 msgid "Predefined Contents"
-msgstr ""
+msgstr "미리 정의된 콘텐츠"
 
 #: app/Controller/ProjectRoleController.php:25
 #: app/Template/project_role/show.php:2
@@ -1265,15 +1263,15 @@ msgstr "프로젝트의 복제에 실패했습니다."
 #: app/Template/project/sidebar.php:55
 #: app/Template/project_view/importTasks.php:2
 msgid "Import Tasks"
-msgstr ""
+msgstr "작업 가져오기"
 
 #: app/Controller/ProjectViewController.php:216
 msgid "Tasks copied successfully."
-msgstr ""
+msgstr "작업이 성공적으로 복사되었습니다."
 
 #: app/Controller/ProjectViewController.php:218
 msgid "Unable to copy tasks."
-msgstr ""
+msgstr "작업을 복사할 수 없습니다."
 
 #: app/Controller/SearchController.php:48 app/Template/search/activity.php:4
 msgid "Search tasks"
@@ -1289,12 +1287,12 @@ msgstr "서브 할일의 추가에 실패했습니다."
 
 #: app/Controller/SubtaskController.php:107 app/Template/subtask/create.php:8
 msgid "Subtask added successfully."
-msgstr ""
+msgstr "하위 작업이 추가되었습니다."
 
 #: app/Controller/SubtaskController.php:109 app/Template/subtask/create.php:10
 #, php-format
 msgid "%d subtasks added successfully."
-msgstr ""
+msgstr "%d 하위 작업이 성공적으로 추가되었습니다."
 
 #: app/Controller/SubtaskController.php:158
 msgid "Sub-task updated successfully."
@@ -1413,24 +1411,24 @@ msgstr "동일한 링크가 이미 존재합니다"
 
 #: app/Controller/TaskMailController.php:34
 msgid "Task sent by email successfully."
-msgstr ""
+msgstr "이메일로 작업을 성공적으로 보냈습니다."
 
 #: app/Controller/TaskMailController.php:37
 #, php-format
 msgid "This task was sent by email to \"%s\" with subject \"%s\"."
-msgstr ""
+msgstr "이 작업은 제목 \"%s\"과 함께 \"%s\"으로 이메일로 전송되었습니다."
 
 #: app/Controller/TaskModificationController.php:24
 #: app/Controller/TaskModificationController.php:47
 #: app/Controller/TaskModificationController.php:88
 #: app/Controller/TaskModificationController.php:163
 msgid "You are not allowed to update tasks assigned to someone else."
-msgstr ""
+msgstr "다른 사람에게 할당된 작업은 업데이트할 수 없습니다."
 
 #: app/Controller/TaskModificationController.php:28
 #: app/Controller/TaskModificationController.php:159
 msgid "You are not allowed to change the assignee."
-msgstr ""
+msgstr "양수인은 변경할 수 없습니다."
 
 #: app/Controller/TaskStatusController.php:20
 msgid "Task closed successfully."
@@ -1482,7 +1480,7 @@ msgstr "2단 인증을 체크한다"
 #: app/Controller/UserApiAccessController.php:21
 #: app/Template/user_api_access/show.php:2
 msgid "API User Access"
-msgstr ""
+msgstr "API 사용자 액세스"
 
 #: app/Controller/UserCreationController.php:73
 #: app/Controller/UserInviteController.php:100
@@ -1523,16 +1521,16 @@ msgstr "%d 사용자가 성공적으로 추가되었습니다"
 #: app/Controller/UserInviteController.php:33
 #, php-format
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "%d 초대가 전송되었습니다."
 
 #: app/Controller/UserInviteController.php:33
 #, php-format
 msgid "%d invitation was sent."
-msgstr ""
+msgstr "%d 초대장이 전송되었습니다."
 
 #: app/Controller/UserInviteController.php:103
 msgid "Unable to create this user."
-msgstr ""
+msgstr "이 사용자를 만들 수 없습니다."
 
 #: app/Controller/UserListController.php:25
 #: app/Controller/UserListController.php:52
@@ -1636,7 +1634,7 @@ msgstr "다른 스웜라인으로 할일 이동"
 
 #: app/Core/Event/EventManager.php:58
 msgid "Subtask creation or modification"
-msgstr ""
+msgstr "하위 작업 생성 또는 수정"
 
 #: app/Core/ExternalLink/ExternalLinkManager.php:96
 msgid "Auto"
@@ -1665,7 +1663,7 @@ msgstr "다음에 "
 #: app/Core/Paginator.php:471
 #, php-format
 msgid "Showing %d-%d of %d"
-msgstr ""
+msgstr "%d의 %d-%d 표시"
 
 #: app/Core/Plugin/Installer.php:41 app/Core/Plugin/Installer.php:85
 msgid "Unable to extract plugin archive."
@@ -1739,10 +1737,9 @@ msgid "%s removed a comment on the task #%d"
 msgstr "%s가 할일 #%d의 댓글을 삭제하였습니다"
 
 #: app/EventBuilder/CommentEventBuilder.php:69
-#, fuzzy, php-format
-#| msgid "%s mentioned you in a comment on the task #%d"
+#, php-format
 msgid "%s mentioned you in a comment on the task #%d"
-msgstr "#%d 할일에서 %s가 당신의 댓글을 언급하였습니다"
+msgstr "%s 작업에 대한 댓글에서 귀하를 언급했습니다 #%d"
 
 #: app/EventBuilder/CommentEventBuilder.php:87
 #, php-format
@@ -1859,17 +1856,17 @@ msgstr "%s이 할일#%d를 오픈했습니다"
 #: app/Template/event/task_move_project.php:2
 #, php-format
 msgid "%s moved the task #%d \"%s\" to the project \"%s\""
-msgstr ""
+msgstr "%s 작업 #%d \"%s\"을 프로젝트 \"%s\"로 이동했습니다."
 
 #: app/EventBuilder/TaskEventBuilder.php:163
 #, php-format
 msgid "%s moved the task #%d to the column \"%s\""
-msgstr ""
+msgstr "%s 작업 #%d 을 \"%s\" 열로 이동했습니다."
 
 #: app/EventBuilder/TaskEventBuilder.php:170
 #, php-format
 msgid "%s moved the task #%d to the position %d in the column \"%s\""
-msgstr ""
+msgstr "%s 작업 #%d 을 \"%s\" 열의 %d 위치로 이동했습니다."
 
 #: app/EventBuilder/TaskEventBuilder.php:178
 #, php-format
@@ -1879,13 +1876,12 @@ msgstr "%s가 할일 #%d를 첫번째 스웜레인으로 이동시켰습니다"
 #: app/EventBuilder/TaskEventBuilder.php:182
 #, php-format
 msgid "%s moved the task #%d to the swimlane \"%s\""
-msgstr ""
+msgstr "%s 작업 #%d 을 스윔레인으로 옮겼습니다.\"%s\""
 
 #: app/EventBuilder/TaskEventBuilder.php:189
-#, fuzzy, php-format
-#| msgid "%s mentioned you in the task #%d"
+#, php-format
 msgid "%s mentioned you in the task #%d"
-msgstr "#%d 할일에서 %s가 당신을 언급하였습니다"
+msgstr "%s 작업 #%d에서 귀하를 언급했습니다."
 
 #: app/EventBuilder/TaskEventBuilder.php:207
 #, php-format
@@ -1911,7 +1907,7 @@ msgstr "할일 #%d가 시작되었습니다"
 #: app/Template/notification/task_move_project.php:5
 #, php-format
 msgid "Task #%d \"%s\" has been moved to the project \"%s\""
-msgstr ""
+msgstr "작업 #%d \"%s\"이 프로젝트 \"%s\"로 이동되었습니다."
 
 #: app/EventBuilder/TaskEventBuilder.php:217
 #, php-format
@@ -1957,7 +1953,7 @@ msgstr "%s가 할일 #%d에 파일을 추가하였습니다"
 #: app/EventBuilder/TaskFileEventBuilder.php:68
 #, php-format
 msgid "%s removed a file from the task #%d"
-msgstr ""
+msgstr "%s 작업 #%d에서 파일을 제거했습니다."
 
 #: app/EventBuilder/TaskFileEventBuilder.php:85
 #, php-format
@@ -1967,7 +1963,7 @@ msgstr "할일 #%d의 새로운 첨부파일: %s"
 #: app/EventBuilder/TaskFileEventBuilder.php:89
 #, php-format
 msgid "Attachment removed from task #%d: %s"
-msgstr ""
+msgstr "작업에서 첨부 파일 제거 #%d: %s"
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:63
 #, php-format
@@ -2179,7 +2175,7 @@ msgstr "웹 링크"
 
 #: app/Helper/DateHelper.php:76
 msgid "days"
-msgstr ""
+msgstr "일"
 
 #: app/Helper/DateHelper.php:76 app/Helper/DateHelper.php:89
 #: app/Helper/SubtaskHelper.php:145 app/Helper/SubtaskHelper.php:156
@@ -2194,11 +2190,11 @@ msgstr "시간"
 
 #: app/Helper/DateHelper.php:76
 msgid "minutes"
-msgstr ""
+msgstr "분"
 
 #: app/Helper/DateHelper.php:76
 msgid "seconds"
-msgstr ""
+msgstr "초"
 
 #: app/Helper/DateHelper.php:110
 msgid "<15m"
@@ -2224,15 +2220,15 @@ msgstr "%d일"
 
 #: app/Helper/FormHelper.php:235
 msgid "Preview"
-msgstr ""
+msgstr "미리보기"
 
 #: app/Helper/FormHelper.php:237
 msgid "Write"
-msgstr ""
+msgstr "쓰기"
 
 #: app/Helper/FormHelper.php:239
 msgid "Write your text in Markdown"
-msgstr ""
+msgstr "마크다운으로 텍스트 작성"
 
 #: app/Helper/ModalHelper.php:18 app/Template/config/application.php:38
 #: app/Template/config/board.php:24 app/Template/config/email.php:23
@@ -2289,7 +2285,7 @@ msgstr "타이머 시작"
 
 #: app/Helper/SubtaskHelper.php:110
 msgid "Enter one subtask by line."
-msgstr ""
+msgstr "한 줄씩 하위 작업을 입력합니다."
 
 #: app/Helper/SubtaskHelper.php:133 app/Helper/TaskHelper.php:130
 #: app/Template/task/details.php:89 app/Template/task/dropdown.php:9
@@ -2306,15 +2302,15 @@ msgstr "최초 예측시간"
 
 #: app/Helper/SubtaskHelper.php:165
 msgid "Subtask not started"
-msgstr ""
+msgstr "하위 작업이 시작되지 않음"
 
 #: app/Helper/SubtaskHelper.php:167
 msgid "Subtask currently in progress"
-msgstr ""
+msgstr "현재 진행 중인 하위 작업"
 
 #: app/Helper/SubtaskHelper.php:169
 msgid "Subtask completed"
-msgstr ""
+msgstr "하위 작업 완료"
 
 #: app/Helper/TaskHelper.php:63 app/Import/TaskImport.php:39
 #: app/Template/category/edit.php:11 app/Template/column/create.php:15
@@ -2334,7 +2330,7 @@ msgstr "설명"
 
 #: app/Helper/TaskHelper.php:72 app/Template/task_bulk/show.php:11
 msgid "Template for the task description"
-msgstr ""
+msgstr "작업 설명 템플릿"
 
 #: app/Helper/TaskHelper.php:229 app/Import/TaskImport.php:49
 msgid "Start Date"
@@ -2350,7 +2346,7 @@ msgstr "할일의 우선순위"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2358,19 +2354,19 @@ msgstr "할일을 추가하는 "
 
 #: app/Helper/TaskHelper.php:294
 msgid "Add a new Kanboard task"
-msgstr ""
+msgstr "새 Kanboard 작업 추가"
 
 #: app/Import/TaskImport.php:41
 msgid "Creator Username"
-msgstr ""
+msgstr "크리에이터 사용자 이름"
 
 #: app/Import/TaskImport.php:42
 msgid "Color Name"
-msgstr ""
+msgstr "색상 이름"
 
 #: app/Import/TaskImport.php:43
 msgid "Column Name"
-msgstr ""
+msgstr "열 이름"
 
 #: app/Import/TaskImport.php:44 app/Template/category/create.php:7
 #: app/Template/category/edit.php:8 app/Template/category/index.php:14
@@ -2379,19 +2375,19 @@ msgstr "카테고리 이름"
 
 #: app/Import/TaskImport.php:45
 msgid "Swimlane Name"
-msgstr ""
+msgstr "스윔레인 이름"
 
 #: app/Import/TaskImport.php:47
 msgid "Time Estimated"
-msgstr ""
+msgstr "예상 시간"
 
 #: app/Import/TaskImport.php:48
 msgid "Time Spent"
-msgstr ""
+msgstr "소요 시간"
 
 #: app/Import/TaskImport.php:54
 msgid "External Link"
-msgstr ""
+msgstr "외부 링크"
 
 #: app/Import/TaskImport.php:140 app/Import/UserImport.php:115
 #: app/Validator/ActionValidator.php:27
@@ -2527,7 +2523,7 @@ msgstr "이 칼럼의 할일 열기 혹은 닫기가 거부되었습니다."
 
 #: app/Model/CurrencyModel.php:31
 msgid "ARS - Argentine Peso"
-msgstr ""
+msgstr "ARS - 아르헨티나 페소"
 
 #: app/Model/CurrencyModel.php:32
 msgid "AUD - Australian Dollar"
@@ -2539,7 +2535,7 @@ msgstr "BAM - 보스니아 마르카"
 
 #: app/Model/CurrencyModel.php:34
 msgid "BRL - Brazilian Real"
-msgstr ""
+msgstr "BRL - 브라질 헤알"
 
 #: app/Model/CurrencyModel.php:35
 msgid "CAD - Canadian Dollar"
@@ -2551,15 +2547,15 @@ msgstr "CHF - 스위스 프랑"
 
 #: app/Model/CurrencyModel.php:37
 msgid "CNY - Chinese Yuan"
-msgstr ""
+msgstr "CNY - 중국 위안"
 
 #: app/Model/CurrencyModel.php:38
 msgid "COP - Colombian Peso"
-msgstr ""
+msgstr "COP - Colombian Peso"
 
 #: app/Model/CurrencyModel.php:39
 msgid "DKK - Danish Krona"
-msgstr ""
+msgstr "DKK - 덴마크 크로나"
 
 #: app/Model/CurrencyModel.php:40
 msgid "EUR - Euro"
@@ -2571,11 +2567,11 @@ msgstr "GBP - 영국 파운드"
 
 #: app/Model/CurrencyModel.php:42
 msgid "HRK - Kuna"
-msgstr ""
+msgstr "HRK - Kuna"
 
 #: app/Model/CurrencyModel.php:43
 msgid "HUF - Hungarian Forint"
-msgstr ""
+msgstr "HUF - Hungarian Forint"
 
 #: app/Model/CurrencyModel.php:44
 msgid "INR - Indian Rupee"
@@ -2587,7 +2583,7 @@ msgstr "JPY - 일본 엔"
 
 #: app/Model/CurrencyModel.php:46
 msgid "MXN - Mexican Peso"
-msgstr ""
+msgstr "MXN - 멕시코 페소"
 
 #: app/Model/CurrencyModel.php:47
 msgid "NOK - Norwegian Krone"
@@ -2611,7 +2607,7 @@ msgstr "SEK - 스위스 크로나"
 
 #: app/Model/CurrencyModel.php:52
 msgid "TRL - Turkish Lira"
-msgstr ""
+msgstr "TRL - 터키 리라"
 
 #: app/Model/CurrencyModel.php:53
 msgid "USD - US Dollar"
@@ -2619,15 +2615,15 @@ msgstr "USD - 미국 달러"
 
 #: app/Model/CurrencyModel.php:54
 msgid "VES - Venezuelan Bolívar"
-msgstr ""
+msgstr "VES - 베네수엘라 볼리바르"
 
 #: app/Model/CurrencyModel.php:55
 msgid "XBT - Bitcoin"
-msgstr ""
+msgstr "XBT - 비트코인"
 
 #: app/Model/InviteModel.php:55
 msgid "Kanboard Invitation"
-msgstr ""
+msgstr "칸보드 초대"
 
 #: app/Model/LanguageModel.php:133 app/Model/TimezoneModel.php:28
 msgid "Application default"
@@ -2651,7 +2647,7 @@ msgstr "할일 생성이 거부되었습니다."
 
 #: app/Model/ProjectRoleRestrictionModel.php:33
 msgid "Task suppression is not permitted"
-msgstr ""
+msgstr "작업 억제는 허용되지 않습니다."
 
 #: app/Model/ProjectRoleRestrictionModel.php:34
 msgid "Closing or opening a task is not permitted"
@@ -2663,11 +2659,11 @@ msgstr "할일 이동이 거부되었습니다."
 
 #: app/Model/ProjectRoleRestrictionModel.php:36
 msgid "Changing assignee is not permitted"
-msgstr ""
+msgstr "양수인 변경은 허용되지 않습니다."
 
 #: app/Model/ProjectRoleRestrictionModel.php:37
 msgid "Update only assigned tasks is permitted"
-msgstr ""
+msgstr "할당된 작업만 업데이트할 수 있습니다."
 
 #: app/Model/ProjectUserRoleModel.php:187
 #: app/Template/project_user_overview/tasks.php:32
@@ -2688,7 +2684,7 @@ msgstr "제목 없음"
 
 #: app/Model/TaskDuplicationModel.php:54
 msgid "[DUPLICATE]"
-msgstr ""
+msgstr "[DUPLICATE]"
 
 #: app/Model/TaskFileModel.php:90
 #, php-format
@@ -2805,7 +2801,7 @@ msgstr "삭제"
 #: app/Template/action/index.php:39
 #, php-format
 msgid "Automatic action not found: \"%s\""
-msgstr ""
+msgstr "자동 동작을 찾을 수 없습니다: \"%s\""
 
 #: app/Template/action/index.php:43
 msgid "Event name"
@@ -2937,8 +2933,7 @@ msgstr "평균 소요시간"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
 msgstr "마지막 %d 할일의 컬럼 평균 소요시간을 차트에 표시합니다"
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
@@ -3006,9 +3001,7 @@ msgstr "리드 시간"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
 msgstr "마지막 %d 할일의 평균 리드와 사이클 시간을 차트에 표시합니다"
 
 #: app/Template/analytic/task_distribution.php:17
@@ -3081,7 +3074,7 @@ msgstr "담당자가 없는 일"
 #: app/Template/app/filters_helper.php:14
 #: app/Template/project_header/search.php:33
 msgid "Assigned"
-msgstr ""
+msgstr "할당됨"
 
 #: app/Template/app/notfound.php:3
 msgid "Sorry, I didn't find this information in my database!"
@@ -3158,48 +3151,48 @@ msgstr "컬럼의 모든 할일 마치기"
 
 #: app/Template/board/table_column.php:56
 msgid "Reorder this column by id (ASC)"
-msgstr ""
+msgstr "이 열을 ID(ASC)별로 재정렬합니다."
 
 #: app/Template/board/table_column.php:59
 msgid "Reorder this column by id (DESC)"
-msgstr ""
+msgstr "이 열을 ID(DESC)로 재정렬합니다."
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
-msgstr ""
+msgstr "이 열을 우선순위에 따라 재정렬(ASC)"
 
 #: app/Template/board/table_column.php:65
 msgid "Reorder this column by priority (DESC)"
-msgstr ""
+msgstr "이 열을 우선순위에 따라 재정렬(DESC)"
 
 #: app/Template/board/table_column.php:68
 msgid "Reorder this column by assignee and priority (ASC)"
-msgstr ""
+msgstr "이 열을 양수인 및 우선순위(ASC)별로 재정렬합니다."
 
 #: app/Template/board/table_column.php:71
 msgid "Reorder this column by assignee and priority (DESC)"
-msgstr ""
+msgstr "이 열을 양수인 및 우선순위(DESC)별로 재정렬합니다."
 
 #: app/Template/board/table_column.php:74
 msgid "Reorder this column by assignee (A-Z)"
-msgstr ""
+msgstr "이 열을 양수인(A-Z)별로 재정렬합니다."
 
 #: app/Template/board/table_column.php:77
 msgid "Reorder this column by assignee (Z-A)"
-msgstr ""
+msgstr "이 열을 양수인(Z-A)별로 재정렬합니다."
 
 #: app/Template/board/table_column.php:80
 msgid "Reorder this column by due date (ASC)"
-msgstr ""
+msgstr "이 열을 마감일(ASC)별로 재정렬합니다."
 
 #: app/Template/board/table_column.php:83
 msgid "Reorder this column by due date (DESC)"
-msgstr ""
+msgstr "이 열을 마감일(DESC)별로 재정렬합니다."
 
 #: app/Template/board/table_column.php:96
 #: app/Template/board/table_column.php:97
 msgid "Total score in this column across all swimlanes"
-msgstr ""
+msgstr "모든 수영 레인의 이 열의 총점"
 
 #: app/Template/board/table_column.php:102
 #: app/Template/board/table_column.php:103
@@ -3319,18 +3312,16 @@ msgstr "서브 할일"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
 msgstr "이 컬럼의 모든 할일을 종료 하시겠습니까?"
 
 #: app/Template/board_popover/close_all_tasks_column.php:9
-#, fuzzy, php-format
-#| msgid ""
-#| "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
+#, php-format
 msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
-msgstr "컬럼 \"%s\"와 스웜라인 \"%s\"의 할일 %d가 종료될 것입니다"
+msgstr "%d 열의 작업(들) \"%s\" 및 스윔레인 \"%s\" 이 닫힙니다."
 
 #: app/Template/category/create.php:2 app/Template/category/index.php:5
 msgid "Add a new category"
@@ -3340,7 +3331,7 @@ msgstr "카테고리의 추가"
 #: app/Template/project_tag/create.php:11 app/Template/project_tag/edit.php:11
 #: app/Template/tag/create.php:12 app/Template/tag/edit.php:13
 msgid "No color"
-msgstr ""
+msgstr "색상 없음"
 
 #: app/Template/category/edit.php:2
 #, php-format
@@ -3349,7 +3340,7 @@ msgstr "\"%s\" 프로젝트 카테고리 수정"
 
 #: app/Template/category/index.php:10
 msgid "There is no category in this project."
-msgstr ""
+msgstr "이 프로젝트에는 카테고리가 없습니다."
 
 #: app/Template/category/index.php:24 app/Template/column/index.php:34
 #: app/Template/comment/show.php:24 app/Template/custom_filter/index.php:25
@@ -3396,7 +3387,7 @@ msgstr "보드에 컬럼이 존재하지 않습니다"
 
 #: app/Template/column/index.php:20 app/Template/project_view/show.php:65
 msgid "Visible on dashboard"
-msgstr ""
+msgstr "대시보드에 표시"
 
 #: app/Template/column/index.php:29 app/Template/swimlane/table.php:17
 msgid "Change column position"
@@ -3418,15 +3409,11 @@ msgstr "\"%s\" 역할의 새로운 드래그 앤 드롭 제약"
 
 #: app/Template/column_move_restriction/create.php:15
 msgid "Only for tasks assigned to the current user"
-msgstr ""
+msgstr "현재 사용자에게 할당된 작업에만 해당"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"이 역할에 속한 사용자는 원본 및 대상 칼럼 사이에서만 할일을 이동할 수 있습니"
-"다"
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "이 역할에 속한 사용자는 원본 및 대상 칼럼 사이에서만 할일을 이동할 수 있습니다"
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3461,7 +3448,7 @@ msgstr "댓글 추가"
 #: app/Template/task/sidebar.php:80 app/Template/task_comments/show.php:9
 #: app/Template/task_mail/create.php:2 app/Template/task_mail/create.php:44
 msgid "Send by email"
-msgstr ""
+msgstr "이메일로 보내기"
 
 #: app/Template/comment/create.php:12 app/Template/comment_list/create.php:6
 #: app/Template/comment_mail/create.php:45
@@ -3477,7 +3464,7 @@ msgstr "댓글 수정"
 
 #: app/Template/comment/edit.php:8
 msgid "Comment"
-msgstr ""
+msgstr "댓글"
 
 #: app/Template/comment/remove.php:7
 msgid "Do you really want to remove this comment?"
@@ -3485,11 +3472,11 @@ msgstr "댓글을 삭제합니까?"
 
 #: app/Template/comment/show.php:10
 msgid "Created at:"
-msgstr ""
+msgstr "에서 생성되었습니다:"
 
 #: app/Template/comment/show.php:11
 msgid "Updated at:"
-msgstr ""
+msgstr "업데이트 날짜:"
 
 #: app/Template/comment/show.php:20
 msgid "Link"
@@ -3501,11 +3488,11 @@ msgstr "정렬 변경"
 
 #: app/Template/comment_mail/create.php:2
 msgid "Create and send a comment by email"
-msgstr ""
+msgstr "댓글을 작성하여 이메일로 보내기"
 
 #: app/Template/comment_mail/create.php:25 app/Template/task_mail/create.php:23
 msgid "Subject"
-msgstr ""
+msgstr "제목"
 
 #: app/Template/config/about.php:7
 msgid "Official website:"
@@ -3541,7 +3528,7 @@ msgstr "PHP SAPI:"
 
 #: app/Template/config/about.php:39
 msgid "HTTP Client:"
-msgstr ""
+msgstr "HTTP 클라이언트:"
 
 #: app/Template/config/about.php:43
 msgid "OS version:"
@@ -3577,7 +3564,7 @@ msgstr "(GZip명령으로 압축된 Sqlite파일)"
 
 #: app/Template/config/about.php:76 app/Template/config/upload_db.php:2
 msgid "Upload the database"
-msgstr ""
+msgstr "데이터베이스 업로드"
 
 #: app/Template/config/about.php:79
 msgid "Optimize the database"
@@ -3651,9 +3638,7 @@ msgid "Task highlight period"
 msgstr "할일의 하이라이트 기간"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
 msgstr "최근 수정된 작업 고려 기간(초), (비활성화:0, 기본값:2일)"
 
 #: app/Template/config/board.php:12
@@ -3674,7 +3659,7 @@ msgstr "초당 횟수(비활성화:0, 기본값:10초)"
 
 #: app/Template/config/email.php:8
 msgid "Outgoing Emails"
-msgstr ""
+msgstr "발신 이메일"
 
 #: app/Template/config/email.php:10
 msgid "Email sender address"
@@ -3686,7 +3671,7 @@ msgstr "이메일 전송"
 
 #: app/Template/config/email.php:16
 msgid "The email configuration has been disabled by the administrator."
-msgstr ""
+msgstr "이메일 구성이 관리자에 의해 비활성화되었습니다."
 
 #: app/Template/config/integrations.php:2
 #: app/Template/project_view/integrations.php:2
@@ -3695,7 +3680,7 @@ msgstr "외부 서비스 연계"
 
 #: app/Template/config/integrations.php:10
 msgid "There is no external integration installed."
-msgstr ""
+msgstr "외부 통합이 설치되어 있지 않습니다."
 
 #: app/Template/config/keyboard_shortcuts.php:2
 msgid "Keyboard shortcuts"
@@ -3824,17 +3809,16 @@ msgid "Webhooks"
 msgstr "Webhook"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "이전에 다운로드한 Sqlite 데이터베이스(Gzip 형식)를 업로드할 수 있습니다."
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
-msgstr ""
+msgstr "데이터베이스 파일"
 
 #: app/Template/config/upload_db.php:15
 msgid "Upload"
-msgstr ""
+msgstr "업로드"
 
 #: app/Template/config/webhook.php:7
 msgid "Webhook URL"
@@ -3858,7 +3842,7 @@ msgstr "기축 통화"
 
 #: app/Template/currency/create.php:2 app/Template/currency/show.php:5
 msgid "Add or change currency rate"
-msgstr ""
+msgstr "환율 추가 또는 변경"
 
 #: app/Template/currency/create.php:6 app/Template/currency/show.php:20
 msgid "Currency"
@@ -3871,7 +3855,7 @@ msgstr "레이트"
 #: app/Template/currency/show.php:14
 #, php-format
 msgid "Reference currency: %s"
-msgstr ""
+msgstr "참조 통화: %s"
 
 #: app/Template/custom_filter/create.php:2
 msgid "Add a new filter"
@@ -3917,7 +3901,7 @@ msgstr "필터 (변경 대신)추가"
 #: app/Template/custom_filter/index.php:5
 #: app/Template/project_header/dropdown.php:43
 msgid "Add custom filters"
-msgstr ""
+msgstr "사용자 지정 필터 추가"
 
 #: app/Template/custom_filter/index.php:14
 msgid "Shared"
@@ -3941,7 +3925,7 @@ msgstr "변경"
 
 #: app/Template/custom_filter/index.php:56
 msgid "There is no custom filter."
-msgstr ""
+msgstr "사용자 지정 필터가 없습니다."
 
 #: app/Template/custom_filter/remove.php:7
 #, php-format
@@ -3970,11 +3954,11 @@ msgstr "할일이 없습니다. 옆사람의 일을 도와주면 어떨까요?"
 
 #: app/Template/dashboard/projects.php:2 app/Template/dashboard/sidebar.php:7
 msgid "My projects"
-msgstr ""
+msgstr "내 프로젝트"
 
 #: app/Template/dashboard/projects.php:5
 msgid "You are not a member of any project."
-msgstr ""
+msgstr "귀하는 어떤 프로젝트의 멤버도 아닙니다."
 
 #: app/Template/dashboard/sidebar.php:4 app/Template/project_header/views.php:6
 msgid "Overview"
@@ -3982,29 +3966,29 @@ msgstr "개요"
 
 #: app/Template/dashboard/sidebar.php:13 app/Template/dashboard/subtasks.php:2
 msgid "My subtasks"
-msgstr ""
+msgstr "내 하위 작업"
 
 #: app/Template/dashboard/subtasks.php:11
 #, php-format
 msgid "%d subtasks"
-msgstr ""
+msgstr "%d 하위 작업"
 
 #: app/Template/dashboard/subtasks.php:13
 #, php-format
 msgid "%d subtask"
-msgstr ""
+msgstr "%d 하위 작업"
 
 #: app/Template/dashboard/subtasks.php:18 app/Template/group/index.php:30
 #: app/Template/project_list/sort_menu.php:2
 #: app/Template/task_list/sort_menu.php:2
 #: app/Template/user_list/sort_menu.php:2
 msgid "Sort"
-msgstr ""
+msgstr "정렬"
 
 #: app/Template/dashboard/subtasks.php:21
 #: app/Template/task_list/sort_menu.php:5
 msgid "Task ID"
-msgstr ""
+msgstr "작업 ID"
 
 #: app/Template/event/comment_create.php:2
 #, php-format
@@ -4075,7 +4059,7 @@ msgstr "%s이 새로운 파일을 할일 %s에 추가했습니다"
 #: app/Template/event/task_file_destroy.php:2
 #, php-format
 msgid "%s removed a file from the task %s"
-msgstr ""
+msgstr "%s 작업에서 파일 제거 %s"
 
 #: app/Template/event/task_internal_link_create_update.php:2
 #, php-format
@@ -4086,7 +4070,7 @@ msgstr "%s가 할일 %s의 새로운 내부 링크를 설정하였습니다"
 #: app/Template/notification/task_internal_link_create_update.php:6
 #, php-format
 msgid "This task is now linked to the task %s with the relation \"%s\""
-msgstr ""
+msgstr "이 작업은 이제 \"%s\" 관계를 사용하여 %s 작업에 연결됩니다."
 
 #: app/Template/event/task_internal_link_delete.php:2
 #, php-format
@@ -4097,7 +4081,7 @@ msgstr "%s가 할일 %s의 새로운 내부 링크를 삭제하였습니다"
 #: app/Template/notification/task_internal_link_delete.php:6
 #, php-format
 msgid "The link with the relation \"%s\" to the task %s has been removed"
-msgstr ""
+msgstr "%s 작업에 대한 관계 \"%s\"링크가 제거되었습니다."
 
 #: app/Template/event/task_move_column.php:2
 #, php-format
@@ -4144,7 +4128,7 @@ msgstr "해당 기간의 모든 서브 할일 정보가 보고서에 포함됩�
 #: app/Template/export/subtasks.php:12 app/Template/export/summary.php:12
 #: app/Template/export/tasks.php:12 app/Template/export/transitions.php:12
 msgid "Export"
-msgstr ""
+msgstr "내보내기"
 
 #: app/Template/export/summary.php:3
 msgid "This export contains the number of tasks per column grouped per day."
@@ -4155,12 +4139,8 @@ msgid "This report contains all tasks information for the given date range."
 msgstr "해당 기간의 모든 할일 정보가 보고서에 포함됩니다"
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"이 리포트는 할일의 컬럼 간 이동을 시간, 유저, 경과 시간과 함께 기록한 것입니"
-"다."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "이 리포트는 할일의 컬럼 간 이동을 시간, 유저, 경과 시간과 함께 기록한 것입니다."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4179,7 +4159,7 @@ msgstr "가능한 사용자가 없습니다"
 #: app/Template/group/associate.php:7 app/Template/project_file/create.php:14
 #: app/Template/task_file/create.php:14
 msgid "Close this window"
-msgstr ""
+msgstr "이 창을 닫습니다."
 
 #: app/Template/group/dissociate.php:2
 #, php-format
@@ -4215,30 +4195,30 @@ msgstr "그룹이 없습니다"
 #: app/Template/group/index.php:23
 #, php-format
 msgid "%d groups"
-msgstr ""
+msgstr "%d 그룹"
 
 #: app/Template/group/index.php:25
 #, php-format
 msgid "%d group"
-msgstr ""
+msgstr "%d 그룹"
 
 #: app/Template/group/index.php:33
 msgid "Group ID"
-msgstr ""
+msgstr "그룹 ID"
 
 #: app/Template/group/index.php:39
 msgid "External ID"
-msgstr ""
+msgstr "외부 ID"
 
 #: app/Template/group/index.php:56 app/Template/user_list/header.php:5
 #, php-format
 msgid "%d users"
-msgstr ""
+msgstr "%d 사용자"
 
 #: app/Template/group/index.php:58 app/Template/user_list/header.php:7
 #, php-format
 msgid "%d user"
-msgstr ""
+msgstr "%d 사용자"
 
 #: app/Template/group/remove.php:2
 msgid "Remove group"
@@ -4255,7 +4235,7 @@ msgstr "프로파일 보기"
 
 #: app/Template/group/user_dropdown.php:8
 msgid "Remove user from group"
-msgstr ""
+msgstr "그룹에서 사용자 제거"
 
 #: app/Template/group/users.php:5 app/Template/user_list/listing.php:14
 #: app/Template/user_view/layout.php:15
@@ -4322,7 +4302,7 @@ msgstr "내 알림"
 
 #: app/Template/link/create.php:2 app/Template/link/show.php:5
 msgid "Add link label"
-msgstr ""
+msgstr "링크 레이블 추가"
 
 #: app/Template/link/create.php:9 app/Template/link/edit.php:13
 msgid "Opposite label"
@@ -4404,7 +4384,7 @@ msgstr "담당:"
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4417,7 +4397,7 @@ msgstr "시간 계측:"
 #: app/Template/task_internal_link/table.php:71
 #, php-format
 msgid "%sh estimated"
-msgstr ""
+msgstr "%sh 예상"
 
 #: app/Template/notification/subtask_delete.php:5
 msgid "Subtask removed"
@@ -4432,7 +4412,7 @@ msgstr "서브 할일 갱신"
 #: app/Template/task_internal_link/table.php:67
 #, php-format
 msgid "%sh spent"
-msgstr ""
+msgstr "%s보낸 시간"
 
 #: app/Template/notification/task_assignee_change.php:9
 #: app/Template/notification/task_create.php:22
@@ -4501,7 +4481,7 @@ msgstr "\"%s\"의 새로운 첨부 파일"
 #: app/Template/notification/task_file_destroy.php:5
 #, php-format
 msgid "Attachment removed \"%s\""
-msgstr ""
+msgstr "첨부 파일 제거 \"%s\""
 
 #: app/Template/notification/task_move_swimlane.php:8
 msgid "The task has been moved to the first swimlane"
@@ -4544,19 +4524,15 @@ msgstr "비밀번호 변경"
 
 #: app/Template/password_reset/create.php:8
 msgid "Your profile must have a valid email address."
-msgstr ""
+msgstr "프로필에 유효한 이메일 주소가 있어야 합니다."
 
 #: app/Template/password_reset/email.php:1
 msgid "To reset your password click on this link:"
 msgstr "비밀번호를 초기화 하시려면 링크를 눌러주세요:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"칸보드 인스턴스가 사용자 인터페이스에서 플러그인을 설치하도록 구성되지 않았습"
-"니다"
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "칸보드 인스턴스가 사용자 인터페이스에서 플러그인을 설치하도록 구성되지 않았습니다"
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4589,7 +4565,7 @@ msgstr "정말로 플러그인을 삭제하시겠습니까: \"%s\"?"
 
 #: app/Template/plugin/show.php:3
 msgid "Incompatible Plugins"
-msgstr ""
+msgstr "호환되지 않는 플러그인"
 
 #: app/Template/plugin/show.php:8 app/Template/plugin/show.php:51
 msgid "Author"
@@ -4601,7 +4577,7 @@ msgstr "버전"
 
 #: app/Template/plugin/show.php:10
 msgid "Compatibility"
-msgstr ""
+msgstr "호환성"
 
 #: app/Template/plugin/show.php:30 app/Template/plugin/show.php:71
 msgid "Uninstall"
@@ -4615,12 +4591,12 @@ msgstr "플러그인이 로드되지 않았습니다"
 #: app/Template/predefined_task_description/edit.php:2
 #: app/Template/predefined_task_description/remove.php:2
 msgid "Predefined Task Description"
-msgstr ""
+msgstr "사전 정의된 작업 설명"
 
 #: app/Template/predefined_task_description/remove.php:7
 #, php-format
 msgid "Do you really want to remove this template? \"%s\""
-msgstr ""
+msgstr "이 템플릿을 정말 제거하시겠습니까? \"%s\""
 
 #: app/Template/project/dropdown.php:5 app/Template/project_header/views.php:12
 #: app/Template/project_user_overview/roles.php:16
@@ -4646,11 +4622,11 @@ msgstr "분석"
 #: app/Template/project_header/dropdown.php:2
 #: app/Template/project_header/dropdown.php:75
 msgid "Configure this project"
-msgstr ""
+msgstr "이 프로젝트 구성"
 
 #: app/Template/project/sidebar.php:17
 msgid "Predefined contents"
-msgstr ""
+msgstr "미리 정의된 콘텐츠"
 
 #: app/Template/project/sidebar.php:29
 #: app/Template/project_user_overview/roles.php:8
@@ -4678,11 +4654,11 @@ msgstr "복사"
 
 #: app/Template/project/sidebar.php:59
 msgid "Close this project"
-msgstr ""
+msgstr "이 프로젝트 닫기"
 
 #: app/Template/project/sidebar.php:62
 msgid "Open this project"
-msgstr ""
+msgstr "이 프로젝트 열기"
 
 #: app/Template/project_action_duplication/show.php:2
 msgid "Import actions from another project"
@@ -4704,15 +4680,12 @@ msgstr "식별자"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"프로젝트 구분자는 선택사항이며, 숫자와 문자만 가능합니다. 예: MYPROJECT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "프로젝트 구분자는 선택사항이며, 숫자와 문자만 가능합니다. 예: MYPROJECT."
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
-msgstr ""
+msgstr "열 작업 제한은 각 스윔레인에 개별적으로 적용됩니다."
 
 #: app/Template/project_creation/create.php:28
 #: app/Template/project_view/duplicate.php:7
@@ -4734,15 +4707,15 @@ msgstr "일반적인"
 
 #: app/Template/project_edit/show.php:21
 msgid "The project email is optional and could be used by several plugins."
-msgstr ""
+msgstr "프로젝트 이메일은 선택 사항이며 여러 플러그인에서 사용할 수 있습니다."
 
 #: app/Template/project_edit/show.php:30
 msgid "Task limits apply to each swimlane individually"
-msgstr ""
+msgstr "작업 제한은 각 스윔레인에 개별적으로 적용됩니다."
 
 #: app/Template/project_edit/show.php:37
 msgid "Permissions and ownership"
-msgstr ""
+msgstr "권한 및 소유권"
 
 #: app/Template/project_edit/show.php:42
 msgid "Personal projects do not have users and groups management."
@@ -4758,7 +4731,7 @@ msgstr "날짜"
 
 #: app/Template/project_edit/show.php:60
 msgid "Priorities"
-msgstr ""
+msgstr "우선 순위"
 
 #: app/Template/project_edit/show.php:62
 msgid "Default priority"
@@ -4796,7 +4769,7 @@ msgstr "모든 파일이 성공적으로 업로드되었습니다"
 
 #: app/Template/project_file/create.php:15 app/Template/task_file/create.php:15
 msgid "Unable to upload this file."
-msgstr ""
+msgstr "이 파일을 업로드할 수 없습니다."
 
 #: app/Template/project_file/create.php:19 app/Template/task_file/create.php:19
 msgid "Upload files"
@@ -4829,11 +4802,11 @@ msgstr "세로 스크롤"
 
 #: app/Template/project_header/dropdown.php:23
 msgid "Collapse vertically"
-msgstr ""
+msgstr "세로로 접기"
 
 #: app/Template/project_header/dropdown.php:26
 msgid "Expand vertically"
-msgstr ""
+msgstr "세로로 확장"
 
 #: app/Template/project_header/dropdown.php:49
 #: app/Template/project_overview/information.php:30
@@ -4848,7 +4821,7 @@ msgstr "출력"
 
 #: app/Template/project_header/dropdown.php:69
 msgid "Import tasks"
-msgstr ""
+msgstr "작업 가져오기"
 
 #: app/Template/project_header/dropdown.php:80
 msgid "Manage projects"
@@ -4870,12 +4843,12 @@ msgstr "목록"
 #: app/Template/project_list/header.php:4
 #, php-format
 msgid "%d projects"
-msgstr ""
+msgstr "%d 프로젝트"
 
 #: app/Template/project_list/header.php:6
 #, php-format
 msgid "%d project"
-msgstr ""
+msgstr "%d 프로젝트"
 
 #: app/Template/project_list/listing.php:18
 msgid "Users overview"
@@ -4883,7 +4856,7 @@ msgstr "유저 전체보기"
 
 #: app/Template/project_list/listing.php:34
 msgid "There is no project."
-msgstr ""
+msgstr "프로젝트가 없습니다."
 
 #: app/Template/project_list/project_details.php:8
 msgid "Start date:"
@@ -4899,19 +4872,19 @@ msgstr "프로젝트 공유"
 
 #: app/Template/project_list/sort_menu.php:5
 msgid "Project ID"
-msgstr ""
+msgstr "프로젝트 ID"
 
 #: app/Template/project_list/sort_menu.php:8
 msgid "Project name"
-msgstr ""
+msgstr "프로젝트 이름"
 
 #: app/Template/project_list/sort_menu.php:20
 msgid "Public"
-msgstr ""
+msgstr "공개"
 
 #: app/Template/project_list/sort_menu.php:23
 msgid "Personal"
-msgstr ""
+msgstr "개인"
 
 #: app/Template/project_overview/activity.php:2
 msgid "Last activity"
@@ -5025,19 +4998,19 @@ msgstr "사용자 이름을 입력합니다..."
 
 #: app/Template/project_predefined_content/show.php:5
 msgid "Add predefined task description"
-msgstr ""
+msgstr "미리 정의된 작업 설명 추가"
 
 #: app/Template/project_predefined_content/show.php:11
 msgid "Predefined Task Descriptions"
-msgstr ""
+msgstr "미리 정의된 작업 설명"
 
 #: app/Template/project_predefined_content/show.php:39
 msgid "Predefined Email Subjects"
-msgstr ""
+msgstr "미리 정의된 이메일 제목"
 
 #: app/Template/project_predefined_content/show.php:41
 msgid "Write one subject by line."
-msgstr ""
+msgstr "한 줄씩 주제를 작성합니다."
 
 #: app/Template/project_role/create.php:2
 msgid "New custom project role"
@@ -5053,12 +5026,8 @@ msgstr "정의 역할 삭제"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"\"%s\" 정의 역할을 삭제하시겠습니까? 이 역할에 할당 된 모든 사람들이 프로젝"
-"트 멤버가됩니다."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "\"%s\" 정의 역할을 삭제하시겠습니까? 이 역할에 할당 된 모든 사람들이 프로젝트 멤버가됩니다."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5098,10 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "역할에 대한 제약이 없습니다."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "현재 사용자에게 할당된 작업의 경우 해당 열 간 작업 이동만 허용됩니다."
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5127,21 +5094,21 @@ msgstr "\"%s\" 프로젝트 제약을 삭제하시겠습니까?"
 
 #: app/Template/project_status/disable.php:2
 msgid "Close a project"
-msgstr ""
+msgstr "프로젝트 닫기"
 
 #: app/Template/project_status/disable.php:7
 #, php-format
 msgid "Do you really want to close this project: \"%s\"?"
-msgstr ""
+msgstr "정말 이 프로젝트를 종료하시겠습니까? \"%s\"?"
 
 #: app/Template/project_status/enable.php:2
 msgid "Reopen a project"
-msgstr ""
+msgstr "프로젝트 다시 열기"
 
 #: app/Template/project_status/enable.php:7
 #, php-format
 msgid "Do you really want to reopen this project: \"%s\"?"
-msgstr ""
+msgstr "정말 이 프로젝트를 다시 시작하시겠습니까? \"%s\"?"
 
 #: app/Template/project_status/remove.php:7
 #, php-format
@@ -5172,7 +5139,7 @@ msgstr "태그"
 #: app/Template/project_tag/index.php:29
 #: app/Template/project_tag/make_global.php:2
 msgid "Change to global tag"
-msgstr ""
+msgstr "글로벌 태그로 변경"
 
 #: app/Template/project_tag/index.php:46 app/Template/tag/index.php:2
 msgid "Global tags"
@@ -5180,12 +5147,12 @@ msgstr "전역 태그"
 
 #: app/Template/project_tag/index.php:53
 msgid "Enable global tags for this project"
-msgstr ""
+msgstr "이 프로젝트에 글로벌 태그 사용"
 
 #: app/Template/project_tag/make_global.php:7
 #, php-format
 msgid "Do you really want to make the tag \"%s\" global?"
-msgstr ""
+msgstr "\"%s\" 태그를 정말 글로벌하게 만들고 싶으신가요?"
 
 #: app/Template/project_tag/remove.php:2 app/Template/tag/remove.php:2
 msgid "Remove a tag"
@@ -5218,33 +5185,29 @@ msgstr "프로젝트 맴버가 없습니다"
 
 #: app/Template/project_view/importTasks.php:4
 msgid "Please choose a project you want to copy the tasks from."
-msgstr ""
+msgstr "작업을 복사할 프로젝트를 선택하세요."
 
 #: app/Template/project_view/importTasks.php:9
 #: app/Template/task_duplication/copy.php:21
 #: app/Template/task_duplication/move.php:22
 msgid "Choose a project"
-msgstr ""
+msgstr "프로젝트 선택"
 
 #: app/Template/project_view/importTasks.php:15
 msgid "Copy"
-msgstr ""
+msgstr "복사"
 
 #: app/Template/project_view/importTasks.php:20
 msgid "No other projects found."
-msgstr ""
+msgstr "다른 프로젝트를 찾을 수 없습니다."
 
 #: app/Template/project_view/integrations.php:11
 msgid "There is no integration registered at the moment."
 msgstr "현재 등록된 통합이 없습니다."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"프로젝트 알림 방법으로 플러그인이 등록되지 않았습니다. 각각의 알림을 프로파일"
-"에서 설정하실 수 있습니다"
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "프로젝트 알림 방법으로 플러그인이 등록되지 않았습니다. 각각의 알림을 프로파일에서 설정하실 수 있습니다"
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5257,7 +5220,7 @@ msgstr "공개 접속 비활성화"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
+msgstr "이 기능을 사용하면 iCal 피드, RSS 피드 및 공개 게시판 보기가 활성화됩니다."
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5265,11 +5228,11 @@ msgstr "공개 접속 활성화"
 
 #: app/Template/project_view/show.php:5
 msgid "This project is open"
-msgstr ""
+msgstr "이 프로젝트가 열려 있습니다."
 
 #: app/Template/project_view/show.php:5
 msgid "This project is closed"
-msgstr ""
+msgstr "이 프로젝트는 종료되었습니다."
 
 #: app/Template/project_view/show.php:12
 msgid "This project is personal"
@@ -5285,15 +5248,15 @@ msgstr "수정;"
 
 #: app/Template/project_view/show.php:36
 msgid "Column task limits are applied to each swimlane individually"
-msgstr ""
+msgstr "열 작업 제한은 각 스윔레인에 개별적으로 적용됩니다."
 
 #: app/Template/project_view/show.php:38
 msgid "Column task limits are applied across swimlanes"
-msgstr ""
+msgstr "열 작업 제한은 스윔레인 전체에 적용됩니다."
 
 #: app/Template/project_view/show.php:41
 msgid "Task limit: "
-msgstr ""
+msgstr "작업 제한: "
 
 #: app/Template/search/activity.php:25 app/Template/search/index.php:25
 msgid "Advanced search"
@@ -5427,7 +5390,7 @@ msgstr "액티브한 스윔레인"
 
 #: app/Template/swimlane/index.php:13
 msgid "Your project must have at least one active swimlane."
-msgstr ""
+msgstr "프로젝트에는 활성 스윔레인이 하나 이상 있어야 합니다."
 
 #: app/Template/swimlane/index.php:22
 msgid "Inactive swimlanes"
@@ -5467,19 +5430,15 @@ msgid "Time spent in each column"
 msgstr "각 컬럼에서 걸린 시간"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
+msgid "The lead time is the duration between the task creation and the completion."
 msgstr "리드 시간은 할일의 생성부터 완료까지의 기간입니다"
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
+msgid "The cycle time is the duration between the start date and the completion."
 msgstr "사이클 시간은 할일의 시작일부터 완료까지의 기간입니다"
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
+msgid "If the task is not closed the current time is used instead of the completion date."
 msgstr "할일이 종료되지 않았다면, 완료 시간 대신 현재 시간이 사용됩니다"
 
 #: app/Template/task/changes.php:8
@@ -5618,7 +5577,7 @@ msgstr "시작:"
 
 #: app/Template/task/details.php:127
 msgid "Start now"
-msgstr ""
+msgstr "지금 시작하기"
 
 #: app/Template/task/details.php:140
 msgid "Completed:"
@@ -5725,17 +5684,16 @@ msgstr "정확히 하나의 할일로 진입"
 #: app/Template/task_bulk_change_property/show.php:2
 #: app/Template/task_list/header.php:23
 msgid "Edit tasks in bulk"
-msgstr ""
+msgstr "대량으로 작업 편집"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
-msgstr ""
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr "선택한 작업에 대해 변경하려는 속성을 선택합니다."
 
 #: app/Template/task_bulk_move_column/show.php:2
 #: app/Template/task_list/header.php:20
 msgid "Move selected tasks to another column or swimlane"
-msgstr ""
+msgstr "선택한 작업을 다른 열이나 스윔레인으로 옮기기"
 
 #: app/Template/task_comments/show.php:2
 msgid "Comments"
@@ -5877,11 +5835,11 @@ msgstr "만기일은 ISO 형식이어야 합니다: YYYY-MM-DD"
 
 #: app/Template/task_import/show.php:31
 msgid "Tags must be separated by a comma"
-msgstr ""
+msgstr "태그는 쉼표로 구분해야 합니다."
 
 #: app/Template/task_import/show.php:32
 msgid "Only the task title is required"
-msgstr ""
+msgstr "작업 제목만 입력하면 됩니다."
 
 #: app/Template/task_import/show.php:35 app/Template/user_import/show.php:5
 msgid "Download CSV template"
@@ -5906,7 +5864,7 @@ msgstr "할일 제목을 입력하세요"
 
 #: app/Template/task_internal_link/create.php:27
 msgid "Create another link"
-msgstr ""
+msgstr "다른 링크 만들기"
 
 #: app/Template/task_internal_link/edit.php:2
 msgid "Edit link"
@@ -5928,37 +5886,37 @@ msgstr "이 할일의 "
 #: app/Template/task_list/header.php:4
 #, php-format
 msgid "%d tasks"
-msgstr ""
+msgstr "%d 작업"
 
 #: app/Template/task_list/header.php:6
 #, php-format
 msgid "%d task"
-msgstr ""
+msgstr "%d 작업"
 
 #: app/Template/task_list/header.php:12
 msgid "Select All"
-msgstr ""
+msgstr "모두 선택"
 
 #: app/Template/task_list/header.php:12
 msgid "Unselect All"
-msgstr ""
+msgstr "모두 선택 취소"
 
 #: app/Template/task_list/header.php:17
 msgid "Apply action"
-msgstr ""
+msgstr "작업 적용"
 
 #: app/Template/task_list/header.php:33
 msgid "Hide subtasks"
-msgstr ""
+msgstr "하위 작업 숨기기"
 
 #: app/Template/task_list/header.php:35
 msgid "Show subtasks"
-msgstr ""
+msgstr "하위 작업 표시"
 
 #: app/Template/task_mail/email.php:5
 #, php-format
 msgid "Project: %s"
-msgstr ""
+msgstr "프로젝트: %s"
 
 #: app/Template/task_move_position/show.php:2
 msgid "Move task to another position on the board"
@@ -6064,9 +6022,7 @@ msgstr "이중 인증 비활성화"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
 msgstr "\"%s\" 담당자의 이중 인증을 비활성화 하시겠습니까?"
 
 #: app/Template/twofactor/index.php:7
@@ -6095,33 +6051,33 @@ msgstr "디바이스 테스트"
 
 #: app/Template/user_api_access/show.php:7
 msgid "No personal API access token registered."
-msgstr ""
+msgstr "개인 API 액세스 토큰이 등록되지 않았습니다."
 
 #: app/Template/user_api_access/show.php:9
 #, php-format
 msgid "Your personal API access token is \"%s\""
-msgstr ""
+msgstr "개인 API 액세스 토큰은 \"%s\""
 
 #: app/Template/user_api_access/show.php:14
 msgid "Remove your token"
-msgstr ""
+msgstr "토큰 제거"
 
 #: app/Template/user_api_access/show.php:17
 msgid "Generate a new token"
-msgstr ""
+msgstr "새 토큰 생성"
 
 #: app/Template/user_creation/show.php:2
 msgid "New User"
-msgstr ""
+msgstr "신규 사용자"
 
 #: app/Template/user_creation/show.php:10 app/Template/user_invite/signup.php:9
 #: app/Template/user_modification/show.php:9
 msgid "Profile"
-msgstr ""
+msgstr "프로필"
 
 #: app/Template/user_creation/show.php:23
 msgid "Authentication"
-msgstr ""
+msgstr "인증"
 
 #: app/Template/user_creation/show.php:24
 #: app/Template/user_credential/authentication.php:13
@@ -6132,11 +6088,11 @@ msgstr "원격 담당자"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
+msgstr "이 옵션을 선택하면 이 사용자는 타사 시스템을 사용하여 인증합니다."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
-msgstr ""
+msgstr "비밀번호는 로컬 사용자에게만 필요합니다."
 
 #: app/Template/user_creation/show.php:38
 #: app/Template/user_modification/show.php:34
@@ -6163,26 +6119,19 @@ msgstr "이메일 알림 설정"
 
 #: app/Template/user_creation/show.php:63
 msgid "Add this person to this project"
-msgstr ""
+msgstr "이 프로젝트에 이 사람 추가하기"
 
 #: app/Template/user_credential/authentication.php:2
 msgid "Authentication Parameters"
-msgstr ""
+msgstr "인증 매개변수"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"예를 들어 LDAP, Google, Github 계정같은 원격 담당자의 비밀번호는 칸반보드 데"
-"이터베이스에 저장하지 않습니다"
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "예를 들어 LDAP, Google, Github 계정같은 원격 담당자의 비밀번호는 칸반보드 데이터베이스에 저장하지 않습니다"
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"만약 \"로그인 폼 거절\"에 체크한다면, 로그인 폼에 접근할 자격이 무시됩니다"
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "만약 \"로그인 폼 거절\"에 체크한다면, 로그인 폼에 접근할 자격이 무시됩니다"
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6216,35 +6165,35 @@ msgstr "비밀번호는 암호화됩니다"
 
 #: app/Template/user_invite/email.php:2
 msgid "You have been invited to register on Kanboard."
-msgstr ""
+msgstr "Kanboard에 등록하도록 초대되었습니다."
 
 #: app/Template/user_invite/email.php:6
 msgid "Click here to join your team"
-msgstr ""
+msgstr "팀에 가입하려면 여기를 클릭하세요."
 
 #: app/Template/user_invite/show.php:2 app/Template/user_list/listing.php:8
 msgid "Invite people"
-msgstr ""
+msgstr "사람들 초대"
 
 #: app/Template/user_invite/show.php:7
 msgid "Emails"
-msgstr ""
+msgstr "이메일"
 
 #: app/Template/user_invite/show.php:9
 msgid "Enter one email address by line."
-msgstr ""
+msgstr "이메일 주소를 한 줄씩 입력합니다."
 
 #: app/Template/user_invite/show.php:11
 msgid "Add these people to this project"
-msgstr ""
+msgstr "이 프로젝트에 다음 사람들을 추가하세요."
 
 #: app/Template/user_invite/signup.php:3 app/Template/user_invite/signup.php:43
 msgid "Sign-up"
-msgstr ""
+msgstr "가입하기"
 
 #: app/Template/user_invite/signup.php:22
 msgid "Credentials"
-msgstr ""
+msgstr "자격 증명"
 
 #: app/Template/user_list/dropdown.php:17 app/Template/user_view/sidebar.php:59
 msgid "Change password"
@@ -6256,7 +6205,7 @@ msgstr "외부 계정"
 
 #: app/Template/user_list/dropdown.php:51
 msgid "API Access"
-msgstr ""
+msgstr "API 액세스"
 
 #: app/Template/user_list/dropdown.php:57 app/Template/user_view/sidebar.php:13
 msgid "User dashboard"
@@ -6278,15 +6227,15 @@ msgstr "비밀번호 초기화 기록"
 
 #: app/Template/user_list/listing.php:5 app/Template/user_view/layout.php:9
 msgid "New user"
-msgstr ""
+msgstr "새 사용자"
 
 #: app/Template/user_list/listing.php:29
 msgid "No users found."
-msgstr ""
+msgstr "사용자를 찾을 수 없습니다."
 
 #: app/Template/user_list/sort_menu.php:5
 msgid "User ID"
-msgstr ""
+msgstr "사용자 ID"
 
 #: app/Template/user_list/sort_menu.php:17
 msgid "Account type"
@@ -6299,22 +6248,22 @@ msgstr "이중"
 #: app/Template/user_list/user_details.php:16
 #, php-format
 msgid "%s is a member of the following group(s): %s"
-msgstr ""
+msgstr "%s 다음 그룹의 회원입니다: %s"
 
 #: app/Template/user_list/user_details.php:21
 #, php-format
 msgid "%d/%d group(s) shown"
-msgstr ""
+msgstr "%d/%d 그룹 표시됨"
 
 #: app/Template/user_list/user_icons.php:3
 #: app/Template/user_list/user_icons.php:4
 msgid "Notifications are activated"
-msgstr ""
+msgstr "알림이 활성화됨"
 
 #: app/Template/user_list/user_icons.php:9
 #: app/Template/user_list/user_icons.php:10
 msgid "Notifications are disabled"
-msgstr ""
+msgstr "알림이 비활성화됨"
 
 #: app/Template/user_list/user_icons.php:15
 #: app/Template/user_list/user_icons.php:16 app/Template/user_view/show.php:19
@@ -6328,7 +6277,7 @@ msgstr "다음동안 계정이 잠겼습니다:"
 #: app/Template/user_list/user_icons.php:55
 #: app/Template/user_list/user_icons.php:56
 msgid "User disabled"
-msgstr ""
+msgstr "사용자 비활성화"
 
 #: app/Template/user_modification/show.php:2
 msgid "Edit user"
@@ -6336,7 +6285,7 @@ msgstr "사용자를 변경하는 "
 
 #: app/Template/user_modification/show.php:35
 msgid "Application role"
-msgstr ""
+msgstr "애플리케이션 역할"
 
 #: app/Template/user_status/disable.php:2
 msgid "Disable user"
@@ -6460,7 +6409,7 @@ msgstr "역할: "
 
 #: app/Template/user_view/show.php:17
 msgid "Group membership(s):"
-msgstr ""
+msgstr "그룹 멤버십:"
 
 #: app/Template/user_view/show.php:18
 msgid "Account type:"
@@ -6496,7 +6445,7 @@ msgstr "언어:"
 
 #: app/Template/user_view/show.php:37
 msgid "Custom Filter:"
-msgstr ""
+msgstr "사용자 지정 필터:"
 
 #: app/Template/user_view/show.php:38
 msgid "Notifications:"
@@ -6533,12 +6482,12 @@ msgstr "알림이 없습니다"
 #: app/Template/web_notification/show.php:20
 #, php-format
 msgid "%d notifications"
-msgstr ""
+msgstr "%d 알림"
 
 #: app/Template/web_notification/show.php:22
 #, php-format
 msgid "%d notification"
-msgstr ""
+msgstr "%d 알림"
 
 #: app/Template/web_notification/show.php:63
 msgid "Mark as read"
@@ -6694,7 +6643,7 @@ msgstr "식별자는 유일해야 합니다"
 
 #: app/Validator/ProjectValidator.php:38
 msgid "The project email must be unique across all projects"
-msgstr ""
+msgstr "프로젝트 이메일은 모든 프로젝트에서 고유해야 합니다."
 
 #: app/Validator/ProjectValidator.php:56
 msgid "The project name is required"
@@ -6752,11 +6701,11 @@ msgstr "날짜가 무효입니다"
 
 #: app/Validator/TaskValidator.php:59
 msgid "The start date is greater than the end date"
-msgstr ""
+msgstr "시작 날짜가 종료 날짜보다 큽니다."
 
 #: app/Validator/UserValidator.php:28
 msgid "This username is already taken"
-msgstr ""
+msgstr "이 사용자 이름은 이미 사용 중입니다."
 
 #: app/Validator/UserValidator.php:69 app/Validator/UserValidator.php:91
 #: app/Validator/UserValidator.php:112
@@ -6771,107 +6720,3 @@ msgstr "현재의 패스워드를 입력하세요"
 msgid "Wrong password"
 msgstr "패스워드가 다릅니다"
 
-#~ msgid "Yellow"
-#~ msgstr "노랑"
-
-#~ msgid "Blue"
-#~ msgstr "파랑"
-
-#~ msgid "Green"
-#~ msgstr "초록"
-
-#~ msgid "Purple"
-#~ msgstr "보라"
-
-#~ msgid "Red"
-#~ msgstr "빨강"
-
-#~ msgid "Orange"
-#~ msgstr "주황"
-
-#~ msgid "Grey"
-#~ msgstr "회색"
-
-#~ msgid "Brown"
-#~ msgstr "브라운"
-
-#~ msgid "Deep Orange"
-#~ msgstr "진홍"
-
-#~ msgid "Dark Grey"
-#~ msgstr "암회"
-
-#~ msgid "Pink"
-#~ msgstr "핑크"
-
-#~ msgid "Teal"
-#~ msgstr "암녹"
-
-#~ msgid "Cyan"
-#~ msgstr "청녹"
-
-#~ msgid "Lime"
-#~ msgstr "라임"
-
-#~ msgid "Light Green"
-#~ msgstr "연회"
-
-#~ msgid "Amber"
-#~ msgstr "호박"
-
-#~ msgid "Forbidden"
-#~ msgstr "접근 거부"
-
-#~ msgid "estimated"
-#~ msgstr "예측"
-
-#~ msgid "Todo"
-#~ msgstr "할일 예정"
-
-#~ msgid "In progress"
-#~ msgstr "할일 중"
-
-#~ msgid "relates to"
-#~ msgstr "연관 링크"
-
-#~ msgid "blocks"
-#~ msgstr "다음을 딜레이하는"
-
-#~ msgid "is blocked by"
-#~ msgstr "다음 때문에 딜레이되는"
-
-#~ msgid "duplicates"
-#~ msgstr "다음과 중복하는"
-
-#~ msgid "is duplicated by"
-#~ msgstr "다음에 중복되는"
-
-#~ msgid "is a child of"
-#~ msgstr "다음의 하위 할일"
-
-#~ msgid "is a parent of"
-#~ msgstr "다음의 상위 할일"
-
-#~ msgid "targets milestone"
-#~ msgstr "다음의 이정표를 목표로 하는"
-
-#~ msgid "is a milestone of"
-#~ msgstr "다음의 이정표인"
-
-#~ msgid "fixes"
-#~ msgstr "다음을 수정하는"
-
-#~ msgid "is fixed by"
-#~ msgstr "다음에 의해 수정되는"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "\"%s\" 관리자의 프로젝트"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "\"%s\" 맴버의 프로젝트"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "\"%s\"에게 할당된 할일 시작하기"
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "\"%s\"에게 할당된 할일 종료하기"

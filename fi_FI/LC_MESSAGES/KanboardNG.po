@@ -1,24 +1,38 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: fi_FI\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Finnish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: fi_FI\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
-msgstr ""
+msgstr "Luo kommentti ulkoiselta palveluntarjoajalta"
 
 #: app/Action/CommentCreationMoveTaskColumn.php:23
 msgid "Add a comment log when moving the task between columns"
-msgstr ""
+msgstr "Lisää kommenttiloki, kun tehtävä siirretään sarakkeiden välillä."
 
 #: app/Action/CommentCreationMoveTaskColumn.php:47
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:49
@@ -52,20 +66,19 @@ msgstr "Sarake"
 #: app/Action/CommentCreationMoveTaskColumn.php:83
 #, php-format
 msgid "Moved to column %s"
-msgstr ""
+msgstr "Siirretty sarakkeeseen %s"
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
+msgstr "Pysäytä kaikkien osatehtävien ajastin, kun siirrät tehtävän toiseen sarakkeeseen."
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Lisää alatehtävä ja aktivoi ajastin, kun siirrät tehtävän toiseen sarakkeeseen."
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
-msgstr ""
+msgstr "Osatehtävän nimi"
 
 #: app/Action/TaskAssignCategoryColor.php:23
 msgid "Assign automatically a category based on a color"
@@ -114,17 +127,17 @@ msgstr "Label"
 
 #: app/Action/TaskAssignCategoryLink.php:24
 msgid "Assign automatically a category based on a link"
-msgstr ""
+msgstr "Määritä automaattisesti luokka linkin perusteella"
 
 #: app/Action/TaskAssignCategoryLink.php:50
 #: app/Action/TaskAssignColorLink.php:49
 #: app/Template/task_external_link/find.php:19
 msgid "Link type"
-msgstr ""
+msgstr "Linkin tyyppi"
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:23
 msgid "Assign a category when the task is moved to a specific swimlane"
-msgstr ""
+msgstr "Määritä luokka, kun tehtävä siirretään tietylle uimatasolle."
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:49
 #: app/Action/TaskAssignColorSwimlane.php:49
@@ -136,7 +149,7 @@ msgstr ""
 #: app/Template/task_list/sort_menu.php:8
 #: app/Template/task_move_position/show.php:11
 msgid "Swimlane"
-msgstr ""
+msgstr "Swimlane"
 
 #: app/Action/TaskAssignColorCategory.php:23
 msgid "Assign automatically a color based on a category"
@@ -144,23 +157,23 @@ msgstr "Aseta väri automaattisesti kategorian mukaan"
 
 #: app/Action/TaskAssignColorColumn.php:23
 msgid "Assign a color when the task is moved to a specific column"
-msgstr ""
+msgstr "Määritä väri, kun tehtävä siirretään tiettyyn sarakkeeseen."
 
 #: app/Action/TaskAssignColorLink.php:23
 msgid "Change task color when using a specific task link"
-msgstr ""
+msgstr "Vaihda tehtävän väriä, kun käytät tiettyä tehtävälinkkiä"
 
 #: app/Action/TaskAssignColorOnDueDate.php:24
 msgid "Assign automatically a color when due date is expired"
-msgstr ""
+msgstr "Määritä automaattisesti väri, kun eräpäivä on umpeutunut."
 
 #: app/Action/TaskAssignColorOnStartDate.php:24
 msgid "Assign automatically a color when preset start date is reached"
-msgstr ""
+msgstr "Määrittää automaattisesti värin, kun esiasetettu aloituspäivä on saavutettu."
 
 #: app/Action/TaskAssignColorPriority.php:23
 msgid "Assign automatically a color based on a priority"
-msgstr ""
+msgstr "Määritä automaattisesti väri prioriteetin perusteella"
 
 #: app/Action/TaskAssignColorPriority.php:49
 #: app/Action/TaskAssignPrioritySwimlane.php:50 app/Export/TaskExport.php:165
@@ -168,11 +181,11 @@ msgstr ""
 #: app/Template/dashboard/subtasks.php:27
 #: app/Template/task_list/sort_menu.php:17
 msgid "Priority"
-msgstr ""
+msgstr "Prioriteetti"
 
 #: app/Action/TaskAssignColorSwimlane.php:23
 msgid "Assign a color when the task is moved to a specific swimlane"
-msgstr ""
+msgstr "Määritä väri, kun tehtävä siirretään tietylle uimatasolle."
 
 #: app/Action/TaskAssignColorUser.php:23
 msgid "Assign a color to a specific user"
@@ -195,20 +208,19 @@ msgstr "Suorittaja"
 
 #: app/Action/TaskAssignCreator.php:23
 msgid "Assign the task to its creator"
-msgstr ""
+msgstr "Määritä tehtävä sen luojalle"
 
 #: app/Action/TaskAssignCurrentUser.php:23
 msgid "Assign the task to the person who does the action"
 msgstr "Määritä suorittaja tehtävälle"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
-msgstr ""
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "Määritä tehtävä henkilölle, joka tekee toimenpiteen, kun saraketta muutetaan."
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
 msgid "Automatically set the due date on task creation"
-msgstr ""
+msgstr "Aseta eräpäivä automaattisesti tehtävää luotaessa"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:48
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:48
@@ -219,17 +231,15 @@ msgstr ""
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:46
 #: app/Action/TaskMoveColumnOnDueDate.php:45
 msgid "Duration in days"
-msgstr ""
+msgstr "Kesto päivinä"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
-msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr "Aseta eräpäivä automaattisesti, kun tehtävä siirretään pois tietystä sarakkeesta."
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
-msgstr ""
+msgstr "Määritä prioriteetti, kun tehtävä siirretään tietylle uimatasolle."
 
 #: app/Action/TaskAssignSpecificUser.php:23
 msgid "Assign the task to a specific user"
@@ -240,10 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "Vaihda tehtävän saajaa perustuen ulkoiseen käyttäjänimeen"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "Määritä tehtävä tietylle käyttäjälle, kun tehtävä siirretään tietylle uimakaistalle."
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -251,19 +259,19 @@ msgstr "Sulje tehtävä"
 
 #: app/Action/TaskCloseColumn.php:23
 msgid "Close a task in a specific column"
-msgstr ""
+msgstr "Sulje tehtävä tietyssä sarakkeessa"
 
 #: app/Action/TaskCloseNoActivity.php:23
 msgid "Close a task when there is no activity"
-msgstr ""
+msgstr "Sulje tehtävä, kun toimintaa ei ole"
 
 #: app/Action/TaskCloseNoActivityColumn.php:23
 msgid "Close a task when there is no activity in a specific column"
-msgstr ""
+msgstr "Sulje tehtävä, kun tietyssä sarakkeessa ei ole toimintaa."
 
 #: app/Action/TaskCloseNotMovedColumn.php:23
 msgid "Close a task in a specific column when not moved during a given period"
-msgstr ""
+msgstr "Sulje tehtävä tietyssä sarakkeessa, kun sitä ei ole siirretty tietyn ajanjakson aikana."
 
 #: app/Action/TaskCreation.php:21
 msgid "Create a task from an external provider"
@@ -287,19 +295,19 @@ msgstr "Projekti"
 
 #: app/Action/TaskEmail.php:23
 msgid "Send a task by email to someone"
-msgstr ""
+msgstr "Lähetä tehtävä sähköpostitse jollekin"
 
 #: app/Action/TaskEmail.php:51 app/Action/TaskEmailNoActivity.php:48
 msgid "User that will receive the email"
-msgstr ""
+msgstr "Käyttäjä, joka saa sähköpostin"
 
 #: app/Action/TaskEmail.php:52 app/Action/TaskEmailNoActivity.php:49
 msgid "Email subject"
-msgstr ""
+msgstr "Sähköpostin aihe"
 
 #: app/Action/TaskEmailNoActivity.php:23
 msgid "Send email when there is no activity on a task"
-msgstr ""
+msgstr "Lähetä sähköpostia, kun tehtävässä ei ole toimintaa"
 
 #: app/Action/TaskMoveAnotherProject.php:23
 #: app/Template/task_duplication/move.php:2
@@ -308,7 +316,7 @@ msgstr "Siirrä tehtävä toiseen projektiin"
 
 #: app/Action/TaskMoveColumnAssigned.php:23
 msgid "Move the task to another column when assigned to a user"
-msgstr ""
+msgstr "Siirrä tehtävä toiseen sarakkeeseen, kun se on osoitettu käyttäjälle."
 
 #: app/Action/TaskMoveColumnAssigned.php:49
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:47
@@ -319,7 +327,7 @@ msgstr ""
 #: app/Template/column_move_restriction/create.php:9
 #: app/Template/task/transitions.php:18
 msgid "Source column"
-msgstr ""
+msgstr "Lähdepylväs"
 
 #: app/Action/TaskMoveColumnAssigned.php:50
 #: app/Action/TaskMoveColumnCategoryChange.php:50
@@ -332,46 +340,44 @@ msgstr ""
 #: app/Template/column_move_restriction/create.php:12
 #: app/Template/task/transitions.php:19
 msgid "Destination column"
-msgstr ""
+msgstr "Määränpää-sarake"
 
 #: app/Action/TaskMoveColumnCategoryChange.php:23
 msgid "Move the task to another column when the category is changed"
-msgstr ""
+msgstr "Siirrä tehtävä toiseen sarakkeeseen, kun luokkaa muutetaan."
 
 #: app/Action/TaskMoveColumnClosed.php:23
 msgid "Move the task to another column when closed"
-msgstr ""
+msgstr "Siirrä tehtävä toiseen sarakkeeseen, kun se suljetaan"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
+msgstr "Siirrä tehtävä toiseen sarakkeeseen, jos sitä ei ole siirretty tietyn ajanjakson aikana."
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "Siirrä tehtävä toiseen sarakkeeseen, kun eräpäivä on alle tietyn määrän päiviä."
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
-msgstr ""
+msgstr "Siirrä tehtävä toiseen sarakkeeseen, kun ennalta määritetty aloituspäivä on saavutettu."
 
 #: app/Action/TaskMoveColumnUnAssigned.php:23
 msgid "Move the task to another column when assignee is cleared"
-msgstr ""
+msgstr "Siirrä tehtävä toiseen sarakkeeseen, kun vastaanottaja on tyhjennetty."
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:23
 msgid "Move the task to another swimlane when assigned to a user"
-msgstr ""
+msgstr "Siirrä tehtävä toiselle uima-altaalle, kun se on osoitettu käyttäjälle."
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:52
 #: app/Action/TaskMoveSwimlaneCategoryChange.php:48
 msgid "Destination swimlane"
-msgstr ""
+msgstr "Määränpää uimarata"
 
 #: app/Action/TaskMoveSwimlaneCategoryChange.php:23
 msgid "Move the task to another swimlane when the category is changed"
-msgstr ""
+msgstr "Siirrä tehtävä toiselle uimakaistalle, kun luokkaa muutetaan."
 
 #: app/Action/TaskOpen.php:21 app/Template/task_status/open.php:2
 msgid "Open a task"
@@ -379,17 +385,15 @@ msgstr "Avaa tehtävä"
 
 #: app/Action/TaskUpdateStartDate.php:23
 msgid "Automatically update the start date"
-msgstr ""
+msgstr "Päivitä aloituspäivämäärä automaattisesti"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "Päivitä aloituspäivämäärä automaattisesti, kun tehtävä siirretään pois tietystä sarakkeesta."
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
-msgstr ""
+msgstr "Aikaan perustuva kertakäyttösalasana-algoritmi"
 
 #: app/Controller/ActionController.php:37 app/Template/project/sidebar.php:49
 msgid "Automatic actions"
@@ -418,7 +422,7 @@ msgstr "Automaattisen toiminnon luominen epäonnistui."
 #: app/Controller/ActivityController.php:23
 #, php-format
 msgid "Activity stream for %s"
-msgstr ""
+msgstr "Aktiviteettivirta osoitteessa %s"
 
 #: app/Controller/ActivityController.php:39 app/Template/activity/project.php:2
 #: app/Template/feed/project.php:3
@@ -429,18 +433,18 @@ msgstr "Henkilön %s toiminta"
 #: app/Controller/AnalyticController.php:34
 #: app/Template/analytic/sidebar.php:19
 msgid "Lead and cycle time"
-msgstr ""
+msgstr "Läpimeno- ja läpimenoaika"
 
 #: app/Controller/AnalyticController.php:61
 #: app/Template/analytic/sidebar.php:22
 #: app/Template/analytic/time_comparison.php:3
 msgid "Estimated vs actual time"
-msgstr ""
+msgstr "Arvioitu vs. todellinen aika"
 
 #: app/Controller/AnalyticController.php:77
 #: app/Template/analytic/sidebar.php:16
 msgid "Average time into each column"
-msgstr ""
+msgstr "Keskimääräinen aika kuhunkin sarakkeeseen"
 
 #: app/Controller/AnalyticController.php:93 app/Template/analytic/sidebar.php:4
 #: app/Template/analytic/task_distribution.php:3
@@ -451,7 +455,7 @@ msgstr "Tehtävien jakauma"
 #: app/Template/analytic/sidebar.php:7
 #: app/Template/analytic/user_distribution.php:3
 msgid "User repartition"
-msgstr ""
+msgstr "Käyttäjän uudelleenjako"
 
 #: app/Controller/AnalyticController.php:120 app/Template/analytic/cfd.php:3
 #: app/Template/analytic/sidebar.php:10
@@ -461,13 +465,13 @@ msgstr "Kumulatiivinen vuokaavio"
 #: app/Controller/AnalyticController.php:130
 #: app/Template/analytic/burndown.php:3 app/Template/analytic/sidebar.php:13
 msgid "Burndown chart"
-msgstr ""
+msgstr "Burndown-kaavio"
 
 #: app/Controller/AnalyticController.php:145
 #: app/Template/analytic/estimated_actual_column.php:3
 #: app/Template/analytic/sidebar.php:25
 msgid "Estimated vs actual time per column"
-msgstr ""
+msgstr "Arvioitu ja todellinen aika saraketta kohti"
 
 #: app/Controller/AppController.php:25 app/Controller/AppController.php:28
 #: app/Template/app/forbidden.php:3
@@ -484,13 +488,11 @@ msgstr "Sisäänkirjautuminen"
 
 #: app/Controller/AvatarFileController.php:37
 msgid "You must select a file to upload as your avatar!"
-msgstr ""
+msgstr "Sinun on valittava tiedosto, jonka voit ladata avatariksesi!"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "Lataamasi tiedosto ei ole kelvollinen kuva! (Vain *.gif, *.jpg, *.jpeg ja *.png ovat sallittuja!)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -498,18 +500,16 @@ msgstr ""
 #: app/Controller/TaskFileController.php:60
 #: app/Controller/TaskFileController.php:66
 msgid "Unable to upload files, check the permissions of your data folder."
-msgstr ""
+msgstr "Tiedostojen lataaminen ei onnistu, tarkista datakansiosi käyttöoikeudet."
 
 #: app/Controller/BoardAjaxController.php:34
 msgid "You don't have the permission to move this task"
-msgstr ""
+msgstr "Sinulla ei ole lupaa siirtää tätä tehtävää."
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
-msgstr ""
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "Kaikki sarakkeen \"%s\" ja uimakaistan \"%s\" tehtävät on suljettu onnistuneesti."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
 #: app/Template/project/sidebar.php:35
@@ -524,7 +524,7 @@ msgstr "Kategoria luotiin onnistuneesti."
 
 #: app/Controller/CategoryController.php:70
 msgid "Another category with the same name exists in this project"
-msgstr ""
+msgstr "Tässä projektissa on toinenkin samanniminen luokka."
 
 #: app/Controller/CategoryController.php:116
 msgid "This category has been updated successfully."
@@ -544,15 +544,15 @@ msgstr "Kategorian poisto epäonnistui."
 
 #: app/Controller/ColumnController.php:28
 msgid "Edit columns"
-msgstr ""
+msgstr "Muokkaa sarakkeita"
 
 #: app/Controller/ColumnController.php:78
 msgid "Column created successfully."
-msgstr ""
+msgstr "Sarake luotu onnistuneesti."
 
 #: app/Controller/ColumnController.php:82
 msgid "Another column with the same name exists in the project"
-msgstr ""
+msgstr "Projektissa on toinen samanniminen sarake."
 
 #: app/Controller/ColumnController.php:135
 msgid "Board updated successfully."
@@ -573,23 +573,23 @@ msgstr "Sarakkeen poistaminen ei onnistunut."
 #: app/Controller/ColumnMoveRestrictionController.php:57
 #: app/Controller/ColumnRestrictionController.php:57
 msgid "The column restriction has been created successfully."
-msgstr ""
+msgstr "Sarakkeen rajoitus on luotu onnistuneesti."
 
 #: app/Controller/ColumnMoveRestrictionController.php:59
 #: app/Controller/ColumnRestrictionController.php:59
 msgid "Unable to create this column restriction."
-msgstr ""
+msgstr "Tätä sarakkeen rajoitusta ei pystytä luomaan."
 
 #: app/Controller/ColumnMoveRestrictionController.php:96
 #: app/Controller/ColumnRestrictionController.php:96
 msgid "Column restriction removed successfully."
-msgstr ""
+msgstr "Sarakkeen rajoitus poistettu onnistuneesti."
 
 #: app/Controller/ColumnMoveRestrictionController.php:98
 #: app/Controller/ColumnRestrictionController.php:98
 #: app/Controller/ProjectRoleRestrictionController.php:91
 msgid "Unable to remove this restriction."
-msgstr ""
+msgstr "Tätä rajoitusta ei voida poistaa."
 
 #: app/Controller/CommentController.php:53
 #: app/Controller/CommentListController.php:37
@@ -623,12 +623,12 @@ msgstr "Kommentin poistaminen epäonnistui."
 
 #: app/Controller/CommentMailController.php:39
 msgid "Comment sent by email successfully."
-msgstr ""
+msgstr "Kommentti lähetetty sähköpostitse onnistuneesti."
 
 #: app/Controller/CommentMailController.php:67
 #, php-format
 msgid "Sent by email to \"%s\" (%s)"
-msgstr ""
+msgstr "Lähetetty sähköpostitse osoitteeseen \"%s\" (%s)"
 
 #: app/Controller/ConfigController.php:24
 #: app/Controller/ConfigController.php:74
@@ -667,13 +667,13 @@ msgstr "Ohjelman asetukset"
 #: app/Controller/ConfigController.php:94 app/Template/config/email.php:2
 #: app/Template/config/sidebar.php:10
 msgid "Email settings"
-msgstr ""
+msgstr "Sähköpostiasetukset"
 
 #: app/Controller/ConfigController.php:108 app/Template/config/project.php:2
 #: app/Template/config/sidebar.php:13
 #: app/Template/project_user_overview/roles.php:17
 msgid "Project settings"
-msgstr ""
+msgstr "Projektiasetukset"
 
 #: app/Controller/ConfigController.php:120 app/Template/config/board.php:2
 #: app/Template/config/sidebar.php:16
@@ -687,7 +687,7 @@ msgstr "Taulun asetukset"
 #: app/Template/user_view/integrations.php:2
 #: app/Template/user_view/sidebar.php:90
 msgid "Integrations"
-msgstr ""
+msgstr "Integraatiot"
 
 #: app/Controller/ConfigController.php:144 app/Template/config/webhook.php:2
 msgid "Webhook settings"
@@ -696,7 +696,7 @@ msgstr "Webhookin asetukset"
 #: app/Controller/ConfigController.php:156 app/Template/config/api.php:2
 #: app/Template/config/sidebar.php:34 app/Template/user_view/sidebar.php:95
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: app/Controller/ConfigController.php:181
 msgid "Database optimization done."
@@ -704,11 +704,11 @@ msgstr "Tietokannan optimointi suoritettu."
 
 #: app/Controller/ConfigController.php:206
 msgid "Unable to read uploaded file."
-msgstr ""
+msgstr "Ladattua tiedostoa ei pystytä lukemaan."
 
 #: app/Controller/ConfigController.php:208
 msgid "Database uploaded successfully."
-msgstr ""
+msgstr "Tietokanta ladattu onnistuneesti."
 
 #: app/Controller/ConfigController.php:226
 msgid "Token regenerated."
@@ -717,15 +717,15 @@ msgstr "Token uudelleenluotu."
 #: app/Controller/CurrencyController.php:24 app/Template/config/sidebar.php:25
 #: app/Template/currency/show.php:2
 msgid "Currency rates"
-msgstr ""
+msgstr "Valuuttakurssit"
 
 #: app/Controller/CurrencyController.php:56
 msgid "The currency rate has been added successfully."
-msgstr ""
+msgstr "Valuuttakurssi on lisätty onnistuneesti."
 
 #: app/Controller/CurrencyController.php:60
 msgid "Unable to add this currency rate."
-msgstr ""
+msgstr "Tätä valuuttakurssia ei voida lisätä."
 
 #: app/Controller/CustomFilterController.php:30
 #: app/Template/custom_filter/index.php:2 app/Template/project/sidebar.php:8
@@ -734,61 +734,61 @@ msgstr ""
 #: app/Template/project_header/search.php:30
 #: app/Template/project_view/duplicate.php:21
 msgid "Custom filters"
-msgstr ""
+msgstr "Mukautetut suodattimet"
 
 #: app/Controller/CustomFilterController.php:69
 msgid "Your custom filter has been created successfully."
-msgstr ""
+msgstr "Mukautettu suodattimesi on luotu onnistuneesti."
 
 #: app/Controller/CustomFilterController.php:73
 msgid "Unable to create your custom filter."
-msgstr ""
+msgstr "Mukautetun suodattimen luominen ei onnistu."
 
 #: app/Controller/CustomFilterController.php:93
 #: app/Template/custom_filter/remove.php:2
 msgid "Remove a custom filter"
-msgstr ""
+msgstr "Poista mukautettu suodatin"
 
 #: app/Controller/CustomFilterController.php:111
 msgid "Custom filter removed successfully."
-msgstr ""
+msgstr "Mukautettu suodatin poistettu onnistuneesti."
 
 #: app/Controller/CustomFilterController.php:113
 msgid "Unable to remove this custom filter."
-msgstr ""
+msgstr "Tätä mukautettua suodatinta ei voida poistaa."
 
 #: app/Controller/CustomFilterController.php:140
 #: app/Template/custom_filter/edit.php:2
 msgid "Edit custom filter"
-msgstr ""
+msgstr "Muokkaa mukautettua suodatinta"
 
 #: app/Controller/CustomFilterController.php:172
 msgid "Your custom filter has been updated successfully."
-msgstr ""
+msgstr "Mukautettu suodattimesi on päivitetty onnistuneesti."
 
 #: app/Controller/CustomFilterController.php:176
 msgid "Unable to update custom filter."
-msgstr ""
+msgstr "Mukautettua suodatinta ei voi päivittää."
 
 #: app/Controller/DashboardController.php:23
 #, php-format
 msgid "Dashboard for %s"
-msgstr ""
+msgstr "Dashboard for %s"
 
 #: app/Controller/DashboardController.php:40
 #, php-format
 msgid "Tasks overview for %s"
-msgstr ""
+msgstr "Tehtävien yleiskatsaus osoitteessa %s"
 
 #: app/Controller/DashboardController.php:56
 #, php-format
 msgid "Subtasks overview for %s"
-msgstr ""
+msgstr "Osatehtävien yleiskatsaus osoitteessa %s"
 
 #: app/Controller/DashboardController.php:73
 #, php-format
 msgid "Projects overview for %s"
-msgstr ""
+msgstr "Hankkeiden yleiskatsaus osoitteessa %s"
 
 #: app/Controller/ExportController.php:58 app/Template/export/header.php:5
 #: app/Template/project_creation/create.php:40
@@ -803,11 +803,11 @@ msgstr "Tehtävien vienti"
 
 #: app/Controller/ExportController.php:68 app/Template/export/header.php:8
 msgid "Subtasks"
-msgstr ""
+msgstr "Osatehtävät"
 
 #: app/Controller/ExportController.php:68
 msgid "Subtasks Export"
-msgstr ""
+msgstr "Osatehtävien vienti"
 
 #: app/Controller/ExportController.php:88 app/Template/project/sidebar.php:4
 #: app/Template/project_view/show.php:2 app/Template/task/sidebar.php:7
@@ -822,18 +822,18 @@ msgstr "Päivittäisen yhteenvedon vienti"
 #: app/Controller/ExportController.php:112 app/Template/task/sidebar.php:13
 #: app/Template/task/transitions.php:9
 msgid "Transitions"
-msgstr ""
+msgstr "Siirtymät"
 
 #: app/Controller/ExportController.php:112
 msgid "Task transitions export"
-msgstr ""
+msgstr "Tehtävän siirtymien vienti"
 
 #: app/Controller/ExternalTaskCreationController.php:89
 #: app/Controller/SubtaskConverterController.php:30
 #: app/Controller/TaskBulkController.php:54
 #: app/Controller/TaskCreationController.php:60
 msgid "You cannot create tasks in this column."
-msgstr ""
+msgstr "Tähän sarakkeeseen ei voi luoda tehtäviä."
 
 #: app/Controller/ExternalTaskCreationController.php:93
 #: app/Controller/TaskCreationController.php:66
@@ -844,174 +844,174 @@ msgstr "Tehtävä luotiin onnistuneesti."
 
 #: app/Controller/GroupCreationController.php:40
 msgid "Group created successfully."
-msgstr ""
+msgstr "Ryhmä luotu onnistuneesti."
 
 #: app/Controller/GroupCreationController.php:43
 msgid "Unable to create your group."
-msgstr ""
+msgstr "Ryhmää ei pystytä luomaan."
 
 #: app/Controller/GroupListController.php:38
 msgid "Groups"
-msgstr ""
+msgstr "Ryhmät"
 
 #: app/Controller/GroupListController.php:64
 #, php-format
 msgid "Members of %s"
-msgstr ""
+msgstr "Jäsenet %s"
 
 #: app/Controller/GroupListController.php:105
 msgid "Group member added successfully."
-msgstr ""
+msgstr "Ryhmän jäsen lisätty onnistuneesti."
 
 #: app/Controller/GroupListController.php:108
 msgid "Unable to add group member."
-msgstr ""
+msgstr "Ryhmän jäsenen lisääminen ei onnistu."
 
 #: app/Controller/GroupListController.php:145
 msgid "User removed successfully from this group."
-msgstr ""
+msgstr "Käyttäjä poistettu onnistuneesti tästä ryhmästä."
 
 #: app/Controller/GroupListController.php:147
 msgid "Unable to remove this user from the group."
-msgstr ""
+msgstr "Käyttäjää ei voida poistaa ryhmästä."
 
 #: app/Controller/GroupListController.php:179
 msgid "Group removed successfully."
-msgstr ""
+msgstr "Ryhmä poistettu onnistuneesti."
 
 #: app/Controller/GroupListController.php:181
 msgid "Unable to remove this group."
-msgstr ""
+msgstr "Tätä ryhmää ei voida poistaa."
 
 #: app/Controller/GroupModificationController.php:44
 msgid "Group updated successfully."
-msgstr ""
+msgstr "Ryhmä päivitetty onnistuneesti."
 
 #: app/Controller/GroupModificationController.php:47
 msgid "Unable to update your group."
-msgstr ""
+msgstr "Ryhmääsi ei pystytä päivittämään."
 
 #: app/Controller/LinkController.php:43 app/Template/config/sidebar.php:22
 #: app/Template/link/show.php:2 app/Template/link/show.php:12
 msgid "Link labels"
-msgstr ""
+msgstr "Linkkien merkinnät"
 
 #: app/Controller/LinkController.php:75
 #: app/Controller/TaskExternalLinkController.php:83
 #: app/Controller/TaskInternalLinkController.php:57
 msgid "Link added successfully."
-msgstr ""
+msgstr "Linkki lisätty onnistuneesti."
 
 #: app/Controller/LinkController.php:79
 #: app/Controller/TaskExternalLinkController.php:85
 #: app/Controller/TaskInternalLinkController.php:72
 msgid "Unable to create your link."
-msgstr ""
+msgstr "Linkkiä ei pystytä luomaan."
 
 #: app/Controller/LinkController.php:119
 #: app/Controller/TaskExternalLinkController.php:142
 #: app/Controller/TaskInternalLinkController.php:125
 msgid "Link updated successfully."
-msgstr ""
+msgstr "Linkki päivitetty onnistuneesti."
 
 #: app/Controller/LinkController.php:123
 #: app/Controller/TaskInternalLinkController.php:129
 msgid "Unable to update your link."
-msgstr ""
+msgstr "Linkkiäsi ei pystytä päivittämään."
 
 #: app/Controller/LinkController.php:155
 #: app/Controller/TaskExternalLinkController.php:177
 #: app/Controller/TaskInternalLinkController.php:163
 msgid "Link removed successfully."
-msgstr ""
+msgstr "Linkki poistettu onnistuneesti."
 
 #: app/Controller/LinkController.php:157
 #: app/Controller/TaskExternalLinkController.php:179
 #: app/Controller/TaskInternalLinkController.php:165
 msgid "Unable to remove this link."
-msgstr ""
+msgstr "Tätä linkkiä ei voida poistaa."
 
 #: app/Controller/OAuthController.php:51 app/Controller/OAuthController.php:58
 msgid "The OAuth2 state parameter is invalid"
-msgstr ""
+msgstr "OAuth2-tilaparametri on virheellinen."
 
 #: app/Controller/OAuthController.php:72 app/Controller/OAuthController.php:111
 msgid "External authentication failed"
-msgstr ""
+msgstr "Ulkoinen todennus epäonnistui"
 
 #: app/Controller/OAuthController.php:75
 msgid "Your external account is linked to your profile successfully."
-msgstr ""
+msgstr "Ulkoinen tilisi on onnistuneesti yhdistetty profiiliisi."
 
 #: app/Controller/OAuthController.php:92
 msgid "Your external account is not linked anymore to your profile."
-msgstr ""
+msgstr "Ulkoinen tilisi ei ole enää yhteydessä profiiliisi."
 
 #: app/Controller/OAuthController.php:94
 msgid "Unable to unlink your external account."
-msgstr ""
+msgstr "Ulkoista tiliäsi ei pystytä poistamaan."
 
 #: app/Controller/PasswordResetController.php:117
 msgid "Password Reset for Kanboard"
-msgstr ""
+msgstr "Salasanan palautus käyttäjälle Kanboard"
 
 #: app/Controller/PluginController.php:27 app/Template/plugin/show.php:42
 #: app/Template/plugin/sidebar.php:4
 msgid "Installed Plugins"
-msgstr ""
+msgstr "Asennetut lisäosat"
 
 #: app/Controller/PluginController.php:46 app/Template/plugin/directory.php:2
 #: app/Template/plugin/sidebar.php:7
 msgid "Plugin Directory"
-msgstr ""
+msgstr "Plugin-hakemisto"
 
 #: app/Controller/PluginController.php:64
 msgid "Plugin installed successfully."
-msgstr ""
+msgstr "Liitännäinen asennettu onnistuneesti."
 
 #: app/Controller/PluginController.php:85
 msgid "Plugin updated successfully."
-msgstr ""
+msgstr "Plugin päivitetty onnistuneesti."
 
 #: app/Controller/PluginController.php:123
 msgid "Plugin removed successfully."
-msgstr ""
+msgstr "Liitännäinen poistettu onnistuneesti."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:35
 msgid "Template created successfully."
-msgstr ""
+msgstr "Malli luotu onnistuneesti."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:37
 msgid "Unable to create this template."
-msgstr ""
+msgstr "Tätä mallia ei pystytä luomaan."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:69
 msgid "Template updated successfully."
-msgstr ""
+msgstr "Malli päivitetty onnistuneesti."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:71
 msgid "Unable to update this template."
-msgstr ""
+msgstr "Tätä mallia ei voida päivittää."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:98
 msgid "Template removed successfully."
-msgstr ""
+msgstr "Malli poistettu onnistuneesti."
 
 #: app/Controller/PredefinedTaskDescriptionController.php:100
 msgid "Unable to remove this template."
-msgstr ""
+msgstr "Tätä mallia ei voida poistaa."
 
 #: app/Controller/ProjectActionDuplicationController.php:31
 msgid "Actions duplicated successfully."
-msgstr ""
+msgstr "Toimet monistettu onnistuneesti."
 
 #: app/Controller/ProjectActionDuplicationController.php:33
 msgid "Unable to duplicate actions."
-msgstr ""
+msgstr "Toimintoja ei voi kopioida."
 
 #: app/Controller/ProjectCreationController.php:23
 msgid "Do not duplicate anything"
-msgstr ""
+msgstr "Älä kopioi mitään"
 
 #: app/Controller/ProjectCreationController.php:30
 #: app/Template/dashboard/layout.php:11
@@ -1084,61 +1084,61 @@ msgstr "Projektit"
 
 #: app/Controller/ProjectPermissionController.php:58
 msgid "Project Permissions"
-msgstr ""
+msgstr "Projektin käyttöoikeudet"
 
 #: app/Controller/ProjectPermissionController.php:77
 msgid "User not found."
-msgstr ""
+msgstr "Käyttäjää ei löydy."
 
 #: app/Controller/ProjectPermissionController.php:155
 msgid "Unable to find this group."
-msgstr ""
+msgstr "Tätä ryhmää ei löydy."
 
 #: app/Controller/ProjectPredefinedContentController.php:22
 #: app/Template/project_predefined_content/show.php:2
 msgid "Predefined Contents"
-msgstr ""
+msgstr "Ennalta määritetty sisältö"
 
 #: app/Controller/ProjectRoleController.php:25
 #: app/Template/project_role/show.php:2
 msgid "Custom Project Roles"
-msgstr ""
+msgstr "Mukautetut projektiroolit"
 
 #: app/Controller/ProjectRoleController.php:61
 msgid "Your custom project role has been created successfully."
-msgstr ""
+msgstr "Mukautettu projektiroolisi on luotu onnistuneesti."
 
 #: app/Controller/ProjectRoleController.php:63
 msgid "Unable to create custom project role."
-msgstr ""
+msgstr "Mukautetun projektiroolin luominen ei onnistu."
 
 #: app/Controller/ProjectRoleController.php:110
 msgid "Your custom project role has been updated successfully."
-msgstr ""
+msgstr "Mukautettu projektiroolisi on päivitetty onnistuneesti."
 
 #: app/Controller/ProjectRoleController.php:112
 msgid "Unable to update custom project role."
-msgstr ""
+msgstr "Mukautettua projektiroolia ei voida päivittää."
 
 #: app/Controller/ProjectRoleController.php:149
 msgid "Custom project role removed successfully."
-msgstr ""
+msgstr "Mukautettu projektirooli poistettu onnistuneesti."
 
 #: app/Controller/ProjectRoleController.php:151
 msgid "Unable to remove this project role."
-msgstr ""
+msgstr "Tätä projektiroolia ei voida poistaa."
 
 #: app/Controller/ProjectRoleRestrictionController.php:52
 msgid "The project restriction has been created successfully."
-msgstr ""
+msgstr "Projektin rajoitus on luotu onnistuneesti."
 
 #: app/Controller/ProjectRoleRestrictionController.php:54
 msgid "Unable to create this project restriction."
-msgstr ""
+msgstr "Tätä projektirajoitusta ei voida luoda."
 
 #: app/Controller/ProjectRoleRestrictionController.php:89
 msgid "Project restriction removed successfully."
-msgstr ""
+msgstr "Projektin rajoitus poistettu onnistuneesti."
 
 #: app/Controller/ProjectStatusController.php:34
 msgid "Project activated successfully."
@@ -1171,47 +1171,47 @@ msgstr "Projektin poistaminen epäonnistui."
 
 #: app/Controller/ProjectTagController.php:21
 msgid "Project tags management"
-msgstr ""
+msgstr "Hankkeen tunnisteiden hallinta"
 
 #: app/Controller/ProjectTagController.php:47
 #: app/Controller/TagController.php:44
 msgid "Tag created successfully."
-msgstr ""
+msgstr "Tunniste luotu onnistuneesti."
 
 #: app/Controller/ProjectTagController.php:49
 #: app/Controller/TagController.php:46
 msgid "Unable to create this tag."
-msgstr ""
+msgstr "Tätä tunnistetta ei pystytä luomaan."
 
 #: app/Controller/ProjectTagController.php:88
 #: app/Controller/ProjectTagController.php:152
 #: app/Controller/TagController.php:85
 msgid "Tag updated successfully."
-msgstr ""
+msgstr "Tag päivitetty onnistuneesti."
 
 #: app/Controller/ProjectTagController.php:90
 #: app/Controller/ProjectTagController.php:154
 #: app/Controller/TagController.php:87
 msgid "Unable to update this tag."
-msgstr ""
+msgstr "Tätä tunnistetta ei voida päivittää."
 
 #: app/Controller/ProjectTagController.php:117
 #: app/Controller/TagController.php:117
 msgid "Tag removed successfully."
-msgstr ""
+msgstr "Tag poistettu onnistuneesti."
 
 #: app/Controller/ProjectTagController.php:119
 #: app/Controller/TagController.php:119
 msgid "Unable to remove this tag."
-msgstr ""
+msgstr "Tunnistetta ei voida poistaa."
 
 #: app/Controller/ProjectUserOverviewController.php:88
 msgid "People who are project managers"
-msgstr ""
+msgstr "Projektipäälliköt"
 
 #: app/Controller/ProjectUserOverviewController.php:97
 msgid "People who are project members"
-msgstr ""
+msgstr "Projektin jäseninä olevat henkilöt"
 
 #: app/Controller/ProjectUserOverviewController.php:106
 #: app/Template/activity/filter_dropdown.php:9
@@ -1219,7 +1219,7 @@ msgstr ""
 #: app/Template/project_user_overview/sidebar.php:24
 #: app/Template/project_view/show.php:66 app/Template/swimlane/table.php:8
 msgid "Open tasks"
-msgstr ""
+msgstr "Avoimet tehtävät"
 
 #: app/Controller/ProjectUserOverviewController.php:115
 #: app/Template/activity/filter_dropdown.php:8
@@ -1227,7 +1227,7 @@ msgstr ""
 #: app/Template/project_user_overview/sidebar.php:27
 #: app/Template/project_view/show.php:67 app/Template/swimlane/table.php:9
 msgid "Closed tasks"
-msgstr ""
+msgstr "Päättyneet tehtävät"
 
 #: app/Controller/ProjectViewController.php:41
 #: app/Controller/UserViewController.php:226
@@ -1263,23 +1263,23 @@ msgstr "Projektin kahdennus epäonnistui"
 #: app/Template/project/sidebar.php:55
 #: app/Template/project_view/importTasks.php:2
 msgid "Import Tasks"
-msgstr ""
+msgstr "Tuo tehtävät"
 
 #: app/Controller/ProjectViewController.php:216
 msgid "Tasks copied successfully."
-msgstr ""
+msgstr "Tehtävät kopioitu onnistuneesti."
 
 #: app/Controller/ProjectViewController.php:218
 msgid "Unable to copy tasks."
-msgstr ""
+msgstr "Tehtävien kopiointi ei onnistu."
 
 #: app/Controller/SearchController.php:48 app/Template/search/activity.php:4
 msgid "Search tasks"
-msgstr ""
+msgstr "Hakutehtävät"
 
 #: app/Controller/SearchController.php:64
 msgid "Search in activity stream"
-msgstr ""
+msgstr "Haku aktiviteettivirrassa"
 
 #: app/Controller/SubtaskController.php:88
 msgid "Unable to create your sub-task."
@@ -1287,12 +1287,12 @@ msgstr "Alitehtävän luonti epäonnistui."
 
 #: app/Controller/SubtaskController.php:107 app/Template/subtask/create.php:8
 msgid "Subtask added successfully."
-msgstr ""
+msgstr "Alatehtävä lisätty onnistuneesti."
 
 #: app/Controller/SubtaskController.php:109 app/Template/subtask/create.php:10
 #, php-format
 msgid "%d subtasks added successfully."
-msgstr ""
+msgstr "%d osatehtävät lisätty onnistuneesti."
 
 #: app/Controller/SubtaskController.php:158
 msgid "Sub-task updated successfully."
@@ -1312,11 +1312,11 @@ msgstr "Alitehtävän poistaminen epäonnistui."
 
 #: app/Controller/SubtaskConverterController.php:38
 msgid "Subtask converted to task successfully."
-msgstr ""
+msgstr "Osatehtävä muunnettu tehtäväksi onnistuneesti."
 
 #: app/Controller/SubtaskConverterController.php:40
 msgid "Unable to convert the subtask."
-msgstr ""
+msgstr "Osatehtävää ei pystytä muuntamaan."
 
 #: app/Controller/SwimlaneController.php:29 app/Template/project/sidebar.php:32
 #: app/Template/swimlane/index.php:2
@@ -1330,7 +1330,7 @@ msgstr "Kaista luotu onnistuneesti."
 #: app/Controller/SwimlaneController.php:71
 #: app/Controller/SwimlaneController.php:118
 msgid "Another swimlane with the same name exists in the project"
-msgstr ""
+msgstr "Projektissa on olemassa toinen samanniminen swimlane."
 
 #: app/Controller/SwimlaneController.php:115
 #: app/Controller/SwimlaneController.php:173
@@ -1353,12 +1353,12 @@ msgstr "Kaistan päivittäminen epäonnistui."
 
 #: app/Controller/TagController.php:20
 msgid "Global tags management"
-msgstr ""
+msgstr "Globaalien tunnisteiden hallinta"
 
 #: app/Controller/TaskBulkMoveColumnController.php:36
 #: app/Controller/TaskMovePositionController.php:39
 msgid "You are not allowed to move this task."
-msgstr ""
+msgstr "Et saa siirtää tätä tehtävää."
 
 #: app/Controller/TaskCreationController.php:57
 #: app/Controller/TaskDuplicationController.php:94
@@ -1384,51 +1384,51 @@ msgstr "Tehtävän muokkaaminen epäonnistui."
 
 #: app/Controller/TaskExternalLinkController.php:63
 msgid "Unable to fetch link information."
-msgstr ""
+msgstr "Linkkitietoja ei pystytä hakemaan."
 
 #: app/Controller/TaskFileController.php:23
 msgid "Screenshot uploaded successfully."
-msgstr ""
+msgstr "Kuvakaappaus ladattu onnistuneesti."
 
 #: app/Controller/TaskImportController.php:47
 #: app/Controller/UserImportController.php:48
 msgid "Unable to read your file"
-msgstr ""
+msgstr "Tiedostoa ei pystytä lukemaan"
 
 #: app/Controller/TaskImportController.php:57
 #, php-format
 msgid "%d task(s) have been imported successfully."
-msgstr ""
+msgstr "%d tehtävä(t) on tuotu onnistuneesti."
 
 #: app/Controller/TaskImportController.php:59
 #: app/Controller/UserImportController.php:81
 msgid "Nothing has been imported!"
-msgstr ""
+msgstr "Mitään ei ole tuotu maahan!"
 
 #: app/Controller/TaskInternalLinkController.php:71
 msgid "The exact same link already exists"
-msgstr ""
+msgstr "Täsmälleen sama linkki on jo olemassa"
 
 #: app/Controller/TaskMailController.php:34
 msgid "Task sent by email successfully."
-msgstr ""
+msgstr "Tehtävä lähetetty sähköpostitse onnistuneesti."
 
 #: app/Controller/TaskMailController.php:37
 #, php-format
 msgid "This task was sent by email to \"%s\" with subject \"%s\"."
-msgstr ""
+msgstr "Tämä tehtävä lähetettiin sähköpostitse osoitteeseen \"%s\" ja aiheeksi \"%s\"."
 
 #: app/Controller/TaskModificationController.php:24
 #: app/Controller/TaskModificationController.php:47
 #: app/Controller/TaskModificationController.php:88
 #: app/Controller/TaskModificationController.php:163
 msgid "You are not allowed to update tasks assigned to someone else."
-msgstr ""
+msgstr "Et saa päivittää toiselle osoitettuja tehtäviä."
 
 #: app/Controller/TaskModificationController.php:28
 #: app/Controller/TaskModificationController.php:159
 msgid "You are not allowed to change the assignee."
-msgstr ""
+msgstr "Et voi vaihtaa luovutuksensaajaa."
 
 #: app/Controller/TaskStatusController.php:20
 msgid "Task closed successfully."
@@ -1457,12 +1457,12 @@ msgstr "Tehtävän poistaminen epäonnistui."
 #: app/Controller/TwoFactorController.php:92
 #: app/Controller/TwoFactorController.php:157
 msgid "The two factor authentication code is valid."
-msgstr ""
+msgstr "Kahden tekijän todennuskoodi on voimassa."
 
 #: app/Controller/TwoFactorController.php:105
 #: app/Controller/TwoFactorController.php:166
 msgid "The two factor authentication code is not valid."
-msgstr ""
+msgstr "Kahden tekijän todennuskoodi ei ole voimassa."
 
 #: app/Controller/TwoFactorController.php:135
 #: app/Controller/UserCredentialController.php:107
@@ -1475,12 +1475,12 @@ msgstr "Käyttäjätietojen päivitys onnistui."
 
 #: app/Controller/TwoFactorController.php:185
 msgid "Check two factor authentication code"
-msgstr ""
+msgstr "Tarkista kahden tekijän todennuskoodi"
 
 #: app/Controller/UserApiAccessController.php:21
 #: app/Template/user_api_access/show.php:2
 msgid "API User Access"
-msgstr ""
+msgstr "API-käyttäjän pääsy"
 
 #: app/Controller/UserCreationController.php:73
 #: app/Controller/UserInviteController.php:100
@@ -1503,34 +1503,34 @@ msgstr "Salasanan vaihto epäonnistui."
 #: app/Controller/UserModificationController.php:69
 #: app/Controller/UserViewController.php:213
 msgid "Unable to update this user."
-msgstr ""
+msgstr "Tätä käyttäjää ei voida päivittää."
 
 #: app/Controller/UserCredentialController.php:127
 msgid "User unlocked successfully."
-msgstr ""
+msgstr "Käyttäjän lukituksen avaaminen onnistui."
 
 #: app/Controller/UserCredentialController.php:129
 msgid "Unable to unlock the user."
-msgstr ""
+msgstr "Käyttäjän lukituksen avaaminen ei onnistu."
 
 #: app/Controller/UserImportController.php:79
 #, php-format
 msgid "%d user(s) have been imported successfully."
-msgstr ""
+msgstr "%d käyttäjä(t) on tuotu onnistuneesti."
 
 #: app/Controller/UserInviteController.php:33
 #, php-format
 msgid "%d invitations were sent."
-msgstr ""
+msgstr "%d kutsut lähetettiin."
 
 #: app/Controller/UserInviteController.php:33
 #, php-format
 msgid "%d invitation was sent."
-msgstr ""
+msgstr "%d kutsu lähetettiin."
 
 #: app/Controller/UserInviteController.php:103
 msgid "Unable to create this user."
-msgstr ""
+msgstr "Tätä käyttäjää ei pystytä luomaan."
 
 #: app/Controller/UserListController.php:25
 #: app/Controller/UserListController.php:52
@@ -1547,43 +1547,43 @@ msgstr "Käyttäjän poistaminen epäonnistui."
 
 #: app/Controller/UserStatusController.php:71
 msgid "User activated successfully."
-msgstr ""
+msgstr "Käyttäjä aktivoitu onnistuneesti."
 
 #: app/Controller/UserStatusController.php:73
 msgid "Unable to enable this user."
-msgstr ""
+msgstr "Tätä käyttäjää ei voida ottaa käyttöön."
 
 #: app/Controller/UserStatusController.php:104
 msgid "User disabled successfully."
-msgstr ""
+msgstr "Käyttäjän poistaminen käytöstä onnistui."
 
 #: app/Controller/UserStatusController.php:106
 msgid "Unable to disable this user."
-msgstr ""
+msgstr "Tätä käyttäjää ei voida poistaa käytöstä."
 
 #: app/Core/Csv.php:62
 msgid "Comma"
-msgstr ""
+msgstr "Pilkku"
 
 #: app/Core/Csv.php:63
 msgid "Semi-colon"
-msgstr ""
+msgstr "Puolipiste"
 
 #: app/Core/Csv.php:64
 msgid "Tab"
-msgstr ""
+msgstr "Välilehti"
 
 #: app/Core/Csv.php:65
 msgid "Vertical bar"
-msgstr ""
+msgstr "Pystypalkki"
 
 #: app/Core/Csv.php:79
 msgid "Double Quote"
-msgstr ""
+msgstr "Kaksinkertainen lainaus"
 
 #: app/Core/Csv.php:80
 msgid "Single Quote"
-msgstr ""
+msgstr "Yksittäinen lainaus"
 
 #: app/Core/Csv.php:81 app/Model/PredefinedTaskDescriptionModel.php:18
 #: app/Model/ProjectModel.php:242 app/Template/user_view/profile.php:7
@@ -1594,7 +1594,7 @@ msgstr "Ei mikään"
 
 #: app/Core/Event/EventManager.php:48
 msgid "Task link creation or modification"
-msgstr ""
+msgstr "Tehtävälinkin luominen tai muuttaminen"
 
 #: app/Core/Event/EventManager.php:49
 msgid "Move a task to another column"
@@ -1610,7 +1610,7 @@ msgstr "Tehtävän luominen"
 
 #: app/Core/Event/EventManager.php:52
 msgid "Reopen a task"
-msgstr ""
+msgstr "Avaa tehtävä uudelleen"
 
 #: app/Core/Event/EventManager.php:53
 msgid "Closing a task"
@@ -1626,19 +1626,19 @@ msgstr "Tehtävän saajan vaihto"
 
 #: app/Core/Event/EventManager.php:56
 msgid "Daily background job for tasks"
-msgstr ""
+msgstr "Päivittäinen taustatyö tehtäviä varten"
 
 #: app/Core/Event/EventManager.php:57
 msgid "Move a task to another swimlane"
-msgstr ""
+msgstr "Siirrä tehtävä toiselle uimakaistalle"
 
 #: app/Core/Event/EventManager.php:58
 msgid "Subtask creation or modification"
-msgstr ""
+msgstr "Osatehtävien luominen tai muuttaminen"
 
 #: app/Core/ExternalLink/ExternalLinkManager.php:96
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: app/Core/Http/Request.php:335 app/Core/Http/Request.php:365
 #: app/Core/Security/Role.php:74 app/Model/TaskExternalLinkModel.php:42
@@ -1648,7 +1648,7 @@ msgstr "Tuntematon"
 #: app/Core/Mail/Client.php:74
 #, php-format
 msgid "%s via Kanboard"
-msgstr ""
+msgstr "%s Kanboardin kautta"
 
 #: app/Core/Paginator.php:413 app/Core/Paginator.php:419
 #: app/Core/Paginator.php:424
@@ -1658,40 +1658,40 @@ msgstr "Edellinen"
 #: app/Core/Paginator.php:444 app/Core/Paginator.php:450
 #: app/Core/Paginator.php:455 app/Template/external_task_creation/step1.php:15
 msgid "Next"
-msgstr ""
+msgstr "Seuraava"
 
 #: app/Core/Paginator.php:471
 #, php-format
 msgid "Showing %d-%d of %d"
-msgstr ""
+msgstr "Näytetään %d-%d of %d"
 
 #: app/Core/Plugin/Installer.php:41 app/Core/Plugin/Installer.php:85
 msgid "Unable to extract plugin archive."
-msgstr ""
+msgstr "Liitännäisarkistoa ei pystytä purkamaan."
 
 #: app/Core/Plugin/Installer.php:59
 msgid "Plugin not found."
-msgstr ""
+msgstr "Liitännäistä ei löydy."
 
 #: app/Core/Plugin/Installer.php:63
 msgid "You don't have the permission to remove this plugin."
-msgstr ""
+msgstr "Sinulla ei ole lupaa poistaa tätä laajennusta."
 
 #: app/Core/Plugin/Installer.php:107
 msgid "Unable to download plugin archive."
-msgstr ""
+msgstr "Liitännäisarkistoa ei voi ladata."
 
 #: app/Core/Plugin/Installer.php:112
 msgid "Unable to write temporary file for plugin."
-msgstr ""
+msgstr "Pluginin väliaikaista tiedostoa ei voida kirjoittaa."
 
 #: app/Core/Plugin/Installer.php:117
 msgid "Unable to open plugin archive."
-msgstr ""
+msgstr "Liitännäisarkistoa ei pystytä avaamaan."
 
 #: app/Core/Plugin/Installer.php:122
 msgid "There is no file in the plugin archive."
-msgstr ""
+msgstr "Lisäosan arkistossa ei ole tiedostoa."
 
 #: app/Core/Security/Role.php:31
 msgid "Administrator"
@@ -1699,7 +1699,7 @@ msgstr "Ylläpitäjä"
 
 #: app/Core/Security/Role.php:32
 msgid "Manager"
-msgstr ""
+msgstr "Johtaja"
 
 #: app/Core/Security/Role.php:33 app/Template/analytic/user_distribution.php:16
 #: app/Template/group/associate.php:14
@@ -1711,15 +1711,15 @@ msgstr "Käyttäjät"
 
 #: app/Core/Security/Role.php:46
 msgid "Project Manager"
-msgstr ""
+msgstr "Projektipäällikkö"
 
 #: app/Core/Security/Role.php:47
 msgid "Project Member"
-msgstr ""
+msgstr "Projektin jäsen"
 
 #: app/Core/Security/Role.php:48
 msgid "Project Viewer"
-msgstr ""
+msgstr "Projektin katseluohjelma"
 
 #: app/EventBuilder/CommentEventBuilder.php:63
 #, php-format
@@ -1734,33 +1734,33 @@ msgstr "%s kommentoi tehtävää #%d"
 #: app/EventBuilder/CommentEventBuilder.php:67
 #, php-format
 msgid "%s removed a comment on the task #%d"
-msgstr ""
+msgstr "%s poisti kommentin tehtävästä #%d"
 
 #: app/EventBuilder/CommentEventBuilder.php:69
 #, php-format
 msgid "%s mentioned you in a comment on the task #%d"
-msgstr ""
+msgstr "%s mainitsin sinut kommentissa tehtävässä #%d."
 
 #: app/EventBuilder/CommentEventBuilder.php:87
 #, php-format
 msgid "New comment on task #%d"
-msgstr ""
+msgstr "Uusi huomautus tehtävään nro%d"
 
 #: app/EventBuilder/CommentEventBuilder.php:89
 #, php-format
 msgid "Comment updated on task #%d"
-msgstr ""
+msgstr "Tehtävää #%dkoskeva kommentti päivitetty."
 
 #: app/EventBuilder/CommentEventBuilder.php:91
 #, php-format
 msgid "Comment removed on task #%d"
-msgstr ""
+msgstr "Tehtävää #%dkoskeva huomautus poistettu."
 
 #: app/EventBuilder/CommentEventBuilder.php:93
 #: app/Template/notification/comment_user_mention.php:3
 #, php-format
 msgid "You were mentioned in a comment on the task #%d"
-msgstr ""
+msgstr "Sinut mainittiin kommentissa tehtävässä #%d."
 
 #: app/EventBuilder/SubtaskEventBuilder.php:94
 #, php-format
@@ -1775,22 +1775,22 @@ msgstr "%s loi alitehtävän tehtävälle #%d"
 #: app/EventBuilder/SubtaskEventBuilder.php:98
 #, php-format
 msgid "%s removed a subtask for the task #%d"
-msgstr ""
+msgstr "%s poistettiin tehtävän #%dalatehtävä."
 
 #: app/EventBuilder/SubtaskEventBuilder.php:116
 #, php-format
 msgid "New subtask on task #%d"
-msgstr ""
+msgstr "Uusi osatehtävä tehtävässä #%d"
 
 #: app/EventBuilder/SubtaskEventBuilder.php:118
 #, php-format
 msgid "Subtask updated on task #%d"
-msgstr ""
+msgstr "Osatehtävä päivitetty tehtävän #%dosalta."
 
 #: app/EventBuilder/SubtaskEventBuilder.php:120
 #, php-format
 msgid "Subtask removed on task #%d"
-msgstr ""
+msgstr "Tehtävän #%dalatehtävä poistettu."
 
 #: app/EventBuilder/TaskEventBuilder.php:141
 #, php-format
@@ -1824,13 +1824,13 @@ msgstr "%s vaihtoi tehtävän #%d saajaksi %s"
 #: app/Template/notification/task_internal_link_delete.php:8
 #, php-format
 msgid "#%d"
-msgstr ""
+msgstr "#%d"
 
 #: app/EventBuilder/TaskEventBuilder.php:144
 #: app/Template/event/task_assignee_change.php:11
 #, php-format
 msgid "%s removed the assignee of the task %s"
-msgstr ""
+msgstr "%s poisti tehtävän vastaanottajan %s."
 
 #: app/EventBuilder/TaskEventBuilder.php:146
 #, php-format
@@ -1856,138 +1856,138 @@ msgstr "%s avasi tehtävän #%d"
 #: app/Template/event/task_move_project.php:2
 #, php-format
 msgid "%s moved the task #%d \"%s\" to the project \"%s\""
-msgstr ""
+msgstr "%s siirsi tehtävän #%d \"%s\" projektille \"%s\"."
 
 #: app/EventBuilder/TaskEventBuilder.php:163
 #, php-format
 msgid "%s moved the task #%d to the column \"%s\""
-msgstr ""
+msgstr "%s siirsi tehtävän #%d sarakkeeseen \"%s\"."
 
 #: app/EventBuilder/TaskEventBuilder.php:170
 #, php-format
 msgid "%s moved the task #%d to the position %d in the column \"%s\""
-msgstr ""
+msgstr "%s siirsi tehtävän nro%d kohtaan %d sarakkeessa \"%s\"."
 
 #: app/EventBuilder/TaskEventBuilder.php:178
 #, php-format
 msgid "%s moved the task #%d to the first swimlane"
-msgstr ""
+msgstr "%s siirsi tehtävän #%d ensimmäiselle uimatasolle."
 
 #: app/EventBuilder/TaskEventBuilder.php:182
 #, php-format
 msgid "%s moved the task #%d to the swimlane \"%s\""
-msgstr ""
+msgstr "%s siirsi tehtävän #%d uimatilaan \"%s\"."
 
 #: app/EventBuilder/TaskEventBuilder.php:189
 #, php-format
 msgid "%s mentioned you in the task #%d"
-msgstr ""
+msgstr "%s mainitsin sinut tehtävässä #%d"
 
 #: app/EventBuilder/TaskEventBuilder.php:207
 #, php-format
 msgid "New task #%d: %s"
-msgstr ""
+msgstr "Uusi tehtävä #%d: %s"
 
 #: app/EventBuilder/TaskEventBuilder.php:209
 #, php-format
 msgid "Task updated #%d"
-msgstr ""
+msgstr "Tehtävä päivitetty #%d"
 
 #: app/EventBuilder/TaskEventBuilder.php:211
 #, php-format
 msgid "Task #%d closed"
-msgstr ""
+msgstr "Tehtävä #%d suljettu"
 
 #: app/EventBuilder/TaskEventBuilder.php:213
 #, php-format
 msgid "Task #%d opened"
-msgstr ""
+msgstr "Tehtävä #%d avattu"
 
 #: app/EventBuilder/TaskEventBuilder.php:215
 #: app/Template/notification/task_move_project.php:5
 #, php-format
 msgid "Task #%d \"%s\" has been moved to the project \"%s\""
-msgstr ""
+msgstr "Tehtävä #%d \"%s\" on siirretty hankkeeseen \"%s\"."
 
 #: app/EventBuilder/TaskEventBuilder.php:217
 #, php-format
 msgid "Column changed for task #%d"
-msgstr ""
+msgstr "Sarake muutettu tehtävän #%dosalta."
 
 #: app/EventBuilder/TaskEventBuilder.php:219
 #, php-format
 msgid "New position for task #%d"
-msgstr ""
+msgstr "Uusi asema tehtävää nro%dvarten"
 
 #: app/EventBuilder/TaskEventBuilder.php:221
 #, php-format
 msgid "Swimlane changed for task #%d"
-msgstr ""
+msgstr "Swimlane muutettu tehtävän #%dosalta."
 
 #: app/EventBuilder/TaskEventBuilder.php:223
 #, php-format
 msgid "Assignee changed on task #%d"
-msgstr ""
+msgstr "Tehtävän nro%dvastaanottaja vaihtui."
 
 #: app/EventBuilder/TaskEventBuilder.php:226
 #, php-format
 msgid "%d overdue tasks"
-msgstr ""
+msgstr "%d erääntyneet tehtävät"
 
 #: app/EventBuilder/TaskEventBuilder.php:226
 #, php-format
 msgid "Task #%d is overdue"
-msgstr ""
+msgstr "Tehtävä #%d on myöhässä"
 
 #: app/EventBuilder/TaskEventBuilder.php:228
 #: app/Template/notification/task_user_mention.php:3
 #, php-format
 msgid "You were mentioned in the task #%d"
-msgstr ""
+msgstr "Sinut mainittiin tehtävässä #%d"
 
 #: app/EventBuilder/TaskFileEventBuilder.php:64
 #, php-format
 msgid "%s attached a file to the task #%d"
-msgstr ""
+msgstr "%s liitti tiedoston tehtävään #%d"
 
 #: app/EventBuilder/TaskFileEventBuilder.php:68
 #, php-format
 msgid "%s removed a file from the task #%d"
-msgstr ""
+msgstr "%s poisti tiedoston tehtävästä #%d"
 
 #: app/EventBuilder/TaskFileEventBuilder.php:85
 #, php-format
 msgid "New attachment on task #%d: %s"
-msgstr ""
+msgstr "Uusi liitetiedosto tehtävään nro%d: %s."
 
 #: app/EventBuilder/TaskFileEventBuilder.php:89
 #, php-format
 msgid "Attachment removed from task #%d: %s"
-msgstr ""
+msgstr "Liite poistettu tehtävästä nro%d: %s."
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:63
 #, php-format
 msgid "%s set a new internal link for the task #%d"
-msgstr ""
+msgstr "%s aseta uusi sisäinen linkki tehtävälle #%d"
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:65
 #, php-format
 msgid "%s removed an internal link for the task #%d"
-msgstr ""
+msgstr "%s poistettiin sisäinen linkki tehtävään #%d."
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:82
 #, php-format
 msgid "A new internal link for the task #%d has been defined"
-msgstr ""
+msgstr "Tehtävälle #%d on määritelty uusi sisäinen linkki."
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:84
 #, php-format
 msgid "Internal link removed for the task #%d"
-msgstr ""
+msgstr "Tehtävän #%dsisäinen linkki poistettu."
 
 #: app/Export/SubtaskExport.php:57
 msgid "Subtask Id"
-msgstr ""
+msgstr "Osatehtävän tunnus"
 
 #: app/Export/SubtaskExport.php:58 app/Export/TaskExport.php:158
 #: app/Helper/FormHelper.php:238 app/Helper/SubtaskHelper.php:108
@@ -2034,7 +2034,7 @@ msgstr "Tehtävän ID"
 
 #: app/Export/SubtaskExport.php:64 app/Export/TransitionExport.php:46
 msgid "Task Title"
-msgstr ""
+msgstr "Tehtävän nimi"
 
 #: app/Export/TaskExport.php:115 app/Template/analytic/time_comparison.php:25
 #: app/Template/analytic/time_comparison.php:46
@@ -2080,15 +2080,15 @@ msgstr "Luonut"
 
 #: app/Export/TaskExport.php:154
 msgid "Creator Name"
-msgstr ""
+msgstr "Luojan nimi"
 
 #: app/Export/TaskExport.php:155 app/Import/TaskImport.php:40
 msgid "Assignee Username"
-msgstr ""
+msgstr "Vastaanottajan käyttäjätunnus"
 
 #: app/Export/TaskExport.php:156
 msgid "Assignee Name"
-msgstr ""
+msgstr "Vastaanottajan nimi"
 
 #: app/Export/TaskExport.php:157 app/Helper/TaskHelper.php:188
 #: app/Import/TaskImport.php:46 app/Template/board/task_footer.php:50
@@ -2129,7 +2129,7 @@ msgstr "Aloituspäivä"
 #: app/Template/project_creation/create.php:36
 #: app/Template/project_view/duplicate.php:19
 msgid "Tags"
-msgstr ""
+msgstr "Tunnisteet"
 
 #: app/Export/TransitionExport.php:45
 #: app/Template/analytic/time_comparison.php:30
@@ -2140,7 +2140,7 @@ msgstr "Id"
 
 #: app/Export/TransitionExport.php:49 app/Template/task/transitions.php:20
 msgid "Executer"
-msgstr ""
+msgstr "Täytäntöönpanija"
 
 #: app/Export/TransitionExport.php:50
 #: app/Model/ProjectDailyColumnStatsModel.php:126
@@ -2149,33 +2149,33 @@ msgstr ""
 #: app/Template/task_external_link/table.php:9
 #: app/Template/task_file/files.php:7
 msgid "Date"
-msgstr ""
+msgstr "Päivämäärä"
 
 #: app/ExternalLink/AttachmentLinkProvider.php:42
 msgid "Attachment"
-msgstr ""
+msgstr "Liite"
 
 #: app/ExternalLink/AttachmentLinkProvider.php:65
 #: app/ExternalLink/FileLinkProvider.php:51
 #: app/ExternalLink/WebLinkProvider.php:46
 msgid "Related"
-msgstr ""
+msgstr "Aiheeseen liittyvät"
 
 #: app/ExternalLink/FileLinkProvider.php:28
 msgid "Local File"
-msgstr ""
+msgstr "Paikallinen tiedosto"
 
 #: app/ExternalLink/WebLink.php:35
 msgid "Title not found"
-msgstr ""
+msgstr "Otsikkoa ei löydy"
 
 #: app/ExternalLink/WebLinkProvider.php:23
 msgid "Web Link"
-msgstr ""
+msgstr "Verkkolinkki"
 
 #: app/Helper/DateHelper.php:76
 msgid "days"
-msgstr ""
+msgstr "päivät"
 
 #: app/Helper/DateHelper.php:76 app/Helper/DateHelper.php:89
 #: app/Helper/SubtaskHelper.php:145 app/Helper/SubtaskHelper.php:156
@@ -2190,45 +2190,45 @@ msgstr "tuntia"
 
 #: app/Helper/DateHelper.php:76
 msgid "minutes"
-msgstr ""
+msgstr "minuuttia"
 
 #: app/Helper/DateHelper.php:76
 msgid "seconds"
-msgstr ""
+msgstr "sekuntia"
 
 #: app/Helper/DateHelper.php:110
 msgid "<15m"
-msgstr ""
+msgstr "<15m"
 
 #: app/Helper/DateHelper.php:113
 msgid "<30m"
-msgstr ""
+msgstr "<30m"
 
 #: app/Helper/DateHelper.php:115
 msgid "<1h"
-msgstr ""
+msgstr "<1h"
 
 #: app/Helper/DateHelper.php:117
 #, php-format
 msgid "%dh"
-msgstr ""
+msgstr "%dh"
 
 #: app/Helper/DateHelper.php:120
 #, php-format
 msgid "%dd"
-msgstr ""
+msgstr "%dd"
 
 #: app/Helper/FormHelper.php:235
 msgid "Preview"
-msgstr ""
+msgstr "Esikatselu"
 
 #: app/Helper/FormHelper.php:237
 msgid "Write"
-msgstr ""
+msgstr "Kirjoita"
 
 #: app/Helper/FormHelper.php:239
 msgid "Write your text in Markdown"
-msgstr ""
+msgstr "Kirjoita teksti Markdownilla"
 
 #: app/Helper/ModalHelper.php:18 app/Template/config/application.php:38
 #: app/Template/config/board.php:24 app/Template/config/email.php:23
@@ -2273,28 +2273,28 @@ msgstr "Kyllä"
 #: app/Template/project_overview/information.php:7
 #: app/Template/project_view/show.php:8
 msgid "Project owner: "
-msgstr ""
+msgstr "Hankkeen omistaja: "
 
 #: app/Helper/SubtaskHelper.php:92
 msgid "Stop timer"
-msgstr ""
+msgstr "Pysäytä ajastin"
 
 #: app/Helper/SubtaskHelper.php:96
 msgid "Start timer"
-msgstr ""
+msgstr "Käynnistä ajastin"
 
 #: app/Helper/SubtaskHelper.php:110
 msgid "Enter one subtask by line."
-msgstr ""
+msgstr "Kirjoita yksi osatehtävä riveittäin."
 
 #: app/Helper/SubtaskHelper.php:133 app/Helper/TaskHelper.php:130
 #: app/Template/task/details.php:89 app/Template/task/dropdown.php:9
 msgid "Assign to me"
-msgstr ""
+msgstr "Määritä minulle"
 
 #: app/Helper/SubtaskHelper.php:133 app/Helper/TaskHelper.php:130
 msgid "Me"
-msgstr ""
+msgstr "Minä"
 
 #: app/Helper/SubtaskHelper.php:143 app/Helper/TaskHelper.php:208
 msgid "Original estimate"
@@ -2302,15 +2302,15 @@ msgstr "Alkuperäinen estimaatti"
 
 #: app/Helper/SubtaskHelper.php:165
 msgid "Subtask not started"
-msgstr ""
+msgstr "Alatehtävä ei ole aloitettu"
 
 #: app/Helper/SubtaskHelper.php:167
 msgid "Subtask currently in progress"
-msgstr ""
+msgstr "Tällä hetkellä käynnissä oleva alatehtävä"
 
 #: app/Helper/SubtaskHelper.php:169
 msgid "Subtask completed"
-msgstr ""
+msgstr "Osatehtävä suoritettu"
 
 #: app/Helper/TaskHelper.php:63 app/Import/TaskImport.php:39
 #: app/Template/category/edit.php:11 app/Template/column/create.php:15
@@ -2330,7 +2330,7 @@ msgstr "Kuvaus"
 
 #: app/Helper/TaskHelper.php:72 app/Template/task_bulk/show.php:11
 msgid "Template for the task description"
-msgstr ""
+msgstr "Tehtävän kuvauksen malli"
 
 #: app/Helper/TaskHelper.php:229 app/Import/TaskImport.php:49
 msgid "Start Date"
@@ -2342,11 +2342,11 @@ msgstr "Deadline"
 
 #: app/Helper/TaskHelper.php:240 app/Helper/TaskHelper.php:241
 msgid "Task priority"
-msgstr ""
+msgstr "Tehtävän prioriteetti"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2354,19 +2354,19 @@ msgstr "Lisää uusi tehtävä"
 
 #: app/Helper/TaskHelper.php:294
 msgid "Add a new Kanboard task"
-msgstr ""
+msgstr "Lisää uusi Kanboard-tehtävä"
 
 #: app/Import/TaskImport.php:41
 msgid "Creator Username"
-msgstr ""
+msgstr "Luojan käyttäjänimi"
 
 #: app/Import/TaskImport.php:42
 msgid "Color Name"
-msgstr ""
+msgstr "Väri Nimi"
 
 #: app/Import/TaskImport.php:43
 msgid "Column Name"
-msgstr ""
+msgstr "Sarakkeen nimi"
 
 #: app/Import/TaskImport.php:44 app/Template/category/create.php:7
 #: app/Template/category/edit.php:8 app/Template/category/index.php:14
@@ -2375,19 +2375,19 @@ msgstr "Kategorian nimi"
 
 #: app/Import/TaskImport.php:45
 msgid "Swimlane Name"
-msgstr ""
+msgstr "Uimakaistan nimi"
 
 #: app/Import/TaskImport.php:47
 msgid "Time Estimated"
-msgstr ""
+msgstr "Arvioitu aika"
 
 #: app/Import/TaskImport.php:48
 msgid "Time Spent"
-msgstr ""
+msgstr "Käytetty aika"
 
 #: app/Import/TaskImport.php:54
 msgid "External Link"
-msgstr ""
+msgstr "Ulkoinen linkki"
 
 #: app/Import/TaskImport.php:140 app/Import/UserImport.php:115
 #: app/Validator/ActionValidator.php:27
@@ -2499,139 +2499,139 @@ msgstr "Kategoriaa ei löydy"
 
 #: app/Model/ColorModel.php:151
 msgid "All colors"
-msgstr ""
+msgstr "Kaikki värit"
 
 #: app/Model/ColumnModel.php:170
 msgid "All columns"
-msgstr ""
+msgstr "Kaikki sarakkeet"
 
 #: app/Model/ColumnRestrictionModel.php:30
 msgid "Task creation is permitted for this column"
-msgstr ""
+msgstr "Tehtävän luominen on sallittua tälle sarakkeelle"
 
 #: app/Model/ColumnRestrictionModel.php:31
 msgid "Closing or opening a task is permitted for this column"
-msgstr ""
+msgstr "Tehtävän sulkeminen tai avaaminen on sallittua tässä sarakkeessa."
 
 #: app/Model/ColumnRestrictionModel.php:32
 msgid "Task creation is blocked for this column"
-msgstr ""
+msgstr "Tehtävän luominen on estetty tälle sarakkeelle"
 
 #: app/Model/ColumnRestrictionModel.php:33
 msgid "Closing or opening a task is blocked for this column"
-msgstr ""
+msgstr "Tehtävän sulkeminen tai avaaminen on estetty tässä sarakkeessa."
 
 #: app/Model/CurrencyModel.php:31
 msgid "ARS - Argentine Peso"
-msgstr ""
+msgstr "ARS - Argentiinan peso"
 
 #: app/Model/CurrencyModel.php:32
 msgid "AUD - Australian Dollar"
-msgstr ""
+msgstr "AUD - Australian dollari"
 
 #: app/Model/CurrencyModel.php:33
 msgid "BAM - Konvertible Mark"
-msgstr ""
+msgstr "BAM - Muunneltava merkki"
 
 #: app/Model/CurrencyModel.php:34
 msgid "BRL - Brazilian Real"
-msgstr ""
+msgstr "BRL - Brasilian real"
 
 #: app/Model/CurrencyModel.php:35
 msgid "CAD - Canadian Dollar"
-msgstr ""
+msgstr "CAD - Kanadan dollari"
 
 #: app/Model/CurrencyModel.php:36
 msgid "CHF - Swiss Francs"
-msgstr ""
+msgstr "CHF - Sveitsin frangit"
 
 #: app/Model/CurrencyModel.php:37
 msgid "CNY - Chinese Yuan"
-msgstr ""
+msgstr "CNY - Kiinan juan"
 
 #: app/Model/CurrencyModel.php:38
 msgid "COP - Colombian Peso"
-msgstr ""
+msgstr "COP - Kolumbian peso"
 
 #: app/Model/CurrencyModel.php:39
 msgid "DKK - Danish Krona"
-msgstr ""
+msgstr "DKK - Tanskan kruunu"
 
 #: app/Model/CurrencyModel.php:40
 msgid "EUR - Euro"
-msgstr ""
+msgstr "EUR - Euro"
 
 #: app/Model/CurrencyModel.php:41
 msgid "GBP - British Pound"
-msgstr ""
+msgstr "GBP - Englannin punta"
 
 #: app/Model/CurrencyModel.php:42
 msgid "HRK - Kuna"
-msgstr ""
+msgstr "HRK - Kuna"
 
 #: app/Model/CurrencyModel.php:43
 msgid "HUF - Hungarian Forint"
-msgstr ""
+msgstr "HUF - Unkarin forintti"
 
 #: app/Model/CurrencyModel.php:44
 msgid "INR - Indian Rupee"
-msgstr ""
+msgstr "INR - Intian rupia"
 
 #: app/Model/CurrencyModel.php:45
 msgid "JPY - Japanese Yen"
-msgstr ""
+msgstr "JPY - Japanin jeni"
 
 #: app/Model/CurrencyModel.php:46
 msgid "MXN - Mexican Peso"
-msgstr ""
+msgstr "MXN - Meksikon peso"
 
 #: app/Model/CurrencyModel.php:47
 msgid "NOK - Norwegian Krone"
-msgstr ""
+msgstr "NOK - Norjan kruunu"
 
 #: app/Model/CurrencyModel.php:48
 msgid "NZD - New Zealand Dollar"
-msgstr ""
+msgstr "NZD - Uuden-Seelannin dollari"
 
 #: app/Model/CurrencyModel.php:49
 msgid "RSD - Serbian dinar"
-msgstr ""
+msgstr "RSD - Serbian dinaari"
 
 #: app/Model/CurrencyModel.php:50
 msgid "RUB - Russian Ruble"
-msgstr ""
+msgstr "RUB - Venäjän rupla"
 
 #: app/Model/CurrencyModel.php:51
 msgid "SEK - Swedish Krona"
-msgstr ""
+msgstr "SEK - Ruotsin kruunu"
 
 #: app/Model/CurrencyModel.php:52
 msgid "TRL - Turkish Lira"
-msgstr ""
+msgstr "TRL - Turkin liira"
 
 #: app/Model/CurrencyModel.php:53
 msgid "USD - US Dollar"
-msgstr ""
+msgstr "USD - Yhdysvaltain dollari"
 
 #: app/Model/CurrencyModel.php:54
 msgid "VES - Venezuelan Bolívar"
-msgstr ""
+msgstr "VES - Venezuelan Bolívar"
 
 #: app/Model/CurrencyModel.php:55
 msgid "XBT - Bitcoin"
-msgstr ""
+msgstr "XBT - Bitcoin"
 
 #: app/Model/InviteModel.php:55
 msgid "Kanboard Invitation"
-msgstr ""
+msgstr "Kanboard-kutsu"
 
 #: app/Model/LanguageModel.php:133 app/Model/TimezoneModel.php:28
 msgid "Application default"
-msgstr ""
+msgstr "Sovelluksen oletusarvo"
 
 #: app/Model/NotificationModel.php:40 app/Model/NotificationModel.php:61
 msgid "Notification"
-msgstr ""
+msgstr "Ilmoitus"
 
 #: app/Model/ProjectDuplicationModel.php:70
 msgid "Clone"
@@ -2643,27 +2643,27 @@ msgstr "Oletuskaista"
 
 #: app/Model/ProjectRoleRestrictionModel.php:32
 msgid "Task creation is not permitted"
-msgstr ""
+msgstr "Tehtävien luominen ei ole sallittua"
 
 #: app/Model/ProjectRoleRestrictionModel.php:33
 msgid "Task suppression is not permitted"
-msgstr ""
+msgstr "Tehtävien tukahduttaminen ei ole sallittua"
 
 #: app/Model/ProjectRoleRestrictionModel.php:34
 msgid "Closing or opening a task is not permitted"
-msgstr ""
+msgstr "Tehtävän sulkeminen tai avaaminen ei ole sallittua"
 
 #: app/Model/ProjectRoleRestrictionModel.php:35
 msgid "Moving a task is not permitted"
-msgstr ""
+msgstr "Tehtävän siirtäminen ei ole sallittua"
 
 #: app/Model/ProjectRoleRestrictionModel.php:36
 msgid "Changing assignee is not permitted"
-msgstr ""
+msgstr "Luovutuksensaajan vaihtaminen ei ole sallittua"
 
 #: app/Model/ProjectRoleRestrictionModel.php:37
 msgid "Update only assigned tasks is permitted"
-msgstr ""
+msgstr "Vain annettujen tehtävien päivittäminen on sallittua"
 
 #: app/Model/ProjectUserRoleModel.php:187
 #: app/Template/project_user_overview/tasks.php:32
@@ -2676,20 +2676,20 @@ msgstr "Kaikki"
 
 #: app/Model/SwimlaneModel.php:214
 msgid "All swimlanes"
-msgstr ""
+msgstr "Kaikki uimatasot"
 
 #: app/Model/TaskCreationModel.php:78
 msgid "Untitled"
-msgstr ""
+msgstr "Untitled"
 
 #: app/Model/TaskDuplicationModel.php:54
 msgid "[DUPLICATE]"
-msgstr ""
+msgstr "[DUPLICATE]"
 
 #: app/Model/TaskFileModel.php:90
 #, php-format
 msgid "Screenshot taken %s"
-msgstr ""
+msgstr "Kuvakaappaus otettu %s"
 
 #: app/Model/TaskRecurrenceModel.php:25 app/Template/column/index.php:52
 #: app/Template/custom_filter/index.php:39
@@ -2700,51 +2700,51 @@ msgstr "Ei"
 
 #: app/Model/TaskRecurrenceModel.php:39
 msgid "When task is moved from first column"
-msgstr ""
+msgstr "Kun tehtävä siirretään ensimmäisestä sarakkeesta"
 
 #: app/Model/TaskRecurrenceModel.php:40
 msgid "When task is moved to last column"
-msgstr ""
+msgstr "Kun tehtävä siirretään viimeiseen sarakkeeseen"
 
 #: app/Model/TaskRecurrenceModel.php:41
 msgid "When task is closed"
-msgstr ""
+msgstr "Kun tehtävä on suljettu"
 
 #: app/Model/TaskRecurrenceModel.php:54
 msgid "Existing due date"
-msgstr ""
+msgstr "Nykyinen eräpäivä"
 
 #: app/Model/TaskRecurrenceModel.php:55
 msgid "Action date"
-msgstr ""
+msgstr "Toimintapäivä"
 
 #: app/Model/TaskRecurrenceModel.php:68
 msgid "Day(s)"
-msgstr ""
+msgstr "Päivä(t)"
 
 #: app/Model/TaskRecurrenceModel.php:69
 msgid "Month(s)"
-msgstr ""
+msgstr "Kuukausi(t)"
 
 #: app/Model/TaskRecurrenceModel.php:70
 msgid "Year(s)"
-msgstr ""
+msgstr "Vuosi(t)"
 
 #: app/Model/UserNotificationFilterModel.php:41
 msgid "All tasks"
-msgstr ""
+msgstr "Kaikki tehtävät"
 
 #: app/Model/UserNotificationFilterModel.php:42
 msgid "Only for tasks assigned to me"
-msgstr ""
+msgstr "Vain minulle annettuja tehtäviä varten"
 
 #: app/Model/UserNotificationFilterModel.php:43
 msgid "Only for tasks created by me"
-msgstr ""
+msgstr "Vain minun luomieni tehtävien osalta"
 
 #: app/Model/UserNotificationFilterModel.php:44
 msgid "Only for tasks created by me and tasks assigned to me"
-msgstr ""
+msgstr "Vain minun luomieni ja minulle osoitettujen tehtävien osalta."
 
 #: app/ServiceProvider/NotificationProvider.php:31
 #: app/Template/comment_mail/create.php:9 app/Template/project_edit/show.php:19
@@ -2757,7 +2757,7 @@ msgstr "Sähköposti"
 
 #: app/ServiceProvider/NotificationProvider.php:32
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #: app/Template/action/index.php:2
 #, php-format
@@ -2766,15 +2766,15 @@ msgstr "Automaattiset toiminnot projektille \"%s\""
 
 #: app/Template/action/index.php:5
 msgid "Add a new action"
-msgstr ""
+msgstr "Lisää uusi toiminto"
 
 #: app/Template/action/index.php:8
 msgid "Import from another project"
-msgstr ""
+msgstr "Tuo toisesta projektista"
 
 #: app/Template/action/index.php:14
 msgid "There is no action at the moment."
-msgstr ""
+msgstr "Tällä hetkellä ei ole mitään toimintaa."
 
 #: app/Template/action/index.php:24 app/Template/category/index.php:27
 #: app/Template/column/index.php:38 app/Template/comment/show.php:27
@@ -2801,7 +2801,7 @@ msgstr "Poista"
 #: app/Template/action/index.php:39
 #, php-format
 msgid "Automatic action not found: \"%s\""
-msgstr ""
+msgstr "Automaattista toimintoa ei löydy: \"%s\""
 
 #: app/Template/action/index.php:43
 msgid "Event name"
@@ -2818,7 +2818,7 @@ msgstr "Oletko varma että haluat poistaa toiminnon \"%s\"?"
 
 #: app/Template/action_creation/create.php:2
 msgid "Add an action"
-msgstr ""
+msgstr "Lisää toiminto"
 
 #: app/Template/action_creation/create.php:7
 #: app/Template/action_creation/event.php:10
@@ -2853,7 +2853,7 @@ msgstr "Määrittele toiminnon parametrit"
 #: app/Template/activity/filter_dropdown.php:2
 #: app/Template/app/filters_helper.php:3
 msgid "Default filters"
-msgstr ""
+msgstr "Oletussuodattimet"
 
 #: app/Template/activity/filter_dropdown.php:4
 #: app/Template/app/filters_helper.php:5
@@ -2866,30 +2866,30 @@ msgstr ""
 #: app/Template/project_header/views.php:18
 #, php-format
 msgid "Keyboard shortcut: \"%s\""
-msgstr ""
+msgstr "Näppäimistön pikavalinta: \"%s\""
 
 #: app/Template/activity/filter_dropdown.php:4
 #: app/Template/app/filters_helper.php:5
 msgid "Reset filters"
-msgstr ""
+msgstr "Nollaa suodattimet"
 
 #: app/Template/activity/filter_dropdown.php:5
 msgid "My activities"
-msgstr ""
+msgstr "Toimintani"
 
 #: app/Template/activity/filter_dropdown.php:6
 msgid "Activity until yesterday"
-msgstr ""
+msgstr "Toiminta eiliseen asti"
 
 #: app/Template/activity/filter_dropdown.php:7
 msgid "Activity until today"
-msgstr ""
+msgstr "Toiminta tähän päivään asti"
 
 #: app/Template/activity/filter_dropdown.php:11
 #: app/Template/app/filters_helper.php:17 app/Template/search/activity.php:34
 #: app/Template/search/index.php:36
 msgid "View advanced search syntax"
-msgstr ""
+msgstr "Näytä laajennettu hakusyntaksi"
 
 #: app/Template/activity/project.php:6
 #: app/Template/project_overview/information.php:31
@@ -2903,7 +2903,7 @@ msgstr "RSS-syöte"
 #: app/Template/project_view/share.php:12 app/Template/project_view/show.php:18
 #: app/Template/user_view/share.php:9 app/Template/user_view/show.php:49
 msgid "iCal feed"
-msgstr ""
+msgstr "iCal-syöte"
 
 #: app/Template/activity/task.php:9 app/Template/task/sidebar.php:10
 msgid "Activity stream"
@@ -2911,11 +2911,11 @@ msgstr "Toiminta"
 
 #: app/Template/activity/user.php:2 app/Template/dashboard/layout.php:18
 msgid "My activity stream"
-msgstr ""
+msgstr "Oma aktiivisuusvirta"
 
 #: app/Template/analytic/avg_time_columns.php:3
 msgid "Average time spent in each column"
-msgstr ""
+msgstr "Keskimääräinen aika, joka kuluu kuhunkin sarakkeeseen"
 
 #: app/Template/analytic/avg_time_columns.php:8
 #: app/Template/analytic/estimated_actual_column.php:8
@@ -2929,26 +2929,25 @@ msgstr "Ei riittävästi dataa graafin näyttämiseksi."
 #: app/Template/analytic/avg_time_columns.php:12
 #: app/Template/analytic/avg_time_columns.php:18
 msgid "Average time spent"
-msgstr ""
+msgstr "Keskimääräinen aika"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Tässä kaaviossa esitetään kuhunkin sarakkeeseen kulunut keskimääräinen aika viimeisimmissä %d tehtävissä."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
-msgstr ""
+msgstr "Kaavion näyttämiseen tarvitaan vähintään 2 päivän tiedot."
 
 #: app/Template/analytic/burndown.php:12
 msgid "Total for all columns"
-msgstr ""
+msgstr "Kaikkien sarakkeiden summa"
 
 #: app/Template/analytic/burndown.php:13 app/Template/analytic/cfd.php:12
 #, php-format
 msgid "%%Y-%%m-%%d"
-msgstr ""
+msgstr "%%Y-%%m-%%d"
 
 #: app/Template/analytic/burndown.php:22 app/Template/analytic/cfd.php:21
 #: app/Template/analytic/lead_cycle_time.php:26
@@ -2957,7 +2956,7 @@ msgstr ""
 #: app/Template/project_edit/show.php:56
 #: app/Template/project_list/sort_menu.php:17
 msgid "End date"
-msgstr ""
+msgstr "Loppupäivä"
 
 #: app/Template/analytic/burndown.php:23 app/Template/analytic/cfd.php:22
 #: app/Template/analytic/lead_cycle_time.php:27
@@ -2966,46 +2965,44 @@ msgstr "Suorita"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
+msgstr "Tämä kaavio osoittaa tehtävän monimutkaisuuden ajan kuluessa (jäljellä oleva työ)."
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
 #: app/Template/analytic/time_comparison.php:22
 msgid "Hours Spent"
-msgstr ""
+msgstr "Käytetyt tunnit"
 
 #: app/Template/analytic/estimated_actual_column.php:13
 #: app/Template/analytic/estimated_actual_column.php:20
 #: app/Template/analytic/time_comparison.php:23
 msgid "Hours Estimated"
-msgstr ""
+msgstr "Arvioidut tunnit"
 
 #: app/Template/analytic/lead_cycle_time.php:3
 msgid "Average Lead and Cycle time"
-msgstr ""
+msgstr "Keskimääräinen läpimenoaika ja sykli"
 
 #: app/Template/analytic/lead_cycle_time.php:9
 msgid "Average lead time: "
-msgstr ""
+msgstr "Keskimääräinen toimitusaika: "
 
 #: app/Template/analytic/lead_cycle_time.php:10
 msgid "Average cycle time: "
-msgstr ""
+msgstr "Keskimääräinen kierrosaika: "
 
 #: app/Template/analytic/lead_cycle_time.php:19
 msgid "Cycle Time"
-msgstr ""
+msgstr "Syklin aika"
 
 #: app/Template/analytic/lead_cycle_time.php:20
 msgid "Lead Time"
-msgstr ""
+msgstr "Läpimenoaika"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Tässä kaaviossa esitetään viimeisimpien %d tehtävien keskimääräinen läpimeno- ja läpimenoaika ajanjakson aikana."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3019,25 +3016,25 @@ msgstr "Prosentti"
 
 #: app/Template/analytic/time_comparison.php:9
 msgid "Estimated hours: "
-msgstr ""
+msgstr "Arvioidut tunnit: "
 
 #: app/Template/analytic/time_comparison.php:10
 msgid "Actual hours: "
-msgstr ""
+msgstr "Todelliset tunnit: "
 
 #: app/Template/analytic/time_comparison.php:18
 #: app/Template/project_user_overview/tasks.php:2
 #: app/Template/task_list/listing.php:4
 msgid "No tasks found."
-msgstr ""
+msgstr "Tehtäviä ei löytynyt."
 
 #: app/Template/analytic/time_comparison.php:33
 msgid "Estimated Time"
-msgstr ""
+msgstr "Arvioitu aika"
 
 #: app/Template/analytic/time_comparison.php:34
 msgid "Actual Time"
-msgstr ""
+msgstr "Todellinen aika"
 
 #: app/Template/analytic/time_comparison.php:39
 #: app/Template/analytic/time_comparison.php:42
@@ -3053,31 +3050,31 @@ msgstr "Minun tehtävät"
 
 #: app/Template/app/filters_helper.php:7
 msgid "My tasks due tomorrow"
-msgstr ""
+msgstr "Huomenna suoritettavat tehtäväni"
 
 #: app/Template/app/filters_helper.php:8
 msgid "Tasks due today"
-msgstr ""
+msgstr "Tänään suoritettavat tehtävät"
 
 #: app/Template/app/filters_helper.php:9
 msgid "Tasks due tomorrow"
-msgstr ""
+msgstr "Tehtävät huomenna"
 
 #: app/Template/app/filters_helper.php:10
 msgid "Tasks due yesterday"
-msgstr ""
+msgstr "Eilen suoritettavat tehtävät"
 
 #: app/Template/app/filters_helper.php:13
 #: app/Template/board/tooltip_subtasks.php:18
 #: app/Template/board/tooltip_tasklinks.php:24
 #: app/Template/project_header/search.php:32
 msgid "Not assigned"
-msgstr ""
+msgstr "Ei määritetty"
 
 #: app/Template/app/filters_helper.php:14
 #: app/Template/project_header/search.php:33
 msgid "Assigned"
-msgstr ""
+msgstr "Myönnetty"
 
 #: app/Template/app/notfound.php:3
 msgid "Sorry, I didn't find this information in my database!"
@@ -3098,7 +3095,7 @@ msgstr "Salasana"
 
 #: app/Template/auth/index.php:21 app/Template/password_reset/create.php:10
 msgid "Enter the text below"
-msgstr ""
+msgstr "Kirjoita alla oleva teksti"
 
 #: app/Template/auth/index.php:27
 msgid "Remember Me"
@@ -3110,20 +3107,20 @@ msgstr "Kirjaudu sisään"
 
 #: app/Template/auth/index.php:35
 msgid "Forgot password?"
-msgstr ""
+msgstr "Unohditko salasanan?"
 
 #: app/Template/avatar_file/show.php:2 app/Template/avatar_file/show.php:17
 #: app/Template/user_list/dropdown.php:12 app/Template/user_view/sidebar.php:53
 msgid "Avatar"
-msgstr ""
+msgstr "Avatar"
 
 #: app/Template/avatar_file/show.php:9
 msgid "Remove my image"
-msgstr ""
+msgstr "Poista kuvani"
 
 #: app/Template/avatar_file/show.php:15 app/Template/avatar_file/show.php:21
 msgid "Upload my avatar image"
-msgstr ""
+msgstr "Lataa avatar-kuvani"
 
 #: app/Template/board/table_column.php:11
 #: app/Template/board/table_column.php:12
@@ -3142,71 +3139,71 @@ msgstr "Tehtävien määrä"
 
 #: app/Template/board/table_column.php:37
 msgid "Hide this column"
-msgstr ""
+msgstr "Piilota tämä sarake"
 
 #: app/Template/board/table_column.php:41 app/Template/task_bulk/show.php:2
 msgid "Create tasks in bulk"
-msgstr ""
+msgstr "Luo tehtäviä irtotavarana"
 
 #: app/Template/board/table_column.php:47
 msgid "Close all tasks in this column and this swimlane"
-msgstr ""
+msgstr "Sulje kaikki tehtävät tässä sarakkeessa ja tällä valintakaistalla."
 
 #: app/Template/board/table_column.php:56
 msgid "Reorder this column by id (ASC)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen id:n mukaan (ASC)"
 
 #: app/Template/board/table_column.php:59
 msgid "Reorder this column by id (DESC)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen id:n mukaan (DESC)"
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen prioriteetin mukaan (ASC)."
 
 #: app/Template/board/table_column.php:65
 msgid "Reorder this column by priority (DESC)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen tärkeysjärjestyksen mukaan (DESC)"
 
 #: app/Template/board/table_column.php:68
 msgid "Reorder this column by assignee and priority (ASC)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen vastaanottajan ja prioriteetin mukaan (ASC)."
 
 #: app/Template/board/table_column.php:71
 msgid "Reorder this column by assignee and priority (DESC)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen vastaanottajan ja prioriteetin mukaan (DESC)."
 
 #: app/Template/board/table_column.php:74
 msgid "Reorder this column by assignee (A-Z)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen vastaanottajan mukaan (A-Z)."
 
 #: app/Template/board/table_column.php:77
 msgid "Reorder this column by assignee (Z-A)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen vastaanottajan mukaan (Z-A)."
 
 #: app/Template/board/table_column.php:80
 msgid "Reorder this column by due date (ASC)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen eräpäivän mukaan (ASC)."
 
 #: app/Template/board/table_column.php:83
 msgid "Reorder this column by due date (DESC)"
-msgstr ""
+msgstr "Järjestä tämä sarake uudelleen eräpäivän mukaan (DESC)"
 
 #: app/Template/board/table_column.php:96
 #: app/Template/board/table_column.php:97
 msgid "Total score in this column across all swimlanes"
-msgstr ""
+msgstr "Tämän sarakkeen kokonaispisteet kaikilla uimaradoilla."
 
 #: app/Template/board/table_column.php:102
 #: app/Template/board/table_column.php:103
 msgid "Score"
-msgstr ""
+msgstr "Pisteet"
 
 #: app/Template/board/table_column.php:118
 #: app/Template/board/table_column.php:120
 #: app/Template/board/table_column.php:122
 msgid "Total number of tasks in this column across all swimlanes"
-msgstr ""
+msgstr "Tässä sarakkeessa olevien tehtävien kokonaismäärä kaikilla uimatasoilla."
 
 #: app/Template/board/table_column.php:120 app/Template/column/create.php:10
 #: app/Template/column/edit.php:11 app/Template/column/index.php:19
@@ -3219,19 +3216,19 @@ msgstr "Tehtävien maksimimäärä"
 
 #: app/Template/board/table_container.php:4
 msgid "There is no column or swimlane activated in your project!"
-msgstr ""
+msgstr "Projektissasi ei ole aktivoituna saraketta tai uimakaistaa!"
 
 #: app/Template/board/table_swimlane.php:6
 msgid "Collapse swimlane"
-msgstr ""
+msgstr "Uimakaistan romahdus"
 
 #: app/Template/board/table_swimlane.php:7
 msgid "Expand swimlane"
-msgstr ""
+msgstr "Laajenna uimakaistaa"
 
 #: app/Template/board/table_tasks.php:34
 msgid "Show this column"
-msgstr ""
+msgstr "Näytä tämä sarake"
 
 #: app/Template/board/task_footer.php:14
 #: app/Template/task_list/task_details.php:16
@@ -3242,13 +3239,13 @@ msgstr "Vaihda kategoria"
 #: app/Template/task_list/task_icons.php:8
 #: app/Template/task_list/task_icons.php:9
 msgid "Milestone"
-msgstr ""
+msgstr "Virstanpylväs"
 
 #: app/Template/board/task_footer.php:57 app/Template/board/task_footer.php:58
 #: app/Template/task_list/task_icons.php:21
 #: app/Template/task_list/task_icons.php:22
 msgid "Time spent and estimated"
-msgstr ""
+msgstr "Käytetty aika ja arvio"
 
 #: app/Template/board/task_footer.php:107
 #: app/Template/board/task_footer.php:116
@@ -3269,30 +3266,30 @@ msgstr "%d kommenttia"
 #: app/Template/board/task_footer.php:127
 #: app/Template/task_list/task_icons.php:94
 msgid "Task age in days"
-msgstr ""
+msgstr "Tehtävän ikä päivinä"
 
 #: app/Template/board/task_footer.php:128
 #: app/Template/task_list/task_icons.php:95
 msgid "Days in this column"
-msgstr ""
+msgstr "Tämän sarakkeen päivät"
 
 #: app/Template/board/tooltip_external_links.php:4
 #: app/Template/task_external_link/table.php:5
 msgid "Type"
-msgstr ""
+msgstr "Tyyppi"
 
 #: app/Template/board/tooltip_external_links.php:6
 #: app/Template/task_external_link/form.php:10
 #: app/Template/task_external_link/table.php:7
 msgid "Dependency"
-msgstr ""
+msgstr "Riippuvuus"
 
 #: app/Template/board/tooltip_files.php:12
 #: app/Template/project_overview/files.php:26
 #: app/Template/project_overview/images.php:25
 #: app/Template/task_file/files.php:27 app/Template/task_file/images.php:25
 msgid "Download"
-msgstr ""
+msgstr "Lataa"
 
 #: app/Template/board/tooltip_files.php:14
 #: app/Template/board/tooltip_files.php:15
@@ -3303,7 +3300,7 @@ msgstr ""
 #: app/Template/task_file/files.php:18 app/Template/task_file/files.php:23
 #: app/Template/task_file/images.php:22
 msgid "View file"
-msgstr ""
+msgstr "Näytä tiedosto"
 
 #: app/Template/board/tooltip_subtasks.php:4
 #: app/Template/task/time_tracking_details.php:17
@@ -3315,16 +3312,16 @@ msgstr "Alitehtävä"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
-msgstr ""
+msgstr "Haluatko todella sulkea kaikki tämän palstan tehtävät?"
 
 #: app/Template/board_popover/close_all_tasks_column.php:9
 #, php-format
 msgid "%d task(s) in the column \"%s\" and the swimlane \"%s\" will be closed."
-msgstr ""
+msgstr "%d sarakkeessa \"%s\" olevat tehtävät ja uimakaista \"%s\" suljetaan."
 
 #: app/Template/category/create.php:2 app/Template/category/index.php:5
 msgid "Add a new category"
@@ -3334,7 +3331,7 @@ msgstr "Lisää uusi kategoria"
 #: app/Template/project_tag/create.php:11 app/Template/project_tag/edit.php:11
 #: app/Template/tag/create.php:12 app/Template/tag/edit.php:13
 msgid "No color"
-msgstr ""
+msgstr "Ei väriä"
 
 #: app/Template/category/edit.php:2
 #, php-format
@@ -3343,7 +3340,7 @@ msgstr "Kategorian muutos projektissa \"%s\""
 
 #: app/Template/category/index.php:10
 msgid "There is no category in this project."
-msgstr ""
+msgstr "Tässä hankkeessa ei ole kategoriaa."
 
 #: app/Template/category/index.php:24 app/Template/column/index.php:34
 #: app/Template/comment/show.php:24 app/Template/custom_filter/index.php:25
@@ -3372,12 +3369,12 @@ msgstr "Lisää uusi sarake"
 
 #: app/Template/column/create.php:13 app/Template/column/edit.php:14
 msgid "Hide tasks in this column in the dashboard"
-msgstr ""
+msgstr "Piilota tehtävät kojelaudan tässä sarakkeessa."
 
 #: app/Template/column/edit.php:2
 #, php-format
 msgid "Edit column \"%s\""
-msgstr ""
+msgstr "Muokkaa saraketta \"%s\""
 
 #: app/Template/column/index.php:2
 #, php-format
@@ -3386,15 +3383,15 @@ msgstr "Muokkaa taulua projektille \"%s\""
 
 #: app/Template/column/index.php:11 app/Template/project_view/show.php:58
 msgid "Your board doesn't have any columns!"
-msgstr ""
+msgstr "Taulussasi ei ole sarakkeita!"
 
 #: app/Template/column/index.php:20 app/Template/project_view/show.php:65
 msgid "Visible on dashboard"
-msgstr ""
+msgstr "Näkyy kojelaudassa"
 
 #: app/Template/column/index.php:29 app/Template/swimlane/table.php:17
 msgid "Change column position"
-msgstr ""
+msgstr "Vaihda sarakkeen sijaintia"
 
 #: app/Template/column/remove.php:2
 msgid "Remove a column"
@@ -3408,40 +3405,38 @@ msgstr "Haluatko varmasti poistaa sarakkeen \"%s\"?"
 #: app/Template/column_move_restriction/create.php:2
 #, php-format
 msgid "New drag and drop restriction for the role \"%s\""
-msgstr ""
+msgstr "Uusi raahaa ja pudota -rajoitus roolille \"%s\""
 
 #: app/Template/column_move_restriction/create.php:15
 msgid "Only for tasks assigned to the current user"
-msgstr ""
+msgstr "Vain nykyiselle käyttäjälle osoitetut tehtävät"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Tähän rooliin kuuluvat henkilöt voivat siirtää tehtäviä vain lähde- ja kohdesarakkeen välillä."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
 msgid "Remove a column restriction"
-msgstr ""
+msgstr "Poista sarakkeen rajoitus"
 
 #: app/Template/column_move_restriction/remove.php:7
 #, php-format
 msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän sarakkeen rajoituksen: \"%s\" - \"%s\"?"
 
 #: app/Template/column_restriction/create.php:2
 #, php-format
 msgid "New column restriction for the role \"%s\""
-msgstr ""
+msgstr "Uusi sarakkeen rajoitus roolille \"%s\""
 
 #: app/Template/column_restriction/create.php:9
 msgid "Rule"
-msgstr ""
+msgstr "Sääntö"
 
 #: app/Template/column_restriction/remove.php:7
 msgid "Do you really want to remove this column restriction?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän sarakkeen rajoituksen?"
 
 #: app/Template/comment/create.php:2 app/Template/comment_list/create.php:2
 #: app/Template/task/dropdown.php:35 app/Template/task/sidebar.php:56
@@ -3453,7 +3448,7 @@ msgstr "Lisää kommentti"
 #: app/Template/task/sidebar.php:80 app/Template/task_comments/show.php:9
 #: app/Template/task_mail/create.php:2 app/Template/task_mail/create.php:44
 msgid "Send by email"
-msgstr ""
+msgstr "Lähetä sähköpostitse"
 
 #: app/Template/comment/create.php:12 app/Template/comment_list/create.php:6
 #: app/Template/comment_mail/create.php:45
@@ -3461,7 +3456,7 @@ msgstr ""
 #: app/Template/notification/comment_create.php:8
 #: app/Template/task_comments/create.php:6
 msgid "New comment"
-msgstr ""
+msgstr "Uusi kommentti"
 
 #: app/Template/comment/edit.php:2
 msgid "Edit a comment"
@@ -3469,7 +3464,7 @@ msgstr "Muokkaa kommenttia"
 
 #: app/Template/comment/edit.php:8
 msgid "Comment"
-msgstr ""
+msgstr "Kommentti"
 
 #: app/Template/comment/remove.php:7
 msgid "Do you really want to remove this comment?"
@@ -3477,11 +3472,11 @@ msgstr "Haluatko varmasti poistaa tämän kommentin?"
 
 #: app/Template/comment/show.php:10
 msgid "Created at:"
-msgstr ""
+msgstr "Luotu osoitteessa:"
 
 #: app/Template/comment/show.php:11
 msgid "Updated at:"
-msgstr ""
+msgstr "Päivitetty osoitteessa:"
 
 #: app/Template/comment/show.php:20
 msgid "Link"
@@ -3489,15 +3484,15 @@ msgstr "Linkki"
 
 #: app/Template/comment_list/show.php:6 app/Template/task_comments/show.php:7
 msgid "Change sorting"
-msgstr ""
+msgstr "Muuta lajittelua"
 
 #: app/Template/comment_mail/create.php:2
 msgid "Create and send a comment by email"
-msgstr ""
+msgstr "Luo ja lähetä kommentti sähköpostitse"
 
 #: app/Template/comment_mail/create.php:25 app/Template/task_mail/create.php:23
 msgid "Subject"
-msgstr ""
+msgstr "Aihe"
 
 #: app/Template/config/about.php:7
 msgid "Official website:"
@@ -3505,19 +3500,19 @@ msgstr "Virallinen verkkosivu:"
 
 #: app/Template/config/about.php:11
 msgid "Author:"
-msgstr ""
+msgstr "Kirjoittaja:"
 
 #: app/Template/config/about.php:12
 msgid "contributors"
-msgstr ""
+msgstr "avustajat"
 
 #: app/Template/config/about.php:15
 msgid "License:"
-msgstr ""
+msgstr "Lisenssi:"
 
 #: app/Template/config/about.php:22
 msgid "Configuration"
-msgstr ""
+msgstr "Konfigurointi"
 
 #: app/Template/config/about.php:27
 msgid "Application version:"
@@ -3525,19 +3520,19 @@ msgstr "Ohjelman versio:"
 
 #: app/Template/config/about.php:31
 msgid "PHP version:"
-msgstr ""
+msgstr "PHP-versio:"
 
 #: app/Template/config/about.php:35
 msgid "PHP SAPI:"
-msgstr ""
+msgstr "PHP SAPI:"
 
 #: app/Template/config/about.php:39
 msgid "HTTP Client:"
-msgstr ""
+msgstr "HTTP-asiakas:"
 
 #: app/Template/config/about.php:43
 msgid "OS version:"
-msgstr ""
+msgstr "Käyttöjärjestelmäversio:"
 
 #: app/Template/config/about.php:47
 msgid "Database driver:"
@@ -3545,11 +3540,11 @@ msgstr "Tietokantaohjelmisto:"
 
 #: app/Template/config/about.php:51
 msgid "Database version:"
-msgstr ""
+msgstr "Tietokannan versio:"
 
 #: app/Template/config/about.php:55
 msgid "Browser:"
-msgstr ""
+msgstr "Selain:"
 
 #: app/Template/config/about.php:63
 msgid "Database"
@@ -3569,7 +3564,7 @@ msgstr "(Gzip-pakattu Sqlite-tiedosto)"
 
 #: app/Template/config/about.php:76 app/Template/config/upload_db.php:2
 msgid "Upload the database"
-msgstr ""
+msgstr "Lataa tietokanta"
 
 #: app/Template/config/about.php:79
 msgid "Optimize the database"
@@ -3581,11 +3576,11 @@ msgstr "(VACUUM-komento)"
 
 #: app/Template/config/about.php:87
 msgid "License"
-msgstr ""
+msgstr "Lisenssi"
 
 #: app/Template/config/api.php:7
 msgid "API token:"
-msgstr ""
+msgstr "API-tunniste:"
 
 #: app/Template/config/api.php:11
 msgid "API endpoint:"
@@ -3601,7 +3596,7 @@ msgstr "Sovelluksen URL"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
+msgstr "Esimerkki: https://example.kanboard.org/ (käytetään absoluuttisten URL-osoitteiden luomiseen)."
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3612,7 +3607,7 @@ msgstr "Kieli"
 
 #: app/Template/config/application.php:15
 msgid "Enable \"Forget Password\""
-msgstr ""
+msgstr "Ota käyttöön \"Unohda salasana\""
 
 #: app/Template/config/application.php:19
 #: app/Template/user_creation/show.php:48
@@ -3632,23 +3627,19 @@ msgstr "ISO-muoto on aina hyväksytty, esimerkiksi %s ja %s"
 
 #: app/Template/config/application.php:26
 msgid "Time format"
-msgstr ""
+msgstr "Aikaformaatti"
 
 #: app/Template/config/application.php:31
 msgid "Custom Stylesheet"
-msgstr ""
+msgstr "Mukautettu tyylitaulukko"
 
 #: app/Template/config/board.php:8
 msgid "Task highlight period"
 msgstr "Tehtävän korostusaika"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Aika (sekunteina) kuinka kauan tehtävä voidaan katsoa äskettäin muokatuksi "
-"(0 poistaa toiminnon käytöstä, oletuksena 2 päivää)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Aika (sekunteina) kuinka kauan tehtävä voidaan katsoa äskettäin muokatuksi (0 poistaa toiminnon käytöstä, oletuksena 2 päivää)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3664,58 +3655,56 @@ msgstr "Päivitystiheys yksityisille tauluille"
 
 #: app/Template/config/board.php:18
 msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
-msgstr ""
-"Päivitystiheys sekunteina (0 poistaa toiminnon käytöstä, oletuksena 10 "
-"sekuntia)"
+msgstr "Päivitystiheys sekunteina (0 poistaa toiminnon käytöstä, oletuksena 10 sekuntia)"
 
 #: app/Template/config/email.php:8
 msgid "Outgoing Emails"
-msgstr ""
+msgstr "Lähtevät sähköpostit"
 
 #: app/Template/config/email.php:10
 msgid "Email sender address"
-msgstr ""
+msgstr "Sähköpostin lähettäjän osoite"
 
 #: app/Template/config/email.php:13
 msgid "Email transport"
-msgstr ""
+msgstr "Sähköpostikuljetus"
 
 #: app/Template/config/email.php:16
 msgid "The email configuration has been disabled by the administrator."
-msgstr ""
+msgstr "Järjestelmänvalvoja on poistanut sähköpostimäärityksen käytöstä."
 
 #: app/Template/config/integrations.php:2
 #: app/Template/project_view/integrations.php:2
 msgid "Integration with third-party services"
-msgstr ""
+msgstr "Integrointi kolmansien osapuolten palveluihin"
 
 #: app/Template/config/integrations.php:10
 msgid "There is no external integration installed."
-msgstr ""
+msgstr "Ulkoista integrointia ei ole asennettu."
 
 #: app/Template/config/keyboard_shortcuts.php:2
 msgid "Keyboard shortcuts"
-msgstr ""
+msgstr "Pikanäppäimet"
 
 #: app/Template/config/keyboard_shortcuts.php:5
 msgid "Board/Calendar/List view"
-msgstr ""
+msgstr "Taulu/kalenteri/luettelonäkymä"
 
 #: app/Template/config/keyboard_shortcuts.php:7
 msgid "Switch to the project overview"
-msgstr ""
+msgstr "Siirry projektin yleiskatsaukseen"
 
 #: app/Template/config/keyboard_shortcuts.php:8
 msgid "Switch to the board view"
-msgstr ""
+msgstr "Vaihda levynäkymään"
 
 #: app/Template/config/keyboard_shortcuts.php:9
 msgid "Switch to the list view"
-msgstr ""
+msgstr "Siirry luettelonäkymään"
 
 #: app/Template/config/keyboard_shortcuts.php:11
 msgid "Board view"
-msgstr ""
+msgstr "Hallituksen näkymä"
 
 #: app/Template/config/keyboard_shortcuts.php:13
 #: app/Template/task_creation/show.php:2
@@ -3724,59 +3713,59 @@ msgstr "Uusi tehtävä"
 
 #: app/Template/config/keyboard_shortcuts.php:14
 msgid "Expand/collapse tasks"
-msgstr ""
+msgstr "Tehtävien laajentaminen/tappaminen"
 
 #: app/Template/config/keyboard_shortcuts.php:15
 msgid "Compact/wide view"
-msgstr ""
+msgstr "Kompakti/laajakulmainen näkymä"
 
 #: app/Template/config/keyboard_shortcuts.php:17
 msgid "Task view"
-msgstr ""
+msgstr "Tehtävänäkymä"
 
 #: app/Template/config/keyboard_shortcuts.php:19
 msgid "Edit task"
-msgstr ""
+msgstr "Muokkaa tehtävää"
 
 #: app/Template/config/keyboard_shortcuts.php:20
 msgid "New subtask"
-msgstr ""
+msgstr "Uusi alatehtävä"
 
 #: app/Template/config/keyboard_shortcuts.php:22
 msgid "New internal link"
-msgstr ""
+msgstr "Uusi sisäinen linkki"
 
 #: app/Template/config/keyboard_shortcuts.php:24
 msgid "Application"
-msgstr ""
+msgstr "Hakemus"
 
 #: app/Template/config/keyboard_shortcuts.php:26
 msgid "Display list of keyboard shortcuts"
-msgstr ""
+msgstr "Näyttää pikanäppäinluettelon"
 
 #: app/Template/config/keyboard_shortcuts.php:27
 msgid "Open board switcher"
-msgstr ""
+msgstr "Avoimen piirilevyn kytkin"
 
 #: app/Template/config/keyboard_shortcuts.php:28
 msgid "Go to the search/filter box"
-msgstr ""
+msgstr "Siirry haku-/suodatusruutuun"
 
 #: app/Template/config/keyboard_shortcuts.php:29
 msgid "Reset the search/filter box"
-msgstr ""
+msgstr "Nollaa haku-/suodatusruutu"
 
 #: app/Template/config/keyboard_shortcuts.php:30
 msgid "Close dialog box"
-msgstr ""
+msgstr "Sulje valintaikkuna"
 
 #: app/Template/config/keyboard_shortcuts.php:31
 msgid "Submit a form"
-msgstr ""
+msgstr "Lähetä lomake"
 
 #: app/Template/config/project.php:8
 msgid "Default task color"
-msgstr ""
+msgstr "Tehtävän oletusväri"
 
 #: app/Template/config/project.php:11
 msgid "Default columns for new projects (Comma-separated)"
@@ -3797,48 +3786,47 @@ msgstr "Esimerkiksi: \"Bugit, Ominaisuuspyynnöt, Parannukset\""
 
 #: app/Template/config/project.php:21
 msgid "Disable personal projects"
-msgstr ""
+msgstr "Henkilökohtaisten projektien poistaminen käytöstä"
 
 #: app/Template/config/project.php:22
 msgid "Allow only one subtask in progress at the same time for a user"
-msgstr ""
+msgstr "Salli vain yhden osatehtävän samanaikainen suorittaminen käyttäjälle."
 
 #: app/Template/config/project.php:23
 msgid "Trigger automatically subtask time tracking"
-msgstr ""
+msgstr "Laukaise automaattisesti osatehtävien ajanseuranta"
 
 #: app/Template/config/project.php:24
 msgid "Include closed tasks in the cumulative flow diagram"
-msgstr ""
+msgstr "Sisällytä suljetut tehtävät kumulatiiviseen virtauskaavioon."
 
 #: app/Template/config/sidebar.php:19
 msgid "Tags management"
-msgstr ""
+msgstr "Tunnisteet hallinto"
 
 #: app/Template/config/sidebar.php:31
 msgid "Webhooks"
-msgstr ""
+msgstr "Verkkokoukut"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Voit ladata aiemmin ladatun Sqlite-tietokannan (Gzip-muodossa)."
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
-msgstr ""
+msgstr "Tietokantatiedosto"
 
 #: app/Template/config/upload_db.php:15
 msgid "Upload"
-msgstr ""
+msgstr "Lataa"
 
 #: app/Template/config/webhook.php:7
 msgid "Webhook URL"
-msgstr ""
+msgstr "Webhookin URL-osoite"
 
 #: app/Template/config/webhook.php:16
 msgid "Webhook token"
-msgstr ""
+msgstr "Webhook-tunniste"
 
 #: app/Template/config/webhook.php:19
 msgid "Webhook token:"
@@ -3846,32 +3834,32 @@ msgstr "Webhooks avain:"
 
 #: app/Template/currency/change.php:2 app/Template/currency/show.php:8
 msgid "Change reference currency"
-msgstr ""
+msgstr "Vaihda viitevaluuttaa"
 
 #: app/Template/currency/change.php:6
 msgid "Reference currency"
-msgstr ""
+msgstr "Viitevaluutta"
 
 #: app/Template/currency/create.php:2 app/Template/currency/show.php:5
 msgid "Add or change currency rate"
-msgstr ""
+msgstr "Lisää tai muuta valuuttakurssia"
 
 #: app/Template/currency/create.php:6 app/Template/currency/show.php:20
 msgid "Currency"
-msgstr ""
+msgstr "Valuutta"
 
 #: app/Template/currency/create.php:8 app/Template/currency/show.php:21
 msgid "Rate"
-msgstr ""
+msgstr "Arvioi"
 
 #: app/Template/currency/show.php:14
 #, php-format
 msgid "Reference currency: %s"
-msgstr ""
+msgstr "Viitevaluutta: %s"
 
 #: app/Template/custom_filter/create.php:2
 msgid "Add a new filter"
-msgstr ""
+msgstr "Lisää uusi suodatin"
 
 #: app/Template/custom_filter/create.php:7
 #: app/Template/custom_filter/edit.php:10
@@ -3898,51 +3886,51 @@ msgstr "Nimi"
 #: app/Template/user_creation/show.php:54
 #: app/Template/user_modification/show.php:28
 msgid "Filter"
-msgstr ""
+msgstr "Suodatin"
 
 #: app/Template/custom_filter/create.php:14
 #: app/Template/custom_filter/edit.php:17
 msgid "Share with all project members"
-msgstr ""
+msgstr "Jaa kaikkien projektin jäsenten kanssa"
 
 #: app/Template/custom_filter/create.php:17
 #: app/Template/custom_filter/edit.php:22
 msgid "Append filter (instead of replacement)"
-msgstr ""
+msgstr "Liitä suodatin (korvaamisen sijasta)"
 
 #: app/Template/custom_filter/index.php:5
 #: app/Template/project_header/dropdown.php:43
 msgid "Add custom filters"
-msgstr ""
+msgstr "Lisää mukautettuja suodattimia"
 
 #: app/Template/custom_filter/index.php:14
 msgid "Shared"
-msgstr ""
+msgstr "Jaettu"
 
 #: app/Template/custom_filter/index.php:15
 msgid "Append/Replace"
-msgstr ""
+msgstr "Liitä/korvaa"
 
 #: app/Template/custom_filter/index.php:16
 msgid "Owner"
-msgstr ""
+msgstr "Omistaja"
 
 #: app/Template/custom_filter/index.php:44
 msgid "Append"
-msgstr ""
+msgstr "Liitä"
 
 #: app/Template/custom_filter/index.php:46
 msgid "Replace"
-msgstr ""
+msgstr "Vaihda"
 
 #: app/Template/custom_filter/index.php:56
 msgid "There is no custom filter."
-msgstr ""
+msgstr "Mukautettua suodatinta ei ole."
 
 #: app/Template/custom_filter/remove.php:7
 #, php-format
 msgid "Do you really want to remove this custom filter: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän mukautetun suodattimen: \"%s\"?"
 
 #: app/Template/dashboard/layout.php:15
 msgid "Project management"
@@ -3957,7 +3945,7 @@ msgstr "Etsi"
 #: app/Template/dashboard/overview.php:38 app/Template/project_edit/show.php:41
 #: app/Template/project_list/project_icons.php:9
 msgid "Personal project"
-msgstr ""
+msgstr "Henkilökohtainen projekti"
 
 #: app/Template/dashboard/overview.php:58 app/Template/dashboard/subtasks.php:5
 #: app/Template/dashboard/tasks.php:5
@@ -3966,41 +3954,41 @@ msgstr "Ei tehtäviä, joihin sinut olisi merkitty tekijäksi."
 
 #: app/Template/dashboard/projects.php:2 app/Template/dashboard/sidebar.php:7
 msgid "My projects"
-msgstr ""
+msgstr "Minun projektini"
 
 #: app/Template/dashboard/projects.php:5
 msgid "You are not a member of any project."
-msgstr ""
+msgstr "Et ole minkään projektin jäsen."
 
 #: app/Template/dashboard/sidebar.php:4 app/Template/project_header/views.php:6
 msgid "Overview"
-msgstr ""
+msgstr "Yleiskatsaus"
 
 #: app/Template/dashboard/sidebar.php:13 app/Template/dashboard/subtasks.php:2
 msgid "My subtasks"
-msgstr ""
+msgstr "Osatehtäväni"
 
 #: app/Template/dashboard/subtasks.php:11
 #, php-format
 msgid "%d subtasks"
-msgstr ""
+msgstr "%d osatehtävät"
 
 #: app/Template/dashboard/subtasks.php:13
 #, php-format
 msgid "%d subtask"
-msgstr ""
+msgstr "%d osatehtävä"
 
 #: app/Template/dashboard/subtasks.php:18 app/Template/group/index.php:30
 #: app/Template/project_list/sort_menu.php:2
 #: app/Template/task_list/sort_menu.php:2
 #: app/Template/user_list/sort_menu.php:2
 msgid "Sort"
-msgstr ""
+msgstr "Lajittele"
 
 #: app/Template/dashboard/subtasks.php:21
 #: app/Template/task_list/sort_menu.php:5
 msgid "Task ID"
-msgstr ""
+msgstr "Tehtävän tunnus"
 
 #: app/Template/event/comment_create.php:2
 #, php-format
@@ -4010,7 +3998,7 @@ msgstr "%s kommentoi tehtävää %s"
 #: app/Template/event/comment_delete.php:2
 #, php-format
 msgid "%s removed a comment on the task %s"
-msgstr ""
+msgstr "%s poisti kommentin tehtävästä %s"
 
 #: app/Template/event/comment_update.php:2
 #, php-format
@@ -4019,7 +4007,7 @@ msgstr "%s päivitti kommentia tehtävässä %s"
 
 #: app/Template/event/events.php:2
 msgid "There is no activity yet."
-msgstr ""
+msgstr "Toimintaa ei vielä ole."
 
 #: app/Template/event/subtask_create.php:2
 #, php-format
@@ -4041,7 +4029,7 @@ msgstr "Ei annettu kenellekään, arvio %sh"
 #: app/Template/event/subtask_delete.php:2
 #, php-format
 msgid "%s removed a subtask for the task %s"
-msgstr ""
+msgstr "%s poisti alatehtävän tehtävästä %s"
 
 #: app/Template/event/subtask_update.php:2
 #, php-format
@@ -4066,34 +4054,34 @@ msgstr "%s loi tehtävän %s"
 #: app/Template/event/task_file_create.php:2
 #, php-format
 msgid "%s attached a new file to the task %s"
-msgstr ""
+msgstr "%s liitti uuden tiedoston tehtävään %s"
 
 #: app/Template/event/task_file_destroy.php:2
 #, php-format
 msgid "%s removed a file from the task %s"
-msgstr ""
+msgstr "%s poisti tiedoston tehtävästä %s"
 
 #: app/Template/event/task_internal_link_create_update.php:2
 #, php-format
 msgid "%s set a new internal link for the task %s"
-msgstr ""
+msgstr "%s aseta uusi sisäinen linkki tehtävälle %s."
 
 #: app/Template/event/task_internal_link_create_update.php:10
 #: app/Template/notification/task_internal_link_create_update.php:6
 #, php-format
 msgid "This task is now linked to the task %s with the relation \"%s\""
-msgstr ""
+msgstr "Tämä tehtävä on nyt linkitetty tehtävään %s suhteella \"%s\"."
 
 #: app/Template/event/task_internal_link_delete.php:2
 #, php-format
 msgid "%s removed an internal link for the task %s"
-msgstr ""
+msgstr "%s poistettu sisäinen linkki tehtävään %s"
 
 #: app/Template/event/task_internal_link_delete.php:10
 #: app/Template/notification/task_internal_link_delete.php:6
 #, php-format
 msgid "The link with the relation \"%s\" to the task %s has been removed"
-msgstr ""
+msgstr "Linkki, joka liittyy suhteeseen \"%s\" tehtävään %s , on poistettu."
 
 #: app/Template/event/task_move_column.php:2
 #, php-format
@@ -4108,12 +4096,12 @@ msgstr "%s siirsi tehtävän %s %d. sarakkeessa \"%s\""
 #: app/Template/event/task_move_swimlane.php:3
 #, php-format
 msgid "%s moved the task %s to the first swimlane"
-msgstr ""
+msgstr "%s siirsi tehtävän %s ensimmäiselle uimakaistalle."
 
 #: app/Template/event/task_move_swimlane.php:8
 #, php-format
 msgid "%s moved the task %s to the swimlane \"%s\""
-msgstr ""
+msgstr "%s siirsi tehtävän %s uimatilaan \"%s\"."
 
 #: app/Template/event/task_open.php:2
 #, php-format
@@ -4127,7 +4115,7 @@ msgstr "%s päivitti tehtävän %s"
 
 #: app/Template/export/header.php:11
 msgid "Task transitions"
-msgstr ""
+msgstr "Tehtävän siirtymät"
 
 #: app/Template/export/header.php:14
 msgid "Daily project summary"
@@ -4135,64 +4123,61 @@ msgstr "Päivittäinen yhteenveto"
 
 #: app/Template/export/subtasks.php:3
 msgid "This report contains all subtasks information for the given date range."
-msgstr ""
+msgstr "Tämä raportti sisältää kaikki osatehtävien tiedot annetulta päivämääräväliltä."
 
 #: app/Template/export/subtasks.php:12 app/Template/export/summary.php:12
 #: app/Template/export/tasks.php:12 app/Template/export/transitions.php:12
 msgid "Export"
-msgstr ""
+msgstr "Vie"
 
 #: app/Template/export/summary.php:3
 msgid "This export contains the number of tasks per column grouped per day."
-msgstr ""
-"Tämä tiedosto sisältää tehtäviä sarakkeisiin päiväkohtaisesti ryhmilteltyinä"
+msgstr "Tämä tiedosto sisältää tehtäviä sarakkeisiin päiväkohtaisesti ryhmilteltyinä"
 
 #: app/Template/export/tasks.php:3
 msgid "This report contains all tasks information for the given date range."
-msgstr ""
+msgstr "Tämä raportti sisältää kaikki tehtävätiedot annetulta päivämääräväliltä."
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Tämä raportti sisältää kunkin tehtävän kaikki sarakkeen siirrot päivämäärineen, käyttäjineen ja kuluneine siirtymisaikoineen."
 
 #: app/Template/feed/user.php:3
 #, php-format
 msgid "Project activities for %s"
-msgstr ""
+msgstr "Hanketoiminta osoitteessa %s"
 
 #: app/Template/group/associate.php:2
 #, php-format
 msgid "Add group member to \"%s\""
-msgstr ""
+msgstr "Lisää ryhmän jäsen osoitteeseen \"%s\""
 
 #: app/Template/group/associate.php:5
 msgid "There is no user available."
-msgstr ""
+msgstr "Käyttäjää ei ole käytettävissä."
 
 #: app/Template/group/associate.php:7 app/Template/project_file/create.php:14
 #: app/Template/task_file/create.php:14
 msgid "Close this window"
-msgstr ""
+msgstr "Sulje tämä ikkuna"
 
 #: app/Template/group/dissociate.php:2
 #, php-format
 msgid "Remove user from group \"%s\""
-msgstr ""
+msgstr "Poista käyttäjä ryhmästä \"%s\""
 
 #: app/Template/group/dissociate.php:5
 #, php-format
 msgid "Do you really want to remove the user \"%s\" from the group \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella poistaa käyttäjän \"%s\" ryhmästä \"%s\"?"
 
 #: app/Template/group/dropdown.php:4 app/Template/group/users.php:6
 msgid "Add group member"
-msgstr ""
+msgstr "Lisää ryhmän jäsen"
 
 #: app/Template/group/dropdown.php:5
 msgid "Members"
-msgstr ""
+msgstr "Jäsenet"
 
 #: app/Template/group/index.php:3 app/Template/group/users.php:4
 #: app/Template/user_view/layout.php:6
@@ -4201,69 +4186,69 @@ msgstr "Kaikki käyttäjät"
 
 #: app/Template/group/index.php:4 app/Template/group_creation/show.php:2
 msgid "New group"
-msgstr ""
+msgstr "Uusi ryhmä"
 
 #: app/Template/group/index.php:17
 msgid "There is no group."
-msgstr ""
+msgstr "Ryhmää ei ole."
 
 #: app/Template/group/index.php:23
 #, php-format
 msgid "%d groups"
-msgstr ""
+msgstr "%d ryhmät"
 
 #: app/Template/group/index.php:25
 #, php-format
 msgid "%d group"
-msgstr ""
+msgstr "%d ryhmä"
 
 #: app/Template/group/index.php:33
 msgid "Group ID"
-msgstr ""
+msgstr "Ryhmän tunnus"
 
 #: app/Template/group/index.php:39
 msgid "External ID"
-msgstr ""
+msgstr "Ulkoinen tunnus"
 
 #: app/Template/group/index.php:56 app/Template/user_list/header.php:5
 #, php-format
 msgid "%d users"
-msgstr ""
+msgstr "%d käyttäjät"
 
 #: app/Template/group/index.php:58 app/Template/user_list/header.php:7
 #, php-format
 msgid "%d user"
-msgstr ""
+msgstr "%d käyttäjä"
 
 #: app/Template/group/remove.php:2
 msgid "Remove group"
-msgstr ""
+msgstr "Poista ryhmä"
 
 #: app/Template/group/remove.php:5
 #, php-format
 msgid "Do you really want to remove this group: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän ryhmän: \"%s\"?"
 
 #: app/Template/group/user_dropdown.php:5 app/Template/user_list/dropdown.php:5
 msgid "View profile"
-msgstr ""
+msgstr "Näytä profiili"
 
 #: app/Template/group/user_dropdown.php:8
 msgid "Remove user from group"
-msgstr ""
+msgstr "Poista käyttäjä ryhmästä"
 
 #: app/Template/group/users.php:5 app/Template/user_list/listing.php:14
 #: app/Template/user_view/layout.php:15
 msgid "View all groups"
-msgstr ""
+msgstr "Näytä kaikki ryhmät"
 
 #: app/Template/group/users.php:10
 msgid "There is no user in this group."
-msgstr ""
+msgstr "Tässä ryhmässä ei ole käyttäjää."
 
 #: app/Template/group_modification/show.php:2
 msgid "Edit group"
-msgstr ""
+msgstr "Muokkaa ryhmää"
 
 #: app/Template/header/board_selector.php:3
 #: app/Template/header/board_selector.php:4
@@ -4276,31 +4261,31 @@ msgstr "Työpöytä"
 
 #: app/Template/header/user_dropdown.php:6
 msgid "My dashboard"
-msgstr ""
+msgstr "Kojelautani"
 
 #: app/Template/header/user_dropdown.php:9
 msgid "My profile"
-msgstr ""
+msgstr "Profiilini"
 
 #: app/Template/header/user_dropdown.php:12
 msgid "Projects management"
-msgstr ""
+msgstr "Hankkeiden hallinnointi"
 
 #: app/Template/header/user_dropdown.php:16
 msgid "Users management"
-msgstr ""
+msgstr "Käyttäjien hallinta"
 
 #: app/Template/header/user_dropdown.php:19
 msgid "Groups management"
-msgstr ""
+msgstr "Ryhmien hallinta"
 
 #: app/Template/header/user_dropdown.php:22
 msgid "Plugins"
-msgstr ""
+msgstr "Liitännäiset"
 
 #: app/Template/header/user_dropdown.php:33
 msgid "Documentation"
-msgstr ""
+msgstr "Dokumentaatio"
 
 #: app/Template/header/user_dropdown.php:37
 msgid "Logout"
@@ -4308,34 +4293,34 @@ msgstr "Kirjaudu ulos"
 
 #: app/Template/header/user_notifications.php:3
 msgid "Unread notifications"
-msgstr ""
+msgstr "Lukemattomat ilmoitukset"
 
 #: app/Template/header/user_notifications.php:5
 #: app/Template/web_notification/show.php:2
 msgid "My notifications"
-msgstr ""
+msgstr "Minun ilmoitukset"
 
 #: app/Template/link/create.php:2 app/Template/link/show.php:5
 msgid "Add link label"
-msgstr ""
+msgstr "Lisää linkin etiketti"
 
 #: app/Template/link/create.php:9 app/Template/link/edit.php:13
 msgid "Opposite label"
-msgstr ""
+msgstr "Vastakkainen etiketti"
 
 #: app/Template/link/edit.php:2
 msgid "Link modification"
-msgstr ""
+msgstr "Linkin muutos"
 
 #: app/Template/link/remove.php:2 app/Template/task_external_link/remove.php:2
 #: app/Template/task_internal_link/remove.php:2
 msgid "Remove a link"
-msgstr ""
+msgstr "Poista linkki"
 
 #: app/Template/link/remove.php:7 app/Template/task_external_link/remove.php:7
 #, php-format
 msgid "Do you really want to remove this link: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän linkin: \"%s\"?"
 
 #: app/Template/link/show.php:13 app/Template/project_creation/create.php:37
 #: app/Template/project_permission/groups.php:13
@@ -4348,7 +4333,7 @@ msgstr "Toiminnot"
 
 #: app/Template/link/show.php:35
 msgid "There is no link."
-msgstr ""
+msgstr "Yhteyttä ei ole."
 
 #: app/Template/notification/comment_create.php:6
 #, php-format
@@ -4357,7 +4342,7 @@ msgstr "%s lisäsi uuden kommentin"
 
 #: app/Template/notification/comment_delete.php:5
 msgid "Comment removed"
-msgstr ""
+msgstr "Kommentti poistettu"
 
 #: app/Template/notification/comment_update.php:5
 msgid "Comment updated"
@@ -4369,7 +4354,7 @@ msgstr "katso tehtävää Kanboardissa"
 
 #: app/Template/notification/footer.php:8
 msgid "view the board on Kanboard"
-msgstr ""
+msgstr "tarkastella taulua Kanboardissa"
 
 #: app/Template/notification/subtask_create.php:5
 msgid "New sub-task"
@@ -4399,7 +4384,7 @@ msgstr "Vastaanottaja:"
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4412,11 +4397,11 @@ msgstr "Ajan seuranta:"
 #: app/Template/task_internal_link/table.php:71
 #, php-format
 msgid "%sh estimated"
-msgstr ""
+msgstr "%sh arvioitu"
 
 #: app/Template/notification/subtask_delete.php:5
 msgid "Subtask removed"
-msgstr ""
+msgstr "Osatehtävä poistettu"
 
 #: app/Template/notification/subtask_update.php:5
 msgid "Sub-task updated"
@@ -4427,7 +4412,7 @@ msgstr "Alitehtävä päivitetty"
 #: app/Template/task_internal_link/table.php:67
 #, php-format
 msgid "%sh spent"
-msgstr ""
+msgstr "%sh käytetty"
 
 #: app/Template/notification/task_assignee_change.php:9
 #: app/Template/notification/task_create.php:22
@@ -4454,12 +4439,12 @@ msgstr "Tehtävä #%d on suljettu"
 #: app/Template/notification/task_create.php:7
 #: app/Template/task/details.php:131 app/Template/task_mail/email.php:8
 msgid "Created:"
-msgstr ""
+msgstr "Luotu:"
 
 #: app/Template/notification/task_create.php:11
 #: app/Template/task/details.php:118 app/Template/task_mail/email.php:12
 msgid "Due date:"
-msgstr ""
+msgstr "Eräpäivä:"
 
 #: app/Template/notification/task_create.php:16
 #: app/Template/task_mail/email.php:17
@@ -4496,15 +4481,15 @@ msgstr "Uusi liite lisätty \"%s\""
 #: app/Template/notification/task_file_destroy.php:5
 #, php-format
 msgid "Attachment removed \"%s\""
-msgstr ""
+msgstr "Liite poistettu \"%s\""
 
 #: app/Template/notification/task_move_swimlane.php:8
 msgid "The task has been moved to the first swimlane"
-msgstr ""
+msgstr "Tehtävä on siirretty ensimmäiselle uimakaistalle."
 
 #: app/Template/notification/task_move_swimlane.php:10
 msgid "The task has been moved to another swimlane:"
-msgstr ""
+msgstr "Tehtävä on siirretty toiselle uimakaistalle:"
 
 #: app/Template/notification/task_open.php:5
 #, php-format
@@ -4514,16 +4499,16 @@ msgstr "Tehtävä #%d on avattu"
 #: app/Template/notification/task_overdue.php:3
 #, php-format
 msgid "Overdue tasks for the project(s) \"%s\""
-msgstr ""
+msgstr "Projektin (projektien) myöhässä olevat tehtävät \"%s\""
 
 #: app/Template/password_reset/change.php:2
 #: app/Template/password_reset/create.php:2
 msgid "Password Reset"
-msgstr ""
+msgstr "Salasanan palautus"
 
 #: app/Template/password_reset/change.php:6
 msgid "New password"
-msgstr ""
+msgstr "Uusi salasana"
 
 #: app/Template/password_reset/change.php:9
 #: app/Template/user_creation/show.php:31
@@ -4535,85 +4520,83 @@ msgstr "Vahvistus"
 #: app/Template/password_reset/change.php:13
 #: app/Template/password_reset/create.php:15
 msgid "Change Password"
-msgstr ""
+msgstr "Vaihda salasana"
 
 #: app/Template/password_reset/create.php:8
 msgid "Your profile must have a valid email address."
-msgstr ""
+msgstr "Profiilissasi on oltava voimassa oleva sähköpostiosoite."
 
 #: app/Template/password_reset/email.php:1
 msgid "To reset your password click on this link:"
-msgstr ""
+msgstr "Voit palauttaa salasanasi klikkaamalla tätä linkkiä:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Kanboard-instanssia ei ole määritetty asentamaan lisäosia käyttöliittymästä."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
-msgstr ""
+msgstr "Lisäosaa ei ole saatavilla."
 
 #: app/Template/plugin/directory.php:31
 msgid "Install"
-msgstr ""
+msgstr "Asenna"
 
 #: app/Template/plugin/directory.php:33
 msgid "Update"
-msgstr ""
+msgstr "Päivitys"
 
 #: app/Template/plugin/directory.php:36
 msgid "Up to date"
-msgstr ""
+msgstr "Ajan tasalla"
 
 #: app/Template/plugin/directory.php:40
 msgid "Not available"
-msgstr ""
+msgstr "Ei saatavilla"
 
 #: app/Template/plugin/remove.php:2
 msgid "Remove plugin"
-msgstr ""
+msgstr "Poista lisäosa"
 
 #: app/Template/plugin/remove.php:6
 #, php-format
 msgid "Do you really want to remove this plugin: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän laajennuksen: \"%s\"?"
 
 #: app/Template/plugin/show.php:3
 msgid "Incompatible Plugins"
-msgstr ""
+msgstr "Yhteensopimattomat lisäosat"
 
 #: app/Template/plugin/show.php:8 app/Template/plugin/show.php:51
 msgid "Author"
-msgstr ""
+msgstr "Kirjoittaja"
 
 #: app/Template/plugin/show.php:9 app/Template/plugin/show.php:52
 msgid "Version"
-msgstr ""
+msgstr "Versio"
 
 #: app/Template/plugin/show.php:10
 msgid "Compatibility"
-msgstr ""
+msgstr "Yhteensopivuus"
 
 #: app/Template/plugin/show.php:30 app/Template/plugin/show.php:71
 msgid "Uninstall"
-msgstr ""
+msgstr "Poista"
 
 #: app/Template/plugin/show.php:46
 msgid "There is no plugin loaded."
-msgstr ""
+msgstr "Lisäosaa ei ole ladattu."
 
 #: app/Template/predefined_task_description/create.php:2
 #: app/Template/predefined_task_description/edit.php:2
 #: app/Template/predefined_task_description/remove.php:2
 msgid "Predefined Task Description"
-msgstr ""
+msgstr "Ennalta määritetty tehtävä Kuvaus"
 
 #: app/Template/predefined_task_description/remove.php:7
 #, php-format
 msgid "Do you really want to remove this template? \"%s\""
-msgstr ""
+msgstr "Haluatko todella poistaa tämän mallin? \"%s\""
 
 #: app/Template/project/dropdown.php:5 app/Template/project_header/views.php:12
 #: app/Template/project_user_overview/roles.php:16
@@ -4622,7 +4605,7 @@ msgstr "Taulu"
 
 #: app/Template/project/dropdown.php:8
 msgid "Listing"
-msgstr ""
+msgstr "Luettelo"
 
 #: app/Template/project/dropdown.php:11
 #: app/Template/project_header/dropdown.php:38
@@ -4639,11 +4622,11 @@ msgstr "Analytiikka"
 #: app/Template/project_header/dropdown.php:2
 #: app/Template/project_header/dropdown.php:75
 msgid "Configure this project"
-msgstr ""
+msgstr "Määritä tämä projekti"
 
 #: app/Template/project/sidebar.php:17
 msgid "Predefined contents"
-msgstr ""
+msgstr "Ennalta määritetty sisältö"
 
 #: app/Template/project/sidebar.php:29
 #: app/Template/project_user_overview/roles.php:8
@@ -4655,13 +4638,13 @@ msgstr "Sarakkeet"
 #: app/Template/project_creation/create.php:31
 #: app/Template/project_view/duplicate.php:14
 msgid "Permissions"
-msgstr ""
+msgstr "Luvat"
 
 #: app/Template/project/sidebar.php:45
 #: app/Template/project_creation/create.php:32
 #: app/Template/project_view/duplicate.php:15
 msgid "Custom roles"
-msgstr ""
+msgstr "Mukautetut roolit"
 
 #: app/Template/project/sidebar.php:52
 #: app/Template/project_view/duplicate.php:26 app/Template/task/dropdown.php:48
@@ -4671,98 +4654,96 @@ msgstr "Monista"
 
 #: app/Template/project/sidebar.php:59
 msgid "Close this project"
-msgstr ""
+msgstr "Sulje tämä projekti"
 
 #: app/Template/project/sidebar.php:62
 msgid "Open this project"
-msgstr ""
+msgstr "Avaa tämä projekti"
 
 #: app/Template/project_action_duplication/show.php:2
 msgid "Import actions from another project"
-msgstr ""
+msgstr "Toimintojen tuominen toisesta projektista"
 
 #: app/Template/project_action_duplication/show.php:5
 msgid "There is no available project."
-msgstr ""
+msgstr "Hanketta ei ole käytettävissä."
 
 #: app/Template/project_action_duplication/show.php:10
 #: app/Template/project_creation/create.php:23
 msgid "Create from another project"
-msgstr ""
+msgstr "Luo toisesta projektista"
 
 #: app/Template/project_creation/create.php:13
 #: app/Template/project_edit/show.php:23
 msgid "Identifier"
-msgstr ""
+msgstr "Tunniste"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Hankkeen tunniste on valinnainen ja sen on oltava aakkosnumeerinen, esim: MYPROJECT."
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
-msgstr ""
+msgstr "Sarakkeen tehtävärajoitukset koskevat kutakin uimakaistaa erikseen."
 
 #: app/Template/project_creation/create.php:28
 #: app/Template/project_view/duplicate.php:7
 msgid "Which parts of the project do you want to duplicate?"
-msgstr ""
+msgstr "Mitkä osat hankkeesta haluat kopioida?"
 
 #: app/Template/project_creation/create.php:39
 #: app/Template/project_view/duplicate.php:22
 msgid "Metadata"
-msgstr ""
+msgstr "Metatiedot"
 
 #: app/Template/project_creation/create.php:47
 msgid "There is no user management for personal projects."
-msgstr ""
+msgstr "Henkilökohtaisissa projekteissa ei ole käyttäjähallintaa."
 
 #: app/Template/project_edit/show.php:14
 msgid "General"
-msgstr ""
+msgstr "Yleistä"
 
 #: app/Template/project_edit/show.php:21
 msgid "The project email is optional and could be used by several plugins."
-msgstr ""
+msgstr "Projektin sähköpostiosoite on valinnainen, ja sitä voivat käyttää useat liitännäiset."
 
 #: app/Template/project_edit/show.php:30
 msgid "Task limits apply to each swimlane individually"
-msgstr ""
+msgstr "Tehtävärajat koskevat kutakin uintikaistaa erikseen"
 
 #: app/Template/project_edit/show.php:37
 msgid "Permissions and ownership"
-msgstr ""
+msgstr "Oikeudet ja omistajuus"
 
 #: app/Template/project_edit/show.php:42
 msgid "Personal projects do not have users and groups management."
-msgstr ""
+msgstr "Henkilökohtaisissa projekteissa ei ole käyttäjien ja ryhmien hallintaa."
 
 #: app/Template/project_edit/show.php:47
 msgid "Project owner"
-msgstr ""
+msgstr "Hankkeen omistaja"
 
 #: app/Template/project_edit/show.php:53
 msgid "Dates"
-msgstr ""
+msgstr "Päivämäärät"
 
 #: app/Template/project_edit/show.php:60
 msgid "Priorities"
-msgstr ""
+msgstr "Prioriteetit"
 
 #: app/Template/project_edit/show.php:62
 msgid "Default priority"
-msgstr ""
+msgstr "Oletusprioriteetti"
 
 #: app/Template/project_edit/show.php:65
 msgid "Lowest priority"
-msgstr ""
+msgstr "Alin prioriteetti"
 
 #: app/Template/project_edit/show.php:68
 msgid "Highest priority"
-msgstr ""
+msgstr "Korkein prioriteetti"
 
 #: app/Template/project_file/create.php:2 app/Template/task/dropdown.php:40
 #: app/Template/task/sidebar.php:61 app/Template/task_file/create.php:2
@@ -4771,28 +4752,28 @@ msgstr "Liitä dokumentti"
 
 #: app/Template/project_file/create.php:9 app/Template/task_file/create.php:9
 msgid "Drag and drop your files here"
-msgstr ""
+msgstr "Vedä ja pudota tiedostot tänne"
 
 #: app/Template/project_file/create.php:11 app/Template/task_file/create.php:11
 msgid "choose files"
-msgstr ""
+msgstr "valitse tiedostot"
 
 #: app/Template/project_file/create.php:12 app/Template/task_file/create.php:12
 #, php-format
 msgid "The maximum allowed file size is %sB."
-msgstr ""
+msgstr "Suurin sallittu tiedostokoko on %sB."
 
 #: app/Template/project_file/create.php:13 app/Template/task_file/create.php:13
 msgid "All files have been uploaded successfully."
-msgstr ""
+msgstr "Kaikki tiedostot on ladattu onnistuneesti."
 
 #: app/Template/project_file/create.php:15 app/Template/task_file/create.php:15
 msgid "Unable to upload this file."
-msgstr ""
+msgstr "Tätä tiedostoa ei voi ladata."
 
 #: app/Template/project_file/create.php:19 app/Template/task_file/create.php:19
 msgid "Upload files"
-msgstr ""
+msgstr "Lataa tiedostoja"
 
 #: app/Template/project_file/remove.php:2 app/Template/task_file/remove.php:2
 msgid "Remove a file"
@@ -4805,27 +4786,27 @@ msgstr "Haluatko varmasti poistaa tiedoston: \"%s\"?"
 
 #: app/Template/project_header/dropdown.php:7
 msgid "Expand tasks"
-msgstr ""
+msgstr "Laajenna tehtäviä"
 
 #: app/Template/project_header/dropdown.php:10
 msgid "Collapse tasks"
-msgstr ""
+msgstr "Sulje tehtävät"
 
 #: app/Template/project_header/dropdown.php:15
 msgid "Compact view"
-msgstr ""
+msgstr "Kompakti näkymä"
 
 #: app/Template/project_header/dropdown.php:18
 msgid "Horizontal scrolling"
-msgstr ""
+msgstr "Vaakasuora vieritys"
 
 #: app/Template/project_header/dropdown.php:23
 msgid "Collapse vertically"
-msgstr ""
+msgstr "Romahtaa pystysuoraan"
 
 #: app/Template/project_header/dropdown.php:26
 msgid "Expand vertically"
-msgstr ""
+msgstr "Laajenna pystysuunnassa"
 
 #: app/Template/project_header/dropdown.php:49
 #: app/Template/project_overview/information.php:30
@@ -4840,74 +4821,74 @@ msgstr "Viennit"
 
 #: app/Template/project_header/dropdown.php:69
 msgid "Import tasks"
-msgstr ""
+msgstr "Tuo tehtäviä"
 
 #: app/Template/project_header/dropdown.php:80
 msgid "Manage projects"
-msgstr ""
+msgstr "Hallitse projekteja"
 
 #: app/Template/project_header/search.php:30
 #: app/Template/project_user_overview/sidebar.php:7
 msgid "User filters"
-msgstr ""
+msgstr "Käyttäjän suodattimet"
 
 #: app/Template/project_header/search.php:45
 msgid "Category filters"
-msgstr ""
+msgstr "Luokan suodattimet"
 
 #: app/Template/project_header/views.php:18
 msgid "List"
-msgstr ""
+msgstr "Luettelo"
 
 #: app/Template/project_list/header.php:4
 #, php-format
 msgid "%d projects"
-msgstr ""
+msgstr "%d hankkeet"
 
 #: app/Template/project_list/header.php:6
 #, php-format
 msgid "%d project"
-msgstr ""
+msgstr "%d projekti"
 
 #: app/Template/project_list/listing.php:18
 msgid "Users overview"
-msgstr ""
+msgstr "Käyttäjien yleiskatsaus"
 
 #: app/Template/project_list/listing.php:34
 msgid "There is no project."
-msgstr ""
+msgstr "Hanketta ei ole olemassa."
 
 #: app/Template/project_list/project_details.php:8
 msgid "Start date:"
-msgstr ""
+msgstr "Aloituspäivä:"
 
 #: app/Template/project_list/project_details.php:12
 msgid "End date:"
-msgstr ""
+msgstr "Päättymispäivä:"
 
 #: app/Template/project_list/project_icons.php:5
 msgid "Shared project"
-msgstr ""
+msgstr "Yhteinen hanke"
 
 #: app/Template/project_list/sort_menu.php:5
 msgid "Project ID"
-msgstr ""
+msgstr "Hankkeen tunnus"
 
 #: app/Template/project_list/sort_menu.php:8
 msgid "Project name"
-msgstr ""
+msgstr "Hankkeen nimi"
 
 #: app/Template/project_list/sort_menu.php:20
 msgid "Public"
-msgstr ""
+msgstr "Julkinen"
 
 #: app/Template/project_list/sort_menu.php:23
 msgid "Personal"
-msgstr ""
+msgstr "Henkilökohtainen"
 
 #: app/Template/project_overview/activity.php:2
 msgid "Last activity"
-msgstr ""
+msgstr "Viimeisin toiminta"
 
 #: app/Template/project_overview/attachments.php:2
 #: app/Template/task_file/show.php:2
@@ -4916,65 +4897,65 @@ msgstr "Liitteet"
 
 #: app/Template/project_overview/attachments.php:6
 msgid "Upload a file"
-msgstr ""
+msgstr "Lataa tiedosto"
 
 #: app/Template/project_overview/description.php:6
 msgid "Edit description"
-msgstr ""
+msgstr "Muokkaa kuvausta"
 
 #: app/Template/project_overview/files.php:4 app/Template/task_file/files.php:4
 msgid "Filename"
-msgstr ""
+msgstr "Tiedostonimi"
 
 #: app/Template/project_overview/files.php:7 app/Template/task_file/files.php:5
 msgid "Size"
-msgstr ""
+msgstr "Koko"
 
 #: app/Template/project_overview/images.php:37
 #: app/Template/project_overview/images.php:41
 #: app/Template/task_file/images.php:38 app/Template/task_file/images.php:42
 #, php-format
 msgid "Uploaded: %s"
-msgstr ""
+msgstr "Ladattu: %s"
 
 #: app/Template/project_overview/images.php:37
 #: app/Template/task_file/images.php:38
 #, php-format
 msgid "Size: %s"
-msgstr ""
+msgstr "Koko: %s"
 
 #: app/Template/project_overview/images.php:39
 #: app/Template/task_file/images.php:40
 #, php-format
 msgid "Uploaded by %s"
-msgstr ""
+msgstr "Ladannut %s"
 
 #: app/Template/project_overview/information.php:2
 #: app/Template/user_view/sidebar.php:3
 msgid "Information"
-msgstr ""
+msgstr "Tiedot"
 
 #: app/Template/project_overview/information.php:22
 #: app/Template/project_view/show.php:28
 msgid "Start date: "
-msgstr ""
+msgstr "Aloituspäivä: "
 
 #: app/Template/project_overview/information.php:26
 #: app/Template/project_view/show.php:32
 msgid "End date: "
-msgstr ""
+msgstr "Päättymispäivä: "
 
 #: app/Template/project_permission/groups.php:2
 msgid "Allowed Groups"
-msgstr ""
+msgstr "Sallitut ryhmät"
 
 #: app/Template/project_permission/groups.php:6
 msgid "No group has been allowed."
-msgstr ""
+msgstr "Mitään ryhmää ei ole sallittu."
 
 #: app/Template/project_permission/groups.php:10
 msgid "Group"
-msgstr ""
+msgstr "Ryhmä"
 
 #: app/Template/project_permission/groups.php:11
 #: app/Template/project_permission/groups.php:24
@@ -4986,16 +4967,16 @@ msgstr ""
 #: app/Template/user_creation/show.php:40
 #: app/Template/user_list/sort_menu.php:20
 msgid "Role"
-msgstr ""
+msgstr "Rooli"
 
 #: app/Template/project_permission/groups.php:44
 msgid "Group Name"
-msgstr ""
+msgstr "Ryhmän nimi"
 
 #: app/Template/project_permission/groups.php:47
 #: app/Template/project_permission/groups.php:48
 msgid "Enter group name..."
-msgstr ""
+msgstr "Kirjoita ryhmän nimi..."
 
 #: app/Template/project_permission/groups.php:57
 #: app/Template/project_permission/users.php:57
@@ -5004,134 +4985,130 @@ msgstr "Lisää"
 
 #: app/Template/project_permission/index.php:2
 msgid "Allowed Users"
-msgstr ""
+msgstr "Sallitut käyttäjät"
 
 #: app/Template/project_permission/users.php:2
 msgid "No specific user has been allowed."
-msgstr ""
+msgstr "Mitään tiettyä käyttäjää ei ole sallittu."
 
 #: app/Template/project_permission/users.php:47
 #: app/Template/project_permission/users.php:48
 msgid "Enter user name..."
-msgstr ""
+msgstr "Syötä käyttäjänimi..."
 
 #: app/Template/project_predefined_content/show.php:5
 msgid "Add predefined task description"
-msgstr ""
+msgstr "Lisää ennalta määritetty tehtävän kuvaus"
 
 #: app/Template/project_predefined_content/show.php:11
 msgid "Predefined Task Descriptions"
-msgstr ""
+msgstr "Ennalta määritellyt tehtäväkuvaukset"
 
 #: app/Template/project_predefined_content/show.php:39
 msgid "Predefined Email Subjects"
-msgstr ""
+msgstr "Ennalta määritellyt sähköpostin aiheet"
 
 #: app/Template/project_predefined_content/show.php:41
 msgid "Write one subject by line."
-msgstr ""
+msgstr "Kirjoita yksi aihe riveittäin."
 
 #: app/Template/project_role/create.php:2
 msgid "New custom project role"
-msgstr ""
+msgstr "Uusi mukautettu projektirooli"
 
 #: app/Template/project_role/edit.php:2
 msgid "Edit custom project role"
-msgstr ""
+msgstr "Muokkaa mukautettua projektiroolia"
 
 #: app/Template/project_role/remove.php:2
 msgid "Remove a custom role"
-msgstr ""
+msgstr "Poista mukautettu rooli"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Haluatko todella poistaa tämän mukautetun roolin: \"%s\"? Kaikista tähän rooliin määritetyistä henkilöistä tulee projektin jäseniä."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
-msgstr ""
+msgstr "Lisää uusi mukautettu rooli"
 
 #: app/Template/project_role/show.php:11
 msgid "There is no custom role for this project."
-msgstr ""
+msgstr "Tälle projektille ei ole mukautettua roolia."
 
 #: app/Template/project_role/show.php:18
 #, php-format
 msgid "Restrictions for the role \"%s\""
-msgstr ""
+msgstr "Roolia koskevat rajoitukset \"%s\""
 
 #: app/Template/project_role/show.php:21
 msgid "Add a new project restriction"
-msgstr ""
+msgstr "Lisää uusi projektirajoitus"
 
 #: app/Template/project_role/show.php:24
 msgid "Add a new drag and drop restriction"
-msgstr ""
+msgstr "Lisää uusi raahaa ja pudota -rajoitus"
 
 #: app/Template/project_role/show.php:27
 msgid "Add a new column restriction"
-msgstr ""
+msgstr "Lisää uusi sarakkeen rajoitus"
 
 #: app/Template/project_role/show.php:30
 msgid "Edit this role"
-msgstr ""
+msgstr "Muokkaa tätä roolia"
 
 #: app/Template/project_role/show.php:33
 msgid "Remove this role"
-msgstr ""
+msgstr "Poista tämä rooli"
 
 #: app/Template/project_role/show.php:44
 msgid "There is no restriction for this role."
-msgstr ""
+msgstr "Tähän tehtävään ei ole rajoituksia."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Tehtävän siirtäminen näiden sarakkeiden välillä on sallittua vain nykyiselle käyttäjälle osoitetuille tehtäville."
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
-msgstr ""
+msgstr "Ainoastaan tehtävän siirtäminen näiden sarakkeiden välillä on sallittua"
 
 #: app/Template/project_role_restriction/create.php:3
 #, php-format
 msgid "New project restriction for the role \"%s\""
-msgstr ""
+msgstr "Uusi projektirajoitus rooliin \"%s\""
 
 #: app/Template/project_role_restriction/create.php:10
 msgid "Restriction"
-msgstr ""
+msgstr "Rajoitus"
 
 #: app/Template/project_role_restriction/remove.php:2
 msgid "Remove a project restriction"
-msgstr ""
+msgstr "Hankkeen rajoituksen poistaminen"
 
 #: app/Template/project_role_restriction/remove.php:7
 #, php-format
 msgid "Do you really want to remove this project restriction: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän projektirajoituksen: \"%s\"?"
 
 #: app/Template/project_status/disable.php:2
 msgid "Close a project"
-msgstr ""
+msgstr "Sulje projekti"
 
 #: app/Template/project_status/disable.php:7
 #, php-format
 msgid "Do you really want to close this project: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella lopettaa tämän hankkeen: \"%s\"?"
 
 #: app/Template/project_status/enable.php:2
 msgid "Reopen a project"
-msgstr ""
+msgstr "Avaa projekti uudelleen"
 
 #: app/Template/project_status/enable.php:7
 #, php-format
 msgid "Do you really want to reopen this project: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella avata tämän hankkeen uudelleen: \"%s\"?"
 
 #: app/Template/project_status/remove.php:7
 #, php-format
@@ -5141,54 +5118,54 @@ msgstr "Haluatko varmasti poistaa projektin: \"%s\"?"
 #: app/Template/project_tag/create.php:2 app/Template/project_tag/index.php:5
 #: app/Template/tag/create.php:2 app/Template/tag/index.php:5
 msgid "Add new tag"
-msgstr ""
+msgstr "Lisää uusi tagi"
 
 #: app/Template/project_tag/edit.php:2 app/Template/tag/edit.php:2
 msgid "Edit a tag"
-msgstr ""
+msgstr "Muokkaa tagia"
 
 #: app/Template/project_tag/index.php:2
 msgid "Project tags"
-msgstr ""
+msgstr "Projektin tunnisteet"
 
 #: app/Template/project_tag/index.php:11
 msgid "There is no specific tag for this project at the moment."
-msgstr ""
+msgstr "Tällä hetkellä tälle hankkeelle ei ole erityistä tunnusta."
 
 #: app/Template/project_tag/index.php:15 app/Template/tag/index.php:15
 msgid "Tag"
-msgstr ""
+msgstr "Tag"
 
 #: app/Template/project_tag/index.php:29
 #: app/Template/project_tag/make_global.php:2
 msgid "Change to global tag"
-msgstr ""
+msgstr "Vaihda globaaliin tagiin"
 
 #: app/Template/project_tag/index.php:46 app/Template/tag/index.php:2
 msgid "Global tags"
-msgstr ""
+msgstr "Globaalit tunnisteet"
 
 #: app/Template/project_tag/index.php:53
 msgid "Enable global tags for this project"
-msgstr ""
+msgstr "Ota globaalit tunnisteet käyttöön tälle projektille"
 
 #: app/Template/project_tag/make_global.php:7
 #, php-format
 msgid "Do you really want to make the tag \"%s\" global?"
-msgstr ""
+msgstr "Haluatko todella tehdä tunnisteesta \"%s\" maailmanlaajuisen?"
 
 #: app/Template/project_tag/remove.php:2 app/Template/tag/remove.php:2
 msgid "Remove a tag"
-msgstr ""
+msgstr "Poista tagi"
 
 #: app/Template/project_tag/remove.php:7 app/Template/tag/remove.php:7
 #, php-format
 msgid "Do you really want to remove this tag: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän tunnisteen: \"%s\"?"
 
 #: app/Template/project_user_overview/layout.php:15
 msgid "Projects list"
-msgstr ""
+msgstr "Hankkeiden luettelo"
 
 #: app/Template/project_user_overview/roles.php:2
 msgid "No project"
@@ -5196,48 +5173,46 @@ msgstr "Ei projektia"
 
 #: app/Template/project_user_overview/sidebar.php:18
 msgid "Project managers"
-msgstr ""
+msgstr "Projektipäälliköt"
 
 #: app/Template/project_user_overview/sidebar.php:21
 msgid "Project members"
-msgstr ""
+msgstr "Hankkeen jäsenet"
 
 #: app/Template/project_user_overview/tooltip_users.php:2
 msgid "There is no project member."
-msgstr ""
+msgstr "Projektin jäsentä ei ole."
 
 #: app/Template/project_view/importTasks.php:4
 msgid "Please choose a project you want to copy the tasks from."
-msgstr ""
+msgstr "Valitse projekti, josta haluat kopioida tehtävät."
 
 #: app/Template/project_view/importTasks.php:9
 #: app/Template/task_duplication/copy.php:21
 #: app/Template/task_duplication/move.php:22
 msgid "Choose a project"
-msgstr ""
+msgstr "Valitse projekti"
 
 #: app/Template/project_view/importTasks.php:15
 msgid "Copy"
-msgstr ""
+msgstr "Kopioi"
 
 #: app/Template/project_view/importTasks.php:20
 msgid "No other projects found."
-msgstr ""
+msgstr "Muita hankkeita ei löytynyt."
 
 #: app/Template/project_view/integrations.php:11
 msgid "There is no integration registered at the moment."
-msgstr ""
+msgstr "Integraatiota ei ole tällä hetkellä rekisteröity."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Mikään lisäosa ei ole rekisteröinyt projektin ilmoitusmenetelmää. Voit silti määrittää yksittäiset ilmoitukset käyttäjäprofiilissasi."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
 msgid "Notification methods:"
-msgstr ""
+msgstr "Ilmoitusmenetelmät:"
 
 #: app/Template/project_view/share.php:16 app/Template/user_view/share.php:12
 msgid "Disable public access"
@@ -5245,7 +5220,7 @@ msgstr "Poista käytöstä julkinen käyttöoikeus"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
+msgstr "Tämä ominaisuus mahdollistaa iCal-syötteen, RSS-syötteen ja julkisen taulunäkymän."
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5253,11 +5228,11 @@ msgstr "Ota käyttöön "
 
 #: app/Template/project_view/show.php:5
 msgid "This project is open"
-msgstr ""
+msgstr "Tämä hanke on avoin"
 
 #: app/Template/project_view/show.php:5
 msgid "This project is closed"
-msgstr ""
+msgstr "Tämä hanke on päättynyt"
 
 #: app/Template/project_view/show.php:12
 msgid "This project is personal"
@@ -5269,47 +5244,47 @@ msgstr "Julkinen käyttöoikeus ei ole käytössä"
 
 #: app/Template/project_view/show.php:24 app/Template/task/details.php:135
 msgid "Modified:"
-msgstr ""
+msgstr "Muutettu:"
 
 #: app/Template/project_view/show.php:36
 msgid "Column task limits are applied to each swimlane individually"
-msgstr ""
+msgstr "Sarakkeen tehtävärajoituksia sovelletaan kuhunkin uimakaistaan erikseen."
 
 #: app/Template/project_view/show.php:38
 msgid "Column task limits are applied across swimlanes"
-msgstr ""
+msgstr "Sarakkeen tehtävärajoituksia sovelletaan kaikissa uima-altaissa."
 
 #: app/Template/project_view/show.php:41
 msgid "Task limit: "
-msgstr ""
+msgstr "Tehtäväraja: "
 
 #: app/Template/search/activity.php:25 app/Template/search/index.php:25
 msgid "Advanced search"
-msgstr ""
+msgstr "Tarkennettu haku"
 
 #: app/Template/search/activity.php:26 app/Template/search/index.php:26
 msgid "Example of query: "
-msgstr ""
+msgstr "Esimerkki kyselystä: "
 
 #: app/Template/search/activity.php:28 app/Template/search/index.php:28
 msgid "Search by project: "
-msgstr ""
+msgstr "Etsi projektin mukaan: "
 
 #: app/Template/search/activity.php:29
 msgid "Search by creator: "
-msgstr ""
+msgstr "Haku tekijän mukaan: "
 
 #: app/Template/search/activity.php:30
 msgid "Search by creation date: "
-msgstr ""
+msgstr "Haku luontipäivämäärän mukaan: "
 
 #: app/Template/search/activity.php:31
 msgid "Search by task status: "
-msgstr ""
+msgstr "Haku tehtävän tilan mukaan: "
 
 #: app/Template/search/activity.php:32
 msgid "Search by task title: "
-msgstr ""
+msgstr "Haku tehtävän otsikon mukaan: "
 
 #: app/Template/search/activity.php:37 app/Template/search/index.php:39
 msgid "Nothing found."
@@ -5317,31 +5292,31 @@ msgstr "Ei löytynyt."
 
 #: app/Template/search/index.php:4
 msgid "Activity stream search"
-msgstr ""
+msgstr "Toimintavirran haku"
 
 #: app/Template/search/index.php:29
 msgid "Search by column: "
-msgstr ""
+msgstr "Haku sarakkeen mukaan: "
 
 #: app/Template/search/index.php:30
 msgid "Search by assignee: "
-msgstr ""
+msgstr "Haku vastaanottajan mukaan: "
 
 #: app/Template/search/index.php:31
 msgid "Search by color: "
-msgstr ""
+msgstr "Etsi värin mukaan: "
 
 #: app/Template/search/index.php:32
 msgid "Search by category: "
-msgstr ""
+msgstr "Haku kategorian mukaan: "
 
 #: app/Template/search/index.php:33
 msgid "Search by description: "
-msgstr ""
+msgstr "Etsi kuvauksen mukaan: "
 
 #: app/Template/search/index.php:34
 msgid "Search by due date: "
-msgstr ""
+msgstr "Haku eräpäivän mukaan: "
 
 #: app/Template/subtask/create.php:2 app/Template/task/dropdown.php:22
 #: app/Template/task/sidebar.php:43
@@ -5358,7 +5333,7 @@ msgstr "Muokkaa alitehtävää"
 
 #: app/Template/subtask/menu.php:12
 msgid "Convert to task"
-msgstr ""
+msgstr "Muunna tehtäväksi"
 
 #: app/Template/subtask/remove.php:2
 msgid "Remove a sub-task"
@@ -5381,24 +5356,24 @@ msgstr "Ajan seuranta"
 
 #: app/Template/subtask/table.php:20
 msgid "Change subtask position"
-msgstr ""
+msgstr "Muuta osatehtävän sijaintia"
 
 #: app/Template/subtask_converter/show.php:2
 msgid "Convert sub-task to task"
-msgstr ""
+msgstr "Muunna osatehtävä tehtäväksi"
 
 #: app/Template/subtask_converter/show.php:7
 msgid "Do you really want to convert this sub-task to a task?"
-msgstr ""
+msgstr "Haluatko todella muuttaa tämän alatehtävän tehtäväksi?"
 
 #: app/Template/subtask_restriction/show.php:2
 msgid "You already have one subtask in progress"
-msgstr ""
+msgstr "Sinulla on jo yksi osatehtävä käynnissä"
 
 #: app/Template/subtask_restriction/show.php:8
 #, php-format
 msgid "Select the new status of the subtask: \"%s\""
-msgstr ""
+msgstr "Valitse osatehtävän uusi tila: \"%s\""
 
 #: app/Template/swimlane/create.php:2 app/Template/swimlane/index.php:5
 msgid "Add a new swimlane"
@@ -5415,7 +5390,7 @@ msgstr "Aktiiviset kaistat"
 
 #: app/Template/swimlane/index.php:13
 msgid "Your project must have at least one active swimlane."
-msgstr ""
+msgstr "Projektissasi on oltava vähintään yksi aktiivinen uimakaista."
 
 #: app/Template/swimlane/index.php:22
 msgid "Inactive swimlanes"
@@ -5440,127 +5415,123 @@ msgstr "Aktivoi"
 
 #: app/Template/tag/index.php:11
 msgid "There is no global tag at the moment."
-msgstr ""
+msgstr "Maailmanlaajuista tunnusta ei tällä hetkellä ole."
 
 #: app/Template/task/analytics.php:14
 msgid "Lead time: "
-msgstr ""
+msgstr "Toimitusaika: "
 
 #: app/Template/task/analytics.php:15
 msgid "Cycle time: "
-msgstr ""
+msgstr "Syklin kesto: "
 
 #: app/Template/task/analytics.php:19
 msgid "Time spent in each column"
-msgstr ""
+msgstr "Kuhunkin sarakkeeseen käytetty aika"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
-msgstr ""
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "Läpimenoaika on tehtävän luomisen ja valmistumisen välinen aika."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
-msgstr ""
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "Sykliaika on alkamispäivän ja valmistumisen välinen aika."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Jos tehtävää ei ole suljettu, valmistumispäivän sijasta käytetään nykyistä kellonaikaa."
 
 #: app/Template/task/changes.php:8
 #, php-format
 msgid "New title: %s"
-msgstr ""
+msgstr "Uusi nimi: %s"
 
 #: app/Template/task/changes.php:12
 msgid "The task is not assigned anymore"
-msgstr ""
+msgstr "Tehtävää ei ole enää annettu"
 
 #: app/Template/task/changes.php:14
 #, php-format
 msgid "New assignee: %s"
-msgstr ""
+msgstr "Uusi luovutuksensaaja: %s"
 
 #: app/Template/task/changes.php:19
 msgid "There is no category now"
-msgstr ""
+msgstr "Nyt ei ole luokkaa"
 
 #: app/Template/task/changes.php:21
 #, php-format
 msgid "New category: %s"
-msgstr ""
+msgstr "Uusi luokka: %s"
 
 #: app/Template/task/changes.php:25
 #, php-format
 msgid "New color: %s"
-msgstr ""
+msgstr "Uusi väri: %s"
 
 #: app/Template/task/changes.php:28
 #, php-format
 msgid "New complexity: %d"
-msgstr ""
+msgstr "Uusi monimutkaisuus: %d"
 
 #: app/Template/task/changes.php:32
 msgid "The due date has been removed"
-msgstr ""
+msgstr "Eräpäivä on poistettu"
 
 #: app/Template/task/changes.php:34
 msgid "New due date: "
-msgstr ""
+msgstr "Uusi eräpäivä: "
 
 #: app/Template/task/changes.php:39
 msgid "There is no description anymore"
-msgstr ""
+msgstr "Kuvausta ei enää ole"
 
 #: app/Template/task/changes.php:49
 msgid "Recurrence settings has been modified"
-msgstr ""
+msgstr "Toistuvuusasetuksia on muutettu"
 
 #: app/Template/task/changes.php:52
 #, php-format
 msgid "Time spent changed: %sh"
-msgstr ""
+msgstr "Muutettu aika: %sh"
 
 #: app/Template/task/changes.php:55
 #, php-format
 msgid "Time estimated changed: %sh"
-msgstr ""
+msgstr "Arvioitu aika muuttunut: %sh"
 
 #: app/Template/task/changes.php:59
 msgid "Start date changed: "
-msgstr ""
+msgstr "Aloituspäivää muutettu: "
 
 #: app/Template/task/changes.php:63
 #, php-format
 msgid "The field \"%s\" has been updated"
-msgstr ""
+msgstr "Kenttä \"%s\" on päivitetty"
 
 #: app/Template/task/changes.php:71
 msgid "The description has been modified:"
-msgstr ""
+msgstr "Kuvausta on muutettu:"
 
 #: app/Template/task/details.php:14
 msgid "open"
-msgstr ""
+msgstr "avoin"
 
 #: app/Template/task/details.php:16
 msgid "closed"
-msgstr ""
+msgstr "suljettu"
 
 #: app/Template/task/details.php:21
 msgid "Priority:"
-msgstr ""
+msgstr "Prioriteetti:"
 
 #: app/Template/task/details.php:25
 msgid "Reference:"
-msgstr ""
+msgstr "Viite:"
 
 #: app/Template/task/details.php:30
 msgid "Complexity:"
-msgstr ""
+msgstr "Monimutkaisuus:"
 
 #: app/Template/task/details.php:43
 msgid "Back to the board"
@@ -5568,57 +5539,57 @@ msgstr "Takaisin tauluun"
 
 #: app/Template/task/details.php:61
 msgid "Swimlane:"
-msgstr ""
+msgstr "Swimlane:"
 
 #: app/Template/task/details.php:66
 msgid "Column:"
-msgstr ""
+msgstr "Sarake:"
 
 #: app/Template/task/details.php:70
 msgid "Position:"
-msgstr ""
+msgstr "Asema:"
 
 #: app/Template/task/details.php:85 app/Template/task_duplication/copy.php:42
 #: app/Template/task_duplication/move.php:43
 msgid "not assigned"
-msgstr ""
+msgstr "ei määritetty"
 
 #: app/Template/task/details.php:94
 msgid "Creator:"
-msgstr ""
+msgstr "Luoja:"
 
 #: app/Template/task/details.php:100
 msgid "Time estimated:"
-msgstr ""
+msgstr "Arvioitu aika:"
 
 #: app/Template/task/details.php:101 app/Template/task/details.php:107
 #, php-format
 msgid "%s hours"
-msgstr ""
+msgstr "%s tuntia"
 
 #: app/Template/task/details.php:106
 msgid "Time spent:"
-msgstr ""
+msgstr "Käytetty aika:"
 
 #: app/Template/task/details.php:123
 msgid "Started:"
-msgstr ""
+msgstr "Aloitettiin:"
 
 #: app/Template/task/details.php:127
 msgid "Start now"
-msgstr ""
+msgstr "Aloita nyt"
 
 #: app/Template/task/details.php:140
 msgid "Completed:"
-msgstr ""
+msgstr "Valmistui:"
 
 #: app/Template/task/details.php:146
 msgid "Moved:"
-msgstr ""
+msgstr "Siirretty:"
 
 #: app/Template/task/dropdown.php:14
 msgid "Set the start date automatically"
-msgstr ""
+msgstr "Aseta aloituspäivämäärä automaattisesti"
 
 #: app/Template/task/dropdown.php:18 app/Template/task/sidebar.php:36
 msgid "Edit the task"
@@ -5626,16 +5597,16 @@ msgstr "Muokkaa tehtävää"
 
 #: app/Template/task/dropdown.php:27 app/Template/task/sidebar.php:48
 msgid "Add internal link"
-msgstr ""
+msgstr "Lisää sisäinen linkki"
 
 #: app/Template/task/dropdown.php:30 app/Template/task/sidebar.php:51
 msgid "Add external link"
-msgstr ""
+msgstr "Lisää ulkoinen linkki"
 
 #: app/Template/task/dropdown.php:43 app/Template/task/sidebar.php:64
 #: app/Template/task_file/screenshot.php:2
 msgid "Add a screenshot"
-msgstr ""
+msgstr "Lisää kuvakaappaus"
 
 #: app/Template/task/dropdown.php:51 app/Template/task/sidebar.php:72
 msgid "Duplicate to project"
@@ -5656,35 +5627,35 @@ msgstr "Avaa tämä tehtävä"
 #: app/Template/task/sidebar.php:3
 #, php-format
 msgid "Task #%d"
-msgstr ""
+msgstr "Tehtävä #%d"
 
 #: app/Template/task/sidebar.php:39 app/Template/task_recurrence/edit.php:2
 msgid "Edit recurrence"
-msgstr ""
+msgstr "Muokkaa toistuvuutta"
 
 #: app/Template/task/sidebar.php:86
 msgid "Move position"
-msgstr ""
+msgstr "Siirrä asento"
 
 #: app/Template/task/time_tracking_details.php:10
 #: app/Template/user_view/timesheet.php:5
 msgid "Subtask timesheet"
-msgstr ""
+msgstr "Osatehtävän työaikataulu"
 
 #: app/Template/task/time_tracking_details.php:12
 #: app/Template/task/transitions.php:13 app/Template/user_view/timesheet.php:7
 msgid "There is nothing to show."
-msgstr ""
+msgstr "Ei ole mitään näytettävää."
 
 #: app/Template/task/time_tracking_details.php:18
 #: app/Template/user_view/timesheet.php:13
 msgid "Start"
-msgstr ""
+msgstr "Aloita"
 
 #: app/Template/task/time_tracking_details.php:19
 #: app/Template/user_view/timesheet.php:14
 msgid "End"
-msgstr ""
+msgstr "End"
 
 #: app/Template/task/time_tracking_summary.php:8
 msgid "Estimate:"
@@ -5700,30 +5671,29 @@ msgstr "Jäljellä"
 
 #: app/Template/task/transitions.php:21
 msgid "Time spent in the column"
-msgstr ""
+msgstr "Sarakkeessa vietetty aika"
 
 #: app/Template/task_bulk/show.php:16
 msgid "My task title"
-msgstr ""
+msgstr "Tehtäväni nimi"
 
 #: app/Template/task_bulk/show.php:17
 msgid "Enter one task by line."
-msgstr ""
+msgstr "Kirjoita yksi tehtävä riveittäin."
 
 #: app/Template/task_bulk_change_property/show.php:2
 #: app/Template/task_list/header.php:23
 msgid "Edit tasks in bulk"
-msgstr ""
+msgstr "Muokkaa tehtäviä irtotavarana"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
-msgstr ""
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr "Valitse ominaisuudet, joita haluat muuttaa valittujen tehtävien osalta."
 
 #: app/Template/task_bulk_move_column/show.php:2
 #: app/Template/task_list/header.php:20
 msgid "Move selected tasks to another column or swimlane"
-msgstr ""
+msgstr "Siirrä valitut tehtävät toiseen sarakkeeseen tai uimakaistalle."
 
 #: app/Template/task_comments/show.php:2
 msgid "Comments"
@@ -5733,12 +5703,12 @@ msgstr "Kommentit"
 #: app/Template/task_duplication/copy.php:6
 #: app/Template/task_duplication/move.php:6
 msgid "There is no destination project available."
-msgstr ""
+msgstr "Käytettävissä ei ole kohdehanketta."
 
 #: app/Template/task_creation/duplicate_projects.php:20
 #: app/Template/task_creation/show.php:45
 msgid "Duplicate to multiple projects"
-msgstr ""
+msgstr "Kopiointi useisiin projekteihin"
 
 #: app/Template/task_creation/show.php:44
 msgid "Create another task"
@@ -5748,30 +5718,30 @@ msgstr "Luo toinen tehtävä"
 #: app/Template/task_duplication/move.php:31
 #, php-format
 msgid "Current swimlane: %s"
-msgstr ""
+msgstr "Nykyinen uimarata: %s"
 
 #: app/Template/task_duplication/copy.php:34
 #: app/Template/task_duplication/move.php:35
 #, php-format
 msgid "Current column: %s"
-msgstr ""
+msgstr "Nykyinen sarake: %s"
 
 #: app/Template/task_duplication/copy.php:38
 #: app/Template/task_duplication/move.php:39
 msgid "no category"
-msgstr ""
+msgstr "ei luokkaa"
 
 #: app/Template/task_duplication/copy.php:38
 #: app/Template/task_duplication/move.php:39
 #, php-format
 msgid "Current category: %s"
-msgstr ""
+msgstr "Nykyinen luokka: %s"
 
 #: app/Template/task_duplication/copy.php:42
 #: app/Template/task_duplication/move.php:43
 #, php-format
 msgid "Current assignee: %s"
-msgstr ""
+msgstr "Nykyinen luovutuksensaaja: %s"
 
 #: app/Template/task_duplication/duplicate.php:2
 msgid "Duplicate a task"
@@ -5784,51 +5754,51 @@ msgstr "Haluatko varmasti kahdentaa tämän tehtävän?"
 #: app/Template/task_external_link/create.php:2
 #: app/Template/task_external_link/find.php:2
 msgid "Add a new external link"
-msgstr ""
+msgstr "Lisää uusi ulkoinen linkki"
 
 #: app/Template/task_external_link/edit.php:2
 msgid "Edit external link"
-msgstr ""
+msgstr "Muokkaa ulkoista linkkiä"
 
 #: app/Template/task_external_link/find.php:8
 msgid "External link"
-msgstr ""
+msgstr "Ulkoinen linkki"
 
 #: app/Template/task_external_link/find.php:16
 msgid "Copy and paste your link here..."
-msgstr ""
+msgstr "Kopioi ja liitä linkkisi tänne..."
 
 #: app/Template/task_external_link/form.php:4
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: app/Template/task_external_link/show.php:2
 msgid "External links"
-msgstr ""
+msgstr "Ulkoiset linkit"
 
 #: app/Template/task_file/screenshot.php:6
 msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
-msgstr ""
+msgstr "Ota kuvakaappaus ja paina CTRL+V tai ⌘+V liittääksesi sen tänne."
 
 #: app/Template/task_file/screenshot.php:15
 msgid "This feature does not work with all browsers."
-msgstr ""
+msgstr "Tämä ominaisuus ei toimi kaikissa selaimissa."
 
 #: app/Template/task_import/show.php:2
 msgid "Tasks Importation"
-msgstr ""
+msgstr "Tehtävien tuonti"
 
 #: app/Template/task_import/show.php:7 app/Template/user_import/show.php:24
 msgid "Delimiter"
-msgstr ""
+msgstr "Delimiter"
 
 #: app/Template/task_import/show.php:10 app/Template/user_import/show.php:27
 msgid "Enclosure"
-msgstr ""
+msgstr "Kotelo"
 
 #: app/Template/task_import/show.php:13 app/Template/user_import/show.php:30
 msgid "CSV File"
-msgstr ""
+msgstr "CSV-tiedosto"
 
 #: app/Template/task_import/show.php:17 app/Template/user_import/show.php:34
 msgid "Maximum size: "
@@ -5837,47 +5807,47 @@ msgstr "Maksimikoko: "
 #: app/Template/task_import/show.php:20 app/Template/user_import/show.php:37
 #: app/Template/user_list/listing.php:11 app/Template/user_view/layout.php:12
 msgid "Import"
-msgstr ""
+msgstr "Tuo"
 
 #: app/Template/task_import/show.php:24
 msgid "Instructions"
-msgstr ""
+msgstr "Ohjeet"
 
 #: app/Template/task_import/show.php:26 app/Template/user_import/show.php:12
 msgid "Your file must use the predefined CSV format"
-msgstr ""
+msgstr "Tiedoston on käytettävä ennalta määriteltyä CSV-muotoa."
 
 #: app/Template/task_import/show.php:27 app/Template/user_import/show.php:13
 msgid "Your file must be encoded in UTF-8"
-msgstr ""
+msgstr "Tiedostosi on oltava koodattu UTF-8-koodilla."
 
 #: app/Template/task_import/show.php:28 app/Template/user_import/show.php:14
 msgid "The first row must be the header"
-msgstr ""
+msgstr "Ensimmäisen rivin on oltava otsikko"
 
 #: app/Template/task_import/show.php:29
 msgid "Duplicates are not verified for you"
-msgstr ""
+msgstr "Kaksoiskappaleita ei tarkisteta sinulle"
 
 #: app/Template/task_import/show.php:30
 msgid "The due date must use the ISO format: YYYY-MM-DD"
-msgstr ""
+msgstr "Eräpäivän on oltava ISO-muodossa: VVVVV-KK-PP"
 
 #: app/Template/task_import/show.php:31
 msgid "Tags must be separated by a comma"
-msgstr ""
+msgstr "Tunnisteet on erotettava toisistaan pilkulla"
 
 #: app/Template/task_import/show.php:32
 msgid "Only the task title is required"
-msgstr ""
+msgstr "Vain tehtävän nimi vaaditaan"
 
 #: app/Template/task_import/show.php:35 app/Template/user_import/show.php:5
 msgid "Download CSV template"
-msgstr ""
+msgstr "Lataa CSV-malli"
 
 #: app/Template/task_internal_link/create.php:2
 msgid "Add a new link"
-msgstr ""
+msgstr "Lisää uusi linkki"
 
 #: app/Template/task_internal_link/create.php:13
 #: app/Template/task_internal_link/edit.php:13
@@ -5890,132 +5860,132 @@ msgstr "Tehtävät"
 #: app/Template/task_internal_link/edit.php:20
 #: app/Template/task_internal_link/edit.php:21
 msgid "Start to type task title..."
-msgstr ""
+msgstr "Aloita tehtävän otsikon kirjoittaminen..."
 
 #: app/Template/task_internal_link/create.php:27
 msgid "Create another link"
-msgstr ""
+msgstr "Luo toinen linkki"
 
 #: app/Template/task_internal_link/edit.php:2
 msgid "Edit link"
-msgstr ""
+msgstr "Muokkaa linkkiä"
 
 #: app/Template/task_internal_link/remove.php:7
 #, php-format
 msgid "Do you really want to remove this link with task #%d?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän linkin tehtävän #%davulla?"
 
 #: app/Template/task_internal_link/show.php:2
 msgid "Internal links"
-msgstr ""
+msgstr "Sisäiset linkit"
 
 #: app/Template/task_internal_link/table.php:9
 msgid "This task"
-msgstr ""
+msgstr "Tämä tehtävä"
 
 #: app/Template/task_list/header.php:4
 #, php-format
 msgid "%d tasks"
-msgstr ""
+msgstr "%d tehtävät"
 
 #: app/Template/task_list/header.php:6
 #, php-format
 msgid "%d task"
-msgstr ""
+msgstr "%d tehtävä"
 
 #: app/Template/task_list/header.php:12
 msgid "Select All"
-msgstr ""
+msgstr "Valitse kaikki"
 
 #: app/Template/task_list/header.php:12
 msgid "Unselect All"
-msgstr ""
+msgstr "Poista kaikki valinnat"
 
 #: app/Template/task_list/header.php:17
 msgid "Apply action"
-msgstr ""
+msgstr "Sovelletaan toimintaa"
 
 #: app/Template/task_list/header.php:33
 msgid "Hide subtasks"
-msgstr ""
+msgstr "Piilota osatehtävät"
 
 #: app/Template/task_list/header.php:35
 msgid "Show subtasks"
-msgstr ""
+msgstr "Näytä alatehtävät"
 
 #: app/Template/task_mail/email.php:5
 #, php-format
 msgid "Project: %s"
-msgstr ""
+msgstr "Hanke: %s"
 
 #: app/Template/task_move_position/show.php:2
 msgid "Move task to another position on the board"
-msgstr ""
+msgstr "Siirrä tehtävä toiseen paikkaan pelilaudalla"
 
 #: app/Template/task_move_position/show.php:14
 msgid "Insert before this task"
-msgstr ""
+msgstr "Lisää ennen tätä tehtävää"
 
 #: app/Template/task_move_position/show.php:15
 msgid "Insert after this task"
-msgstr ""
+msgstr "Lisää tämän tehtävän jälkeen"
 
 #: app/Template/task_recurrence/edit.php:25
 msgid "Generate recurrent task"
-msgstr ""
+msgstr "Luo toistuva tehtävä"
 
 #: app/Template/task_recurrence/edit.php:28
 msgid "Trigger to generate recurrent task"
-msgstr ""
+msgstr "Laukaisija toistuvan tehtävän luomiseksi"
 
 #: app/Template/task_recurrence/edit.php:31
 msgid "Factor to calculate new due date"
-msgstr ""
+msgstr "Tekijä uuden eräpäivän laskemiseksi"
 
 #: app/Template/task_recurrence/edit.php:34
 msgid "Timeframe to calculate new due date"
-msgstr ""
+msgstr "Uuden eräpäivän laskenta-aika"
 
 #: app/Template/task_recurrence/edit.php:37
 msgid "Base date to calculate new due date"
-msgstr ""
+msgstr "Peruspäivä uuden eräpäivän laskemiseksi"
 
 #: app/Template/task_recurrence/info.php:4
 msgid "Recurrent task is scheduled to be generated"
-msgstr ""
+msgstr "Toistuva tehtävä on tarkoitus luoda"
 
 #: app/Template/task_recurrence/info.php:6
 msgid "Recurrent task has been generated:"
-msgstr ""
+msgstr "Toistuva tehtävä on luotu:"
 
 #: app/Template/task_recurrence/info.php:9
 msgid "Trigger to generate recurrent task: "
-msgstr ""
+msgstr "Laukaisin toistuvan tehtävän luomiseksi: "
 
 #: app/Template/task_recurrence/info.php:12
 msgid "Factor to calculate new due date: "
-msgstr ""
+msgstr "Tekijä uuden eräpäivän laskemiseksi: "
 
 #: app/Template/task_recurrence/info.php:15
 msgid "Timeframe to calculate new due date: "
-msgstr ""
+msgstr "Uuden eräpäivän laskenta-aika: "
 
 #: app/Template/task_recurrence/info.php:18
 msgid "Base date to calculate new due date: "
-msgstr ""
+msgstr "Peruspäivä uuden eräpäivän laskemiseksi: "
 
 #: app/Template/task_recurrence/info.php:27
 msgid "This task has been created by: "
-msgstr ""
+msgstr "Tämän tehtävän on luonut: "
 
 #: app/Template/task_recurrence/info.php:33
 msgid "This task has created this child task: "
-msgstr ""
+msgstr "Tämä tehtävä on luonut tämän lapsitehtävän: "
 
 #: app/Template/task_status/close.php:7
 #, php-format
 msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
-msgstr ""
+msgstr "Haluatko todella sulkea tehtävän \"%s\" sekä kaikki alatehtävät?"
 
 #: app/Template/task_status/open.php:7
 #, php-format
@@ -6036,113 +6006,111 @@ msgstr "Haluatko varmasti poistaa tehtävän: \"%s\"?"
 #: app/Template/user_list/dropdown.php:26 app/Template/user_view/sidebar.php:65
 #: app/Template/user_view/sidebar.php:69
 msgid "Two factor authentication"
-msgstr ""
+msgstr "Kahden tekijän todennus"
 
 #: app/Template/twofactor/check.php:8 app/Template/twofactor/show.php:27
 msgid "Code"
-msgstr ""
+msgstr "Koodi"
 
 #: app/Template/twofactor/check.php:12 app/Template/twofactor/show.php:30
 msgid "Check my code"
-msgstr ""
+msgstr "Tarkista koodini"
 
 #: app/Template/twofactor/disable.php:2
 msgid "Disable two factor authentication"
-msgstr ""
+msgstr "Poista kaksitekijätodennus käytöstä"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Haluatko todella poistaa kaksitekijätodennuksen käytöstä tältä käyttäjältä: \"%s\"?"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
-msgstr ""
+msgstr "Kahden tekijän palveluntarjoaja: "
 
 #: app/Template/twofactor/index.php:10
 msgid "Disable two-factor authentication"
-msgstr ""
+msgstr "Poista kaksitekijätodennus käytöstä"
 
 #: app/Template/twofactor/index.php:12
 msgid "Enable two-factor authentication"
-msgstr ""
+msgstr "Ota kaksitekijätodennus käyttöön"
 
 #: app/Template/twofactor/show.php:12
 msgid "Secret key: "
-msgstr ""
+msgstr "Salainen avain: "
 
 #: app/Template/twofactor/show.php:17
 msgid "This QR code contains the key URI: "
-msgstr ""
+msgstr "Tämä QR-koodi sisältää avaimen URI:n: "
 
 #: app/Template/twofactor/show.php:22
 msgid "Test your device"
-msgstr ""
+msgstr "Testaa laitteesi"
 
 #: app/Template/user_api_access/show.php:7
 msgid "No personal API access token registered."
-msgstr ""
+msgstr "Henkilökohtaista API-käyttötunnusta ei ole rekisteröity."
 
 #: app/Template/user_api_access/show.php:9
 #, php-format
 msgid "Your personal API access token is \"%s\""
-msgstr ""
+msgstr "Henkilökohtainen API-käyttäjätunnuksesi on \"%s\""
 
 #: app/Template/user_api_access/show.php:14
 msgid "Remove your token"
-msgstr ""
+msgstr "Poista merkkisi"
 
 #: app/Template/user_api_access/show.php:17
 msgid "Generate a new token"
-msgstr ""
+msgstr "Uuden tunnisteen luominen"
 
 #: app/Template/user_creation/show.php:2
 msgid "New User"
-msgstr ""
+msgstr "Uusi käyttäjä"
 
 #: app/Template/user_creation/show.php:10 app/Template/user_invite/signup.php:9
 #: app/Template/user_modification/show.php:9
 msgid "Profile"
-msgstr ""
+msgstr "Profiili"
 
 #: app/Template/user_creation/show.php:23
 msgid "Authentication"
-msgstr ""
+msgstr "Tunnistus"
 
 #: app/Template/user_creation/show.php:24
 #: app/Template/user_credential/authentication.php:13
 #: app/Template/user_list/user_icons.php:21
 #: app/Template/user_list/user_icons.php:22
 msgid "Remote user"
-msgstr ""
+msgstr "Etäkäyttäjä"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
+msgstr "Jos valintaruutu on valittuna, tämä käyttäjä käyttää kolmannen osapuolen järjestelmää todennukseen."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
-msgstr ""
+msgstr "Salasana on tarpeen vain paikallisille käyttäjille."
 
 #: app/Template/user_creation/show.php:38
 #: app/Template/user_modification/show.php:34
 #: app/Template/user_view/show.php:13
 msgid "Security"
-msgstr ""
+msgstr "Turvallisuus"
 
 #: app/Template/user_creation/show.php:43
 #: app/Template/user_credential/authentication.php:14
 msgid "Disallow login form"
-msgstr ""
+msgstr "Estää kirjautumislomakkeen käytön"
 
 #: app/Template/user_creation/show.php:47
 #: app/Template/user_invite/signup.php:31
 #: app/Template/user_modification/show.php:21
 #: app/Template/user_view/show.php:32
 msgid "Preferences"
-msgstr ""
+msgstr "Asetukset"
 
 #: app/Template/user_creation/show.php:57
 #: app/Template/user_invite/signup.php:39
@@ -6151,23 +6119,19 @@ msgstr "Ota käyttöön sähköposti-ilmoitukset"
 
 #: app/Template/user_creation/show.php:63
 msgid "Add this person to this project"
-msgstr ""
+msgstr "Lisää tämä henkilö tähän projektiin"
 
 #: app/Template/user_credential/authentication.php:2
 msgid "Authentication Parameters"
-msgstr ""
+msgstr "Tunnistusparametrit"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Etäkäyttäjät eivät tallenna salasanaansa Kanboard-tietokantaan, esimerkkejä: LDAP-, Google- ja Github-tilit."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Jos valitset ruudun \"Disallow login form\" (Älä salli kirjautumislomaketta), kirjautumislomakkeella syötetyt tiedot jätetään huomiotta."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6185,51 +6149,51 @@ msgstr "Uusi salasana käyttäjälle \"%s\""
 
 #: app/Template/user_import/show.php:2
 msgid "Import users from CSV file"
-msgstr ""
+msgstr "Käyttäjien tuominen CSV-tiedostosta"
 
 #: app/Template/user_import/show.php:15
 msgid "Duplicates are not imported"
-msgstr ""
+msgstr "Kaksoiskappaleita ei tuoda"
 
 #: app/Template/user_import/show.php:16
 msgid "Usernames must be lowercase and unique"
-msgstr ""
+msgstr "Käyttäjätunnusten on oltava pieniä kirjaimia ja yksilöllisiä"
 
 #: app/Template/user_import/show.php:17
 msgid "Passwords will be encrypted if present"
-msgstr ""
+msgstr "Salasanat salataan, jos niitä on"
 
 #: app/Template/user_invite/email.php:2
 msgid "You have been invited to register on Kanboard."
-msgstr ""
+msgstr "Sinut on kutsuttu rekisteröitymään Kanboardiin."
 
 #: app/Template/user_invite/email.php:6
 msgid "Click here to join your team"
-msgstr ""
+msgstr "Klikkaa tästä liittyäksesi tiimiisi"
 
 #: app/Template/user_invite/show.php:2 app/Template/user_list/listing.php:8
 msgid "Invite people"
-msgstr ""
+msgstr "Kutsu ihmisiä"
 
 #: app/Template/user_invite/show.php:7
 msgid "Emails"
-msgstr ""
+msgstr "Sähköpostit"
 
 #: app/Template/user_invite/show.php:9
 msgid "Enter one email address by line."
-msgstr ""
+msgstr "Kirjoita yksi sähköpostiosoite riveittäin."
 
 #: app/Template/user_invite/show.php:11
 msgid "Add these people to this project"
-msgstr ""
+msgstr "Lisää nämä henkilöt tähän projektiin"
 
 #: app/Template/user_invite/signup.php:3 app/Template/user_invite/signup.php:43
 msgid "Sign-up"
-msgstr ""
+msgstr "Rekisteröityminen"
 
 #: app/Template/user_invite/signup.php:22
 msgid "Credentials"
-msgstr ""
+msgstr "Valtakirjat"
 
 #: app/Template/user_list/dropdown.php:17 app/Template/user_view/sidebar.php:59
 msgid "Change password"
@@ -6241,11 +6205,11 @@ msgstr "Muut tilit"
 
 #: app/Template/user_list/dropdown.php:51
 msgid "API Access"
-msgstr ""
+msgstr "API-yhteys"
 
 #: app/Template/user_list/dropdown.php:57 app/Template/user_view/sidebar.php:13
 msgid "User dashboard"
-msgstr ""
+msgstr "Käyttäjän kojelauta"
 
 #: app/Template/user_list/dropdown.php:69 app/Template/user_view/last.php:2
 #: app/Template/user_view/sidebar.php:24
@@ -6259,19 +6223,19 @@ msgstr "Voimassa olevat yhteydet"
 
 #: app/Template/user_list/dropdown.php:79 app/Template/user_view/sidebar.php:34
 msgid "Password reset history"
-msgstr ""
+msgstr "Salasanan palautushistoria"
 
 #: app/Template/user_list/listing.php:5 app/Template/user_view/layout.php:9
 msgid "New user"
-msgstr ""
+msgstr "Uusi käyttäjä"
 
 #: app/Template/user_list/listing.php:29
 msgid "No users found."
-msgstr ""
+msgstr "Käyttäjiä ei löytynyt."
 
 #: app/Template/user_list/sort_menu.php:5
 msgid "User ID"
-msgstr ""
+msgstr "Käyttäjätunnus"
 
 #: app/Template/user_list/sort_menu.php:17
 msgid "Account type"
@@ -6279,41 +6243,41 @@ msgstr "Tilin tyyppi"
 
 #: app/Template/user_list/sort_menu.php:23
 msgid "Two Factor"
-msgstr ""
+msgstr "Kaksi tekijää"
 
 #: app/Template/user_list/user_details.php:16
 #, php-format
 msgid "%s is a member of the following group(s): %s"
-msgstr ""
+msgstr "%s kuuluu seuraavaan ryhmään (seuraaviin ryhmiin): %s."
 
 #: app/Template/user_list/user_details.php:21
 #, php-format
 msgid "%d/%d group(s) shown"
-msgstr ""
+msgstr "%d/%d esitetty ryhmä(t)"
 
 #: app/Template/user_list/user_icons.php:3
 #: app/Template/user_list/user_icons.php:4
 msgid "Notifications are activated"
-msgstr ""
+msgstr "Ilmoitukset aktivoidaan"
 
 #: app/Template/user_list/user_icons.php:9
 #: app/Template/user_list/user_icons.php:10
 msgid "Notifications are disabled"
-msgstr ""
+msgstr "Ilmoitukset on poistettu käytöstä"
 
 #: app/Template/user_list/user_icons.php:15
 #: app/Template/user_list/user_icons.php:16 app/Template/user_view/show.php:19
 msgid "Two factor authentication enabled"
-msgstr ""
+msgstr "Kahden tekijän todennus käytössä"
 
 #: app/Template/user_list/user_icons.php:27 app/Template/user_view/show.php:22
 msgid "Account locked until:"
-msgstr ""
+msgstr "Tili lukittu kunnes:"
 
 #: app/Template/user_list/user_icons.php:55
 #: app/Template/user_list/user_icons.php:56
 msgid "User disabled"
-msgstr ""
+msgstr "Käyttäjä poistettu käytöstä"
 
 #: app/Template/user_modification/show.php:2
 msgid "Edit user"
@@ -6321,25 +6285,25 @@ msgstr "Muokkaa käyttäjää"
 
 #: app/Template/user_modification/show.php:35
 msgid "Application role"
-msgstr ""
+msgstr "Sovelluksen rooli"
 
 #: app/Template/user_status/disable.php:2
 msgid "Disable user"
-msgstr ""
+msgstr "Käyttäjän poistaminen käytöstä"
 
 #: app/Template/user_status/disable.php:6
 #, php-format
 msgid "Do you really want to disable this user: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella poistaa tämän käyttäjän käytöstä: \"%s\"?"
 
 #: app/Template/user_status/enable.php:2
 msgid "Enable user"
-msgstr ""
+msgstr "Ota käyttäjä käyttöön"
 
 #: app/Template/user_status/enable.php:6
 #, php-format
 msgid "Do you really want to enable this user: \"%s\"?"
-msgstr ""
+msgstr "Haluatko todella ottaa tämän käyttäjän käyttöön: \"%s\"?"
 
 #: app/Template/user_status/remove.php:2
 msgid "Remove user"
@@ -6360,7 +6324,7 @@ msgstr "Muita tunnistautumistapoja ei ole otettu käyttöön."
 
 #: app/Template/user_view/integrations.php:11
 msgid "No external integration registered."
-msgstr ""
+msgstr "Ulkoista integrointia ei ole rekisteröity."
 
 #: app/Template/user_view/last.php:6
 msgid "Never connected."
@@ -6388,7 +6352,7 @@ msgstr "Selain"
 
 #: app/Template/user_view/notifications.php:12
 msgid "I want to receive notifications for:"
-msgstr ""
+msgstr "Haluan saada ilmoituksia seuraavista:"
 
 #: app/Template/user_view/notifications.php:17
 msgid "I only want to receive notifications for these projects:"
@@ -6396,19 +6360,19 @@ msgstr "Haluan vastaanottaa ilmoituksia ainoastaan näistä projekteista:"
 
 #: app/Template/user_view/password_reset.php:2
 msgid "Last Password Reset"
-msgstr ""
+msgstr "Viimeisin salasanan palautus"
 
 #: app/Template/user_view/password_reset.php:6
 msgid "The password has never been reinitialized."
-msgstr ""
+msgstr "Salasanaa ei ole koskaan alustettu uudelleen."
 
 #: app/Template/user_view/password_reset.php:10
 msgid "Creation"
-msgstr ""
+msgstr "Luominen"
 
 #: app/Template/user_view/password_reset.php:11
 msgid "Expiration"
-msgstr ""
+msgstr "Viimeinen voimassaoloaika"
 
 #: app/Template/user_view/password_reset.php:12
 #: app/Template/user_view/show.php:8
@@ -6441,11 +6405,11 @@ msgstr "Ei aktiivinen"
 
 #: app/Template/user_view/show.php:16
 msgid "Role:"
-msgstr ""
+msgstr "Rooli:"
 
 #: app/Template/user_view/show.php:17
 msgid "Group membership(s):"
-msgstr ""
+msgstr "Ryhmän jäsenyys(t):"
 
 #: app/Template/user_view/show.php:18
 msgid "Account type:"
@@ -6461,27 +6425,27 @@ msgstr "Paikallinen"
 
 #: app/Template/user_view/show.php:19
 msgid "Two factor authentication disabled"
-msgstr ""
+msgstr "Kahden tekijän todennus poistettu käytöstä"
 
 #: app/Template/user_view/show.php:20
 msgid "Number of failed login:"
-msgstr ""
+msgstr "Epäonnistuneiden kirjautumisten määrä:"
 
 #: app/Template/user_view/show.php:25
 msgid "Unlock this user"
-msgstr ""
+msgstr "Avaa tämän käyttäjän lukitus"
 
 #: app/Template/user_view/show.php:35
 msgid "Timezone:"
-msgstr ""
+msgstr "Aikavyöhyke:"
 
 #: app/Template/user_view/show.php:36
 msgid "Language:"
-msgstr ""
+msgstr "Kieli:"
 
 #: app/Template/user_view/show.php:37
 msgid "Custom Filter:"
-msgstr ""
+msgstr "Mukautettu suodatin:"
 
 #: app/Template/user_view/show.php:38
 msgid "Notifications:"
@@ -6501,33 +6465,33 @@ msgstr "Muokkaa profiilia"
 
 #: app/Template/user_view/sidebar.php:102
 msgid "Edit Authentication"
-msgstr ""
+msgstr "Muokkaa todennusta"
 
 #: app/Template/user_view/timesheet.php:2
 msgid "Time Tracking"
-msgstr ""
+msgstr "Ajanseuranta"
 
 #: app/Template/web_notification/show.php:7
 msgid "Mark all as read"
-msgstr ""
+msgstr "Merkitse kaikki luetuiksi"
 
 #: app/Template/web_notification/show.php:14
 msgid "No notification."
-msgstr ""
+msgstr "Ei ilmoitusta."
 
 #: app/Template/web_notification/show.php:20
 #, php-format
 msgid "%d notifications"
-msgstr ""
+msgstr "%d ilmoitukset"
 
 #: app/Template/web_notification/show.php:22
 #, php-format
 msgid "%d notification"
-msgstr ""
+msgstr "%d ilmoitus"
 
 #: app/Template/web_notification/show.php:63
 msgid "Mark as read"
-msgstr ""
+msgstr "Merkitse luetuksi"
 
 #: app/Validator/ActionValidator.php:26 app/Validator/CategoryValidator.php:26
 #: app/Validator/ColumnValidator.php:48 app/Validator/SwimlaneValidator.php:26
@@ -6558,7 +6522,7 @@ msgstr "Salasana vaaditaan"
 #: app/Validator/AuthValidator.php:64
 #, php-format
 msgid "Your account is locked for %d minutes"
-msgstr ""
+msgstr "Tilisi on lukittu %d minuuteiksi"
 
 #: app/Validator/AuthValidator.php:85
 msgid "Bad username or password"
@@ -6567,7 +6531,7 @@ msgstr "Väärä käyttäjätunnus tai salasana"
 #: app/Validator/AuthValidator.php:112
 #: app/Validator/PasswordResetValidator.php:86
 msgid "Invalid captcha"
-msgstr ""
+msgstr "Virheellinen captcha"
 
 #: app/Validator/BaseValidator.php:51
 msgid "The confirmation is required"
@@ -6575,7 +6539,7 @@ msgstr "Varmistus vaaditaan"
 
 #: app/Validator/BaseValidator.php:52
 msgid "Passwords don't match"
-msgstr ""
+msgstr "Salasanat eivät täsmää"
 
 #: app/Validator/CategoryValidator.php:27
 #: app/Validator/CategoryValidator.php:49 app/Validator/GroupValidator.php:64
@@ -6617,12 +6581,12 @@ msgstr "Projektin ID:n on oltava kokonaisluku"
 #: app/Validator/ProjectRoleValidator.php:65
 #: app/Validator/TaskValidator.php:219 app/Validator/TaskValidator.php:220
 msgid "This field is required"
-msgstr ""
+msgstr "Tämä kenttä on pakollinen"
 
 #: app/Validator/ColumnValidator.php:70 app/Validator/TaskValidator.php:34
 #, php-format
 msgid "This value must be greater than %d"
-msgstr ""
+msgstr "Tämän arvon on oltava suurempi kuin %d"
 
 #: app/Validator/CommentValidator.php:95
 msgid "Comment is required"
@@ -6649,7 +6613,7 @@ msgstr "Kommentti vaaditaan"
 #: app/Validator/TaskLinkValidator.php:61 app/Validator/TaskValidator.php:101
 #: app/Validator/TaskValidator.php:102 app/Validator/TaskValidator.php:103
 msgid "Field required"
-msgstr ""
+msgstr "Vaadittu kenttä"
 
 #: app/Validator/CurrencyValidator.php:28 app/Validator/TaskValidator.php:47
 #: app/Validator/TaskValidator.php:48
@@ -6659,27 +6623,27 @@ msgstr "Tämän arvon tulee olla numeerinen"
 #: app/Validator/GroupValidator.php:66 app/Validator/TagValidator.php:31
 #: app/Validator/TagValidator.php:56
 msgid "The name must be unique"
-msgstr ""
+msgstr "Nimen on oltava yksilöllinen"
 
 #: app/Validator/LinkValidator.php:28 app/Validator/LinkValidator.php:51
 msgid "This label must be unique"
-msgstr ""
+msgstr "Tämän merkinnän on oltava yksilöllinen"
 
 #: app/Validator/LinkValidator.php:29
 msgid "The labels must be different"
-msgstr ""
+msgstr "Merkintöjen on oltava erilaisia"
 
 #: app/Validator/ProjectValidator.php:35
 msgid "This value must be alphanumeric"
-msgstr ""
+msgstr "Tämän arvon on oltava aakkosnumeerinen"
 
 #: app/Validator/ProjectValidator.php:36
 msgid "The identifier must be unique"
-msgstr ""
+msgstr "Tunnisteen on oltava yksilöllinen"
 
 #: app/Validator/ProjectValidator.php:38
 msgid "The project email must be unique across all projects"
-msgstr ""
+msgstr "Projektin sähköpostin on oltava yksilöllinen kaikissa projekteissa"
 
 #: app/Validator/ProjectValidator.php:56
 msgid "The project name is required"
@@ -6687,7 +6651,7 @@ msgstr "Projektin nimi on pakollinen"
 
 #: app/Validator/ProjectValidator.php:81
 msgid "This field cannot be empty"
-msgstr ""
+msgstr "Tämä kenttä ei voi olla tyhjä"
 
 #: app/Validator/SubtaskValidator.php:26 app/Validator/SubtaskValidator.php:49
 #: app/Validator/SubtaskValidator.php:72
@@ -6720,16 +6684,16 @@ msgstr "Ajan pitää olla numero"
 
 #: app/Validator/TaskLinkValidator.php:29
 msgid "A task cannot be linked to itself"
-msgstr ""
+msgstr "Tehtävää ei voi yhdistää itseensä"
 
 #: app/Validator/TaskLinkValidator.php:30
 msgid "This linked task id doesn't exists"
-msgstr ""
+msgstr "Tätä linkitettyä tehtävän tunnusta ei ole olemassa"
 
 #: app/Validator/TaskValidator.php:31
 #, php-format
 msgid "This value must be in the range %d to %d"
-msgstr ""
+msgstr "Tämän arvon on oltava välillä %d - %d."
 
 #: app/Validator/TaskValidator.php:45 app/Validator/TaskValidator.php:46
 msgid "Invalid date"
@@ -6737,11 +6701,11 @@ msgstr "Virheellinen päiväys"
 
 #: app/Validator/TaskValidator.php:59
 msgid "The start date is greater than the end date"
-msgstr ""
+msgstr "Alkamispäivä on suurempi kuin päättymispäivä"
 
 #: app/Validator/UserValidator.php:28
 msgid "This username is already taken"
-msgstr ""
+msgstr "Tämä käyttäjätunnus on jo varattu"
 
 #: app/Validator/UserValidator.php:69 app/Validator/UserValidator.php:91
 #: app/Validator/UserValidator.php:112
@@ -6756,35 +6720,3 @@ msgstr "Salasana vaaditaan"
 msgid "Wrong password"
 msgstr "Väärä salasana"
 
-#~ msgid "Yellow"
-#~ msgstr "Keltainen"
-
-#~ msgid "Blue"
-#~ msgstr "Sininen"
-
-#~ msgid "Green"
-#~ msgstr "Vihreä"
-
-#~ msgid "Purple"
-#~ msgstr "Violetti"
-
-#~ msgid "Red"
-#~ msgstr "Punainen"
-
-#~ msgid "Orange"
-#~ msgstr "Oranssi"
-
-#~ msgid "Grey"
-#~ msgstr "Harmaa"
-
-#~ msgid "Forbidden"
-#~ msgstr "Estetty"
-
-#~ msgid "estimated"
-#~ msgstr "estimoitu"
-
-#~ msgid "Todo"
-#~ msgstr "Todo"
-
-#~ msgid "In progress"
-#~ msgstr "Työnalla"

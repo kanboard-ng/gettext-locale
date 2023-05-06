@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: id_ID\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: id_ID\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -59,11 +73,8 @@ msgid "Stop the timer of all subtasks when moving a task to another column"
 msgstr "Hentikan timer semua subtugas saat memindahkan tugas ke kolom lain"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
-"Tambahkan subtugas dan aktifkan pengatur waktu saat memindahkan tugas ke "
-"kolom lain"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Tambahkan subtugas dan aktifkan pengatur waktu saat memindahkan tugas ke kolom lain"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
@@ -204,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "Berikan tugas pada orang yang melakukan tindakan"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "Berikan tugas pada orang yang melakukan tindakan saat kolom diganti"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -224,10 +234,8 @@ msgid "Duration in days"
 msgstr "Durasi dalam hari"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
-msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr "Secara otomatis mengatur tanggal jatuh tempo ketika tugas dipindahkan dari kolom tertentu"
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
@@ -242,12 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "Ganti penugasan berdasarkan nama pengguna eksternal"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
-"Tetapkan tugas ke pengguna tertentu saat tugas dipindahkan ke swimlane "
-"tertentu"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "Tetapkan tugas ke pengguna tertentu saat tugas dipindahkan ke swimlane tertentu"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -267,9 +271,7 @@ msgstr "Tutup tugas saat tidak ada aktivitas di kolom tertentu"
 
 #: app/Action/TaskCloseNotMovedColumn.php:23
 msgid "Close a task in a specific column when not moved during a given period"
-msgstr ""
-"Tutup tugas pada kolom tertentu saat tidak dipindahkan pada periode yang "
-"diberikan"
+msgstr "Tutup tugas pada kolom tertentu saat tidak dipindahkan pada periode yang diberikan"
 
 #: app/Action/TaskCreation.php:21
 msgid "Create a task from an external provider"
@@ -350,22 +352,15 @@ msgstr "Pindahkan tugas ke kolom lain saat ditutup"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Pindahkan tugas ke kolom lain saat tidak dipindahkan selama periode yang "
-"diberikan"
+msgstr "Pindahkan tugas ke kolom lain saat tidak dipindahkan selama periode yang diberikan"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
-"Pindahkan tugas ke kolom lain ketika batas waktu kurang dari jumlah hari "
-"tertentu"
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "Pindahkan tugas ke kolom lain ketika batas waktu kurang dari jumlah hari tertentu"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
-msgstr ""
-"Pindahkan tugas ke kolom lain setelah tanggal mulai yang ditentukan tercapai"
+msgstr "Pindahkan tugas ke kolom lain setelah tanggal mulai yang ditentukan tercapai"
 
 #: app/Action/TaskMoveColumnUnAssigned.php:23
 msgid "Move the task to another column when assignee is cleared"
@@ -393,12 +388,8 @@ msgid "Automatically update the start date"
 msgstr "Otomatis memperbarui tanggal permulaan"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
-"Secara otomatis memperbarui tanggal mulai ketika tugas dipindahkan dari "
-"kolom tertentu"
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "Secara otomatis memperbarui tanggal mulai ketika tugas dipindahkan dari kolom tertentu"
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
@@ -480,7 +471,7 @@ msgstr "Grafik Burndown"
 #: app/Template/analytic/estimated_actual_column.php:3
 #: app/Template/analytic/sidebar.php:25
 msgid "Estimated vs actual time per column"
-msgstr ""
+msgstr "Perkiraan vs waktu aktual per kolom"
 
 #: app/Controller/AppController.php:25 app/Controller/AppController.php:28
 #: app/Template/app/forbidden.php:3
@@ -497,13 +488,11 @@ msgstr "Masuk"
 
 #: app/Controller/AvatarFileController.php:37
 msgid "You must select a file to upload as your avatar!"
-msgstr ""
+msgstr "Anda harus memilih file untuk diunggah sebagai avatar Anda!"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "File yang Anda unggah bukan gambar yang valid! (Hanya *.gif, *.jpg, *.jpeg, dan *.png yang diperbolehkan!)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -514,18 +503,13 @@ msgid "Unable to upload files, check the permissions of your data folder."
 msgstr "Tidak dapat mengunggah file, periksa izin folder data Anda."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "Anda tidak memiliki izin untuk menghapus plugin ini."
+msgstr "Anda tidak memiliki izin untuk memindahkan tugas ini"
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
-msgstr ""
-"Semua tugas dalam kolom \"%s\" dan swimlane \"%s\" telah berhasil ditutup"
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "Semua tugas dalam kolom \"%s\" dan swimlane \"%s\" telah berhasil ditutup"
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
 #: app/Template/project/sidebar.php:35
@@ -1279,15 +1263,15 @@ msgstr "Tidak dapat mengkloning proyek."
 #: app/Template/project/sidebar.php:55
 #: app/Template/project_view/importTasks.php:2
 msgid "Import Tasks"
-msgstr ""
+msgstr "Tugas Impor"
 
 #: app/Controller/ProjectViewController.php:216
 msgid "Tasks copied successfully."
-msgstr ""
+msgstr "Tugas berhasil disalin."
 
 #: app/Controller/ProjectViewController.php:218
 msgid "Unable to copy tasks."
-msgstr ""
+msgstr "Tidak dapat menyalin tugas."
 
 #: app/Controller/SearchController.php:48 app/Template/search/activity.php:4
 msgid "Search tasks"
@@ -1439,9 +1423,7 @@ msgstr "Tugas ini dikirim melalui email ke \"%s\" dengan subjek \"%s\"."
 #: app/Controller/TaskModificationController.php:88
 #: app/Controller/TaskModificationController.php:163
 msgid "You are not allowed to update tasks assigned to someone else."
-msgstr ""
-"Anda tidak diizinkan untuk memperbarui tugas yang diberikan kepada orang "
-"lain."
+msgstr "Anda tidak diizinkan untuk memperbarui tugas yang diberikan kepada orang lain."
 
 #: app/Controller/TaskModificationController.php:28
 #: app/Controller/TaskModificationController.php:159
@@ -2364,7 +2346,7 @@ msgstr "Prioritas tugas"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2565,7 +2547,7 @@ msgstr "CHF - Francs Swiss"
 
 #: app/Model/CurrencyModel.php:37
 msgid "CNY - Chinese Yuan"
-msgstr ""
+msgstr "CNY - Yuan Tiongkok"
 
 #: app/Model/CurrencyModel.php:38
 msgid "COP - Colombian Peso"
@@ -2589,7 +2571,7 @@ msgstr "HRK - Kuna"
 
 #: app/Model/CurrencyModel.php:43
 msgid "HUF - Hungarian Forint"
-msgstr ""
+msgstr "HUF - Forint Hongaria"
 
 #: app/Model/CurrencyModel.php:44
 msgid "INR - Indian Rupee"
@@ -2601,7 +2583,7 @@ msgstr "JPY - Yen Jepang"
 
 #: app/Model/CurrencyModel.php:46
 msgid "MXN - Mexican Peso"
-msgstr ""
+msgstr "MXN - Peso Meksiko"
 
 #: app/Model/CurrencyModel.php:47
 msgid "NOK - Norwegian Krone"
@@ -2633,7 +2615,7 @@ msgstr "USD - Dolar Amerika"
 
 #: app/Model/CurrencyModel.php:54
 msgid "VES - Venezuelan Bolívar"
-msgstr ""
+msgstr "VES - Venezuela Bolívar"
 
 #: app/Model/CurrencyModel.php:55
 msgid "XBT - Bitcoin"
@@ -2819,7 +2801,7 @@ msgstr "Hapus"
 #: app/Template/action/index.php:39
 #, php-format
 msgid "Automatic action not found: \"%s\""
-msgstr "Tindakan otomatis tidak ditemukan: \"%s\\"
+msgstr "Tindakan otomatis tidak ditemukan: \"%s"
 
 #: app/Template/action/index.php:43
 msgid "Event name"
@@ -2862,9 +2844,7 @@ msgstr "Acara"
 
 #: app/Template/action_creation/event.php:17
 msgid "When the selected event occurs execute the corresponding action."
-msgstr ""
-"Ketika acara yang dipilih terjadi, tindakan yang berhubungan dengan acara "
-"akan dieksekusi."
+msgstr "Ketika acara yang dipilih terjadi, tindakan yang berhubungan dengan acara akan dieksekusi."
 
 #: app/Template/action_creation/params.php:2
 msgid "Define action parameters"
@@ -2953,11 +2933,8 @@ msgstr "Rata-rata waktu yang dihabiskan"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Grafik ini menunjukkan rata-rata waktu yang dihabiskan dalam setiap kolom "
-"untuk %d tugas terakhir."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Grafik ini menunjukkan rata-rata waktu yang dihabiskan dalam setiap kolom untuk %d tugas terakhir."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -2988,9 +2965,7 @@ msgstr "Eksekusi"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
-"Grafik ini menunjukkan kompleksitas tugas dari waktu ke waktu (Sisa "
-"Pekerjaan)."
+msgstr "Grafik ini menunjukkan kompleksitas tugas dari waktu ke waktu (Sisa Pekerjaan)."
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
@@ -3026,12 +3001,8 @@ msgstr "Lead Time"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Grafik ini menunjukkan rata-rata waktu lead dan cycle time untuk %d tugas "
-"terakhir dari waktu ke waktu."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Grafik ini menunjukkan rata-rata waktu lead dan cycle time untuk %d tugas terakhir dari waktu ke waktu."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3179,16 +3150,12 @@ msgid "Close all tasks in this column and this swimlane"
 msgstr "Tutup semua tugas dalam kolom ini"
 
 #: app/Template/board/table_column.php:56
-#, fuzzy
-#| msgid "Reorder this column by priority (ASC)"
 msgid "Reorder this column by id (ASC)"
-msgstr "Susun ulang kolom ini berdasarkan prioritas (ASC)"
+msgstr "Susun ulang kolom ini berdasarkan id (ASC)"
 
 #: app/Template/board/table_column.php:59
-#, fuzzy
-#| msgid "Reorder this column by priority (DESC)"
 msgid "Reorder this column by id (DESC)"
-msgstr "Susun ulang kolom ini berdasarkan prioritas (DESC)"
+msgstr "Susun ulang kolom ini berdasarkan id (DESC)"
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
@@ -3345,7 +3312,7 @@ msgstr "Sub-tugas"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
@@ -3445,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Hanya untuk tugas yang diberikan kepada pengguna saat ini"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Orang-orang dengan peran ini dapat memindahkan tugas diantara kolom sumber "
-"dan destinasi."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Orang-orang dengan peran ini dapat memindahkan tugas diantara kolom sumber dan destinasi."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3633,9 +3596,7 @@ msgstr "URL Aplikasi"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
-"Contoh: https://contoh.kanboard.org/ (digunakan untuk menghasilkan URL yang "
-"absolut"
+msgstr "Contoh: https://contoh.kanboard.org/ (digunakan untuk menghasilkan URL yang absolut"
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3677,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Periode penyorotan tugas"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Periode (dalam detik) untuk mempertimbangkan tugas yang baru dimodifikasi (0 "
-"untuk menonaktifkan, default 2 hari)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Periode (dalam detik) untuk mempertimbangkan tugas yang baru dimodifikasi (0 untuk menonaktifkan, default 2 hari)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3698,8 +3655,7 @@ msgstr "Interval pembaruan untuk papan pribadi"
 
 #: app/Template/config/board.php:18
 msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
-msgstr ""
-"Frekuensi dalam detik (0 untuk menonaktifkan fitur ini, default 10 detik)"
+msgstr "Frekuensi dalam detik (0 untuk menonaktifkan fitur ini, default 10 detik)"
 
 #: app/Template/config/email.php:8
 msgid "Outgoing Emails"
@@ -3834,9 +3790,7 @@ msgstr "Nonaktifkan proyek pribadi"
 
 #: app/Template/config/project.php:22
 msgid "Allow only one subtask in progress at the same time for a user"
-msgstr ""
-"Izinkan hanya satu sub-tugas dalam proses secara bersamaan untuk satu "
-"pengguna"
+msgstr "Izinkan hanya satu sub-tugas dalam proses secara bersamaan untuk satu pengguna"
 
 #: app/Template/config/project.php:23
 msgid "Trigger automatically subtask time tracking"
@@ -3855,11 +3809,8 @@ msgid "Webhooks"
 msgstr "Webhooks"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"Anda dapat mengunggah basis data Sqlite yang diunduh sebelumnya (format "
-"Gzip)."
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Anda dapat mengunggah basis data Sqlite yang diunduh sebelumnya (format Gzip)."
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4172,8 +4123,7 @@ msgstr "Ringkasan proyek harian"
 
 #: app/Template/export/subtasks.php:3
 msgid "This report contains all subtasks information for the given date range."
-msgstr ""
-"Laporan ini berisi semua informasi sub-tugas untuk rentang tanggal tertentu."
+msgstr "Laporan ini berisi semua informasi sub-tugas untuk rentang tanggal tertentu."
 
 #: app/Template/export/subtasks.php:12 app/Template/export/summary.php:12
 #: app/Template/export/tasks.php:12 app/Template/export/transitions.php:12
@@ -4182,21 +4132,15 @@ msgstr "Export"
 
 #: app/Template/export/summary.php:3
 msgid "This export contains the number of tasks per column grouped per day."
-msgstr ""
-"Ekspor ini berisi jumlah dari tugas per kolom yang dikelompokan per hari."
+msgstr "Ekspor ini berisi jumlah dari tugas per kolom yang dikelompokan per hari."
 
 #: app/Template/export/tasks.php:3
 msgid "This report contains all tasks information for the given date range."
-msgstr ""
-"Laporan ini berisi semua informasi tugas untuk rentang tanggal tertentu."
+msgstr "Laporan ini berisi semua informasi tugas untuk rentang tanggal tertentu."
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Laporan ini berisi semua kolom yang pindah untuk setiap tugas dengan "
-"tanggal, pengguna dan waktu yang dihabiskan untuk setiap transisi."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Laporan ini berisi semua kolom yang pindah untuk setiap tugas dengan tanggal, pengguna dan waktu yang dihabiskan untuk setiap transisi."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4440,7 +4384,7 @@ msgstr "Ditugaskan ke:"
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4587,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "Untuk reset password Anda klik tautan ini:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"Instalasi Kanboard Anda tidak diatur untuk memasang plugin dari antar muka "
-"pengguna."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Instalasi Kanboard Anda tidak diatur untuk memasang plugin dari antar muka pengguna."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4740,11 +4680,8 @@ msgstr "Identifier"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"Identifier proyek adalah opsional dan harus alfanumerik, contoh: MYPROJECT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Identifier proyek adalah opsional dan harus alfanumerik, contoh: MYPROJECT."
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
@@ -5089,12 +5026,8 @@ msgstr "Hapus peran kustom"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"Anda yakin ingin menghapus peran kustom ini: \"%s\"? Semua orang yang "
-"memiliki peran ini akan berubah menjadi anggota proyek."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Anda yakin ingin menghapus peran kustom ini: \"%s\"? Semua orang yang memiliki peran ini akan berubah menjadi anggota proyek."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5134,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "Tidak ada batasan untuk peran ini."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"Hanya memindahkan tugas di antara kolom-kolom yang diizinkan untuk tugas "
-"yang diberikan kepada pengguna saat ini"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Hanya memindahkan tugas di antara kolom-kolom yang diizinkan untuk tugas yang diberikan kepada pengguna saat ini"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5256,7 +5185,7 @@ msgstr "Tidak ada anggota proyek"
 
 #: app/Template/project_view/importTasks.php:4
 msgid "Please choose a project you want to copy the tasks from."
-msgstr ""
+msgstr "Pilih proyek yang ingin Anda salin tugas-tugasnya."
 
 #: app/Template/project_view/importTasks.php:9
 #: app/Template/task_duplication/copy.php:21
@@ -5266,23 +5195,19 @@ msgstr "Pilih sebuah proyek"
 
 #: app/Template/project_view/importTasks.php:15
 msgid "Copy"
-msgstr ""
+msgstr "Salin"
 
 #: app/Template/project_view/importTasks.php:20
 msgid "No other projects found."
-msgstr ""
+msgstr "Tidak ada proyek lain yang ditemukan."
 
 #: app/Template/project_view/integrations.php:11
 msgid "There is no integration registered at the moment."
 msgstr "Tidak ada integrasi yang didaftarkan untuk saat ini"
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"Tidak ada plugin yang mendaftarkan metode pemberitahuan proyek. Anda masih "
-"bisa mengatur pemberitahuan individu di dalam profil pengguna Anda."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Tidak ada plugin yang mendaftarkan metode pemberitahuan proyek. Anda masih bisa mengatur pemberitahuan individu di dalam profil pengguna Anda."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5295,8 +5220,7 @@ msgstr "Nonaktifkan akses publik"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
-"Fitur ini mengaktifkan umpan iCal, umpan RSS, dan tampilan papan publik."
+msgstr "Fitur ini mengaktifkan umpan iCal, umpan RSS, dan tampilan papan publik."
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5506,23 +5430,16 @@ msgid "Time spent in each column"
 msgstr "Waktu yang dihabiskan di setiap kolom"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
+msgid "The lead time is the duration between the task creation and the completion."
 msgstr "Lead time adalah durasi antara pembuatan tugas dan penyelesaian."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
-msgstr ""
-"Cycle time adalah durasi antara tanggal mulai dan tanggal penyelesaian."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "Cycle time adalah durasi antara tanggal mulai dan tanggal penyelesaian."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Jika tugas tidak ditutup, waktu saat ini akan digunakan sebagai pengganti "
-"tanggal penyelesaian."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Jika tugas tidak ditutup, waktu saat ini akan digunakan sebagai pengganti tanggal penyelesaian."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5770,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr "Edit tugas secara massal"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr "Pilih properti yang ingin Anda ubah untuk tugas yang dipilih."
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -6106,12 +6022,8 @@ msgstr "Matikan dua faktor otentifikasi"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
-"Apakah Anda yakin mau mematikan dua faktor otentifikasi untuk pengguna ini: "
-"\"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Apakah Anda yakin mau mematikan dua faktor otentifikasi untuk pengguna ini: \"%s\"?"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
@@ -6176,9 +6088,7 @@ msgstr "Pengguna jauh"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"Jika dicentang, pengguna ini akan menggunakan sistem pihak ketiga untuk "
-"otentikasi."
+msgstr "Jika dicentang, pengguna ini akan menggunakan sistem pihak ketiga untuk otentikasi."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6216,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Parameter Otentikasi"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"Pengguna jauh tidak menyimpan kata sandi mereka dalam basis data Kanboard, "
-"contoh: akun LDAP, Google dan Github."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Pengguna jauh tidak menyimpan kata sandi mereka dalam basis data Kanboard, contoh: akun LDAP, Google dan Github."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Jika anda mencentang kotak \"Larang formulir login\", kredensial masuk ke "
-"formulis login akan diabaikan."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Jika anda mencentang kotak \"Larang formulir login\", kredensial masuk ke formulis login akan diabaikan."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6454,8 +6356,7 @@ msgstr "Saya ingin menerima pemberitahuan untuk:"
 
 #: app/Template/user_view/notifications.php:17
 msgid "I only want to receive notifications for these projects:"
-msgstr ""
-"Saya ingin menerima pemberitahuan hanya untuk proyek-proyek yang dipilih :"
+msgstr "Saya ingin menerima pemberitahuan hanya untuk proyek-proyek yang dipilih :"
 
 #: app/Template/user_view/password_reset.php:2
 msgid "Last Password Reset"
@@ -6480,11 +6381,11 @@ msgstr "Aktif"
 
 #: app/Template/user_view/profile.php:6 app/Template/user_view/show.php:5
 msgid "Login:"
-msgstr ""
+msgstr "Masuk:"
 
 #: app/Template/user_view/profile.php:7 app/Template/user_view/show.php:6
 msgid "Full Name:"
-msgstr ""
+msgstr "Nama lengkap:"
 
 #: app/Template/user_view/profile.php:8 app/Template/user_view/show.php:7
 msgid "Email:"
@@ -6819,113 +6720,3 @@ msgstr "Password saat ini diperlukan"
 msgid "Wrong password"
 msgstr "Password salah"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr ","
-
-#~ msgid "number.thousands_separator"
-#~ msgstr " "
-
-#~ msgid "Yellow"
-#~ msgstr "Kuning"
-
-#~ msgid "Blue"
-#~ msgstr "Biru"
-
-#~ msgid "Green"
-#~ msgstr "Hijau"
-
-#~ msgid "Purple"
-#~ msgstr "Ungu"
-
-#~ msgid "Red"
-#~ msgstr "Merah"
-
-#~ msgid "Orange"
-#~ msgstr "Jingga"
-
-#~ msgid "Grey"
-#~ msgstr "Abu-abu"
-
-#~ msgid "Brown"
-#~ msgstr "Coklat"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Oranye"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Abu-abu Gelap"
-
-#~ msgid "Pink"
-#~ msgstr "Merah Muda"
-
-#~ msgid "Teal"
-#~ msgstr "Teal"
-
-#~ msgid "Cyan"
-#~ msgstr "Sian"
-
-#~ msgid "Lime"
-#~ msgstr "Lime"
-
-#~ msgid "Light Green"
-#~ msgstr "Hijau Muda"
-
-#~ msgid "Amber"
-#~ msgstr "Amber"
-
-#~ msgid "Forbidden"
-#~ msgstr "Terlarang"
-
-#~ msgid "estimated"
-#~ msgstr "perkiraan"
-
-#~ msgid "Todo"
-#~ msgstr "Yang harus dilakukan"
-
-#~ msgid "In progress"
-#~ msgstr "Dalam proses"
-
-#~ msgid "relates to"
-#~ msgstr "berhubungan dengan"
-
-#~ msgid "blocks"
-#~ msgstr "blokir"
-
-#~ msgid "is blocked by"
-#~ msgstr "diblokir oleh"
-
-#~ msgid "duplicates"
-#~ msgstr "duplikat"
-
-#~ msgid "is duplicated by"
-#~ msgstr "diduplikasi oleh"
-
-#~ msgid "is a child of"
-#~ msgstr "anak dari"
-
-#~ msgid "is a parent of"
-#~ msgstr "induk dari"
-
-#~ msgid "targets milestone"
-#~ msgstr "target batu pijakan"
-
-#~ msgid "is a milestone of"
-#~ msgstr "adalah batu pijakan dari"
-
-#~ msgid "fixes"
-#~ msgstr "perbaikan"
-
-#~ msgid "is fixed by"
-#~ msgstr "diperbaiki oleh"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "Proyek dimana \"%s\" adalah manajernya"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "Proyek dimana \"%s\" adalah anggotanya"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "Tugas terbuka ditugaskan pada \"%s\""
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "Tugas tertutup ditugaskan pada \"%s\""

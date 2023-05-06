@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: ro_RO\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Romanian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: ro\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: ro_RO\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -18,8 +32,7 @@ msgstr "Creează un comentariu de la un furnizor extern"
 
 #: app/Action/CommentCreationMoveTaskColumn.php:23
 msgid "Add a comment log when moving the task between columns"
-msgstr ""
-"Înregistrează un comentariu în jurnal când se mută sarcina între coloane"
+msgstr "Înregistrează un comentariu în jurnal când se mută sarcina între coloane"
 
 #: app/Action/CommentCreationMoveTaskColumn.php:47
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:49
@@ -57,16 +70,15 @@ msgstr "Mutat în coloana %s"
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
+msgstr "Opriți cronometrul tuturor subactivităților atunci când mutați o activitate în altă coloană"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Adăugați o subactivitate și activați cronometrul atunci când mutați o activitate în altă coloană"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
-msgstr ""
+msgstr "Titlul subtask-ului"
 
 #: app/Action/TaskAssignCategoryColor.php:23
 msgid "Assign automatically a category based on a color"
@@ -125,7 +137,7 @@ msgstr "Tip de legătură"
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:23
 msgid "Assign a category when the task is moved to a specific swimlane"
-msgstr ""
+msgstr "Atribuiți o categorie atunci când sarcina este mutată într-un anumit culoar de înot"
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:49
 #: app/Action/TaskAssignColorSwimlane.php:49
@@ -149,8 +161,7 @@ msgstr "Atribuie o culoare când sarcina este mutată într-o anumită coloană"
 
 #: app/Action/TaskAssignColorLink.php:23
 msgid "Change task color when using a specific task link"
-msgstr ""
-"Schimbă culoarea sarcinii când se folosește o anumită legătură în sarcină"
+msgstr "Schimbă culoarea sarcinii când se folosește o anumită legătură în sarcină"
 
 #: app/Action/TaskAssignColorOnDueDate.php:24
 msgid "Assign automatically a color when due date is expired"
@@ -158,7 +169,7 @@ msgstr "Atribuie automat o culoare când data scadentă a expirat"
 
 #: app/Action/TaskAssignColorOnStartDate.php:24
 msgid "Assign automatically a color when preset start date is reached"
-msgstr ""
+msgstr "Atribuiți automat o culoare atunci când este atinsă data de începere prestabilită"
 
 #: app/Action/TaskAssignColorPriority.php:23
 msgid "Assign automatically a color based on a priority"
@@ -204,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "Atribuie sarcina persoanei care îndeplinește acțiunea"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "Atribuie sarcina persoanei care acționează când este schimbată coloana"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -224,10 +234,8 @@ msgid "Duration in days"
 msgstr "Durată în zile"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
-msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr "Setați automat data scadentă atunci când sarcina este mutată de la o anumită coloană"
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
@@ -242,10 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "Schimbă persoana desemnată bazat pe un nume de utilizator extern"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "Atribuiți sarcina unui anumit utilizator atunci când sarcina este mutată într-un anumit culoar de înot"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -265,9 +271,7 @@ msgstr "Închide o sarcină când nu există activitate într-o anumită coloan�
 
 #: app/Action/TaskCloseNotMovedColumn.php:23
 msgid "Close a task in a specific column when not moved during a given period"
-msgstr ""
-"Închide o sarcină într-o anumită coloană când nu a fost mutată într-o "
-"anumită perioadă"
+msgstr "Închide o sarcină într-o anumită coloană când nu a fost mutată într-o anumită perioadă"
 
 #: app/Action/TaskCreation.php:21
 msgid "Create a task from an external provider"
@@ -348,18 +352,15 @@ msgstr "Mută sarcina în altă coloană când este închisă"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Mută sarcina în altă coloană dacă nu a fost mutată într-o anumită perioadă"
+msgstr "Mută sarcina în altă coloană dacă nu a fost mutată într-o anumită perioadă"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "Mutați sarcina în altă coloană atunci când data scadentă este mai mică decât un anumit număr de zile"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
-msgstr ""
+msgstr "Mutați sarcina în altă coloană odată ce este atinsă o dată de începere predefinită"
 
 #: app/Action/TaskMoveColumnUnAssigned.php:23
 msgid "Move the task to another column when assignee is cleared"
@@ -367,16 +368,16 @@ msgstr "Mută sarcina în altă coloană când este eliberată atribuirea"
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:23
 msgid "Move the task to another swimlane when assigned to a user"
-msgstr ""
+msgstr "Mutați sarcina în alt culoar de înot atunci când este atribuită unui utilizator"
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:52
 #: app/Action/TaskMoveSwimlaneCategoryChange.php:48
 msgid "Destination swimlane"
-msgstr ""
+msgstr "Destinația culoar de înot"
 
 #: app/Action/TaskMoveSwimlaneCategoryChange.php:23
 msgid "Move the task to another swimlane when the category is changed"
-msgstr ""
+msgstr "Mutați sarcina în alt culoar de înot atunci când se schimbă categoria"
 
 #: app/Action/TaskOpen.php:21 app/Template/task_status/open.php:2
 msgid "Open a task"
@@ -387,10 +388,8 @@ msgid "Automatically update the start date"
 msgstr "Actualizează automat data de start"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "Actualizarea automată a datei de începere atunci când sarcina este mutată de la o anumită coloană"
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
@@ -472,7 +471,7 @@ msgstr "Graficul progresului"
 #: app/Template/analytic/estimated_actual_column.php:3
 #: app/Template/analytic/sidebar.php:25
 msgid "Estimated vs actual time per column"
-msgstr ""
+msgstr "Timp estimat vs. timp real pe coloană"
 
 #: app/Controller/AppController.php:25 app/Controller/AppController.php:28
 #: app/Template/app/forbidden.php:3
@@ -489,13 +488,11 @@ msgstr "Conectare"
 
 #: app/Controller/AvatarFileController.php:37
 msgid "You must select a file to upload as your avatar!"
-msgstr ""
+msgstr "Trebuie să selectezi un fișier pe care să-l încarci ca avatar!"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "Fișierul pe care l-ați încărcat nu este o imagine validă! (Numai *.gif, *.jpg, *.jpeg și *.png sunt permise!)"
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -503,22 +500,16 @@ msgstr ""
 #: app/Controller/TaskFileController.php:60
 #: app/Controller/TaskFileController.php:66
 msgid "Unable to upload files, check the permissions of your data folder."
-msgstr ""
-"Nu am putut încărca fișierele, verifică permisiunile directorului de date."
+msgstr "Nu am putut încărca fișierele, verifică permisiunile directorului de date."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "Nu ai dreptul să ștergi această extensie."
+msgstr "Nu aveți permisiunea de a muta această sarcină."
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
-msgstr ""
-"Toate sarcinile coloanei \"%s\" si a culoarului \"%s\" au fost închise."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
+msgstr "Toate sarcinile coloanei \"%s\" si a culoarului \"%s\" au fost închise."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
 #: app/Template/project/sidebar.php:35
@@ -1101,7 +1092,7 @@ msgstr "Utilizatorul nu a fost găsit."
 
 #: app/Controller/ProjectPermissionController.php:155
 msgid "Unable to find this group."
-msgstr ""
+msgstr "Nu am reușit să găsesc acest grup."
 
 #: app/Controller/ProjectPredefinedContentController.php:22
 #: app/Template/project_predefined_content/show.php:2
@@ -1272,15 +1263,15 @@ msgstr "Nu am putut clona proiectul."
 #: app/Template/project/sidebar.php:55
 #: app/Template/project_view/importTasks.php:2
 msgid "Import Tasks"
-msgstr ""
+msgstr "Sarcini de import"
 
 #: app/Controller/ProjectViewController.php:216
 msgid "Tasks copied successfully."
-msgstr ""
+msgstr "Sarcinile au fost copiate cu succes."
 
 #: app/Controller/ProjectViewController.php:218
 msgid "Unable to copy tasks."
-msgstr ""
+msgstr "Imposibilitatea de a copia sarcini."
 
 #: app/Controller/SearchController.php:48 app/Template/search/activity.php:4
 msgid "Search tasks"
@@ -1425,8 +1416,7 @@ msgstr "Sarcina a fost trimisă prin e-mail."
 #: app/Controller/TaskMailController.php:37
 #, php-format
 msgid "This task was sent by email to \"%s\" with subject \"%s\"."
-msgstr ""
-"Această sarcină a fost trimisă prin e-mail lui \"%s\" cu subiectul \"%s\"."
+msgstr "Această sarcină a fost trimisă prin e-mail lui \"%s\" cu subiectul \"%s\"."
 
 #: app/Controller/TaskModificationController.php:24
 #: app/Controller/TaskModificationController.php:47
@@ -1644,7 +1634,7 @@ msgstr "Mută sarcina în alt culoar"
 
 #: app/Core/Event/EventManager.php:58
 msgid "Subtask creation or modification"
-msgstr ""
+msgstr "Crearea sau modificarea subtask-urilor"
 
 #: app/Core/ExternalLink/ExternalLinkManager.php:96
 msgid "Auto"
@@ -1866,17 +1856,17 @@ msgstr "%s a deschis sarcina #%d"
 #: app/Template/event/task_move_project.php:2
 #, php-format
 msgid "%s moved the task #%d \"%s\" to the project \"%s\""
-msgstr ""
+msgstr "%s a mutat sarcina #%d \"%s\" în proiectul \"%s\""
 
 #: app/EventBuilder/TaskEventBuilder.php:163
 #, php-format
 msgid "%s moved the task #%d to the column \"%s\""
-msgstr ""
+msgstr "%s a mutat sarcina #%d în coloana \"%s\""
 
 #: app/EventBuilder/TaskEventBuilder.php:170
 #, php-format
 msgid "%s moved the task #%d to the position %d in the column \"%s\""
-msgstr ""
+msgstr "%s a mutat sarcina nr.%d la poziția %d în coloana \"%s\"."
 
 #: app/EventBuilder/TaskEventBuilder.php:178
 #, php-format
@@ -1886,7 +1876,7 @@ msgstr "%s a mutat sarcina #%d în primul culoar"
 #: app/EventBuilder/TaskEventBuilder.php:182
 #, php-format
 msgid "%s moved the task #%d to the swimlane \"%s\""
-msgstr ""
+msgstr "%s a mutat sarcina #%d în culoarul de înot \"%s\""
 
 #: app/EventBuilder/TaskEventBuilder.php:189
 #, php-format
@@ -1917,7 +1907,7 @@ msgstr "Sarcina #%d a fost deschisă"
 #: app/Template/notification/task_move_project.php:5
 #, php-format
 msgid "Task #%d \"%s\" has been moved to the project \"%s\""
-msgstr ""
+msgstr "Sarcina #%d \"%s\" a fost mutată în proiectul \"%s\""
 
 #: app/EventBuilder/TaskEventBuilder.php:217
 #, php-format
@@ -1963,7 +1953,7 @@ msgstr "%s a atașat un fișier sarcinii #%d"
 #: app/EventBuilder/TaskFileEventBuilder.php:68
 #, php-format
 msgid "%s removed a file from the task #%d"
-msgstr ""
+msgstr "%s a eliminat un fișier din sarcină #%d"
 
 #: app/EventBuilder/TaskFileEventBuilder.php:85
 #, php-format
@@ -1973,7 +1963,7 @@ msgstr "Atașament nou în sarcina #%d: %s"
 #: app/EventBuilder/TaskFileEventBuilder.php:89
 #, php-format
 msgid "Attachment removed from task #%d: %s"
-msgstr ""
+msgstr "Anexă eliminată din sarcina nr.%d: %s"
 
 #: app/EventBuilder/TaskLinkEventBuilder.php:63
 #, php-format
@@ -2185,7 +2175,7 @@ msgstr "Link web"
 
 #: app/Helper/DateHelper.php:76
 msgid "days"
-msgstr ""
+msgstr "zile"
 
 #: app/Helper/DateHelper.php:76 app/Helper/DateHelper.php:89
 #: app/Helper/SubtaskHelper.php:145 app/Helper/SubtaskHelper.php:156
@@ -2200,11 +2190,11 @@ msgstr "ore"
 
 #: app/Helper/DateHelper.php:76
 msgid "minutes"
-msgstr ""
+msgstr "minute"
 
 #: app/Helper/DateHelper.php:76
 msgid "seconds"
-msgstr ""
+msgstr "secunde"
 
 #: app/Helper/DateHelper.php:110
 msgid "<15m"
@@ -2340,7 +2330,7 @@ msgstr "Descriere"
 
 #: app/Helper/TaskHelper.php:72 app/Template/task_bulk/show.php:11
 msgid "Template for the task description"
-msgstr ""
+msgstr "Șablon pentru descrierea sarcinii"
 
 #: app/Helper/TaskHelper.php:229 app/Import/TaskImport.php:49
 msgid "Start Date"
@@ -2356,7 +2346,7 @@ msgstr "Priorități de sarcini"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2368,15 +2358,15 @@ msgstr "Adaugă o nouă sarcină Kanboard"
 
 #: app/Import/TaskImport.php:41
 msgid "Creator Username"
-msgstr ""
+msgstr "Nume de utilizator creator"
 
 #: app/Import/TaskImport.php:42
 msgid "Color Name"
-msgstr ""
+msgstr "Nume culoare"
 
 #: app/Import/TaskImport.php:43
 msgid "Column Name"
-msgstr ""
+msgstr "Numele coloanei"
 
 #: app/Import/TaskImport.php:44 app/Template/category/create.php:7
 #: app/Template/category/edit.php:8 app/Template/category/index.php:14
@@ -2385,19 +2375,19 @@ msgstr "Numele categoriei"
 
 #: app/Import/TaskImport.php:45
 msgid "Swimlane Name"
-msgstr ""
+msgstr "Numele culoarului de înot"
 
 #: app/Import/TaskImport.php:47
 msgid "Time Estimated"
-msgstr ""
+msgstr "Timp estimat"
 
 #: app/Import/TaskImport.php:48
 msgid "Time Spent"
-msgstr ""
+msgstr "Timp petrecut"
 
 #: app/Import/TaskImport.php:54
 msgid "External Link"
-msgstr ""
+msgstr "Legătură externă"
 
 #: app/Import/TaskImport.php:140 app/Import/UserImport.php:115
 #: app/Validator/ActionValidator.php:27
@@ -2581,7 +2571,7 @@ msgstr "HRK - Kuna croată"
 
 #: app/Model/CurrencyModel.php:43
 msgid "HUF - Hungarian Forint"
-msgstr ""
+msgstr "HUF - forint maghiar"
 
 #: app/Model/CurrencyModel.php:44
 msgid "INR - Indian Rupee"
@@ -2593,7 +2583,7 @@ msgstr "JPY - Yen japonez"
 
 #: app/Model/CurrencyModel.php:46
 msgid "MXN - Mexican Peso"
-msgstr ""
+msgstr "MXN - Peso mexican"
 
 #: app/Model/CurrencyModel.php:47
 msgid "NOK - Norwegian Krone"
@@ -2625,11 +2615,11 @@ msgstr "USD - Dolar american"
 
 #: app/Model/CurrencyModel.php:54
 msgid "VES - Venezuelan Bolívar"
-msgstr ""
+msgstr "VES - Bolívar venezuelean"
 
 #: app/Model/CurrencyModel.php:55
 msgid "XBT - Bitcoin"
-msgstr ""
+msgstr "XBT - Bitcoin"
 
 #: app/Model/InviteModel.php:55
 msgid "Kanboard Invitation"
@@ -2943,11 +2933,8 @@ msgstr "Timp mediu utilizat"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Acest grafic arată timpul mediu petrecut în fiecare coloană pentru ultimele "
-"%d sarcini."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Acest grafic arată timpul mediu petrecut în fiecare coloană pentru ultimele %d sarcini."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -2978,9 +2965,7 @@ msgstr "Execută"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
-"Acest grafic arată complexitatea sarcinii de-a lungul timpului (munca "
-"rămasă)."
+msgstr "Acest grafic arată complexitatea sarcinii de-a lungul timpului (munca rămasă)."
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
@@ -3016,12 +3001,8 @@ msgstr "Timp avans"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Acest grafic arată media duratelor de avans și ciclu pentru ultimele %d "
-"sarcini de-a lungul timpului."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Acest grafic arată media duratelor de avans și ciclu pentru ultimele %d sarcini de-a lungul timpului."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3093,7 +3074,7 @@ msgstr "Fără atribuire"
 #: app/Template/app/filters_helper.php:14
 #: app/Template/project_header/search.php:33
 msgid "Assigned"
-msgstr ""
+msgstr "Atribuit"
 
 #: app/Template/app/notfound.php:3
 msgid "Sorry, I didn't find this information in my database!"
@@ -3170,43 +3151,43 @@ msgstr "Închide toate sarcinile acestei coloane"
 
 #: app/Template/board/table_column.php:56
 msgid "Reorder this column by id (ASC)"
-msgstr ""
+msgstr "Reordonați această coloană după id (ASC)"
 
 #: app/Template/board/table_column.php:59
 msgid "Reorder this column by id (DESC)"
-msgstr ""
+msgstr "Reordonați această coloană după id (DESC)"
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
-msgstr ""
+msgstr "Reordonați această coloană în funcție de prioritate (ASC)"
 
 #: app/Template/board/table_column.php:65
 msgid "Reorder this column by priority (DESC)"
-msgstr ""
+msgstr "Reordonați această coloană în funcție de prioritate (DESC)"
 
 #: app/Template/board/table_column.php:68
 msgid "Reorder this column by assignee and priority (ASC)"
-msgstr ""
+msgstr "Reordonați această coloană în funcție de destinatar și prioritate (ASC)"
 
 #: app/Template/board/table_column.php:71
 msgid "Reorder this column by assignee and priority (DESC)"
-msgstr ""
+msgstr "Reordonați această coloană în funcție de destinatar și prioritate (DESC)"
 
 #: app/Template/board/table_column.php:74
 msgid "Reorder this column by assignee (A-Z)"
-msgstr ""
+msgstr "Reordonați această coloană în funcție de destinatar (A-Z)"
 
 #: app/Template/board/table_column.php:77
 msgid "Reorder this column by assignee (Z-A)"
-msgstr ""
+msgstr "Reordonați această coloană în funcție de destinatar (Z-A)"
 
 #: app/Template/board/table_column.php:80
 msgid "Reorder this column by due date (ASC)"
-msgstr ""
+msgstr "Reordonați această coloană în funcție de data scadenței (ASC)"
 
 #: app/Template/board/table_column.php:83
 msgid "Reorder this column by due date (DESC)"
-msgstr ""
+msgstr "Reordonați această coloană în funcție de data scadenței (DESC)"
 
 #: app/Template/board/table_column.php:96
 #: app/Template/board/table_column.php:97
@@ -3331,7 +3312,7 @@ msgstr "Sub-sarcină"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
@@ -3350,7 +3331,7 @@ msgstr "Adaugă o categorie nouă"
 #: app/Template/project_tag/create.php:11 app/Template/project_tag/edit.php:11
 #: app/Template/tag/create.php:12 app/Template/tag/edit.php:13
 msgid "No color"
-msgstr ""
+msgstr "Fără culoare"
 
 #: app/Template/category/edit.php:2
 #, php-format
@@ -3431,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Numai pentru sarcini atribuite utilizatorului curent"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Persoanele cu acest rol vor putea muta sarcini numai între coloana sursă și "
-"destinație."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Persoanele cu acest rol vor putea muta sarcini numai între coloana sursă și destinație."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3487,7 +3464,7 @@ msgstr "Modifică un comentariu"
 
 #: app/Template/comment/edit.php:8
 msgid "Comment"
-msgstr ""
+msgstr "Comentariu"
 
 #: app/Template/comment/remove.php:7
 msgid "Do you really want to remove this comment?"
@@ -3551,7 +3528,7 @@ msgstr "PHP SAPI:"
 
 #: app/Template/config/about.php:39
 msgid "HTTP Client:"
-msgstr ""
+msgstr "Client HTTP:"
 
 #: app/Template/config/about.php:43
 msgid "OS version:"
@@ -3619,9 +3596,7 @@ msgstr "URL-ul aplicației"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
-"Exemplu : https://exemplu.kanboard.org/ (utilizat în generarea URL-urilor "
-"absolute)"
+msgstr "Exemplu : https://exemplu.kanboard.org/ (utilizat în generarea URL-urilor absolute)"
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3663,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Perioada de evidențiere a sarcinii"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Durata în secunde pentru a considera o sarcină recent modificată (0 pentru "
-"dezactivare, 2 zile implicit)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Durata în secunde pentru a considera o sarcină recent modificată (0 pentru dezactivare, 2 zile implicit)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3819,8 +3790,7 @@ msgstr "Dezactivează proiectele private"
 
 #: app/Template/config/project.php:22
 msgid "Allow only one subtask in progress at the same time for a user"
-msgstr ""
-"Permite o singură sub-sarcină în derulare simultană pentru un utilizator"
+msgstr "Permite o singură sub-sarcină în derulare simultană pentru un utilizator"
 
 #: app/Template/config/project.php:23
 msgid "Trigger automatically subtask time tracking"
@@ -3839,10 +3809,8 @@ msgid "Webhooks"
 msgstr "Webhook-uri"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"Ai putea încărca baza de date Sqlite descărcată anterior (format Gzip)."
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Ai putea încărca baza de date Sqlite descărcată anterior (format Gzip)."
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4091,7 +4059,7 @@ msgstr "%s a atașat un fișier nou la sarcina %s"
 #: app/Template/event/task_file_destroy.php:2
 #, php-format
 msgid "%s removed a file from the task %s"
-msgstr ""
+msgstr "%s a eliminat un fișier din sarcină %s"
 
 #: app/Template/event/task_internal_link_create_update.php:2
 #, php-format
@@ -4102,7 +4070,7 @@ msgstr "%s a definit o nouă legătură internă pentru sarcina %s"
 #: app/Template/notification/task_internal_link_create_update.php:6
 #, php-format
 msgid "This task is now linked to the task %s with the relation \"%s\""
-msgstr ""
+msgstr "Această sarcină este acum legată de sarcina %s cu relația \"%s\"."
 
 #: app/Template/event/task_internal_link_delete.php:2
 #, php-format
@@ -4113,7 +4081,7 @@ msgstr "%s a șters o legătură internă pentru sarcina %s"
 #: app/Template/notification/task_internal_link_delete.php:6
 #, php-format
 msgid "The link with the relation \"%s\" to the task %s has been removed"
-msgstr ""
+msgstr "Legătura cu relația \"%s\" către sarcina %s a fost eliminată."
 
 #: app/Template/event/task_move_column.php:2
 #, php-format
@@ -4155,8 +4123,7 @@ msgstr "Rezumatul zilnic al proiectului"
 
 #: app/Template/export/subtasks.php:3
 msgid "This report contains all subtasks information for the given date range."
-msgstr ""
-"Raportul conține toate informațiile sub-sarcinilor pentru intervalul dat."
+msgstr "Raportul conține toate informațiile sub-sarcinilor pentru intervalul dat."
 
 #: app/Template/export/subtasks.php:12 app/Template/export/summary.php:12
 #: app/Template/export/tasks.php:12 app/Template/export/transitions.php:12
@@ -4172,12 +4139,8 @@ msgid "This report contains all tasks information for the given date range."
 msgstr "Raportul conține toate informațiile sarcinilor pentru intervalul dat."
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Acest raport conține toate mutările de coloană pentru sarcinile cu data, "
-"utilizatorul și timpul petrecut pentru fiecare tranziție."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Acest raport conține toate mutările de coloană pentru sarcinile cu data, utilizatorul și timpul petrecut pentru fiecare tranziție."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4421,7 +4384,7 @@ msgstr "Atribuire:"
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4434,7 +4397,7 @@ msgstr "Gestionarea timpului:"
 #: app/Template/task_internal_link/table.php:71
 #, php-format
 msgid "%sh estimated"
-msgstr ""
+msgstr "%sh estimat"
 
 #: app/Template/notification/subtask_delete.php:5
 msgid "Subtask removed"
@@ -4449,7 +4412,7 @@ msgstr "Sub-sarcină actualizată"
 #: app/Template/task_internal_link/table.php:67
 #, php-format
 msgid "%sh spent"
-msgstr ""
+msgstr "%sh cheltuit"
 
 #: app/Template/notification/task_assignee_change.php:9
 #: app/Template/notification/task_create.php:22
@@ -4518,7 +4481,7 @@ msgstr "Atașament nou adăugat \"%s\""
 #: app/Template/notification/task_file_destroy.php:5
 #, php-format
 msgid "Attachment removed \"%s\""
-msgstr ""
+msgstr "Atașament eliminat \"%s\""
 
 #: app/Template/notification/task_move_swimlane.php:8
 msgid "The task has been moved to the first swimlane"
@@ -4568,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "Pentru a reseta parola apasă pe acest link:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"Instanța ta de Kanboard nu a fost configurată pentru a instala extensii din "
-"interfața de utilizator."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Instanța ta de Kanboard nu a fost configurată pentru a instala extensii din interfața de utilizator."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4663,7 +4622,7 @@ msgstr "Analitică"
 #: app/Template/project_header/dropdown.php:2
 #: app/Template/project_header/dropdown.php:75
 msgid "Configure this project"
-msgstr ""
+msgstr "Configurați acest proiect"
 
 #: app/Template/project/sidebar.php:17
 msgid "Predefined contents"
@@ -4721,16 +4680,12 @@ msgstr "Identificator"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"Identificatorul de proiect este opțional și trebuie să fie alfanumeric, "
-"exemplu: PROIECTULMEU."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Identificatorul de proiect este opțional și trebuie să fie alfanumeric, exemplu: PROIECTULMEU."
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
-msgstr ""
+msgstr "Limitele sarcinilor pe coloană se aplică fiecărui culoar de înot în parte."
 
 #: app/Template/project_creation/create.php:28
 #: app/Template/project_view/duplicate.php:7
@@ -4752,13 +4707,11 @@ msgstr "General"
 
 #: app/Template/project_edit/show.php:21
 msgid "The project email is optional and could be used by several plugins."
-msgstr ""
-"E-mail-ul proiectului este opțional si ar putea fi folosit de mai multe "
-"extensii."
+msgstr "E-mail-ul proiectului este opțional si ar putea fi folosit de mai multe extensii."
 
 #: app/Template/project_edit/show.php:30
 msgid "Task limits apply to each swimlane individually"
-msgstr ""
+msgstr "Limitele sarcinilor se aplică fiecărui culoar de înot în parte"
 
 #: app/Template/project_edit/show.php:37
 msgid "Permissions and ownership"
@@ -4849,11 +4802,11 @@ msgstr "Derulare orizontală"
 
 #: app/Template/project_header/dropdown.php:23
 msgid "Collapse vertically"
-msgstr ""
+msgstr "Colaps pe verticală"
 
 #: app/Template/project_header/dropdown.php:26
 msgid "Expand vertically"
-msgstr ""
+msgstr "Extindeți pe verticală"
 
 #: app/Template/project_header/dropdown.php:49
 #: app/Template/project_overview/information.php:30
@@ -5073,12 +5026,8 @@ msgstr "Șterge rol personalizat pe proiect"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"Vrei să ștergi acest rol personalizat \"%s\" ? Toți membrii cu acest rol vor "
-"deveni membri de proiect."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Vrei să ștergi acest rol personalizat \"%s\" ? Toți membrii cu acest rol vor deveni membri de proiect."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5118,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "Nu există restricții pe acest rol."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"Este permisă mutarea sarcinii între acele coloane pentru sarcinile atribuite "
-"utilizatorului curent"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Este permisă mutarea sarcinii între acele coloane pentru sarcinile atribuite utilizatorului curent"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5194,7 +5139,7 @@ msgstr "Etichetă"
 #: app/Template/project_tag/index.php:29
 #: app/Template/project_tag/make_global.php:2
 msgid "Change to global tag"
-msgstr ""
+msgstr "Schimbare la eticheta globală"
 
 #: app/Template/project_tag/index.php:46 app/Template/tag/index.php:2
 msgid "Global tags"
@@ -5202,12 +5147,12 @@ msgstr "Etichete globale"
 
 #: app/Template/project_tag/index.php:53
 msgid "Enable global tags for this project"
-msgstr ""
+msgstr "Activați etichetele globale pentru acest proiect"
 
 #: app/Template/project_tag/make_global.php:7
 #, php-format
 msgid "Do you really want to make the tag \"%s\" global?"
-msgstr ""
+msgstr "Chiar vreți să faceți ca eticheta \"%s\" să fie globală?"
 
 #: app/Template/project_tag/remove.php:2 app/Template/tag/remove.php:2
 msgid "Remove a tag"
@@ -5240,7 +5185,7 @@ msgstr "Nu există membri de proiect."
 
 #: app/Template/project_view/importTasks.php:4
 msgid "Please choose a project you want to copy the tasks from."
-msgstr ""
+msgstr "Vă rugăm să alegeți un proiect din care doriți să copiați sarcinile."
 
 #: app/Template/project_view/importTasks.php:9
 #: app/Template/task_duplication/copy.php:21
@@ -5250,23 +5195,19 @@ msgstr "Alege un proiect"
 
 #: app/Template/project_view/importTasks.php:15
 msgid "Copy"
-msgstr ""
+msgstr "Copiați"
 
 #: app/Template/project_view/importTasks.php:20
 msgid "No other projects found."
-msgstr ""
+msgstr "Nu s-au găsit alte proiecte."
 
 #: app/Template/project_view/integrations.php:11
 msgid "There is no integration registered at the moment."
 msgstr "Nu este vreo integrare înregistrată momentan."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"Nici o extensie nu a înregistrat o metodă de notificare a proiectelor. Mai "
-"poți însă configura notificări individuale în profilul tău de utilizator."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Nici o extensie nu a înregistrat o metodă de notificare a proiectelor. Mai poți însă configura notificări individuale în profilul tău de utilizator."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5279,7 +5220,7 @@ msgstr "Dezactivează accesul public"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
+msgstr "Această caracteristică permite afișarea fluxului iCal, a fluxului RSS și a tabloului public."
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5307,15 +5248,15 @@ msgstr "Modificat:"
 
 #: app/Template/project_view/show.php:36
 msgid "Column task limits are applied to each swimlane individually"
-msgstr ""
+msgstr "Limitele sarcinilor pe coloană se aplică individual pentru fiecare culoar de înot."
 
 #: app/Template/project_view/show.php:38
 msgid "Column task limits are applied across swimlanes"
-msgstr ""
+msgstr "Limitele sarcinilor pe coloană se aplică pe toate culoarele de înot"
 
 #: app/Template/project_view/show.php:41
 msgid "Task limit: "
-msgstr ""
+msgstr "Limita sarcinii: "
 
 #: app/Template/search/activity.php:25 app/Template/search/index.php:25
 msgid "Advanced search"
@@ -5489,22 +5430,16 @@ msgid "Time spent in each column"
 msgstr "Timp petrecut prin fiecare coloană"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
+msgid "The lead time is the duration between the task creation and the completion."
 msgstr "Timpul de avans este durata între crearea sarcinii și finalizarea."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
+msgid "The cycle time is the duration between the start date and the completion."
 msgstr "Timpul de ciclu este durata între data de pornire și finalizare."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Dacă sarcina nu este închisă data curentă este folosită în locul dății de "
-"finalizare."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Dacă sarcina nu este închisă data curentă este folosită în locul dății de finalizare."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5642,7 +5577,7 @@ msgstr "Pornit:"
 
 #: app/Template/task/details.php:127
 msgid "Start now"
-msgstr ""
+msgstr "Începeți acum"
 
 #: app/Template/task/details.php:140
 msgid "Completed:"
@@ -5749,17 +5684,16 @@ msgstr "Introdu o sarcină per linie."
 #: app/Template/task_bulk_change_property/show.php:2
 #: app/Template/task_list/header.php:23
 msgid "Edit tasks in bulk"
-msgstr ""
+msgstr "Editați sarcinile în bloc"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
-msgstr ""
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr "Alegeți proprietățile pe care doriți să le modificați pentru sarcinile selectate."
 
 #: app/Template/task_bulk_move_column/show.php:2
 #: app/Template/task_list/header.php:20
 msgid "Move selected tasks to another column or swimlane"
-msgstr ""
+msgstr "Mutați sarcinile selectate în altă coloană sau în altă zonă de navigare"
 
 #: app/Template/task_comments/show.php:2
 msgid "Comments"
@@ -5844,8 +5778,7 @@ msgstr "Legături externe"
 
 #: app/Template/task_file/screenshot.php:6
 msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
-msgstr ""
-"Faceți o captura de ecran si apăsați CTRL+V sau ⌘+V pentru a lipi aici."
+msgstr "Faceți o captura de ecran si apăsați CTRL+V sau ⌘+V pentru a lipi aici."
 
 #: app/Template/task_file/screenshot.php:15
 msgid "This feature does not work with all browsers."
@@ -5902,11 +5835,11 @@ msgstr "Data scadentă trebuie să folosească formatarea ISO : AAAA-LL-ZZ"
 
 #: app/Template/task_import/show.php:31
 msgid "Tags must be separated by a comma"
-msgstr ""
+msgstr "Etichetele trebuie să fie separate prin virgulă"
 
 #: app/Template/task_import/show.php:32
 msgid "Only the task title is required"
-msgstr ""
+msgstr "Este necesar doar titlul sarcinii"
 
 #: app/Template/task_import/show.php:35 app/Template/user_import/show.php:5
 msgid "Download CSV template"
@@ -5962,15 +5895,15 @@ msgstr "%d sarcină"
 
 #: app/Template/task_list/header.php:12
 msgid "Select All"
-msgstr ""
+msgstr "Selectați toate"
 
 #: app/Template/task_list/header.php:12
 msgid "Unselect All"
-msgstr ""
+msgstr "Deosebiți toate"
 
 #: app/Template/task_list/header.php:17
 msgid "Apply action"
-msgstr ""
+msgstr "Aplicați acțiunea"
 
 #: app/Template/task_list/header.php:33
 msgid "Hide subtasks"
@@ -6089,12 +6022,8 @@ msgstr "Dezactivează autentificarea în doi factori"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
-"Vrei să dezactivezi autentificarea în doi factori pentru utilizatorul: "
-"\"%s\" ?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Vrei să dezactivezi autentificarea în doi factori pentru utilizatorul: \"%s\" ?"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
@@ -6159,9 +6088,7 @@ msgstr "Utilizator la distanță"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"Dacă este bifat, acest utilizator va folosi un sistem terț pentru "
-"autentificare."
+msgstr "Dacă este bifat, acest utilizator va folosi un sistem terț pentru autentificare."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6199,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Parametri de autentificare"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"Utilizatorii la distanță nu păstrează parola în baza de date locală, de "
-"exemplu : conturi LDAP, GitHub sau Google."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Utilizatorii la distanță nu păstrează parola în baza de date locală, de exemplu : conturi LDAP, GitHub sau Google."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Dacă bifezi \"Interzice formularul de autentificare\", acreditările "
-"introduse în dialogul de conectare vor fi ignorate."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Dacă bifezi \"Interzice formularul de autentificare\", acreditările introduse în dialogul de conectare vor fi ignorate."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6238,8 +6157,7 @@ msgstr "Duplicatele nu sunt importate"
 
 #: app/Template/user_import/show.php:16
 msgid "Usernames must be lowercase and unique"
-msgstr ""
-"Numele de utilizator trebuie să aibă caractere minuscule și să fie unice"
+msgstr "Numele de utilizator trebuie să aibă caractere minuscule și să fie unice"
 
 #: app/Template/user_import/show.php:17
 msgid "Passwords will be encrypted if present"
@@ -6330,12 +6248,12 @@ msgstr "Doi Factori"
 #: app/Template/user_list/user_details.php:16
 #, php-format
 msgid "%s is a member of the following group(s): %s"
-msgstr ""
+msgstr "%s este membru al următorului grup (grupurilor): %s"
 
 #: app/Template/user_list/user_details.php:21
 #, php-format
 msgid "%d/%d group(s) shown"
-msgstr ""
+msgstr "%d/%d grup(e) indicat(e)"
 
 #: app/Template/user_list/user_icons.php:3
 #: app/Template/user_list/user_icons.php:4
@@ -6491,7 +6409,7 @@ msgstr "Rol:"
 
 #: app/Template/user_view/show.php:17
 msgid "Group membership(s):"
-msgstr ""
+msgstr "Apartenența la grup(e):"
 
 #: app/Template/user_view/show.php:18
 msgid "Account type:"
@@ -6527,7 +6445,7 @@ msgstr "Limbă:"
 
 #: app/Template/user_view/show.php:37
 msgid "Custom Filter:"
-msgstr ""
+msgstr "Filtru personalizat:"
 
 #: app/Template/user_view/show.php:38
 msgid "Notifications:"
@@ -6725,8 +6643,7 @@ msgstr "Identificatorul trebuie să fie unic"
 
 #: app/Validator/ProjectValidator.php:38
 msgid "The project email must be unique across all projects"
-msgstr ""
-"E-mail-ul proiectului trebuie să fie diferit de toate celelalte proiecte."
+msgstr "E-mail-ul proiectului trebuie să fie diferit de toate celelalte proiecte."
 
 #: app/Validator/ProjectValidator.php:56
 msgid "The project name is required"
@@ -6784,7 +6701,7 @@ msgstr "Dată invalidă"
 
 #: app/Validator/TaskValidator.php:59
 msgid "The start date is greater than the end date"
-msgstr ""
+msgstr "Data de început este mai mare decât data de sfârșit"
 
 #: app/Validator/UserValidator.php:28
 msgid "This username is already taken"
@@ -6803,113 +6720,3 @@ msgstr "Parola actuală este obligatorie"
 msgid "Wrong password"
 msgstr "Parolă greșită"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr "."
-
-#~ msgid "number.thousands_separator"
-#~ msgstr " "
-
-#~ msgid "Yellow"
-#~ msgstr "Galben"
-
-#~ msgid "Blue"
-#~ msgstr "Albastru"
-
-#~ msgid "Green"
-#~ msgstr "Verde"
-
-#~ msgid "Purple"
-#~ msgstr "Violet"
-
-#~ msgid "Red"
-#~ msgstr "Roșu"
-
-#~ msgid "Orange"
-#~ msgstr "Portocaliu"
-
-#~ msgid "Grey"
-#~ msgstr "Gri"
-
-#~ msgid "Brown"
-#~ msgstr "Maro"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Portocaliu închis"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Gri închis"
-
-#~ msgid "Pink"
-#~ msgstr "Roz"
-
-#~ msgid "Teal"
-#~ msgstr "Turcoaz"
-
-#~ msgid "Cyan"
-#~ msgstr "Bleu"
-
-#~ msgid "Lime"
-#~ msgstr "Lime"
-
-#~ msgid "Light Green"
-#~ msgstr "Verde deschis"
-
-#~ msgid "Amber"
-#~ msgstr "Ambră"
-
-#~ msgid "Forbidden"
-#~ msgstr "Interzis"
-
-#~ msgid "estimated"
-#~ msgstr "estimate"
-
-#~ msgid "Todo"
-#~ msgstr "De făcut"
-
-#~ msgid "In progress"
-#~ msgstr "În curs"
-
-#~ msgid "relates to"
-#~ msgstr "se leagă de"
-
-#~ msgid "blocks"
-#~ msgstr "blochează"
-
-#~ msgid "is blocked by"
-#~ msgstr "este blocat de"
-
-#~ msgid "duplicates"
-#~ msgstr "duplichează"
-
-#~ msgid "is duplicated by"
-#~ msgstr "este duplicat de"
-
-#~ msgid "is a child of"
-#~ msgstr "este element moștenitor al"
-
-#~ msgid "is a parent of"
-#~ msgstr "este element parental al"
-
-#~ msgid "targets milestone"
-#~ msgstr "vizează țelul"
-
-#~ msgid "is a milestone of"
-#~ msgstr "este un țel a"
-
-#~ msgid "fixes"
-#~ msgstr "corectează"
-
-#~ msgid "is fixed by"
-#~ msgstr "este corectat de"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "Proiecte unde \"%s\" este gestionar"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "Proiecte unde \"%s\" este membru"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "Sarcini deschise atribuite lui \"%s\""
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "Sarcini închise atribuite lui \"%s\""

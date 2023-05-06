@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: ca_ES\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Catalan\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: ca\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: ca_ES\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -59,8 +73,7 @@ msgid "Stop the timer of all subtasks when moving a task to another column"
 msgstr ""
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
+msgid "Add a subtask and activate the timer when moving a task to another column"
 msgstr ""
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
@@ -202,10 +215,8 @@ msgid "Assign the task to the person who does the action"
 msgstr "Assignar la tasca a la persona que fa l'acció"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
-msgstr ""
-"Assignar la tasca a la persona que fa l'acció quan es canvia la columna"
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "Assignar la tasca a la persona que fa l'acció quan es canvia la columna"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
 msgid "Automatically set the due date on task creation"
@@ -223,9 +234,7 @@ msgid "Duration in days"
 msgstr "Durada en dies"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
+msgid "Automatically set the due date when the task is moved away from a specific column"
 msgstr ""
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
@@ -241,9 +250,7 @@ msgid "Change the assignee based on an external username"
 msgstr "Canviar el assignat basat en un nom d'usuari extern"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
 msgstr ""
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
@@ -264,9 +271,7 @@ msgstr "Tancar una tasca quan no hi ha activitat en una columna específica"
 
 #: app/Action/TaskCloseNotMovedColumn.php:23
 msgid "Close a task in a specific column when not moved during a given period"
-msgstr ""
-"Tancar una tasca en una columna específica quan no es va moure durant un "
-"període determinat"
+msgstr "Tancar una tasca en una columna específica quan no es va moure durant un període determinat"
 
 #: app/Action/TaskCreation.php:21
 msgid "Create a task from an external provider"
@@ -347,14 +352,10 @@ msgstr "Mou la tasca a una altra columna quan es tanca"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Mou la tasca a una altra columna quan no es va moure durant un període "
-"determinat"
+msgstr "Mou la tasca a una altra columna quan no es va moure durant un període determinat"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
+msgid "Move the task to another column when the due date is less than a certain number of days"
 msgstr ""
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
@@ -387,9 +388,7 @@ msgid "Automatically update the start date"
 msgstr "Actualitzar automàticament la data d'inici"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
+msgid "Automatically update the start date when the task is moved away from a specific column"
 msgstr ""
 
 #: app/Auth/TotpAuth.php:43
@@ -492,9 +491,7 @@ msgid "You must select a file to upload as your avatar!"
 msgstr ""
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
 msgstr ""
 
 #: app/Controller/AvatarFileController.php:42
@@ -506,16 +503,12 @@ msgid "Unable to upload files, check the permissions of your data folder."
 msgstr "No es pot pujar arxius, comprovar els permisos de la carpeta de dades."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You are not allowed to move this task."
 msgid "You don't have the permission to move this task"
-msgstr "No se li permet moure a aquesta tasca."
+msgstr ""
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr ""
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -1430,8 +1423,7 @@ msgstr ""
 #: app/Controller/TaskModificationController.php:88
 #: app/Controller/TaskModificationController.php:163
 msgid "You are not allowed to update tasks assigned to someone else."
-msgstr ""
-"No se li permet posar al dia les tasques assignades a una altra persona."
+msgstr "No se li permet posar al dia les tasques assignades a una altra persona."
 
 #: app/Controller/TaskModificationController.php:28
 #: app/Controller/TaskModificationController.php:159
@@ -2852,8 +2844,7 @@ msgstr "Esdeveniment"
 
 #: app/Template/action_creation/event.php:17
 msgid "When the selected event occurs execute the corresponding action."
-msgstr ""
-"Quan es produeix l'esdeveniment seleccionat executar l'acció corresponent."
+msgstr "Quan es produeix l'esdeveniment seleccionat executar l'acció corresponent."
 
 #: app/Template/action_creation/params.php:2
 msgid "Define action parameters"
@@ -2942,11 +2933,8 @@ msgstr "Temps mitjà de permanència"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Aquest gràfic mostra el temps mitjà de permanència en cada columna per a les "
-"últimes %d tasques."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Aquest gràfic mostra el temps mitjà de permanència en cada columna per a les últimes %d tasques."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -2977,9 +2965,7 @@ msgstr "Executar"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
-"Aquesta gràfica mostra la dificultat de la tasca en el temps (Treball "
-"restant)."
+msgstr "Aquesta gràfica mostra la dificultat de la tasca en el temps (Treball restant)."
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
@@ -3015,12 +3001,8 @@ msgstr "Temps de lliurament"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Aquesta taula mostra la mitjana de plom i el temps de cicle per a les "
-"últimes tasques %d respecte al temps."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Aquesta taula mostra la mitjana de plom i el temps de cicle per a les últimes tasques %d respecte al temps."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3430,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Només per a les tasques assignades a l'usuari actual"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Les persones que pertanyen a aquest rol seran capaços de moure les tasques "
-"només entre la font i la columna de destinació."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Les persones que pertanyen a aquest rol seran capaços de moure les tasques només entre la font i la columna de destinació."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3618,8 +3596,7 @@ msgstr "URL de l'aplicació"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
-"Exemple: https://example.kanboard.org/ (utilitzat per generar URL absoluta)"
+msgstr "Exemple: https://example.kanboard.org/ (utilitzat per generar URL absoluta)"
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3661,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Període culminant de tasques"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Període (en segons) per considerar una tasca es va modificar recentment (0 "
-"per desactivar, 2 dies de defecte)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Període (en segons) per considerar una tasca es va modificar recentment (0 per desactivar, 2 dies de defecte)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3682,9 +3655,7 @@ msgstr "Interval d'actualització per al tauler privada"
 
 #: app/Template/config/board.php:18
 msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
-msgstr ""
-"Freqüència en segons (0 per desactivar aquesta característica, 10 segons per "
-"defecte)"
+msgstr "Freqüència en segons (0 per desactivar aquesta característica, 10 segons per defecte)"
 
 #: app/Template/config/email.php:8
 msgid "Outgoing Emails"
@@ -3700,8 +3671,7 @@ msgstr "Transport de correu electrònic"
 
 #: app/Template/config/email.php:16
 msgid "The email configuration has been disabled by the administrator."
-msgstr ""
-"La configuració de correu electrònic ha estat desactivat per l'administrador."
+msgstr "La configuració de correu electrònic ha estat desactivat per l'administrador."
 
 #: app/Template/config/integrations.php:2
 #: app/Template/project_view/integrations.php:2
@@ -3839,10 +3809,8 @@ msgid "Webhooks"
 msgstr "WebHooks"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"Es podia pujar la base de dades SQLite prèviament descarregat (format gzip)."
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Es podia pujar la base de dades SQLite prèviament descarregat (format gzip)."
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4155,8 +4123,7 @@ msgstr "Resum diari projecte"
 
 #: app/Template/export/subtasks.php:3
 msgid "This report contains all subtasks information for the given date range."
-msgstr ""
-"Aquest informe conté tota la informació subtasques per al període de temps."
+msgstr "Aquest informe conté tota la informació subtasques per al període de temps."
 
 #: app/Template/export/subtasks.php:12 app/Template/export/summary.php:12
 #: app/Template/export/tasks.php:12 app/Template/export/transitions.php:12
@@ -4165,21 +4132,15 @@ msgstr "exportació"
 
 #: app/Template/export/summary.php:3
 msgid "This export contains the number of tasks per column grouped per day."
-msgstr ""
-"Aquesta exportació conté el nombre de tasques per columna agrupada per dia."
+msgstr "Aquesta exportació conté el nombre de tasques per columna agrupada per dia."
 
 #: app/Template/export/tasks.php:3
 msgid "This report contains all tasks information for the given date range."
-msgstr ""
-"Aquest informe conté tota la informació de tasques per al període de temps."
+msgstr "Aquest informe conté tota la informació de tasques per al període de temps."
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Aquest informe conté tots els moviments de columna per a cada tasca amb la "
-"data, l'usuari i el temps per a cada transició."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Aquest informe conté tots els moviments de columna per a cada tasca amb la data, l'usuari i el temps per a cada transició."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4570,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "Per restablir la contrasenya, feu clic en aquest enllaç:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"La instància Kanboard no està configurat per a instal·lar plugins des de la "
-"interfície d'usuari."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "La instància Kanboard no està configurat per a instal·lar plugins des de la interfície d'usuari."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4723,12 +4680,8 @@ msgstr "Identificador"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"L'identificador de projecte és opcional i ha de ser alfanumèric, exemple: "
-"MYPROJECT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "L'identificador de projecte és opcional i ha de ser alfanumèric, exemple: MYPROJECT."
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
@@ -4754,9 +4707,7 @@ msgstr "General"
 
 #: app/Template/project_edit/show.php:21
 msgid "The project email is optional and could be used by several plugins."
-msgstr ""
-"El correu electrònic del projecte és opcional i pot ser utilitzat per "
-"diversos connectors."
+msgstr "El correu electrònic del projecte és opcional i pot ser utilitzat per diversos connectors."
 
 #: app/Template/project_edit/show.php:30
 msgid "Task limits apply to each swimlane individually"
@@ -5075,9 +5026,7 @@ msgstr "Eliminar una funció personalitzada"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
 msgstr ""
 
 #: app/Template/project_role/show.php:5
@@ -5118,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "No hi ha cap restricció per a aquest rol."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Only moving task between those columns is permitted for tasks assigned to the current user"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5185,8 +5130,7 @@ msgstr "Variables del projecte"
 
 #: app/Template/project_tag/index.php:11
 msgid "There is no specific tag for this project at the moment."
-msgstr ""
-"No hi ha una etiqueta específica per a aquest projecte en aquest moment."
+msgstr "No hi ha una etiqueta específica per a aquest projecte en aquest moment."
 
 #: app/Template/project_tag/index.php:15 app/Template/tag/index.php:15
 msgid "Tag"
@@ -5262,12 +5206,8 @@ msgid "There is no integration registered at the moment."
 msgstr "No hi ha integració registrada en el moment."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"No s'ha registrat plugin d'un mètode de notificació del projecte. Encara es "
-"pot configurar les notificacions individuals en el seu perfil d'usuari."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "No s'ha registrat plugin d'un mètode de notificació del projecte. Encara es pot configurar les notificacions individuals en el seu perfil d'usuari."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5316,7 +5256,7 @@ msgstr ""
 
 #: app/Template/project_view/show.php:41
 msgid "Task limit: "
-msgstr ""
+msgstr "Límit de tasques: "
 
 #: app/Template/search/activity.php:25 app/Template/search/index.php:25
 msgid "Advanced search"
@@ -5490,25 +5430,16 @@ msgid "Time spent in each column"
 msgstr "El temps invertit en cada columna"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
-msgstr ""
-"El termini d'execució és la durada entre la creació de la tasca i la "
-"finalització."
+msgid "The lead time is the duration between the task creation and the completion."
+msgstr "El termini d'execució és la durada entre la creació de la tasca i la finalització."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
-msgstr ""
-"El temps de cicle és la durada entre la data d'inici i la finalització."
+msgid "The cycle time is the duration between the start date and the completion."
+msgstr "El temps de cicle és la durada entre la data d'inici i la finalització."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Si la tasca no està tancat el moment actual s'utilitza en lloc de la data de "
-"finalització."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Si la tasca no està tancat el moment actual s'utilitza en lloc de la data de finalització."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5756,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr ""
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr ""
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -5848,8 +5778,7 @@ msgstr "Enllaços externs"
 
 #: app/Template/task_file/screenshot.php:6
 msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
-msgstr ""
-"Prengui una captura de pantalla i premeu CTRL + V o ⌘ + V per enganxar aquí."
+msgstr "Prengui una captura de pantalla i premeu CTRL + V o ⌘ + V per enganxar aquí."
 
 #: app/Template/task_file/screenshot.php:15
 msgid "This feature does not work with all browsers."
@@ -6031,15 +5960,15 @@ msgstr "La tasca recurrent s'ha generat:"
 
 #: app/Template/task_recurrence/info.php:9
 msgid "Trigger to generate recurrent task: "
-msgstr ""
+msgstr "Desencadenar per generar tasca recurrent: "
 
 #: app/Template/task_recurrence/info.php:12
 msgid "Factor to calculate new due date: "
-msgstr ""
+msgstr "Factor per calcular la nova data de venciment: "
 
 #: app/Template/task_recurrence/info.php:15
 msgid "Timeframe to calculate new due date: "
-msgstr ""
+msgstr "Marc de temps per calcular la nova data de venciment: "
 
 #: app/Template/task_recurrence/info.php:18
 msgid "Base date to calculate new due date: "
@@ -6093,9 +6022,7 @@ msgstr "Desactiva l'autenticació de dos factors"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
 msgstr ""
 
 #: app/Template/twofactor/index.php:7
@@ -6161,9 +6088,7 @@ msgstr "Usuari remot"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"Si s'activa, aquest usuari utilitzarà un sistema de tercers per a "
-"l'autenticació."
+msgstr "Si s'activa, aquest usuari utilitzarà un sistema de tercers per a l'autenticació."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6201,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Paràmetres d'autenticació"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"Els usuaris remots no emmagatzemen la contrasenya a la base de dades "
-"Kanboard, exemples: els comptes LDAP, Google i Github."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Els usuaris remots no emmagatzemen la contrasenya a la base de dades Kanboard, exemples: els comptes LDAP, Google i Github."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Si marca la casella \"No permetre formulari d'accés\", s'ignoraran les "
-"credencials introduïdes al formulari d'inici de sessió."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Si marca la casella \"No permetre formulari d'accés\", s'ignoraran les credencials introduïdes al formulari d'inici de sessió."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6803,101 +6720,3 @@ msgstr "Es requereix la contrasenya actual"
 msgid "Wrong password"
 msgstr "Contrasenya incorrecta"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr ","
-
-#~ msgid "number.thousands_separator"
-#~ msgstr " "
-
-#~ msgid "Yellow"
-#~ msgstr "Groc"
-
-#~ msgid "Blue"
-#~ msgstr "Blau"
-
-#~ msgid "Green"
-#~ msgstr "Verd"
-
-#~ msgid "Purple"
-#~ msgstr "Lil·la"
-
-#~ msgid "Red"
-#~ msgstr "Vermell"
-
-#~ msgid "Orange"
-#~ msgstr "Taronja"
-
-#~ msgid "Grey"
-#~ msgstr "Gris"
-
-#~ msgid "Brown"
-#~ msgstr "Marró"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Taronja fosc"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Gris fosc"
-
-#~ msgid "Pink"
-#~ msgstr "Rosa"
-
-#~ msgid "Teal"
-#~ msgstr "Turquessa"
-
-#~ msgid "Cyan"
-#~ msgstr "Cian"
-
-#~ msgid "Lime"
-#~ msgstr "Lima"
-
-#~ msgid "Light Green"
-#~ msgstr "Verd clar"
-
-#~ msgid "Amber"
-#~ msgstr "Ambre"
-
-#~ msgid "Forbidden"
-#~ msgstr "Prohibit"
-
-#~ msgid "estimated"
-#~ msgstr "estimat"
-
-#~ msgid "Todo"
-#~ msgstr "Fer"
-
-#~ msgid "In progress"
-#~ msgstr "En progrés"
-
-#~ msgid "relates to"
-#~ msgstr "es refereix a"
-
-#~ msgid "blocks"
-#~ msgstr "bloqueja"
-
-#~ msgid "is blocked by"
-#~ msgstr "està bloquejada per"
-
-#~ msgid "duplicates"
-#~ msgstr "duplica"
-
-#~ msgid "is duplicated by"
-#~ msgstr "es duplica per"
-
-#~ msgid "is a child of"
-#~ msgstr "és fill de"
-
-#~ msgid "is a parent of"
-#~ msgstr "és pare de"
-
-#~ msgid "targets milestone"
-#~ msgstr "objectiu de la fita"
-
-#~ msgid "is a milestone of"
-#~ msgstr "és una fita de"
-
-#~ msgid "fixes"
-#~ msgstr "corregeix"
-
-#~ msgid "is fixed by"
-#~ msgstr "corregit per"

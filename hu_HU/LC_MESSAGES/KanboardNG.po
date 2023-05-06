@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: hu_HU\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: hu_HU\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -18,8 +32,7 @@ msgstr "Megjegyzés létrehozása egy külső szolgáltatótól"
 
 #: app/Action/CommentCreationMoveTaskColumn.php:23
 msgid "Add a comment log when moving the task between columns"
-msgstr ""
-"Megjegyzésnapló hozzáadása, ha a feladatot az oszlopok között mozgatják"
+msgstr "Megjegyzésnapló hozzáadása, ha a feladatot az oszlopok között mozgatják"
 
 #: app/Action/CommentCreationMoveTaskColumn.php:47
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:49
@@ -57,16 +70,11 @@ msgstr "%s oszlopba áthelyezve"
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
-"Az összes részfeladat időmérőjének leállítása, ha a feladatot egy másik "
-"oszlopba helyezik át"
+msgstr "Az összes részfeladat időmérőjének leállítása, ha a feladatot egy másik oszlopba helyezik át"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
-"Részfeladat hozzáadása és az időmérő bekapcsolása, ha a feladatot egy másik "
-"oszlopba helyezik át"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Részfeladat hozzáadása és az időmérő bekapcsolása, ha a feladatot egy másik oszlopba helyezik át"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
@@ -129,8 +137,7 @@ msgstr "Hivatkozás típusa"
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:23
 msgid "Assign a category when the task is moved to a specific swimlane"
-msgstr ""
-"Kategória hozzárendelése, ha a feladatot egy bizonyos sávba helyezik át"
+msgstr "Kategória hozzárendelése, ha a feladatot egy bizonyos sávba helyezik át"
 
 #: app/Action/TaskAssignCategorySwimlaneChange.php:49
 #: app/Action/TaskAssignColorSwimlane.php:49
@@ -154,8 +161,7 @@ msgstr "Szín hozzárendelése, ha a feladatot egy adott oszlopba helyezték át
 
 #: app/Action/TaskAssignColorLink.php:23
 msgid "Change task color when using a specific task link"
-msgstr ""
-"Feladatszín megváltoztatása, ha egy adott feladathivatkozást használnak"
+msgstr "Feladatszín megváltoztatása, ha egy adott feladathivatkozást használnak"
 
 #: app/Action/TaskAssignColorOnDueDate.php:24
 msgid "Assign automatically a color when due date is expired"
@@ -163,8 +169,7 @@ msgstr "Szín automatikus hozzárendelése, ha a határidő lejárt"
 
 #: app/Action/TaskAssignColorOnStartDate.php:24
 msgid "Assign automatically a color when preset start date is reached"
-msgstr ""
-"Szín automatikus hozzárendelése, ha az előre beállított kezdési dátumot elért"
+msgstr "Szín automatikus hozzárendelése, ha az előre beállított kezdési dátumot elért"
 
 #: app/Action/TaskAssignColorPriority.php:23
 msgid "Assign automatically a color based on a priority"
@@ -210,11 +215,8 @@ msgid "Assign the task to the person who does the action"
 msgstr "Feladat kiosztása a műveletet elvégző személynek"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
-msgstr ""
-"A feladat hozzárendelése ahhoz a személyhez, aki elvégzi a műveletet az "
-"oszlop megváltoztatásakor"
+msgid "Assign the task to the person who does the action when the column is changed"
+msgstr "A feladat hozzárendelése ahhoz a személyhez, aki elvégzi a műveletet az oszlop megváltoztatásakor"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
 msgid "Automatically set the due date on task creation"
@@ -232,10 +234,8 @@ msgid "Duration in days"
 msgstr "Időtartam napokban"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
-msgstr ""
+msgid "Automatically set the due date when the task is moved away from a specific column"
+msgstr "Automatikusan állítsa be az esedékesség dátumát, ha a feladatot egy adott oszlopból elmozdítják."
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
 msgid "Assign a priority when the task is moved to a specific swimlane"
@@ -250,12 +250,8 @@ msgid "Change the assignee based on an external username"
 msgstr "Felelős megváltoztatása egy külső felhasználónév alapján"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
-msgstr ""
-"A feladat hozzárendelése egy adott felhasználóhoz, ha a feladatot áthelyezik "
-"egy adott sávba"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
+msgstr "A feladat hozzárendelése egy adott felhasználóhoz, ha a feladatot áthelyezik egy adott sávba"
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
 msgid "Close a task"
@@ -275,8 +271,7 @@ msgstr "Feladat lezárása, ha nincs tevékenység egy adott oszlopban"
 
 #: app/Action/TaskCloseNotMovedColumn.php:23
 msgid "Close a task in a specific column when not moved during a given period"
-msgstr ""
-"Feladat lezárása egy adott oszlopban, ha nem helyezték át egy adott ideig"
+msgstr "Feladat lezárása egy adott oszlopban, ha nem helyezték át egy adott ideig"
 
 #: app/Action/TaskCreation.php:21
 msgid "Create a task from an external provider"
@@ -357,22 +352,15 @@ msgstr "Feladat áthelyezése egy másik oszlopba, ha lezárják"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Feladat áthelyezése egy másik oszlopba, ha nincs áthelyezve egy adott ideig"
+msgstr "Feladat áthelyezése egy másik oszlopba, ha nincs áthelyezve egy adott ideig"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
-msgstr ""
-"A feladat áthelyezése egy másik oszlopba, ha a határidő kevesebb egy "
-"bizonyos számú napnál"
+msgid "Move the task to another column when the due date is less than a certain number of days"
+msgstr "A feladat áthelyezése egy másik oszlopba, ha a határidő kevesebb egy bizonyos számú napnál"
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
 msgid "Move the task to another column once a predefined start date is reached"
-msgstr ""
-"Feladat áthelyezése egy másik oszlopba, ha egy előre meghatározott kezdési "
-"dátumot elért"
+msgstr "Feladat áthelyezése egy másik oszlopba, ha egy előre meghatározott kezdési dátumot elért"
 
 #: app/Action/TaskMoveColumnUnAssigned.php:23
 msgid "Move the task to another column when assignee is cleared"
@@ -380,9 +368,7 @@ msgstr "Feladat áthelyezése másik oszlopba, ha a felelőst törlik"
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:23
 msgid "Move the task to another swimlane when assigned to a user"
-msgstr ""
-"Feladat áthelyezése egy másik sávba, ha hozzárendelésre kerül egy "
-"felhasználóhoz"
+msgstr "Feladat áthelyezése egy másik sávba, ha hozzárendelésre kerül egy felhasználóhoz"
 
 #: app/Action/TaskMoveSwimlaneAssigned.php:52
 #: app/Action/TaskMoveSwimlaneCategoryChange.php:48
@@ -402,12 +388,8 @@ msgid "Automatically update the start date"
 msgstr "A kezdési dátum automatikus frissítése"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
-msgstr ""
-"A kezdési dátum automatikus frissítése, ha a feladatot áthelyezték egy "
-"bizonyos oszlopból"
+msgid "Automatically update the start date when the task is moved away from a specific column"
+msgstr "A kezdési dátum automatikus frissítése, ha a feladatot áthelyezték egy bizonyos oszlopból"
 
 #: app/Auth/TotpAuth.php:43
 msgid "Time-based One-time Password Algorithm"
@@ -509,12 +491,8 @@ msgid "You must select a file to upload as your avatar!"
 msgstr "Ki kell választania egy fájlt a profilképként való feltöltéshez!"
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
-msgstr ""
-"A feltöltött fájl nem érvényes kép! Csak *.gif, *.jpg, *.jpeg és *.png "
-"engedélyezett."
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
+msgstr "A feltöltött fájl nem érvényes kép! Csak *.gif, *.jpg, *.jpeg és *.png engedélyezett."
 
 #: app/Controller/AvatarFileController.php:42
 #: app/Controller/ProjectFileController.php:41
@@ -522,20 +500,15 @@ msgstr ""
 #: app/Controller/TaskFileController.php:60
 #: app/Controller/TaskFileController.php:66
 msgid "Unable to upload files, check the permissions of your data folder."
-msgstr ""
-"Nem lehet feltölteni fájlokat. Ellenőrizze az adatkönyvtár jogosultságait."
+msgstr "Nem lehet feltölteni fájlokat. Ellenőrizze az adatkönyvtár jogosultságait."
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "Nincs jogosultsága eltávolítani ezt a bővítményt."
+msgstr "Nincs engedélye a feladat áthelyezéséhez"
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr "A(z) „%s” oszlop és a(z) „%s” sáv összes feladata sikeresen lezárva."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -1290,15 +1263,15 @@ msgstr "Nem lehet lemásolni a projektet."
 #: app/Template/project/sidebar.php:55
 #: app/Template/project_view/importTasks.php:2
 msgid "Import Tasks"
-msgstr ""
+msgstr "Feladatok importálása"
 
 #: app/Controller/ProjectViewController.php:216
 msgid "Tasks copied successfully."
-msgstr ""
+msgstr "A feladatok sikeresen másolva."
 
 #: app/Controller/ProjectViewController.php:218
 msgid "Unable to copy tasks."
-msgstr ""
+msgstr "Nem lehet feladatokat másolni."
 
 #: app/Controller/SearchController.php:48 app/Template/search/activity.php:4
 msgid "Search tasks"
@@ -1443,8 +1416,7 @@ msgstr "A feladat sikeresen elküldve e-mailben."
 #: app/Controller/TaskMailController.php:37
 #, php-format
 msgid "This task was sent by email to \"%s\" with subject \"%s\"."
-msgstr ""
-"A feladat elküldésre került e-mailben ide: „%s”, a következő tárggyal: „%s”."
+msgstr "A feladat elküldésre került e-mailben ide: „%s”, a következő tárggyal: „%s”."
 
 #: app/Controller/TaskModificationController.php:24
 #: app/Controller/TaskModificationController.php:47
@@ -1894,9 +1866,7 @@ msgstr "%s áthelyezte a(z) #%d. feladatot a következő oszlopba: „%s”"
 #: app/EventBuilder/TaskEventBuilder.php:170
 #, php-format
 msgid "%s moved the task #%d to the position %d in the column \"%s\""
-msgstr ""
-"%s áthelyezte a(z) #%d. feladatot a(z) %d. pozícióba a következő oszlopban: "
-"„%s”"
+msgstr "%s áthelyezte a(z) #%d. feladatot a(z) %d. pozícióba a következő oszlopban: „%s”"
 
 #: app/EventBuilder/TaskEventBuilder.php:178
 #, php-format
@@ -2376,7 +2346,7 @@ msgstr "Feladat prioritása"
 
 #: app/Helper/TaskHelper.php:242
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: app/Helper/TaskHelper.php:280 app/Template/project_header/dropdown.php:33
 msgid "Add a new task"
@@ -2874,8 +2844,7 @@ msgstr "Esemény"
 
 #: app/Template/action_creation/event.php:17
 msgid "When the selected event occurs execute the corresponding action."
-msgstr ""
-"Ha a kiválasztott esemény bekövetkezik, hajtsa végre a megfelelő műveletet."
+msgstr "Ha a kiválasztott esemény bekövetkezik, hajtsa végre a megfelelő műveletet."
 
 #: app/Template/action_creation/params.php:2
 msgid "Define action parameters"
@@ -2964,11 +2933,8 @@ msgstr "Átlagosan eltöltött idő"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Ez a diagram az egyes oszlopokban átlagosan eltöltött időt jeleníti meg az "
-"utolsó %d feladatnál."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Ez a diagram az egyes oszlopokban átlagosan eltöltött időt jeleníti meg az utolsó %d feladatnál."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -2999,9 +2965,7 @@ msgstr "Végrehajtás"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
-"Ez a diagram a feladat időbeli bonyolultságát ábrázolja (mennyi munka van "
-"hátra)"
+msgstr "Ez a diagram a feladat időbeli bonyolultságát ábrázolja (mennyi munka van hátra)"
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
@@ -3037,12 +3001,8 @@ msgstr "Átfutási idő"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Ez a diagram az átlagos átfutási és ciklusidőt jeleníti meg az utolsó %d "
-"feladatnál az idő függvényében."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Ez a diagram az átlagos átfutási és ciklusidőt jeleníti meg az utolsó %d feladatnál az idő függvényében."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3190,16 +3150,12 @@ msgid "Close all tasks in this column and this swimlane"
 msgstr "Az oszlop összes feladatának lezárása"
 
 #: app/Template/board/table_column.php:56
-#, fuzzy
-#| msgid "Reorder this column by priority (ASC)"
 msgid "Reorder this column by id (ASC)"
-msgstr "Oszlop átrendezése prioritás szerint (növekvő)"
+msgstr "Az oszlop újrarendezése id szerint (ASC)"
 
 #: app/Template/board/table_column.php:59
-#, fuzzy
-#| msgid "Reorder this column by priority (DESC)"
 msgid "Reorder this column by id (DESC)"
-msgstr "Oszlop átrendezése prioritás szerint (csökkenő)"
+msgstr "Az oszlop id szerinti újrarendezése (DESC)"
 
 #: app/Template/board/table_column.php:62
 msgid "Reorder this column by priority (ASC)"
@@ -3356,7 +3312,7 @@ msgstr "Részfeladat"
 #: app/Template/task_internal_link/table.php:22
 #: app/Template/task_internal_link/table.php:45
 msgid "#"
-msgstr ""
+msgstr "#"
 
 #: app/Template/board_popover/close_all_tasks_column.php:2
 msgid "Do you really want to close all tasks of this column?"
@@ -3456,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Csak az aktuális felhasználóhoz rendelt feladatoknál"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Az ehhez a szerephez tartozó emberek csak a forrás- és a céloszlopok között "
-"helyezhetnek át feladatokat."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Az ehhez a szerephez tartozó emberek csak a forrás- és a céloszlopok között helyezhetnek át feladatokat."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3471,8 +3423,7 @@ msgstr "Oszlopkorlátozás eltávolítása"
 #: app/Template/column_move_restriction/remove.php:7
 #, php-format
 msgid "Do you really want to remove this column restriction: \"%s\" to \"%s\"?"
-msgstr ""
-"Valóban el szeretné távolítani ezt az oszlopkorlátozást: „%s” erre: „%s”?"
+msgstr "Valóban el szeretné távolítani ezt az oszlopkorlátozást: „%s” erre: „%s”?"
 
 #: app/Template/column_restriction/create.php:2
 #, php-format
@@ -3645,9 +3596,7 @@ msgstr "Alkalmazás URL"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
-"Példa: https://example.kanboard.org/ (abszolút URL-ek előállításához "
-"használható)"
+msgstr "Példa: https://example.kanboard.org/ (abszolút URL-ek előállításához használható)"
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3689,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Feladat kiemelésének időtartama"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Az időszak (másodpercben), amíg a feladatot legutóbb módosítottnak kell "
-"tekinteni (0: letiltás, alapértelmezetten 2 nap)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Az időszak (másodpercben), amíg a feladatot legutóbb módosítottnak kell tekinteni (0: letiltás, alapértelmezetten 2 nap)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3710,9 +3655,7 @@ msgstr "Frissítési időköz a személyes táblánál"
 
 #: app/Template/config/board.php:18
 msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
-msgstr ""
-"Gyakoriság másodpercben (0: a funkció letiltása, alapértelmezetten 10 "
-"másodperc)"
+msgstr "Gyakoriság másodpercben (0: a funkció letiltása, alapértelmezetten 10 másodperc)"
 
 #: app/Template/config/email.php:8
 msgid "Outgoing Emails"
@@ -3847,9 +3790,7 @@ msgstr "Személyes projektek letiltása"
 
 #: app/Template/config/project.php:22
 msgid "Allow only one subtask in progress at the same time for a user"
-msgstr ""
-"Egyszerre csak egy folyamatban levő részfeladat engedélyezése egy "
-"felhasználónak"
+msgstr "Egyszerre csak egy folyamatban levő részfeladat engedélyezése egy felhasználónak"
 
 #: app/Template/config/project.php:23
 msgid "Trigger automatically subtask time tracking"
@@ -3868,10 +3809,8 @@ msgid "Webhooks"
 msgstr "Webhurkok"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
-msgstr ""
-"Feltöltheti az előzőleg letöltött Sqlite adatbázist (Gzip formátumban)."
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
+msgstr "Feltöltheti az előzőleg letöltött Sqlite adatbázist (Gzip formátumban)."
 
 #: app/Template/config/upload_db.php:12
 msgid "Database file"
@@ -4131,9 +4070,7 @@ msgstr "%s beállított egy új belső hivatkozást a(z) %s feladathoz"
 #: app/Template/notification/task_internal_link_create_update.php:6
 #, php-format
 msgid "This task is now linked to the task %s with the relation \"%s\""
-msgstr ""
-"Ez a feladat mostantól hozzá van kapcsolva a(z) %s feladathoz „%s” "
-"kapcsolattal"
+msgstr "Ez a feladat mostantól hozzá van kapcsolva a(z) %s feladathoz „%s” kapcsolattal"
 
 #: app/Template/event/task_internal_link_delete.php:2
 #, php-format
@@ -4144,9 +4081,7 @@ msgstr "%s eltávolított egy belső hivatkozást a(z) %s feladatból"
 #: app/Template/notification/task_internal_link_delete.php:6
 #, php-format
 msgid "The link with the relation \"%s\" to the task %s has been removed"
-msgstr ""
-"A(z) „%s” kapcsolattal rendelkező összekapcsolás a(z) %s feladatnál el lett "
-"távolítva"
+msgstr "A(z) „%s” kapcsolattal rendelkező összekapcsolás a(z) %s feladatnál el lett távolítva"
 
 #: app/Template/event/task_move_column.php:2
 #, php-format
@@ -4156,8 +4091,7 @@ msgstr "%s áthelyezte a(z) %s feladatot a(z) „%s” oszlopba"
 #: app/Template/event/task_move_position.php:2
 #, php-format
 msgid "%s moved the task %s to the position #%d in the column \"%s\""
-msgstr ""
-"%s áthelyezte a(z) %s feladatot a(z) #%d. pozícióba a(z) „%s” oszlopban"
+msgstr "%s áthelyezte a(z) %s feladatot a(z) #%d. pozícióba a(z) „%s” oszlopban"
 
 #: app/Template/event/task_move_swimlane.php:3
 #, php-format
@@ -4189,9 +4123,7 @@ msgstr "Napi projektösszefoglaló"
 
 #: app/Template/export/subtasks.php:3
 msgid "This report contains all subtasks information for the given date range."
-msgstr ""
-"Ez a jelentés az összes részfeladat-információt tartalmazza az adott "
-"dátumtartományban"
+msgstr "Ez a jelentés az összes részfeladat-információt tartalmazza az adott dátumtartományban"
 
 #: app/Template/export/subtasks.php:12 app/Template/export/summary.php:12
 #: app/Template/export/tasks.php:12 app/Template/export/transitions.php:12
@@ -4200,23 +4132,15 @@ msgstr "Exportálás"
 
 #: app/Template/export/summary.php:3
 msgid "This export contains the number of tasks per column grouped per day."
-msgstr ""
-"Ez az export tartalmazza a feladatok számát oszloponként csoportosítva, "
-"napokra lebontva."
+msgstr "Ez az export tartalmazza a feladatok számát oszloponként csoportosítva, napokra lebontva."
 
 #: app/Template/export/tasks.php:3
 msgid "This report contains all tasks information for the given date range."
-msgstr ""
-"Ez a jelentés az összes feladatinformációt tartalmazza az adott "
-"dátumtartományban"
+msgstr "Ez a jelentés az összes feladatinformációt tartalmazza az adott dátumtartományban"
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Ez a jelentés az egyes feladatok összes oszlopáthelyezését tartalmazza "
-"dátummal, felhasználóval és az egyes átmenetekben eltöltött idővel."
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Ez a jelentés az egyes feladatok összes oszlopáthelyezését tartalmazza dátummal, felhasználóval és az egyes átmenetekben eltöltött idővel."
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4460,7 +4384,7 @@ msgstr "Felelős:"
 #: app/Template/notification/subtask_delete.php:10
 #: app/Template/notification/subtask_update.php:10
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: app/Template/notification/subtask_create.php:13
 #: app/Template/notification/subtask_update.php:13
@@ -4607,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "A jelszó visszaállításához kattintson erre a hivatkozásra:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"A Kanboard példánya úgy lett beállítva, hogy ne lehessen bővítményeket "
-"telepíteni a felhasználói felületről."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "A Kanboard példánya úgy lett beállítva, hogy ne lehessen bővítményeket telepíteni a felhasználói felületről."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4760,12 +4680,8 @@ msgstr "Azonosító"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"A projektazonosító elhagyható, és csak betűk és számok lehetnek, például: "
-"MYPROJECT."
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "A projektazonosító elhagyható, és csak betűk és számok lehetnek, például: MYPROJECT."
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
@@ -5110,12 +5026,8 @@ msgstr "Egyéni szerep eltávolítása"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"Valóban el szeretné távolítani ezt az egyéni szerepet: „%s”? A szerephez "
-"rendelt összes ember projekttaggá válik."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Valóban el szeretné távolítani ezt az egyéni szerepet: „%s”? A szerephez rendelt összes ember projekttaggá válik."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5155,12 +5067,8 @@ msgid "There is no restriction for this role."
 msgstr "Nincs korlátozás ennél a szerepnél."
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
-msgstr ""
-"Az aktuális felhasználóhoz rendelt feladatok csak az engedélyezett oszlopok "
-"között helyezhetők át"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
+msgstr "Az aktuális felhasználóhoz rendelt feladatok csak az engedélyezett oszlopok között helyezhetők át"
 
 #: app/Template/project_role/show.php:86
 msgid "Only moving task between those columns is permitted"
@@ -5277,7 +5185,7 @@ msgstr "Nincs projekttag."
 
 #: app/Template/project_view/importTasks.php:4
 msgid "Please choose a project you want to copy the tasks from."
-msgstr ""
+msgstr "Kérjük, válassza ki azt a projektet, amelyből a feladatokat másolni szeretné."
 
 #: app/Template/project_view/importTasks.php:9
 #: app/Template/task_duplication/copy.php:21
@@ -5287,23 +5195,19 @@ msgstr "Projekt kiválasztása"
 
 #: app/Template/project_view/importTasks.php:15
 msgid "Copy"
-msgstr ""
+msgstr "Másolás"
 
 #: app/Template/project_view/importTasks.php:20
 msgid "No other projects found."
-msgstr ""
+msgstr "Nem találtunk más projektet."
 
 #: app/Template/project_view/integrations.php:11
 msgid "There is no integration registered at the moment."
 msgstr "Jelenleg nincs integráció regisztrálva."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"Egyetlen bővítmény sem regisztrált projekt értesítési módszert. Egyedi "
-"értesítéseket továbbra is beállíthat a felhasználói profiljában."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Egyetlen bővítmény sem regisztrált projekt értesítési módszert. Egyedi értesítéseket továbbra is beállíthat a felhasználói profiljában."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5316,9 +5220,7 @@ msgstr "Nyilvános hozzáférés letiltása"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
-"Ez a funkció engedélyezi az iCal hírforrást, az RSS hírforrást és a "
-"nyilvános táblanézetet."
+msgstr "Ez a funkció engedélyezi az iCal hírforrást, az RSS hírforrást és a nyilvános táblanézetet."
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5346,8 +5248,7 @@ msgstr "Módosítva:"
 
 #: app/Template/project_view/show.php:36
 msgid "Column task limits are applied to each swimlane individually"
-msgstr ""
-"Az oszlop feladatkorlátjai alkalmazva lettek az egyes sávokra egyénileg"
+msgstr "Az oszlop feladatkorlátjai alkalmazva lettek az egyes sávokra egyénileg"
 
 #: app/Template/project_view/show.php:38
 msgid "Column task limits are applied across swimlanes"
@@ -5529,22 +5430,16 @@ msgid "Time spent in each column"
 msgstr "Az egyes oszlopokban eltöltött idő"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
+msgid "The lead time is the duration between the task creation and the completion."
 msgstr "Az átfutási idő a feladat létrehozása és befejezése közötti időtartam."
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
+msgid "The cycle time is the duration between the start date and the completion."
 msgstr "A ciklusidő a kezdési dátum és a befejezés közötti időtartam."
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Ha a feladat nincs lezárva, akkor az aktuális idő lesz használva a befejezés "
-"dátuma helyett."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Ha a feladat nincs lezárva, akkor az aktuális idő lesz használva a befejezés dátuma helyett."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5792,11 +5687,8 @@ msgid "Edit tasks in bulk"
 msgstr "Feladatok tömeges szerkesztése"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
-msgstr ""
-"Válassza ki azokat a tulajdonságokat, amelyeket meg szeretne változtatni a "
-"kijelölt feladatoknál."
+msgid "Choose the properties that you would like to change for the selected tasks."
+msgstr "Válassza ki azokat a tulajdonságokat, amelyeket meg szeretne változtatni a kijelölt feladatoknál."
 
 #: app/Template/task_bulk_move_column/show.php:2
 #: app/Template/task_list/header.php:20
@@ -5886,9 +5778,7 @@ msgstr "Külső hivatkozások"
 
 #: app/Template/task_file/screenshot.php:6
 msgid "Take a screenshot and press CTRL+V or ⌘+V to paste here."
-msgstr ""
-"Készítsen képernyőképet, majd a  CTRL+V vagy ⌘+V megnyomásával illessze be "
-"ide."
+msgstr "Készítsen képernyőképet, majd a  CTRL+V vagy ⌘+V megnyomásával illessze be ide."
 
 #: app/Template/task_file/screenshot.php:15
 msgid "This feature does not work with all browsers."
@@ -6095,9 +5985,7 @@ msgstr "Ez a feladat ezt a gyermekfeladatot hozta létre: "
 #: app/Template/task_status/close.php:7
 #, php-format
 msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
-msgstr ""
-"Valóban le szeretné zárni a(z) „%s” feladatot, valamint az összes "
-"részfeladatot?"
+msgstr "Valóban le szeretné zárni a(z) „%s” feladatot, valamint az összes részfeladatot?"
 
 #: app/Template/task_status/open.php:7
 #, php-format
@@ -6134,12 +6022,8 @@ msgstr "A kétlépcsős hitelesítés letiltása"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
-"Valóban le szeretné tiltani a kétlépcsős hitelesítést ennél a "
-"felhasználónál: „%s”?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Valóban le szeretné tiltani a kétlépcsős hitelesítést ennél a felhasználónál: „%s”?"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
@@ -6204,9 +6088,7 @@ msgstr "Távoli felhasználó"
 
 #: app/Template/user_creation/show.php:25
 msgid "If checked, this user will use a third-party system for authentication."
-msgstr ""
-"Ha be van jelölve, akkor ez a felhasználó harmadik fél rendszerét fogja "
-"használni a hitelesítéshez."
+msgstr "Ha be van jelölve, akkor ez a felhasználó harmadik fél rendszerét fogja használni a hitelesítéshez."
 
 #: app/Template/user_creation/show.php:29
 msgid "The password is necessary only for local users."
@@ -6244,21 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Hitelesítési paraméterek"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"A távoli felhasználók jelszava nem a Kanboard adatbázisban van tárolva. "
-"Példák: LDAP, Google és GitHub fiókok."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "A távoli felhasználók jelszava nem a Kanboard adatbázisban van tárolva. Példák: LDAP, Google és GitHub fiókok."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Ha bejelöli a \"Bejelentkezési űrlap letiltása\" jelölőnégyzetet, akkor a "
-"bejelentkezési űrlapon megadott hitelesítési adatok figyelmen kívül lesznek "
-"hagyva."
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Ha bejelöli a „Bejelentkezési űrlap letiltása” jelölőnégyzetet, akkor a bejelentkezési űrlapon megadott hitelesítési adatok figyelmen kívül lesznek hagyva."
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6847,113 +6720,3 @@ msgstr "A jelenlegi jelszó kötelező"
 msgid "Wrong password"
 msgstr "Hibás jelszó"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr ","
-
-#~ msgid "number.thousands_separator"
-#~ msgstr " "
-
-#~ msgid "Yellow"
-#~ msgstr "Sárga"
-
-#~ msgid "Blue"
-#~ msgstr "Kék"
-
-#~ msgid "Green"
-#~ msgstr "Zöld"
-
-#~ msgid "Purple"
-#~ msgstr "Lila"
-
-#~ msgid "Red"
-#~ msgstr "Piros"
-
-#~ msgid "Orange"
-#~ msgstr "Narancssárga"
-
-#~ msgid "Grey"
-#~ msgstr "Szürke"
-
-#~ msgid "Brown"
-#~ msgstr "Barna"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Sötét narancs"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Sötét szürke"
-
-#~ msgid "Pink"
-#~ msgstr "Rózsaszín"
-
-#~ msgid "Teal"
-#~ msgstr "Kékeszöld"
-
-#~ msgid "Cyan"
-#~ msgstr "Ciánkék"
-
-#~ msgid "Lime"
-#~ msgstr "Citrus"
-
-#~ msgid "Light Green"
-#~ msgstr "Világos zöld"
-
-#~ msgid "Amber"
-#~ msgstr "Borostyán"
-
-#~ msgid "Forbidden"
-#~ msgstr "Tiltott"
-
-#~ msgid "estimated"
-#~ msgstr "becsült"
-
-#~ msgid "Todo"
-#~ msgstr "Teendő"
-
-#~ msgid "In progress"
-#~ msgstr "Folyamatban"
-
-#~ msgid "relates to"
-#~ msgstr "ehhez tartozik:"
-
-#~ msgid "blocks"
-#~ msgstr "blokkolja:"
-
-#~ msgid "is blocked by"
-#~ msgstr "blokkolva van:"
-
-#~ msgid "duplicates"
-#~ msgstr "másolja:"
-
-#~ msgid "is duplicated by"
-#~ msgstr "másolva van:"
-
-#~ msgid "is a child of"
-#~ msgstr "gyermeke a következőnek:"
-
-#~ msgid "is a parent of"
-#~ msgstr "szülője a következőnek:"
-
-#~ msgid "targets milestone"
-#~ msgstr "megcélzott mérföldkő:"
-
-#~ msgid "is a milestone of"
-#~ msgstr "mérföldköve:"
-
-#~ msgid "fixes"
-#~ msgstr "javítja:"
-
-#~ msgid "is fixed by"
-#~ msgstr "javítva van:"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "Azok a projektek, ahol „%s” vezető"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "Azok a projektek, ahol „%s” tag"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "„%s” felhasználóhoz rendelt nyitott feladatok"
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "„%s” felhasználóhoz rendelt lezárt feladatok"

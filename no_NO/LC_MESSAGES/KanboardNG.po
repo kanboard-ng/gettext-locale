@@ -1,16 +1,30 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-06 17:16+0200\n"
-"PO-Revision-Date: \n"
-"Last-Translator: CptSanifair\n"
-"Language-Team: \n"
-"Language: no_NO\n"
+"PO-Revision-Date: 2023-05-06 16:46\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: *.php=gettext:PHP\n"
 "X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../kanboard-ng\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: no\n"
+"X-Crowdin-File: KanboardNG.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"Language: no_NO\n"
 
 #: app/Action/CommentCreation.php:21
 msgid "Create a comment from an external provider"
@@ -56,16 +70,11 @@ msgstr "Flyttet til kolonne %s"
 
 #: app/Action/StopSubtaskTimerMoveTaskColumn.php:24
 msgid "Stop the timer of all subtasks when moving a task to another column"
-msgstr ""
-"Stopp timeren for alle deloppgaver når en oppgave flyttes til en annen "
-"kolonne"
+msgstr "Stopp timeren for alle deloppgaver når en oppgave flyttes til en annen kolonne"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:24
-msgid ""
-"Add a subtask and activate the timer when moving a task to another column"
-msgstr ""
-"Opprett en deloppgave og aktiver timeren når en oppgave flyttes til en annen "
-"kolonne"
+msgid "Add a subtask and activate the timer when moving a task to another column"
+msgstr "Opprett en deloppgave og aktiver timeren når en oppgave flyttes til en annen kolonne"
 
 #: app/Action/SubtaskTimerMoveTaskColumn.php:50
 msgid "Subtask Title"
@@ -148,8 +157,7 @@ msgstr "Tildel automatisk en farge baseret for en kategori"
 
 #: app/Action/TaskAssignColorColumn.php:23
 msgid "Assign a color when the task is moved to a specific column"
-msgstr ""
-"Endre til en valgt farge hvis en oppgave flyttes til en spesifikk kolonne"
+msgstr "Endre til en valgt farge hvis en oppgave flyttes til en spesifikk kolonne"
 
 #: app/Action/TaskAssignColorLink.php:23
 msgid "Change task color when using a specific task link"
@@ -207,8 +215,7 @@ msgid "Assign the task to the person who does the action"
 msgstr "Tildel oppgaven til den person, som utfører  handlingen"
 
 #: app/Action/TaskAssignCurrentUserColumn.php:23
-msgid ""
-"Assign the task to the person who does the action when the column is changed"
+msgid "Assign the task to the person who does the action when the column is changed"
 msgstr "Tildel oppgaven til personen som flytter den til en annen kolonne"
 
 #: app/Action/TaskAssignDueDateOnCreation.php:23
@@ -227,9 +234,7 @@ msgid "Duration in days"
 msgstr "Varighet i dager"
 
 #: app/Action/TaskAssignDueDateOnMoveColumn.php:23
-msgid ""
-"Automatically set the due date when the task is moved away from a specific "
-"column"
+msgid "Automatically set the due date when the task is moved away from a specific column"
 msgstr ""
 
 #: app/Action/TaskAssignPrioritySwimlane.php:23
@@ -245,9 +250,7 @@ msgid "Change the assignee based on an external username"
 msgstr "Endre ansvarlige baseret på et eksternt brukernavn"
 
 #: app/Action/TaskAssignUserSwimlaneChange.php:23
-msgid ""
-"Assign the task to a specific user when the task is moved to a specific "
-"swimlane"
+msgid "Assign the task to a specific user when the task is moved to a specific swimlane"
 msgstr ""
 
 #: app/Action/TaskClose.php:21 app/Template/task_status/close.php:2
@@ -349,13 +352,10 @@ msgstr "Flytt oppgaven til en annen kolonne når den lukkes"
 
 #: app/Action/TaskMoveColumnNotMovedPeriod.php:23
 msgid "Move the task to another column when not moved during a given period"
-msgstr ""
-"Flytt oppgaven til en annen kolonne når den ikke flyttes i et gitt tidsrom"
+msgstr "Flytt oppgaven til en annen kolonne når den ikke flyttes i et gitt tidsrom"
 
 #: app/Action/TaskMoveColumnOnDueDate.php:22
-msgid ""
-"Move the task to another column when the due date is less than a certain "
-"number of days"
+msgid "Move the task to another column when the due date is less than a certain number of days"
 msgstr ""
 
 #: app/Action/TaskMoveColumnOnStartDate.php:23
@@ -388,9 +388,7 @@ msgid "Automatically update the start date"
 msgstr "Oppdater automatisk start-datoen"
 
 #: app/Action/TaskUpdateStartDateOnMoveColumn.php:22
-msgid ""
-"Automatically update the start date when the task is moved away from a "
-"specific column"
+msgid "Automatically update the start date when the task is moved away from a specific column"
 msgstr ""
 
 #: app/Auth/TotpAuth.php:43
@@ -493,9 +491,7 @@ msgid "You must select a file to upload as your avatar!"
 msgstr ""
 
 #: app/Controller/AvatarFileController.php:39
-msgid ""
-"The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *."
-"png are allowed!)"
+msgid "The file you uploaded is not a valid image! (Only *.gif, *.jpg, *.jpeg and *.png are allowed!)"
 msgstr ""
 
 #: app/Controller/AvatarFileController.php:42
@@ -507,16 +503,12 @@ msgid "Unable to upload files, check the permissions of your data folder."
 msgstr "Kunne ikke laste opp filen!"
 
 #: app/Controller/BoardAjaxController.php:34
-#, fuzzy
-#| msgid "You don't have the permission to remove this plugin."
 msgid "You don't have the permission to move this task"
-msgstr "Du har ikke rettigheter til å fjerne dette innstikket"
+msgstr ""
 
 #: app/Controller/BoardPopoverController.php:44
 #, php-format
-msgid ""
-"All tasks of the column \"%s\" and the swimlane \"%s\" have been closed "
-"successfully."
+msgid "All tasks of the column \"%s\" and the swimlane \"%s\" have been closed successfully."
 msgstr "Alle oppgaver i kolonne \"%s\" og svømmebane \"%s\" er lukket."
 
 #: app/Controller/CategoryController.php:29 app/Template/category/index.php:2
@@ -2941,11 +2933,8 @@ msgstr "Gjennomsnittlig tidsbruk"
 
 #: app/Template/analytic/avg_time_columns.php:29
 #, php-format
-msgid ""
-"This chart shows the average time spent in each column for the last %d tasks."
-msgstr ""
-"Dette diagrammet viser gjennomsnittlig tid i hver kolonne for de siste %d "
-"oppgavene."
+msgid "This chart shows the average time spent in each column for the last %d tasks."
+msgstr "Dette diagrammet viser gjennomsnittlig tid i hver kolonne for de siste %d oppgavene."
 
 #: app/Template/analytic/burndown.php:8 app/Template/analytic/cfd.php:8
 msgid "You need at least 2 days of data to show the chart."
@@ -2976,8 +2965,7 @@ msgstr "KKjør"
 
 #: app/Template/analytic/burndown.php:26
 msgid "This chart show the task complexity over the time (Work Remaining)."
-msgstr ""
-"Dette diagrammet viser oppgavekopleksitet over tid (gjenstående arbeid)"
+msgstr "Dette diagrammet viser oppgavekopleksitet over tid (gjenstående arbeid)"
 
 #: app/Template/analytic/estimated_actual_column.php:12
 #: app/Template/analytic/estimated_actual_column.php:19
@@ -3013,12 +3001,8 @@ msgstr "Ledetid"
 
 #: app/Template/analytic/lead_cycle_time.php:31
 #, php-format
-msgid ""
-"This chart shows the average lead and cycle time for the last %d tasks over "
-"the time."
-msgstr ""
-"Dette diagrammet viser gjennomsnittlig ledetid og syklustid for de siste %d "
-"oppgavene."
+msgid "This chart shows the average lead and cycle time for the last %d tasks over the time."
+msgstr "Dette diagrammet viser gjennomsnittlig ledetid og syklustid for de siste %d oppgavene."
 
 #: app/Template/analytic/task_distribution.php:17
 #: app/Template/analytic/user_distribution.php:17
@@ -3428,12 +3412,8 @@ msgid "Only for tasks assigned to the current user"
 msgstr "Kun for oppgaver tilordnet aktiv bruker"
 
 #: app/Template/column_move_restriction/create.php:19
-msgid ""
-"People belonging to this role will be able to move tasks only between the "
-"source and the destination column."
-msgstr ""
-"Brukere med denne rollen vil bare kunne flytte oppgaver mellom kilde- og "
-"målkolonne."
+msgid "People belonging to this role will be able to move tasks only between the source and the destination column."
+msgstr "Brukere med denne rollen vil bare kunne flytte oppgaver mellom kilde- og målkolonne."
 
 #: app/Template/column_move_restriction/remove.php:2
 #: app/Template/column_restriction/remove.php:2
@@ -3616,8 +3596,7 @@ msgstr "Applikasjon-URL"
 
 #: app/Template/config/application.php:10
 msgid "Example: https://example.kanboard.org/ (used to generate absolute URLs)"
-msgstr ""
-"Eksempel: https://eksempel.kanboard.org/ (brukes for å lage absolutte URLer)"
+msgstr "Eksempel: https://eksempel.kanboard.org/ (brukes for å lage absolutte URLer)"
 
 #: app/Template/config/application.php:12
 #: app/Template/user_creation/show.php:51
@@ -3659,12 +3638,8 @@ msgid "Task highlight period"
 msgstr "Periode for fremheving av oppgaver"
 
 #: app/Template/config/board.php:10
-msgid ""
-"Period (in second) to consider a task was modified recently (0 to disable, 2 "
-"days by default)"
-msgstr ""
-"Periode for å fastslå en oppgave nylig er endret (0 for å deaktivere, 2 "
-"dager er standard)"
+msgid "Period (in second) to consider a task was modified recently (0 to disable, 2 days by default)"
+msgstr "Periode for å fastslå en oppgave nylig er endret (0 for å deaktivere, 2 dager er standard)"
 
 #: app/Template/config/board.php:12
 msgid "Refresh interval for public board"
@@ -3680,9 +3655,7 @@ msgstr "Oppdateringsintervall for privat tavleside"
 
 #: app/Template/config/board.php:18
 msgid "Frequency in second (0 to disable this feature, 10 seconds by default)"
-msgstr ""
-"Frekvens i sekunder (0 for å deaktivere denne funksjonen, 10 sekunder er "
-"standard)"
+msgstr "Frekvens i sekunder (0 for å deaktivere denne funksjonen, 10 sekunder er standard)"
 
 #: app/Template/config/email.php:8
 msgid "Outgoing Emails"
@@ -3836,8 +3809,7 @@ msgid "Webhooks"
 msgstr "Webhooks"
 
 #: app/Template/config/upload_db.php:7
-msgid ""
-"You could upload the previously downloaded Sqlite database (Gzip format)."
+msgid "You could upload the previously downloaded Sqlite database (Gzip format)."
 msgstr "Du kan laste opp en tidligere nedlastet Sqlite database (Gzip-format)."
 
 #: app/Template/config/upload_db.php:12
@@ -4167,12 +4139,8 @@ msgid "This report contains all tasks information for the given date range."
 msgstr "Rapporten inneholder informasjon om alle oppgaver for valgte tidsrom"
 
 #: app/Template/export/transitions.php:3
-msgid ""
-"This report contains all column moves for each task with the date, the user "
-"and the time spent for each transition."
-msgstr ""
-"Rapporten inneholder alle kolonnebevegelser for hver oppgave, med dato, "
-"bruker og tidsforbruk for hver bevegelse"
+msgid "This report contains all column moves for each task with the date, the user and the time spent for each transition."
+msgstr "Rapporten inneholder alle kolonnebevegelser for hver oppgave, med dato, bruker og tidsforbruk for hver bevegelse"
 
 #: app/Template/feed/user.php:3
 #, php-format
@@ -4563,12 +4531,8 @@ msgid "To reset your password click on this link:"
 msgstr "Bruk denne lenken for å tilbakestille passordet ditt:"
 
 #: app/Template/plugin/directory.php:7
-msgid ""
-"Your Kanboard instance is not configured to install plugins from the user "
-"interface."
-msgstr ""
-"Denne Kanboardinstallasjonen er ikke satt opp for å legge til innstikk fra "
-"brukergrensensnittet."
+msgid "Your Kanboard instance is not configured to install plugins from the user interface."
+msgstr "Denne Kanboardinstallasjonen er ikke satt opp for å legge til innstikk fra brukergrensensnittet."
 
 #: app/Template/plugin/directory.php:12
 msgid "There is no plugin available."
@@ -4716,11 +4680,8 @@ msgstr "Prosjektkode"
 
 #: app/Template/project_creation/create.php:15
 #: app/Template/project_edit/show.php:25
-msgid ""
-"The project identifier is optional and must be alphanumeric, example: "
-"MYPROJECT."
-msgstr ""
-"Du kan lage en valgfri, alfanumerisk prosjektkode — for eksempel MITTPROSJEKT"
+msgid "The project identifier is optional and must be alphanumeric, example: MYPROJECT."
+msgstr "Du kan lage en valgfri, alfanumerisk prosjektkode — for eksempel MITTPROSJEKT"
 
 #: app/Template/project_creation/create.php:17
 msgid "Column task limits apply to each swimlane individually"
@@ -4746,9 +4707,7 @@ msgstr "Generelt"
 
 #: app/Template/project_edit/show.php:21
 msgid "The project email is optional and could be used by several plugins."
-msgstr ""
-"Du kan angi en e-postadresse for prosjektet, og den kan brukes av ulike "
-"innstikksmoduler"
+msgstr "Du kan angi en e-postadresse for prosjektet, og den kan brukes av ulike innstikksmoduler"
 
 #: app/Template/project_edit/show.php:30
 msgid "Task limits apply to each swimlane individually"
@@ -5067,12 +5026,8 @@ msgstr "Fjern egendefinert rolle"
 
 #: app/Template/project_role/remove.php:7
 #, php-format
-msgid ""
-"Do you really want to remove this custom role: \"%s\"? All people assigned "
-"to this role will become project member."
-msgstr ""
-"Ønsker du virkelig å fjerne den egendefinerte rollen: \"%s\"? Alle brukere "
-"med denne rollen vil bli prosjektmedlemmer."
+msgid "Do you really want to remove this custom role: \"%s\"? All people assigned to this role will become project member."
+msgstr "Ønsker du virkelig å fjerne den egendefinerte rollen: \"%s\"? Alle brukere med denne rollen vil bli prosjektmedlemmer."
 
 #: app/Template/project_role/show.php:5
 msgid "Add a new custom role"
@@ -5112,9 +5067,7 @@ msgid "There is no restriction for this role."
 msgstr "Denne rollen har ingen restriksjoner"
 
 #: app/Template/project_role/show.php:84
-msgid ""
-"Only moving task between those columns is permitted for tasks assigned to "
-"the current user"
+msgid "Only moving task between those columns is permitted for tasks assigned to the current user"
 msgstr "Aktiv bruker kan kun flytte oppgaver mellom angitte kolonner"
 
 #: app/Template/project_role/show.php:86
@@ -5253,12 +5206,8 @@ msgid "There is no integration registered at the moment."
 msgstr "Ingen registrert integrasjon."
 
 #: app/Template/project_view/notifications.php:5
-msgid ""
-"No plugin has registered a project notification method. You can still "
-"configure individual notifications in your user profile."
-msgstr ""
-"Det finnes ingen innstikk for prosjektvarsling. Du kan likevel sette opp "
-"individuelle varslinger i brukerprofilen din."
+msgid "No plugin has registered a project notification method. You can still configure individual notifications in your user profile."
+msgstr "Det finnes ingen innstikk for prosjektvarsling. Du kan likevel sette opp individuelle varslinger i brukerprofilen din."
 
 #: app/Template/project_view/notifications.php:11
 #: app/Template/user_view/notifications.php:8
@@ -5271,9 +5220,7 @@ msgstr "Deaktiver offentlig tilgang"
 
 #: app/Template/project_view/share.php:18
 msgid "This feature enables the iCal feed, RSS feed and the public board view."
-msgstr ""
-"OBS Forsiktig: Denne funksjonen aktiverer iCal-strøm, RSS-strøm og offentlig "
-"tavlevisning!"
+msgstr "OBS Forsiktig: Denne funksjonen aktiverer iCal-strøm, RSS-strøm og offentlig tavlevisning!"
 
 #: app/Template/project_view/share.php:19 app/Template/user_view/share.php:14
 msgid "Enable public access"
@@ -5309,7 +5256,7 @@ msgstr ""
 
 #: app/Template/project_view/show.php:41
 msgid "Task limit: "
-msgstr ""
+msgstr "Oppgavebegrensning: "
 
 #: app/Template/search/activity.php:25 app/Template/search/index.php:25
 msgid "Advanced search"
@@ -5483,21 +5430,16 @@ msgid "Time spent in each column"
 msgstr "Tid brukt i hver kolonne"
 
 #: app/Template/task/analytics.php:41
-msgid ""
-"The lead time is the duration between the task creation and the completion."
+msgid "The lead time is the duration between the task creation and the completion."
 msgstr "Ledetid er tidsrommet fra oppgaven opprettes til den er fullført"
 
 #: app/Template/task/analytics.php:42
-msgid ""
-"The cycle time is the duration between the start date and the completion."
+msgid "The cycle time is the duration between the start date and the completion."
 msgstr "Syklustid er tidsrommet fra oppgaven starter til den er fullført"
 
 #: app/Template/task/analytics.php:43
-msgid ""
-"If the task is not closed the current time is used instead of the completion "
-"date."
-msgstr ""
-"Dersom oppgaven ikke er lukket brukes dagens dato i stedet for fullført dato."
+msgid "If the task is not closed the current time is used instead of the completion date."
+msgstr "Dersom oppgaven ikke er lukket brukes dagens dato i stedet for fullført dato."
 
 #: app/Template/task/changes.php:8
 #, php-format
@@ -5745,8 +5687,7 @@ msgid "Edit tasks in bulk"
 msgstr "Masseredigering av oppgaver"
 
 #: app/Template/task_bulk_change_property/show.php:9
-msgid ""
-"Choose the properties that you would like to change for the selected tasks."
+msgid "Choose the properties that you would like to change for the selected tasks."
 msgstr "Velg egenskapene du vil endre for valgte oppgaver."
 
 #: app/Template/task_bulk_move_column/show.php:2
@@ -6044,8 +5985,7 @@ msgstr "Denne oppgaven har opprettet denne relaterte oppgaven"
 #: app/Template/task_status/close.php:7
 #, php-format
 msgid "Do you really want to close the task \"%s\" as well as all subtasks?"
-msgstr ""
-"Ønsker du virkelig å lukke oppgaven \"%s\" og alle tilhørende deloppgaver?"
+msgstr "Ønsker du virkelig å lukke oppgaven \"%s\" og alle tilhørende deloppgaver?"
 
 #: app/Template/task_status/open.php:7
 #, php-format
@@ -6082,11 +6022,8 @@ msgstr "Slå av tofaktor autentisering"
 
 #: app/Template/twofactor/disable.php:7
 #, php-format
-msgid ""
-"Do you really want to disable the two factor authentication for this user: "
-"\"%s\"?"
-msgstr ""
-"Er du sikker på at du vil slå av tofaktor autentisering for bruker: \"%s\"?"
+msgid "Do you really want to disable the two factor authentication for this user: \"%s\"?"
+msgstr "Er du sikker på at du vil slå av tofaktor autentisering for bruker: \"%s\"?"
 
 #: app/Template/twofactor/index.php:7
 msgid "Two-Factor Provider: "
@@ -6189,20 +6126,12 @@ msgid "Authentication Parameters"
 msgstr "Autensitering"
 
 #: app/Template/user_credential/authentication.php:21
-msgid ""
-"Remote users do not store their password in Kanboard database, examples: "
-"LDAP, Google and Github accounts."
-msgstr ""
-"Eksterne brukere har ikke passordet lagret i Kanboard. Eksempel: LDAP, "
-"Google og Github-kontoer."
+msgid "Remote users do not store their password in Kanboard database, examples: LDAP, Google and Github accounts."
+msgstr "Eksterne brukere har ikke passordet lagret i Kanboard. Eksempel: LDAP, Google og Github-kontoer."
 
 #: app/Template/user_credential/authentication.php:22
-msgid ""
-"If you check the box \"Disallow login form\", credentials entered in the "
-"login form will be ignored."
-msgstr ""
-"Hvis du har krysset av for \"Deaktiver innloggingsbilde\" vil opplysninger "
-"som tastes inn i innloggingsskjemaet bli ignorert"
+msgid "If you check the box \"Disallow login form\", credentials entered in the login form will be ignored."
+msgstr "Hvis du har krysset av for  \"Deaktiver innloggingsbilde\" vil opplysninger som tastes inn i innloggingsskjemaet bli ignorert"
 
 #: app/Template/user_credential/password.php:2
 msgid "Password modification"
@@ -6791,113 +6720,3 @@ msgstr "Passord er påkrevet"
 msgid "Wrong password"
 msgstr "Feil passord"
 
-#~ msgid "number.decimals_separator"
-#~ msgstr ","
-
-#~ msgid "number.thousands_separator"
-#~ msgstr "."
-
-#~ msgid "Yellow"
-#~ msgstr "Gul"
-
-#~ msgid "Blue"
-#~ msgstr "Blå"
-
-#~ msgid "Green"
-#~ msgstr "Grønn"
-
-#~ msgid "Purple"
-#~ msgstr "Lilla"
-
-#~ msgid "Red"
-#~ msgstr "Rød"
-
-#~ msgid "Orange"
-#~ msgstr "Orange"
-
-#~ msgid "Grey"
-#~ msgstr "Grå"
-
-#~ msgid "Brown"
-#~ msgstr "Brun"
-
-#~ msgid "Deep Orange"
-#~ msgstr "Mørk orange"
-
-#~ msgid "Dark Grey"
-#~ msgstr "Mørk grå"
-
-#~ msgid "Pink"
-#~ msgstr "Rosa"
-
-#~ msgid "Teal"
-#~ msgstr "Sjøgrønn"
-
-#~ msgid "Cyan"
-#~ msgstr "Cyan"
-
-#~ msgid "Lime"
-#~ msgstr "Lime"
-
-#~ msgid "Light Green"
-#~ msgstr "Lys grønn"
-
-#~ msgid "Amber"
-#~ msgstr "Ravgul"
-
-#~ msgid "Forbidden"
-#~ msgstr "Ikke tillatt"
-
-#~ msgid "estimated"
-#~ msgstr "estimat"
-
-#~ msgid "Todo"
-#~ msgstr "Gjøremål"
-
-#~ msgid "In progress"
-#~ msgstr "Under arbeid"
-
-#~ msgid "relates to"
-#~ msgstr "relatert til"
-
-#~ msgid "blocks"
-#~ msgstr "blokkerer"
-
-#~ msgid "is blocked by"
-#~ msgstr "blokkeres av"
-
-#~ msgid "duplicates"
-#~ msgstr "kopierer"
-
-#~ msgid "is duplicated by"
-#~ msgstr "er en kopi av"
-
-#~ msgid "is a child of"
-#~ msgstr "er en underordnet oppgave av"
-
-#~ msgid "is a parent of"
-#~ msgstr "er en overordnet oppgave for"
-
-#~ msgid "targets milestone"
-#~ msgstr "milepel"
-
-#~ msgid "is a milestone of"
-#~ msgstr "er en milepel for"
-
-#~ msgid "fixes"
-#~ msgstr "løser"
-
-#~ msgid "is fixed by"
-#~ msgstr "løses av"
-
-#~ msgid "Projects where \"%s\" is manager"
-#~ msgstr "Prosjekter hvor \"%s\" er prosjektleder"
-
-#~ msgid "Projects where \"%s\" is member"
-#~ msgstr "Prosjekter hvor \"%s\" er medlem"
-
-#~ msgid "Open tasks assigned to \"%s\""
-#~ msgstr "Åpne oppgaver tildelt \"%s\""
-
-#~ msgid "Closed tasks assigned to \"%s\""
-#~ msgstr "Lukkede oppgaver tildelt \"%s\""
