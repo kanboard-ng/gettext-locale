@@ -6,3 +6,6 @@
 
 # ignore crowdin files
 /crowdin.yaml export-ignore
+
+# ignore Netbeans Project Files
+/nbproject export-ignore
