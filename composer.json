@@ -1,0 +1,10 @@
+{
+    "name": "kanboard-ng/gettext-locale",
+    "description": "kanboard-ng gettext-locales po-files",
+    "authors": [
+        {
+            "name": "Cpt.Sanifair"
+        }
+    ],
+    "require": {}
+}

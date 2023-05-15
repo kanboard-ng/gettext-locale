@@ -1,0 +1,8 @@
+# ignore assets
+/assets export-ignore
+
+# ignore git(hub) files
+/.git* export-ignore
+
+# ignore crowdin files
+/crowdin.yaml export-ignore
