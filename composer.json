@@ -7,10 +7,7 @@
         "kanboard-ng",
         "translation"
     ],
-    "homepage": [ 
-        "https://github.com/kanboard-ng/gettext-locale", 
-        "https://crowdin.com/project/kanboard-ng"
-    ],
+    "homepage": "https://github.com/kanboard-ng/gettext-locale",
     "license": "MIT",
     "authors": [
         {
