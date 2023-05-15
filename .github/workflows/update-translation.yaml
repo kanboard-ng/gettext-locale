@@ -1,0 +1,25 @@
+name: "Update Translation"
+
+on: 
+  push: 
+      branches: [ main ]
+  workflow_dispatch:
+  
+
+jobs:
+  SendUpdateToCrowdin:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout gettext-locale
+        uses: actions/checkout@v3
+
+      - name: push to crowdin
+        uses: crowdin/github-action@v1
+        with:
+          config: 'crowdin.yaml'
+          upload_sources: true
+          upload_translations: false
+          download_translations: false
+          project_id: ${{ vars.CROWDIN_PROJECT }}
+          token: ${{ secrets.CROWDIN_TOKEN }}
