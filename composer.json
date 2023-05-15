@@ -13,6 +13,10 @@
         {
             "name": "Cpt.Sanifair",
             "homepage": "https://github.com/cptsanifair"
+        },
+        {
+            "name": "Kanboard-NG Community (github)",
+            "homepage": "https://github.com/kanboard-ng/gettext-locale/graphs/contributors"
         }
     ],
     "support": [ 
