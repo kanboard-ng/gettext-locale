@@ -1,10 +1,34 @@
 {
     "name": "kanboard-ng/gettext-locale",
     "description": "kanboard-ng gettext-locales po-files",
+    "keywords":  [
+        "kanboard",
+        "kanboard-plugin",
+        "kanboard-ng",
+        "translation"
+    ],
+    "homepage": [ 
+        "https://github.com/kanboard-ng/gettext-locale", 
+        "https://crowdin.com/project/kanboard-ng"
+    ],
+    "license": "MIT",
     "authors": [
         {
-            "name": "Cpt.Sanifair"
+            "name": "Cpt.Sanifair",
+            "homepage": "https://github.com/cptsanifair"
         }
     ],
+    "support": [ 
+        {
+            "issues": "https://github.com/kanboard-ng/gettext-locale/issues"
+        }
+    ],
+    "funding": [
+        {
+            "type": "patreon",
+            "url": "https://www.patreon.com/cptsanifair"
+        }
+    ],
+    
     "require": {}
 }
