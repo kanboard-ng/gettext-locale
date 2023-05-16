@@ -31,5 +31,6 @@
         }
     ],
     
-    "require": {}
+    "require": {},
+    "require-dev": {}
 }
