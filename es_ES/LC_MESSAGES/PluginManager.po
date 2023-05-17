@@ -1,0 +1,800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kanboard-ng\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-06 17:18+0200\n"
+"PO-Revision-Date: 2023-05-16 16:04\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: php=gettext:PHP\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: e;t\n"
+"X-Poedit-Basepath: ../PluginManager\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: PluginManager.pot\n"
+"X-Crowdin-File-ID: 15\n"
+"Language: es_ES\n"
+
+#: Controller/PluginManagerController.php:29
+#: Controller/PluginManagerController.php:136
+msgid "Plugins"
+msgstr "Plugins"
+
+#: Controller/PluginManagerController.php:29
+#: Template/info/plugin-problems.php:6 Template/plugin/sidebar.php:34
+msgid "Plugin Problems"
+msgstr "Problemas con los plugins"
+
+#: Controller/PluginManagerController.php:87
+msgid "Unable to open plugin archive"
+msgstr "No se puede abrir el archivo del plugin"
+
+#: Controller/PluginManagerController.php:106
+msgid "Unable to extract plugin archive."
+msgstr "No se puede extraer el archivo del plugin."
+
+#: Controller/PluginManagerController.php:113
+msgid "Plugin installed successfully"
+msgstr "Plugin instalado correctamente"
+
+#: Controller/PluginManagerController.php:120
+msgid "Plugin archive file not found"
+msgstr "No se ha encontrado el archivo del plugin"
+
+#: Controller/PluginManagerController.php:136 Template/plugin/sidebar.php:28
+msgid "Plugin Info"
+msgstr "Información del plugin"
+
+#: Controller/PluginManagerController.php:150
+#: Template/plugin/manual-plugins.php:8 Template/plugin/sidebar.php:21
+msgid "Manual Plugins"
+msgstr "Plugins manuales"
+
+#: Controller/PluginManagerController.php:182
+msgid "Plugin directory not found."
+msgstr "No se ha encontrado el directorio de plugins."
+
+#: Controller/PluginManagerController.php:198
+msgid "File Plugin.php could not get extracted."
+msgstr "No se pudo extraer el archivo Plugin.php."
+
+#: Controller/PluginManagerController.php:233
+msgid "The plugin name was not found."
+msgstr "No se ha encontrado el nombre del plugin."
+
+#: Helper/AgeHelper.php:36
+msgid "less than a minute ago"
+msgstr "hace menos de un minuto"
+
+#: Helper/AgeHelper.php:37
+#, php-format
+msgid "around %d minutes ago"
+msgstr "hace unos %d minutos"
+
+#: Helper/AgeHelper.php:38
+#, php-format
+msgid "around %d hours ago"
+msgstr "hace alrededor de %d horas"
+
+#: Helper/AgeHelper.php:39
+#, php-format
+msgid "around %d days ago"
+msgstr "alrededor de %d hace días"
+
+#: Helper/AgeHelper.php:40
+#, php-format
+msgid "around %d weeks ago"
+msgstr "alrededor de %d hace semanas"
+
+#: Helper/AgeHelper.php:41
+#, php-format
+msgid "around %d months ago"
+msgstr "alrededor de %d hace meses"
+
+#: Helper/AgeHelper.php:42
+msgid "over a year ago"
+msgstr "hace más de un año"
+
+#: Helper/AgeHelper.php:44
+#, php-format
+msgid "over %d years ago"
+msgstr "hace más de %d años"
+
+#: Helper/PluginManagerHelper.php:83
+msgid "Not Available"
+msgstr "No disponible"
+
+#: Plugin.php:63
+msgid "Replace the Installed Plugins section with a whole new interface. Plugin Manager provides both users and developers with an improved comprehensive layout displaying a new section for troubleshooting plugins with a new plugin structure breakdown for each plugin. Install plugins direct from the Plugin Directory or explore new upcoming or untested features from manual plugins."
+msgstr "Sustituya la sección de plugins instalados por una interfaz totalmente nueva. El Gestor de plugins proporciona tanto a los usuarios como a los desarrolladores un diseño integral mejorado que muestra una nueva sección para la solución de problemas de los plugins con un nuevo desglose de la estructura de cada plugin. Instale los plugins directamente desde el directorio de plugins o explore las nuevas funciones próximas o no probadas de los plugins manuales."
+
+#: Template/config/sidebar.php:2 Template/plugin/show.php:11
+#: Template/plugin/sidebar.php:7
+msgid "Plugin Manager"
+msgstr "Gestor de plugins"
+
+#: Template/info/db-info.php:6 Template/plugin/directory.php:351
+#: Template/plugin/manual-plugins.php:196
+msgid "This plugin contains database changes"
+msgstr "Este plugin contiene cambios en la base de datos"
+
+#: Template/info/db-info.php:10
+msgid "This plugin makes changes to your database, usually by adding more tables. Read more about the possible effects of this plugin."
+msgstr "Este plugin realiza cambios en su base de datos, normalmente añadiendo más tablas. Lea más sobre los posibles efectos de este plugin."
+
+#: Template/info/db-info.php:10 Template/info/info-structure.php:11
+#: Template/info/info-tooltip.php:11
+msgid "Learn more"
+msgstr "Saber más"
+
+#: Template/info/db-info.php:10
+msgid "Go to Plugin Problems"
+msgstr "Ir a Problemas con los plugins"
+
+#: Template/info/info-last-updated.php:7 Template/plugin/directory.php:271
+#: Template/plugin/manual-plugins.php:126
+msgid "Last Updated"
+msgstr "Última actualización"
+
+#: Template/info/info-last-updated.php:10
+msgid "The last updated date helps you decide whether a plugin is actively developed and is appropriate for your use case."
+msgstr "La fecha de la última actualización le ayuda a decidir si un plugin se desarrolla activamente y es adecuado para su caso de uso."
+
+#: Template/info/info-last-updated.php:11
+msgid "Plugin Manager will highlight the last updated date based on the date specified by the plugin developer in the Plugins Directory."
+msgstr "El Gestor de Plugins resaltará la fecha de la última actualización basándose en la fecha especificada por el desarrollador del plugin en el Directorio de Plugins."
+
+#: Template/info/info-last-updated.php:14
+msgid "Active"
+msgstr "Activo"
+
+#: Template/info/info-last-updated.php:15
+msgid "Up to 1 year"
+msgstr "Hasta 1 año"
+
+#: Template/info/info-last-updated.php:18
+msgid "Stale"
+msgstr "Rancio"
+
+#: Template/info/info-last-updated.php:19
+msgid "1 - 2 years"
+msgstr "1 - 2 años"
+
+#: Template/info/info-last-updated.php:22
+msgid "Archived"
+msgstr "Archivado"
+
+#: Template/info/info-last-updated.php:23
+msgid "Over 2 years"
+msgstr "Más de 2 años"
+
+#: Template/info/info-structure.php:7 Template/info/plugin-info.php:124
+#: Template/plugin/directory.php:282 Template/plugin/manual-plugins.php:137
+msgid "Plugin Structure"
+msgstr "Estructura del plugin"
+
+#: Template/info/info-structure.php:11
+msgid "The building blocks of a plugin help define it to complete a structure which works with your application."
+msgstr "Los bloques de construcción de un plugin ayudan a definirlo para completar una estructura que funcione con su aplicación."
+
+#: Template/info/info-structure.php:11 Template/info/info-tooltip.php:11
+msgid "Go to Plugin Information"
+msgstr "Ir a Información del plugin"
+
+#: Template/info/info-tooltip.php:7
+msgid "Plugin Types"
+msgstr "Tipos de plugins"
+
+#: Template/info/info-tooltip.php:11
+msgid "Plugins fall into one of 5 types of categories"
+msgstr "Los plugins se dividen en 5 tipos de categorías"
+
+#: Template/info/plugin-info.php:7
+msgid "Plugin Information"
+msgstr "Información del plugin"
+
+#: Template/info/plugin-info.php:11
+msgid "Types of Plugins"
+msgstr "Tipos de plugins"
+
+#: Template/info/plugin-info.php:12
+msgid "All plugins do the same basic job of extending the features of the application. Different functions require different ways of coding which is why all plugins fall into one of the types below."
+msgstr "Todos los plugins realizan la misma tarea básica de ampliar las funciones de la aplicación. Diferentes funciones requieren diferentes formas de codificación, por lo que todos los plugins se clasifican en uno de los tipos siguientes."
+
+#: Template/info/plugin-info.php:17 Template/info/plugin-info.php:24
+#: Template/plugin/directory.php:69 Template/plugin/directory.php:186
+#: Template/plugin/manual-plugins.php:41
+msgid "General Plugin"
+msgstr "Plugin general"
+
+#: Template/info/plugin-info.php:22
+msgid "A plugin of any type but with no automatic actions"
+msgstr "Un plugin de cualquier tipo pero sin acciones automáticas"
+
+#: Template/info/plugin-info.php:29 Template/info/plugin-info.php:56
+#: Template/plugin/directory.php:79 Template/plugin/directory.php:194
+#: Template/plugin/manual-plugins.php:49
+msgid "Action Plugin"
+msgstr "Plugin de acción"
+
+#: Template/info/plugin-info.php:54
+msgid "A plugin for automatic actions only"
+msgstr "Un plugin sólo para acciones automáticas"
+
+#: Template/info/plugin-info.php:61 Template/info/plugin-info.php:71
+#: Template/plugin/directory.php:109 Template/plugin/directory.php:222
+#: Template/plugin/manual-plugins.php:77
+msgid "Theme Plugin"
+msgstr "Plugin temático"
+
+#: Template/info/plugin-info.php:69
+msgid "A plugin for theming and styling of the interface"
+msgstr "Un plugin para la tematización y estilización de la interfaz"
+
+#: Template/info/plugin-info.php:76 Template/info/plugin-info.php:90
+#: Template/plugin/directory.php:122 Template/plugin/directory.php:233
+#: Template/plugin/manual-plugins.php:88
+msgid "Connector Plugin"
+msgstr "Conector Plugin"
+
+#: Template/info/plugin-info.php:88
+msgid "A plugin connecting to third party services - may contain automatic actions"
+msgstr "Un plugin que se conecta a servicios de terceros - puede contener acciones automáticas"
+
+#: Template/info/plugin-info.php:95 Template/info/plugin-info.php:103
+#: Template/plugin/directory.php:139 Template/plugin/directory.php:248
+#: Template/plugin/manual-plugins.php:103
+msgid "Multi Plugin"
+msgstr "Multi Plugin"
+
+#: Template/info/plugin-info.php:101
+msgid "A plugin containing multiple functions and automatic actions or connectors"
+msgstr "Un plugin que contiene múltiples funciones y acciones automáticas o conectores"
+
+#: Template/info/plugin-info.php:111 Template/info/plugin-info.php:119
+#: Template/plugin/directory.php:259 Template/plugin/manual-plugins.php:114
+msgid "Other Plugin"
+msgstr "Otro Plugin"
+
+#: Template/info/plugin-info.php:117
+msgid "A plugin which has not been set a plugin type by the developer"
+msgstr "Un plugin al que el desarrollador no ha establecido un tipo de plugin"
+
+#: Template/info/plugin-info.php:123
+msgid "Plugin types are only shown in the"
+msgstr "Los tipos de plugin sólo se muestran en el"
+
+#: Template/info/plugin-info.php:123 Template/plugin/directory.php:6
+#: Template/plugin/sidebar.php:13
+msgid "Plugin Directory"
+msgstr "Directorio de plugins"
+
+#: Template/info/plugin-info.php:126
+msgid "The official Plugins Directory has been updated to include extra information for each plugin. This information is set by the developer to indicate the code breakdown of the plugin."
+msgstr "El directorio oficial de plugins se ha actualizado para incluir información adicional sobre cada plugin. Esta información es establecida por el desarrollador para indicar el desglose del código del plugin."
+
+#: Template/info/plugin-info.php:129
+msgid "Documentation"
+msgstr "Documentación"
+
+#: Template/info/plugin-info.php:133 Template/plugin/show.php:82
+#: Template/plugin/show.php:201
+msgid "Readme"
+msgstr "Léame"
+
+#: Template/info/plugin-info.php:137
+msgid "All plugins should have a readme file in the root of their plugin folder. This icons should show against all plugins."
+msgstr "Todos los plugins deberían tener un archivo readme en la raíz de su carpeta de plugins. Estos iconos deberían aparecer en todos los plugins."
+
+#: Template/info/plugin-info.php:142 Template/plugin/directory.php:340
+#: Template/plugin/manual-plugins.php:185 Template/plugin/show.php:67
+#: Template/plugin/show.php:69 Template/plugin/show.php:186
+#: Template/plugin/show.php:188
+msgid "Plugin Homepage"
+msgstr "Página de inicio del plugin"
+
+#: Template/info/plugin-info.php:147
+msgid "When links go wrong you should always be able to fallback to the plugin or developer homepage. This icon will show against all plugins which have a homepage set by the developer."
+msgstr "Cuando los enlaces fallan, siempre debería poder volver a la página de inicio del plugin o del desarrollador. Este icono se mostrará en todos los plugins que tengan una página de inicio establecida por el desarrollador."
+
+#: Template/info/plugin-info.php:151
+msgid "Database Changes"
+msgstr "Cambios en la base de datos"
+
+#: Template/info/plugin-info.php:165
+msgid "If a plugin is known to alter your database, this icon will show. Altering your database usually includes adding or modifying existing database tables."
+msgstr "Si se sabe que un plugin altera su base de datos, aparecerá este icono. Alterar su base de datos suele incluir añadir o modificar tablas de base de datos existentes."
+
+#: Template/info/plugin-info.php:174
+msgid "No database changes are detected when this icon shows."
+msgstr "No se detectan cambios en la base de datos cuando aparece este icono."
+
+#: Template/info/plugin-info.php:179
+msgid "Overrides"
+msgstr "Anula"
+
+#: Template/info/plugin-info.php:194
+msgid "Overrides include template files and models. Both types of files affect how your data is presented to you. This icon will show when core templates or models are replaced with specific versions."
+msgstr "Las anulaciones incluyen archivos de plantilla y modelos. Ambos tipos de archivos afectan al modo en que se le presentan los datos. Este icono se mostrará cuando se sustituyan las plantillas básicas o los modelos por versiones específicas."
+
+#: Template/info/plugin-info.php:203
+msgid "No overrides are detected when this icon shows."
+msgstr "No se detectan anulaciones cuando aparece este icono."
+
+#: Template/info/plugin-info.php:208
+msgid "Hooks"
+msgstr "Ganchos"
+
+#: Template/info/plugin-info.php:223
+msgid "Hooks are files which attach to existing templates or core functions. Hooks do not alter any core structure but add to it."
+msgstr "Los ganchos son archivos que se adjuntan a plantillas o funciones del núcleo existentes. Los ganchos no alteran ninguna estructura del núcleo, sino que se añaden a él."
+
+#: Template/info/plugin-info.php:231
+msgid "No hooks are detected when this icon shows."
+msgstr "No se detectan ganchos cuando aparece este icono."
+
+#: Template/info/plugin-problems.php:11
+msgid "Plugins are extensions to your application. They do not take over your application, they just alter the application's performance or output. Use this page as a quick reference to problems which may be caused by a recent plugin installation."
+msgstr "Los plugins son extensiones de su aplicación. No se apoderan de su aplicación, sólo alteran su rendimiento o salida. Utilice esta página como referencia rápida de los problemas que puede causar una instalación reciente de un plugin."
+
+#: Template/info/plugin-problems.php:19
+msgid "Check the overrides"
+msgstr "Compruebe las anulaciones"
+
+#: Template/info/plugin-problems.php:29
+msgid "Look for templates"
+msgstr "Buscar plantillas"
+
+#: Template/info/plugin-problems.php:37
+msgid "Look for models in "
+msgstr "Busque modelos en "
+
+#: Template/info/plugin-problems.php:42
+msgid "Overriding templates and models are the most common way to affect the way your application functions. It can be possible that a particular template could be conflicting with another plugin overriding the same template. It is also possible that a certain model is being used by another plugin. For any plugin that is not working or causing issues, this is the area to look into first."
+msgstr "Sobrescribir plantillas y modelos es la forma más común de afectar al funcionamiento de su aplicación. Es posible que una determinada plantilla entre en conflicto con otro plugin que sobrescriba la misma plantilla. También es posible que un determinado modelo esté siendo utilizado por otro plugin. Para cualquier plugin que no esté funcionando o causando problemas, esta es el área a mirar en primer lugar."
+
+#: Template/info/plugin-problems.php:51
+msgid "Check the application setup"
+msgstr "Compruebe la configuración de la aplicación"
+
+#: Template/info/plugin-problems.php:67 Template/info/plugin-problems.php:74
+msgid "Check your folder permissions"
+msgstr "Compruebe los permisos de sus carpetas"
+
+#: Template/info/plugin-problems.php:83
+msgid "Check server logs"
+msgstr "Compruebe los registros del servidor"
+
+#: Template/info/plugin-problems.php:91
+msgid "Check the browser console for any blocked files"
+msgstr "Compruebe en la consola del navegador si hay algún archivo bloqueado"
+
+#: Template/info/plugin-problems.php:97
+msgid "All information related to your setup can be easily found through the "
+msgstr "Toda la información relacionada con su configuración se puede encontrar fácilmente a través del "
+
+#: Template/info/plugin-problems.php:103
+msgid "Technical Information"
+msgstr "Información técnica"
+
+#: Template/info/plugin-problems.php:103
+msgid "page."
+msgstr "página."
+
+#: Template/info/plugin-problems.php:112
+msgid "Check the database"
+msgstr "Compruebe la base de datos"
+
+#: Template/info/plugin-problems.php:122
+msgid "Check that your database contains data"
+msgstr "Compruebe que su base de datos contiene datos"
+
+#: Template/info/plugin-problems.php:130
+msgid "Check the database tables"
+msgstr "Compruebe las tablas de la base de datos"
+
+#: Template/info/plugin-problems.php:138
+msgid "Plugin database tables are not automatically deleted when a plugin is uninstalled"
+msgstr "Las tablas de la base de datos de plugins no se borran automáticamente cuando se desinstala un plugin"
+
+#: Template/info/plugin-problems.php:143
+msgid "In the Plugin Manager, all plugins are identified if they contain potential database changes. This is your indication to check for extra tables in the plugin's name. If you decide to remove the plugin which causes you issues, the default the tables in the database will remain. You will need to carefully delete them according to your setup."
+msgstr "En el Gestor de plugins, todos los plugins se identifican si contienen posibles cambios en la base de datos. Esta es su indicación para comprobar si hay tablas adicionales en el nombre del plugin. Si decide eliminar el plugin que le causa problemas, por defecto las tablas de la base de datos permanecerán. Tendrá que eliminarlas cuidadosamente según su configuración."
+
+#: Template/info/plugin-problems.php:146
+msgid "Plugins which affect the database also register into the "
+msgstr "Los plugins que afectan a la base de datos también se registran en el "
+
+#: Template/info/plugin-problems.php:146
+msgid "table. If uninstalling a plugin, you would need to delete the associated plugin entry here too besides just the specific plugin related tables."
+msgstr "tabla. Si desinstala un plugin, tendría que borrar aquí también la entrada del plugin asociado, además de las tablas específicas relacionadas con el plugin."
+
+#: Template/info/plugin-problems.php:155
+msgid "If everything fails"
+msgstr "Si todo falla"
+
+#: Template/info/plugin-problems.php:165
+msgid "Delete the folder for the plugin. It is highly likely that the last updated folder will be the offending plugin."
+msgstr "Borre la carpeta del plugin. Es muy probable que la última carpeta actualizada sea el plugin infractor."
+
+#: Template/info/plugin-problems.php:170
+msgid "Delete the offending plugin. If you dont know which plugin is causing your issue, check the "
+msgstr "Elimine el plugin infractor. Si no sabe qué plugin está causando su problema, compruebe el "
+
+#: Template/info/plugin-problems.php:170
+msgid "folder. Each folder represents each plugin in the same name."
+msgstr "carpeta. Cada carpeta representa cada plugin con el mismo nombre."
+
+#: Template/info/plugin-problems.php:179
+msgid "Further Reading"
+msgstr "Lecturas complementarias"
+
+#: Template/info/plugin-problems.php:186
+msgid "About Application"
+msgstr "Acerca de la solicitud"
+
+#: Template/info/plugin-problems.php:194
+msgid "Kanboard Forum"
+msgstr "Foro Kanboard"
+
+#: Template/info/plugin-problems.php:202
+msgid "Contributing"
+msgstr "Contribución"
+
+#: Template/info/plugin-problems.php:210
+msgid "Developing Plugins"
+msgstr "Desarrollo de plugins"
+
+#: Template/info/plugin-problems.php:218
+msgid "Source Code"
+msgstr "Código fuente"
+
+#: Template/info/plugin-problems.php:226
+msgid "Kanboard Plugins"
+msgstr "Plugins Kanboard"
+
+#: Template/plugin/directory.php:11
+msgid "Your application instance is not configured to install plugins from the user interface."
+msgstr "Su instancia de aplicación no está configurada para instalar plugins desde la interfaz de usuario."
+
+#: Template/plugin/directory.php:16
+msgid "There is no plugin available."
+msgstr "No hay ningún plugin disponible."
+
+#: Template/plugin/directory.php:23
+msgid "Available Plugins"
+msgstr "Plugins disponibles"
+
+#: Template/plugin/directory.php:24
+msgid "Directory Source"
+msgstr "Fuente del directorio"
+
+#: Template/plugin/directory.php:25
+msgid "Your Application Version"
+msgstr "Versión de su aplicación"
+
+#: Template/plugin/directory.php:26 Template/plugin/directory.php:423
+msgid "Currently Installed"
+msgstr "Actualmente instalado"
+
+#: Template/plugin/directory.php:34 Template/plugin/directory.php:333
+#: Template/plugin/directory.php:340 Template/plugin/manual-plugins.php:178
+#: Template/plugin/manual-plugins.php:185 Template/plugin/show.php:67
+#: Template/plugin/show.php:80 Template/plugin/show.php:186
+#: Template/plugin/show.php:199
+msgid "Opens in a new window"
+msgstr "Se abre en una nueva ventana"
+
+#: Template/plugin/directory.php:39
+msgid "Official Plugin Directory"
+msgstr "Directorio oficial de plugins"
+
+#: Template/plugin/directory.php:42
+msgid "Custom Directory"
+msgstr "Directorio personalizado"
+
+#: Template/plugin/directory.php:56
+msgid "Filter Available Plugins"
+msgstr "Filtrar plugins disponibles"
+
+#: Template/plugin/directory.php:61
+msgid "Search for plugin..."
+msgstr "Buscar plugin..."
+
+#: Template/plugin/directory.php:61
+msgid "Search available plugins"
+msgstr "Buscar plugins disponibles"
+
+#: Template/plugin/directory.php:73
+msgid "General"
+msgstr "General"
+
+#: Template/plugin/directory.php:103
+msgid "Automatic Actions"
+msgstr "Acciones automáticas"
+
+#: Template/plugin/directory.php:103 Template/plugin/show.php:32
+#: Template/plugin/show.php:148
+msgid "Actions"
+msgstr "Acciones"
+
+#: Template/plugin/directory.php:116
+msgid "Themes"
+msgstr "Temas"
+
+#: Template/plugin/directory.php:133
+msgid "Connectors"
+msgstr "Conectores"
+
+#: Template/plugin/directory.php:144
+msgid "Multi"
+msgstr "Multi"
+
+#: Template/plugin/directory.php:152 Template/plugin/directory.php:157
+msgid "Others"
+msgstr "Otros"
+
+#: Template/plugin/directory.php:174 Template/plugin/manual-plugins.php:22
+msgid "Directory Last Updated"
+msgstr "Última actualización del directorio"
+
+#: Template/plugin/directory.php:175 Template/plugin/manual-plugins.php:24
+#: Template/plugin/show.php:140
+msgid "Go to the bottom of the page"
+msgstr "Ir al final de la página"
+
+#: Template/plugin/directory.php:175 Template/plugin/manual-plugins.php:25
+#: Template/plugin/show.php:140
+msgid "Bottom"
+msgstr "Fondo"
+
+#: Template/plugin/directory.php:265 Template/plugin/manual-plugins.php:120
+msgid "Plugin Author(s)"
+msgstr "Autor(es) del plugin"
+
+#: Template/plugin/directory.php:267 Template/plugin/manual-plugins.php:122
+msgid "License"
+msgstr "Licencia"
+
+#: Template/plugin/directory.php:293 Template/plugin/manual-plugins.php:148
+msgid "Status"
+msgstr "Estado"
+
+#: Template/plugin/directory.php:300 Template/plugin/directory.php:308
+#: Template/plugin/manual-plugins.php:154 Template/plugin/show.php:29
+#: Template/plugin/show.php:146
+msgid "Plugin Version"
+msgstr "Versión del plugin"
+
+#: Template/plugin/directory.php:304
+msgid "Updated plugin version available"
+msgstr "Versión actualizada del plugin disponible"
+
+#: Template/plugin/directory.php:326 Template/plugin/manual-plugins.php:171
+msgid "Unable to detect the last time this plugin was updated or a version was released"
+msgstr "No se ha podido detectar la última vez que se actualizó este plugin o se lanzó una versión"
+
+#: Template/plugin/directory.php:327 Template/plugin/manual-plugins.php:172
+#: Template/plugin/show.php:167
+msgid "Not Specified"
+msgstr "No especificado"
+
+#: Template/plugin/directory.php:333 Template/plugin/manual-plugins.php:178
+msgid "View Readme"
+msgstr "Ver Léame"
+
+#: Template/plugin/directory.php:358 Template/plugin/manual-plugins.php:203
+msgid "This plugin contains no database changes"
+msgstr "Este plugin no contiene cambios en la base de datos"
+
+#: Template/plugin/directory.php:366 Template/plugin/manual-plugins.php:211
+msgid "This plugin has not specified any database changes"
+msgstr "Este plugin no ha especificado ningún cambio en la base de datos"
+
+#: Template/plugin/directory.php:374 Template/plugin/manual-plugins.php:219
+msgid "This plugin overrides certain templates or models"
+msgstr "Este plugin anula ciertas plantillas o modelos"
+
+#: Template/plugin/directory.php:381 Template/plugin/manual-plugins.php:226
+msgid "This plugin does not override any templates or models"
+msgstr "Este plugin no anula ninguna plantilla o modelo"
+
+#: Template/plugin/directory.php:389 Template/plugin/manual-plugins.php:234
+msgid "This plugin has not specified any template or model overrides"
+msgstr "Este plugin no ha especificado ninguna sobreescritura de plantilla o modelo"
+
+#: Template/plugin/directory.php:398 Template/plugin/manual-plugins.php:243
+msgid "This plugin contains hooks"
+msgstr "Este plugin contiene ganchos"
+
+#: Template/plugin/directory.php:406 Template/plugin/manual-plugins.php:251
+msgid "This plugin does not contain any hooks"
+msgstr "Este plugin no contiene ningún gancho"
+
+#: Template/plugin/directory.php:413 Template/plugin/manual-plugins.php:258
+msgid "This plugin has not specified any hooks"
+msgstr "Este plugin no ha especificado ningún gancho"
+
+#: Template/plugin/directory.php:421 Template/plugin/installer.php:15
+msgid "Install"
+msgstr "Instale"
+
+#: Template/plugin/directory.php:421
+msgid "Install this plugin"
+msgstr "Instale este plugin"
+
+#: Template/plugin/directory.php:426
+msgid "Update"
+msgstr "Actualización"
+
+#: Template/plugin/directory.php:426
+msgid "Update this plugin"
+msgstr "Actualizar este plugin"
+
+#: Template/plugin/directory.php:428
+msgid "Up to date"
+msgstr "Al día"
+
+#: Template/plugin/directory.php:433
+msgid "View in Plugin Manager"
+msgstr "Ver en Gestor de plugins"
+
+#: Template/plugin/directory.php:436 Template/plugin/manual-plugins.php:278
+msgid "Not available"
+msgstr "No disponible"
+
+#: Template/plugin/directory.php:449 Template/plugin/manual-plugins.php:309
+#: Template/plugin/show.php:225
+msgid "Go to the top of the page"
+msgstr "Ir a la parte superior de la página"
+
+#: Template/plugin/directory.php:449 Template/plugin/manual-plugins.php:310
+#: Template/plugin/show.php:225
+msgid "Top"
+msgstr "Top"
+
+#: Template/plugin/installer.php:2
+msgid "Install Manual Plugin"
+msgstr "Instalación manual del plugin"
+
+#: Template/plugin/installer.php:5
+msgid "Choose to install from a local archive (.zip) file or a remote location"
+msgstr "Elija instalar desde un archivo local (.zip) o desde una ubicación remota"
+
+#: Template/plugin/installer.php:7
+msgid "From File"
+msgstr "De archivo"
+
+#: Template/plugin/installer.php:11
+msgid "From URL"
+msgstr "Desde URL"
+
+#: Template/plugin/manual-plugins.php:16
+msgid "Warning"
+msgstr "Advertencia"
+
+#: Template/plugin/manual-plugins.php:17
+msgid "Use these plugins with great caution and check their functionality with the plugin developer before installing"
+msgstr "Utilice estos plugins con mucha precaución y compruebe su funcionalidad con el desarrollador del plugin antes de instalarlo"
+
+#: Template/plugin/manual-plugins.php:265
+msgid "Download Plugin"
+msgstr "Descargar Plugin"
+
+#: Template/plugin/manual-plugins.php:269
+msgid "Download"
+msgstr "Descargar"
+
+#: Template/plugin/manual-plugins.php:271
+msgid "Copy download link"
+msgstr "Copiar enlace de descarga"
+
+#: Template/plugin/manual-plugins.php:273 Template/plugin/show.php:118
+msgid "Copy to Clipboard"
+msgstr "Copiar al portapapeles"
+
+#: Template/plugin/manual-plugins.php:292
+msgid "This plugin is for developers"
+msgstr "Este plugin es para desarrolladores"
+
+#: Template/plugin/manual-plugins.php:296
+msgid "This plugin is for translators and developers"
+msgstr "Este plugin es para traductores y desarrolladores"
+
+#: Template/plugin/manual-plugins.php:303
+msgid "This plugin may not be completely functional. Always check the homepage for recent developments as the download link may not show the latest version."
+msgstr "Este plugin puede no ser completamente funcional. Compruebe siempre la página de inicio para ver las últimas novedades, ya que es posible que el enlace de descarga no muestre la última versión."
+
+#: Template/plugin/manual-plugins.php:313
+msgid "There are no manual plugins listed at the moment"
+msgstr "No hay plugins manuales en la lista por el momento"
+
+#: Template/plugin/show.php:19
+msgid "Incompatible Plugins"
+msgstr "Plugins incompatibles"
+
+#: Template/plugin/show.php:23
+msgid "Plugins listed as incompatible are based on the application version limit set by the plugin developer. You are using"
+msgstr "Los plugins listados como incompatibles se basan en el límite de versión de la aplicación establecido por el desarrollador del plugin. Está utilizando"
+
+#: Template/plugin/show.php:27 Template/plugin/show.php:144
+msgid "Name"
+msgstr "Nombre"
+
+#: Template/plugin/show.php:28 Template/plugin/show.php:145
+msgid "Author"
+msgstr "Autor"
+
+#: Template/plugin/show.php:30 Template/plugin/show.php:147
+msgid "Kanboard Compatibility"
+msgstr "Compatibilidad Kanboard"
+
+#: Template/plugin/show.php:42 Template/plugin/show.php:157
+msgid "Installed Plugin"
+msgstr "Plugin instalado"
+
+#: Template/plugin/show.php:80 Template/plugin/show.php:199
+msgid "Plugin Readme"
+msgstr "Léame del plugin"
+
+#: Template/plugin/show.php:90 Template/plugin/show.php:210
+msgid "Uninstall"
+msgstr "Desinstale"
+
+#: Template/plugin/show.php:100 Template/plugin/show.php:219
+msgid "Installed"
+msgstr "Instalado"
+
+#: Template/plugin/show.php:111
+msgid "There is no plugin loaded."
+msgstr "No hay ningún plugin cargado."
+
+#: Template/plugin/show.php:116
+msgid "Copy plugin list"
+msgstr "Copiar lista de plugins"
+
+#: Template/plugin/show.php:116
+msgid "by"
+msgstr "por"
+
+#: Template/plugin/show.php:126
+msgid "Filter Installed Plugins"
+msgstr "Filtrar plugins instalados"
+
+#: Template/plugin/show.php:131
+msgid "Search for installed plugin..."
+msgstr "Buscar plugin instalado..."
+
+#: Template/plugin/show.php:131
+msgid "Search installed plugins"
+msgstr "Buscar plugins instalados"
+
+#: Template/plugin/show.php:138
+#, php-format
+msgid "You have %s plugins installed"
+msgstr "Tiene instalados los plugins %s"
+
+#: Template/plugin/show.php:138
+#, php-format
+msgid "and %s incompatible plugin(s)"
+msgstr "y %s plugin(s) incompatibles"
+
+#: Template/plugin/sidebar.php:43
+msgid "Technical Info"
+msgstr "Información técnica"
+
+#: Template/plugin/sidebar.php:54
+msgid "Content Cleaner"
+msgstr "Limpiador de contenidos"
+

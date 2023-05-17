@@ -1,0 +1,800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kanboard-ng\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-06 17:18+0200\n"
+"PO-Revision-Date: 2023-05-16 16:04\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Mapping: php=gettext:PHP\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: e;t\n"
+"X-Poedit-Basepath: ../PluginManager\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kanboard-ng\n"
+"X-Crowdin-Project-ID: 582949\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: PluginManager.pot\n"
+"X-Crowdin-File-ID: 15\n"
+"Language: ja_JP\n"
+
+#: Controller/PluginManagerController.php:29
+#: Controller/PluginManagerController.php:136
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: Controller/PluginManagerController.php:29
+#: Template/info/plugin-problems.php:6 Template/plugin/sidebar.php:34
+msgid "Plugin Problems"
+msgstr "プラグインの問題"
+
+#: Controller/PluginManagerController.php:87
+msgid "Unable to open plugin archive"
+msgstr "プラグインアーカイブを開くことができない"
+
+#: Controller/PluginManagerController.php:106
+msgid "Unable to extract plugin archive."
+msgstr "プラグインアーカイブを展開できません。"
+
+#: Controller/PluginManagerController.php:113
+msgid "Plugin installed successfully"
+msgstr "プラグインが正常にインストールされた"
+
+#: Controller/PluginManagerController.php:120
+msgid "Plugin archive file not found"
+msgstr "プラグインアーカイブファイルが見つからない"
+
+#: Controller/PluginManagerController.php:136 Template/plugin/sidebar.php:28
+msgid "Plugin Info"
+msgstr "プラグイン情報"
+
+#: Controller/PluginManagerController.php:150
+#: Template/plugin/manual-plugins.php:8 Template/plugin/sidebar.php:21
+msgid "Manual Plugins"
+msgstr "手動プラグイン"
+
+#: Controller/PluginManagerController.php:182
+msgid "Plugin directory not found."
+msgstr "Pluginディレクトリが見つかりません。"
+
+#: Controller/PluginManagerController.php:198
+msgid "File Plugin.php could not get extracted."
+msgstr "ファイルPlugin.phpが抽出されませんでした。"
+
+#: Controller/PluginManagerController.php:233
+msgid "The plugin name was not found."
+msgstr "プラグイン名が見つかりませんでした。"
+
+#: Helper/AgeHelper.php:36
+msgid "less than a minute ago"
+msgstr "今しがた"
+
+#: Helper/AgeHelper.php:37
+#, php-format
+msgid "around %d minutes ago"
+msgstr "around %d minutes ago"
+
+#: Helper/AgeHelper.php:38
+#, php-format
+msgid "around %d hours ago"
+msgstr "around %d hours ago"
+
+#: Helper/AgeHelper.php:39
+#, php-format
+msgid "around %d days ago"
+msgstr "around %d 日前"
+
+#: Helper/AgeHelper.php:40
+#, php-format
+msgid "around %d weeks ago"
+msgstr "around %d weeks ago"
+
+#: Helper/AgeHelper.php:41
+#, php-format
+msgid "around %d months ago"
+msgstr "around %d months ago"
+
+#: Helper/AgeHelper.php:42
+msgid "over a year ago"
+msgstr "一年以上前"
+
+#: Helper/AgeHelper.php:44
+#, php-format
+msgid "over %d years ago"
+msgstr "over %d years ago"
+
+#: Helper/PluginManagerHelper.php:83
+msgid "Not Available"
+msgstr "使用不可"
+
+#: Plugin.php:63
+msgid "Replace the Installed Plugins section with a whole new interface. Plugin Manager provides both users and developers with an improved comprehensive layout displaying a new section for troubleshooting plugins with a new plugin structure breakdown for each plugin. Install plugins direct from the Plugin Directory or explore new upcoming or untested features from manual plugins."
+msgstr "インストール済みプラグインセクションを全く新しいインターフェイスに置き換えます。プラグインマネージャーは、ユーザーと開発者の両方に、改良された包括的なレイアウトを提供し、プラグインのトラブルシューティングのための新しいセクションと各プラグインの新しい構造内訳を表示します。プラグインディレクトリから直接プラグインをインストールしたり、手動プラグインから新しい予定や未試験の機能を探したりすることができます。"
+
+#: Template/config/sidebar.php:2 Template/plugin/show.php:11
+#: Template/plugin/sidebar.php:7
+msgid "Plugin Manager"
+msgstr "プラグインマネージャー"
+
+#: Template/info/db-info.php:6 Template/plugin/directory.php:351
+#: Template/plugin/manual-plugins.php:196
+msgid "This plugin contains database changes"
+msgstr "このプラグインは、データベースの変更を含みます"
+
+#: Template/info/db-info.php:10
+msgid "This plugin makes changes to your database, usually by adding more tables. Read more about the possible effects of this plugin."
+msgstr "このプラグインは、通常、より多くのテーブルを追加することによって、データベースに変更を加えます。このプラグインがもたらす可能性のある影響について、詳しくはこちらをご覧ください。"
+
+#: Template/info/db-info.php:10 Template/info/info-structure.php:11
+#: Template/info/info-tooltip.php:11
+msgid "Learn more"
+msgstr "もっと詳しく"
+
+#: Template/info/db-info.php:10
+msgid "Go to Plugin Problems"
+msgstr "プラグインの問題へ"
+
+#: Template/info/info-last-updated.php:7 Template/plugin/directory.php:271
+#: Template/plugin/manual-plugins.php:126
+msgid "Last Updated"
+msgstr "最終更新日"
+
+#: Template/info/info-last-updated.php:10
+msgid "The last updated date helps you decide whether a plugin is actively developed and is appropriate for your use case."
+msgstr "最終更新日は、そのプラグインが活発に開発されているか、あなたのユースケースに適しているかを判断するのに役立ちます。"
+
+#: Template/info/info-last-updated.php:11
+msgid "Plugin Manager will highlight the last updated date based on the date specified by the plugin developer in the Plugins Directory."
+msgstr "Plugin Managerは、プラグインディレクトリのプラグイン開発者によって指定された日付に基づいて、最終更新日を強調表示します。"
+
+#: Template/info/info-last-updated.php:14
+msgid "Active"
+msgstr "アクティブ"
+
+#: Template/info/info-last-updated.php:15
+msgid "Up to 1 year"
+msgstr "1年以内"
+
+#: Template/info/info-last-updated.php:18
+msgid "Stale"
+msgstr "ステイル"
+
+#: Template/info/info-last-updated.php:19
+msgid "1 - 2 years"
+msgstr "1～2年"
+
+#: Template/info/info-last-updated.php:22
+msgid "Archived"
+msgstr "アーカイブス"
+
+#: Template/info/info-last-updated.php:23
+msgid "Over 2 years"
+msgstr "2年以上"
+
+#: Template/info/info-structure.php:7 Template/info/plugin-info.php:124
+#: Template/plugin/directory.php:282 Template/plugin/manual-plugins.php:137
+msgid "Plugin Structure"
+msgstr "プラグインの構造"
+
+#: Template/info/info-structure.php:11
+msgid "The building blocks of a plugin help define it to complete a structure which works with your application."
+msgstr "プラグインのビルディングブロックは、アプリケーションと連動する構造を完成させるために、プラグインを定義するのに役立ちます。"
+
+#: Template/info/info-structure.php:11 Template/info/info-tooltip.php:11
+msgid "Go to Plugin Information"
+msgstr "プラグイン情報へ移動"
+
+#: Template/info/info-tooltip.php:7
+msgid "Plugin Types"
+msgstr "プラグインの種類"
+
+#: Template/info/info-tooltip.php:11
+msgid "Plugins fall into one of 5 types of categories"
+msgstr "プラグインは5種類のカテゴリーに分類されます。"
+
+#: Template/info/plugin-info.php:7
+msgid "Plugin Information"
+msgstr "プラグイン情報"
+
+#: Template/info/plugin-info.php:11
+msgid "Types of Plugins"
+msgstr "プラグインの種類"
+
+#: Template/info/plugin-info.php:12
+msgid "All plugins do the same basic job of extending the features of the application. Different functions require different ways of coding which is why all plugins fall into one of the types below."
+msgstr "すべてのプラグインは、アプリケーションの機能を拡張するという同じ基本的な仕事をします。しかし、機能によって必要なコーディングの方法は異なり、そのため、すべてのプラグインは以下のタイプのいずれかに分類されます。"
+
+#: Template/info/plugin-info.php:17 Template/info/plugin-info.php:24
+#: Template/plugin/directory.php:69 Template/plugin/directory.php:186
+#: Template/plugin/manual-plugins.php:41
+msgid "General Plugin"
+msgstr "一般プラグイン"
+
+#: Template/info/plugin-info.php:22
+msgid "A plugin of any type but with no automatic actions"
+msgstr "任意のタイプのプラグインで、自動的なアクションを持たないもの"
+
+#: Template/info/plugin-info.php:29 Template/info/plugin-info.php:56
+#: Template/plugin/directory.php:79 Template/plugin/directory.php:194
+#: Template/plugin/manual-plugins.php:49
+msgid "Action Plugin"
+msgstr "アクションプラグイン"
+
+#: Template/info/plugin-info.php:54
+msgid "A plugin for automatic actions only"
+msgstr "自動アクション専用のプラグイン"
+
+#: Template/info/plugin-info.php:61 Template/info/plugin-info.php:71
+#: Template/plugin/directory.php:109 Template/plugin/directory.php:222
+#: Template/plugin/manual-plugins.php:77
+msgid "Theme Plugin"
+msgstr "テーマプラグイン"
+
+#: Template/info/plugin-info.php:69
+msgid "A plugin for theming and styling of the interface"
+msgstr "インターフェイスのテーマ化とスタイリングに対応したプラグイン"
+
+#: Template/info/plugin-info.php:76 Template/info/plugin-info.php:90
+#: Template/plugin/directory.php:122 Template/plugin/directory.php:233
+#: Template/plugin/manual-plugins.php:88
+msgid "Connector Plugin"
+msgstr "コネクタプラグイン"
+
+#: Template/info/plugin-info.php:88
+msgid "A plugin connecting to third party services - may contain automatic actions"
+msgstr "サードパーティーのサービスに接続するプラグイン - 自動的なアクションを含む可能性があります。"
+
+#: Template/info/plugin-info.php:95 Template/info/plugin-info.php:103
+#: Template/plugin/directory.php:139 Template/plugin/directory.php:248
+#: Template/plugin/manual-plugins.php:103
+msgid "Multi Plugin"
+msgstr "マルチプラグイン"
+
+#: Template/info/plugin-info.php:101
+msgid "A plugin containing multiple functions and automatic actions or connectors"
+msgstr "複数の機能および自動的なアクションまたはコネクタを含むプラグイン"
+
+#: Template/info/plugin-info.php:111 Template/info/plugin-info.php:119
+#: Template/plugin/directory.php:259 Template/plugin/manual-plugins.php:114
+msgid "Other Plugin"
+msgstr "その他のプラグイン"
+
+#: Template/info/plugin-info.php:117
+msgid "A plugin which has not been set a plugin type by the developer"
+msgstr "開発元がプラグインタイプを設定していないプラグイン"
+
+#: Template/info/plugin-info.php:123
+msgid "Plugin types are only shown in the"
+msgstr "プラグインタイプは、以下の場合にのみ表示されます。"
+
+#: Template/info/plugin-info.php:123 Template/plugin/directory.php:6
+#: Template/plugin/sidebar.php:13
+msgid "Plugin Directory"
+msgstr "プラグインディレクトリ"
+
+#: Template/info/plugin-info.php:126
+msgid "The official Plugins Directory has been updated to include extra information for each plugin. This information is set by the developer to indicate the code breakdown of the plugin."
+msgstr "公式プラグインディレクトリは、各プラグインの追加情報を含むように更新されました。この情報は、プラグインのコードの内訳を示すために、開発者によって設定されます。"
+
+#: Template/info/plugin-info.php:129
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: Template/info/plugin-info.php:133 Template/plugin/show.php:82
+#: Template/plugin/show.php:201
+msgid "Readme"
+msgstr "Readme"
+
+#: Template/info/plugin-info.php:137
+msgid "All plugins should have a readme file in the root of their plugin folder. This icons should show against all plugins."
+msgstr "すべてのプラグインは、そのプラグインフォルダのルートにReadmeファイルを持つ必要があります。このアイコンは、すべてのプラグインに対して表示される必要があります。"
+
+#: Template/info/plugin-info.php:142 Template/plugin/directory.php:340
+#: Template/plugin/manual-plugins.php:185 Template/plugin/show.php:67
+#: Template/plugin/show.php:69 Template/plugin/show.php:186
+#: Template/plugin/show.php:188
+msgid "Plugin Homepage"
+msgstr "プラグインホームページ"
+
+#: Template/info/plugin-info.php:147
+msgid "When links go wrong you should always be able to fallback to the plugin or developer homepage. This icon will show against all plugins which have a homepage set by the developer."
+msgstr "リンクがうまくいかないとき、プラグインまたは開発者のホームページに戻ることができるようにする必要があります。このアイコンは、開発者によってホームページが設定されているすべてのプラグインに対して表示されます。"
+
+#: Template/info/plugin-info.php:151
+msgid "Database Changes"
+msgstr "データベースの変更"
+
+#: Template/info/plugin-info.php:165
+msgid "If a plugin is known to alter your database, this icon will show. Altering your database usually includes adding or modifying existing database tables."
+msgstr "プラグインがデータベースを変更することが知られている場合、このアイコンは表示されます。データベースの変更には、通常、既存のデータベーステーブルを追加または変更することが含まれます。"
+
+#: Template/info/plugin-info.php:174
+msgid "No database changes are detected when this icon shows."
+msgstr "このアイコンが表示されているときは、データベースの変更は検出されません。"
+
+#: Template/info/plugin-info.php:179
+msgid "Overrides"
+msgstr "オーバーライド"
+
+#: Template/info/plugin-info.php:194
+msgid "Overrides include template files and models. Both types of files affect how your data is presented to you. This icon will show when core templates or models are replaced with specific versions."
+msgstr "オーバーライドには、テンプレートファイルやモデルがあります。どちらのタイプのファイルも、データの表示方法に影響します。このアイコンは、コアテンプレートやモデルが特定のバージョンに置き換わったときに表示されます。"
+
+#: Template/info/plugin-info.php:203
+msgid "No overrides are detected when this icon shows."
+msgstr "このアイコンが表示されているときは、オーバーライドは検出されません。"
+
+#: Template/info/plugin-info.php:208
+msgid "Hooks"
+msgstr "フック類"
+
+#: Template/info/plugin-info.php:223
+msgid "Hooks are files which attach to existing templates or core functions. Hooks do not alter any core structure but add to it."
+msgstr "フックとは、既存のテンプレートやコア機能にアタッチするファイルです。フックは、コア構造を変更するのではなく、コア構造に追加するものです。"
+
+#: Template/info/plugin-info.php:231
+msgid "No hooks are detected when this icon shows."
+msgstr "このアイコンが表示されているときは、フックを検知していません。"
+
+#: Template/info/plugin-problems.php:11
+msgid "Plugins are extensions to your application. They do not take over your application, they just alter the application's performance or output. Use this page as a quick reference to problems which may be caused by a recent plugin installation."
+msgstr "プラグインは、アプリケーションの拡張機能です。プラグインは、アプリケーションを引き継ぐものではなく、アプリケーションのパフォーマンスや出力を変更するだけです。このページは、最近のプラグインのインストールによって引き起こされる可能性のある問題のクイックリファレンスとして使用してください。"
+
+#: Template/info/plugin-problems.php:19
+msgid "Check the overrides"
+msgstr "オーバーライドを確認する"
+
+#: Template/info/plugin-problems.php:29
+msgid "Look for templates"
+msgstr "テンプレートを探す"
+
+#: Template/info/plugin-problems.php:37
+msgid "Look for models in "
+msgstr "のモデルを探してみてください。 "
+
+#: Template/info/plugin-problems.php:42
+msgid "Overriding templates and models are the most common way to affect the way your application functions. It can be possible that a particular template could be conflicting with another plugin overriding the same template. It is also possible that a certain model is being used by another plugin. For any plugin that is not working or causing issues, this is the area to look into first."
+msgstr "テンプレートとモデルのオーバーライドは、アプリケーションの機能に影響を与える最も一般的な方法です。特定のテンプレートが、同じテンプレートをオーバーライドする他のプラグインと競合する可能性があります。また、あるモデルが他のプラグインによって使用されている可能性もあります。動作しないプラグインや問題のあるプラグインは、まずこの部分を調べてみてください。"
+
+#: Template/info/plugin-problems.php:51
+msgid "Check the application setup"
+msgstr "アプリケーションの設定を確認する"
+
+#: Template/info/plugin-problems.php:67 Template/info/plugin-problems.php:74
+msgid "Check your folder permissions"
+msgstr "フォルダのパーミッションを確認する"
+
+#: Template/info/plugin-problems.php:83
+msgid "Check server logs"
+msgstr "サーバーのログを確認する"
+
+#: Template/info/plugin-problems.php:91
+msgid "Check the browser console for any blocked files"
+msgstr "ブラウザのコンソールで、ブロックされているファイルがないか確認する"
+
+#: Template/info/plugin-problems.php:97
+msgid "All information related to your setup can be easily found through the "
+msgstr "あなたのセットアップに関連するすべての情報を、簡単に見つけることができます。 "
+
+#: Template/info/plugin-problems.php:103
+msgid "Technical Information"
+msgstr "技術情報"
+
+#: Template/info/plugin-problems.php:103
+msgid "page."
+msgstr "のページをご覧ください。"
+
+#: Template/info/plugin-problems.php:112
+msgid "Check the database"
+msgstr "データベースの確認"
+
+#: Template/info/plugin-problems.php:122
+msgid "Check that your database contains data"
+msgstr "データベースにデータが含まれているか確認する"
+
+#: Template/info/plugin-problems.php:130
+msgid "Check the database tables"
+msgstr "データベースのテーブルを確認する"
+
+#: Template/info/plugin-problems.php:138
+msgid "Plugin database tables are not automatically deleted when a plugin is uninstalled"
+msgstr "プラグインのアンインストール時に、プラグインデータベースのテーブルが自動的に削除されない。"
+
+#: Template/info/plugin-problems.php:143
+msgid "In the Plugin Manager, all plugins are identified if they contain potential database changes. This is your indication to check for extra tables in the plugin's name. If you decide to remove the plugin which causes you issues, the default the tables in the database will remain. You will need to carefully delete them according to your setup."
+msgstr "プラグインマネージャーでは、すべてのプラグインがデータベースの変更の可能性を含んでいるかどうかが確認されます。これは、プラグインの名前に余分なテーブルが含まれていないかどうかを確認するためのものです。問題を引き起こすプラグインを削除することにした場合、データベース内のデフォルトのテーブルが残ります。あなたのセットアップに従って、慎重にそれらを削除する必要があります。"
+
+#: Template/info/plugin-problems.php:146
+msgid "Plugins which affect the database also register into the "
+msgstr "また、データベースに影響を与えるプラグインも "
+
+#: Template/info/plugin-problems.php:146
+msgid "table. If uninstalling a plugin, you would need to delete the associated plugin entry here too besides just the specific plugin related tables."
+msgstr "テーブルを削除します。プラグインをアンインストールする場合は、特定のプラグインに関連するテーブルだけでなく、関連するプラグインのエントリもここで削除する必要があります。"
+
+#: Template/info/plugin-problems.php:155
+msgid "If everything fails"
+msgstr "すべて失敗した場合"
+
+#: Template/info/plugin-problems.php:165
+msgid "Delete the folder for the plugin. It is highly likely that the last updated folder will be the offending plugin."
+msgstr "プラグインのフォルダを削除してください。最後に更新されたフォルダが問題のあるプラグインである可能性が高いです。"
+
+#: Template/info/plugin-problems.php:170
+msgid "Delete the offending plugin. If you dont know which plugin is causing your issue, check the "
+msgstr "問題のあるプラグインを削除してください。問題の原因となっているプラグインがわからない場合は "
+
+#: Template/info/plugin-problems.php:170
+msgid "folder. Each folder represents each plugin in the same name."
+msgstr "フォルダーになります。各フォルダは、同じ名前の各プラグインを表します。"
+
+#: Template/info/plugin-problems.php:179
+msgid "Further Reading"
+msgstr "さらに読む"
+
+#: Template/info/plugin-problems.php:186
+msgid "About Application"
+msgstr "アプリケーションについて"
+
+#: Template/info/plugin-problems.php:194
+msgid "Kanboard Forum"
+msgstr "カンボード・フォーラム"
+
+#: Template/info/plugin-problems.php:202
+msgid "Contributing"
+msgstr "貢献度"
+
+#: Template/info/plugin-problems.php:210
+msgid "Developing Plugins"
+msgstr "プラグインを開発する"
+
+#: Template/info/plugin-problems.php:218
+msgid "Source Code"
+msgstr "ソースコード"
+
+#: Template/info/plugin-problems.php:226
+msgid "Kanboard Plugins"
+msgstr "Kanboardプラグイン"
+
+#: Template/plugin/directory.php:11
+msgid "Your application instance is not configured to install plugins from the user interface."
+msgstr "アプリケーションインスタンスが、ユーザーインターフェースからプラグインをインストールするように設定されていない。"
+
+#: Template/plugin/directory.php:16
+msgid "There is no plugin available."
+msgstr "プラグインは用意されていません。"
+
+#: Template/plugin/directory.php:23
+msgid "Available Plugins"
+msgstr "利用可能なプラグイン"
+
+#: Template/plugin/directory.php:24
+msgid "Directory Source"
+msgstr "ディレクトリソース"
+
+#: Template/plugin/directory.php:25
+msgid "Your Application Version"
+msgstr "お客様のアプリケーションのバージョン"
+
+#: Template/plugin/directory.php:26 Template/plugin/directory.php:423
+msgid "Currently Installed"
+msgstr "現在インストールされているもの"
+
+#: Template/plugin/directory.php:34 Template/plugin/directory.php:333
+#: Template/plugin/directory.php:340 Template/plugin/manual-plugins.php:178
+#: Template/plugin/manual-plugins.php:185 Template/plugin/show.php:67
+#: Template/plugin/show.php:80 Template/plugin/show.php:186
+#: Template/plugin/show.php:199
+msgid "Opens in a new window"
+msgstr "新しいウィンドウで開きます"
+
+#: Template/plugin/directory.php:39
+msgid "Official Plugin Directory"
+msgstr "公式プラグインディレクトリ"
+
+#: Template/plugin/directory.php:42
+msgid "Custom Directory"
+msgstr "カスタムディレクトリ"
+
+#: Template/plugin/directory.php:56
+msgid "Filter Available Plugins"
+msgstr "利用可能なプラグインを絞り込む"
+
+#: Template/plugin/directory.php:61
+msgid "Search for plugin..."
+msgstr "プラグインを検索する..."
+
+#: Template/plugin/directory.php:61
+msgid "Search available plugins"
+msgstr "利用可能なプラグインを検索する"
+
+#: Template/plugin/directory.php:73
+msgid "General"
+msgstr "一般"
+
+#: Template/plugin/directory.php:103
+msgid "Automatic Actions"
+msgstr "オートマチックアクション"
+
+#: Template/plugin/directory.php:103 Template/plugin/show.php:32
+#: Template/plugin/show.php:148
+msgid "Actions"
+msgstr "アクション"
+
+#: Template/plugin/directory.php:116
+msgid "Themes"
+msgstr "テーマ"
+
+#: Template/plugin/directory.php:133
+msgid "Connectors"
+msgstr "コネクター"
+
+#: Template/plugin/directory.php:144
+msgid "Multi"
+msgstr "マルチ"
+
+#: Template/plugin/directory.php:152 Template/plugin/directory.php:157
+msgid "Others"
+msgstr "その他"
+
+#: Template/plugin/directory.php:174 Template/plugin/manual-plugins.php:22
+msgid "Directory Last Updated"
+msgstr "ディレクトリの最終更新日"
+
+#: Template/plugin/directory.php:175 Template/plugin/manual-plugins.php:24
+#: Template/plugin/show.php:140
+msgid "Go to the bottom of the page"
+msgstr "ページの一番下に移動する"
+
+#: Template/plugin/directory.php:175 Template/plugin/manual-plugins.php:25
+#: Template/plugin/show.php:140
+msgid "Bottom"
+msgstr "ボトム"
+
+#: Template/plugin/directory.php:265 Template/plugin/manual-plugins.php:120
+msgid "Plugin Author(s)"
+msgstr "プラグイン作成者"
+
+#: Template/plugin/directory.php:267 Template/plugin/manual-plugins.php:122
+msgid "License"
+msgstr "ライセンス"
+
+#: Template/plugin/directory.php:293 Template/plugin/manual-plugins.php:148
+msgid "Status"
+msgstr "ステータス"
+
+#: Template/plugin/directory.php:300 Template/plugin/directory.php:308
+#: Template/plugin/manual-plugins.php:154 Template/plugin/show.php:29
+#: Template/plugin/show.php:146
+msgid "Plugin Version"
+msgstr "プラグインバージョン"
+
+#: Template/plugin/directory.php:304
+msgid "Updated plugin version available"
+msgstr "プラグインのアップデート版を公開"
+
+#: Template/plugin/directory.php:326 Template/plugin/manual-plugins.php:171
+msgid "Unable to detect the last time this plugin was updated or a version was released"
+msgstr "このプラグインが最後に更新された、またはバージョンがリリースされたことを検出できない"
+
+#: Template/plugin/directory.php:327 Template/plugin/manual-plugins.php:172
+#: Template/plugin/show.php:167
+msgid "Not Specified"
+msgstr "特になし"
+
+#: Template/plugin/directory.php:333 Template/plugin/manual-plugins.php:178
+msgid "View Readme"
+msgstr "Readmeを見る"
+
+#: Template/plugin/directory.php:358 Template/plugin/manual-plugins.php:203
+msgid "This plugin contains no database changes"
+msgstr "このプラグインは、データベースの変更を含んでいません"
+
+#: Template/plugin/directory.php:366 Template/plugin/manual-plugins.php:211
+msgid "This plugin has not specified any database changes"
+msgstr "このプラグインは、データベースの変更を指定していない"
+
+#: Template/plugin/directory.php:374 Template/plugin/manual-plugins.php:219
+msgid "This plugin overrides certain templates or models"
+msgstr "このプラグインは、特定のテンプレートやモデルをオーバーライドします"
+
+#: Template/plugin/directory.php:381 Template/plugin/manual-plugins.php:226
+msgid "This plugin does not override any templates or models"
+msgstr "このプラグインは、テンプレートやモデルを上書きしません。"
+
+#: Template/plugin/directory.php:389 Template/plugin/manual-plugins.php:234
+msgid "This plugin has not specified any template or model overrides"
+msgstr "このプラグインは、テンプレートやモデルのオーバーライドを指定していません。"
+
+#: Template/plugin/directory.php:398 Template/plugin/manual-plugins.php:243
+msgid "This plugin contains hooks"
+msgstr "このプラグインにはフックが含まれています。"
+
+#: Template/plugin/directory.php:406 Template/plugin/manual-plugins.php:251
+msgid "This plugin does not contain any hooks"
+msgstr "本プラグインにはフックは含まれていません"
+
+#: Template/plugin/directory.php:413 Template/plugin/manual-plugins.php:258
+msgid "This plugin has not specified any hooks"
+msgstr "このプラグインは、フックを指定していません"
+
+#: Template/plugin/directory.php:421 Template/plugin/installer.php:15
+msgid "Install"
+msgstr "インストール"
+
+#: Template/plugin/directory.php:421
+msgid "Install this plugin"
+msgstr "このプラグインをインストールする"
+
+#: Template/plugin/directory.php:426
+msgid "Update"
+msgstr "アップデート"
+
+#: Template/plugin/directory.php:426
+msgid "Update this plugin"
+msgstr "このプラグインをアップデートする"
+
+#: Template/plugin/directory.php:428
+msgid "Up to date"
+msgstr "最新情報"
+
+#: Template/plugin/directory.php:433
+msgid "View in Plugin Manager"
+msgstr "プラグインマネージャーで見る"
+
+#: Template/plugin/directory.php:436 Template/plugin/manual-plugins.php:278
+msgid "Not available"
+msgstr "使用不可"
+
+#: Template/plugin/directory.php:449 Template/plugin/manual-plugins.php:309
+#: Template/plugin/show.php:225
+msgid "Go to the top of the page"
+msgstr "ページの先頭に戻る"
+
+#: Template/plugin/directory.php:449 Template/plugin/manual-plugins.php:310
+#: Template/plugin/show.php:225
+msgid "Top"
+msgstr "トップ"
+
+#: Template/plugin/installer.php:2
+msgid "Install Manual Plugin"
+msgstr "マニュアルプラグインのインストール"
+
+#: Template/plugin/installer.php:5
+msgid "Choose to install from a local archive (.zip) file or a remote location"
+msgstr "ローカルアーカイブ（.zip）ファイルまたはリモートロケーションからのインストールを選択します。"
+
+#: Template/plugin/installer.php:7
+msgid "From File"
+msgstr "ファイルから"
+
+#: Template/plugin/installer.php:11
+msgid "From URL"
+msgstr "URLから"
+
+#: Template/plugin/manual-plugins.php:16
+msgid "Warning"
+msgstr "警告"
+
+#: Template/plugin/manual-plugins.php:17
+msgid "Use these plugins with great caution and check their functionality with the plugin developer before installing"
+msgstr "これらのプラグインは、インストールする前にプラグイン開発者にその機能を確認し、十分に注意して使用してください。"
+
+#: Template/plugin/manual-plugins.php:265
+msgid "Download Plugin"
+msgstr "プラグインをダウンロード"
+
+#: Template/plugin/manual-plugins.php:269
+msgid "Download"
+msgstr "ダウンロード"
+
+#: Template/plugin/manual-plugins.php:271
+msgid "Copy download link"
+msgstr "ダウンロードリンクをコピーする"
+
+#: Template/plugin/manual-plugins.php:273 Template/plugin/show.php:118
+msgid "Copy to Clipboard"
+msgstr "クリップボードにコピーする"
+
+#: Template/plugin/manual-plugins.php:292
+msgid "This plugin is for developers"
+msgstr "このプラグインは開発者向けです"
+
+#: Template/plugin/manual-plugins.php:296
+msgid "This plugin is for translators and developers"
+msgstr "このプラグインは翻訳者、開発者向けです"
+
+#: Template/plugin/manual-plugins.php:303
+msgid "This plugin may not be completely functional. Always check the homepage for recent developments as the download link may not show the latest version."
+msgstr "このプラグインは完全に機能するとは限りません。ダウンロードリンクが最新版を表示しない場合がありますので、常にホームページで最新版をご確認ください。"
+
+#: Template/plugin/manual-plugins.php:313
+msgid "There are no manual plugins listed at the moment"
+msgstr "現在、手動プラグインは掲載されていません"
+
+#: Template/plugin/show.php:19
+msgid "Incompatible Plugins"
+msgstr "互換性のないプラグイン"
+
+#: Template/plugin/show.php:23
+msgid "Plugins listed as incompatible are based on the application version limit set by the plugin developer. You are using"
+msgstr "互換性がないと記載されているプラグインは、プラグイン開発者が設定したアプリケーションのバージョン制限に基づくものです。あなたが使用しているのは"
+
+#: Template/plugin/show.php:27 Template/plugin/show.php:144
+msgid "Name"
+msgstr "名称"
+
+#: Template/plugin/show.php:28 Template/plugin/show.php:145
+msgid "Author"
+msgstr "著者名"
+
+#: Template/plugin/show.php:30 Template/plugin/show.php:147
+msgid "Kanboard Compatibility"
+msgstr "カンボードとの互換性"
+
+#: Template/plugin/show.php:42 Template/plugin/show.php:157
+msgid "Installed Plugin"
+msgstr "インストールされているプラグイン"
+
+#: Template/plugin/show.php:80 Template/plugin/show.php:199
+msgid "Plugin Readme"
+msgstr "プラグインReadme"
+
+#: Template/plugin/show.php:90 Template/plugin/show.php:210
+msgid "Uninstall"
+msgstr "アンインストール"
+
+#: Template/plugin/show.php:100 Template/plugin/show.php:219
+msgid "Installed"
+msgstr "インストール済み"
+
+#: Template/plugin/show.php:111
+msgid "There is no plugin loaded."
+msgstr "プラグインが読み込まれていない。"
+
+#: Template/plugin/show.php:116
+msgid "Copy plugin list"
+msgstr "プラグインリストをコピーする"
+
+#: Template/plugin/show.php:116
+msgid "by"
+msgstr "で"
+
+#: Template/plugin/show.php:126
+msgid "Filter Installed Plugins"
+msgstr "インストール済みプラグインをフィルタリングする"
+
+#: Template/plugin/show.php:131
+msgid "Search for installed plugin..."
+msgstr "インストールされているプラグインを検索する..."
+
+#: Template/plugin/show.php:131
+msgid "Search installed plugins"
+msgstr "インストールされているプラグインを検索する"
+
+#: Template/plugin/show.php:138
+#, php-format
+msgid "You have %s plugins installed"
+msgstr "%s のプラグインがインストールされています。"
+
+#: Template/plugin/show.php:138
+#, php-format
+msgid "and %s incompatible plugin(s)"
+msgstr "および %s 互換性のないプラグインを使用しています。"
+
+#: Template/plugin/sidebar.php:43
+msgid "Technical Info"
+msgstr "技術情報"
+
+#: Template/plugin/sidebar.php:54
+msgid "Content Cleaner"
+msgstr "コンテンツクリーナー"
+
