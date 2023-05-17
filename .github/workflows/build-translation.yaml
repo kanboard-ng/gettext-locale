@@ -16,6 +16,9 @@ jobs:
       contents: write
 
     steps:
+      - name: install gettext
+        run: sudo apt install -y gettext
+
       - name: checkout gettext-locale
         uses: actions/checkout@v3
 
