@@ -1,0 +1,27 @@
+name: "Build Translation"
+
+# runs on push to "main" and only for "*.pot" files in root
+on: 
+  push:
+    paths:
+      - "**.po"
+    branches: [ main ]
+  workflow_dispatch:
+  
+
+jobs:
+  CrowdinTasks:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: checkout gettext-locale
+        uses: actions/checkout@v3
+
+      - name: create mo-files
+        run: |
+             find ./ -name "*.po" -execdir bash -c 'msgfmt "$0" -o `basename $0 .po`.mo' '{}' \;
+
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
