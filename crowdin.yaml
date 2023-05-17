@@ -4,7 +4,7 @@ preserve_hierarchy: true
 files:
   -
     source: '*.pot'
-    translation: '%locale_with_underscore%/LC_MESSAGES/%filename%.po'
+    translation: '%locale_with_underscore%/LC_MESSAGES/%file_name%.po'
     escape_quotes: 2
     escape_special_characters: 1
     skip_untranslated_strings: true
