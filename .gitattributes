@@ -9,3 +9,6 @@
 
 # ignore Netbeans Project Files
 /nbproject export-ignore
+
+# ignore **.po (Translation Source)
+**.po* export-ignore
