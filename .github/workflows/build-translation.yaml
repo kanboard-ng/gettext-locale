@@ -4,7 +4,7 @@ name: "Build Translation"
 on: 
   push:
     paths:
-      - "**.po"
+      - "assets/crowdin-stats.json"
     branches: [ main ]
   workflow_dispatch:
   
