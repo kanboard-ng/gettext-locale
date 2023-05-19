@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 19:28+0200\n"
-"PO-Revision-Date: 2023-05-18 13:39\n"
+"PO-Revision-Date: 2023-05-19 09:10\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -505,7 +505,7 @@ msgstr "Dateien können nicht hochgeladen werden, überprüfen Sie die Berechtig
 
 #: kanboard-ng/kanboard-ng/app/Controller/BoardAjaxController.php:34
 msgid "You don't have the permission to move this task"
-msgstr "Sie haben nicht die Erlaubnis, diese Aufgabe zu verschieben"
+msgstr "Sie haben nicht die Berechtigung, diese Aufgabe zu verschieben"
 
 #: kanboard-ng/kanboard-ng/app/Controller/BoardPopoverController.php:44
 #, php-format
@@ -1359,7 +1359,7 @@ msgstr "Globales Schlagwort-Management"
 #: kanboard-ng/kanboard-ng/app/Controller/TaskBulkMoveColumnController.php:36
 #: kanboard-ng/kanboard-ng/app/Controller/TaskMovePositionController.php:39
 msgid "You are not allowed to move this task."
-msgstr "Sie haben nicht die Berechtigung, diese Aufgabe zu verschieben."
+msgstr "Sie dürfen diese Aufgabe nicht verschieben."
 
 #: kanboard-ng/kanboard-ng/app/Controller/TaskCreationController.php:57
 #: kanboard-ng/kanboard-ng/app/Controller/TaskDuplicationController.php:94
@@ -1649,7 +1649,7 @@ msgstr "Unbekannt"
 #: kanboard-ng/kanboard-ng/app/Core/Mail/Client.php:74
 #, php-format
 msgid "%s via Kanboard"
-msgstr "%s via Kanboard"
+msgstr "%s über Kanboard"
 
 #: kanboard-ng/kanboard-ng/app/Core/Paginator.php:413 app/Core/Paginator.php:419
 #: kanboard-ng/kanboard-ng/app/Core/Paginator.php:424
@@ -1676,7 +1676,7 @@ msgstr "Plugin nicht gefunden."
 
 #: kanboard-ng/kanboard-ng/app/Core/Plugin/Installer.php:63
 msgid "You don't have the permission to remove this plugin."
-msgstr "Sie dürfen dieses Plugin nicht entfernen."
+msgstr "Sie haben nicht die Berechtigung dieses Plugin zu entfernen."
 
 #: kanboard-ng/kanboard-ng/app/Core/Plugin/Installer.php:107
 msgid "Unable to download plugin archive."
@@ -1796,7 +1796,7 @@ msgstr "Teilaufgabe der Aufgabe #%d entfernt"
 #: kanboard-ng/kanboard-ng/app/EventBuilder/TaskEventBuilder.php:141
 #, php-format
 msgid "%s changed the assignee of the task #%d to %s"
-msgstr "%s hat die Zuständigkeit der Aufgabe #%d geändert zu %s"
+msgstr "%s hat die Zuweisung der Aufgabe #%d geändert, an %s"
 
 #: kanboard-ng/kanboard-ng/app/EventBuilder/TaskEventBuilder.php:144
 #: kanboard-ng/kanboard-ng/app/Formatter/SubtaskTimeTrackingCalendarFormatter.php:25
@@ -1831,7 +1831,7 @@ msgstr "Nr %d"
 #: kanboard-ng/kanboard-ng/app/Template/event/task_assignee_change.php:11
 #, php-format
 msgid "%s removed the assignee of the task %s"
-msgstr "%s Zuordnung für die Aufgabe %s entfernen"
+msgstr "%s hat die Zuweisung der Aufgabe %s entfernt"
 
 #: kanboard-ng/kanboard-ng/app/EventBuilder/TaskEventBuilder.php:146
 #, php-format
@@ -1902,7 +1902,7 @@ msgstr "Aufgabe #%d geschlossen"
 #: kanboard-ng/kanboard-ng/app/EventBuilder/TaskEventBuilder.php:213
 #, php-format
 msgid "Task #%d opened"
-msgstr "Aufgabe #%d eröffnet"
+msgstr "Aufgabe #%d geöffnet"
 
 #: kanboard-ng/kanboard-ng/app/EventBuilder/TaskEventBuilder.php:215
 #: kanboard-ng/kanboard-ng/app/Template/notification/task_move_project.php:5
@@ -1928,7 +1928,7 @@ msgstr "Neue Swimlane für Aufgabe #%d"
 #: kanboard-ng/kanboard-ng/app/EventBuilder/TaskEventBuilder.php:223
 #, php-format
 msgid "Assignee changed on task #%d"
-msgstr "Neue Zuordnung für Aufgabe #%d"
+msgstr "Zuweisung für Aufgabe #%d geändert"
 
 #: kanboard-ng/kanboard-ng/app/EventBuilder/TaskEventBuilder.php:226
 #, php-format
@@ -1979,7 +1979,7 @@ msgstr "%s hat eine interne Verbindung von der Aufgabe #%d entfernt"
 #: kanboard-ng/kanboard-ng/app/EventBuilder/TaskLinkEventBuilder.php:82
 #, php-format
 msgid "A new internal link for the task #%d has been defined"
-msgstr "Eine neue interne Verbindung für die Aufgabe #%d wurde definiert"
+msgstr "Eine neue interne Verbindung für die Aufgabe #%d wurde erstellt"
 
 #: kanboard-ng/kanboard-ng/app/EventBuilder/TaskLinkEventBuilder.php:84
 #, php-format
@@ -1988,7 +1988,7 @@ msgstr "Interne Verbindung in der Aufgabe #%d wurde entfernt"
 
 #: kanboard-ng/kanboard-ng/app/Export/SubtaskExport.php:57
 msgid "Subtask Id"
-msgstr "Teilaufgaben-ID"
+msgstr "Teilaufgabe Id"
 
 #: kanboard-ng/kanboard-ng/app/Export/SubtaskExport.php:58 app/Export/TaskExport.php:158
 #: kanboard-ng/kanboard-ng/app/Helper/FormHelper.php:238 app/Helper/SubtaskHelper.php:108
@@ -2031,11 +2031,11 @@ msgstr "Aufgewendete Zeit"
 
 #: kanboard-ng/kanboard-ng/app/Export/SubtaskExport.php:63 app/Export/TaskExport.php:143
 msgid "Task Id"
-msgstr "Aufgaben-ID"
+msgstr "Aufgabe Id"
 
 #: kanboard-ng/kanboard-ng/app/Export/SubtaskExport.php:64 app/Export/TransitionExport.php:46
 msgid "Task Title"
-msgstr "Aufgaben-Titel"
+msgstr "Aufgaben Titel"
 
 #: kanboard-ng/kanboard-ng/app/Export/TaskExport.php:115 app/Template/analytic/time_comparison.php:25
 #: kanboard-ng/kanboard-ng/app/Template/analytic/time_comparison.php:46
@@ -2948,7 +2948,7 @@ msgstr "Gesamt für alle Spalten"
 #: kanboard-ng/kanboard-ng/app/Template/analytic/burndown.php:13 app/Template/analytic/cfd.php:12
 #, php-format
 msgid "%%Y-%%m-%%d"
-msgstr "%%d.%%m.%%Y"
+msgstr "%%Y-%%m-%%d"
 
 #: kanboard-ng/kanboard-ng/app/Template/analytic/burndown.php:22 app/Template/analytic/cfd.php:21
 #: kanboard-ng/kanboard-ng/app/Template/analytic/lead_cycle_time.php:26

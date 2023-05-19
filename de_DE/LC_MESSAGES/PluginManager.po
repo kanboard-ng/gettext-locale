@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 19:30+0200\n"
-"PO-Revision-Date: 2023-05-18 13:39\n"
+"PO-Revision-Date: 2023-05-19 09:10\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -53,7 +53,7 @@ msgstr "Plugin-Archivdatei nicht gefunden"
 
 #: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:136 Template/plugin/sidebar.php:28
 msgid "Plugin Info"
-msgstr "Plugin-Informationen"
+msgstr "Plugin Informationen"
 
 #: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:150 Template/plugin/manual-plugins.php:8
 #: kanboard-ng/PluginMananger/Template/plugin/sidebar.php:21
@@ -79,13 +79,13 @@ msgstr "vor weniger als einer Minute"
 #: kanboard-ng/PluginMananger/Helper/AgeHelper.php:37
 #, php-format
 msgid "around %d minutes ago"
-msgstr "vor ungefähr %d Minuten"
+msgstr "vor etwa %d Minuten"
 
 #. <1h
 #: kanboard-ng/PluginMananger/Helper/AgeHelper.php:38
 #, php-format
 msgid "around %d hours ago"
-msgstr "vor ungefähr %d Stunden"
+msgstr "vor etwa %d Stunden"
 
 #. <24h
 #: kanboard-ng/PluginMananger/Helper/AgeHelper.php:39
@@ -97,13 +97,13 @@ msgstr "vor etwa %d Tagen"
 #: kanboard-ng/PluginMananger/Helper/AgeHelper.php:40
 #, php-format
 msgid "around %d weeks ago"
-msgstr "um %d vor Wochen"
+msgstr "vor etwa %d Wochen"
 
 #. <30D
 #: kanboard-ng/PluginMananger/Helper/AgeHelper.php:41
 #, php-format
 msgid "around %d months ago"
-msgstr "um %d vor Monaten"
+msgstr "vor etwa %d Monaten"
 
 #. <360D
 #: kanboard-ng/PluginMananger/Helper/AgeHelper.php:42
@@ -113,7 +113,7 @@ msgstr "vor mehr als einem Jahr"
 #: kanboard-ng/PluginMananger/Helper/AgeHelper.php:44
 #, php-format
 msgid "over %d years ago"
-msgstr "über %d vor Jahren"
+msgstr "vor über %d Jahren"
 
 #: kanboard-ng/PluginMananger/Helper/PluginManagerHelper.php:83
 msgid "Not Available"
@@ -121,7 +121,7 @@ msgstr "Nicht verfügbar"
 
 #: kanboard-ng/PluginMananger/Plugin.php:63
 msgid "Replace the Installed Plugins section with a whole new interface. Plugin Manager provides both users and developers with an improved comprehensive layout displaying a new section for troubleshooting plugins with a new plugin structure breakdown for each plugin. Install plugins direct from the Plugin Directory or explore new upcoming or untested features from manual plugins."
-msgstr "Ersetzen Sie den Abschnitt Installierte Plugins durch eine völlig neue Oberfläche. Der Plugin-Manager bietet sowohl Benutzern als auch Entwicklern ein verbessertes, umfassendes Layout mit einem neuen Abschnitt für die Fehlersuche bei Plugins und einer neuen Aufschlüsselung der Plugin-Struktur für jedes Plugin. Installieren Sie Plugins direkt aus dem Plugin-Verzeichnis oder erforschen Sie neue oder noch nicht getestete Funktionen von manuellen Plugins."
+msgstr "Ersetzen Sie den Abschnitt Installierte Plugins durch eine völlig neue Oberfläche. Der Plugin Manager bietet sowohl Benutzern als auch Entwicklern ein verbessertes, umfassendes Layout mit einem neuen Abschnitt für die Fehlersuche bei Plugins und einer neuen Aufschlüsselung der Plugin Struktur für jedes Plugin. Installieren Sie Plugins direkt aus dem Plugin Verzeichnis oder erforschen Sie neue oder noch nicht getestete Funktionen von manuellen Plugins."
 
 #: kanboard-ng/PluginMananger/Template/config/sidebar.php:2 Template/plugin/show.php:11 Template/plugin/sidebar.php:7
 msgid "Plugin Manager"
@@ -166,7 +166,7 @@ msgstr "Bis zu 1 Jahr"
 
 #: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:18
 msgid "Stale"
-msgstr "Muffig"
+msgstr "Inaktiv"
 
 #: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:19
 msgid "1 - 2 years"
@@ -229,7 +229,7 @@ msgstr "Action Plugin"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:54
 msgid "A plugin for automatic actions only"
-msgstr "Ein Plugin nur für automatische Aktionen"
+msgstr "Ein Plugin nur für automatisierte Aktionen"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:61 Template/info/plugin-info.php:71 Template/plugin/directory.php:109
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:222 Template/plugin/manual-plugins.php:77
@@ -238,12 +238,12 @@ msgstr "Theme Plugin"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:69
 msgid "A plugin for theming and styling of the interface"
-msgstr "Ein Plugin für das Theming und das Styling der Benutzeroberfläche"
+msgstr "Ein Plugin für das Theme und Styling der Benutzeroberfläche"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:76 Template/info/plugin-info.php:90 Template/plugin/directory.php:122
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:233 Template/plugin/manual-plugins.php:88
 msgid "Connector Plugin"
-msgstr "Stecker-Plugin"
+msgstr "Anbindungserweiterung"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:88
 msgid "A plugin connecting to third party services - may contain automatic actions"
@@ -252,32 +252,32 @@ msgstr "Ein Plugin, das sich mit Diensten Dritter verbindet - kann automatische 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:95 Template/info/plugin-info.php:103 Template/plugin/directory.php:139
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:248 Template/plugin/manual-plugins.php:103
 msgid "Multi Plugin"
-msgstr "Multi-Plugin"
+msgstr "Mehrfacherweiterung"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:101
 msgid "A plugin containing multiple functions and automatic actions or connectors"
-msgstr "Ein Plugin mit mehreren Funktionen und automatischen Aktionen oder Verbindungen"
+msgstr "Eine Erweiterung mit mehreren Funktionen, automatischen Aktionen oder Verbindungen"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:111 Template/info/plugin-info.php:119
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:259 Template/plugin/manual-plugins.php:114
 msgid "Other Plugin"
-msgstr "Anderes Plugin"
+msgstr "Andere Erweiterung"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:117
 msgid "A plugin which has not been set a plugin type by the developer"
-msgstr "Ein Plugin, dem vom Entwickler kein Plugin-Typ zugewiesen wurde"
+msgstr "Eine Erweiterung bei der, vom Entwickler, keine Erweiterungsart angegeben wurde"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:123
 msgid "Plugin types are only shown in the"
-msgstr "Die Plugin-Typen werden nur in der"
+msgstr "Erweiterungsarten werden nur in der"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:123 Template/plugin/directory.php:6 Template/plugin/sidebar.php:13
 msgid "Plugin Directory"
-msgstr "Plugin-Verzeichnis"
+msgstr "Erweiterungsverzeichnis"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:126
 msgid "The official Plugins Directory has been updated to include extra information for each plugin. This information is set by the developer to indicate the code breakdown of the plugin."
-msgstr "Das offizielle Plugins-Verzeichnis wurde aktualisiert und enthält nun zusätzliche Informationen zu jedem Plugin. Diese Informationen werden vom Entwickler eingestellt, um die Aufschlüsselung des Codes des Plugins anzugeben."
+msgstr "Das offizielle Erweiterungsverzeichnis wurde aktualisiert und enthält nun zusätzliche Informationen zu jeder Erweiterung. Diese Informationen werden vom Entwickler bereitgestellt, um die Zuordnung anzugeben."
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:129
 msgid "Documentation"
@@ -285,21 +285,21 @@ msgstr "Dokumentation"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:133 Template/plugin/show.php:82 Template/plugin/show.php:201
 msgid "Readme"
-msgstr "Liesmich"
+msgstr "Readme"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:137
 msgid "All plugins should have a readme file in the root of their plugin folder. This icons should show against all plugins."
-msgstr "Alle Plugins sollten eine Readme-Datei im Stammverzeichnis ihres Plugin-Ordners haben. Diese Symbole sollten bei allen Plugins angezeigt werden."
+msgstr "Alle Erweiterungen sollten eine Readme-Datei im Stammverzeichnis ihres Plugin-Ordners haben. Diese Symbole sollten bei allen Erweiterungen angezeigt werden."
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:142 Template/plugin/directory.php:340
 #: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:185 Template/plugin/show.php:67 Template/plugin/show.php:69
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:186 Template/plugin/show.php:188
 msgid "Plugin Homepage"
-msgstr "Plugin Homepage"
+msgstr "Erweiterungswebseite"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:147
 msgid "When links go wrong you should always be able to fallback to the plugin or developer homepage. This icon will show against all plugins which have a homepage set by the developer."
-msgstr "Wenn Links fehlschlagen, sollten Sie immer auf die Homepage des Plugins oder des Entwicklers zurückgreifen können. Dieses Symbol wird bei allen Plugins angezeigt, für die der Entwickler eine Homepage eingerichtet hat."
+msgstr "Wenn Links fehlschlagen, sollten Sie immer auf die Webseite der Erweiterung oder des Entwicklers zurückgreifen können. Dieses Symbol wird bei allen Erweiterungen angezeigt, für die der Entwickler eine Webseite angegeben hat."
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:151
 msgid "Database Changes"
@@ -307,7 +307,7 @@ msgstr "Datenbank Änderungen"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:165
 msgid "If a plugin is known to alter your database, this icon will show. Altering your database usually includes adding or modifying existing database tables."
-msgstr "Wenn bekannt ist, dass ein Plugin Ihre Datenbank verändert, wird dieses Symbol angezeigt. Die Veränderung Ihrer Datenbank umfasst in der Regel das Hinzufügen oder Ändern von bestehenden Datenbanktabellen."
+msgstr "Wenn bekannt ist, dass eine Erweiterung Ihre Datenbank verändert, wird dieses Symbol angezeigt. Die Veränderung Ihrer Datenbank umfasst in der Regel das Hinzufügen oder Ändern von bestehenden Datenbanktabellen."
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-info.php:174
 msgid "No database changes are detected when this icon shows."
@@ -355,7 +355,7 @@ msgstr "Suchen Sie nach Modellen in "
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:42
 msgid "Overriding templates and models are the most common way to affect the way your application functions. It can be possible that a particular template could be conflicting with another plugin overriding the same template. It is also possible that a certain model is being used by another plugin. For any plugin that is not working or causing issues, this is the area to look into first."
-msgstr "Das Überschreiben von Vorlagen und Modellen ist der häufigste Weg, die Funktionsweise Ihrer Anwendung zu beeinflussen. Es ist möglich, dass eine bestimmte Vorlage mit einem anderen Plugin, das dieselbe Vorlage überschreibt, in Konflikt gerät. Es ist auch möglich, dass ein bestimmtes Modell von einem anderen Plugin verwendet wird. Bei jedem Plugin, das nicht funktioniert oder Probleme verursacht, sollten Sie sich zuerst mit diesem Bereich befassen."
+msgstr "Das Überschreiben von Vorlagen und Modellen ist der häufigste Weg, die Funktionsweise Ihrer Anwendung zu beeinflussen. Es ist möglich, dass eine bestimmte Vorlage mit einer anderen Erweiterung, die dieselbe Vorlage überschreibt, in Konflikt gerät. Es ist auch möglich, dass ein bestimmtes Modell von einer anderen Erweiterung verwendet wird. Bei jeder Erweiterung, die nicht funktioniert oder Probleme verursacht, sollten Sie sich zuerst mit diesem Bereich befassen."
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:51
 msgid "Check the application setup"
@@ -399,15 +399,15 @@ msgstr "Prüfen Sie die Datenbanktabellen"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:138
 msgid "Plugin database tables are not automatically deleted when a plugin is uninstalled"
-msgstr "Plugin-Datenbanktabellen werden nicht automatisch gelöscht, wenn ein Plugin deinstalliert wird"
+msgstr "Datenbanktabellen von Erweiterungen werden nicht automatisch gelöscht, wenn eine Erweiterung entfernt wird"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:143
 msgid "In the Plugin Manager, all plugins are identified if they contain potential database changes. This is your indication to check for extra tables in the plugin's name. If you decide to remove the plugin which causes you issues, the default the tables in the database will remain. You will need to carefully delete them according to your setup."
-msgstr "Im Plugin-Manager werden alle Plugins gekennzeichnet, die potenzielle Datenbankänderungen enthalten. Dies ist ein Hinweis darauf, dass im Namen des Plugins zusätzliche Tabellen enthalten sind. Wenn Sie sich entscheiden, das Plugin, das Ihnen Probleme bereitet, zu entfernen, bleiben die Standardtabellen in der Datenbank erhalten. Sie müssen sie dann entsprechend Ihrer Einrichtung sorgfältig löschen."
+msgstr "Im Plugin Manager werden alle Plugins gekennzeichnet, die potenzielle Datenbankänderungen enthalten. Dies ist ein Hinweis darauf, dass im Namen des Plugins zusätzliche Tabellen enthalten sind. Wenn Sie sich entscheiden, das Plugin, das Ihnen Probleme bereitet, zu entfernen, bleiben die Standardtabellen in der Datenbank erhalten. Sie müssen sie dann entsprechend Ihrer Einrichtung sorgfältig löschen."
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:146
 msgid "Plugins which affect the database also register into the "
-msgstr "Plugins, die die Datenbank betreffen, registrieren sich auch in der "
+msgstr "Erweiterungen, die die Datenbank betreffen, registrieren sich auch in der "
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:146
 msgid "table. If uninstalling a plugin, you would need to delete the associated plugin entry here too besides just the specific plugin related tables."
@@ -419,19 +419,19 @@ msgstr "Wenn alles fehlschlägt"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:165
 msgid "Delete the folder for the plugin. It is highly likely that the last updated folder will be the offending plugin."
-msgstr "Löschen Sie den Ordner für das Plugin. Es ist sehr wahrscheinlich, dass der zuletzt aktualisierte Ordner das störende Plugin ist."
+msgstr "Löschen Sie den Ordner der Erweiterung. Es ist sehr wahrscheinlich, dass der zuletzt aktualisierte Ordner die störende Erweiterung ist."
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:170
 msgid "Delete the offending plugin. If you dont know which plugin is causing your issue, check the "
-msgstr "Löschen Sie das störende Plugin. Wenn Sie nicht wissen, welches Plugin Ihr Problem verursacht, prüfen Sie die "
+msgstr "Löschen Sie die störende Erweiterung. Wenn Sie nicht wissen, welche Erweiterung Ihr Problem verursacht, prüfen Sie die "
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:170
 msgid "folder. Each folder represents each plugin in the same name."
-msgstr "Ordner. Jeder Ordner steht für jedes Plugin mit demselben Namen."
+msgstr "ordner. Jeder Ordner steht für jedes Plugin mit demselben Namen."
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:179
 msgid "Further Reading"
-msgstr "Weitere Lektüre"
+msgstr "Weitere Informationen"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:186
 msgid "About Application"
@@ -443,11 +443,11 @@ msgstr "Kanboard Forum"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:202
 msgid "Contributing"
-msgstr "Beitragender"
+msgstr "Beigetragen von"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:210
 msgid "Developing Plugins"
-msgstr "Entwicklung von Plugins"
+msgstr "Entwicklung von Erweiterungen"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:218
 msgid "Source Code"
@@ -455,19 +455,19 @@ msgstr "Quellcode"
 
 #: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:226
 msgid "Kanboard Plugins"
-msgstr "Kanboard-Plugins"
+msgstr "Kanboard Plugins"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:11
 msgid "Your application instance is not configured to install plugins from the user interface."
-msgstr "Ihre Anwendungsinstanz ist nicht für die Installation von Plugins über die Benutzeroberfläche konfiguriert."
+msgstr "Ihre Anwendungsinstanz ist nicht für die Installation von Erweiterungen über die Benutzeroberfläche konfiguriert."
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:16
 msgid "There is no plugin available."
-msgstr "Es ist kein Plugin verfügbar."
+msgstr "Es ist keine Erweiterung verfügbar."
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:23
 msgid "Available Plugins"
-msgstr "Verfügbare Plugins"
+msgstr "Verfügbare Erweiterungen"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:24
 msgid "Directory Source"
@@ -490,7 +490,7 @@ msgstr "Öffnet in einem neuen Fenster"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:39
 msgid "Official Plugin Directory"
-msgstr "Offizielles Plugin-Verzeichnis"
+msgstr "Offizielles Erweiterungsverzeichnis"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:42
 msgid "Custom Directory"
@@ -498,15 +498,15 @@ msgstr "Benutzerdefiniertes Verzeichnis"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:56
 msgid "Filter Available Plugins"
-msgstr "Verfügbare Plugins filtern"
+msgstr "Verfügbare Erweiterungen filtern"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:61
 msgid "Search for plugin..."
-msgstr "Suchen Sie nach einem Plugin..."
+msgstr "Suchen Sie nach einer Erweiterung..."
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:61
 msgid "Search available plugins"
-msgstr "Verfügbare Plugins suchen"
+msgstr "Verfügbare Erweiterungen suchen"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:73
 msgid "General"
@@ -538,7 +538,7 @@ msgstr "Andere"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:174 Template/plugin/manual-plugins.php:22
 msgid "Directory Last Updated"
-msgstr "Verzeichnis Zuletzt aktualisiert"
+msgstr "Verzeichnis zuletzt aktualisiert"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:175 Template/plugin/manual-plugins.php:24 Template/plugin/show.php:140
 msgid "Go to the bottom of the page"
@@ -580,7 +580,7 @@ msgstr "Nicht spezifiziert"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:333 Template/plugin/manual-plugins.php:178
 msgid "View Readme"
-msgstr "Liesmich ansehen"
+msgstr "README anzeigen"
 
 #: kanboard-ng/PluginMananger/Template/plugin/directory.php:358 Template/plugin/manual-plugins.php:203
 msgid "This plugin contains no database changes"
@@ -658,11 +658,11 @@ msgstr "Manuelles Plugin installieren"
 
 #: kanboard-ng/PluginMananger/Template/plugin/installer.php:5
 msgid "Choose to install from a local archive (.zip) file or a remote location"
-msgstr "Wählen Sie die Installation aus einer lokalen Archivdatei (.zip) oder von einem entfernten Speicherort"
+msgstr "Wählen Sie die Installation aus einer lokalen Archivdatei (zip) oder von einem entfernten Speicherort"
 
 #: kanboard-ng/PluginMananger/Template/plugin/installer.php:7
 msgid "From File"
-msgstr "Von Datei"
+msgstr "Aus Datei"
 
 #: kanboard-ng/PluginMananger/Template/plugin/installer.php:11
 msgid "From URL"
@@ -674,11 +674,11 @@ msgstr "Warnung"
 
 #: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:17
 msgid "Use these plugins with great caution and check their functionality with the plugin developer before installing"
-msgstr "Verwenden Sie diese Plugins mit großer Vorsicht und überprüfen Sie ihre Funktionalität mit dem Plugin-Entwickler, bevor Sie sie installieren"
+msgstr "Verwenden Sie diese Erweiterung mit großer Vorsicht und überprüfen Sie ihre Funktionalität mit dem Plugin-Entwickler, bevor Sie sie installieren"
 
 #: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:265
 msgid "Download Plugin"
-msgstr "Plugin herunterladen"
+msgstr "Erweiterung herunterladen"
 
 #: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:269
 msgid "Download"
@@ -694,27 +694,27 @@ msgstr "In die Zwischenablage kopieren"
 
 #: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:292
 msgid "This plugin is for developers"
-msgstr "Dieses Plugin ist für Entwickler"
+msgstr "Diese Erweiterung ist für Entwickler"
 
 #: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:296
 msgid "This plugin is for translators and developers"
-msgstr "Dieses Plugin ist für Übersetzer und Entwickler"
+msgstr "Diese Erweiterung ist für Übersetzer und Entwickler"
 
 #: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:303
 msgid "This plugin may not be completely functional. Always check the homepage for recent developments as the download link may not show the latest version."
-msgstr "Dieses Plugin ist möglicherweise nicht vollständig funktionsfähig. Prüfen Sie immer die Homepage auf aktuelle Entwicklungen, da der Download-Link möglicherweise nicht die neueste Version anzeigt."
+msgstr "Diese Erweiterung ist möglicherweise nicht vollständig funktionsfähig. Prüfen Sie immer die Webseite auf aktuelle Entwicklungen, weil der Download-Link möglicherweise nicht die neueste Version anzeigt."
 
 #: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:313
 msgid "There are no manual plugins listed at the moment"
-msgstr "Zur Zeit sind keine manuellen Plugins aufgelistet"
+msgstr "Zurzeit sind keine manuell installierten Erweiterungen aufgelistet"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:19
 msgid "Incompatible Plugins"
-msgstr "Inkompatible Plugins"
+msgstr "Inkompatible Erweiterung"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:23
 msgid "Plugins listed as incompatible are based on the application version limit set by the plugin developer. You are using"
-msgstr "Die als inkompatibel aufgeführten Plugins basieren auf der vom Plugin-Entwickler festgelegten Versionsgrenze der Anwendung. Sie verwenden"
+msgstr "Die als inkompatibel aufgeführten Erweiterungen basieren auf der vom Entwickler festgelegten Versionsgrenze der Anwendung. Sie verwenden"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:27 Template/plugin/show.php:144
 msgid "Name"
@@ -730,15 +730,15 @@ msgstr "Kanboard Kompatibilität"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:42 Template/plugin/show.php:157
 msgid "Installed Plugin"
-msgstr "Installiertes Plugin"
+msgstr "Installierte Erweiterung"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:80 Template/plugin/show.php:199
 msgid "Plugin Readme"
-msgstr "Plugin-Liesmich"
+msgstr "Plugin Readme"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:90 Template/plugin/show.php:210
 msgid "Uninstall"
-msgstr "Deinstallieren Sie"
+msgstr "Deinstallieren"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:100 Template/plugin/show.php:219
 msgid "Installed"
@@ -746,11 +746,11 @@ msgstr "Installiert"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:111
 msgid "There is no plugin loaded."
-msgstr "Es ist kein Plugin geladen."
+msgstr "Es ist keine Erweiterung geladen."
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:116
 msgid "Copy plugin list"
-msgstr "Plugin-Liste kopieren"
+msgstr "Erweiterungsliste kopieren"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:116
 msgid "by"
@@ -758,20 +758,20 @@ msgstr "von"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:126
 msgid "Filter Installed Plugins"
-msgstr "Installierte Plugins filtern"
+msgstr "Installierte Erweiterungen filtern"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:131
 msgid "Search for installed plugin..."
-msgstr "Suchen Sie nach dem installierten Plugin..."
+msgstr "Suche nach installierten Erweiterungen..."
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:131
 msgid "Search installed plugins"
-msgstr "Installierte Plugins suchen"
+msgstr "Installierte Erweiterungen suchen"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:138
 #, php-format
 msgid "You have %s plugins installed"
-msgstr "Sie haben %s Plugins installiert"
+msgstr "Sie haben %s Erweiterungen installiert"
 
 #: kanboard-ng/PluginMananger/Template/plugin/show.php:138
 #, php-format
