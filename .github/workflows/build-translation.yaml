@@ -3,8 +3,7 @@ name: "Build Translation"
 # runs on push to "main" and only for "*.pot" files in root
 on: 
   push:
-    paths:
-      - "assets/crowdin-stats.json"
+    paths: [ 'assets/crowdin-stats.json' ]
     branches: [ main ]
   workflow_dispatch:
   
