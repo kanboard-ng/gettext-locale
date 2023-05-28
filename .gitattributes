@@ -12,3 +12,6 @@
 
 # ignore **.po (Translation Source)
 **.po* export-ignore
+
+# ignore **.po (Translation Source)
+/vendor export-ignore
