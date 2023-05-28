@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 23:23+0200\n"
-"PO-Revision-Date: 2023-05-28 21:24\n"
+"PO-Revision-Date: 2023-05-28 22:01\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -27,761 +27,761 @@ msgstr ""
 "Language: el_GR\n"
 
 #. phpcs:enable
-#: Controller/PluginManagerController.php:30 Controller/PluginManagerController.php:43 Controller/PluginManagerController.php:57
-#: Template/config/sidebar.php:2 Template/plugin/show.php:11 Template/plugin/sidebar.php:9
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:30 Controller/PluginManagerController.php:43 Controller/PluginManagerController.php:57
+#: kanboard-ng/PluginMananger/Template/config/sidebar.php:2 Template/plugin/show.php:11 Template/plugin/sidebar.php:9
 msgid "Plugin Manager"
 msgstr "Διαχειριστής πρόσθετων"
 
-#: Controller/PluginManagerController.php:30 Template/info/plugin-problems.php:3 Template/plugin/sidebar.php:24
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:30 Template/info/plugin-problems.php:3 Template/plugin/sidebar.php:24
 msgid "Plugin Problems"
 msgstr "Προβλήματα Plugin"
 
-#: Controller/PluginManagerController.php:43 Template/plugin/sidebar.php:21
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:43 Template/plugin/sidebar.php:21
 msgid "Plugin Info"
 msgstr "Πληροφορίες για το πρόσθετο"
 
-#: Controller/PluginManagerController.php:57 Template/plugin/manual-plugins.php:3 Template/plugin/sidebar.php:17
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:57 Template/plugin/manual-plugins.php:3 Template/plugin/sidebar.php:17
 msgid "Manual Plugins"
 msgstr "Χειροκίνητα plugins"
 
-#: Controller/PluginManagerController.php:119
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:119
 msgid "Unable to open the plugin archive"
-msgstr ""
+msgstr "Αδυναμία ανοίγματος του αρχείου του πρόσθετου"
 
-#: Controller/PluginManagerController.php:127
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:127
 #, php-format
 msgid "The directory name (%s) does not match with the namespace (%s)"
-msgstr ""
+msgstr "Το όνομα του καταλόγου (%s) δεν ταιριάζει με το χώρο ονομάτων (%s)"
 
-#: Controller/PluginManagerController.php:133
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:133
 #, php-format
 msgid "The plugin name (%s) does not match with the namespace (%s)"
-msgstr ""
+msgstr "Το όνομα του πρόσθετου (%s) δεν ταιριάζει με το χώρο ονομάτων (%s)"
 
-#: Controller/PluginManagerController.php:138
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:138
 msgid "Unable to extract the plugin archive"
-msgstr ""
+msgstr "Δεν είναι δυνατή η εξαγωγή του αρχείου του πρόσθετου"
 
-#: Controller/PluginManagerController.php:144
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:144
 msgid "Plugin installed successfully"
 msgstr "Το πρόσθετο εγκαταστάθηκε με επιτυχία"
 
-#: Controller/PluginManagerController.php:152
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:152
 msgid "Plugin archive file not found"
 msgstr "Δεν βρέθηκε το αρχείο αρχειοθέτησης του πρόσθετου"
 
-#: Controller/PluginManagerController.php:199
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:199
 msgid "Plugin directory name was not found"
-msgstr ""
+msgstr "Το όνομα του καταλόγου του πρόσθετου δεν βρέθηκε"
 
-#: Controller/PluginManagerController.php:217
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:217
 msgid "File 'Plugin.php' could not get extracted"
-msgstr ""
+msgstr "Το αρχείο 'Plugin.php' δεν μπόρεσε να εξαχθεί"
 
-#: Controller/PluginManagerController.php:256
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:256
 msgid "The plugin name was not found"
-msgstr ""
+msgstr "Το όνομα του πρόσθετου δεν βρέθηκε"
 
-#: Helper/AgeHelper.php:37
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:37
 msgid "less than a minute ago"
 msgstr "λιγότερο από ένα λεπτό πριν"
 
 #. <1h
-#: Helper/AgeHelper.php:40
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:40
 #, php-format
 msgid "around %d minutes ago"
 msgstr "περίπου %d λεπτά πριν"
 
 #. <24h
-#: Helper/AgeHelper.php:43
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:43
 #, php-format
 msgid "around %d hours ago"
 msgstr "περίπου %d ώρες πριν"
 
 #. <7D
-#: Helper/AgeHelper.php:46
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:46
 #, php-format
 msgid "around %d days ago"
 msgstr "περίπου %d ημέρες πριν"
 
 #. <30D
-#: Helper/AgeHelper.php:49
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:49
 #, php-format
 msgid "around %d weeks ago"
 msgstr "περίπου %d εβδομάδες πριν"
 
 #. <360D
-#: Helper/AgeHelper.php:52
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:52
 #, php-format
 msgid "around %d months ago"
 msgstr "πριν από περίπου %d μήνες"
 
 #. <360D*2
-#: Helper/AgeHelper.php:55
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:55
 msgid "over a year ago"
 msgstr "πάνω από ένα χρόνο πριν"
 
-#: Helper/AgeHelper.php:57
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:57
 #, php-format
 msgid "over %d years ago"
 msgstr "πάνω από %d χρόνια πρίν"
 
-#: Helper/PluginManagerHelper.php:86
+#: kanboard-ng/PluginMananger/Helper/PluginManagerHelper.php:86
 msgid "Not Available"
 msgstr "Δεν είναι διαθέσιμο"
 
-#: Plugin.php:64
+#: kanboard-ng/PluginMananger/Plugin.php:64
 msgid "Replace the Installed Plugins section with a whole new interface. Plugin Manager provides both users and developers with an improved comprehensive layout displaying a new section for troubleshooting plugins with a new plugin structure breakdown for each plugin. Install plugins direct from the Plugin Directory or explore new upcoming or untested features from manual plugins."
 msgstr "Αντικαταστήστε την ενότητα \"Εγκατεστημένα πρόσθετα\" με ένα εντελώς νέο περιβάλλον εργασίας. Το Plugin Manager παρέχει τόσο στους χρήστες όσο και στους προγραμματιστές μια βελτιωμένη ολοκληρωμένη διάταξη που εμφανίζει μια νέα ενότητα για την αντιμετώπιση προβλημάτων στα πρόσθετα με μια νέα ανάλυση της δομής των πρόσθετων για κάθε πρόσθετο. Εγκαταστήστε πρόσθετα απευθείας από τον κατάλογο πρόσθετων ή εξερευνήστε νέα επερχόμενα ή μη δοκιμασμένα χαρακτηριστικά από χειροκίνητα πρόσθετα."
 
-#: Template/info/db-info.php:3 Template/plugin/directory.php:197 Template/plugin/manual-plugins.php:109
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:3 Template/plugin/directory.php:197 Template/plugin/manual-plugins.php:109
 msgid "This plugin contains database changes"
 msgstr "Αυτό το πρόσθετο περιέχει αλλαγές στη βάση δεδομένων"
 
-#: Template/info/db-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7
 msgid "This plugin makes changes to your database, usually by adding more tables. Read more about the possible effects of this plugin."
 msgstr "Αυτό το πρόσθετο κάνει αλλαγές στη βάση δεδομένων σας, συνήθως προσθέτοντας περισσότερους πίνακες. Διαβάστε περισσότερα για τις πιθανές επιπτώσεις αυτού του πρόσθετου."
 
-#: Template/info/db-info.php:7 Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7 Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
 msgid "Learn more"
 msgstr "Μάθετε περισσότερα"
 
-#: Template/info/db-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7
 msgid "Go to Plugin Problems"
 msgstr "Πηγαίνετε στα Προβλήματα Plugin"
 
-#: Template/info/info-last-updated.php:4 Template/plugin/directory.php:129 Template/plugin/manual-plugins.php:51
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:4 Template/plugin/directory.php:129 Template/plugin/manual-plugins.php:51
 msgid "Last Updated"
 msgstr "Τελευταία ενημέρωση"
 
-#: Template/info/info-last-updated.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:7
 msgid "The last updated date helps you decide whether a plugin is actively developed and is appropriate for your use case."
 msgstr "Η ημερομηνία τελευταίας ενημέρωσης σας βοηθά να αποφασίσετε αν ένα πρόσθετο αναπτύσσεται ενεργά και αν είναι κατάλληλο για τη δική σας περίπτωση χρήσης."
 
-#: Template/info/info-last-updated.php:8
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:8
 msgid "Plugin Manager will highlight the last updated date based on the date specified by the plugin developer in the Plugins Directory."
 msgstr "Το Plugin Manager θα επισημάνει την ημερομηνία τελευταίας ενημέρωσης με βάση την ημερομηνία που έχει καθοριστεί από τον προγραμματιστή του πρόσθετου στον κατάλογο πρόσθετων."
 
-#: Template/info/info-last-updated.php:11
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:11
 msgid "Active"
 msgstr "Ενεργό"
 
-#: Template/info/info-last-updated.php:12
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:12
 msgid "Up to 1 year"
 msgstr "Έως 1 έτος"
 
-#: Template/info/info-last-updated.php:15
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:15
 msgid "Stale"
 msgstr "Μπαγιάτικο"
 
-#: Template/info/info-last-updated.php:16
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:16
 msgid "1 - 2 years"
 msgstr "1 - 2 χρόνια"
 
-#: Template/info/info-last-updated.php:19
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:19
 msgid "Archived"
 msgstr "Αρχειοθετημένο"
 
-#: Template/info/info-last-updated.php:20
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:20
 msgid "Over 2 years"
 msgstr "Πάνω από 2 χρόνια"
 
-#: Template/info/info-structure.php:3 Template/info/plugin-info.php:86 Template/plugin/directory.php:137
-#: Template/plugin/manual-plugins.php:59
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:3 Template/info/plugin-info.php:86 Template/plugin/directory.php:137
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:59
 msgid "Plugin Structure"
 msgstr "Δομή Plugin"
 
-#: Template/info/info-structure.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:7
 msgid "The building blocks of a plugin help define it to complete a structure which works with your application."
 msgstr "Τα δομικά στοιχεία ενός πρόσθετου βοηθούν στον ορισμό του, ώστε να ολοκληρωθεί μια δομή που λειτουργεί με την εφαρμογή σας."
 
-#: Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
 msgid "Go to Plugin Information"
 msgstr "Πηγαίνετε στις πληροφορίες του Plugin"
 
-#: Template/info/info-tooltip.php:3
+#: kanboard-ng/PluginMananger/Template/info/info-tooltip.php:3
 msgid "Plugin Types"
 msgstr "Τύποι plugin"
 
-#: Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-tooltip.php:7
 msgid "Plugins fall into one of 5 types of categories"
 msgstr "Τα πρόσθετα εμπίπτουν σε έναν από τους 5 τύπους κατηγοριών"
 
-#: Template/info/plugin-info.php:3
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:3
 msgid "Plugin Information"
 msgstr "Πληροφορίες Plugin"
 
-#: Template/info/plugin-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:7
 msgid "Types of Plugins"
 msgstr "Τύποι Plugins"
 
-#: Template/info/plugin-info.php:9
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:9
 msgid "All plugins do the same basic job of extending the features of the application. Different functions require different ways of coding which is why all plugins fall into one of the types below."
 msgstr "Όλα τα πρόσθετα κάνουν την ίδια βασική δουλειά, δηλαδή επεκτείνουν τις δυνατότητες της εφαρμογής. Διαφορετικές λειτουργίες απαιτούν διαφορετικούς τρόπους κωδικοποίησης, γι' αυτό και όλα τα πρόσθετα εμπίπτουν σε έναν από τους παρακάτω τύπους."
 
-#: Template/info/plugin-info.php:18
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:18
 msgid "A plugin of any type but with no automatic actions"
 msgstr "Ένα πρόσθετο οποιουδήποτε τύπου αλλά χωρίς αυτόματες ενέργειες"
 
-#: Template/info/plugin-info.php:21
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:21
 msgid "General Plugin"
 msgstr "Γενικά Plugin"
 
-#: Template/info/plugin-info.php:29
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:29
 msgid "A plugin for automatic actions only"
 msgstr "Ένα πρόσθετο μόνο για αυτόματες ενέργειες"
 
-#: Template/info/plugin-info.php:32
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:32
 msgid "Action Plugin"
 msgstr "Action Plugin"
 
-#: Template/info/plugin-info.php:40
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:40
 msgid "A plugin for theming and styling of the interface"
 msgstr "Ένα πρόσθετο για τη θεματοποίηση και το styling της διεπαφής"
 
-#: Template/info/plugin-info.php:43
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:43
 msgid "Theme Plugin"
 msgstr "Θέμα Plugin"
 
-#: Template/info/plugin-info.php:51
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:51
 msgid "A plugin connecting to third party services - may contain automatic actions"
 msgstr "Ένα πρόσθετο που συνδέεται με υπηρεσίες τρίτων - μπορεί να περιέχει αυτόματες ενέργειες"
 
-#: Template/info/plugin-info.php:54
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:54
 msgid "Connector Plugin"
 msgstr "Συνδετήρας Plugin"
 
-#: Template/info/plugin-info.php:62
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:62
 msgid "A plugin containing multiple functions and automatic actions or connectors"
 msgstr "Ένα πρόσθετο που περιέχει πολλαπλές λειτουργίες και αυτόματες ενέργειες ή συνδέσμους"
 
-#: Template/info/plugin-info.php:65
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:65
 msgid "Multi Plugin"
 msgstr "Multi Plugin"
 
-#: Template/info/plugin-info.php:76
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:76
 msgid "A plugin which has not been set a plugin type by the developer"
 msgstr "Ένα πρόσθετο που δεν έχει οριστεί τύπος πρόσθετου από τον προγραμματιστή"
 
-#: Template/info/plugin-info.php:79
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:79
 msgid "Other Plugin"
 msgstr "Άλλο πρόσθετο"
 
-#: Template/info/plugin-info.php:84
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:84
 msgid "Plugin types are only shown in the"
 msgstr "Οι τύποι πρόσθετων προγραμμάτων εμφανίζονται μόνο στο"
 
-#: Template/info/plugin-info.php:84 Template/plugin/directory.php:3 Template/plugin/sidebar.php:13
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:84 Template/plugin/directory.php:3 Template/plugin/sidebar.php:13
 msgid "Plugin Directory"
 msgstr "Κατάλογος πρόσθετων προγραμμάτων"
 
-#: Template/info/plugin-info.php:88
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:88
 msgid "The official Plugins Directory has been updated to include extra information for each plugin. This information is set by the developer to indicate the code breakdown of the plugin."
 msgstr "Ο επίσημος κατάλογος πρόσθετων προγραμμάτων έχει ενημερωθεί για να περιλαμβάνει επιπλέον πληροφορίες για κάθε πρόσθετο. Αυτές οι πληροφορίες ορίζονται από τον προγραμματιστή για να υποδείξουν την ανάλυση του κώδικα του πρόσθετου."
 
-#: Template/info/plugin-info.php:91
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:91
 msgid "Documentation"
 msgstr "Τεκμηρίωση"
 
-#: Template/info/plugin-info.php:97
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:97
 msgid "All plugins should have a readme file in the root of their plugin folder. This icons should show against all plugins."
 msgstr "Όλα τα πρόσθετα θα πρέπει να έχουν ένα αρχείο readme στη ρίζα του φακέλου του πρόσθετου. Αυτά τα εικονίδια θα πρέπει να εμφανίζονται σε όλα τα πρόσθετα."
 
-#: Template/info/plugin-info.php:105
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:105
 msgid "When links go wrong you should always be able to fallback to the plugin or developer homepage. This icon will show against all plugins which have a homepage set by the developer."
 msgstr "Όταν οι σύνδεσμοι δεν λειτουργούν σωστά, θα πρέπει πάντα να μπορείτε να επιστρέφετε στην αρχική σελίδα του πρόσθετου ή του προγραμματιστή. Αυτό το εικονίδιο θα εμφανίζεται σε όλα τα πρόσθετα που έχουν μια αρχική σελίδα που έχει οριστεί από τον προγραμματιστή."
 
-#: Template/info/plugin-info.php:110
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:110
 msgid "Database Changes"
 msgstr "Αλλαγές στη βάση δεδομένων"
 
-#: Template/info/plugin-info.php:120
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:120
 msgid "If a plugin is known to alter your database, this icon will show. Altering your database usually includes adding or modifying existing database tables."
 msgstr "Εάν ένα πρόσθετο είναι γνωστό ότι τροποποιεί τη βάση δεδομένων σας, αυτό το εικονίδιο θα εμφανιστεί. Η αλλοίωση της βάσης δεδομένων σας περιλαμβάνει συνήθως την προσθήκη ή την τροποποίηση υφιστάμενων πινάκων της βάσης δεδομένων."
 
-#: Template/info/plugin-info.php:128
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:128
 msgid "No database changes are detected when this icon shows."
 msgstr "Όταν εμφανίζεται αυτό το εικονίδιο, δεν ανιχνεύονται αλλαγές στη βάση δεδομένων."
 
-#: Template/info/plugin-info.php:134
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:134
 msgid "Overrides"
 msgstr "Παρακάμπτει το"
 
-#: Template/info/plugin-info.php:144
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:144
 msgid "Overrides include template files and models. Both types of files affect how your data is presented to you. This icon will show when core templates or models are replaced with specific versions."
 msgstr "Οι παρακάμψεις περιλαμβάνουν αρχεία προτύπων και μοντέλα. Και οι δύο τύποι αρχείων επηρεάζουν τον τρόπο με τον οποίο σας παρουσιάζονται τα δεδομένα σας. Αυτό το εικονίδιο θα εμφανίζεται όταν τα βασικά πρότυπα ή μοντέλα αντικαθίστανται με συγκεκριμένες εκδόσεις."
 
-#: Template/info/plugin-info.php:152
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:152
 msgid "No overrides are detected when this icon shows."
 msgstr "Όταν εμφανίζεται αυτό το εικονίδιο, δεν ανιχνεύονται παρακάμψεις."
 
-#: Template/info/plugin-info.php:158
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:158
 msgid "Hooks"
 msgstr "Άγκιστρα"
 
-#: Template/info/plugin-info.php:168
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:168
 msgid "Hooks are files which attach to existing templates or core functions. Hooks do not alter any core structure but add to it."
 msgstr "Τα άγκιστρα είναι αρχεία που προσαρτώνται σε υπάρχοντα πρότυπα ή βασικές λειτουργίες. Τα άγκιστρα δεν αλλάζουν καμία δομή του πυρήνα αλλά την συμπληρώνουν."
 
-#: Template/info/plugin-info.php:176
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:176
 msgid "No hooks are detected when this icon shows."
 msgstr "Όταν εμφανίζεται αυτό το εικονίδιο, δεν ανιχνεύονται άγκιστρα."
 
-#: Template/info/plugin-problems.php:8
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:8
 msgid "Plugins are extensions to your application. They do not take over your application, they just alter the application's performance or output. Use this page as a quick reference to problems which may be caused by a recent plugin installation."
 msgstr "Τα πρόσθετα είναι επεκτάσεις της εφαρμογής σας. Δεν αναλαμβάνουν την εφαρμογή σας, απλώς μεταβάλλουν την απόδοση ή την έξοδο της εφαρμογής. Χρησιμοποιήστε αυτή τη σελίδα ως μια γρήγορη αναφορά σε προβλήματα που μπορεί να προκληθούν από μια πρόσφατη εγκατάσταση πρόσθετων."
 
-#: Template/info/plugin-problems.php:12
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:12
 msgid "Check the overrides"
 msgstr "Ελέγξτε τις παρακάμψεις"
 
-#: Template/info/plugin-problems.php:17
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:17
 msgid "Look for templates"
 msgstr "Αναζητήστε πρότυπα"
 
-#: Template/info/plugin-problems.php:20
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:20
 msgid "Look for models in "
 msgstr "Αναζητήστε μοντέλα σε "
 
-#: Template/info/plugin-problems.php:25
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:25
 msgid "Overriding templates and models are the most common way to affect the way your application functions. It can be possible that a particular template could be conflicting with another plugin overriding the same template. It is also possible that a certain model is being used by another plugin. For any plugin that is not working or causing issues, this is the area to look into first."
 msgstr "Η παράκαμψη προτύπων και μοντέλων είναι ο πιο συνηθισμένος τρόπος για να επηρεάσετε τον τρόπο λειτουργίας της εφαρμογής σας. Μπορεί να είναι πιθανό ένα συγκεκριμένο πρότυπο να έρχεται σε σύγκρουση με ένα άλλο πρόσθετο που παρακάμπτει το ίδιο πρότυπο. Είναι επίσης πιθανό ένα συγκεκριμένο μοντέλο να χρησιμοποιείται από ένα άλλο πρόσθετο. Για οποιοδήποτε πρόσθετο που δεν λειτουργεί ή προκαλεί προβλήματα, αυτή είναι η περιοχή που πρέπει να εξετάσετε πρώτα."
 
-#: Template/info/plugin-problems.php:30
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:30
 msgid "Check the application setup"
 msgstr "Ελέγξτε τη ρύθμιση της εφαρμογής"
 
-#: Template/info/plugin-problems.php:37 Template/info/plugin-problems.php:39
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:37 Template/info/plugin-problems.php:39
 msgid "Check your folder permissions"
 msgstr "Ελέγξτε τα δικαιώματα των φακέλων σας"
 
-#: Template/info/plugin-problems.php:43
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:43
 msgid "Check server logs"
 msgstr "Ελέγξτε τα αρχεία καταγραφής του διακομιστή"
 
-#: Template/info/plugin-problems.php:46
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:46
 msgid "Check the browser console for any blocked files"
 msgstr "Ελέγξτε την κονσόλα του προγράμματος περιήγησης για τυχόν μπλοκαρισμένα αρχεία"
 
-#: Template/info/plugin-problems.php:52
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:52
 msgid "All information related to your setup can be easily found in"
-msgstr ""
+msgstr "Όλες οι πληροφορίες που σχετίζονται με την εγκατάστασή σας μπορούν να βρεθούν εύκολα στο"
 
-#: Template/info/plugin-problems.php:53
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:53
 msgid "Technical Information"
 msgstr "Τεχνικές πληροφορίες"
 
-#: Template/info/plugin-problems.php:59
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:59
 msgid "Check the database"
 msgstr "Ελέγξτε τη βάση δεδομένων"
 
-#: Template/info/plugin-problems.php:64
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:64
 msgid "Check that your database contains data"
 msgstr "Ελέγξτε ότι η βάση δεδομένων σας περιέχει δεδομένα"
 
-#: Template/info/plugin-problems.php:67
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:67
 msgid "Check the database tables"
 msgstr "Ελέγξτε τους πίνακες της βάσης δεδομένων"
 
-#: Template/info/plugin-problems.php:70
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:70
 msgid "Plugin database tables are not automatically deleted when a plugin is uninstalled"
 msgstr "Οι πίνακες της βάσης δεδομένων των πρόσθετων δεν διαγράφονται αυτόματα όταν απεγκαθίσταται ένα πρόσθετο"
 
-#: Template/info/plugin-problems.php:75
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:75
 msgid "In the Plugin Manager, all plugins are identified if they contain potential database changes. This is your indication to check for extra tables in the plugin's name. If you decide to remove the plugin which causes you issues, the default the tables in the database will remain. You will need to carefully delete them according to your setup."
 msgstr "Στη Διαχείριση προσθέτων, όλα τα πρόσθετα αναγνωρίζονται εάν περιέχουν πιθανές αλλαγές στη βάση δεδομένων. Αυτή είναι η ένδειξή σας για να ελέγξετε για επιπλέον πίνακες στο όνομα του πρόσθετου. Εάν αποφασίσετε να αφαιρέσετε το πρόσθετο που σας προκαλεί προβλήματα, οι προεπιλεγμένοι πίνακες στη βάση δεδομένων θα παραμείνουν. Θα πρέπει να τους διαγράψετε προσεκτικά σύμφωνα με τις ρυθμίσεις σας."
 
-#: Template/info/plugin-problems.php:78
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:78
 msgid "Plugins which affect the database also register into the "
 msgstr "Τα πρόσθετα που επηρεάζουν τη βάση δεδομένων εγγράφονται επίσης στο "
 
-#: Template/info/plugin-problems.php:78
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:78
 msgid "table. If uninstalling a plugin, you would need to delete the associated plugin entry here too besides just the specific plugin related tables."
 msgstr "τραπέζι. Αν απεγκαταστήσετε ένα πρόσθετο, θα πρέπει να διαγράψετε και τη σχετική εγγραφή του πρόσθετου εδώ, εκτός από τους συγκεκριμένους πίνακες που σχετίζονται με το πρόσθετο."
 
-#: Template/info/plugin-problems.php:83
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:83
 msgid "If everything fails"
 msgstr "Αν όλα αποτύχουν"
 
-#: Template/info/plugin-problems.php:89
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:89
 msgid "Delete the folder for the plugin. It is highly likely that the last updated folder will be the offending plugin."
 msgstr "Διαγράψτε το φάκελο για το πρόσθετο. Είναι πολύ πιθανό ότι ο φάκελος που ενημερώθηκε τελευταία φορά θα είναι το προσβλητικό πρόσθετο."
 
-#: Template/info/plugin-problems.php:94
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:94
 msgid "Delete the offending plugin. If you dont know which plugin is causing your issue, check the "
 msgstr "Διαγράψτε το προσβλητικό πρόσθετο. Αν δεν ξέρετε ποιο πρόσθετο προκαλεί το πρόβλημά σας, ελέγξτε το "
 
-#: Template/info/plugin-problems.php:94
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:94
 msgid "folder. Each folder represents each plugin in the same name."
 msgstr "φάκελος. Κάθε φάκελος αντιπροσωπεύει κάθε πρόσθετο με το ίδιο όνομα."
 
-#: Template/info/plugin-problems.php:100
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:100
 msgid "Further Reading"
 msgstr "Περαιτέρω ανάγνωση"
 
-#: Template/info/plugin-problems.php:104
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:104
 msgid "About Application"
 msgstr "Σχετικά με την εφαρμογή"
 
-#: Template/info/plugin-problems.php:108
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:108
 msgid "Kanboard Forum"
 msgstr "Φόρουμ Kanboard"
 
-#: Template/info/plugin-problems.php:113
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:113
 msgid "Contributing"
 msgstr "Συμβολή"
 
-#: Template/info/plugin-problems.php:118
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:118
 msgid "Developing Plugins"
 msgstr "Ανάπτυξη Plugins"
 
-#: Template/info/plugin-problems.php:123
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:123
 msgid "Source Code"
 msgstr "Πηγαίος κώδικας"
 
-#: Template/info/plugin-problems.php:128
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:128
 msgid "Kanboard Plugins"
 msgstr "Πρόσθετα Kanboard"
 
-#: Template/plugin/directory.php:7
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:7
 msgid "Your application instance is not configured to install plugins from the user interface."
 msgstr "Η παρουσία της εφαρμογής σας δεν έχει ρυθμιστεί ώστε να εγκαθιστά πρόσθετα από το περιβάλλον εργασίας χρήστη."
 
-#: Template/plugin/directory.php:11
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:11
 msgid "There is no plugin available."
 msgstr "Δεν υπάρχει διαθέσιμο πρόσθετο."
 
-#: Template/plugin/directory.php:19
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:19
 msgid "Available Plugins"
 msgstr "Διαθέσιμα Plugins"
 
-#: Template/plugin/directory.php:20 Template/plugin/directory.php:236
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:20 Template/plugin/directory.php:236
 msgid "Currently Installed"
 msgstr "Εγκατεστημένο επί του παρόντος"
 
-#: Template/plugin/directory.php:22
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:22
 msgid "Available Updates"
-msgstr ""
+msgstr "Διαθέσιμες ενημερώσεις"
 
-#: Template/plugin/directory.php:24
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:24
 msgid "Your Application"
-msgstr ""
+msgstr "Η αίτησή σας"
 
-#: Template/plugin/directory.php:25
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:25
 msgid "Directory Source"
 msgstr "Πηγή καταλόγου"
 
-#: Template/plugin/directory.php:38 Template/plugin/directory.php:185 Template/plugin/directory.php:190
-#: Template/plugin/manual-plugins.php:97 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
-#: Template/plugin/show.php:72 Template/plugin/show.php:175 Template/plugin/show.php:185
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:38 Template/plugin/directory.php:185 Template/plugin/directory.php:190
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:97 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:72 Template/plugin/show.php:175 Template/plugin/show.php:185
 msgid "Opens in a new window"
 msgstr "Ανοίγει σε νέο παράθυρο"
 
-#: Template/plugin/directory.php:39
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:39
 msgid "Official Plugin Directory"
 msgstr "Επίσημος κατάλογος πρόσθετων"
 
-#: Template/plugin/directory.php:42
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:42
 msgid "Custom Directory"
 msgstr "Προσαρμοσμένος κατάλογος"
 
-#: Template/plugin/directory.php:55
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:55
 msgid "Search for plugin..."
 msgstr "Αναζήτηση για plugin..."
 
-#: Template/plugin/directory.php:55
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:55
 msgid "Search available plugins"
 msgstr "Αναζήτηση διαθέσιμων plugins"
 
-#: Template/plugin/directory.php:60 Template/plugin/directory.php:65 Template/plugin/directory.php:70
-#: Template/plugin/directory.php:75 Template/plugin/directory.php:80 Template/plugin/directory.php:87
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:60 Template/plugin/directory.php:65 Template/plugin/directory.php:70
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:75 Template/plugin/directory.php:80 Template/plugin/directory.php:87
 msgid "Filter by type"
-msgstr ""
+msgstr "Φίλτρο ανά τύπο"
 
-#: Template/plugin/directory.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:62
 msgid "General"
 msgstr "Γενικά"
 
-#: Template/plugin/directory.php:67
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:67
 msgid "Automatic Actions"
 msgstr "Αυτόματες ενέργειες"
 
-#: Template/plugin/directory.php:67 Template/plugin/show.php:32 Template/plugin/show.php:143
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:67 Template/plugin/show.php:32 Template/plugin/show.php:143
 msgid "Actions"
 msgstr "Δράσεις"
 
-#: Template/plugin/directory.php:72
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:72
 msgid "Themes"
 msgstr "Θέματα"
 
-#: Template/plugin/directory.php:77
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:77
 msgid "Connectors"
 msgstr "Σύνδεσμοι"
 
-#: Template/plugin/directory.php:82
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:82
 msgid "Multi"
 msgstr "Multi"
 
-#: Template/plugin/directory.php:89
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:89
 msgid "Others"
 msgstr "Άλλοι"
 
-#: Template/plugin/directory.php:103 Template/plugin/manual-plugins.php:18
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:103 Template/plugin/manual-plugins.php:18
 msgid "Directory Last Updated"
 msgstr "Κατάλογος Τελευταία ενημέρωση"
 
-#: Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:20 Template/plugin/show.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:20 Template/plugin/show.php:133
 msgid "Go to the bottom of the page"
 msgstr "Πηγαίνετε στο κάτω μέρος της σελίδας"
 
-#: Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:21 Template/plugin/show.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:21 Template/plugin/show.php:133
 msgid "Bottom"
 msgstr "Κάτω μέρος"
 
-#: Template/plugin/directory.php:126 Template/plugin/manual-plugins.php:48
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:126 Template/plugin/manual-plugins.php:48
 msgid "Plugin Author(s)"
 msgstr "Συγγραφέας(ες) του πρόσθετου"
 
-#: Template/plugin/directory.php:127
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:127
 msgid "License"
 msgstr "Άδεια"
 
-#: Template/plugin/directory.php:145 Template/plugin/manual-plugins.php:67
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:145 Template/plugin/manual-plugins.php:67
 msgid "Status"
 msgstr "Κατάσταση"
 
-#: Template/plugin/directory.php:152 Template/plugin/directory.php:160 Template/plugin/manual-plugins.php:73
-#: Template/plugin/show.php:29 Template/plugin/show.php:140
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:152 Template/plugin/directory.php:160 Template/plugin/manual-plugins.php:73
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:29 Template/plugin/show.php:140
 msgid "Plugin Version"
 msgstr "Έκδοση Plugin"
 
-#: Template/plugin/directory.php:156
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:156
 msgid "Updated plugin version available"
 msgstr "Διαθέσιμη ενημερωμένη έκδοση του plugin"
 
-#: Template/plugin/directory.php:178 Template/plugin/manual-plugins.php:90
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:178 Template/plugin/manual-plugins.php:90
 msgid "Unable to detect the last time this plugin was updated or a version was released"
 msgstr "Δεν είναι δυνατή η ανίχνευση της τελευταίας ενημέρωσης αυτού του πρόσθετου ή της έκδοσης που κυκλοφόρησε"
 
-#: Template/plugin/directory.php:179 Template/plugin/manual-plugins.php:91 Template/plugin/show.php:159
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:179 Template/plugin/manual-plugins.php:91 Template/plugin/show.php:159
 msgid "Not Specified"
 msgstr "Δεν προσδιορίζεται"
 
-#: Template/plugin/directory.php:185 Template/plugin/manual-plugins.php:97
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:185 Template/plugin/manual-plugins.php:97
 msgid "View Readme"
 msgstr "Προβολή Readme"
 
-#: Template/plugin/directory.php:190 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
-#: Template/plugin/show.php:175
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:190 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:175
 msgid "Plugin Homepage"
 msgstr "Αρχική σελίδα του Plugin"
 
-#: Template/plugin/directory.php:200 Template/plugin/manual-plugins.php:112
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:200 Template/plugin/manual-plugins.php:112
 msgid "This plugin contains no database changes"
 msgstr "Αυτό το πρόσθετο δεν περιέχει αλλαγές στη βάση δεδομένων"
 
-#: Template/plugin/directory.php:204 Template/plugin/manual-plugins.php:116
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:204 Template/plugin/manual-plugins.php:116
 msgid "This plugin has not specified any database changes"
 msgstr "Αυτό το πρόσθετο δεν έχει καθορίσει αλλαγές στη βάση δεδομένων"
 
-#: Template/plugin/directory.php:209 Template/plugin/manual-plugins.php:121
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:209 Template/plugin/manual-plugins.php:121
 msgid "This plugin overrides certain templates or models"
 msgstr "Αυτό το πρόσθετο παρακάμπτει ορισμένα πρότυπα ή μοντέλα"
 
-#: Template/plugin/directory.php:212 Template/plugin/manual-plugins.php:124
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:212 Template/plugin/manual-plugins.php:124
 msgid "This plugin does not override any templates or models"
 msgstr "Αυτό το πρόσθετο δεν παρακάμπτει κανένα πρότυπο ή μοντέλο"
 
-#: Template/plugin/directory.php:216 Template/plugin/manual-plugins.php:128
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:216 Template/plugin/manual-plugins.php:128
 msgid "This plugin has not specified any template or model overrides"
 msgstr "Αυτό το πρόσθετο δεν έχει καθορίσει καμία παράκαμψη προτύπου ή μοντέλου"
 
-#: Template/plugin/directory.php:221 Template/plugin/manual-plugins.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:221 Template/plugin/manual-plugins.php:133
 msgid "This plugin contains hooks"
 msgstr "Αυτό το πρόσθετο περιέχει άγκιστρα"
 
-#: Template/plugin/directory.php:224 Template/plugin/manual-plugins.php:136
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:224 Template/plugin/manual-plugins.php:136
 msgid "This plugin does not contain any hooks"
 msgstr "Αυτό το πρόσθετο δεν περιέχει άγκιστρα"
 
-#: Template/plugin/directory.php:228 Template/plugin/manual-plugins.php:140
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:228 Template/plugin/manual-plugins.php:140
 msgid "This plugin has not specified any hooks"
 msgstr "Αυτό το πρόσθετο δεν έχει καθορίσει άγκιστρα"
 
-#: Template/plugin/directory.php:234 Template/plugin/installer.php:15
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:234 Template/plugin/installer.php:15
 msgid "Install"
 msgstr "Εγκαταστήστε το"
 
-#: Template/plugin/directory.php:234
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:234
 msgid "Install this plugin"
 msgstr "Εγκαταστήστε αυτό το πρόσθετο"
 
-#: Template/plugin/directory.php:239 Template/plugin/show.php:127 Template/plugin/show.php:193
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:239 Template/plugin/show.php:127 Template/plugin/show.php:193
 msgid "Update"
 msgstr "Ενημέρωση"
 
-#: Template/plugin/directory.php:239 Template/plugin/show.php:193
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:239 Template/plugin/show.php:193
 msgid "Update this plugin"
 msgstr "Ενημερώστε αυτό το πρόσθετο"
 
-#: Template/plugin/directory.php:241
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:241
 msgid "Up to date"
 msgstr "Μέχρι σήμερα"
 
-#: Template/plugin/directory.php:242
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:242
 msgid "View in Plugin Manager"
 msgstr "Προβολή στο Plugin Manager"
 
-#: Template/plugin/directory.php:245 Template/plugin/manual-plugins.php:152
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:245 Template/plugin/manual-plugins.php:152
 msgid "Not available"
 msgstr "Δεν είναι διαθέσιμο"
 
-#: Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:179 Template/plugin/show.php:217
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:179 Template/plugin/show.php:217
 msgid "Go to the top of the page"
 msgstr "Πηγαίνετε στην κορυφή της σελίδας"
 
-#: Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:180 Template/plugin/show.php:217
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:180 Template/plugin/show.php:217
 msgid "Top"
 msgstr "Κορυφή"
 
-#: Template/plugin/installer.php:2
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:2
 msgid "Install Manual Plugin"
 msgstr "Εγκαταστήστε το Manual Plugin"
 
-#: Template/plugin/installer.php:5
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:5
 msgid "Choose to install from a local archive (.zip) file or a remote location"
 msgstr "Επιλέξτε την εγκατάσταση από ένα τοπικό αρχείο αρχείου (.zip) ή από μια απομακρυσμένη τοποθεσία."
 
-#: Template/plugin/installer.php:7
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:7
 msgid "From File"
 msgstr "Από το αρχείο"
 
-#: Template/plugin/installer.php:11
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:11
 msgid "From URL"
 msgstr "Από τη διεύθυνση URL"
 
-#: Template/plugin/manual-plugins.php:12
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:12
 msgid "Warning"
 msgstr "Προειδοποίηση"
 
-#: Template/plugin/manual-plugins.php:13
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:13
 msgid "Use these plugins with great caution and check their functionality with the plugin developer before installing"
 msgstr "Χρησιμοποιήστε αυτά τα πρόσθετα με μεγάλη προσοχή και ελέγξτε τη λειτουργικότητά τους με τον προγραμματιστή του πρόσθετου πριν από την εγκατάσταση."
 
-#: Template/plugin/manual-plugins.php:145
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:145
 msgid "Download Plugin"
 msgstr "Λήψη του Plugin"
 
-#: Template/plugin/manual-plugins.php:146
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:146
 msgid "Download"
 msgstr "Λήψη"
 
-#: Template/plugin/manual-plugins.php:148
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:148
 msgid "Copy download link"
 msgstr "Αντιγράψτε το σύνδεσμο λήψης"
 
-#: Template/plugin/manual-plugins.php:165
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:165
 msgid "This plugin is for developers"
 msgstr "Αυτό το πρόσθετο είναι για προγραμματιστές"
 
-#: Template/plugin/manual-plugins.php:167
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:167
 msgid "This plugin is for translators and developers"
 msgstr "Αυτό το πρόσθετο είναι για μεταφραστές και προγραμματιστές"
 
-#: Template/plugin/manual-plugins.php:173
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:173
 msgid "This plugin may not be completely functional. Always check the homepage for recent developments as the download link may not show the latest version."
 msgstr "Αυτό το πρόσθετο μπορεί να μην είναι πλήρως λειτουργικό. Ελέγχετε πάντα την αρχική σελίδα για πρόσφατες εξελίξεις, καθώς ο σύνδεσμος λήψης ενδέχεται να μην εμφανίζει την τελευταία έκδοση."
 
-#: Template/plugin/manual-plugins.php:183
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:183
 msgid "There are no manual plugins listed at the moment"
 msgstr "Δεν υπάρχουν χειροκίνητα plugins που να αναφέρονται αυτή τη στιγμή"
 
-#: Template/plugin/show.php:17
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:17
 msgid "Incompatible Plugins"
 msgstr "Μη συμβατά plugins"
 
-#: Template/plugin/show.php:22
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:22
 msgid "Plugins listed as incompatible are based on the application version limit set by the plugin developer. You are using"
 msgstr "Τα πρόσθετα που αναφέρονται ως ασύμβατα βασίζονται στο όριο έκδοσης της εφαρμογής που έχει οριστεί από τον προγραμματιστή του πρόσθετου. Χρησιμοποιείτε"
 
-#: Template/plugin/show.php:27 Template/plugin/show.php:138
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:27 Template/plugin/show.php:138
 msgid "Name"
 msgstr "Όνομα"
 
-#: Template/plugin/show.php:28 Template/plugin/show.php:139
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:28 Template/plugin/show.php:139
 msgid "Author"
 msgstr "Συγγραφέας"
 
-#: Template/plugin/show.php:30 Template/plugin/show.php:141
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:30 Template/plugin/show.php:141
 msgid "Kanboard Compatibility"
 msgstr "Συμβατότητα Kanboard"
 
-#: Template/plugin/show.php:72 Template/plugin/show.php:185
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:72 Template/plugin/show.php:185
 msgid "Plugin Readme"
 msgstr "Plugin Readme"
 
-#: Template/plugin/show.php:79 Template/plugin/show.php:201
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:79 Template/plugin/show.php:201
 msgid "Uninstall"
 msgstr "Απεγκατάσταση του"
 
-#: Template/plugin/show.php:89 Template/plugin/show.php:210
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:89 Template/plugin/show.php:210
 msgid "Installed"
 msgstr "Εγκατεστημένο"
 
-#: Template/plugin/show.php:100
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:100
 msgid "There is no plugin loaded."
 msgstr "Δεν έχει φορτωθεί κανένα πρόσθετο."
 
 #. phpcs:disable Squiz.ControlStructures.ControlSignature.NewlineAfterOpenBrace,Squiz.WhiteSpace.ScopeClosingBrace.ContentBefore
-#: Template/plugin/show.php:106
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:106
 msgid "Copy plugin list"
 msgstr "Αντιγραφή λίστας πρόσθετων"
 
-#: Template/plugin/show.php:106
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:106
 msgid "by"
 msgstr "από"
 
-#: Template/plugin/show.php:108
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:108
 msgid "Copy to Clipboard"
 msgstr "Αντιγραφή στο Πρόχειρο"
 
 #. phpcs:enable
-#: Template/plugin/show.php:118
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:118
 msgid "Search for installed plugin..."
 msgstr "Αναζήτηση για εγκατεστημένο πρόσθετο..."
 
-#: Template/plugin/show.php:118
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:118
 msgid "Search installed plugins"
 msgstr "Αναζήτηση εγκατεστημένων plugins"
 
-#: Template/plugin/show.php:126
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:126
 #, php-format
 msgid "You have %s plugins installed"
 msgstr "Έχετε εγκαταστήσει τα πρόσθετα %s"
 
-#: Template/plugin/show.php:127
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:127
 msgid "Click this link then focus in the search box to filter plugins"
-msgstr ""
+msgstr "Κάντε κλικ σε αυτόν τον σύνδεσμο και, στη συνέχεια, εστιάστε στο πλαίσιο αναζήτησης για να φιλτράρετε τα πρόσθετα"
 
-#: Template/plugin/show.php:128
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:128
 #, php-format
 msgid "with %s updates available"
-msgstr ""
+msgstr "με διαθέσιμες ενημερώσεις %s"
 
-#: Template/plugin/show.php:130
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:130
 #, php-format
 msgid "and %s incompatible plugin(s)"
 msgstr "και %s ασύμβατο(α) πρόσθετο(α)"
 
-#: Template/plugin/show.php:195
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:195
 msgid "Refresh this page after updating this plugin"
-msgstr ""
+msgstr "Ανανεώστε αυτή τη σελίδα μετά την ενημέρωση αυτού του πρόσθετου"
 
-#: Template/plugin/sidebar.php:28
+#: kanboard-ng/PluginMananger/Template/plugin/sidebar.php:28
 msgid "Technical Info"
 msgstr "Τεχνικές πληροφορίες"
 
-#: Template/plugin/sidebar.php:33
+#: kanboard-ng/PluginMananger/Template/plugin/sidebar.php:33
 msgid "Content Cleaner"
 msgstr "Καθαριστής περιεχομένου"
 

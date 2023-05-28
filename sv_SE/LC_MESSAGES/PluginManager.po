@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 23:23+0200\n"
-"PO-Revision-Date: 2023-05-28 21:25\n"
+"PO-Revision-Date: 2023-05-28 22:01\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -27,761 +27,761 @@ msgstr ""
 "Language: sv_SE\n"
 
 #. phpcs:enable
-#: Controller/PluginManagerController.php:30 Controller/PluginManagerController.php:43 Controller/PluginManagerController.php:57
-#: Template/config/sidebar.php:2 Template/plugin/show.php:11 Template/plugin/sidebar.php:9
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:30 Controller/PluginManagerController.php:43 Controller/PluginManagerController.php:57
+#: kanboard-ng/PluginMananger/Template/config/sidebar.php:2 Template/plugin/show.php:11 Template/plugin/sidebar.php:9
 msgid "Plugin Manager"
 msgstr "Plugin-hanterare"
 
-#: Controller/PluginManagerController.php:30 Template/info/plugin-problems.php:3 Template/plugin/sidebar.php:24
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:30 Template/info/plugin-problems.php:3 Template/plugin/sidebar.php:24
 msgid "Plugin Problems"
 msgstr "Problem med insticksprogrammen"
 
-#: Controller/PluginManagerController.php:43 Template/plugin/sidebar.php:21
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:43 Template/plugin/sidebar.php:21
 msgid "Plugin Info"
 msgstr "Info om plugins"
 
-#: Controller/PluginManagerController.php:57 Template/plugin/manual-plugins.php:3 Template/plugin/sidebar.php:17
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:57 Template/plugin/manual-plugins.php:3 Template/plugin/sidebar.php:17
 msgid "Manual Plugins"
 msgstr "Manuella plugins"
 
-#: Controller/PluginManagerController.php:119
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:119
 msgid "Unable to open the plugin archive"
-msgstr ""
+msgstr "Det går inte att öppna plugin-arkivet"
 
-#: Controller/PluginManagerController.php:127
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:127
 #, php-format
 msgid "The directory name (%s) does not match with the namespace (%s)"
-msgstr ""
+msgstr "Katalognamnet (%s) stämmer inte överens med namnrymden (%s)"
 
-#: Controller/PluginManagerController.php:133
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:133
 #, php-format
 msgid "The plugin name (%s) does not match with the namespace (%s)"
-msgstr ""
+msgstr "Plugin-namnet (%s) stämmer inte överens med namnrymden (%s)"
 
-#: Controller/PluginManagerController.php:138
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:138
 msgid "Unable to extract the plugin archive"
-msgstr ""
+msgstr "Det gick inte att extrahera plugin-arkivet"
 
-#: Controller/PluginManagerController.php:144
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:144
 msgid "Plugin installed successfully"
 msgstr "Plugin installerades framgångsrikt"
 
-#: Controller/PluginManagerController.php:152
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:152
 msgid "Plugin archive file not found"
 msgstr "Arkivfilen för plugins finns inte"
 
-#: Controller/PluginManagerController.php:199
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:199
 msgid "Plugin directory name was not found"
-msgstr ""
+msgstr "Plugin-katalogens namn hittades inte"
 
-#: Controller/PluginManagerController.php:217
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:217
 msgid "File 'Plugin.php' could not get extracted"
-msgstr ""
+msgstr "Filen 'Plugin.php' kunde inte extraheras"
 
-#: Controller/PluginManagerController.php:256
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:256
 msgid "The plugin name was not found"
-msgstr ""
+msgstr "Plugin-namnet hittades inte"
 
-#: Helper/AgeHelper.php:37
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:37
 msgid "less than a minute ago"
 msgstr "för mindre än en minut sedan"
 
 #. <1h
-#: Helper/AgeHelper.php:40
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:40
 #, php-format
 msgid "around %d minutes ago"
 msgstr "cirka %d minuter sedan"
 
 #. <24h
-#: Helper/AgeHelper.php:43
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:43
 #, php-format
 msgid "around %d hours ago"
 msgstr "cirka %d timmar sedan"
 
 #. <7D
-#: Helper/AgeHelper.php:46
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:46
 #, php-format
 msgid "around %d days ago"
 msgstr "runt %d dagar sedan"
 
 #. <30D
-#: Helper/AgeHelper.php:49
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:49
 #, php-format
 msgid "around %d weeks ago"
 msgstr "runt %d veckor sedan"
 
 #. <360D
-#: Helper/AgeHelper.php:52
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:52
 #, php-format
 msgid "around %d months ago"
 msgstr "runt %d månader sedan"
 
 #. <360D*2
-#: Helper/AgeHelper.php:55
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:55
 msgid "over a year ago"
 msgstr "för över ett år sedan"
 
-#: Helper/AgeHelper.php:57
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:57
 #, php-format
 msgid "over %d years ago"
 msgstr "över %d år sedan"
 
-#: Helper/PluginManagerHelper.php:86
+#: kanboard-ng/PluginMananger/Helper/PluginManagerHelper.php:86
 msgid "Not Available"
 msgstr "Inte tillgänglig"
 
-#: Plugin.php:64
+#: kanboard-ng/PluginMananger/Plugin.php:64
 msgid "Replace the Installed Plugins section with a whole new interface. Plugin Manager provides both users and developers with an improved comprehensive layout displaying a new section for troubleshooting plugins with a new plugin structure breakdown for each plugin. Install plugins direct from the Plugin Directory or explore new upcoming or untested features from manual plugins."
 msgstr "Ersätt avsnittet Installerade plugins med ett helt nytt gränssnitt. Plugin Manager ger både användare och utvecklare en förbättrad övergripande layout som visar en ny sektion för felsökning av plugins med en ny uppdelning av pluginsstrukturen för varje plugin. Installera plugins direkt från pluginkatalogen eller utforska nya kommande eller otestade funktioner från manuella plugins."
 
-#: Template/info/db-info.php:3 Template/plugin/directory.php:197 Template/plugin/manual-plugins.php:109
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:3 Template/plugin/directory.php:197 Template/plugin/manual-plugins.php:109
 msgid "This plugin contains database changes"
 msgstr "Det här insticksprogrammet innehåller ändringar i databasen"
 
-#: Template/info/db-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7
 msgid "This plugin makes changes to your database, usually by adding more tables. Read more about the possible effects of this plugin."
 msgstr "Det här insticksprogrammet ändrar din databas, vanligtvis genom att lägga till fler tabeller. Läs mer om de möjliga effekterna av det här insticksprogrammet."
 
-#: Template/info/db-info.php:7 Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7 Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
 msgid "Learn more"
 msgstr "Läs mer"
 
-#: Template/info/db-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7
 msgid "Go to Plugin Problems"
 msgstr "Gå till Plugin-problem"
 
-#: Template/info/info-last-updated.php:4 Template/plugin/directory.php:129 Template/plugin/manual-plugins.php:51
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:4 Template/plugin/directory.php:129 Template/plugin/manual-plugins.php:51
 msgid "Last Updated"
 msgstr "Senast uppdaterad"
 
-#: Template/info/info-last-updated.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:7
 msgid "The last updated date helps you decide whether a plugin is actively developed and is appropriate for your use case."
 msgstr "Datumet för den senaste uppdateringen hjälper dig att avgöra om ett insticksprogram utvecklas aktivt och är lämpligt för ditt användningsområde."
 
-#: Template/info/info-last-updated.php:8
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:8
 msgid "Plugin Manager will highlight the last updated date based on the date specified by the plugin developer in the Plugins Directory."
 msgstr "Plugin Manager markerar datumet för den senaste uppdateringen baserat på det datum som anges av utvecklaren av insticksprogrammet i katalogerna för insticksprogram."
 
-#: Template/info/info-last-updated.php:11
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:11
 msgid "Active"
 msgstr "Aktiv"
 
-#: Template/info/info-last-updated.php:12
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:12
 msgid "Up to 1 year"
 msgstr "Upp till 1 år"
 
-#: Template/info/info-last-updated.php:15
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:15
 msgid "Stale"
 msgstr "Föråldrad"
 
-#: Template/info/info-last-updated.php:16
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:16
 msgid "1 - 2 years"
 msgstr "1 - 2 år"
 
-#: Template/info/info-last-updated.php:19
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:19
 msgid "Archived"
 msgstr "Arkiverad"
 
-#: Template/info/info-last-updated.php:20
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:20
 msgid "Over 2 years"
 msgstr "Över 2 år"
 
-#: Template/info/info-structure.php:3 Template/info/plugin-info.php:86 Template/plugin/directory.php:137
-#: Template/plugin/manual-plugins.php:59
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:3 Template/info/plugin-info.php:86 Template/plugin/directory.php:137
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:59
 msgid "Plugin Structure"
 msgstr "Struktur för plugins"
 
-#: Template/info/info-structure.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:7
 msgid "The building blocks of a plugin help define it to complete a structure which works with your application."
 msgstr "Byggstenarna i ett insticksprogram hjälper till att definiera det för att skapa en struktur som fungerar i ditt program."
 
-#: Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
 msgid "Go to Plugin Information"
 msgstr "Gå till Plugin Information"
 
-#: Template/info/info-tooltip.php:3
+#: kanboard-ng/PluginMananger/Template/info/info-tooltip.php:3
 msgid "Plugin Types"
 msgstr "Typer av plugins"
 
-#: Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-tooltip.php:7
 msgid "Plugins fall into one of 5 types of categories"
 msgstr "Plugins kan delas in i fem olika kategorier"
 
-#: Template/info/plugin-info.php:3
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:3
 msgid "Plugin Information"
 msgstr "Information om plugins"
 
-#: Template/info/plugin-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:7
 msgid "Types of Plugins"
 msgstr "Typer av plugins"
 
-#: Template/info/plugin-info.php:9
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:9
 msgid "All plugins do the same basic job of extending the features of the application. Different functions require different ways of coding which is why all plugins fall into one of the types below."
 msgstr "Alla plugins har samma grundläggande uppgift att utöka programmets funktioner. Olika funktioner kräver olika sätt att koda, vilket är anledningen till att alla plugins faller in i någon av nedanstående typer."
 
-#: Template/info/plugin-info.php:18
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:18
 msgid "A plugin of any type but with no automatic actions"
 msgstr "En insticksmodul av alla typer men utan automatiska åtgärder."
 
-#: Template/info/plugin-info.php:21
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:21
 msgid "General Plugin"
 msgstr "Allmänt Plugin"
 
-#: Template/info/plugin-info.php:29
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:29
 msgid "A plugin for automatic actions only"
 msgstr "Ett insticksprogram endast för automatiska åtgärder"
 
-#: Template/info/plugin-info.php:32
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:32
 msgid "Action Plugin"
 msgstr "Plugin för åtgärder"
 
-#: Template/info/plugin-info.php:40
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:40
 msgid "A plugin for theming and styling of the interface"
 msgstr "En plugin för tematisering och styling av gränssnittet"
 
-#: Template/info/plugin-info.php:43
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:43
 msgid "Theme Plugin"
 msgstr "Tema Plugin"
 
-#: Template/info/plugin-info.php:51
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:51
 msgid "A plugin connecting to third party services - may contain automatic actions"
 msgstr "Ett insticksprogram som ansluter till tjänster från tredje part - kan innehålla automatiska åtgärder."
 
-#: Template/info/plugin-info.php:54
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:54
 msgid "Connector Plugin"
 msgstr "Plugin för anslutning"
 
-#: Template/info/plugin-info.php:62
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:62
 msgid "A plugin containing multiple functions and automatic actions or connectors"
 msgstr "Ett insticksprogram som innehåller flera funktioner och automatiska åtgärder eller anslutningar."
 
-#: Template/info/plugin-info.php:65
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:65
 msgid "Multi Plugin"
 msgstr "Multi Plugin"
 
-#: Template/info/plugin-info.php:76
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:76
 msgid "A plugin which has not been set a plugin type by the developer"
 msgstr "Ett insticksprogram som inte har fastställts som insticksprogramstyp av utvecklaren."
 
-#: Template/info/plugin-info.php:79
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:79
 msgid "Other Plugin"
 msgstr "Annan plugin"
 
-#: Template/info/plugin-info.php:84
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:84
 msgid "Plugin types are only shown in the"
 msgstr "Instickstyper visas endast i"
 
-#: Template/info/plugin-info.php:84 Template/plugin/directory.php:3 Template/plugin/sidebar.php:13
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:84 Template/plugin/directory.php:3 Template/plugin/sidebar.php:13
 msgid "Plugin Directory"
 msgstr "Katalog över insticksprogram"
 
-#: Template/info/plugin-info.php:88
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:88
 msgid "The official Plugins Directory has been updated to include extra information for each plugin. This information is set by the developer to indicate the code breakdown of the plugin."
 msgstr "Den officiella katalogen över insticksprogram har uppdaterats med extra information om varje insticksprogram. Denna information är inställd av utvecklaren för att ange kodfördelningen för insticksprogrammet."
 
-#: Template/info/plugin-info.php:91
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:91
 msgid "Documentation"
 msgstr "Dokumentation"
 
-#: Template/info/plugin-info.php:97
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:97
 msgid "All plugins should have a readme file in the root of their plugin folder. This icons should show against all plugins."
 msgstr "Alla insticksprogram bör ha en läsmiljöfil i roten av sin insticksprogrammapp. Den här ikonen ska visas för alla insticksprogram."
 
-#: Template/info/plugin-info.php:105
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:105
 msgid "When links go wrong you should always be able to fallback to the plugin or developer homepage. This icon will show against all plugins which have a homepage set by the developer."
 msgstr "När länkar går fel ska du alltid kunna gå tillbaka till insticksprogrammet eller utvecklarens hemsida. Den här ikonen visas för alla insticksprogram som har en hemsida som fastställts av utvecklaren."
 
-#: Template/info/plugin-info.php:110
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:110
 msgid "Database Changes"
 msgstr "Ändringar i databasen"
 
-#: Template/info/plugin-info.php:120
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:120
 msgid "If a plugin is known to alter your database, this icon will show. Altering your database usually includes adding or modifying existing database tables."
 msgstr "Om ett insticksprogram är känt för att ändra din databas visas den här ikonen. Att ändra din databas innebär vanligtvis att lägga till eller ändra befintliga databastabeller."
 
-#: Template/info/plugin-info.php:128
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:128
 msgid "No database changes are detected when this icon shows."
 msgstr "Inga databasändringar upptäcks när den här ikonen visas."
 
-#: Template/info/plugin-info.php:134
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:134
 msgid "Overrides"
 msgstr "Överordnar"
 
-#: Template/info/plugin-info.php:144
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:144
 msgid "Overrides include template files and models. Both types of files affect how your data is presented to you. This icon will show when core templates or models are replaced with specific versions."
 msgstr "Överstyrningar inkluderar mallfiler och modeller. Båda typerna av filer påverkar hur dina data presenteras för dig. Den här ikonen visas när centrala mallar eller modeller ersätts med specifika versioner."
 
-#: Template/info/plugin-info.php:152
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:152
 msgid "No overrides are detected when this icon shows."
 msgstr "Inga överstyrningar upptäcks när denna ikon visas."
 
-#: Template/info/plugin-info.php:158
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:158
 msgid "Hooks"
 msgstr "Krokar"
 
-#: Template/info/plugin-info.php:168
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:168
 msgid "Hooks are files which attach to existing templates or core functions. Hooks do not alter any core structure but add to it."
 msgstr "Hooks är filer som bifogas befintliga mallar eller kärnfunktioner. Hooks ändrar inte kärnstrukturen utan kompletterar den."
 
-#: Template/info/plugin-info.php:176
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:176
 msgid "No hooks are detected when this icon shows."
 msgstr "Inga krokar upptäcks när den här ikonen visas."
 
-#: Template/info/plugin-problems.php:8
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:8
 msgid "Plugins are extensions to your application. They do not take over your application, they just alter the application's performance or output. Use this page as a quick reference to problems which may be caused by a recent plugin installation."
 msgstr "Plugins är tillägg till ditt program. De tar inte över programmet, utan ändrar bara programmets prestanda eller resultat. Använd den här sidan som en snabbreferens till problem som kan orsakas av en nyinstallerad insticksmodul."
 
-#: Template/info/plugin-problems.php:12
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:12
 msgid "Check the overrides"
 msgstr "Kontrollera åsidosättningarna"
 
-#: Template/info/plugin-problems.php:17
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:17
 msgid "Look for templates"
 msgstr "Leta efter mallar"
 
-#: Template/info/plugin-problems.php:20
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:20
 msgid "Look for models in "
 msgstr "Leta efter modeller i "
 
-#: Template/info/plugin-problems.php:25
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:25
 msgid "Overriding templates and models are the most common way to affect the way your application functions. It can be possible that a particular template could be conflicting with another plugin overriding the same template. It is also possible that a certain model is being used by another plugin. For any plugin that is not working or causing issues, this is the area to look into first."
 msgstr "Att åsidosätta mallar och modeller är det vanligaste sättet att påverka hur programmet fungerar. Det kan vara möjligt att en viss mall kan vara i konflikt med en annan insticksmodul som åsidosätter samma mall. Det är också möjligt att en viss modell används av ett annat insticksprogram. För alla insticksprogram som inte fungerar eller orsakar problem är detta det område som du bör undersöka först."
 
-#: Template/info/plugin-problems.php:30
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:30
 msgid "Check the application setup"
 msgstr "Kontrollera inställningen av programmet"
 
-#: Template/info/plugin-problems.php:37 Template/info/plugin-problems.php:39
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:37 Template/info/plugin-problems.php:39
 msgid "Check your folder permissions"
 msgstr "Kontrollera dina mappbehörigheter"
 
-#: Template/info/plugin-problems.php:43
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:43
 msgid "Check server logs"
 msgstr "Kontrollera serverloggar"
 
-#: Template/info/plugin-problems.php:46
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:46
 msgid "Check the browser console for any blocked files"
 msgstr "Kontrollera webbläsarens konsol för blockerade filer"
 
-#: Template/info/plugin-problems.php:52
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:52
 msgid "All information related to your setup can be easily found in"
-msgstr ""
+msgstr "All information som rör din installation kan enkelt hittas i"
 
-#: Template/info/plugin-problems.php:53
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:53
 msgid "Technical Information"
 msgstr "Teknisk information"
 
-#: Template/info/plugin-problems.php:59
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:59
 msgid "Check the database"
 msgstr "Kontrollera databasen"
 
-#: Template/info/plugin-problems.php:64
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:64
 msgid "Check that your database contains data"
 msgstr "Kontrollera att databasen innehåller data"
 
-#: Template/info/plugin-problems.php:67
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:67
 msgid "Check the database tables"
 msgstr "Kontrollera databastabellerna"
 
-#: Template/info/plugin-problems.php:70
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:70
 msgid "Plugin database tables are not automatically deleted when a plugin is uninstalled"
 msgstr "Databastabeller för insticksprogram raderas inte automatiskt när ett insticksprogram avinstalleras."
 
-#: Template/info/plugin-problems.php:75
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:75
 msgid "In the Plugin Manager, all plugins are identified if they contain potential database changes. This is your indication to check for extra tables in the plugin's name. If you decide to remove the plugin which causes you issues, the default the tables in the database will remain. You will need to carefully delete them according to your setup."
 msgstr "I Plugin Manager identifieras alla plugins om de innehåller potentiella databasändringar. Detta är en indikation på att kontrollera om det finns extra tabeller i insticksmodulets namn. Om du bestämmer dig för att ta bort det insticksprogram som orsakar dig problem kommer standardtabellerna i databasen att finnas kvar. Du måste försiktigt ta bort dem enligt din inställning."
 
-#: Template/info/plugin-problems.php:78
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:78
 msgid "Plugins which affect the database also register into the "
 msgstr "Plugins som påverkar databasen registreras också i "
 
-#: Template/info/plugin-problems.php:78
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:78
 msgid "table. If uninstalling a plugin, you would need to delete the associated plugin entry here too besides just the specific plugin related tables."
 msgstr "bord. Om du avinstallerar ett insticksprogram måste du ta bort den associerade insticksprogramsposten här också, förutom de specifika insticksprogramsrelaterade tabellerna."
 
-#: Template/info/plugin-problems.php:83
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:83
 msgid "If everything fails"
 msgstr "Om allt misslyckas"
 
-#: Template/info/plugin-problems.php:89
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:89
 msgid "Delete the folder for the plugin. It is highly likely that the last updated folder will be the offending plugin."
 msgstr "Ta bort mappen för insticksprogrammet. Det är mycket troligt att den senast uppdaterade mappen är det felande insticksprogrammet."
 
-#: Template/info/plugin-problems.php:94
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:94
 msgid "Delete the offending plugin. If you dont know which plugin is causing your issue, check the "
 msgstr "Ta bort det felande insticksprogrammet. Om du inte vet vilket insticksprogram som orsakar problemet kan du kontrollera följande "
 
-#: Template/info/plugin-problems.php:94
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:94
 msgid "folder. Each folder represents each plugin in the same name."
 msgstr "mapp. Varje mapp representerar varje plugin med samma namn."
 
-#: Template/info/plugin-problems.php:100
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:100
 msgid "Further Reading"
 msgstr "Ytterligare läsning"
 
-#: Template/info/plugin-problems.php:104
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:104
 msgid "About Application"
 msgstr "Om ansökan"
 
-#: Template/info/plugin-problems.php:108
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:108
 msgid "Kanboard Forum"
 msgstr "Forum för Kanboard"
 
-#: Template/info/plugin-problems.php:113
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:113
 msgid "Contributing"
 msgstr "Bidragande"
 
-#: Template/info/plugin-problems.php:118
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:118
 msgid "Developing Plugins"
 msgstr "Utveckling av plugins"
 
-#: Template/info/plugin-problems.php:123
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:123
 msgid "Source Code"
 msgstr "Källkod"
 
-#: Template/info/plugin-problems.php:128
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:128
 msgid "Kanboard Plugins"
 msgstr "Kanboard-plugins"
 
-#: Template/plugin/directory.php:7
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:7
 msgid "Your application instance is not configured to install plugins from the user interface."
 msgstr "Din programinstans är inte konfigurerad för att installera plugins från användargränssnittet."
 
-#: Template/plugin/directory.php:11
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:11
 msgid "There is no plugin available."
 msgstr "Det finns inget insticksprogram tillgängligt."
 
-#: Template/plugin/directory.php:19
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:19
 msgid "Available Plugins"
 msgstr "Tillgängliga plugins"
 
-#: Template/plugin/directory.php:20 Template/plugin/directory.php:236
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:20 Template/plugin/directory.php:236
 msgid "Currently Installed"
 msgstr "För närvarande installerad"
 
-#: Template/plugin/directory.php:22
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:22
 msgid "Available Updates"
-msgstr ""
+msgstr "Tillgängliga uppdateringar"
 
-#: Template/plugin/directory.php:24
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:24
 msgid "Your Application"
-msgstr ""
+msgstr "Din ansökan"
 
-#: Template/plugin/directory.php:25
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:25
 msgid "Directory Source"
 msgstr "Katalog Källa"
 
-#: Template/plugin/directory.php:38 Template/plugin/directory.php:185 Template/plugin/directory.php:190
-#: Template/plugin/manual-plugins.php:97 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
-#: Template/plugin/show.php:72 Template/plugin/show.php:175 Template/plugin/show.php:185
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:38 Template/plugin/directory.php:185 Template/plugin/directory.php:190
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:97 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:72 Template/plugin/show.php:175 Template/plugin/show.php:185
 msgid "Opens in a new window"
 msgstr "Öppnas i ett nytt fönster"
 
-#: Template/plugin/directory.php:39
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:39
 msgid "Official Plugin Directory"
 msgstr "Officiell katalog för plugins"
 
-#: Template/plugin/directory.php:42
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:42
 msgid "Custom Directory"
 msgstr "Anpassad katalog"
 
-#: Template/plugin/directory.php:55
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:55
 msgid "Search for plugin..."
 msgstr "Sök efter insticksprogram..."
 
-#: Template/plugin/directory.php:55
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:55
 msgid "Search available plugins"
 msgstr "Sök efter tillgängliga plugins"
 
-#: Template/plugin/directory.php:60 Template/plugin/directory.php:65 Template/plugin/directory.php:70
-#: Template/plugin/directory.php:75 Template/plugin/directory.php:80 Template/plugin/directory.php:87
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:60 Template/plugin/directory.php:65 Template/plugin/directory.php:70
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:75 Template/plugin/directory.php:80 Template/plugin/directory.php:87
 msgid "Filter by type"
-msgstr ""
+msgstr "Filtrera efter typ"
 
-#: Template/plugin/directory.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:62
 msgid "General"
 msgstr "Allmänt"
 
-#: Template/plugin/directory.php:67
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:67
 msgid "Automatic Actions"
 msgstr "Automatiska åtgärder"
 
-#: Template/plugin/directory.php:67 Template/plugin/show.php:32 Template/plugin/show.php:143
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:67 Template/plugin/show.php:32 Template/plugin/show.php:143
 msgid "Actions"
 msgstr "Åtgärder"
 
-#: Template/plugin/directory.php:72
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:72
 msgid "Themes"
 msgstr "Teman"
 
-#: Template/plugin/directory.php:77
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:77
 msgid "Connectors"
 msgstr "Kontakter"
 
-#: Template/plugin/directory.php:82
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:82
 msgid "Multi"
 msgstr "Multi"
 
-#: Template/plugin/directory.php:89
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:89
 msgid "Others"
 msgstr "Övriga"
 
-#: Template/plugin/directory.php:103 Template/plugin/manual-plugins.php:18
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:103 Template/plugin/manual-plugins.php:18
 msgid "Directory Last Updated"
 msgstr "Katalog Senast uppdaterad"
 
-#: Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:20 Template/plugin/show.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:20 Template/plugin/show.php:133
 msgid "Go to the bottom of the page"
 msgstr "Gå till botten av sidan"
 
-#: Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:21 Template/plugin/show.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:21 Template/plugin/show.php:133
 msgid "Bottom"
 msgstr "Botten"
 
-#: Template/plugin/directory.php:126 Template/plugin/manual-plugins.php:48
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:126 Template/plugin/manual-plugins.php:48
 msgid "Plugin Author(s)"
 msgstr "Författare av insticksprogrammet"
 
-#: Template/plugin/directory.php:127
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:127
 msgid "License"
 msgstr "Licens"
 
-#: Template/plugin/directory.php:145 Template/plugin/manual-plugins.php:67
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:145 Template/plugin/manual-plugins.php:67
 msgid "Status"
 msgstr "Status"
 
-#: Template/plugin/directory.php:152 Template/plugin/directory.php:160 Template/plugin/manual-plugins.php:73
-#: Template/plugin/show.php:29 Template/plugin/show.php:140
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:152 Template/plugin/directory.php:160 Template/plugin/manual-plugins.php:73
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:29 Template/plugin/show.php:140
 msgid "Plugin Version"
 msgstr "Version av insticksprogrammet"
 
-#: Template/plugin/directory.php:156
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:156
 msgid "Updated plugin version available"
 msgstr "Uppdaterad version av plugin finns tillgänglig"
 
-#: Template/plugin/directory.php:178 Template/plugin/manual-plugins.php:90
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:178 Template/plugin/manual-plugins.php:90
 msgid "Unable to detect the last time this plugin was updated or a version was released"
 msgstr "Det går inte att upptäcka när det här insticksprogrammet senast uppdaterades eller när en version släpptes."
 
-#: Template/plugin/directory.php:179 Template/plugin/manual-plugins.php:91 Template/plugin/show.php:159
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:179 Template/plugin/manual-plugins.php:91 Template/plugin/show.php:159
 msgid "Not Specified"
 msgstr "Inte specificerat"
 
-#: Template/plugin/directory.php:185 Template/plugin/manual-plugins.php:97
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:185 Template/plugin/manual-plugins.php:97
 msgid "View Readme"
 msgstr "Visa Readme"
 
-#: Template/plugin/directory.php:190 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
-#: Template/plugin/show.php:175
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:190 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:175
 msgid "Plugin Homepage"
 msgstr "Plugins hemsida"
 
-#: Template/plugin/directory.php:200 Template/plugin/manual-plugins.php:112
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:200 Template/plugin/manual-plugins.php:112
 msgid "This plugin contains no database changes"
 msgstr "Detta insticksprogram innehåller inga ändringar i databasen"
 
-#: Template/plugin/directory.php:204 Template/plugin/manual-plugins.php:116
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:204 Template/plugin/manual-plugins.php:116
 msgid "This plugin has not specified any database changes"
 msgstr "Detta insticksprogram har inte specificerat några ändringar i databasen"
 
-#: Template/plugin/directory.php:209 Template/plugin/manual-plugins.php:121
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:209 Template/plugin/manual-plugins.php:121
 msgid "This plugin overrides certain templates or models"
 msgstr "Det här insticksprogrammet åsidosätter vissa mallar eller modeller"
 
-#: Template/plugin/directory.php:212 Template/plugin/manual-plugins.php:124
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:212 Template/plugin/manual-plugins.php:124
 msgid "This plugin does not override any templates or models"
 msgstr "Det här insticksprogrammet åsidosätter inte några mallar eller modeller."
 
-#: Template/plugin/directory.php:216 Template/plugin/manual-plugins.php:128
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:216 Template/plugin/manual-plugins.php:128
 msgid "This plugin has not specified any template or model overrides"
 msgstr "Det här insticksprogrammet har inte angett några mallar eller modeller som åsidosätts."
 
-#: Template/plugin/directory.php:221 Template/plugin/manual-plugins.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:221 Template/plugin/manual-plugins.php:133
 msgid "This plugin contains hooks"
 msgstr "Detta insticksprogram innehåller krokar"
 
-#: Template/plugin/directory.php:224 Template/plugin/manual-plugins.php:136
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:224 Template/plugin/manual-plugins.php:136
 msgid "This plugin does not contain any hooks"
 msgstr "Detta insticksprogram innehåller inga krokar"
 
-#: Template/plugin/directory.php:228 Template/plugin/manual-plugins.php:140
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:228 Template/plugin/manual-plugins.php:140
 msgid "This plugin has not specified any hooks"
 msgstr "Detta insticksprogram har inte angett några krokar"
 
-#: Template/plugin/directory.php:234 Template/plugin/installer.php:15
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:234 Template/plugin/installer.php:15
 msgid "Install"
 msgstr "Installera"
 
-#: Template/plugin/directory.php:234
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:234
 msgid "Install this plugin"
 msgstr "Installera det här insticksprogrammet"
 
-#: Template/plugin/directory.php:239 Template/plugin/show.php:127 Template/plugin/show.php:193
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:239 Template/plugin/show.php:127 Template/plugin/show.php:193
 msgid "Update"
 msgstr "Uppdatera"
 
-#: Template/plugin/directory.php:239 Template/plugin/show.php:193
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:239 Template/plugin/show.php:193
 msgid "Update this plugin"
 msgstr "Uppdatera detta insticksprogram"
 
-#: Template/plugin/directory.php:241
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:241
 msgid "Up to date"
 msgstr "Uppdaterad"
 
-#: Template/plugin/directory.php:242
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:242
 msgid "View in Plugin Manager"
 msgstr "Visa i Plugin Manager"
 
-#: Template/plugin/directory.php:245 Template/plugin/manual-plugins.php:152
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:245 Template/plugin/manual-plugins.php:152
 msgid "Not available"
 msgstr "Inte tillgänglig"
 
-#: Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:179 Template/plugin/show.php:217
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:179 Template/plugin/show.php:217
 msgid "Go to the top of the page"
 msgstr "Gå till toppen av sidan"
 
-#: Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:180 Template/plugin/show.php:217
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:180 Template/plugin/show.php:217
 msgid "Top"
 msgstr "Topp"
 
-#: Template/plugin/installer.php:2
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:2
 msgid "Install Manual Plugin"
 msgstr "Installera manuell plugin"
 
-#: Template/plugin/installer.php:5
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:5
 msgid "Choose to install from a local archive (.zip) file or a remote location"
 msgstr "Välj att installera från en lokal arkivfil (.zip) eller en fjärrplats."
 
-#: Template/plugin/installer.php:7
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:7
 msgid "From File"
 msgstr "Från fil"
 
-#: Template/plugin/installer.php:11
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:11
 msgid "From URL"
 msgstr "Från URL"
 
-#: Template/plugin/manual-plugins.php:12
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:12
 msgid "Warning"
 msgstr "Varning"
 
-#: Template/plugin/manual-plugins.php:13
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:13
 msgid "Use these plugins with great caution and check their functionality with the plugin developer before installing"
 msgstr "Använd dessa plugins med stor försiktighet och kontrollera deras funktionalitet med utvecklaren innan du installerar dem."
 
-#: Template/plugin/manual-plugins.php:145
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:145
 msgid "Download Plugin"
 msgstr "Ladda ner plugin"
 
-#: Template/plugin/manual-plugins.php:146
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:146
 msgid "Download"
 msgstr "Ladda ner"
 
-#: Template/plugin/manual-plugins.php:148
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:148
 msgid "Copy download link"
 msgstr "Kopiera nedladdningslänken"
 
-#: Template/plugin/manual-plugins.php:165
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:165
 msgid "This plugin is for developers"
 msgstr "Det här insticksprogrammet är för utvecklare"
 
-#: Template/plugin/manual-plugins.php:167
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:167
 msgid "This plugin is for translators and developers"
 msgstr "Det här insticksprogrammet är för översättare och utvecklare"
 
-#: Template/plugin/manual-plugins.php:173
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:173
 msgid "This plugin may not be completely functional. Always check the homepage for recent developments as the download link may not show the latest version."
 msgstr "Detta insticksprogram kanske inte fungerar helt och hållet. Kontrollera alltid hemsidan för senaste utvecklingen eftersom nedladdningslänken kanske inte visar den senaste versionen."
 
-#: Template/plugin/manual-plugins.php:183
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:183
 msgid "There are no manual plugins listed at the moment"
 msgstr "Det finns inga manuella plugins i listan för tillfället."
 
-#: Template/plugin/show.php:17
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:17
 msgid "Incompatible Plugins"
 msgstr "Inkompatibla insticksprogram"
 
-#: Template/plugin/show.php:22
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:22
 msgid "Plugins listed as incompatible are based on the application version limit set by the plugin developer. You are using"
 msgstr "Plugins som anges som inkompatibla är baserade på den gräns för programversionen som pluginutvecklaren har fastställt. Du använder"
 
-#: Template/plugin/show.php:27 Template/plugin/show.php:138
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:27 Template/plugin/show.php:138
 msgid "Name"
 msgstr "Namn"
 
-#: Template/plugin/show.php:28 Template/plugin/show.php:139
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:28 Template/plugin/show.php:139
 msgid "Author"
 msgstr "Författare"
 
-#: Template/plugin/show.php:30 Template/plugin/show.php:141
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:30 Template/plugin/show.php:141
 msgid "Kanboard Compatibility"
 msgstr "Kompatibilitet med Kanboard"
 
-#: Template/plugin/show.php:72 Template/plugin/show.php:185
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:72 Template/plugin/show.php:185
 msgid "Plugin Readme"
 msgstr "Läs mer om plugins"
 
-#: Template/plugin/show.php:79 Template/plugin/show.php:201
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:79 Template/plugin/show.php:201
 msgid "Uninstall"
 msgstr "Avinstallera"
 
-#: Template/plugin/show.php:89 Template/plugin/show.php:210
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:89 Template/plugin/show.php:210
 msgid "Installed"
 msgstr "Installerad"
 
-#: Template/plugin/show.php:100
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:100
 msgid "There is no plugin loaded."
 msgstr "Det finns inget insticksprogram laddat."
 
 #. phpcs:disable Squiz.ControlStructures.ControlSignature.NewlineAfterOpenBrace,Squiz.WhiteSpace.ScopeClosingBrace.ContentBefore
-#: Template/plugin/show.php:106
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:106
 msgid "Copy plugin list"
 msgstr "Kopiera listan över insticksprogram"
 
-#: Template/plugin/show.php:106
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:106
 msgid "by"
 msgstr "av"
 
-#: Template/plugin/show.php:108
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:108
 msgid "Copy to Clipboard"
 msgstr "Kopiera till Urklipp"
 
 #. phpcs:enable
-#: Template/plugin/show.php:118
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:118
 msgid "Search for installed plugin..."
 msgstr "Sök efter installerat insticksprogram..."
 
-#: Template/plugin/show.php:118
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:118
 msgid "Search installed plugins"
 msgstr "Sök installerade plugins"
 
-#: Template/plugin/show.php:126
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:126
 #, php-format
 msgid "You have %s plugins installed"
 msgstr "Du har installerat %s plugins"
 
-#: Template/plugin/show.php:127
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:127
 msgid "Click this link then focus in the search box to filter plugins"
-msgstr ""
+msgstr "Klicka på denna länk och fokusera sedan i sökrutan för att filtrera plugins"
 
-#: Template/plugin/show.php:128
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:128
 #, php-format
 msgid "with %s updates available"
-msgstr ""
+msgstr "med %s uppdateringar tillgängliga"
 
-#: Template/plugin/show.php:130
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:130
 #, php-format
 msgid "and %s incompatible plugin(s)"
 msgstr "och %s inkompatibla insticksprogram."
 
-#: Template/plugin/show.php:195
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:195
 msgid "Refresh this page after updating this plugin"
-msgstr ""
+msgstr "Uppdatera denna sida efter uppdatering av detta plugin"
 
-#: Template/plugin/sidebar.php:28
+#: kanboard-ng/PluginMananger/Template/plugin/sidebar.php:28
 msgid "Technical Info"
 msgstr "Teknisk information"
 
-#: Template/plugin/sidebar.php:33
+#: kanboard-ng/PluginMananger/Template/plugin/sidebar.php:33
 msgid "Content Cleaner"
 msgstr "Rengöring av innehåll"
 

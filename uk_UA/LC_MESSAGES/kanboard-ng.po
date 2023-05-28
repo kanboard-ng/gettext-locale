@@ -2,8 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-17 19:28+0200\n"
-"PO-Revision-Date: 2023-05-17 17:34\n"
+"POT-Creation-Date: 2023-05-28 23:45+0200\n"
+"PO-Revision-Date: 2023-05-28 22:01\n"
+"Last-Translator: \n"
 "Language-Team: Ukrainian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1231,10 +1232,10 @@ msgid "Closed tasks"
 msgstr "Закриті задачі"
 
 #: kanboard-ng/kanboard-ng/app/Controller/ProjectViewController.php:41
-#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:226
+#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:227
 #: kanboard-ng/kanboard-ng/app/Template/project/sidebar.php:20 app/Template/project_view/share.php:2
 #: kanboard-ng/kanboard-ng/app/Template/user_list/dropdown.php:31 app/Template/user_view/share.php:2
-#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:43 app/Template/user_view/sidebar.php:75
+#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:44 app/Template/user_view/sidebar.php:75
 msgid "Public access"
 msgstr "Публічний доступ"
 
@@ -1467,10 +1468,10 @@ msgstr "Код двофакторної автентифікації непра�
 
 #: kanboard-ng/kanboard-ng/app/Controller/TwoFactorController.php:135
 #: kanboard-ng/kanboard-ng/app/Controller/UserCredentialController.php:107
-#: kanboard-ng/kanboard-ng/app/Controller/UserModificationController.php:65
-#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:146
-#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:172
-#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:211
+#: kanboard-ng/kanboard-ng/app/Controller/UserModificationController.php:67
+#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:147
+#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:173
+#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:212
 msgid "User updated successfully."
 msgstr "Користувач успішно оновлено."
 
@@ -1483,12 +1484,12 @@ msgstr "Перевірка коду двофакторної автентифі�
 msgid "API User Access"
 msgstr "Користувацький доступ до API"
 
-#: kanboard-ng/kanboard-ng/app/Controller/UserCreationController.php:73
-#: kanboard-ng/kanboard-ng/app/Controller/UserInviteController.php:100
+#: kanboard-ng/kanboard-ng/app/Controller/UserCreationController.php:74
+#: kanboard-ng/kanboard-ng/app/Controller/UserInviteController.php:101
 msgid "User created successfully."
 msgstr "Користувача успішно створено."
 
-#: kanboard-ng/kanboard-ng/app/Controller/UserCreationController.php:76
+#: kanboard-ng/kanboard-ng/app/Controller/UserCreationController.php:77
 msgid "Unable to create your user."
 msgstr "Не вдалося створити користувача."
 
@@ -1501,8 +1502,8 @@ msgid "Unable to change the password."
 msgstr "Не вдалося змінити пароль."
 
 #: kanboard-ng/kanboard-ng/app/Controller/UserCredentialController.php:111
-#: kanboard-ng/kanboard-ng/app/Controller/UserModificationController.php:69
-#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:213
+#: kanboard-ng/kanboard-ng/app/Controller/UserModificationController.php:71
+#: kanboard-ng/kanboard-ng/app/Controller/UserViewController.php:214
 msgid "Unable to update this user."
 msgstr "Не вдалося оновити цього користувача."
 
@@ -1529,7 +1530,7 @@ msgstr "%d запрошень надіслано."
 msgid "%d invitation was sent."
 msgstr "%d запрошення надіслано."
 
-#: kanboard-ng/kanboard-ng/app/Controller/UserInviteController.php:103
+#: kanboard-ng/kanboard-ng/app/Controller/UserInviteController.php:104
 msgid "Unable to create this user."
 msgstr "Не вдалося створити користувача."
 
@@ -2454,7 +2455,7 @@ msgstr "Слід вказати заголовок"
 #: kanboard-ng/kanboard-ng/app/Validator/SubtaskValidator.php:94 app/Validator/SwimlaneValidator.php:71
 #: kanboard-ng/kanboard-ng/app/Validator/TagValidator.php:73 app/Validator/TaskValidator.php:43
 #: kanboard-ng/kanboard-ng/app/Validator/TaskValidator.php:44 app/Validator/UserValidator.php:26
-#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:27
+#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:27 app/Validator/UserValidator.php:31
 #, php-format
 msgid "The maximum length is %d characters"
 msgstr "Максимальна довжина – %d символів"
@@ -2731,6 +2732,18 @@ msgstr "Місяці"
 msgid "Year(s)"
 msgstr "Роки"
 
+#: kanboard-ng/kanboard-ng/app/Model/ThemeModel.php:24
+msgid "Light theme"
+msgstr ""
+
+#: kanboard-ng/kanboard-ng/app/Model/ThemeModel.php:25
+msgid "Dark theme"
+msgstr ""
+
+#: kanboard-ng/kanboard-ng/app/Model/ThemeModel.php:26
+msgid "Automatic theme - Sync with system"
+msgstr ""
+
 #: kanboard-ng/kanboard-ng/app/Model/UserNotificationFilterModel.php:41
 msgid "All tasks"
 msgstr "Всі задачі"
@@ -2895,14 +2908,14 @@ msgstr "Переглянути розширений синтаксис пошу�
 #: kanboard-ng/kanboard-ng/app/Template/activity/project.php:6
 #: kanboard-ng/kanboard-ng/app/Template/project_overview/information.php:31
 #: kanboard-ng/kanboard-ng/app/Template/project_view/share.php:11 app/Template/project_view/show.php:17
-#: kanboard-ng/kanboard-ng/app/Template/user_view/share.php:8 app/Template/user_view/show.php:48
+#: kanboard-ng/kanboard-ng/app/Template/user_view/share.php:8 app/Template/user_view/show.php:49
 msgid "RSS feed"
 msgstr "Стрічка RSS"
 
 #: kanboard-ng/kanboard-ng/app/Template/activity/project.php:7
 #: kanboard-ng/kanboard-ng/app/Template/project_overview/information.php:32
 #: kanboard-ng/kanboard-ng/app/Template/project_view/share.php:12 app/Template/project_view/show.php:18
-#: kanboard-ng/kanboard-ng/app/Template/user_view/share.php:9 app/Template/user_view/show.php:49
+#: kanboard-ng/kanboard-ng/app/Template/user_view/share.php:9 app/Template/user_view/show.php:50
 msgid "iCal feed"
 msgstr "Стрічка iCal"
 
@@ -3602,7 +3615,7 @@ msgstr "Наприклад : https://example.kanboard.org/ (використо�
 #: kanboard-ng/kanboard-ng/app/Template/config/application.php:12
 #: kanboard-ng/kanboard-ng/app/Template/user_creation/show.php:51
 #: kanboard-ng/kanboard-ng/app/Template/user_invite/signup.php:36
-#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:25
+#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:28
 msgid "Language"
 msgstr "Мова"
 
@@ -3613,7 +3626,7 @@ msgstr "Увімкнути \"Забув пароль\""
 #: kanboard-ng/kanboard-ng/app/Template/config/application.php:19
 #: kanboard-ng/kanboard-ng/app/Template/user_creation/show.php:48
 #: kanboard-ng/kanboard-ng/app/Template/user_invite/signup.php:33
-#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:22
+#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:25
 msgid "Timezone"
 msgstr "Часовий пояс"
 
@@ -3885,7 +3898,7 @@ msgstr "Ім'я"
 #: kanboard-ng/kanboard-ng/app/Template/custom_filter/index.php:13
 #: kanboard-ng/kanboard-ng/app/Template/project_header/search.php:9
 #: kanboard-ng/kanboard-ng/app/Template/user_creation/show.php:54
-#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:28
+#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:31
 msgid "Filter"
 msgstr "Фільтр"
 
@@ -6096,7 +6109,7 @@ msgid "The password is necessary only for local users."
 msgstr "Пароль обов'язковий лише для локальних користувачів."
 
 #: kanboard-ng/kanboard-ng/app/Template/user_creation/show.php:38
-#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:34
+#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:37
 #: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:13
 msgid "Security"
 msgstr "Безпека"
@@ -6284,7 +6297,11 @@ msgstr "Користувача заблоковано"
 msgid "Edit user"
 msgstr "Редагувати користувача"
 
-#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:35
+#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:22
+msgid "Theme"
+msgstr ""
+
+#: kanboard-ng/kanboard-ng/app/Template/user_modification/show.php:38
 msgid "Application role"
 msgstr "Роль в межах додатку"
 
@@ -6437,26 +6454,30 @@ msgid "Unlock this user"
 msgstr "Розблокувати користувача"
 
 #: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:35
+msgid "Theme:"
+msgstr ""
+
+#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:36
 msgid "Timezone:"
 msgstr "Часовий пояс:"
 
-#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:36
+#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:37
 msgid "Language:"
 msgstr "Мова:"
 
-#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:37
+#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:38
 msgid "Custom Filter:"
 msgstr "Власний фільтр:"
 
-#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:38
+#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:39
 msgid "Notifications:"
 msgstr "Сповіщення:"
 
-#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:38
+#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:39
 msgid "Enabled"
 msgstr "Увімкнені"
 
-#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:38
+#: kanboard-ng/kanboard-ng/app/Template/user_view/show.php:39
 msgid "Disabled"
 msgstr "Вимкнуті"
 
@@ -6512,7 +6533,7 @@ msgstr "Це значення є обов'язковим"
 
 #: kanboard-ng/kanboard-ng/app/Validator/AuthValidator.php:39
 #: kanboard-ng/kanboard-ng/app/Validator/PasswordResetValidator.php:57
-#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:44 app/Validator/UserValidator.php:70
+#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:45 app/Validator/UserValidator.php:71
 msgid "The username is required"
 msgstr "Логін є обов'язковим"
 
@@ -6708,16 +6729,16 @@ msgstr "Дата початку не може бути пізніше дати �
 msgid "This username is already taken"
 msgstr "Цей логін вже зайнято"
 
-#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:69 app/Validator/UserValidator.php:91
-#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:112
+#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:70 app/Validator/UserValidator.php:92
+#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:113
 msgid "The user id is required"
 msgstr "Ідентифікатор користувача є обов'язковим"
 
-#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:113
+#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:114
 msgid "The current password is required"
 msgstr "Слід вказати поточний пароль"
 
-#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:126
+#: kanboard-ng/kanboard-ng/app/Validator/UserValidator.php:127
 msgid "Wrong password"
 msgstr "Пароль неправильний"
 

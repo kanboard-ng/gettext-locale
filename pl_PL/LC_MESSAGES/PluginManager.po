@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 23:23+0200\n"
-"PO-Revision-Date: 2023-05-28 21:25\n"
+"PO-Revision-Date: 2023-05-28 22:01\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -27,761 +27,761 @@ msgstr ""
 "Language: pl_PL\n"
 
 #. phpcs:enable
-#: Controller/PluginManagerController.php:30 Controller/PluginManagerController.php:43 Controller/PluginManagerController.php:57
-#: Template/config/sidebar.php:2 Template/plugin/show.php:11 Template/plugin/sidebar.php:9
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:30 Controller/PluginManagerController.php:43 Controller/PluginManagerController.php:57
+#: kanboard-ng/PluginMananger/Template/config/sidebar.php:2 Template/plugin/show.php:11 Template/plugin/sidebar.php:9
 msgid "Plugin Manager"
 msgstr "Menedżer wtyczek"
 
-#: Controller/PluginManagerController.php:30 Template/info/plugin-problems.php:3 Template/plugin/sidebar.php:24
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:30 Template/info/plugin-problems.php:3 Template/plugin/sidebar.php:24
 msgid "Plugin Problems"
 msgstr "Problemy z wtyczkami"
 
-#: Controller/PluginManagerController.php:43 Template/plugin/sidebar.php:21
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:43 Template/plugin/sidebar.php:21
 msgid "Plugin Info"
 msgstr "Informacje o wtyczkach"
 
-#: Controller/PluginManagerController.php:57 Template/plugin/manual-plugins.php:3 Template/plugin/sidebar.php:17
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:57 Template/plugin/manual-plugins.php:3 Template/plugin/sidebar.php:17
 msgid "Manual Plugins"
 msgstr "Ręczne wtyczki"
 
-#: Controller/PluginManagerController.php:119
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:119
 msgid "Unable to open the plugin archive"
-msgstr ""
+msgstr "Nie można otworzyć archiwum wtyczki"
 
-#: Controller/PluginManagerController.php:127
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:127
 #, php-format
 msgid "The directory name (%s) does not match with the namespace (%s)"
-msgstr ""
+msgstr "Nazwa katalogu (%s) nie pasuje do przestrzeni nazw (%s)"
 
-#: Controller/PluginManagerController.php:133
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:133
 #, php-format
 msgid "The plugin name (%s) does not match with the namespace (%s)"
-msgstr ""
+msgstr "Nazwa wtyczki (%s) nie jest zgodna z przestrzenią nazw (%s)."
 
-#: Controller/PluginManagerController.php:138
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:138
 msgid "Unable to extract the plugin archive"
-msgstr ""
+msgstr "Nie można wyodrębnić archiwum wtyczki"
 
-#: Controller/PluginManagerController.php:144
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:144
 msgid "Plugin installed successfully"
 msgstr "Wtyczka zainstalowana pomyślnie"
 
-#: Controller/PluginManagerController.php:152
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:152
 msgid "Plugin archive file not found"
 msgstr "Nie znaleziono pliku archiwum wtyczki"
 
-#: Controller/PluginManagerController.php:199
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:199
 msgid "Plugin directory name was not found"
-msgstr ""
+msgstr "Nie znaleziono nazwy katalogu wtyczki"
 
-#: Controller/PluginManagerController.php:217
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:217
 msgid "File 'Plugin.php' could not get extracted"
-msgstr ""
+msgstr "Nie udało się wyodrębnić pliku 'Plugin.php'"
 
-#: Controller/PluginManagerController.php:256
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:256
 msgid "The plugin name was not found"
-msgstr ""
+msgstr "Nie znaleziono nazwy wtyczki"
 
-#: Helper/AgeHelper.php:37
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:37
 msgid "less than a minute ago"
 msgstr "mniej niż minutę temu"
 
 #. <1h
-#: Helper/AgeHelper.php:40
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:40
 #, php-format
 msgid "around %d minutes ago"
 msgstr "około %d minut temu"
 
 #. <24h
-#: Helper/AgeHelper.php:43
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:43
 #, php-format
 msgid "around %d hours ago"
 msgstr "około %d godzin temu"
 
 #. <7D
-#: Helper/AgeHelper.php:46
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:46
 #, php-format
 msgid "around %d days ago"
 msgstr "około %d dni temu"
 
 #. <30D
-#: Helper/AgeHelper.php:49
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:49
 #, php-format
 msgid "around %d weeks ago"
 msgstr "około %d tygodnie temu"
 
 #. <360D
-#: Helper/AgeHelper.php:52
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:52
 #, php-format
 msgid "around %d months ago"
 msgstr "około %d miesięcy temu"
 
 #. <360D*2
-#: Helper/AgeHelper.php:55
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:55
 msgid "over a year ago"
 msgstr "ponad rok temu"
 
-#: Helper/AgeHelper.php:57
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:57
 #, php-format
 msgid "over %d years ago"
 msgstr "ponad %d lat temu"
 
-#: Helper/PluginManagerHelper.php:86
+#: kanboard-ng/PluginMananger/Helper/PluginManagerHelper.php:86
 msgid "Not Available"
 msgstr "Niedostępne"
 
-#: Plugin.php:64
+#: kanboard-ng/PluginMananger/Plugin.php:64
 msgid "Replace the Installed Plugins section with a whole new interface. Plugin Manager provides both users and developers with an improved comprehensive layout displaying a new section for troubleshooting plugins with a new plugin structure breakdown for each plugin. Install plugins direct from the Plugin Directory or explore new upcoming or untested features from manual plugins."
 msgstr "Zastąpienie sekcji Zainstalowane wtyczki zupełnie nowym interfejsem. Plugin Manager oferuje zarówno użytkownikom, jak i programistom ulepszony, kompleksowy układ, wyświetlający nową sekcję dotyczącą rozwiązywania problemów z wtyczkami, z nowym podziałem struktury wtyczek dla każdej wtyczki. Instalowanie wtyczek bezpośrednio z Katalogu wtyczek lub odkrywanie nowych, nadchodzących lub niesprawdzonych funkcji z ręcznych wtyczek."
 
-#: Template/info/db-info.php:3 Template/plugin/directory.php:197 Template/plugin/manual-plugins.php:109
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:3 Template/plugin/directory.php:197 Template/plugin/manual-plugins.php:109
 msgid "This plugin contains database changes"
 msgstr "Ten plugin zawiera zmiany w bazie danych"
 
-#: Template/info/db-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7
 msgid "This plugin makes changes to your database, usually by adding more tables. Read more about the possible effects of this plugin."
 msgstr "Ten plugin wprowadza zmiany w Państwa bazie danych, zazwyczaj poprzez dodanie kolejnych tabel. Proszę przeczytać więcej o możliwych efektach działania tej wtyczki."
 
-#: Template/info/db-info.php:7 Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7 Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
 msgid "Learn more"
 msgstr "Dowiedz się więcej"
 
-#: Template/info/db-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7
 msgid "Go to Plugin Problems"
 msgstr "Przejdź do Problemy z wtyczkami"
 
-#: Template/info/info-last-updated.php:4 Template/plugin/directory.php:129 Template/plugin/manual-plugins.php:51
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:4 Template/plugin/directory.php:129 Template/plugin/manual-plugins.php:51
 msgid "Last Updated"
 msgstr "Ostatnio aktualizowane"
 
-#: Template/info/info-last-updated.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:7
 msgid "The last updated date helps you decide whether a plugin is actively developed and is appropriate for your use case."
 msgstr "Data ostatniej aktualizacji pomoże Państwu zdecydować, czy dana wtyczka jest aktywnie rozwijana i czy jest odpowiednia dla Państwa przypadku użycia."
 
-#: Template/info/info-last-updated.php:8
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:8
 msgid "Plugin Manager will highlight the last updated date based on the date specified by the plugin developer in the Plugins Directory."
 msgstr "Plugin Manager podświetli datę ostatniej aktualizacji na podstawie daty podanej przez twórcę wtyczki w katalogu wtyczek."
 
-#: Template/info/info-last-updated.php:11
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:11
 msgid "Active"
 msgstr "Aktywny"
 
-#: Template/info/info-last-updated.php:12
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:12
 msgid "Up to 1 year"
 msgstr "Do 1 roku"
 
-#: Template/info/info-last-updated.php:15
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:15
 msgid "Stale"
 msgstr "Stale"
 
-#: Template/info/info-last-updated.php:16
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:16
 msgid "1 - 2 years"
 msgstr "1 - 2 lata"
 
-#: Template/info/info-last-updated.php:19
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:19
 msgid "Archived"
 msgstr "Zarchiwizowane"
 
-#: Template/info/info-last-updated.php:20
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:20
 msgid "Over 2 years"
 msgstr "Ponad 2 lata"
 
-#: Template/info/info-structure.php:3 Template/info/plugin-info.php:86 Template/plugin/directory.php:137
-#: Template/plugin/manual-plugins.php:59
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:3 Template/info/plugin-info.php:86 Template/plugin/directory.php:137
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:59
 msgid "Plugin Structure"
 msgstr "Struktura wtyczki"
 
-#: Template/info/info-structure.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:7
 msgid "The building blocks of a plugin help define it to complete a structure which works with your application."
 msgstr "Bloki konstrukcyjne wtyczki pomagają ją zdefiniować, aby stworzyć strukturę, która będzie współpracować z Państwa aplikacją."
 
-#: Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
 msgid "Go to Plugin Information"
 msgstr "Przejdź do Informacji o wtyczkach"
 
-#: Template/info/info-tooltip.php:3
+#: kanboard-ng/PluginMananger/Template/info/info-tooltip.php:3
 msgid "Plugin Types"
 msgstr "Typy wtyczek"
 
-#: Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-tooltip.php:7
 msgid "Plugins fall into one of 5 types of categories"
 msgstr "Wtyczki należą do jednej z 5 rodzajów kategorii"
 
-#: Template/info/plugin-info.php:3
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:3
 msgid "Plugin Information"
 msgstr "Informacje o wtyczkach"
 
-#: Template/info/plugin-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:7
 msgid "Types of Plugins"
 msgstr "Rodzaje wtyczek"
 
-#: Template/info/plugin-info.php:9
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:9
 msgid "All plugins do the same basic job of extending the features of the application. Different functions require different ways of coding which is why all plugins fall into one of the types below."
 msgstr "Wszystkie wtyczki wykonują to samo podstawowe zadanie - rozszerzają funkcje aplikacji. Różne funkcje wymagają różnych sposobów kodowania, dlatego wszystkie wtyczki należą do jednego z poniższych typów."
 
-#: Template/info/plugin-info.php:18
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:18
 msgid "A plugin of any type but with no automatic actions"
 msgstr "Wtyczka dowolnego typu, ale bez automatycznych działań"
 
-#: Template/info/plugin-info.php:21
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:21
 msgid "General Plugin"
 msgstr "Wtyczka ogólna"
 
-#: Template/info/plugin-info.php:29
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:29
 msgid "A plugin for automatic actions only"
 msgstr "Plugin tylko do działań automatycznych"
 
-#: Template/info/plugin-info.php:32
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:32
 msgid "Action Plugin"
 msgstr "Action Plugin"
 
-#: Template/info/plugin-info.php:40
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:40
 msgid "A plugin for theming and styling of the interface"
 msgstr "Wtyczka do tworzenia tematów i stylizacji interfejsu"
 
-#: Template/info/plugin-info.php:43
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:43
 msgid "Theme Plugin"
 msgstr "Wtyczka tematyczna"
 
-#: Template/info/plugin-info.php:51
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:51
 msgid "A plugin connecting to third party services - may contain automatic actions"
 msgstr "Wtyczka łącząca się z usługami osób trzecich - może zawierać automatyczne działania"
 
-#: Template/info/plugin-info.php:54
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:54
 msgid "Connector Plugin"
 msgstr "Plugin Connector"
 
-#: Template/info/plugin-info.php:62
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:62
 msgid "A plugin containing multiple functions and automatic actions or connectors"
 msgstr "Wtyczka zawierająca wiele funkcji i automatycznych działań lub łączników"
 
-#: Template/info/plugin-info.php:65
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:65
 msgid "Multi Plugin"
 msgstr "Multi Plugin"
 
-#: Template/info/plugin-info.php:76
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:76
 msgid "A plugin which has not been set a plugin type by the developer"
 msgstr "Wtyczka, która nie została określona jako typ wtyczki przez dewelopera"
 
-#: Template/info/plugin-info.php:79
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:79
 msgid "Other Plugin"
 msgstr "Inne wtyczki"
 
-#: Template/info/plugin-info.php:84
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:84
 msgid "Plugin types are only shown in the"
 msgstr "Typy wtyczek są widoczne tylko w"
 
-#: Template/info/plugin-info.php:84 Template/plugin/directory.php:3 Template/plugin/sidebar.php:13
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:84 Template/plugin/directory.php:3 Template/plugin/sidebar.php:13
 msgid "Plugin Directory"
 msgstr "Katalog wtyczek"
 
-#: Template/info/plugin-info.php:88
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:88
 msgid "The official Plugins Directory has been updated to include extra information for each plugin. This information is set by the developer to indicate the code breakdown of the plugin."
 msgstr "Oficjalny Katalog Wtyczek został zaktualizowany o dodatkowe informacje dla każdej wtyczki. Informacje te są ustawiane przez dewelopera, aby wskazać podział kodu wtyczki."
 
-#: Template/info/plugin-info.php:91
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:91
 msgid "Documentation"
 msgstr "Dokumentacja"
 
-#: Template/info/plugin-info.php:97
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:97
 msgid "All plugins should have a readme file in the root of their plugin folder. This icons should show against all plugins."
 msgstr "Wszystkie wtyczki powinny mieć plik readme w głównym katalogu wtyczek. Ta ikona powinna być widoczna przy wszystkich wtyczkach."
 
-#: Template/info/plugin-info.php:105
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:105
 msgid "When links go wrong you should always be able to fallback to the plugin or developer homepage. This icon will show against all plugins which have a homepage set by the developer."
 msgstr "Jeżeli linki nie działają, powinni Państwo zawsze mieć możliwość powrotu do strony głównej wtyczki lub dewelopera. Ta ikona będzie widoczna przy wszystkich wtyczkach, które mają ustawioną przez twórcę stronę główną."
 
-#: Template/info/plugin-info.php:110
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:110
 msgid "Database Changes"
 msgstr "Zmiany w bazie danych"
 
-#: Template/info/plugin-info.php:120
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:120
 msgid "If a plugin is known to alter your database, this icon will show. Altering your database usually includes adding or modifying existing database tables."
 msgstr "Jeżeli wiadomo, że dany plugin zmienia Państwa bazę danych, pojawi się ta ikona. Zmiana bazy danych obejmuje zazwyczaj dodanie lub modyfikację istniejących tabel bazy danych."
 
-#: Template/info/plugin-info.php:128
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:128
 msgid "No database changes are detected when this icon shows."
 msgstr "Gdy ta ikona jest widoczna, nie są wykrywane żadne zmiany w bazie danych."
 
-#: Template/info/plugin-info.php:134
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:134
 msgid "Overrides"
 msgstr "Nadpisuje"
 
-#: Template/info/plugin-info.php:144
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:144
 msgid "Overrides include template files and models. Both types of files affect how your data is presented to you. This icon will show when core templates or models are replaced with specific versions."
 msgstr "Do nadpisów należą pliki szablonów i modeli. Oba typy plików wpływają na sposób prezentacji Państwa danych. Ta ikona pokaże, kiedy podstawowe szablony lub modele zostaną zastąpione określonymi wersjami."
 
-#: Template/info/plugin-info.php:152
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:152
 msgid "No overrides are detected when this icon shows."
 msgstr "W przypadku wyświetlenia tej ikony nie są wykrywane żadne nadpisy."
 
-#: Template/info/plugin-info.php:158
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:158
 msgid "Hooks"
 msgstr "Haki"
 
-#: Template/info/plugin-info.php:168
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:168
 msgid "Hooks are files which attach to existing templates or core functions. Hooks do not alter any core structure but add to it."
 msgstr "Haki to pliki, które dołączają się do istniejących szablonów lub podstawowych funkcji. Haki nie zmieniają żadnej podstawowej struktury, lecz ją uzupełniają."
 
-#: Template/info/plugin-info.php:176
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:176
 msgid "No hooks are detected when this icon shows."
 msgstr "Gdy pojawia się ta ikona, nie są wykrywane żadne haki."
 
-#: Template/info/plugin-problems.php:8
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:8
 msgid "Plugins are extensions to your application. They do not take over your application, they just alter the application's performance or output. Use this page as a quick reference to problems which may be caused by a recent plugin installation."
 msgstr "Wtyczki są rozszerzeniami Państwa aplikacji. Nie przejmują one kontroli nad Państwa aplikacją, a jedynie zmieniają jej wydajność lub wyniki. Proszę skorzystać z tej strony jako krótkiego przewodnika po problemach, które mogą być spowodowane niedawną instalacją wtyczek."
 
-#: Template/info/plugin-problems.php:12
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:12
 msgid "Check the overrides"
 msgstr "Sprawdź nadpisy"
 
-#: Template/info/plugin-problems.php:17
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:17
 msgid "Look for templates"
 msgstr "Szukajcie szablonów"
 
-#: Template/info/plugin-problems.php:20
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:20
 msgid "Look for models in "
 msgstr "Szukajcie modeli w "
 
-#: Template/info/plugin-problems.php:25
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:25
 msgid "Overriding templates and models are the most common way to affect the way your application functions. It can be possible that a particular template could be conflicting with another plugin overriding the same template. It is also possible that a certain model is being used by another plugin. For any plugin that is not working or causing issues, this is the area to look into first."
 msgstr "Nadpisywanie szablonów i modeli to najczęstszy sposób wpływania na funkcjonowanie Państwa aplikacji. Może się zdarzyć, że dany szablon będzie kolidował z innym pluginem nadrzędnym wobec tego samego szablonu. Możliwe jest również, że określony model jest wykorzystywany przez inną wtyczkę. W przypadku każdej wtyczki, która nie działa lub powoduje problemy, jest to obszar, który należy sprawdzić w pierwszej kolejności."
 
-#: Template/info/plugin-problems.php:30
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:30
 msgid "Check the application setup"
 msgstr "Sprawdzić konfigurację aplikacji"
 
-#: Template/info/plugin-problems.php:37 Template/info/plugin-problems.php:39
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:37 Template/info/plugin-problems.php:39
 msgid "Check your folder permissions"
 msgstr "Sprawdź uprawnienia do folderów"
 
-#: Template/info/plugin-problems.php:43
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:43
 msgid "Check server logs"
 msgstr "Sprawdź logi serwera"
 
-#: Template/info/plugin-problems.php:46
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:46
 msgid "Check the browser console for any blocked files"
 msgstr "Sprawdzić w konsoli przeglądarki, czy nie ma zablokowanych plików"
 
-#: Template/info/plugin-problems.php:52
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:52
 msgid "All information related to your setup can be easily found in"
-msgstr ""
+msgstr "Wszystkie informacje związane z Państwa konfiguracją można łatwo znaleźć na stronie"
 
-#: Template/info/plugin-problems.php:53
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:53
 msgid "Technical Information"
 msgstr "Informacje techniczne"
 
-#: Template/info/plugin-problems.php:59
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:59
 msgid "Check the database"
 msgstr "Sprawdzić bazę danych"
 
-#: Template/info/plugin-problems.php:64
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:64
 msgid "Check that your database contains data"
 msgstr "Sprawdź, czy Twoja baza danych zawiera dane"
 
-#: Template/info/plugin-problems.php:67
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:67
 msgid "Check the database tables"
 msgstr "Sprawdzić tabele bazy danych"
 
-#: Template/info/plugin-problems.php:70
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:70
 msgid "Plugin database tables are not automatically deleted when a plugin is uninstalled"
 msgstr "Tabele bazy danych wtyczek nie są automatycznie usuwane po odinstalowaniu wtyczki"
 
-#: Template/info/plugin-problems.php:75
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:75
 msgid "In the Plugin Manager, all plugins are identified if they contain potential database changes. This is your indication to check for extra tables in the plugin's name. If you decide to remove the plugin which causes you issues, the default the tables in the database will remain. You will need to carefully delete them according to your setup."
 msgstr "W Menedżerze wtyczek wszystkie wtyczki są identyfikowane, jeżeli zawierają potencjalne zmiany w bazie danych. Jest to dla Państwa wskazówka, aby sprawdzić, czy w nazwie wtyczki nie ma dodatkowych tabel. Jeżeli zdecydują się Państwo na usunięcie wtyczki, która sprawia problemy, domyślne tabele w bazie danych pozostaną. Należy je ostrożnie usunąć zgodnie z Państwa ustawieniami."
 
-#: Template/info/plugin-problems.php:78
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:78
 msgid "Plugins which affect the database also register into the "
 msgstr "Wtyczki, które mają wpływ na bazę danych, rejestrują się również w "
 
-#: Template/info/plugin-problems.php:78
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:78
 msgid "table. If uninstalling a plugin, you would need to delete the associated plugin entry here too besides just the specific plugin related tables."
 msgstr "tabela. W przypadku odinstalowania wtyczki, oprócz tabel związanych z konkretną wtyczką, należy tutaj usunąć również wpis związany z wtyczką."
 
-#: Template/info/plugin-problems.php:83
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:83
 msgid "If everything fails"
 msgstr "Jeśli wszystko zawiedzie"
 
-#: Template/info/plugin-problems.php:89
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:89
 msgid "Delete the folder for the plugin. It is highly likely that the last updated folder will be the offending plugin."
 msgstr "Usunąć folder z wtyczką. Jest bardzo prawdopodobne, że ostatnio zaktualizowany folder będzie zawierał szkodliwą wtyczkę."
 
-#: Template/info/plugin-problems.php:94
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:94
 msgid "Delete the offending plugin. If you dont know which plugin is causing your issue, check the "
 msgstr "Usunąć szkodliwą wtyczkę. Jeżeli nie wiedzą Państwo, która wtyczka jest przyczyną problemu, należy sprawdzić "
 
-#: Template/info/plugin-problems.php:94
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:94
 msgid "folder. Each folder represents each plugin in the same name."
 msgstr "folder. Każdy folder reprezentuje każdy plugin o tej samej nazwie."
 
-#: Template/info/plugin-problems.php:100
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:100
 msgid "Further Reading"
 msgstr "Dalsza lektura"
 
-#: Template/info/plugin-problems.php:104
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:104
 msgid "About Application"
 msgstr "O aplikacji"
 
-#: Template/info/plugin-problems.php:108
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:108
 msgid "Kanboard Forum"
 msgstr "Forum Kanboard"
 
-#: Template/info/plugin-problems.php:113
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:113
 msgid "Contributing"
 msgstr "Wkład"
 
-#: Template/info/plugin-problems.php:118
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:118
 msgid "Developing Plugins"
 msgstr "Tworzenie wtyczek"
 
-#: Template/info/plugin-problems.php:123
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:123
 msgid "Source Code"
 msgstr "Kod źródłowy"
 
-#: Template/info/plugin-problems.php:128
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:128
 msgid "Kanboard Plugins"
 msgstr "Wtyczki Kanboard"
 
-#: Template/plugin/directory.php:7
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:7
 msgid "Your application instance is not configured to install plugins from the user interface."
 msgstr "Państwa instancja aplikacji nie jest skonfigurowana do instalowania wtyczek z poziomu interfejsu użytkownika."
 
-#: Template/plugin/directory.php:11
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:11
 msgid "There is no plugin available."
 msgstr "Nie jest dostępna żadna wtyczka."
 
-#: Template/plugin/directory.php:19
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:19
 msgid "Available Plugins"
 msgstr "Dostępne wtyczki"
 
-#: Template/plugin/directory.php:20 Template/plugin/directory.php:236
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:20 Template/plugin/directory.php:236
 msgid "Currently Installed"
 msgstr "Obecnie zainstalowany"
 
-#: Template/plugin/directory.php:22
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:22
 msgid "Available Updates"
-msgstr ""
+msgstr "Dostępne aktualizacje"
 
-#: Template/plugin/directory.php:24
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:24
 msgid "Your Application"
-msgstr ""
+msgstr "Państwa aplikacja"
 
-#: Template/plugin/directory.php:25
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:25
 msgid "Directory Source"
 msgstr "Źródło katalogu"
 
-#: Template/plugin/directory.php:38 Template/plugin/directory.php:185 Template/plugin/directory.php:190
-#: Template/plugin/manual-plugins.php:97 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
-#: Template/plugin/show.php:72 Template/plugin/show.php:175 Template/plugin/show.php:185
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:38 Template/plugin/directory.php:185 Template/plugin/directory.php:190
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:97 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:72 Template/plugin/show.php:175 Template/plugin/show.php:185
 msgid "Opens in a new window"
 msgstr "Otwiera się w nowym oknie"
 
-#: Template/plugin/directory.php:39
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:39
 msgid "Official Plugin Directory"
 msgstr "Oficjalny katalog wtyczek"
 
-#: Template/plugin/directory.php:42
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:42
 msgid "Custom Directory"
 msgstr "Własny katalog"
 
-#: Template/plugin/directory.php:55
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:55
 msgid "Search for plugin..."
 msgstr "Szukajcie wtyczki..."
 
-#: Template/plugin/directory.php:55
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:55
 msgid "Search available plugins"
 msgstr "Wyszukiwanie dostępnych wtyczek"
 
-#: Template/plugin/directory.php:60 Template/plugin/directory.php:65 Template/plugin/directory.php:70
-#: Template/plugin/directory.php:75 Template/plugin/directory.php:80 Template/plugin/directory.php:87
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:60 Template/plugin/directory.php:65 Template/plugin/directory.php:70
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:75 Template/plugin/directory.php:80 Template/plugin/directory.php:87
 msgid "Filter by type"
-msgstr ""
+msgstr "Proszę filtrować według typu"
 
-#: Template/plugin/directory.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:62
 msgid "General"
 msgstr "Ogólne"
 
-#: Template/plugin/directory.php:67
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:67
 msgid "Automatic Actions"
 msgstr "Działania automatyczne"
 
-#: Template/plugin/directory.php:67 Template/plugin/show.php:32 Template/plugin/show.php:143
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:67 Template/plugin/show.php:32 Template/plugin/show.php:143
 msgid "Actions"
 msgstr "Działania"
 
-#: Template/plugin/directory.php:72
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:72
 msgid "Themes"
 msgstr "Tematy"
 
-#: Template/plugin/directory.php:77
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:77
 msgid "Connectors"
 msgstr "Złącza"
 
-#: Template/plugin/directory.php:82
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:82
 msgid "Multi"
 msgstr "Multi"
 
-#: Template/plugin/directory.php:89
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:89
 msgid "Others"
 msgstr "Inne"
 
-#: Template/plugin/directory.php:103 Template/plugin/manual-plugins.php:18
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:103 Template/plugin/manual-plugins.php:18
 msgid "Directory Last Updated"
 msgstr "Katalog Ostatnio aktualizowany"
 
-#: Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:20 Template/plugin/show.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:20 Template/plugin/show.php:133
 msgid "Go to the bottom of the page"
 msgstr "Przejść na dół strony"
 
-#: Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:21 Template/plugin/show.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:21 Template/plugin/show.php:133
 msgid "Bottom"
 msgstr "Dół"
 
-#: Template/plugin/directory.php:126 Template/plugin/manual-plugins.php:48
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:126 Template/plugin/manual-plugins.php:48
 msgid "Plugin Author(s)"
 msgstr "Autor(ka) wtyczki"
 
-#: Template/plugin/directory.php:127
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:127
 msgid "License"
 msgstr "Licencja"
 
-#: Template/plugin/directory.php:145 Template/plugin/manual-plugins.php:67
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:145 Template/plugin/manual-plugins.php:67
 msgid "Status"
 msgstr "Status"
 
-#: Template/plugin/directory.php:152 Template/plugin/directory.php:160 Template/plugin/manual-plugins.php:73
-#: Template/plugin/show.php:29 Template/plugin/show.php:140
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:152 Template/plugin/directory.php:160 Template/plugin/manual-plugins.php:73
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:29 Template/plugin/show.php:140
 msgid "Plugin Version"
 msgstr "Wersja wtyczki"
 
-#: Template/plugin/directory.php:156
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:156
 msgid "Updated plugin version available"
 msgstr "Dostępna jest zaktualizowana wersja wtyczki"
 
-#: Template/plugin/directory.php:178 Template/plugin/manual-plugins.php:90
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:178 Template/plugin/manual-plugins.php:90
 msgid "Unable to detect the last time this plugin was updated or a version was released"
 msgstr "Nie można wykryć, kiedy ostatnio ta wtyczka została zaktualizowana lub wydano jej wersję"
 
-#: Template/plugin/directory.php:179 Template/plugin/manual-plugins.php:91 Template/plugin/show.php:159
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:179 Template/plugin/manual-plugins.php:91 Template/plugin/show.php:159
 msgid "Not Specified"
 msgstr "Nie określono"
 
-#: Template/plugin/directory.php:185 Template/plugin/manual-plugins.php:97
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:185 Template/plugin/manual-plugins.php:97
 msgid "View Readme"
 msgstr "Wyświetl Readme"
 
-#: Template/plugin/directory.php:190 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
-#: Template/plugin/show.php:175
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:190 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:175
 msgid "Plugin Homepage"
 msgstr "Strona główna wtyczki"
 
-#: Template/plugin/directory.php:200 Template/plugin/manual-plugins.php:112
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:200 Template/plugin/manual-plugins.php:112
 msgid "This plugin contains no database changes"
 msgstr "Ten plugin nie zawiera żadnych zmian w bazie danych"
 
-#: Template/plugin/directory.php:204 Template/plugin/manual-plugins.php:116
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:204 Template/plugin/manual-plugins.php:116
 msgid "This plugin has not specified any database changes"
 msgstr "Ten plugin nie określił żadnych zmian w bazie danych"
 
-#: Template/plugin/directory.php:209 Template/plugin/manual-plugins.php:121
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:209 Template/plugin/manual-plugins.php:121
 msgid "This plugin overrides certain templates or models"
 msgstr "Ten plugin zastępuje niektóre szablony lub modele"
 
-#: Template/plugin/directory.php:212 Template/plugin/manual-plugins.php:124
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:212 Template/plugin/manual-plugins.php:124
 msgid "This plugin does not override any templates or models"
 msgstr "Ten plugin nie zastępuje żadnych szablonów ani modeli"
 
-#: Template/plugin/directory.php:216 Template/plugin/manual-plugins.php:128
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:216 Template/plugin/manual-plugins.php:128
 msgid "This plugin has not specified any template or model overrides"
 msgstr "W tej wtyczce nie określono żadnych nadpisów szablonów ani modeli"
 
-#: Template/plugin/directory.php:221 Template/plugin/manual-plugins.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:221 Template/plugin/manual-plugins.php:133
 msgid "This plugin contains hooks"
 msgstr "Ten plugin zawiera haki"
 
-#: Template/plugin/directory.php:224 Template/plugin/manual-plugins.php:136
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:224 Template/plugin/manual-plugins.php:136
 msgid "This plugin does not contain any hooks"
 msgstr "Ta wtyczka nie zawiera żadnych haków"
 
-#: Template/plugin/directory.php:228 Template/plugin/manual-plugins.php:140
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:228 Template/plugin/manual-plugins.php:140
 msgid "This plugin has not specified any hooks"
 msgstr "Ten plugin nie ma określonych żadnych haków"
 
-#: Template/plugin/directory.php:234 Template/plugin/installer.php:15
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:234 Template/plugin/installer.php:15
 msgid "Install"
 msgstr "Zainstaluj"
 
-#: Template/plugin/directory.php:234
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:234
 msgid "Install this plugin"
 msgstr "Zainstaluj ten plugin"
 
-#: Template/plugin/directory.php:239 Template/plugin/show.php:127 Template/plugin/show.php:193
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:239 Template/plugin/show.php:127 Template/plugin/show.php:193
 msgid "Update"
 msgstr "Aktualizacja"
 
-#: Template/plugin/directory.php:239 Template/plugin/show.php:193
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:239 Template/plugin/show.php:193
 msgid "Update this plugin"
 msgstr "Zaktualizuj ten plugin"
 
-#: Template/plugin/directory.php:241
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:241
 msgid "Up to date"
 msgstr "Do chwili obecnej"
 
-#: Template/plugin/directory.php:242
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:242
 msgid "View in Plugin Manager"
 msgstr "Zobacz w Menedżerze wtyczek"
 
-#: Template/plugin/directory.php:245 Template/plugin/manual-plugins.php:152
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:245 Template/plugin/manual-plugins.php:152
 msgid "Not available"
 msgstr "Niedostępne"
 
-#: Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:179 Template/plugin/show.php:217
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:179 Template/plugin/show.php:217
 msgid "Go to the top of the page"
 msgstr "Przejść na górę strony"
 
-#: Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:180 Template/plugin/show.php:217
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:180 Template/plugin/show.php:217
 msgid "Top"
 msgstr "Top"
 
-#: Template/plugin/installer.php:2
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:2
 msgid "Install Manual Plugin"
 msgstr "Zainstaluj ręczną wtyczkę"
 
-#: Template/plugin/installer.php:5
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:5
 msgid "Choose to install from a local archive (.zip) file or a remote location"
 msgstr "Wybór instalacji z lokalnego archiwum (.zip) lub z lokalizacji zdalnej"
 
-#: Template/plugin/installer.php:7
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:7
 msgid "From File"
 msgstr "Z pliku"
 
-#: Template/plugin/installer.php:11
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:11
 msgid "From URL"
 msgstr "Od URL"
 
-#: Template/plugin/manual-plugins.php:12
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:12
 msgid "Warning"
 msgstr "Ostrzeżenie"
 
-#: Template/plugin/manual-plugins.php:13
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:13
 msgid "Use these plugins with great caution and check their functionality with the plugin developer before installing"
 msgstr "Z tych wtyczek należy korzystać z dużą ostrożnością i przed instalacją sprawdzić ich funkcjonalność u twórcy wtyczki"
 
-#: Template/plugin/manual-plugins.php:145
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:145
 msgid "Download Plugin"
 msgstr "Pobierz wtyczkę"
 
-#: Template/plugin/manual-plugins.php:146
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:146
 msgid "Download"
 msgstr "Pobierz"
 
-#: Template/plugin/manual-plugins.php:148
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:148
 msgid "Copy download link"
 msgstr "Skopiuj link do pobrania"
 
-#: Template/plugin/manual-plugins.php:165
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:165
 msgid "This plugin is for developers"
 msgstr "Ten plugin jest dla programistów"
 
-#: Template/plugin/manual-plugins.php:167
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:167
 msgid "This plugin is for translators and developers"
 msgstr "Ta wtyczka jest przeznaczona dla tłumaczy i programistów"
 
-#: Template/plugin/manual-plugins.php:173
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:173
 msgid "This plugin may not be completely functional. Always check the homepage for recent developments as the download link may not show the latest version."
 msgstr "Ta wtyczka może nie być w pełni funkcjonalna. Należy zawsze sprawdzać stronę główną pod kątem ostatnich zmian, ponieważ link do pobrania może nie pokazywać najnowszej wersji."
 
-#: Template/plugin/manual-plugins.php:183
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:183
 msgid "There are no manual plugins listed at the moment"
 msgstr "W tej chwili nie ma żadnych ręcznych wtyczek na liście."
 
-#: Template/plugin/show.php:17
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:17
 msgid "Incompatible Plugins"
 msgstr "Niekompatybilne wtyczki"
 
-#: Template/plugin/show.php:22
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:22
 msgid "Plugins listed as incompatible are based on the application version limit set by the plugin developer. You are using"
 msgstr "Wtyczki wymienione jako niekompatybilne opierają się na limicie wersji aplikacji ustalonym przez twórcę wtyczki. Używają Państwo"
 
-#: Template/plugin/show.php:27 Template/plugin/show.php:138
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:27 Template/plugin/show.php:138
 msgid "Name"
 msgstr "Nazwa"
 
-#: Template/plugin/show.php:28 Template/plugin/show.php:139
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:28 Template/plugin/show.php:139
 msgid "Author"
 msgstr "Autor"
 
-#: Template/plugin/show.php:30 Template/plugin/show.php:141
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:30 Template/plugin/show.php:141
 msgid "Kanboard Compatibility"
 msgstr "Kompatybilność z Kanboardem"
 
-#: Template/plugin/show.php:72 Template/plugin/show.php:185
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:72 Template/plugin/show.php:185
 msgid "Plugin Readme"
 msgstr "Readme wtyczki"
 
-#: Template/plugin/show.php:79 Template/plugin/show.php:201
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:79 Template/plugin/show.php:201
 msgid "Uninstall"
 msgstr "Odinstaluj"
 
-#: Template/plugin/show.php:89 Template/plugin/show.php:210
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:89 Template/plugin/show.php:210
 msgid "Installed"
 msgstr "Zainstalowane"
 
-#: Template/plugin/show.php:100
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:100
 msgid "There is no plugin loaded."
 msgstr "Nie jest załadowany żaden plugin."
 
 #. phpcs:disable Squiz.ControlStructures.ControlSignature.NewlineAfterOpenBrace,Squiz.WhiteSpace.ScopeClosingBrace.ContentBefore
-#: Template/plugin/show.php:106
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:106
 msgid "Copy plugin list"
 msgstr "Skopiuj listę wtyczek"
 
-#: Template/plugin/show.php:106
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:106
 msgid "by"
 msgstr "przez"
 
-#: Template/plugin/show.php:108
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:108
 msgid "Copy to Clipboard"
 msgstr "Kopiuj do schowka"
 
 #. phpcs:enable
-#: Template/plugin/show.php:118
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:118
 msgid "Search for installed plugin..."
 msgstr "Wyszukaj zainstalowany plugin..."
 
-#: Template/plugin/show.php:118
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:118
 msgid "Search installed plugins"
 msgstr "Wyszukaj zainstalowane wtyczki"
 
-#: Template/plugin/show.php:126
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:126
 #, php-format
 msgid "You have %s plugins installed"
 msgstr "Mają Państwo zainstalowane wtyczki %s"
 
-#: Template/plugin/show.php:127
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:127
 msgid "Click this link then focus in the search box to filter plugins"
-msgstr ""
+msgstr "Proszę kliknąć na ten link, a następnie na pole wyszukiwania, aby przefiltrować wtyczki."
 
-#: Template/plugin/show.php:128
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:128
 #, php-format
 msgid "with %s updates available"
-msgstr ""
+msgstr "z dostępnymi aktualizacjami %s"
 
-#: Template/plugin/show.php:130
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:130
 #, php-format
 msgid "and %s incompatible plugin(s)"
 msgstr "oraz %s niekompatybilne wtyczki"
 
-#: Template/plugin/show.php:195
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:195
 msgid "Refresh this page after updating this plugin"
-msgstr ""
+msgstr "Proszę odświeżyć tę stronę po aktualizacji wtyczki"
 
-#: Template/plugin/sidebar.php:28
+#: kanboard-ng/PluginMananger/Template/plugin/sidebar.php:28
 msgid "Technical Info"
 msgstr "Informacje techniczne"
 
-#: Template/plugin/sidebar.php:33
+#: kanboard-ng/PluginMananger/Template/plugin/sidebar.php:33
 msgid "Content Cleaner"
 msgstr "Content Cleaner"
 

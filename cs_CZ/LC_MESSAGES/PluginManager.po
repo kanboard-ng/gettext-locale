@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: kanboard-ng\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-28 23:23+0200\n"
-"PO-Revision-Date: 2023-05-28 21:24\n"
+"PO-Revision-Date: 2023-05-28 22:01\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -27,761 +27,761 @@ msgstr ""
 "Language: cs_CZ\n"
 
 #. phpcs:enable
-#: Controller/PluginManagerController.php:30 Controller/PluginManagerController.php:43 Controller/PluginManagerController.php:57
-#: Template/config/sidebar.php:2 Template/plugin/show.php:11 Template/plugin/sidebar.php:9
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:30 Controller/PluginManagerController.php:43 Controller/PluginManagerController.php:57
+#: kanboard-ng/PluginMananger/Template/config/sidebar.php:2 Template/plugin/show.php:11 Template/plugin/sidebar.php:9
 msgid "Plugin Manager"
 msgstr "Správce zásuvných modulů"
 
-#: Controller/PluginManagerController.php:30 Template/info/plugin-problems.php:3 Template/plugin/sidebar.php:24
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:30 Template/info/plugin-problems.php:3 Template/plugin/sidebar.php:24
 msgid "Plugin Problems"
 msgstr "Problémy se zásuvnými moduly"
 
-#: Controller/PluginManagerController.php:43 Template/plugin/sidebar.php:21
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:43 Template/plugin/sidebar.php:21
 msgid "Plugin Info"
 msgstr "Informace o zásuvném modulu"
 
-#: Controller/PluginManagerController.php:57 Template/plugin/manual-plugins.php:3 Template/plugin/sidebar.php:17
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:57 Template/plugin/manual-plugins.php:3 Template/plugin/sidebar.php:17
 msgid "Manual Plugins"
 msgstr "Ruční zásuvné moduly"
 
-#: Controller/PluginManagerController.php:119
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:119
 msgid "Unable to open the plugin archive"
-msgstr ""
+msgstr "Nelze otevřít archiv zásuvného modulu"
 
-#: Controller/PluginManagerController.php:127
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:127
 #, php-format
 msgid "The directory name (%s) does not match with the namespace (%s)"
-msgstr ""
+msgstr "Název adresáře (%s) se neshoduje s oborem názvů (%s)."
 
-#: Controller/PluginManagerController.php:133
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:133
 #, php-format
 msgid "The plugin name (%s) does not match with the namespace (%s)"
-msgstr ""
+msgstr "Název zásuvného modulu (%s) se neshoduje s oborem názvů (%s)."
 
-#: Controller/PluginManagerController.php:138
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:138
 msgid "Unable to extract the plugin archive"
-msgstr ""
+msgstr "Nelze rozbalit archiv zásuvného modulu"
 
-#: Controller/PluginManagerController.php:144
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:144
 msgid "Plugin installed successfully"
 msgstr "Plugin byl úspěšně nainstalován"
 
-#: Controller/PluginManagerController.php:152
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:152
 msgid "Plugin archive file not found"
 msgstr "Soubor archivu zásuvného modulu nebyl nalezen"
 
-#: Controller/PluginManagerController.php:199
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:199
 msgid "Plugin directory name was not found"
-msgstr ""
+msgstr "Název adresáře pluginu nebyl nalezen"
 
-#: Controller/PluginManagerController.php:217
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:217
 msgid "File 'Plugin.php' could not get extracted"
-msgstr ""
+msgstr "Soubor 'Plugin.php' se nepodařilo extrahovat"
 
-#: Controller/PluginManagerController.php:256
+#: kanboard-ng/PluginMananger/Controller/PluginManagerController.php:256
 msgid "The plugin name was not found"
-msgstr ""
+msgstr "Název zásuvného modulu nebyl nalezen"
 
-#: Helper/AgeHelper.php:37
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:37
 msgid "less than a minute ago"
 msgstr "před méně než minutou"
 
 #. <1h
-#: Helper/AgeHelper.php:40
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:40
 #, php-format
 msgid "around %d minutes ago"
 msgstr "asi před %d minutami"
 
 #. <24h
-#: Helper/AgeHelper.php:43
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:43
 #, php-format
 msgid "around %d hours ago"
 msgstr "před asi %d hodinami"
 
 #. <7D
-#: Helper/AgeHelper.php:46
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:46
 #, php-format
 msgid "around %d days ago"
 msgstr "přibližně před %d dny"
 
 #. <30D
-#: Helper/AgeHelper.php:49
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:49
 #, php-format
 msgid "around %d weeks ago"
 msgstr "asi před %d týdny"
 
 #. <360D
-#: Helper/AgeHelper.php:52
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:52
 #, php-format
 msgid "around %d months ago"
 msgstr "před %d měsíci"
 
 #. <360D*2
-#: Helper/AgeHelper.php:55
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:55
 msgid "over a year ago"
 msgstr "před více než rokem"
 
-#: Helper/AgeHelper.php:57
+#: kanboard-ng/PluginMananger/Helper/AgeHelper.php:57
 #, php-format
 msgid "over %d years ago"
 msgstr "před více než %d lety"
 
-#: Helper/PluginManagerHelper.php:86
+#: kanboard-ng/PluginMananger/Helper/PluginManagerHelper.php:86
 msgid "Not Available"
 msgstr "Není k dispozici"
 
-#: Plugin.php:64
+#: kanboard-ng/PluginMananger/Plugin.php:64
 msgid "Replace the Installed Plugins section with a whole new interface. Plugin Manager provides both users and developers with an improved comprehensive layout displaying a new section for troubleshooting plugins with a new plugin structure breakdown for each plugin. Install plugins direct from the Plugin Directory or explore new upcoming or untested features from manual plugins."
 msgstr "Nahrazení sekce Nainstalované zásuvné moduly zcela novým rozhraním. Správce zásuvných modulů poskytuje uživatelům i vývojářům vylepšené komplexní rozvržení zobrazující novou sekci pro řešení problémů se zásuvnými moduly s novým členěním struktury zásuvných modulů pro každý zásuvný modul. Instalujte zásuvné moduly přímo z Adresáře zásuvných modulů nebo prozkoumejte nové připravované či neotestované funkce z ručně vytvořených zásuvných modulů."
 
-#: Template/info/db-info.php:3 Template/plugin/directory.php:197 Template/plugin/manual-plugins.php:109
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:3 Template/plugin/directory.php:197 Template/plugin/manual-plugins.php:109
 msgid "This plugin contains database changes"
 msgstr "Tento zásuvný modul obsahuje změny v databázi"
 
-#: Template/info/db-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7
 msgid "This plugin makes changes to your database, usually by adding more tables. Read more about the possible effects of this plugin."
 msgstr "Tento zásuvný modul provádí změny v databázi, obvykle přidává další tabulky. Přečtěte si více o možných účincích tohoto zásuvného modulu."
 
-#: Template/info/db-info.php:7 Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7 Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
 msgid "Learn more"
 msgstr "Zjistěte více"
 
-#: Template/info/db-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/db-info.php:7
 msgid "Go to Plugin Problems"
 msgstr "Přejít na Problémy se zásuvnými moduly"
 
-#: Template/info/info-last-updated.php:4 Template/plugin/directory.php:129 Template/plugin/manual-plugins.php:51
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:4 Template/plugin/directory.php:129 Template/plugin/manual-plugins.php:51
 msgid "Last Updated"
 msgstr "Poslední aktualizace"
 
-#: Template/info/info-last-updated.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:7
 msgid "The last updated date helps you decide whether a plugin is actively developed and is appropriate for your use case."
 msgstr "Datum poslední aktualizace vám pomůže rozhodnout, zda je zásuvný modul aktivně vyvíjen a zda je vhodný pro váš případ použití."
 
-#: Template/info/info-last-updated.php:8
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:8
 msgid "Plugin Manager will highlight the last updated date based on the date specified by the plugin developer in the Plugins Directory."
 msgstr "Správce zásuvných modulů zvýrazní datum poslední aktualizace podle data zadaného vývojářem zásuvného modulu v adresáři zásuvných modulů."
 
-#: Template/info/info-last-updated.php:11
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:11
 msgid "Active"
 msgstr "Aktivní"
 
-#: Template/info/info-last-updated.php:12
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:12
 msgid "Up to 1 year"
 msgstr "Až 1 rok"
 
-#: Template/info/info-last-updated.php:15
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:15
 msgid "Stale"
 msgstr "Stale"
 
-#: Template/info/info-last-updated.php:16
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:16
 msgid "1 - 2 years"
 msgstr "1 - 2 roky"
 
-#: Template/info/info-last-updated.php:19
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:19
 msgid "Archived"
 msgstr "Archivováno"
 
-#: Template/info/info-last-updated.php:20
+#: kanboard-ng/PluginMananger/Template/info/info-last-updated.php:20
 msgid "Over 2 years"
 msgstr "Více než 2 roky"
 
-#: Template/info/info-structure.php:3 Template/info/plugin-info.php:86 Template/plugin/directory.php:137
-#: Template/plugin/manual-plugins.php:59
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:3 Template/info/plugin-info.php:86 Template/plugin/directory.php:137
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:59
 msgid "Plugin Structure"
 msgstr "Struktura zásuvného modulu"
 
-#: Template/info/info-structure.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:7
 msgid "The building blocks of a plugin help define it to complete a structure which works with your application."
 msgstr "Stavební bloky zásuvného modulu pomáhají definovat jeho strukturu, která funguje s vaší aplikací."
 
-#: Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-structure.php:7 Template/info/info-tooltip.php:7
 msgid "Go to Plugin Information"
 msgstr "Přejít na Informace o zásuvném modulu"
 
-#: Template/info/info-tooltip.php:3
+#: kanboard-ng/PluginMananger/Template/info/info-tooltip.php:3
 msgid "Plugin Types"
 msgstr "Typy zásuvných modulů"
 
-#: Template/info/info-tooltip.php:7
+#: kanboard-ng/PluginMananger/Template/info/info-tooltip.php:7
 msgid "Plugins fall into one of 5 types of categories"
 msgstr "Zásuvné moduly se dělí na 5 typů kategorií."
 
-#: Template/info/plugin-info.php:3
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:3
 msgid "Plugin Information"
 msgstr "Informace o zásuvném modulu"
 
-#: Template/info/plugin-info.php:7
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:7
 msgid "Types of Plugins"
 msgstr "Typy zásuvných modulů"
 
-#: Template/info/plugin-info.php:9
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:9
 msgid "All plugins do the same basic job of extending the features of the application. Different functions require different ways of coding which is why all plugins fall into one of the types below."
 msgstr "Všechny zásuvné moduly mají stejný základní úkol - rozšiřují funkce aplikace. Různé funkce vyžadují různé způsoby kódování, a proto všechny zásuvné moduly spadají do jednoho z níže uvedených typů."
 
-#: Template/info/plugin-info.php:18
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:18
 msgid "A plugin of any type but with no automatic actions"
 msgstr "Zásuvný modul libovolného typu, ale bez automatických akcí"
 
-#: Template/info/plugin-info.php:21
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:21
 msgid "General Plugin"
 msgstr "Obecný plugin"
 
-#: Template/info/plugin-info.php:29
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:29
 msgid "A plugin for automatic actions only"
 msgstr "Zásuvný modul pouze pro automatické akce"
 
-#: Template/info/plugin-info.php:32
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:32
 msgid "Action Plugin"
 msgstr "Zásuvný modul Action Plugin"
 
-#: Template/info/plugin-info.php:40
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:40
 msgid "A plugin for theming and styling of the interface"
 msgstr "Zásuvný modul pro tematizaci a stylování rozhraní"
 
-#: Template/info/plugin-info.php:43
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:43
 msgid "Theme Plugin"
 msgstr "Zásuvný modul tématu"
 
-#: Template/info/plugin-info.php:51
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:51
 msgid "A plugin connecting to third party services - may contain automatic actions"
 msgstr "Zásuvný modul připojující se ke službám třetích stran - může obsahovat automatické akce."
 
-#: Template/info/plugin-info.php:54
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:54
 msgid "Connector Plugin"
 msgstr "Zásuvný modul konektoru"
 
-#: Template/info/plugin-info.php:62
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:62
 msgid "A plugin containing multiple functions and automatic actions or connectors"
 msgstr "Zásuvný modul obsahující více funkcí a automatických akcí nebo konektorů."
 
-#: Template/info/plugin-info.php:65
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:65
 msgid "Multi Plugin"
 msgstr "Multi Plugin"
 
-#: Template/info/plugin-info.php:76
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:76
 msgid "A plugin which has not been set a plugin type by the developer"
 msgstr "Zásuvný modul, kterému vývojář nenastavil typ zásuvného modulu."
 
-#: Template/info/plugin-info.php:79
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:79
 msgid "Other Plugin"
 msgstr "Další zásuvný modul"
 
-#: Template/info/plugin-info.php:84
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:84
 msgid "Plugin types are only shown in the"
 msgstr "Typy zásuvných modulů se zobrazují pouze v"
 
-#: Template/info/plugin-info.php:84 Template/plugin/directory.php:3 Template/plugin/sidebar.php:13
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:84 Template/plugin/directory.php:3 Template/plugin/sidebar.php:13
 msgid "Plugin Directory"
 msgstr "Adresář zásuvných modulů"
 
-#: Template/info/plugin-info.php:88
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:88
 msgid "The official Plugins Directory has been updated to include extra information for each plugin. This information is set by the developer to indicate the code breakdown of the plugin."
 msgstr "Oficiální adresář zásuvných modulů byl aktualizován a obsahuje další informace o každém zásuvném modulu. Tyto informace jsou nastaveny vývojářem a uvádějí rozdělení kódu zásuvného modulu."
 
-#: Template/info/plugin-info.php:91
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:91
 msgid "Documentation"
 msgstr "Dokumentace"
 
-#: Template/info/plugin-info.php:97
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:97
 msgid "All plugins should have a readme file in the root of their plugin folder. This icons should show against all plugins."
 msgstr "Všechny zásuvné moduly by měly mít soubor readme v kořenovém adresáři svého zásuvného modulu. Tyto ikony by se měly zobrazovat u všech zásuvných modulů."
 
-#: Template/info/plugin-info.php:105
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:105
 msgid "When links go wrong you should always be able to fallback to the plugin or developer homepage. This icon will show against all plugins which have a homepage set by the developer."
 msgstr "Když se odkazy pokazí, měli byste mít vždy možnost vrátit se na domovskou stránku zásuvného modulu nebo vývojáře. Tato ikona se zobrazí u všech zásuvných modulů, které mají domovskou stránku nastavenou vývojářem."
 
-#: Template/info/plugin-info.php:110
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:110
 msgid "Database Changes"
 msgstr "Změny databáze"
 
-#: Template/info/plugin-info.php:120
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:120
 msgid "If a plugin is known to alter your database, this icon will show. Altering your database usually includes adding or modifying existing database tables."
 msgstr "Pokud je známo, že zásuvný modul mění databázi, zobrazí se tato ikona. Změna databáze obvykle zahrnuje přidání nebo úpravu stávajících databázových tabulek."
 
-#: Template/info/plugin-info.php:128
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:128
 msgid "No database changes are detected when this icon shows."
 msgstr "Při zobrazení této ikony nejsou detekovány žádné změny v databázi."
 
-#: Template/info/plugin-info.php:134
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:134
 msgid "Overrides"
 msgstr "Přepisuje"
 
-#: Template/info/plugin-info.php:144
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:144
 msgid "Overrides include template files and models. Both types of files affect how your data is presented to you. This icon will show when core templates or models are replaced with specific versions."
 msgstr "Přepsání zahrnuje soubory šablon a modely. Oba typy souborů ovlivňují způsob prezentace dat. Tato ikona se zobrazí, když jsou základní šablony nebo modely nahrazeny konkrétními verzemi."
 
-#: Template/info/plugin-info.php:152
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:152
 msgid "No overrides are detected when this icon shows."
 msgstr "Při zobrazení této ikony nejsou detekovány žádné přepisy."
 
-#: Template/info/plugin-info.php:158
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:158
 msgid "Hooks"
 msgstr "Háčky"
 
-#: Template/info/plugin-info.php:168
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:168
 msgid "Hooks are files which attach to existing templates or core functions. Hooks do not alter any core structure but add to it."
 msgstr "Háčky jsou soubory, které se připojují k existujícím šablonám nebo základním funkcím. Háčky nemění žádnou strukturu jádra, ale doplňují ji."
 
-#: Template/info/plugin-info.php:176
+#: kanboard-ng/PluginMananger/Template/info/plugin-info.php:176
 msgid "No hooks are detected when this icon shows."
 msgstr "Při zobrazení této ikony nejsou detekovány žádné háčky."
 
-#: Template/info/plugin-problems.php:8
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:8
 msgid "Plugins are extensions to your application. They do not take over your application, they just alter the application's performance or output. Use this page as a quick reference to problems which may be caused by a recent plugin installation."
 msgstr "Zásuvné moduly jsou rozšíření aplikace. Nepřebírají vaši aplikaci, pouze mění její výkon nebo výstup. Tuto stránku použijte jako rychlý odkaz na problémy, které mohou být způsobeny nedávnou instalací zásuvného modulu."
 
-#: Template/info/plugin-problems.php:12
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:12
 msgid "Check the overrides"
 msgstr "Zkontrolujte předvolby"
 
-#: Template/info/plugin-problems.php:17
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:17
 msgid "Look for templates"
 msgstr "Vyhledejte šablony"
 
-#: Template/info/plugin-problems.php:20
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:20
 msgid "Look for models in "
 msgstr "Hledejte modely v "
 
-#: Template/info/plugin-problems.php:25
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:25
 msgid "Overriding templates and models are the most common way to affect the way your application functions. It can be possible that a particular template could be conflicting with another plugin overriding the same template. It is also possible that a certain model is being used by another plugin. For any plugin that is not working or causing issues, this is the area to look into first."
 msgstr "Přepisování šablon a modelů je nejčastějším způsobem, jak ovlivnit fungování aplikace. Může se stát, že určitá šablona může být v konfliktu s jiným zásuvným modulem, který přepisuje stejnou šablonu. Je také možné, že určitý model používá jiný zásuvný modul. U každého zásuvného modulu, který nefunguje nebo způsobuje problémy, je třeba se nejprve podívat do této oblasti."
 
-#: Template/info/plugin-problems.php:30
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:30
 msgid "Check the application setup"
 msgstr "Zkontrolujte nastavení aplikace"
 
-#: Template/info/plugin-problems.php:37 Template/info/plugin-problems.php:39
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:37 Template/info/plugin-problems.php:39
 msgid "Check your folder permissions"
 msgstr "Zkontrolujte oprávnění složek"
 
-#: Template/info/plugin-problems.php:43
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:43
 msgid "Check server logs"
 msgstr "Zkontrolujte protokoly serveru"
 
-#: Template/info/plugin-problems.php:46
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:46
 msgid "Check the browser console for any blocked files"
 msgstr "Zkontrolujte, zda v konzole prohlížeče nejsou zablokované soubory."
 
-#: Template/info/plugin-problems.php:52
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:52
 msgid "All information related to your setup can be easily found in"
-msgstr ""
+msgstr "Veškeré informace týkající se vašeho nastavení lze snadno nalézt v."
 
-#: Template/info/plugin-problems.php:53
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:53
 msgid "Technical Information"
 msgstr "Technické informace"
 
-#: Template/info/plugin-problems.php:59
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:59
 msgid "Check the database"
 msgstr "Zkontrolujte databázi"
 
-#: Template/info/plugin-problems.php:64
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:64
 msgid "Check that your database contains data"
 msgstr "Zkontrolujte, zda vaše databáze obsahuje data"
 
-#: Template/info/plugin-problems.php:67
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:67
 msgid "Check the database tables"
 msgstr "Kontrola databázových tabulek"
 
-#: Template/info/plugin-problems.php:70
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:70
 msgid "Plugin database tables are not automatically deleted when a plugin is uninstalled"
 msgstr "Tabulky databáze zásuvných modulů se při odinstalování zásuvného modulu automaticky neodstraní."
 
-#: Template/info/plugin-problems.php:75
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:75
 msgid "In the Plugin Manager, all plugins are identified if they contain potential database changes. This is your indication to check for extra tables in the plugin's name. If you decide to remove the plugin which causes you issues, the default the tables in the database will remain. You will need to carefully delete them according to your setup."
 msgstr "Ve Správci zásuvných modulů jsou všechny zásuvné moduly identifikovány, pokud obsahují potenciální změny databáze. To je vaše indikace ke kontrole, zda se v názvu zásuvného modulu nenachází další tabulky. Pokud se rozhodnete odstranit zásuvný modul, který vám způsobuje problémy, výchozí tabulky v databázi zůstanou zachovány. Budete je muset pečlivě odstranit podle svého nastavení."
 
-#: Template/info/plugin-problems.php:78
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:78
 msgid "Plugins which affect the database also register into the "
 msgstr "Zásuvné moduly, které mají vliv na databázi, se také registrují do adresáře "
 
-#: Template/info/plugin-problems.php:78
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:78
 msgid "table. If uninstalling a plugin, you would need to delete the associated plugin entry here too besides just the specific plugin related tables."
 msgstr "tabulka. Pokud odinstalujete zásuvný modul, budete muset kromě konkrétních tabulek souvisejících se zásuvnými moduly smazat také související položku zásuvného modulu."
 
-#: Template/info/plugin-problems.php:83
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:83
 msgid "If everything fails"
 msgstr "Pokud vše selže"
 
-#: Template/info/plugin-problems.php:89
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:89
 msgid "Delete the folder for the plugin. It is highly likely that the last updated folder will be the offending plugin."
 msgstr "Odstraňte složku zásuvného modulu. Je velmi pravděpodobné, že v poslední aktualizované složce se bude nacházet zásuvný modul, který se dopustil přestupku."
 
-#: Template/info/plugin-problems.php:94
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:94
 msgid "Delete the offending plugin. If you dont know which plugin is causing your issue, check the "
 msgstr "Odstraňte poškozující zásuvný modul. Pokud nevíte, který zásuvný modul způsobuje váš problém, zkontrolujte "
 
-#: Template/info/plugin-problems.php:94
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:94
 msgid "folder. Each folder represents each plugin in the same name."
 msgstr "složka. Každá složka představuje každý zásuvný modul se stejným názvem."
 
-#: Template/info/plugin-problems.php:100
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:100
 msgid "Further Reading"
 msgstr "Další čtení"
 
-#: Template/info/plugin-problems.php:104
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:104
 msgid "About Application"
 msgstr "O aplikaci"
 
-#: Template/info/plugin-problems.php:108
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:108
 msgid "Kanboard Forum"
 msgstr "Fórum společnosti Kanboard"
 
-#: Template/info/plugin-problems.php:113
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:113
 msgid "Contributing"
 msgstr "Příspěvek"
 
-#: Template/info/plugin-problems.php:118
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:118
 msgid "Developing Plugins"
 msgstr "Vývoj zásuvných modulů"
 
-#: Template/info/plugin-problems.php:123
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:123
 msgid "Source Code"
 msgstr "Zdrojový kód"
 
-#: Template/info/plugin-problems.php:128
+#: kanboard-ng/PluginMananger/Template/info/plugin-problems.php:128
 msgid "Kanboard Plugins"
 msgstr "Zásuvné moduly Kanboard"
 
-#: Template/plugin/directory.php:7
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:7
 msgid "Your application instance is not configured to install plugins from the user interface."
 msgstr "Instance aplikace není nakonfigurována tak, aby bylo možné instalovat zásuvné moduly z uživatelského rozhraní."
 
-#: Template/plugin/directory.php:11
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:11
 msgid "There is no plugin available."
 msgstr "Není k dispozici žádný zásuvný modul."
 
-#: Template/plugin/directory.php:19
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:19
 msgid "Available Plugins"
 msgstr "Dostupné zásuvné moduly"
 
-#: Template/plugin/directory.php:20 Template/plugin/directory.php:236
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:20 Template/plugin/directory.php:236
 msgid "Currently Installed"
 msgstr "Aktuálně nainstalované"
 
-#: Template/plugin/directory.php:22
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:22
 msgid "Available Updates"
-msgstr ""
+msgstr "Dostupné aktualizace"
 
-#: Template/plugin/directory.php:24
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:24
 msgid "Your Application"
-msgstr ""
+msgstr "Vaše žádost"
 
-#: Template/plugin/directory.php:25
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:25
 msgid "Directory Source"
 msgstr "Zdroj adresáře"
 
-#: Template/plugin/directory.php:38 Template/plugin/directory.php:185 Template/plugin/directory.php:190
-#: Template/plugin/manual-plugins.php:97 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
-#: Template/plugin/show.php:72 Template/plugin/show.php:175 Template/plugin/show.php:185
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:38 Template/plugin/directory.php:185 Template/plugin/directory.php:190
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:97 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:72 Template/plugin/show.php:175 Template/plugin/show.php:185
 msgid "Opens in a new window"
 msgstr "Otevře se v novém okně"
 
-#: Template/plugin/directory.php:39
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:39
 msgid "Official Plugin Directory"
 msgstr "Oficiální adresář zásuvných modulů"
 
-#: Template/plugin/directory.php:42
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:42
 msgid "Custom Directory"
 msgstr "Vlastní adresář"
 
-#: Template/plugin/directory.php:55
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:55
 msgid "Search for plugin..."
 msgstr "Vyhledávání zásuvných modulů..."
 
-#: Template/plugin/directory.php:55
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:55
 msgid "Search available plugins"
 msgstr "Vyhledávání dostupných zásuvných modulů"
 
-#: Template/plugin/directory.php:60 Template/plugin/directory.php:65 Template/plugin/directory.php:70
-#: Template/plugin/directory.php:75 Template/plugin/directory.php:80 Template/plugin/directory.php:87
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:60 Template/plugin/directory.php:65 Template/plugin/directory.php:70
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:75 Template/plugin/directory.php:80 Template/plugin/directory.php:87
 msgid "Filter by type"
-msgstr ""
+msgstr "Filtrování podle typu"
 
-#: Template/plugin/directory.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:62
 msgid "General"
 msgstr "Obecné"
 
-#: Template/plugin/directory.php:67
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:67
 msgid "Automatic Actions"
 msgstr "Automatické akce"
 
-#: Template/plugin/directory.php:67 Template/plugin/show.php:32 Template/plugin/show.php:143
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:67 Template/plugin/show.php:32 Template/plugin/show.php:143
 msgid "Actions"
 msgstr "Akce"
 
-#: Template/plugin/directory.php:72
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:72
 msgid "Themes"
 msgstr "Témata"
 
-#: Template/plugin/directory.php:77
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:77
 msgid "Connectors"
 msgstr "Konektory"
 
-#: Template/plugin/directory.php:82
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:82
 msgid "Multi"
 msgstr "Multi"
 
-#: Template/plugin/directory.php:89
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:89
 msgid "Others"
 msgstr "Ostatní"
 
-#: Template/plugin/directory.php:103 Template/plugin/manual-plugins.php:18
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:103 Template/plugin/manual-plugins.php:18
 msgid "Directory Last Updated"
 msgstr "Poslední aktualizace adresáře"
 
-#: Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:20 Template/plugin/show.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:20 Template/plugin/show.php:133
 msgid "Go to the bottom of the page"
 msgstr "Přejděte na konec stránky"
 
-#: Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:21 Template/plugin/show.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:104 Template/plugin/manual-plugins.php:21 Template/plugin/show.php:133
 msgid "Bottom"
 msgstr "Spodní část"
 
-#: Template/plugin/directory.php:126 Template/plugin/manual-plugins.php:48
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:126 Template/plugin/manual-plugins.php:48
 msgid "Plugin Author(s)"
 msgstr "Autor(i) zásuvného modulu"
 
-#: Template/plugin/directory.php:127
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:127
 msgid "License"
 msgstr "Licence"
 
-#: Template/plugin/directory.php:145 Template/plugin/manual-plugins.php:67
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:145 Template/plugin/manual-plugins.php:67
 msgid "Status"
 msgstr "Stav"
 
-#: Template/plugin/directory.php:152 Template/plugin/directory.php:160 Template/plugin/manual-plugins.php:73
-#: Template/plugin/show.php:29 Template/plugin/show.php:140
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:152 Template/plugin/directory.php:160 Template/plugin/manual-plugins.php:73
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:29 Template/plugin/show.php:140
 msgid "Plugin Version"
 msgstr "Verze zásuvného modulu"
 
-#: Template/plugin/directory.php:156
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:156
 msgid "Updated plugin version available"
 msgstr "K dispozici je aktualizovaná verze zásuvného modulu"
 
-#: Template/plugin/directory.php:178 Template/plugin/manual-plugins.php:90
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:178 Template/plugin/manual-plugins.php:90
 msgid "Unable to detect the last time this plugin was updated or a version was released"
 msgstr "Nelze zjistit, kdy byl tento zásuvný modul naposledy aktualizován nebo kdy byla vydána jeho verze."
 
-#: Template/plugin/directory.php:179 Template/plugin/manual-plugins.php:91 Template/plugin/show.php:159
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:179 Template/plugin/manual-plugins.php:91 Template/plugin/show.php:159
 msgid "Not Specified"
 msgstr "Není specifikováno"
 
-#: Template/plugin/directory.php:185 Template/plugin/manual-plugins.php:97
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:185 Template/plugin/manual-plugins.php:97
 msgid "View Readme"
 msgstr "Zobrazit Readme"
 
-#: Template/plugin/directory.php:190 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
-#: Template/plugin/show.php:175
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:190 Template/plugin/manual-plugins.php:102 Template/plugin/show.php:62
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:175
 msgid "Plugin Homepage"
 msgstr "Domovská stránka pluginu"
 
-#: Template/plugin/directory.php:200 Template/plugin/manual-plugins.php:112
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:200 Template/plugin/manual-plugins.php:112
 msgid "This plugin contains no database changes"
 msgstr "Tento zásuvný modul neobsahuje žádné změny v databázi"
 
-#: Template/plugin/directory.php:204 Template/plugin/manual-plugins.php:116
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:204 Template/plugin/manual-plugins.php:116
 msgid "This plugin has not specified any database changes"
 msgstr "Tento zásuvný modul nezadal žádné změny databáze"
 
-#: Template/plugin/directory.php:209 Template/plugin/manual-plugins.php:121
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:209 Template/plugin/manual-plugins.php:121
 msgid "This plugin overrides certain templates or models"
 msgstr "Tento zásuvný modul přepisuje určité šablony nebo modely."
 
-#: Template/plugin/directory.php:212 Template/plugin/manual-plugins.php:124
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:212 Template/plugin/manual-plugins.php:124
 msgid "This plugin does not override any templates or models"
 msgstr "Tento zásuvný modul nepřepisuje žádné šablony ani modely."
 
-#: Template/plugin/directory.php:216 Template/plugin/manual-plugins.php:128
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:216 Template/plugin/manual-plugins.php:128
 msgid "This plugin has not specified any template or model overrides"
 msgstr "Tento zásuvný modul nezadal žádné přepsání šablony nebo modelu."
 
-#: Template/plugin/directory.php:221 Template/plugin/manual-plugins.php:133
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:221 Template/plugin/manual-plugins.php:133
 msgid "This plugin contains hooks"
 msgstr "Tento zásuvný modul obsahuje háčky"
 
-#: Template/plugin/directory.php:224 Template/plugin/manual-plugins.php:136
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:224 Template/plugin/manual-plugins.php:136
 msgid "This plugin does not contain any hooks"
 msgstr "Tento zásuvný modul neobsahuje žádné háčky"
 
-#: Template/plugin/directory.php:228 Template/plugin/manual-plugins.php:140
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:228 Template/plugin/manual-plugins.php:140
 msgid "This plugin has not specified any hooks"
 msgstr "Tento zásuvný modul nemá zadány žádné háčky"
 
-#: Template/plugin/directory.php:234 Template/plugin/installer.php:15
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:234 Template/plugin/installer.php:15
 msgid "Install"
 msgstr "Instalace"
 
-#: Template/plugin/directory.php:234
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:234
 msgid "Install this plugin"
 msgstr "Instalace tohoto zásuvného modulu"
 
-#: Template/plugin/directory.php:239 Template/plugin/show.php:127 Template/plugin/show.php:193
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:239 Template/plugin/show.php:127 Template/plugin/show.php:193
 msgid "Update"
 msgstr "Aktualizace"
 
-#: Template/plugin/directory.php:239 Template/plugin/show.php:193
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:239 Template/plugin/show.php:193
 msgid "Update this plugin"
 msgstr "Aktualizace tohoto zásuvného modulu"
 
-#: Template/plugin/directory.php:241
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:241
 msgid "Up to date"
 msgstr "Aktuální"
 
-#: Template/plugin/directory.php:242
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:242
 msgid "View in Plugin Manager"
 msgstr "Zobrazit ve Správci zásuvných modulů"
 
-#: Template/plugin/directory.php:245 Template/plugin/manual-plugins.php:152
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:245 Template/plugin/manual-plugins.php:152
 msgid "Not available"
 msgstr "Není k dispozici"
 
-#: Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:179 Template/plugin/show.php:217
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:179 Template/plugin/show.php:217
 msgid "Go to the top of the page"
 msgstr "Přejděte na začátek stránky"
 
-#: Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:180 Template/plugin/show.php:217
+#: kanboard-ng/PluginMananger/Template/plugin/directory.php:258 Template/plugin/manual-plugins.php:180 Template/plugin/show.php:217
 msgid "Top"
 msgstr "Nahoru"
 
-#: Template/plugin/installer.php:2
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:2
 msgid "Install Manual Plugin"
 msgstr "Instalace ručního pluginu"
 
-#: Template/plugin/installer.php:5
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:5
 msgid "Choose to install from a local archive (.zip) file or a remote location"
 msgstr "Zvolte, zda chcete instalovat z místního archivu (.zip) nebo ze vzdáleného umístění."
 
-#: Template/plugin/installer.php:7
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:7
 msgid "From File"
 msgstr "Ze souboru"
 
-#: Template/plugin/installer.php:11
+#: kanboard-ng/PluginMananger/Template/plugin/installer.php:11
 msgid "From URL"
 msgstr "Z adresy URL"
 
-#: Template/plugin/manual-plugins.php:12
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:12
 msgid "Warning"
 msgstr "Varování"
 
-#: Template/plugin/manual-plugins.php:13
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:13
 msgid "Use these plugins with great caution and check their functionality with the plugin developer before installing"
 msgstr "Tyto zásuvné moduly používejte s velkou opatrností a před instalací si ověřte jejich funkčnost u vývojáře zásuvného modulu."
 
-#: Template/plugin/manual-plugins.php:145
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:145
 msgid "Download Plugin"
 msgstr "Stažení pluginu"
 
-#: Template/plugin/manual-plugins.php:146
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:146
 msgid "Download"
 msgstr "Stáhnout"
 
-#: Template/plugin/manual-plugins.php:148
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:148
 msgid "Copy download link"
 msgstr "Kopírovat odkaz ke stažení"
 
-#: Template/plugin/manual-plugins.php:165
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:165
 msgid "This plugin is for developers"
 msgstr "Tento zásuvný modul je určen pro vývojáře"
 
-#: Template/plugin/manual-plugins.php:167
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:167
 msgid "This plugin is for translators and developers"
 msgstr "Tento plugin je určen pro překladatele a vývojáře"
 
-#: Template/plugin/manual-plugins.php:173
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:173
 msgid "This plugin may not be completely functional. Always check the homepage for recent developments as the download link may not show the latest version."
 msgstr "Tento zásuvný modul nemusí být zcela funkční. Vždy zkontrolujte, zda se na domovské stránce objevila nejnovější verze, protože odkaz ke stažení nemusí zobrazovat nejnovější verzi."
 
-#: Template/plugin/manual-plugins.php:183
+#: kanboard-ng/PluginMananger/Template/plugin/manual-plugins.php:183
 msgid "There are no manual plugins listed at the moment"
 msgstr "V současné době nejsou uvedeny žádné ruční zásuvné moduly."
 
-#: Template/plugin/show.php:17
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:17
 msgid "Incompatible Plugins"
 msgstr "Nekompatibilní zásuvné moduly"
 
-#: Template/plugin/show.php:22
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:22
 msgid "Plugins listed as incompatible are based on the application version limit set by the plugin developer. You are using"
 msgstr "Zásuvné moduly uvedené jako nekompatibilní jsou založeny na limitu verze aplikace stanoveném vývojářem zásuvného modulu. Používáte"
 
-#: Template/plugin/show.php:27 Template/plugin/show.php:138
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:27 Template/plugin/show.php:138
 msgid "Name"
 msgstr "Název"
 
-#: Template/plugin/show.php:28 Template/plugin/show.php:139
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:28 Template/plugin/show.php:139
 msgid "Author"
 msgstr "Autor"
 
-#: Template/plugin/show.php:30 Template/plugin/show.php:141
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:30 Template/plugin/show.php:141
 msgid "Kanboard Compatibility"
 msgstr "Kompatibilita s deskami Kanboard"
 
-#: Template/plugin/show.php:72 Template/plugin/show.php:185
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:72 Template/plugin/show.php:185
 msgid "Plugin Readme"
 msgstr "Readme pluginu"
 
-#: Template/plugin/show.php:79 Template/plugin/show.php:201
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:79 Template/plugin/show.php:201
 msgid "Uninstall"
 msgstr "Odinstalujte stránku"
 
-#: Template/plugin/show.php:89 Template/plugin/show.php:210
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:89 Template/plugin/show.php:210
 msgid "Installed"
 msgstr "Nainstalováno"
 
-#: Template/plugin/show.php:100
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:100
 msgid "There is no plugin loaded."
 msgstr "Není načten žádný zásuvný modul."
 
 #. phpcs:disable Squiz.ControlStructures.ControlSignature.NewlineAfterOpenBrace,Squiz.WhiteSpace.ScopeClosingBrace.ContentBefore
-#: Template/plugin/show.php:106
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:106
 msgid "Copy plugin list"
 msgstr "Kopírování seznamu zásuvných modulů"
 
-#: Template/plugin/show.php:106
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:106
 msgid "by"
 msgstr "podle"
 
-#: Template/plugin/show.php:108
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:108
 msgid "Copy to Clipboard"
 msgstr "Kopírování do schránky"
 
 #. phpcs:enable
-#: Template/plugin/show.php:118
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:118
 msgid "Search for installed plugin..."
 msgstr "Hledání nainstalovaného zásuvného modulu..."
 
-#: Template/plugin/show.php:118
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:118
 msgid "Search installed plugins"
 msgstr "Vyhledávání nainstalovaných zásuvných modulů"
 
-#: Template/plugin/show.php:126
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:126
 #, php-format
 msgid "You have %s plugins installed"
 msgstr "Máte nainstalované pluginy %s"
 
-#: Template/plugin/show.php:127
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:127
 msgid "Click this link then focus in the search box to filter plugins"
-msgstr ""
+msgstr "Klikněte na tento odkaz a poté se zaměřte na vyhledávací pole pro filtrování zásuvných modulů."
 
-#: Template/plugin/show.php:128
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:128
 #, php-format
 msgid "with %s updates available"
-msgstr ""
+msgstr "s dostupnými aktualizacemi %s"
 
-#: Template/plugin/show.php:130
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:130
 #, php-format
 msgid "and %s incompatible plugin(s)"
 msgstr "a %s nekompatibilní zásuvné moduly."
 
-#: Template/plugin/show.php:195
+#: kanboard-ng/PluginMananger/Template/plugin/show.php:195
 msgid "Refresh this page after updating this plugin"
-msgstr ""
+msgstr "Obnovení této stránky po aktualizaci tohoto zásuvného modulu"
 
-#: Template/plugin/sidebar.php:28
+#: kanboard-ng/PluginMananger/Template/plugin/sidebar.php:28
 msgid "Technical Info"
 msgstr "Technické informace"
 
-#: Template/plugin/sidebar.php:33
+#: kanboard-ng/PluginMananger/Template/plugin/sidebar.php:33
 msgid "Content Cleaner"
 msgstr "Čistič obsahu"
 
